@@ -12,6 +12,9 @@ on:
         required: false
         default: false
         type: boolean
+  workflow_run:
+    workflows: ["CALPE ONE PIPELINE"]
+    types: [completed]
 
 permissions:
   contents: write
@@ -22,10 +25,11 @@ concurrency:
 
 jobs:
   meta-delivery:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Checkout latest main
+      - name: Checkout latest committed main
         uses: actions/checkout@v4
         with:
           ref: main
@@ -37,16 +41,6 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
-      - name: Build Meta-compatible JPEG assets
-        env:
-          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
-        run: npm run meta:assets
-
-      - name: Refresh distribution payloads
-        env:
-          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
-        run: npm run distribution
 
       - name: Deliver eligible posts to Facebook and Instagram
         env:
@@ -60,15 +54,15 @@ jobs:
           META_MAX_PER_RUN: ${{ vars.META_MAX_PER_RUN || '4' }}
         run: npm run meta:deliver
 
-      - name: Commit Meta delivery state
+      - name: Commit confirmed Meta delivery state
         run: |
           git config user.name "CALPE ONE ENGINE"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/distribution.json data/distribution-last-run.json data/meta-assets.json data/meta-assets-last-run.json data/meta-delivery.json data/meta-delivery-last-run.json docs/media
+          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json
           if git diff --cached --quiet; then
             echo "No Meta delivery changes"
             exit 0
           fi
-          git commit -m "chore: update CALPE ONE Meta delivery"
+          git commit -m "chore: update CALPE ONE Meta delivery state"
           git pull --rebase origin main
           git push
