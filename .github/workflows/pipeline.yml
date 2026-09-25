@@ -65,7 +65,7 @@ jobs:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run build:web
 
-      - name: 8. META ASSETS — build social JPEG assets
+      - name: 8. META ASSETS — build committed social JPEG assets
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run meta:assets
@@ -74,17 +74,6 @@ jobs:
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run distribution
-
-      - name: 10. META DELIVERY — Facebook and Instagram when configured
-        env:
-          META_DELIVERY_ENABLED: ${{ vars.META_DELIVERY_ENABLED || 'false' }}
-          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
-          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
-          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
-          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
-          META_SEND_BACKLOG: "false"
-          META_MAX_PER_RUN: ${{ vars.META_MAX_PER_RUN || '4' }}
-        run: npm run meta:deliver
 
       - name: Commit complete pipeline output
         run: |
