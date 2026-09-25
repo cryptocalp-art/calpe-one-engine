@@ -1,9 +1,11 @@
 {
   "version": "meta-production-state-v1",
-  "production_activated_at": null,
-  "updated_at": "2026-09-26T00:00:00.000Z",
-  "enabled": false,
+  "production_activated_at": "2026-09-25T23:13:07.656Z",
+  "updated_at": "2026-09-25T23:13:08.072Z",
+  "enabled": true,
   "send_backlog": false,
-  "channels": ["FACEBOOK", "INSTAGRAM"],
-  "status": "SECURITY_HOLD_TOKEN_ROTATION_REQUIRED"
+  "channels": [
+    "FACEBOOK",
+    "INSTAGRAM"
+  ]
 }
