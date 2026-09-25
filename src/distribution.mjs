@@ -27,6 +27,8 @@ const channels = [
 
 function absoluteUrl(value = "") {
   if (!value) return null;
+  if (/^https?:\/\//i.test(value)) return value;
+  if (value.startsWith("/")) return `${siteUrl}${value}`;
   try { return new URL(value, `${siteUrl}/`).toString(); } catch { return null; }
 }
 
