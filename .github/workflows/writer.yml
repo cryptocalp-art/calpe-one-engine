@@ -1,0 +1,49 @@
+name: CALPE ONE WRITER
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["CALPE ONE INVESTIGATION"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-writer
+  cancel-in-progress: false
+
+jobs:
+  write:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run CALPE ONE Writer
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
+        run: npm run write
+
+      - name: Commit draft results
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/drafts.json data/writer-last-run.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update writer drafts"
+          git pull --rebase origin main
+          git push
