@@ -19,7 +19,6 @@ const fmtDate = (value) => {
   return new Intl.DateTimeFormat("es-ES", { day: "2-digit", month: "long", year: "numeric", timeZone: "Europe/Madrid" }).format(d);
 };
 const bodyToHtml = (body = "") => body.split(/\n\s*\n/).filter(Boolean).map(p => `<p>${esc(p.trim())}</p>`).join("\n");
-
 const sourceList = (sources = []) => sources.map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name)}</a> <span class="source-type">${esc(s.type || "")}</span></li>`).join("\n");
 
 const shell = ({ title, description, canonical, content, jsonLd = null }) => `<!doctype html>
@@ -48,7 +47,18 @@ ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replaceA
 
 const raw = JSON.parse(await fs.readFile(inputPath, "utf8"));
 const articles = (raw.ready || [])
-  .map(x => x.calpe_news_candidate)
+  .map(x => {
+    const news = x.calpe_news_candidate;
+    const draft = x.calpe_drafts;
+    if (!news) return null;
+    return {
+      ...news,
+      provenance: news.provenance || draft?.provenance || {},
+      created_at: news.created_at || draft?.created_at || x.generated_at || raw.generated_at,
+      sources: news.sources || draft?.sources || [],
+      category: news.category || draft?.category || "LOCAL"
+    };
+  })
   .filter(Boolean)
   .filter(a => a.slug && a.title && a.body && a.provenance?.investigation_status === "VERIFIED")
   .filter(a => Number(a.provenance?.supported_claim_count || 0) >= 2)
