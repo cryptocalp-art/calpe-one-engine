@@ -1,0 +1,37 @@
+{
+  "engine": "CALPE ONE ENGINE",
+  "module": "META_DELIVERY",
+  "version": "meta-delivery-v1",
+  "channels": ["FACEBOOK", "INSTAGRAM"],
+  "sources_of_truth": {
+    "articles": "data/archive.json",
+    "media": "data/media.json",
+    "distribution": "data/distribution.json",
+    "meta_assets": "data/meta-assets.json",
+    "delivery_state": "data/meta-delivery.json"
+  },
+  "configuration": {
+    "required_for_facebook": ["META_DELIVERY_ENABLED=true", "META_PAGE_ID", "META_PAGE_ACCESS_TOKEN"],
+    "required_for_instagram": ["META_DELIVERY_ENABLED=true", "META_IG_USER_ID", "META_PAGE_ACCESS_TOKEN"],
+    "optional": ["META_GRAPH_VERSION", "META_MAX_PER_RUN", "META_SEND_BACKLOG", "META_TEST_ARCHIVE_ID"]
+  },
+  "safety": {
+    "send_backlog_by_default": false,
+    "sent_items_are_not_republished": true,
+    "instagram_requires_safe_jpeg": true,
+    "safe_media_rights": ["CALPE_ONE_OWNED", "EXPLICIT_LICENSE_SIGNAL"],
+    "external_api_confirmation_required_before_sent": true,
+    "tokens_must_only_exist_as_github_actions_secrets": true,
+    "political_content": "Use only the neutral factual payload already produced by DISTRIBUTION; no endorsements, attacks, rankings or persuasion."
+  },
+  "facebook": {
+    "adapter": "META_GRAPH_API",
+    "operation": "Page feed post with article link"
+  },
+  "instagram": {
+    "adapter": "META_GRAPH_API",
+    "operation": "Create media container, wait for FINISHED, then media_publish",
+    "asset_requirement": "Public HTTPS JPEG"
+  },
+  "normal_flow": "PIPELINE commits archive/media/web/meta-assets/distribution -> META DELIVERY workflow reads committed assets -> Meta API -> distribution state becomes SENT only on confirmed API success"
+}
