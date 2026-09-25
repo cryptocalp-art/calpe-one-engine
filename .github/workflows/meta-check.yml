@@ -2,24 +2,40 @@ name: CALPE ONE META CHECK
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - config/meta-production.json
+      - src/meta-check.mjs
+      - .github/workflows/meta-check.yml
 
 permissions:
   contents: write
 
+concurrency:
+  group: calpe-one-meta-check
+  cancel-in-progress: false
+
 jobs:
   meta-check:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout latest main
         uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: Setup Node
+      - name: Setup Node 24
         uses: actions/setup-node@v4
         with:
           node-version: 24
+
+      - name: Install locked dependencies
+        run: npm ci
 
       - name: Verify Meta credentials and linked assets (read-only)
         env:
