@@ -3,21 +3,18 @@
   "module": "META_DELIVERY",
   "version": "meta-delivery-v2",
   "activated_at": "2026-09-25T22:16:10.859Z",
-  "updated_at": "2026-09-25T22:16:10.859Z",
+  "updated_at": "2026-09-25T22:25:06.924Z",
   "configuration": {
-    "enabled": true,
+    "enabled": false,
     "graph_version": "v26.0",
     "facebook_configured": true,
     "instagram_configured": true,
     "send_backlog": false,
-    "max_per_run": 2,
-    "test_archive_id": "arc_dbe4f30606c424dd",
-    "resolved_page_id": "107836828280953",
-    "resolved_instagram_user_id": "17841441510646156",
-    "identity_warnings": [
-      "CONFIGURED_META_PAGE_ID_DIFFERS_FROM_TOKEN_DERIVED_ID",
-      "CONFIGURED_META_IG_USER_ID_DIFFERS_FROM_TOKEN_DERIVED_ID"
-    ],
+    "max_per_run": 4,
+    "test_archive_id": null,
+    "resolved_page_id": "EAAQI0i6lI5sBSozzPWOxsQtSH8Gqx9PXb8pTluGFDh3dJZCPTT4GoolS6DAB6sh67UtZCqGBmagjHSlcKL8ZBZAhD4UgqI3g5yilYho6Bnfc3TZA8otwhwX8tZAhEmSZAGRGZA0VQddhHl2Xy1EWJcBCXmYTAkBa8mnU9ofz2l0ZBEdGsMi33yUFzC2BTzSRdmxYyT4d4J4ro9vCsYft2FrLepZCGhfOhMHtIE7txHB5pLtuIDqhZBZA",
+    "resolved_instagram_user_id": "EAAQI0i6lI5sBSozzPWOxsQtSH8Gqx9PXb8pTluGFDh3dJZCPTT4GoolS6DAB6sh67UtZCqGBmagjHSlcKL8ZBZAhD4UgqI3g5yilYho6Bnfc3TZA8otwhwX8tZAhEmSZAGRGZA0VQddhHl2Xy1EWJcBCXmYTAkBa8mnU9ofz2l0ZBEdGsMi33yUFzC2BTzSRdmxYyT4d4J4ro9vCsYft2FrLepZCGhfOhMHtIE7txHB5pLtuIDqhZBZA",
+    "identity_warnings": [],
     "identity_resolution_error": null
   },
   "policy": {
@@ -29,22 +26,22 @@
     "page_and_instagram_ids_are_resolved_from_page_token_when_enabled": true
   },
   "stats": {
-    "attempted": 2,
-    "sent": 2,
+    "attempted": 0,
+    "sent": 0,
     "failed": 0,
-    "skipped": 22,
-    "pre_activation_skipped": 22
+    "skipped": 32,
+    "pre_activation_skipped": 0
   },
   "channel_stats": {
     "FACEBOOK": {
-      "sent": 1,
+      "sent": 0,
       "failed": 0,
-      "skipped": 11
+      "skipped": 16
     },
     "INSTAGRAM": {
-      "sent": 1,
+      "sent": 0,
       "failed": 0,
-      "skipped": 11
+      "skipped": 16
     }
   },
   "deliveries": {
@@ -177,126 +174,164 @@
   },
   "last_results": [
     {
+      "dedupe_key": "arc_5084bb5a8af7e780:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_5084bb5a8af7e780:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_60739aeceb90078a:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_60739aeceb90078a:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_47301938c9d5c318:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_47301938c9d5c318:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_8beba1ee06bcb1f6:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_8beba1ee06bcb1f6:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
       "dedupe_key": "arc_dbe4f30606c424dd:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "SENT",
-      "external_id": "107836828280953_1095167076219756"
+      "status": "ALREADY_SENT"
     },
     {
       "dedupe_key": "arc_dbe4f30606c424dd:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "SENT",
-      "external_id": "17923306551428162"
+      "status": "ALREADY_SENT"
     },
     {
       "dedupe_key": "arc_3685dd63b8ac5374:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_3685dd63b8ac5374:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_6d6be357f1cce32d:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_6d6be357f1cce32d:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_a3cf780502eb8591:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_a3cf780502eb8591:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_be073fe6f7f930e7:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_be073fe6f7f930e7:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_738fdfac189a10ec:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_738fdfac189a10ec:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_d2c317fbe2396f6b:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_d2c317fbe2396f6b:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_2c37c21cf3227de1:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_2c37c21cf3227de1:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_8a05867eb25dc19a:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_8a05867eb25dc19a:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_87a7566bfa693a56:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_87a7566bfa693a56:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_cb776a5c2d5da25b:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_cb776a5c2d5da25b:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_253394e5b95d4f08:FACEBOOK",
       "channel": "FACEBOOK",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     },
     {
       "dedupe_key": "arc_253394e5b95d4f08:INSTAGRAM",
       "channel": "INSTAGRAM",
-      "status": "PRE_ACTIVATION_BACKLOG"
+      "status": "DELIVERY_DISABLED"
     }
   ]
 }
