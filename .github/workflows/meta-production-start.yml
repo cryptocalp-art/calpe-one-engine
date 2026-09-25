@@ -1,0 +1,125 @@
+name: CALPE ONE META PRODUCTION START
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-meta-production-start
+  cancel-in-progress: false
+
+jobs:
+  clean-production-start:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Guard one-time clean production bootstrap
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const config = JSON.parse(fs.readFileSync('config/meta-production.json', 'utf8'));
+          const state = JSON.parse(fs.readFileSync('data/meta-production-state.json', 'utf8'));
+
+          const problems = [];
+          if (config.activation_requested !== true) problems.push('ACTIVATION_NOT_REQUESTED');
+          if (config.enabled !== true) problems.push('META_PRODUCTION_NOT_ENABLED');
+          if (config.block_until_token_rotated === true) problems.push('TOKEN_ROTATION_HOLD_STILL_ACTIVE');
+          if (config.send_backlog !== false) problems.push('BACKLOG_MUST_REMAIN_DISABLED');
+          if (state.production_activated_at) problems.push('PRODUCTION_ALREADY_ACTIVATED');
+
+          if (problems.length) {
+            console.error(JSON.stringify({ status: 'BLOCKED', problems }, null, 2));
+            process.exit(1);
+          }
+
+          console.log(JSON.stringify({
+            status: 'READY',
+            send_backlog: false,
+            channels: config.channels || ['FACEBOOK', 'INSTAGRAM']
+          }, null, 2));
+          NODE
+
+      - name: Verify Production Safety
+        run: npm run production:safety
+
+      - name: Verify renewed Meta credentials read-only
+        env:
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+        run: npm run meta:check
+
+      - name: Start Meta production without historical backlog
+        env:
+          META_PRODUCTION_RUN: 'true'
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+        run: npm run meta:deliver
+
+      - name: Validate clean production start
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const state = JSON.parse(fs.readFileSync('data/meta-production-state.json', 'utf8'));
+          const run = JSON.parse(fs.readFileSync('data/meta-delivery-last-run.json', 'utf8'));
+
+          const problems = [];
+          if (!state.production_activated_at) problems.push('PRODUCTION_ACTIVATION_TIMESTAMP_MISSING');
+          if (state.enabled !== true) problems.push('PRODUCTION_STATE_NOT_ENABLED');
+          if (state.send_backlog !== false) problems.push('PRODUCTION_STATE_BACKLOG_NOT_DISABLED');
+          if (run.enabled !== true) problems.push('META_DELIVERY_NOT_ENABLED');
+          if (Number(run.failed || 0) !== 0) problems.push('META_DELIVERY_HAS_FAILURES');
+          if (Number(run.attempted || 0) !== 0) problems.push('CLEAN_START_MUST_NOT_PUBLISH_EXISTING_QUEUE');
+          if (Number(run.sent || 0) !== 0) problems.push('CLEAN_START_SENT_EXISTING_CONTENT');
+
+          if (problems.length) {
+            console.error(JSON.stringify({ status: 'FAIL', problems, run }, null, 2));
+            process.exit(1);
+          }
+
+          console.log(JSON.stringify({
+            status: 'PASS',
+            production_activated_at: state.production_activated_at,
+            enabled: state.enabled,
+            send_backlog: state.send_backlog,
+            attempted: run.attempted,
+            sent: run.sent,
+            failed: run.failed,
+            pre_activation_skipped: run.pre_activation_skipped
+          }, null, 2));
+          NODE
+
+      - name: Persist clean production activation state
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json data/meta-production-state.json data/meta-connection-check.json data/production-safety-last-run.json
+          if git diff --cached --quiet; then
+            echo "No Meta production bootstrap changes"
+            exit 0
+          fi
+          git commit -m "feat: activate CALPE ONE Meta production cleanly"
+          git pull --rebase origin main
+          git push
