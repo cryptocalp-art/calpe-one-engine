@@ -1,0 +1,31 @@
+{
+  "contract": "CALPE ONE DISTRIBUTION",
+  "version": "distribution-v1",
+  "source_of_truth": {
+    "archive": "data/archive.json",
+    "media": "data/media.json",
+    "distribution": "data/distribution.json"
+  },
+  "statuses": ["PENDING", "SENT", "FAILED", "SKIPPED"],
+  "channels": ["RSS", "FACEBOOK", "INSTAGRAM", "X", "TELEGRAM", "WHATSAPP", "DISCORD"],
+  "dedupe_key": "archive_id:channel",
+  "rules": {
+    "sent_items_are_not_resent": true,
+    "external_channels_require_authenticated_connector": true,
+    "unconfigured_external_channels_are_skipped": true,
+    "rss_is_sent_only_when_article_is_present_in_docs_rss": true,
+    "unsafe_media_is_never_forced": true,
+    "political_copy_must_remain_neutral_and_factual": true
+  },
+  "queue_item_required": [
+    "distribution_id",
+    "dedupe_key",
+    "archive_id",
+    "slug",
+    "channel",
+    "status",
+    "payload",
+    "created_at",
+    "updated_at"
+  ]
+}
