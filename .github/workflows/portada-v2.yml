@@ -1,0 +1,58 @@
+name: CALPE ONE PORTADA V2
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - src/home-v2.mjs
+      - src/build-site.mjs
+      - package.json
+      - .github/workflows/portada-v2.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-portada-v2
+  cancel-in-progress: false
+
+jobs:
+  build-portada:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Build full site with Portada V2
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run build:web
+
+      - name: Commit Portada V2
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No Portada V2 changes"
+            exit 0
+          fi
+          git commit -m "feat: publish CALPE ONE Portada V2"
+          git pull --rebase origin main
+          git push
