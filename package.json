@@ -14,7 +14,7 @@
     "build:web": "node src/build-site.mjs",
     "distribution": "node src/distribution.mjs",
     "meta:assets": "node src/meta-assets.mjs",
-    "meta:deliver": "node src/meta-delivery.mjs",
+    "meta:deliver": "node src/meta-production-delivery.mjs",
     "meta:check": "node src/meta-check.mjs",
     "production:safety": "node src/production-safety.mjs"
   },
