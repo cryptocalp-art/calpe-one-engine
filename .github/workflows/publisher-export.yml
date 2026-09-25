@@ -1,0 +1,46 @@
+name: CALPE ONE PUBLISHER EXPORT
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["CALPE ONE WRITER"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-publisher-export
+  cancel-in-progress: false
+
+jobs:
+  export:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Vento export package
+        run: npm run export:vento
+
+      - name: Commit export package
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/vento-export.json data/publisher-last-run.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update Vento export package"
+          git pull --rebase origin main
+          git push
