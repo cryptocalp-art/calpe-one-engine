@@ -1,0 +1,190 @@
+import fs from "node:fs/promises";
+
+const siteUrl = (process.env.SITE_URL || "https://cryptocalp-art.github.io/calpe-one-engine").replace(/\/$/, "");
+const archive = JSON.parse(await fs.readFile("data/archive.json", "utf8"));
+let mediaDoc = { items: [] };
+try { mediaDoc = JSON.parse(await fs.readFile("data/media.json", "utf8")); } catch {}
+
+const now = new Date();
+const esc = (s = "") => String(s)
+  .replaceAll("&", "&amp;")
+  .replaceAll("<", "&lt;")
+  .replaceAll(">", "&gt;")
+  .replaceAll('"', "&quot;")
+  .replaceAll("'", "&#39;");
+
+const fmtDate = (value, withTime = false) => {
+  const d = new Date(value || now);
+  const opts = withTime
+    ? { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Madrid" }
+    : { day: "2-digit", month: "short", year: "numeric", timeZone: "Europe/Madrid" };
+  return new Intl.DateTimeFormat("es-ES", opts).format(d);
+};
+
+const categoryLabel = (category = "LOCAL") => ({
+  LOCAL: "Calp",
+  POLITICA: "Política",
+  SUCESOS: "Sucesos",
+  ECONOMIA: "Economía",
+  SOCIEDAD: "Sociedad",
+  TURISMO: "Turismo",
+  DEPORTES: "Deportes",
+  CULTURA: "Cultura",
+  MEDIO_AMBIENTE: "Medio ambiente",
+  OTROS: "Actualidad"
+}[category] || category.replaceAll("_", " "));
+
+const mediaByArchiveId = new Map((mediaDoc.items || []).map((m) => [m.archive_id, m]));
+const articles = (archive.articles || [])
+  .filter((a) => a.status === "PUBLISHED")
+  .filter((a) => a.slug && a.title && a.body)
+  .filter((a) => a.provenance?.investigation_status === "VERIFIED")
+  .filter((a) => a.provenance?.quality_gate_status === "ELIGIBLE")
+  .sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0));
+
+function imageUrl(article) {
+  const url = mediaByArchiveId.get(article.archive_id)?.selected?.image_url || "";
+  if (!url) return "";
+  if (/^https?:\/\//i.test(url)) return url;
+  return `${siteUrl}${url.startsWith("/") ? "" : "/"}${url}`;
+}
+
+function articleUrl(article) {
+  return `${siteUrl}/noticias/${encodeURIComponent(article.slug)}/`;
+}
+
+function picture(article, cls = "") {
+  const media = mediaByArchiveId.get(article.archive_id);
+  const url = imageUrl(article);
+  if (!url) return `<div class="media-placeholder ${cls}" aria-hidden="true"><span>CALPE ONE</span></div>`;
+  return `<img class="${cls}" src="${esc(url)}" alt="${esc(media?.selected?.alt || article.title)}" loading="lazy">`;
+}
+
+const lead = articles[0] || null;
+const secondary = articles.slice(1, 5);
+const latest = articles.slice(5, 13);
+const counts = new Map();
+for (const a of articles) counts.set(a.category || "OTROS", (counts.get(a.category || "OTROS") || 0) + 1);
+const categoryOrder = ["LOCAL", "SOCIEDAD", "DEPORTES", "CULTURA", "TURISMO", "MEDIO_AMBIENTE", "ECONOMIA", "POLITICA", "SUCESOS"];
+const activeCategories = categoryOrder.filter((c) => counts.get(c));
+
+const categoryNav = activeCategories
+  .map((c) => `<a href="#sec-${c.toLowerCase()}">${esc(categoryLabel(c))}<span>${counts.get(c)}</span></a>`)
+  .join("");
+
+const ticker = articles.slice(0, 4)
+  .map((a) => `<a href="${articleUrl(a)}"><strong>${esc(categoryLabel(a.category))}</strong> ${esc(a.title)}</a>`)
+  .join("");
+
+const hero = lead ? `
+<section class="lead-layout" aria-label="Noticias destacadas">
+  <article class="lead-story">
+    <a class="lead-media" href="${articleUrl(lead)}">${picture(lead, "lead-img")}</a>
+    <div class="lead-copy">
+      <div class="eyebrow">${esc(categoryLabel(lead.category))}</div>
+      <h1><a href="${articleUrl(lead)}">${esc(lead.title)}</a></h1>
+      <p class="lead-dek">${esc(lead.summary || "")}</p>
+      <div class="story-meta">${esc(fmtDate(lead.published_at, true))} · Verificada ${esc(lead.provenance?.confidence || "")}</div>
+    </div>
+  </article>
+  <div class="secondary-grid">
+    ${secondary.map((a) => `<article class="secondary-card">
+      <a class="secondary-media" href="${articleUrl(a)}">${picture(a, "secondary-img")}</a>
+      <div class="eyebrow">${esc(categoryLabel(a.category))}</div>
+      <h2><a href="${articleUrl(a)}">${esc(a.title)}</a></h2>
+      <div class="story-meta">${esc(fmtDate(a.published_at))}</div>
+    </article>`).join("")}
+  </div>
+</section>` : `<section class="empty-state"><h1>CALPE ONE</h1><p>La portada se actualizará cuando haya noticias verificadas.</p></section>`;
+
+const latestHtml = latest.length ? `
+<section class="section-block">
+  <div class="section-head"><div><span>Ahora</span><h2>Últimas noticias</h2></div><a href="${siteUrl}/noticias/">Ver todas →</a></div>
+  <div class="latest-grid">
+    ${latest.map((a) => `<article class="latest-card">
+      <a class="latest-media" href="${articleUrl(a)}">${picture(a, "latest-img")}</a>
+      <div class="latest-copy">
+        <div class="eyebrow">${esc(categoryLabel(a.category))}</div>
+        <h3><a href="${articleUrl(a)}">${esc(a.title)}</a></h3>
+        <p>${esc(a.summary || "")}</p>
+        <div class="story-meta">${esc(fmtDate(a.published_at))}</div>
+      </div>
+    </article>`).join("")}
+  </div>
+</section>` : "";
+
+const sectionBlocks = activeCategories.slice(0, 6).map((category) => {
+  const items = articles.filter((a) => a.category === category).slice(0, 4);
+  if (!items.length) return "";
+  return `<section class="section-block category-block" id="sec-${category.toLowerCase()}">
+    <div class="section-head"><div><span>Sección</span><h2>${esc(categoryLabel(category))}</h2></div><span class="section-count">${items.length} destacadas</span></div>
+    <div class="category-grid">
+      ${items.map((a, i) => `<article class="category-card ${i === 0 ? "category-feature" : ""}">
+        ${i === 0 ? `<a class="category-media" href="${articleUrl(a)}">${picture(a, "category-img")}</a>` : ""}
+        <div class="eyebrow">${esc(categoryLabel(a.category))}</div>
+        <h3><a href="${articleUrl(a)}">${esc(a.title)}</a></h3>
+        ${i === 0 ? `<p>${esc(a.summary || "")}</p>` : ""}
+        <div class="story-meta">${esc(fmtDate(a.published_at))}</div>
+      </article>`).join("")}
+    </div>
+  </section>`;
+}).join("");
+
+const leadImage = lead ? imageUrl(lead) : "";
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "CALPE ONE",
+  url: `${siteUrl}/`,
+  description: "Noticias de Calp investigadas, verificadas y publicadas con trazabilidad de fuentes.",
+  inLanguage: "es"
+};
+
+const html = `<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CALPE ONE · Noticias de Calp</title>
+<meta name="description" content="Noticias de Calp investigadas y verificadas. Actualidad local, sociedad, cultura, deporte, turismo y más.">
+<link rel="canonical" href="${siteUrl}/">
+<link rel="alternate" type="application/rss+xml" title="CALPE ONE RSS" href="${siteUrl}/rss.xml">
+<meta name="theme-color" content="#07111f">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CALPE ONE · Noticias de Calp">
+<meta property="og:description" content="Una ciudad. Más de 150 nacionalidades. Una comunidad.">
+<meta property="og:url" content="${siteUrl}/">
+${leadImage ? `<meta property="og:image" content="${esc(leadImage)}"><meta name="twitter:card" content="summary_large_image">` : ""}
+<script type="application/ld+json">${JSON.stringify(structuredData).replaceAll("<", "\\u003c")}</script>
+<style>
+:root{--ink:#0b1220;--muted:#697386;--paper:#fff;--soft:#f3f6f8;--line:#dfe5ea;--nav:#07111f;--brand:#ff4d00;--brand2:#ff7a00;--max:1240px;--serif:Georgia,'Times New Roman',serif;--sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}a{color:inherit}.utility{background:var(--nav);color:#fff}.utility-inner{max-width:var(--max);margin:auto;padding:8px 22px;display:flex;align-items:center;justify-content:space-between;gap:20px;font-size:12px}.live-dot{display:inline-block;width:7px;height:7px;background:#28d17c;border-radius:50%;margin-right:7px;box-shadow:0 0 0 3px rgba(40,209,124,.16)}.utility a{text-decoration:none;color:#c7d2df}.masthead{background:#fff;border-bottom:1px solid var(--line)}.masthead-inner{max-width:var(--max);margin:auto;padding:22px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center}.brand{text-decoration:none;text-align:center;font-weight:950;font-size:clamp(31px,5vw,55px);line-height:.88;letter-spacing:-.055em}.brand em{font-style:normal;color:var(--brand)}.masthead-date{font-size:13px;color:var(--muted)}.masthead-claim{text-align:right;font-size:13px;color:var(--muted);max-width:320px;justify-self:end}.main-nav{border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:20}.main-nav-inner{max-width:var(--max);margin:auto;padding:0 22px;display:flex;gap:4px;align-items:center;overflow:auto;scrollbar-width:none}.main-nav-inner::-webkit-scrollbar{display:none}.main-nav a{padding:13px 13px;text-decoration:none;font-size:13px;font-weight:800;white-space:nowrap;border-bottom:3px solid transparent}.main-nav a:hover{border-color:var(--brand)}.main-nav a span{font-size:10px;color:var(--muted);margin-left:4px}.breaking{border-bottom:1px solid var(--line);background:#fafbfc}.breaking-inner{max-width:var(--max);margin:auto;display:grid;grid-template-columns:auto 1fr;align-items:stretch}.breaking-label{background:var(--brand);color:#fff;padding:11px 18px;font-size:11px;font-weight:900;letter-spacing:.08em;text-transform:uppercase}.ticker{display:flex;align-items:center;gap:28px;overflow:hidden;padding:0 18px}.ticker a{font-size:12px;text-decoration:none;white-space:nowrap}.ticker strong{color:var(--brand);margin-right:6px}.page{max-width:var(--max);margin:auto;padding:28px 22px 70px}.lead-layout{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(320px,.75fr);gap:28px;padding-bottom:32px;border-bottom:4px solid var(--ink)}.lead-story{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(280px,.88fr);gap:24px;align-items:start}.lead-media,.secondary-media,.latest-media,.category-media{display:block;overflow:hidden;background:var(--soft)}.lead-img,.secondary-img,.latest-img,.category-img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .25s ease}.lead-media:hover img,.secondary-media:hover img,.latest-media:hover img,.category-media:hover img{transform:scale(1.015)}.lead-media{aspect-ratio:16/11}.media-placeholder{display:grid;place-items:center;background:linear-gradient(135deg,#162231,#34465b);color:#fff;min-height:180px;font-weight:900;letter-spacing:.08em}.lead-img{aspect-ratio:16/11}.eyebrow{font-size:11px;font-weight:900;letter-spacing:.1em;text-transform:uppercase;color:var(--brand);margin:10px 0 8px}.lead-story h1{font-family:var(--serif);font-size:clamp(38px,4.5vw,64px);line-height:.98;letter-spacing:-.045em;margin:0 0 16px}.lead-story h1 a,.secondary-card h2 a,.latest-card h3 a,.category-card h3 a{text-decoration:none}.lead-story h1 a:hover,.secondary-card h2 a:hover,.latest-card h3 a:hover,.category-card h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}.lead-dek{font-family:var(--serif);font-size:20px;line-height:1.4;color:#3b4655;margin:0 0 16px}.story-meta{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}.secondary-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}.secondary-card{border-top:3px solid var(--ink);padding-top:10px}.secondary-media{aspect-ratio:16/9;margin-bottom:8px}.secondary-img{aspect-ratio:16/9}.secondary-card h2{font-family:var(--serif);font-size:20px;line-height:1.08;margin:0 0 8px}.section-block{padding:38px 0 12px;border-bottom:1px solid var(--line)}.section-head{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:20px}.section-head span{font-size:10px;text-transform:uppercase;letter-spacing:.14em;font-weight:900;color:var(--brand)}.section-head h2{font-family:var(--serif);font-size:36px;line-height:1;margin:4px 0 0;letter-spacing:-.03em}.section-head>a{font-size:12px;font-weight:800;text-decoration:none}.section-count{color:var(--muted)!important}.latest-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}.latest-card{min-width:0}.latest-media{aspect-ratio:16/10}.latest-img{aspect-ratio:16/10}.latest-card h3{font-family:var(--serif);font-size:23px;line-height:1.08;margin:0 0 9px}.latest-card p{font-family:var(--serif);font-size:15px;line-height:1.45;color:#4d5867;margin:0 0 10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.category-grid{display:grid;grid-template-columns:1.5fr repeat(3,1fr);gap:24px}.category-card{border-top:2px solid var(--ink);padding-top:10px}.category-feature{border-top:4px solid var(--brand)}.category-media{aspect-ratio:16/9;margin-bottom:12px}.category-img{aspect-ratio:16/9}.category-card h3{font-family:var(--serif);font-size:22px;line-height:1.1;margin:0 0 9px}.category-feature h3{font-size:30px}.category-card p{font-family:var(--serif);font-size:16px;line-height:1.5;color:#4c5766}.trust{margin-top:42px;background:var(--nav);color:#fff;display:grid;grid-template-columns:1fr 1.3fr;gap:30px;padding:30px;border-radius:3px}.trust-kicker{color:#ff8d5c;font-size:11px;font-weight:900;letter-spacing:.12em;text-transform:uppercase}.trust h2{font-family:var(--serif);font-size:34px;line-height:1.05;margin:6px 0}.trust p{color:#c8d2df;line-height:1.65;margin:0}.trust-points{display:grid;grid-template-columns:1fr 1fr;gap:14px}.trust-point{border:1px solid #324052;padding:16px}.trust-point strong{display:block;color:#fff;margin-bottom:5px}.trust-point span{font-size:13px;color:#aebccc}.footer{background:#07111f;color:#9eabba;margin-top:0}.footer-inner{max-width:var(--max);margin:auto;padding:30px 22px;display:flex;justify-content:space-between;gap:30px;align-items:end}.footer-brand{font-size:28px;font-weight:950;color:#fff;letter-spacing:-.04em}.footer-brand em{font-style:normal;color:var(--brand)}.footer p{font-size:12px;margin:6px 0 0}.footer-links{display:flex;gap:16px;font-size:12px}.footer a{text-decoration:none}.empty-state{padding:70px 0}.empty-state h1{font-size:60px}.empty-state p{color:var(--muted)}
+@media(max-width:1050px){.lead-layout{grid-template-columns:1fr}.lead-story{grid-template-columns:1.05fr .95fr}.secondary-grid{grid-template-columns:repeat(4,1fr)}.latest-grid{grid-template-columns:repeat(2,1fr)}.category-grid{grid-template-columns:1.4fr 1fr 1fr}.category-card:nth-child(4){display:none}}
+@media(max-width:760px){.masthead-inner{grid-template-columns:1fr auto}.masthead-date{display:none}.masthead-claim{font-size:11px;max-width:155px}.brand{text-align:left}.breaking-inner{grid-template-columns:auto 1fr}.ticker a:not(:first-child){display:none}.page{padding:18px 16px 50px}.lead-story{grid-template-columns:1fr}.lead-copy{display:flex;flex-direction:column}.lead-story h1{font-size:42px}.lead-dek{font-size:18px}.secondary-grid{grid-template-columns:1fr 1fr}.latest-grid{grid-template-columns:1fr}.latest-card{display:grid;grid-template-columns:120px 1fr;gap:14px}.latest-card p{display:none}.latest-card h3{font-size:20px}.latest-media{aspect-ratio:1/1}.latest-img{aspect-ratio:1/1}.category-grid{grid-template-columns:1fr 1fr}.category-feature{grid-column:1/-1}.category-card:nth-child(4){display:block}.trust{grid-template-columns:1fr}.trust-points{grid-template-columns:1fr}.footer-inner{align-items:start;flex-direction:column}.footer-links{flex-wrap:wrap}}
+@media(max-width:480px){.utility-inner{padding:7px 14px}.utility-inner>span:last-child{display:none}.masthead-inner{padding:17px 14px}.main-nav-inner{padding:0 7px}.main-nav a{padding:11px 9px}.breaking-label{padding:10px 12px}.ticker{padding:0 10px}.lead-layout{gap:20px}.secondary-grid{grid-template-columns:1fr}.secondary-card{display:grid;grid-template-columns:115px 1fr;column-gap:12px}.secondary-media{grid-row:1/4;aspect-ratio:1/1;margin:0}.secondary-img{aspect-ratio:1/1}.secondary-card .eyebrow{margin-top:2px}.secondary-card h2{font-size:19px}.section-head h2{font-size:31px}.category-grid{grid-template-columns:1fr}.category-feature{grid-column:auto}.footer{margin-top:0}}
+</style>
+</head>
+<body>
+<div class="utility"><div class="utility-inner"><span><span class="live-dot"></span>CALPE ONE está activo</span><span>Información local · Fuentes trazables · Calp</span></div></div>
+<header class="masthead"><div class="masthead-inner"><div class="masthead-date">${esc(fmtDate(now))}</div><a class="brand" href="${siteUrl}/">CALPE <em>ONE</em></a><div class="masthead-claim">Una ciudad. Más de 150 nacionalidades. Una comunidad.</div></div></header>
+<nav class="main-nav" aria-label="Secciones"><div class="main-nav-inner"><a href="${siteUrl}/">Portada</a><a href="${siteUrl}/noticias/">Noticias</a>${categoryNav}<a href="${siteUrl}/rss.xml">RSS</a></div></nav>
+<div class="breaking"><div class="breaking-inner"><div class="breaking-label">Última hora</div><div class="ticker">${ticker || "<span>CALPE ONE</span>"}</div></div></div>
+<main class="page">
+${hero}
+${latestHtml}
+${sectionBlocks}
+<section class="trust"><div><div class="trust-kicker">Cómo trabaja CALPE ONE</div><h2>Primero verificamos. Después publicamos.</h2><p>Las noticias publicadas pasan por investigación, comprobación de evidencias y un control automático de calidad. Lo que no supera las condiciones queda fuera de publicación.</p></div><div class="trust-points"><div class="trust-point"><strong>Fuentes trazables</strong><span>Cada artículo conserva sus fuentes consultadas.</span></div><div class="trust-point"><strong>Control de calidad</strong><span>Las noticias dudosas pueden quedar en cuarentena.</span></div><div class="trust-point"><strong>Imágenes seguras</strong><span>No se publican imágenes con derechos no verificados.</span></div><div class="trust-point"><strong>Actualización automática</strong><span>La portada se recompone con cada ciclo editorial.</span></div></div></section>
+</main>
+<footer class="footer"><div class="footer-inner"><div><div class="footer-brand">CALPE <em>ONE</em></div><p>Una ciudad. Más de 150 nacionalidades. Una comunidad.</p></div><div class="footer-links"><a href="${siteUrl}/">Portada</a><a href="${siteUrl}/noticias/">Noticias</a><a href="${siteUrl}/rss.xml">RSS</a></div></div></footer>
+</body></html>`;
+
+await fs.mkdir("docs", { recursive: true });
+await fs.writeFile("docs/index.html", html, "utf8");
+console.log(JSON.stringify({
+  module: "PORTADA_V2",
+  status: "success",
+  generated_at: new Date().toISOString(),
+  articles: articles.length,
+  hero: lead?.archive_id || null,
+  categories: activeCategories,
+  output: "docs/index.html"
+}, null, 2));
