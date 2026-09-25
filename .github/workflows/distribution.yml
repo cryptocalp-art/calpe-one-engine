@@ -1,0 +1,43 @@
+name: CALPE ONE DISTRIBUTION
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  distribution:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build deduplicated distribution queue
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run distribution
+
+      - name: Commit distribution state
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/distribution.json data/distribution-last-run.json
+          if git diff --cached --quiet; then
+            echo "No distribution changes"
+            exit 0
+          fi
+          git commit -m "chore: update CALPE ONE distribution queue"
+          git pull --rebase origin main
+          git push
