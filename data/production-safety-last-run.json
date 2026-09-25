@@ -1,0 +1,52 @@
+{
+  "engine": "CALPE ONE ENGINE",
+  "module": "PRODUCTION_SAFETY",
+  "version": "production-safety-v1",
+  "generated_at": "2026-09-25T22:45:41.381Z",
+  "status": "PASS",
+  "ready_for_meta_activation": true,
+  "policy": {
+    "blocks_high_or_critical_dependency_vulnerabilities": true,
+    "minimum_sharp_version": "0.35.4",
+    "requires_reproducible_dependency_lock": true,
+    "requires_fail_closed_editorial_gate": true,
+    "requires_clean_distribution_state": true,
+    "requires_meta_identity_configuration": true,
+    "requires_no_tracked_env_files": true,
+    "activates_meta_automatically": false
+  },
+  "blocking_issues": [],
+  "checks": {
+    "package_private": true,
+    "package_lock_present": true,
+    "sharp_declared": "^0.35.4",
+    "sharp_locked": "0.35.4",
+    "sharp_minimum_safe_version": "0.35.4",
+    "sharp_declared_safe": true,
+    "sharp_locked_safe": true,
+    "npm_audit": {
+      "ok": true,
+      "exit_code": 0,
+      "counts": {
+        "info": 0,
+        "low": 0,
+        "moderate": 0,
+        "high": 0,
+        "critical": 0,
+        "total": 0
+      },
+      "blocking_vulnerabilities": []
+    },
+    "no_tracked_environment_files": {
+      "ok": true,
+      "files": []
+    },
+    "quality_gate_fail_closed": true,
+    "quality_gate_automated": true,
+    "distribution_last_run_clean": true,
+    "meta_facebook_configured": true,
+    "meta_instagram_configured": true,
+    "meta_identity_resolution_clean": true,
+    "meta_delivery_currently_enabled": false
+  }
+}
