@@ -16,7 +16,8 @@
     "meta:assets": "node src/meta-assets.mjs",
     "meta:deliver": "node src/meta-production-delivery.mjs",
     "meta:check": "node src/meta-check.mjs",
-    "production:safety": "node src/production-safety.mjs"
+    "production:safety": "node src/production-safety.mjs",
+    "control:room": "node src/control-room.mjs"
   },
   "dependencies": {
     "openai": "^5.19.1",
