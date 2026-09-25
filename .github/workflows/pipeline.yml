@@ -78,6 +78,11 @@ jobs:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run distribution
 
+      - name: 11. CONTROL ROOM — rebuild operational dashboard
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run control:room
+
       - name: Commit complete pipeline output
         run: |
           git config user.name "CALPE ONE ENGINE"
