@@ -1,0 +1,17 @@
+{
+  "version": "meta-production-v1",
+  "activation_requested": true,
+  "enabled": false,
+  "block_until_token_rotated": true,
+  "send_backlog": false,
+  "max_per_run": 4,
+  "channels": ["FACEBOOK", "INSTAGRAM"],
+  "require_production_safety_pass": true,
+  "policy": {
+    "publish_only_after_production_activation": true,
+    "never_send_historical_backlog": true,
+    "require_meta_api_confirmation": true,
+    "require_safe_instagram_media_rights": true,
+    "fail_closed_on_identity_error": true
+  }
+}
