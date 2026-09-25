@@ -1,0 +1,30 @@
+{
+  "engine": "CALPE ONE ENGINE",
+  "module": "META_CONNECTION_CHECK",
+  "version": "meta-check-v1",
+  "generated_at": "2026-09-25T22:02:36.831Z",
+  "graph_version": "v26.0",
+  "configured": {
+    "page_id": true,
+    "page_access_token": true,
+    "instagram_user_id": true
+  },
+  "checks": {
+    "page_identity": "PASS",
+    "page_id_match": false,
+    "instagram_link": "FAIL",
+    "instagram_id_match": false,
+    "instagram_identity": "FAIL"
+  },
+  "page": {
+    "id": "107836828280953",
+    "name": "Cryptocalp"
+  },
+  "instagram": null,
+  "status": "FAIL",
+  "errors": [
+    "PAGE_TOKEN_DOES_NOT_MATCH_META_PAGE_ID",
+    "META_API_ERROR 400 code=100: Unsupported get request. Object with ID 'EAAQI0i6lI5sBSozzPWOxsQtSH8Gqx9PXb8pTluGFDh3dJZCPTT4GoolS6DAB6sh67UtZCqGBmagjHSlcKL8ZBZAhD4UgqI3g5yilYho6Bnfc3TZA8otwhwX8tZAhEmSZAGRGZA0VQddhHl2Xy1EWJcBCXmYTAkBa8mnU9ofz2l0ZBEdGsMi33yUFzC2BTzSRdmxYyT4d4J4ro9vCsYft2FrLepZCGhfOhMHtIE7txHB5pLtuIDqhZBZA' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+    "META_API_ERROR 400 code=100: Unsupported get request. Object with ID 'EAAQI0i6lI5sBSozzPWOxsQtSH8Gqx9PXb8pTluGFDh3dJZCPTT4GoolS6DAB6sh67UtZCqGBmagjHSlcKL8ZBZAhD4UgqI3g5yilYho6Bnfc3TZA8otwhwX8tZAhEmSZAGRGZA0VQddhHl2Xy1EWJcBCXmYTAkBa8mnU9ofz2l0ZBEdGsMi33yUFzC2BTzSRdmxYyT4d4J4ro9vCsYft2FrLepZCGhfOhMHtIE7txHB5pLtuIDqhZBZA' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"
+  ]
+}
