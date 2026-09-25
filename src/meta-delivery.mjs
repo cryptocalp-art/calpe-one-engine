@@ -7,9 +7,9 @@ const enabled = /^(1|true|yes)$/i.test(process.env.META_DELIVERY_ENABLED || "fal
 const sendBacklog = /^(1|true|yes)$/i.test(process.env.META_SEND_BACKLOG || "false");
 const testArchiveId = String(process.env.META_TEST_ARCHIVE_ID || "").trim();
 const maxPerRun = Math.max(1, Math.min(20, Number(process.env.META_MAX_PER_RUN || 4)));
-const pageId = String(process.env.META_PAGE_ID || "").trim();
+const configuredPageId = String(process.env.META_PAGE_ID || "").trim();
 const pageToken = String(process.env.META_PAGE_ACCESS_TOKEN || "").trim();
-const igUserId = String(process.env.META_IG_USER_ID || "").trim();
+const configuredIgUserId = String(process.env.META_IG_USER_ID || "").trim();
 
 const distributionPath = "data/distribution.json";
 const statePath = "data/meta-delivery.json";
@@ -23,12 +23,6 @@ try { previous = JSON.parse(await fs.readFile(statePath, "utf8")); } catch {}
 
 const assetByArchiveId = new Map((assets.items || []).map((x) => [x.archive_id, x]));
 const safeRights = new Set(["CALPE_ONE_OWNED", "EXPLICIT_LICENSE_SIGNAL"]);
-const hasFacebook = Boolean(pageId && pageToken);
-const hasInstagram = Boolean(igUserId && pageToken);
-const canActivate = enabled && (hasFacebook || hasInstagram);
-const activationWasCreatedNow = canActivate && !previous.activated_at;
-const activatedAt = previous.activated_at || (canActivate ? now : null);
-const deliveryState = { ...(previous.deliveries || {}) };
 
 function trimError(error) {
   const raw = String(error?.message || error || "UNKNOWN_ERROR");
@@ -69,6 +63,40 @@ async function getJson(url, params) {
   }
   return parseResponse(await fetch(u));
 }
+
+let pageId = configuredPageId;
+let igUserId = configuredIgUserId;
+let identityResolutionError = null;
+const identityWarnings = [];
+
+if (enabled && pageToken) {
+  try {
+    const me = await getJson(`${graphBase}/me`, {
+      fields: "id,name,instagram_business_account",
+      access_token: pageToken
+    });
+    const resolvedPageId = String(me?.id || "");
+    const resolvedIgUserId = String(me?.instagram_business_account?.id || "");
+    if (!resolvedPageId) throw new Error("META_PAGE_ID_NOT_RESOLVED_FROM_TOKEN");
+    pageId = resolvedPageId;
+    if (resolvedIgUserId) igUserId = resolvedIgUserId;
+    if (configuredPageId && configuredPageId !== resolvedPageId) {
+      identityWarnings.push("CONFIGURED_META_PAGE_ID_DIFFERS_FROM_TOKEN_DERIVED_ID");
+    }
+    if (configuredIgUserId && resolvedIgUserId && configuredIgUserId !== resolvedIgUserId) {
+      identityWarnings.push("CONFIGURED_META_IG_USER_ID_DIFFERS_FROM_TOKEN_DERIVED_ID");
+    }
+  } catch (error) {
+    identityResolutionError = trimError(error);
+  }
+}
+
+const hasFacebook = Boolean(pageId && pageToken && !identityResolutionError);
+const hasInstagram = Boolean(igUserId && pageToken && !identityResolutionError);
+const canActivate = enabled && (hasFacebook || hasInstagram);
+const activationWasCreatedNow = canActivate && !previous.activated_at;
+const activatedAt = previous.activated_at || (canActivate ? now : null);
+const deliveryState = { ...(previous.deliveries || {}) };
 
 async function publishFacebook(item) {
   return postForm(`${graphBase}/${pageId}/feed`, {
@@ -142,7 +170,7 @@ for (const item of distribution.queue || []) {
 
   const oldMeta = deliveryState[item.dedupe_key] || null;
   const hasCredentials = item.channel === "FACEBOOK" ? hasFacebook : hasInstagram;
-  const isTestTarget = testArchiveId && item.archive_id === testArchiveId;
+  const isTestTarget = Boolean(testArchiveId) && item.archive_id === testArchiveId;
   const isPreActivation = activatedAt && new Date(item.created_at || 0) < new Date(activatedAt);
   const alreadySent = item.status === "SENT" || oldMeta?.status === "SENT";
 
@@ -163,7 +191,12 @@ for (const item of distribution.queue || []) {
   if (!hasCredentials) {
     skipped++;
     channelStats[item.channel].skipped++;
-    results.push({ dedupe_key: item.dedupe_key, channel: item.channel, status: "CREDENTIALS_MISSING" });
+    results.push({
+      dedupe_key: item.dedupe_key,
+      channel: item.channel,
+      status: "CREDENTIALS_OR_IDENTITY_UNAVAILABLE",
+      error: identityResolutionError
+    });
     continue;
   }
 
@@ -263,7 +296,7 @@ for (const item of distribution.queue || []) {
 const state = {
   engine: "CALPE ONE ENGINE",
   module: "META_DELIVERY",
-  version: "meta-delivery-v1",
+  version: "meta-delivery-v2",
   activated_at: activatedAt,
   updated_at: now,
   configuration: {
@@ -272,14 +305,20 @@ const state = {
     facebook_configured: hasFacebook,
     instagram_configured: hasInstagram,
     send_backlog: sendBacklog,
-    max_per_run: maxPerRun
+    max_per_run: maxPerRun,
+    test_archive_id: testArchiveId || null,
+    resolved_page_id: pageId || null,
+    resolved_instagram_user_id: igUserId || null,
+    identity_warnings: identityWarnings,
+    identity_resolution_error: identityResolutionError
   },
   policy: {
     existing_backlog_is_not_sent_on_first_activation: true,
     only_sent_after_api_confirmation: true,
     sent_items_are_not_republished: true,
     instagram_requires_safe_jpeg_asset: true,
-    political_copy_is_inherited_from_neutral_distribution_payload: true
+    political_copy_is_inherited_from_neutral_distribution_payload: true,
+    page_and_instagram_ids_are_resolved_from_page_token_when_enabled: true
   },
   stats: { attempted, sent, failed, skipped, pre_activation_skipped: preActivationSkipped },
   channel_stats: channelStats,
@@ -302,7 +341,8 @@ await fs.writeFile(
     sent,
     failed,
     skipped,
-    pre_activation_skipped: preActivationSkipped
+    pre_activation_skipped: preActivationSkipped,
+    identity_resolution_error: identityResolutionError
   }, null, 2) + "\n",
   "utf8"
 );
@@ -316,5 +356,9 @@ console.log(JSON.stringify({
   sent,
   failed,
   skipped,
-  pre_activation_skipped: preActivationSkipped
+  pre_activation_skipped: preActivationSkipped,
+  identity_warnings: identityWarnings,
+  identity_resolution_error: identityResolutionError
 }, null, 2));
+
+if (enabled && identityResolutionError) process.exitCode = 1;
