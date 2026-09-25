@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-25T22:24:27.749Z",
+  "generated_at": "2026-09-25T22:35:43.735Z",
   "archive_version": "archive-v1",
-  "count": 16,
+  "count": 18,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,78 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 12,
+    "reused": 16,
     "licensed_selected": 0,
-    "official_candidates_not_auto_published": 1,
-    "branded_fallbacks": 4
+    "official_candidates_not_auto_published": 0,
+    "branded_fallbacks": 2
   },
   "items": [
+    {
+      "media_id": "med_2426bd5cf5b05463",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+      "category": "LOCAL",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_8031aaa3e6b91b49.svg",
+        "alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12327/xii-travesia-nado-penon-ifach-calp-2026",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/2231_00-destacada-calp-xii-travesia-nado-penon-ifach-2026.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T22:35:43.735Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_ddcdf21089d5bc89",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+      "category": "SOCIEDAD",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_552c7b6f45a224ee.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12322/calp-volvera-a-caminar-contra-el-cancer-de-mama-con-una-jornada-solidaria-en-la-plaza-Mayor",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/1734_marcha-contra-el-cancer-de-mama-calp.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T22:35:43.735Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_1276963a19687c3b",
       "archive_id": "arc_5084bb5a8af7e780",
@@ -49,7 +115,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -82,7 +148,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -133,7 +199,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -184,7 +250,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -226,7 +292,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -249,7 +315,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -291,7 +357,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -314,7 +380,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -356,7 +422,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -389,7 +455,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -422,7 +488,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -445,7 +511,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -478,7 +544,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -501,7 +567,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -524,7 +590,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     },
     {
@@ -557,7 +623,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T22:24:27.749Z",
+      "checked_at": "2026-09-25T22:35:43.735Z",
       "engine_version": "media-v1"
     }
   ]

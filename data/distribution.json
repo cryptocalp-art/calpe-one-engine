@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "DISTRIBUTION",
   "version": "distribution-v1",
-  "generated_at": "2026-09-25T22:24:48.546Z",
+  "generated_at": "2026-09-25T22:35:53.656Z",
   "archive_version": "archive-v1",
   "media_version": "media-v1",
   "site_url": "https://cryptocalp-art.github.io/calpe-one-engine",
@@ -65,14 +65,420 @@
     }
   ],
   "stats": {
-    "articles": 16,
-    "deliveries": 112,
-    "sent": 18,
+    "articles": 18,
+    "deliveries": 126,
+    "sent": 20,
     "pending": 0,
     "failed": 0,
-    "skipped": 94
+    "skipped": 106
   },
   "queue": [
+    {
+      "distribution_id": "dst_e5e05f6b27301bd2",
+      "dedupe_key": "arc_8031aaa3e6b91b49:RSS",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "RSS",
+      "adapter": "NATIVE_RSS",
+      "status": "SENT",
+      "reason": null,
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach\n\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": "2026-09-25T22:35:53.656Z",
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_18bc4a83e31bdab9",
+      "dedupe_key": "arc_8031aaa3e6b91b49:FACEBOOK",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "FACEBOOK",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach\n\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_4f125e905d84fb97",
+      "dedupe_key": "arc_8031aaa3e6b91b49:INSTAGRAM",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "INSTAGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach\n\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/\n\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_b0dd6cb0a83656be",
+      "dedupe_key": "arc_8031aaa3e6b91b49:X",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "X",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_2006f9928c9d345c",
+      "dedupe_key": "arc_8031aaa3e6b91b49:TELEGRAM",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "TELEGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "📰 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach\n\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_22d529e22fc1c844",
+      "dedupe_key": "arc_8031aaa3e6b91b49:WHATSAPP",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "WHATSAPP",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "📰 *832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach*\n\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_defe1a634b9dbceb",
+      "dedupe_key": "arc_8031aaa3e6b91b49:DISCORD",
+      "archive_id": "arc_8031aaa3e6b91b49",
+      "slug": "832-nadadores-travesia-penon-ifach-calp",
+      "category": "LOCAL",
+      "channel": "DISCORD",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
+        "text": "**832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach**\nLa XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_8031aaa3e6b91b49.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: 832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_1dace5915602b2df",
+      "dedupe_key": "arc_552c7b6f45a224ee:RSS",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "RSS",
+      "adapter": "NATIVE_RSS",
+      "status": "SENT",
+      "reason": null,
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa\n\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": "2026-09-25T22:35:53.656Z",
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_621de72dacd5ca8e",
+      "dedupe_key": "arc_552c7b6f45a224ee:FACEBOOK",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "FACEBOOK",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa\n\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_1ddd6df742f90608",
+      "dedupe_key": "arc_552c7b6f45a224ee:INSTAGRAM",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "INSTAGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa\n\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/\n\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_d827015f1cad25e0",
+      "dedupe_key": "arc_552c7b6f45a224ee:X",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "X",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_822782bd8f07e79d",
+      "dedupe_key": "arc_552c7b6f45a224ee:TELEGRAM",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "TELEGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "📰 Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa\n\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_f5d7848b1e099091",
+      "dedupe_key": "arc_552c7b6f45a224ee:WHATSAPP",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "WHATSAPP",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "📰 *Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa*\n\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_5ffc26b5885d1680",
+      "dedupe_key": "arc_552c7b6f45a224ee:DISCORD",
+      "archive_id": "arc_552c7b6f45a224ee",
+      "slug": "calp-marcha-rosa-4-octubre-2026",
+      "category": "SOCIEDAD",
+      "channel": "DISCORD",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
+        "text": "**Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa**\nLa Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_552c7b6f45a224ee.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
     {
       "distribution_id": "dst_911c295aa1db5fe5",
       "dedupe_key": "arc_5084bb5a8af7e780:RSS",
@@ -95,7 +501,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -124,7 +530,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -153,7 +559,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -182,7 +588,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -211,7 +617,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -240,7 +646,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -269,7 +675,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -298,7 +704,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -327,7 +733,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -356,7 +762,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -385,7 +791,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -414,7 +820,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -443,7 +849,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -472,7 +878,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -501,7 +907,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -530,7 +936,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -559,7 +965,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -588,7 +994,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -617,7 +1023,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -646,7 +1052,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -675,7 +1081,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -704,7 +1110,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -733,7 +1139,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -762,7 +1168,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -791,7 +1197,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -820,7 +1226,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -849,7 +1255,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -878,7 +1284,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -907,7 +1313,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -936,7 +1342,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:16:10.859Z",
       "attempts": 1,
       "last_error": null,
@@ -965,7 +1371,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T22:16:10.859Z",
       "attempts": 1,
       "last_error": null,
@@ -994,7 +1400,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1023,7 +1429,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1052,7 +1458,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1081,7 +1487,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1110,7 +1516,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1139,7 +1545,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1168,7 +1574,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1197,7 +1603,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1226,7 +1632,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1255,7 +1661,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1284,7 +1690,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1313,7 +1719,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1342,7 +1748,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1371,7 +1777,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1400,7 +1806,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1429,7 +1835,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1458,7 +1864,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1487,7 +1893,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1516,7 +1922,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1545,7 +1951,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1574,7 +1980,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1603,7 +2009,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1632,7 +2038,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1661,7 +2067,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1690,7 +2096,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1719,7 +2125,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -1748,7 +2154,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1777,7 +2183,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1806,7 +2212,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1835,7 +2241,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1864,7 +2270,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1893,7 +2299,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1922,7 +2328,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -1951,7 +2357,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1980,7 +2386,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2009,7 +2415,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2038,7 +2444,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2067,7 +2473,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2096,7 +2502,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2125,7 +2531,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2154,7 +2560,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2183,7 +2589,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2212,7 +2618,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2241,7 +2647,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2270,7 +2676,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2299,7 +2705,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2328,7 +2734,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2357,7 +2763,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2386,7 +2792,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2415,7 +2821,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2444,7 +2850,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2473,7 +2879,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2502,7 +2908,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2531,7 +2937,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2560,7 +2966,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2589,7 +2995,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2618,7 +3024,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2647,7 +3053,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2676,7 +3082,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2705,7 +3111,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2734,7 +3140,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2763,7 +3169,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2792,7 +3198,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2821,7 +3227,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2850,7 +3256,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2879,7 +3285,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2908,7 +3314,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2937,7 +3343,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2966,7 +3372,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2995,7 +3401,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3024,7 +3430,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3053,7 +3459,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3082,7 +3488,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3111,7 +3517,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3140,7 +3546,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -3169,7 +3575,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3198,7 +3604,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3227,7 +3633,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3256,7 +3662,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3285,7 +3691,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3314,7 +3720,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:24:48.546Z",
+      "updated_at": "2026-09-25T22:35:53.656Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
