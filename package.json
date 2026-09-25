@@ -1,6 +1,6 @@
 {
   "name": "calpe-one-engine",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,9 +11,12 @@
     "archive:merge": "node src/archive.mjs",
     "media": "node src/media.mjs",
     "build:web": "node src/build-site.mjs",
-    "distribution": "node src/distribution.mjs"
+    "distribution": "node src/distribution.mjs",
+    "meta:assets": "node src/meta-assets.mjs",
+    "meta:deliver": "node src/meta-delivery.mjs"
   },
   "dependencies": {
-    "openai": "^5.19.1"
+    "openai": "^5.19.1",
+    "sharp": "^0.34.3"
   }
 }
