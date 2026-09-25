@@ -1,0 +1,12 @@
+{
+  "name": "calpe-one-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "radar": "node src/radar.mjs"
+  },
+  "dependencies": {
+    "openai": "^5.19.1"
+  }
+}
