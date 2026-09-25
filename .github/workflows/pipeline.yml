@@ -51,26 +51,29 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
         run: npm run write
 
-      - name: 4. EXPORT — validate publication packages
+      - name: 4. QUALITY GATE — decide ELIGIBLE or QUARANTINED
+        run: npm run quality:gate
+
+      - name: 5. EXPORT — package only QUALITY GATE eligible drafts
         run: npm run export:vento
 
-      - name: 5. ARCHIVE — merge new verified articles
+      - name: 6. ARCHIVE — merge only gated eligible articles
         run: npm run archive:merge
 
-      - name: 6. MEDIA — assign safe editorial media
+      - name: 7. MEDIA — assign safe editorial media
         run: npm run media
 
-      - name: 7. WEB PUBLISHER — rebuild from archive and media
+      - name: 8. WEB PUBLISHER — rebuild from archive and media
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run build:web
 
-      - name: 8. META ASSETS — build committed social JPEG assets
+      - name: 9. META ASSETS — build committed social JPEG assets
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run meta:assets
 
-      - name: 9. DISTRIBUTION — update deduplicated delivery queue
+      - name: 10. DISTRIBUTION — update deduplicated delivery queue
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run distribution
