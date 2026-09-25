@@ -57,7 +57,10 @@ jobs:
       - name: 5. ARCHIVE — merge new verified articles
         run: npm run archive:merge
 
-      - name: 6. WEB PUBLISHER — rebuild from full archive
+      - name: 6. MEDIA — assign safe editorial media
+        run: npm run media
+
+      - name: 7. WEB PUBLISHER — rebuild from archive and media
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run build:web
