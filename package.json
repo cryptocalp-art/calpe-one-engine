@@ -1,12 +1,13 @@
 {
   "name": "calpe-one-engine",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "radar": "node src/radar.mjs",
     "investigate": "node src/investigate.mjs",
     "write": "node src/writer.mjs",
+    "quality:gate": "node src/quality-gate.mjs",
     "export:vento": "node src/export-vento.mjs",
     "archive:merge": "node src/archive.mjs",
     "media": "node src/media.mjs",
