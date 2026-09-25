@@ -1,0 +1,57 @@
+{
+  "contract_version": "vento-export-v1",
+  "engine": "CALPE ONE ENGINE",
+  "destination": "VENTO",
+  "mode": "EXPORT_ONLY",
+  "targets": {
+    "draft_storage": "calpe_drafts",
+    "news_storage": "calpe_news"
+  },
+  "rules": {
+    "only_verified_investigations": true,
+    "require_supported_claims": true,
+    "require_evidence": true,
+    "require_source_url": true,
+    "automatic_publish": false,
+    "on_validation_failure": "QUARANTINE"
+  },
+  "draft_fields": [
+    "external_id",
+    "investigation_id",
+    "candidate_fingerprint",
+    "title",
+    "subtitle",
+    "summary",
+    "body",
+    "category",
+    "slug",
+    "seo_title",
+    "meta_description",
+    "status",
+    "review_required",
+    "publishable_by_engine",
+    "editorial_notes",
+    "sources",
+    "source_urls",
+    "provenance",
+    "created_at",
+    "engine_version"
+  ],
+  "news_fields": [
+    "external_id",
+    "title",
+    "slug",
+    "summary",
+    "body",
+    "category",
+    "seo_title",
+    "meta_description",
+    "status",
+    "published_at",
+    "source_urls",
+    "sources",
+    "investigation_id",
+    "candidate_fingerprint",
+    "engine_version"
+  ]
+}
