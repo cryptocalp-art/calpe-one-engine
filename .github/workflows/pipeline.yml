@@ -65,6 +65,11 @@ jobs:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run build:web
 
+      - name: 8. DISTRIBUTION — update deduplicated delivery queue
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run distribution
+
       - name: Commit complete pipeline output
         run: |
           git config user.name "CALPE ONE ENGINE"
