@@ -1,40 +1,86 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-25T18:29:09.135Z",
+  "generated_at": "2026-09-25T19:03:00.083Z",
   "model": "gpt-5.6-luna",
   "count": 8,
   "investigations": [
     {
-      "candidate_fingerprint": "9d5a032dc1cd3a4b2e5af24f3b0eace3bd662ccc9dbe674c2b7fb87b1306b9e3",
-      "title": "Calp pone en marcha un nuevo servicio de limpieza y mantenimiento de playas",
+      "candidate_fingerprint": "54f42e2d2b225bbf6c12f24284ffbac476463b11a90ea4f484cb7385090b7ff4",
+      "title": "El ministro de Industria y Turismo entrega a Calp el distintivo de Fiesta de Interés Turístico Nacional",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La adjudicación a FCC Medio Ambiente y las principales condiciones económicas y operativas están respaldadas por la nota municipal y por registros independientes de contratación pública.",
+      "summary": "La noticia está respaldada por la nota oficial del Ayuntamiento y por una corroboración independiente de Cadena SER. La declaración nacional y la entrega del diploma en Madrid aparecen suficientemente acreditadas.",
       "claims": [
         {
-          "claim": "El servicio ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
+          "claim": "Ana Sala recogió en el Teatro Real de Madrid el distintivo de Fiesta de Interés Turístico Nacional para los Moros y Cristianos de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La inversión anual asciende a 639.726,71 euros.",
+          "claim": "La entrega corrió a cargo del ministro Jordi Hereu y de la secretaria de Estado de Turismo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La inversión supone aproximadamente un 40% más que el servicio anterior.",
+          "claim": "La declaración fue concedida por el Ministerio de Industria y Turismo en septiembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Está previsto que el servicio comience el 1 de noviembre de 2026.",
+          "claim": "Las fiestas se celebran en torno al 22 de octubre y conmemoran su 50 aniversario entre 2026 y 2027.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el",
+          "evidence": "La nota oficial, fechada el 25 de septiembre de 2026, informa de la recogida del distintivo en el Teatro Real, identifica a Jordi Hereu como responsable de la entrega y señala la declaración nacional, la celebración en torno al 22 de octubre y el 50 aniversario entre este año y el siguiente.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/10/los-moros-y-cristianos-de-calp-conquistan-el-reconocimiento-de-fiesta-de-interes-turistico-nacional-radio-denia/",
+          "evidence": "La emisora informa el 10 de septiembre de 2026 de que el Ministerio de Industria y Turismo concedió a los Moros y Cristianos de Calp la declaración de Fiesta de Interés Turístico Nacional y relaciona el reconocimiento con el 50 aniversario de la celebración.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "MarinaAlta.es",
+          "source_url": "https://marinaalta.es/ca/2026/09/las-fiestas-de-moros-y-cristianos-de-calp-logran-la-declaracion-de-fiesta-de-interes-turistico-nacional/",
+          "evidence": "El medio comarcal también informa de la declaración nacional concedida por el Ministerio y de su coincidencia con la conmemoración del 50 aniversario.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [],
+      "id": "inv_d04152901b08946e",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "031bd6139a6dbf97baed005bc2d43b1e2aa2a8979440585d85eca0a70c9aa912",
+      "title": "Calp refuerza el servicio de limpieza y mantenimiento de playas con un contrato de 639.726 euros anuales",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La adjudicación a FCC Medio Ambiente, la cuantía anual, el incremento de inversión, la ampliación de temporadas y el inicio previsto el 1 de noviembre están respaldados por la nota oficial. Un registro independiente de contratación confirma la adjudicación y el importe global del contrato.",
+      "claims": [
+        {
+          "claim": "El servicio fue adjudicado a FCC Medio Ambiente, S.A.U.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato incorpora más personal, maquinaria, frecuencias y periodos de prestación.",
+          "claim": "La inversión anual prevista es de 639.726,71 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El servicio incluye la limpieza de calas de difícil acceso y actuaciones en otros puntos del litoral.",
+          "claim": "La inversión supone un aumento del 40 % respecto al servicio anterior.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El nuevo servicio está previsto para comenzar el 1 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tendrá una duración prevista de cuatro años y amplía temporadas, personal, maquinaria y actuaciones a calas y otros puntos del litoral.",
           "status": "SUPPORTED"
         }
       ],
@@ -42,252 +88,37 @@
         {
           "source_name": "Ayuntamiento de Calp",
           "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "evidence": "La nota municipal informa de la adjudicación a FCC Medio Ambiente, una inversión anual de 639.726,71 euros, el inicio previsto para el 1 de noviembre, el refuerzo de personal y maquinaria, el aumento de frecuencias y la incorporación de la limpieza de calas de difícil acceso.",
+          "evidence": "La nota oficial identifica a FCC Medio Ambiente como adjudicataria, cifra la inversión en 639.726,71 euros anuales, indica el incremento del 40 %, fija el inicio previsto para el 1 de noviembre y detalla las mejoras en temporadas, frecuencias, personal, maquinaria y limpieza de calas y litoral.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Licitacion.eu",
           "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "evidence": "El registro de contratación identifica el contrato de limpieza y mantenimiento de playas y calas de Calp, adjudicado a FCC Medio Ambiente, con un importe total de 639.726,71 euros y fecha de adjudicación del 10 de julio de 2026.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Adjudera",
-          "source_url": "https://www.adjudera.com/es/adjudicatario/fcc-medio-ambiente-s-a-u",
-          "evidence": "La base de datos de contratos públicos recoge la adjudicación del servicio de playas y calas de Calp a FCC Medio Ambiente por un importe adjudicado de aproximadamente 581.570 euros.",
+          "evidence": "El registro de contratación recoge el expediente del servicio de playas de Calp, la adjudicación a FCC Medio Ambiente, el contrato 151/2026, la fecha de adjudicación del 10 de julio de 2026 y un importe total adjudicado de 639.726,71 euros.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El importe de 639.726,71 euros figura como importe total del contrato, mientras que algunas bases de contratación muestran 581.569,74 euros como importe adjudicado sin impuestos o bajo una clasificación distinta."
+        "El registro de contratación diferencia entre una cifra de oferta adjudicada y el importe total del contrato; la cifra anual comunicada por el Ayuntamiento es 639.726,71 euros."
       ],
-      "id": "inv_1abdb3f3572a7fe3",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
+      "id": "inv_f1fb70d120479fcb",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "26427d83b683128db8e2f48903a327db44f1ab9f74f91772b014fcdc2f46e468",
-      "title": "Los Moros y Cristianos de Calp reciben el distintivo de Fiesta de Interés Turístico Nacional",
+      "candidate_fingerprint": "f427044d66f74369b5e1e73db3578d3c9d4826f216e83249783be97b83a4cd75",
+      "title": "Calp impulsa una campaña para recuperar residentes no inscritos o con el padrón caducado",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La declaración oficial está acreditada por una resolución del BOE. La entrega del distintivo a Ana Sala en el Teatro Real y la intervención de Jordi Hereu están respaldadas por el Ayuntamiento y por la cobertura de Cadena SER.",
+      "summary": "La campaña, su público objetivo, el reparto de 5.000 bolígrafos y las reglas de renovación del padrón están respaldados tanto por el Ayuntamiento como por Cadena SER Radio Dénia.",
       "claims": [
         {
-          "claim": "Las fiestas de Moros y Cristianos de Calp han sido declaradas Fiesta de Interés Turístico Nacional.",
+          "claim": "El Ayuntamiento ha puesto en marcha la campaña “Tu voz cuenta” para fomentar el empadronamiento y la renovación de inscripciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La declaración fue concedida mediante resolución de la Secretaría de Estado de Turismo de 22 de agosto de 2026 y publicada en el BOE el 21 de septiembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Ana Sala recogió el distintivo en el Teatro Real de Madrid el 25 de septiembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La entrega corrió a cargo de Jordi Hereu y Rosario Sánchez Grau.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La declaración es la número 26 de este tipo en la Comunitat Valenciana y la número 168 de España.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
-          "evidence": "La resolución oficial concede el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp y fue publicada en el BOE número 233, de 21 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el",
-          "evidence": "El Ayuntamiento informa de que Ana Sala recogió el distintivo el 25 de septiembre en el Teatro Real, entregado por Jordi Hereu y Rosario Sánchez Grau, y aporta las cifras de la declaración en la Comunitat Valenciana y España.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/10/los-moros-y-cristianos-de-calp-conquistan-el-reconocimiento-de-fiesta-de-interes-turistico-nacional-radio-denia/",
-          "evidence": "La emisora informa de la concesión del reconocimiento por el Ministerio y confirma que las fiestas pasan a ser la número 26 de la Comunitat Valenciana y la número 168 de España.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La resolución oficial acredita la concesión del título; la ceremonia de entrega del distintivo está respaldada por la información municipal y la cobertura periodística, no por el texto de la resolución del BOE."
-      ],
-      "id": "inv_ed279b11b7be7be4",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "ffc463af93b36d74ce9cdc78298050aebba5d1dee0aa5ac701fe21f8569c0eab",
-      "title": "Calp y Oceana impulsan una jornada sobre la futura Reserva Marina del Penyal d’Ifac",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La convocatoria de la jornada y sus objetivos están respaldados por una nota oficial del Ayuntamiento, la agenda municipal y referencias de medios locales. La reserva marina todavía es una propuesta, no una declaración aprobada.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp y Oceana organizan una jornada informativa sobre una posible Reserva Marina en el entorno del Penyal d’Ifac.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La jornada está prevista para el 25 de septiembre de 2026 a las 19:00 en Casa Nova.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La jornada aborda los valores naturales del fondo marino y los posibles efectos de la protección sobre los ecosistemas y la actividad económica vinculada al mar.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La propuesta parte de un acuerdo plenario para solicitar a la Generalitat la creación de una reserva marina entre las faldas del Penyal d’Ifac y el entorno de la playa de la Fossa.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La futura protección podría favorecer la biodiversidad y la recuperación de recursos pesqueros.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
-          "evidence": "La nota municipal confirma la organización conjunta con Oceana, la fecha, hora y lugar de la jornada, los participantes y los temas relativos a valores naturales, conservación de ecosistemas y actividad económica vinculada al mar.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%8C%8A-el-ayuntamiento-de-calp-y-oceana-organizan-una-jornada-informativa-sobre-la-importancia-de-declarar-reserva-marina-el-entorno-del-penyal-difac/",
-          "evidence": "La agenda municipal registra la actividad sobre la declaración de una Reserva Marina en el entorno del Penyal d’Ifac para el 25 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/zona/sociedad/",
-          "evidence": "La sección de sociedad del medio local identifica la convocatoria como una noticia sobre científicos y pescadores debatiendo la Reserva Marina del Penyal d’Ifac en Calp.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La Reserva Marina no aparece como declarada; la noticia se refiere a una propuesta y a una jornada informativa para debatirla.",
-        "La evidencia independiente localizada confirma la convocatoria y el debate, pero no aporta documentación adicional sobre el acuerdo plenario o el expediente administrativo."
-      ],
-      "id": "inv_6a75178d65716f08",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "1bcdefbfc34b66790b1a35675889251800337bc9add0762078d2778d0856a0f5",
-      "title": "El Ayuntamiento completa la limpieza preventiva de más de 530 imbornales y colectores",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La campaña, el número de puntos revisados y su distribución territorial están respaldados por una fuente municipal y por cobertura independiente de Canfali.",
-      "claims": [
-        {
-          "claim": "Aguas de Calpe ha completado una campaña de revisión y limpieza preventiva de imbornales y colectores.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se han revisado y limpiado más de 530 puntos de recogida de aguas pluviales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los puntos se distribuyen por 77 calles, avenidas y partidas del municipio.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La actuación se realizó antes de la temporada de lluvias de otoño.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://www.calp.es/es/aggregator/sources/7",
-          "evidence": "La información municipal indica que Aguas de Calpe ejecutó durante agosto y septiembre la revisión y limpieza de más de 530 puntos de recogida de aguas pluviales distribuidos en 77 calles, avenidas y partidas.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/calp-limpia-los-imbornales-antes-del-inicio-de-las-lluvias/",
-          "evidence": "El medio local confirma la finalización de la campaña y las cifras de más de 530 puntos y 77 calles, avenidas y partidas antes de las lluvias otoñales.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [],
-      "id": "inv_987e8bfa4b0a4cd6",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "416b0cd4f6c3f3434bf70d009b60ad908ac57ab81e2f41f5318ac047b511df2f",
-      "title": "Calp abre la consulta pública para revisar la ordenanza acústica",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La apertura de la consulta y su plazo están acreditados por la sede electrónica municipal y por una publicación de Calp Comunica. Una fuente local independiente también recoge la iniciativa.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp ha abierto una consulta pública previa para modificar la ordenanza sobre condiciones acústicas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La consulta permanece abierta hasta el 20 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La revisión afecta a actividades de ocio, servicios, edificaciones y comportamiento ciudadano.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Entre los aspectos planteados figuran horarios especiales de verano para obras, adaptación normativa, inspección, control y sanciones.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Sede Electrónica del Ayuntamiento de Calp",
-          "source_url": "https://calp.sedelectronica.es/info.0",
-          "evidence": "El tablón municipal registra el anuncio de consulta pública previa para modificar la ordenanza sobre condiciones acústicas de Calp, con fecha de 18 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%94%8A-el-ayuntamiento-de-calp-abre-una-consulta-publica-previa-a-la-modificacion-de-la-ordenanza-sobre-condiciones-acusticas/",
-          "evidence": "La publicación municipal indica que el trámite estará abierto hasta el 20 de octubre de 2026 y enumera los ámbitos de la revisión, incluidos horarios de obras, actividades, inspección, control y sanciones.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://nl.lamarinaalta.com/calp-abre-una-consulta-publica-para-modificar-su-ordenanza-de-ruidos/",
-          "evidence": "El medio local informa de la apertura de la consulta, su finalidad y la fecha límite del 20 de octubre de 2026.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La URL de noticias.calp.es facilitada en el candidato devolvió un error 404 durante la comprobación, pero el trámite aparece en la sede electrónica y en Calp Comunica."
-      ],
-      "id": "inv_4a1cd645ef158b58",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "3ee46fd9d3afb0a29afa99e2c02fd0a8bfafb78415e80b6259d2336d86a7b108",
-      "title": "El Ayuntamiento lanza la campaña “Tu voz cuenta” para actualizar el padrón municipal",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La campaña, el incentivo de 5.000 bolígrafos y los objetivos dirigidos a nuevos residentes y población extranjera están respaldados por el Ayuntamiento y por Cadena SER.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento ha puesto en marcha la campaña “Tu voz cuenta. Empadrónate o renueva tu inscripción”.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La campaña busca nuevas altas y renovaciones del padrón, especialmente entre la población extranjera.",
+          "claim": "La campaña presta especial atención a la población extranjera.",
           "status": "SUPPORTED"
         },
         {
@@ -295,11 +126,11 @@
           "status": "SUPPORTED"
         },
         {
-          "claim": "La campaña está subvencionada por la Diputación de Alicante.",
+          "claim": "Los residentes extranjeros deben renovar la inscripción cada cinco o dos años según su situación administrativa.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento estima que cientos de residentes extranjeros no constan en los datos del INE por no haber renovado su inscripción.",
+          "claim": "El empadronamiento permite acceder a determinados servicios y beneficios municipales.",
           "status": "SUPPORTED"
         }
       ],
@@ -307,49 +138,43 @@
         {
           "source_name": "Ayuntamiento de Calp",
           "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-lanza-la-campa%C3%B1a-tu-voz-cuenta-para-incentivar-el-empadronamiento-y",
-          "evidence": "La nota municipal confirma la campaña, sus destinatarios, la subvención de la Diputación de Alicante, el reparto de 5.000 bolígrafos y los plazos de renovación para distintos grupos de residentes extranjeros.",
+          "evidence": "La nota oficial describe la campaña, su orientación a nuevos residentes y población extranjera, el reparto de 5.000 bolígrafos, los plazos de renovación y varios servicios vinculados al empadronamiento.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Cadena SER Radio Dénia",
           "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/23/calp-busca-recuperar-a-cientos-de-residentes-que-no-constan-oficialmente-en-el-padron-radio-denia/?outputType=amp",
-          "evidence": "La emisora confirma la campaña, el reparto de 5.000 bolígrafos, el objetivo de recuperar residentes que no constan oficialmente y los requisitos básicos para empadronarse o renovar la inscripción.",
+          "evidence": "La información independiente confirma la campaña, el incentivo de 5.000 bolígrafos, la atención especial a residentes extranjeros, los plazos de renovación y los servicios municipales asociados al padrón.",
           "source_type": "SECONDARY"
         }
       ],
-      "caveats": [
-        "La cifra de cientos de residentes extranjeros es una estimación del Ayuntamiento, no un recuento independiente publicado por el INE."
-      ],
-      "id": "inv_c60139025190f08e",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
+      "caveats": [],
+      "id": "inv_3f16abcdfbf490b4",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "e73043b710075138791c8f4ef72640112e7757ee665639106ac7e32f2809063c",
-      "title": "Calp pone en marcha “Espai Famílies”, un nuevo recurso municipal de apoyo",
+      "candidate_fingerprint": "953e8c335cdf591a65ec555e38c70f40468d8d500fa771be81137809bbdf19bb",
+      "title": "El Ayuntamiento pone en marcha “Espai Famílies”, un nuevo recurso municipal de apoyo a la crianza",
       "status": "VERIFIED",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La creación del recurso y su programación gratuita están respaldadas por el Ayuntamiento, Calp Comunica y una información independiente de Calp Digital.",
+      "summary": "La existencia del recurso, sus objetivos, el carácter gratuito de las actividades y la programación inicial están respaldados por la nota oficial y una publicación del canal municipal Calp Comunica. No se ha localizado una fuente periodística independiente adicional.",
       "claims": [
         {
-          "claim": "El Ayuntamiento ha puesto en marcha Espai Famílies como espacio de encuentro, apoyo, aprendizaje y participación para familias.",
+          "claim": "El Ayuntamiento ha creado “Espai Famílies” como recurso municipal de apoyo, encuentro y participación familiar.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El programa ofrece actividades gratuitas sobre crianza, pantallas, igualdad, convivencia y relaciones saludables.",
+          "claim": "El programa aborda cuestiones como crianza, uso de pantallas, igualdad y relaciones saludables.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La primera actividad es una gymkana familiar el 26 de septiembre de 2026.",
+          "claim": "Las actividades del primer trimestre son gratuitas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La gymkana se celebra de 11:00 a 12:30 en el Parc dels Garrofers.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación inicial incluye actividades hasta diciembre de 2026.",
+          "claim": "La primera actividad está prevista para el 26 de septiembre en el Parc dels Garrofers.",
           "status": "SUPPORTED"
         }
       ],
@@ -357,81 +182,199 @@
         {
           "source_name": "Ayuntamiento de Calp",
           "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-espai-fam%C3%ADlies-un-nuevo-espacio-de-encuentro-y-apoyo",
-          "evidence": "La nota municipal describe Espai Famílies, sus objetivos, la programación del primer trimestre, la gratuidad de las actividades y la gymkana del 26 de septiembre en el Parc dels Garrofers.",
+          "evidence": "La nota oficial presenta Espai Famílies como un espacio municipal de apoyo y encuentro, detalla sus objetivos, confirma que las actividades son gratuitas y fija la primera gymkana familiar para el 26 de septiembre en el Parc dels Garrofers.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/events/%F0%9F%91%A8%F0%9F%91%A9%F0%9F%91%A7%F0%9F%91%A6-calp-town-hall-launches-espai-families-a-new-meeting-and-support-space-for-families/?lang=en",
-          "evidence": "La agenda municipal confirma el recurso, sus objetivos y las cuatro actividades gratuitas previstas entre el 26 de septiembre y el 3 de diciembre de 2026.",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%91%A8%F0%9F%91%A9%F0%9F%91%A7%F0%9F%91%A6-el-ayuntamiento-de-calp-pone-en-marcha-espai-families-un-nuevo-espacio-de-encuentro-y-apoyo-para-las-familias/",
+          "evidence": "El canal municipal reproduce la programación del primer trimestre, las fechas, los lugares y el carácter gratuito de las actividades de Espai Famílies.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12326/calp-pone-en-marcha-espai-families-un-nuevo-espacio-de-apoyo-y-encuentro-para-las-familias",
-          "evidence": "El medio local informa del lanzamiento de Espai Famílies, de sus actividades gratuitas y de la gymkana familiar prevista para el 26 de septiembre en el Parc dels Garrofers.",
-          "source_type": "SECONDARY"
         }
       ],
-      "caveats": [],
-      "id": "inv_db7a7e97004a44f7",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
+      "caveats": [
+        "La corroboración localizada procede de canales municipales; no se ha encontrado una fuente periodística independiente que confirme la iniciativa."
+      ],
+      "id": "inv_409c5610e5f0239b",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "145d0d1b3ba28aa691712aad4b907b5c86d774c3dfe5c9e213f5c36910df4b80",
-      "title": "Calp inicia la remodelación del parque Arco Iris con una inversión de 114.829 euros",
+      "candidate_fingerprint": "16f6be864260cc8cec55e96fa216c1bd9b252daa6d791b10d64d55450a2344d6",
+      "title": "Calp y Oceana promueven una Reserva Marina en el entorno del Penyal d’Ifac",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El inicio de las obras, la inversión, el plazo de seis semanas y las actuaciones previstas están corroborados por Calp Digital y por información previa de contratación y proyecto.",
+      "summary": "La nota oficial y una información independiente de La Marina Plaza/eldiario.es corroboran la celebración de la jornada, el objetivo de estudiar una Reserva Marina entre el Penyal d’Ifac y la playa de la Fossa, y el apoyo de la Cofradía de Pescadores.",
       "claims": [
         {
-          "claim": "Las obras de remodelación del parque Arco Iris han comenzado en septiembre de 2026.",
+          "claim": "El Ayuntamiento de Calp y Oceana organizaron una jornada ciudadana sobre una posible Reserva Marina.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación supone una inversión de 114.829 euros.",
+          "claim": "La propuesta afecta al espacio entre las faldas del Penyal d’Ifac y el entorno de la playa de la Fossa.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plazo previsto de ejecución es de seis semanas.",
+          "claim": "La iniciativa pretende reforzar la protección ambiental y analizar sus efectos sobre la actividad económica vinculada al mar.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla renovar el pavimento y crear una nueva zona infantil con estructura multijuegos y suelo de seguridad.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La obra fue anunciada previamente por el Ayuntamiento y la licitación aparece registrada en plataformas de contratación pública.",
+          "claim": "La Cofradía de Pescadores de Calp apoya la iniciativa.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12315/calp-inicia-la-remodelacion-del-parque-arco-iris-con-una-inversion-de-114829-euros",
-          "evidence": "La información publicada el 22 de septiembre confirma que las obras comenzaron esa semana, detalla la inversión de 114.829 euros, el plazo estimado de seis semanas, la renovación del pavimento y la nueva zona infantil.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "evidence": "La nota oficial anuncia la jornada del 25 de septiembre, identifica a Oceana y al Ayuntamiento como organizadores, delimita el área propuesta y explica los posibles efectos ambientales y económicos, incluido el apoyo de la Cofradía de Pescadores.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina-El Diario",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/07/09/aixi-sera-el-nou-parc-arco-iris-de-calp-despres-duna-inversio-de-114-829-euros/",
-          "evidence": "La información de julio recoge la propuesta de adjudicación, la inversión, la renovación del pavimento, la estructura multijuegos, los elementos amortiguadores y el plazo de seis semanas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicitar",
-          "source_url": "https://www.alicitar.es/licitacion/9325274/suministro-e-instalacion-de-conjunto-de-juegos-infantiles-con-adecuacion-del-pav",
-          "evidence": "El registro de contratación identifica la licitación municipal para suministro e instalación de juegos infantiles y adecuación del pavimento del parque Arco Iris, publicada en mayo de 2026 y adjudicada el 22 de julio de 2026.",
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/09/22/calp-i-oceana-sotmeten-a-debat-la-proteccio-del-litoral-del-penyal-difac-com-a-reserva-marina/",
+          "evidence": "El medio comarcal confirma la convocatoria de la reunión ciudadana, su objetivo de dar a conocer la declaración de una Reserva Marina y el ámbito comprendido entre las faldas del Penyal y la playa de la Fossa.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La cifra de 114.829 euros procede de la información municipal reproducida por los medios; la plataforma de contratación consultada muestra un presupuesto base distinto, por lo que conviene precisar si la cifra municipal incluye impuestos o conceptos complementarios."
+        "La noticia acredita una propuesta y una jornada informativa, no la declaración efectiva de la Reserva Marina."
       ],
-      "id": "inv_f433b039f2d20f84",
-      "investigated_at": "2026-09-25T18:29:09.135Z",
+      "id": "inv_405e64f2301ce778",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "9d11ff2f33b0266843103a714ea0844a49c67cbb7aadb52ccfa92b9bce4bcb5e",
+      "title": "Calp completa la limpieza preventiva de más de 530 imbornales antes de la temporada de lluvias",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La nota oficial de Aguas de Calpe y el Ayuntamiento respalda directamente la limpieza de más de 530 puntos distribuidos en 77 calles, avenidas y partidas. No se ha localizado una corroboración periodística independiente específica.",
+      "claims": [
+        {
+          "claim": "Aguas de Calpe completó una campaña preventiva de revisión y limpieza de imbornales y colectores.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se revisaron y limpiaron más de 530 puntos de recogida de aguas pluviales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los puntos están distribuidos en 77 calles, avenidas y partidas del municipio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los trabajos se realizaron antes de la temporada de lluvias otoñales.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-completa-la-campa%C3%B1a-anual-de-limpieza-preventiva-de-imbornales-antes",
+          "evidence": "La nota oficial informa de la campaña ejecutada por Aguas de Calpe durante agosto y septiembre y cifra en más de 530 los puntos revisados y limpiados, distribuidos en 77 calles, avenidas y partidas.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha encontrado una fuente independiente que confirme específicamente las cifras de 530 puntos y 77 vías."
+      ],
+      "id": "inv_f68c7d84e3447d20",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "34b9b16b9f889133f0ee4316758aa9a1c482c4d5a58bb8d5b37bab1eac54beaa",
+      "title": "Calp abre la consulta pública para modificar su ordenanza sobre ruido y condiciones acústicas",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La apertura de la consulta, el plazo del 20 de octubre y los contenidos previstos para la reforma están respaldados por la nota municipal y por el canal Calp Comunica. La información se refiere a una consulta previa, no a una modificación ya aprobada.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento abrió una consulta pública previa para modificar la ordenanza sobre condiciones acústicas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo de participación permanece abierto hasta el 20 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La revisión contempla horarios especiales de obras, actividades secundarias y el régimen de inspección, control y sanción.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La consulta puede realizarse presencialmente o por vía telemática.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-abre-una-consulta-p%C3%BAblica-previa-la-modificaci%C3%B3n-de-la-ordenanza",
+          "evidence": "La noticia oficial anuncia la consulta previa, fija el 20 de octubre como fecha límite y describe los ámbitos de la revisión: horarios de obras, actividades secundarias y sistemas de inspección, control y sanción.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%94%8A-el-ayuntamiento-de-calp-abre-una-consulta-publica-previa-a-la-modificacion-de-la-ordenanza-sobre-condiciones-acusticas/",
+          "evidence": "El canal municipal confirma el plazo de participación hasta el 20 de octubre de 2026, los contenidos de la revisión y las vías presencial y telemática para presentar opiniones.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La consulta pública no implica que la ordenanza haya sido modificada o aprobada definitivamente."
+      ],
+      "id": "inv_9d8b9f3518193e58",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "a3322aa024c64b0acec60b733e90960c147e7deafb8f904f78c081a13557662b",
+      "title": "Calp completa el trámite municipal para que la Generalitat evalúe el futuro segundo centro de salud",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La noticia está corroborada por la nota oficial del Ayuntamiento y por una información independiente de La Marina Plaza/eldiario.es. Ambas fuentes coinciden en el acuerdo plenario, la parcela de 13.675 metros cuadrados en Gargasindi y el carácter todavía evaluativo del trámite.",
+      "claims": [
+        {
+          "claim": "El pleno aprobó por unanimidad el compromiso municipal de acondicionar y dotar de suministros la parcela propuesta para el segundo centro de salud.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La parcela tiene 13.675 metros cuadrados y se ubica en Gargasindi, junto al IES Les Salines.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El trámite permite a la Conselleria de Sanidad estudiar la viabilidad e idoneidad del terreno.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La construcción del segundo centro de salud todavía no está aprobada ni ejecutada.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-aprueba-el-%C3%BAltimo-tr%C3%A1mite-para-que-la-generalitat-valenciana-eval%C3%BAe",
+          "evidence": "La nota oficial informa del acuerdo plenario unánime, identifica la parcela de 13.675 m² en Gargasindi y explica que el compromiso municipal es un requisito para que la Generalitat estudie la viabilidad del solar.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/09/17/el-nuevo-centro-de-salud-que-calp-espera-desde-hace-mas-de-20-anos-ya-solo-depende-de-la-conselleria/",
+          "evidence": "La información independiente confirma el acuerdo del pleno, la superficie y ubicación de la parcela y señala que el Ayuntamiento remite el expediente a la Conselleria, por lo que la infraestructura depende todavía de una evaluación autonómica.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La información no acredita que la Generalitat haya aceptado definitivamente la parcela ni que haya aprobado la construcción del centro."
+      ],
+      "id": "inv_c02661a7eccc7136",
+      "investigated_at": "2026-09-25T19:03:00.083Z",
       "model": "gpt-5.6-luna"
     }
   ]
