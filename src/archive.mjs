@@ -77,6 +77,7 @@ function packetToArticle(packet, exportDoc) {
 
   if (!news.title || !news.slug || !news.body) return null;
   if (provenance.investigation_status !== "VERIFIED") return null;
+  if (provenance.quality_gate_status !== "ELIGIBLE") return null;
   if (Number(provenance.supported_claim_count || 0) < 2) return null;
   if (Number(provenance.evidence_count || 0) < 1) return null;
 
