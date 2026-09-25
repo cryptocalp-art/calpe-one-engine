@@ -27,9 +27,9 @@ if (!eligible.length) {
   );
   await fs.writeFile(
     "data/writer-last-run.json",
-    JSON.stringify({ status: "success", generated_at: now, model, drafts_created: 0 }, null, 2) + "\n"
+    JSON.stringify({ status: "success", generated_at: now, model, drafts_created: 0, pending_quality_gate: 0 }, null, 2) + "\n"
   );
-  console.log(JSON.stringify({ drafts_created: 0 }, null, 2));
+  console.log(JSON.stringify({ drafts_created: 0, pending_quality_gate: 0 }, null, 2));
   process.exit(0);
 }
 
@@ -96,7 +96,7 @@ const prompt = `
 Eres el WRITER de CALPE ONE, un periódico digital local de Calp.
 Fecha de redacción: ${now}.
 
-Tu misión es redactar un BORRADOR periodístico por cada expediente recibido.
+Tu misión es redactar un BORRADOR periodístico por cada expediente recibido. El borrador pasará después por un QUALITY GATE automático independiente antes de poder publicarse.
 
 REGLAS INNEGOCIABLES:
 - Usa EXCLUSIVAMENTE los hechos presentes en supported_claims y evidences del expediente.
@@ -149,14 +149,14 @@ const drafts = (parsed.drafts || [])
       source_type: e.source_type
     }));
     const draftId = `drf_${crypto.createHash("sha256").update(`${d.investigation_id}|${d.headline}`).digest("hex").slice(0, 16)}`;
+    const investigation = eligible.find((i) => i.id === d.investigation_id);
     return {
       id: draftId,
       investigation_id: d.investigation_id,
-      candidate_fingerprint: eligible.find((i) => i.id === d.investigation_id)?.candidate_fingerprint || null,
-      category: candidateByFingerprint.get(eligible.find((i) => i.id === d.investigation_id)?.candidate_fingerprint)?.category || "LOCAL",
-      status: "DRAFT",
-      review_required: true,
-      publishable_by_engine: false,
+      candidate_fingerprint: investigation?.candidate_fingerprint || null,
+      category: candidateByFingerprint.get(investigation?.candidate_fingerprint)?.category || "LOCAL",
+      status: "PENDING_GATE",
+      quality_gate_required: true,
       created_at: now,
       model,
       headline: d.headline,
@@ -170,7 +170,7 @@ const drafts = (parsed.drafts || [])
       sources,
       provenance: {
         investigation_status: "VERIFIED",
-        confidence: eligible.find((i) => i.id === d.investigation_id)?.confidence || null,
+        confidence: investigation?.confidence || null,
         supported_claim_count: dossier.supported_claims.length,
         evidence_count: dossier.evidences.length,
         caveats: dossier.caveats
@@ -185,7 +185,7 @@ await fs.writeFile(
 );
 await fs.writeFile(
   "data/writer-last-run.json",
-  JSON.stringify({ status: "success", generated_at: now, model, drafts_created: drafts.length, review_required: drafts.length }, null, 2) + "\n"
+  JSON.stringify({ status: "success", generated_at: now, model, drafts_created: drafts.length, pending_quality_gate: drafts.length }, null, 2) + "\n"
 );
 
-console.log(JSON.stringify({ drafts_created: drafts.length, status: "DRAFT", review_required: drafts.length }, null, 2));
+console.log(JSON.stringify({ drafts_created: drafts.length, status: "PENDING_GATE", pending_quality_gate: drafts.length }, null, 2));
