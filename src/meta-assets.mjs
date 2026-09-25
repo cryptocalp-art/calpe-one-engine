@@ -4,6 +4,7 @@ import sharp from "sharp";
 
 const now = new Date().toISOString();
 const siteUrl = (process.env.SITE_URL || "https://cryptocalp-art.github.io/calpe-one-engine").replace(/\/$/, "");
+const repository = process.env.GITHUB_REPOSITORY || "cryptocalp-art/calpe-one-engine";
 const media = JSON.parse(await fs.readFile("data/media.json", "utf8"));
 
 const outDir = "docs/media";
@@ -13,6 +14,10 @@ function absoluteUrl(value = "") {
   if (!value) return null;
   if (/^https?:\/\//i.test(value)) return value;
   return `${siteUrl}${value.startsWith("/") ? "" : "/"}${value}`;
+}
+
+function rawAssetUrl(fileName) {
+  return `https://raw.githubusercontent.com/${repository}/main/docs/media/${fileName}`;
 }
 
 function isJpegUrl(value = "") {
@@ -32,6 +37,7 @@ let unavailable = 0;
 for (const item of media.items || []) {
   const selected = item?.selected || {};
   let metaImageUrl = absoluteUrl(selected.image_url || "");
+  let publicImageUrl = metaImageUrl;
   let localJpeg = null;
   let ready = false;
   let reason = null;
@@ -46,13 +52,15 @@ for (const item of media.items || []) {
         .jpeg({ quality: 90, mozjpeg: true })
         .toFile(jpgPath);
       localJpeg = jpgPath;
-      metaImageUrl = `${siteUrl}/media/${item.archive_id}.jpg`;
+      publicImageUrl = `${siteUrl}/media/${item.archive_id}.jpg`;
+      metaImageUrl = rawAssetUrl(`${item.archive_id}.jpg`);
       ready = true;
       generated++;
     } catch (error) {
       reason = `JPEG_GENERATION_FAILED: ${String(error?.message || error).slice(0, 240)}`;
     }
   } else if (selected.mode === "LICENSED_REMOTE" && isJpegUrl(metaImageUrl || "")) {
+    publicImageUrl = metaImageUrl;
     ready = true;
   } else {
     reason = "NO_META_COMPATIBLE_JPEG";
@@ -68,6 +76,7 @@ for (const item of media.items || []) {
     media_mode: selected.mode || null,
     rights_status: selected.rights_status || null,
     source_image_url: absoluteUrl(selected.image_url || ""),
+    public_image_url: publicImageUrl,
     meta_image_url: metaImageUrl,
     local_jpeg: localJpeg,
     instagram_ready: ready,
@@ -83,6 +92,7 @@ const output = {
   version: "meta-assets-v1",
   generated_at: now,
   site_url: siteUrl,
+  repository,
   count: items.length,
   stats: {
     jpeg_generated: generated,
