@@ -1,13 +1,14 @@
 {
   "name": "calpe-one-engine",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "private": true,
   "type": "module",
   "scripts": {
     "radar": "node src/radar.mjs",
     "investigate": "node src/investigate.mjs",
     "write": "node src/writer.mjs",
-    "export:vento": "node src/export-vento.mjs"
+    "export:vento": "node src/export-vento.mjs",
+    "build:web": "node src/build-site.mjs"
   },
   "dependencies": {
     "openai": "^5.19.1"
