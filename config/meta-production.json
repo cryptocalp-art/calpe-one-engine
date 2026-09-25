@@ -1,8 +1,8 @@
 {
   "version": "meta-production-v1",
   "activation_requested": true,
-  "enabled": false,
-  "block_until_token_rotated": true,
+  "enabled": true,
+  "block_until_token_rotated": false,
   "send_backlog": false,
   "max_per_run": 4,
   "channels": ["FACEBOOK", "INSTAGRAM"],
