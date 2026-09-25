@@ -15,10 +15,11 @@
     "distribution": "node src/distribution.mjs",
     "meta:assets": "node src/meta-assets.mjs",
     "meta:deliver": "node src/meta-delivery.mjs",
-    "meta:check": "node src/meta-check.mjs"
+    "meta:check": "node src/meta-check.mjs",
+    "production:safety": "node src/production-safety.mjs"
   },
   "dependencies": {
     "openai": "^5.19.1",
-    "sharp": "^0.34.3"
+    "sharp": "^0.35.4"
   }
 }
