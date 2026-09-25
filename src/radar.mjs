@@ -28,32 +28,12 @@ const schema = {
           published_at: { type: ["string", "null"] },
           category: {
             type: "string",
-            enum: [
-              "LOCAL",
-              "POLITICA",
-              "SUCESOS",
-              "ECONOMIA",
-              "SOCIEDAD",
-              "TURISMO",
-              "DEPORTES",
-              "CULTURA",
-              "MEDIO_AMBIENTE",
-              "OTROS"
-            ]
+            enum: ["LOCAL", "POLITICA", "SUCESOS", "ECONOMIA", "SOCIEDAD", "TURISMO", "DEPORTES", "CULTURA", "MEDIO_AMBIENTE", "OTROS"]
           },
           relevance: { type: "number" },
           reason: { type: "string" }
         },
-        required: [
-          "title",
-          "summary",
-          "source_name",
-          "source_url",
-          "published_at",
-          "category",
-          "relevance",
-          "reason"
-        ]
+        required: ["title", "summary", "source_name", "source_url", "published_at", "category", "relevance", "reason"]
       }
     }
   },
@@ -63,9 +43,7 @@ const schema = {
 const prompt = `
 Eres el Radar editorial automático de CALPE ONE.
 Fecha y hora actual: ${now}.
-
 Busca noticias REALES Y RECIENTES que afecten a Calpe/Calp (Alicante), la Marina Alta y, cuando tengan impacto claro en Calp, la provincia de Alicante.
-
 Prioridad:
 1. Ayuntamiento, administración pública y servicios municipales.
 2. Seguridad, sucesos, emergencias y protección civil.
@@ -73,7 +51,6 @@ Prioridad:
 4. Turismo, playas, movilidad y eventos.
 5. Medio ambiente y urbanismo.
 6. Sociedad, cultura y deporte local.
-
 Reglas estrictas:
 - Usa búsqueda web en tiempo real.
 - No inventes noticias, fuentes, fechas ni URLs.
@@ -89,12 +66,7 @@ Reglas estrictas:
 
 const response = await client.responses.create({
   model,
-  tools: [
-    {
-      type: "web_search",
-      search_context_size: "high"
-    }
-  ],
+  tools: [{ type: "web_search", search_context_size: "high" }],
   input: prompt,
   text: {
     format: {
@@ -106,9 +78,7 @@ const response = await client.responses.create({
   }
 });
 
-if (!response.output_text) {
-  throw new Error("OpenAI no devolvió contenido en output_text.");
-}
+if (!response.output_text) throw new Error("OpenAI no devolvió contenido en output_text.");
 
 let parsed;
 try {
@@ -118,15 +88,20 @@ try {
 }
 
 const candidates = parsed.candidates
-  .filter((item) => item.source_url && /^https?:\\/\\//i.test(item.source_url))
+  .filter((item) => {
+    if (!item.source_url) return false;
+    try {
+      const url = new URL(item.source_url);
+      return url.protocol === "http:" || url.protocol === "https:";
+    } catch {
+      return false;
+    }
+  })
   .map((item) => ({
     ...item,
     relevance: Math.max(0, Math.min(100, Number(item.relevance) || 0)),
     detected_at: now,
-    fingerprint: crypto
-      .createHash("sha256")
-      .update(`${item.title}|${item.source_url}`.toLowerCase())
-      .digest("hex")
+    fingerprint: crypto.createHash("sha256").update(`${item.title}|${item.source_url}`.toLowerCase()).digest("hex")
   }));
 
 const deduped = [];
@@ -147,24 +122,6 @@ const output = {
 };
 
 await fs.mkdir("data", { recursive: true });
-await fs.writeFile(
-  "data/candidates.json",
-  JSON.stringify(output, null, 2) + "\n",
-  "utf8"
-);
-await fs.writeFile(
-  "data/last-run.json",
-  JSON.stringify(
-    {
-      status: "success",
-      generated_at: now,
-      count: deduped.length,
-      model
-    },
-    null,
-    2
-  ) + "\n",
-  "utf8"
-);
-
+await fs.writeFile("data/candidates.json", JSON.stringify(output, null, 2) + "\n", "utf8");
+await fs.writeFile("data/last-run.json", JSON.stringify({ status: "success", generated_at: now, count: deduped.length, model }, null, 2) + "\n", "utf8");
 console.log(JSON.stringify(output, null, 2));
