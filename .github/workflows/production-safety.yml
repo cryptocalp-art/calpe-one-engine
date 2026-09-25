@@ -1,0 +1,70 @@
+name: CALPE ONE PRODUCTION SAFETY
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - package.json
+      - src/production-safety.mjs
+      - .github/workflows/production-safety.yml
+  schedule:
+    - cron: "31 4 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-production-safety
+  cancel-in-progress: false
+
+jobs:
+  production-safety:
+    runs-on: ubuntu-24.04
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Setup Node 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Resolve reproducible production dependency lock
+        run: npm install --package-lock-only --ignore-scripts --no-audit
+
+      - name: Run CALPE ONE Production Safety gate
+        id: safety
+        continue-on-error: true
+        run: npm run production:safety
+
+      - name: Show Production Safety report
+        if: always()
+        run: cat data/production-safety-last-run.json
+
+      - name: Persist dependency lock and safety state
+        if: always()
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add package-lock.json data/production-safety-last-run.json
+          if git diff --cached --quiet; then
+            echo "No Production Safety state changes"
+            exit 0
+          fi
+          git commit -m "security: update CALPE ONE production safety state"
+          git pull --rebase origin main
+          git push
+
+      - name: Enforce Production Safety gate
+        if: steps.safety.outcome != 'success'
+        run: |
+          echo "CALPE ONE PRODUCTION SAFETY: FAIL"
+          exit 1
