@@ -13,7 +13,7 @@ on:
         required: false
         type: string
       send_backlog:
-        description: "Allow historical backlog (normally keep false)"
+        description: "Historical backlog is blocked in production; keep false"
         required: false
         default: false
         type: boolean
@@ -31,21 +31,23 @@ concurrency:
 jobs:
   meta-delivery:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout latest committed main
         uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: Setup Node
+      - name: Setup Node 24
         uses: actions/setup-node@v4
         with:
           node-version: 24
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install locked dependencies
+        run: npm ci
 
       - name: Validate controlled manual live test
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.live_test }}
@@ -62,27 +64,30 @@ jobs:
             exit 1
           fi
 
+      - name: Verify production safety before automatic Meta delivery
+        if: ${{ github.event_name == 'workflow_run' }}
+        run: npm run production:safety
+
       - name: Deliver eligible posts to Facebook and Instagram
         env:
-          META_DELIVERY_ENABLED: ${{ (github.event_name == 'workflow_dispatch' && inputs.live_test && 'true') || vars.META_DELIVERY_ENABLED || 'false' }}
+          META_PRODUCTION_RUN: ${{ github.event_name == 'workflow_run' && 'true' || 'false' }}
+          META_LIVE_TEST: ${{ github.event_name == 'workflow_dispatch' && inputs.live_test && 'true' || 'false' }}
           META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
-          META_SEND_BACKLOG: ${{ inputs.send_backlog || 'false' }}
           META_TEST_ARCHIVE_ID: ${{ inputs.test_archive_id || '' }}
-          META_MAX_PER_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.live_test && '2' || vars.META_MAX_PER_RUN || '4' }}
         run: npm run meta:deliver
 
       - name: Commit confirmed Meta delivery state
         run: |
           git config user.name "CALPE ONE ENGINE"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json
+          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json data/meta-production-state.json
           if git diff --cached --quiet; then
             echo "No Meta delivery changes"
             exit 0
           fi
-          git commit -m "chore: update CALPE ONE Meta delivery state"
+          git commit -m "chore: update CALPE ONE Meta production delivery state"
           git pull --rebase origin main
           git push
