@@ -11,13 +11,14 @@
     "export:vento": "node src/export-vento.mjs",
     "archive:merge": "node src/archive.mjs",
     "media": "node src/media.mjs",
-    "build:web": "node src/build-site.mjs",
+    "build:web": "node src/build-site.mjs && node src/home-v2.mjs",
     "distribution": "node src/distribution.mjs",
     "meta:assets": "node src/meta-assets.mjs",
     "meta:deliver": "node src/meta-production-delivery.mjs",
     "meta:check": "node src/meta-check.mjs",
     "production:safety": "node src/production-safety.mjs",
-    "control:room": "node src/control-room.mjs"
+    "control:room": "node src/control-room.mjs",
+    "home:v2": "node src/home-v2.mjs"
   },
   "dependencies": {
     "openai": "^5.19.1",
