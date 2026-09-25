@@ -9,10 +9,14 @@
   },
   "rules": {
     "only_verified_investigations": true,
+    "require_quality_gate_eligible": true,
+    "quality_gate_version": "quality-gate-v1",
     "require_supported_claims": true,
+    "minimum_supported_claims": 2,
     "require_evidence": true,
     "require_source_url": true,
-    "automatic_publish": false,
+    "human_review_required": false,
+    "automatic_publish_to_vento": false,
     "on_validation_failure": "QUARANTINE"
   },
   "draft_fields": [
@@ -30,6 +34,8 @@
     "status",
     "review_required",
     "publishable_by_engine",
+    "quality_gate_status",
+    "quality_gate_id",
     "editorial_notes",
     "sources",
     "source_urls",
@@ -47,11 +53,14 @@
     "seo_title",
     "meta_description",
     "status",
+    "quality_gate_status",
+    "quality_gate_id",
     "published_at",
     "source_urls",
     "sources",
     "investigation_id",
     "candidate_fingerprint",
+    "provenance",
     "engine_version"
   ]
 }
