@@ -8,7 +8,7 @@ if (!apiKey) {
 }
 
 const client = new OpenAI({ apiKey });
-const model = process.env.OPENAI_MODEL || "gpt-6-astra";
+const model = process.env.OPENAI_MODEL || "gpt-5.6";
 const now = new Date().toISOString();
 
 const schema = {
