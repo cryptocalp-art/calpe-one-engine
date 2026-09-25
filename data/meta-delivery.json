@@ -3,7 +3,7 @@
   "module": "META_DELIVERY",
   "version": "meta-delivery-v2",
   "activated_at": "2026-09-25T22:16:10.859Z",
-  "updated_at": "2026-09-25T22:25:06.924Z",
+  "updated_at": "2026-09-25T22:36:08.330Z",
   "configuration": {
     "enabled": false,
     "graph_version": "v26.0",
@@ -29,19 +29,19 @@
     "attempted": 0,
     "sent": 0,
     "failed": 0,
-    "skipped": 32,
+    "skipped": 36,
     "pre_activation_skipped": 0
   },
   "channel_stats": {
     "FACEBOOK": {
       "sent": 0,
       "failed": 0,
-      "skipped": 16
+      "skipped": 18
     },
     "INSTAGRAM": {
       "sent": 0,
       "failed": 0,
-      "skipped": 16
+      "skipped": 18
     }
   },
   "deliveries": {
@@ -173,6 +173,26 @@
     }
   },
   "last_results": [
+    {
+      "dedupe_key": "arc_8031aaa3e6b91b49:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_8031aaa3e6b91b49:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_552c7b6f45a224ee:FACEBOOK",
+      "channel": "FACEBOOK",
+      "status": "DELIVERY_DISABLED"
+    },
+    {
+      "dedupe_key": "arc_552c7b6f45a224ee:INSTAGRAM",
+      "channel": "INSTAGRAM",
+      "status": "DELIVERY_DISABLED"
+    },
     {
       "dedupe_key": "arc_5084bb5a8af7e780:FACEBOOK",
       "channel": "FACEBOOK",
