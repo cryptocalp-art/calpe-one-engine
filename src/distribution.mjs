@@ -17,8 +17,8 @@ const previousByKey = new Map((previous.queue || []).map((x) => [x.dedupe_key, x
 
 const channels = [
   { id: "RSS", enabled: true, adapter: "NATIVE_RSS", auto_send: true, note: "Published by CALPE ONE WEB PUBLISHER" },
-  { id: "FACEBOOK", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated connector" },
-  { id: "INSTAGRAM", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated connector" },
+  { id: "FACEBOOK", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated Meta connector" },
+  { id: "INSTAGRAM", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated Meta connector" },
   { id: "X", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated connector" },
   { id: "TELEGRAM", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated connector" },
   { id: "WHATSAPP", enabled: false, adapter: "CONNECTOR_REQUIRED", auto_send: false, note: "Awaiting authenticated connector" },
@@ -28,8 +28,16 @@ const channels = [
 function absoluteUrl(value = "") {
   if (!value) return null;
   if (/^https?:\/\//i.test(value)) return value;
-  if (value.startsWith("/")) return `${siteUrl}${value}`;
-  try { return new URL(value, `${siteUrl}/`).toString(); } catch { return null; }
+  return `${siteUrl}${value.startsWith("/") ? "" : "/"}${value}`;
+}
+
+function socialImageUrl(mediaItem) {
+  const selected = mediaItem?.selected || {};
+  let value = selected.image_url || "";
+  if (selected.mode === "EDITORIAL_CARD" && /\.svg$/i.test(value)) {
+    value = value.replace(/\.svg$/i, ".jpg");
+  }
+  return absoluteUrl(value);
 }
 
 function clip(text = "", max = 220) {
@@ -40,14 +48,14 @@ function clip(text = "", max = 220) {
 
 function makePayload(article, mediaItem, channel) {
   const articleUrl = `${siteUrl}/noticias/${article.slug}/`;
-  const imageUrl = absoluteUrl(mediaItem?.selected?.image_url || "");
+  const imageUrl = socialImageUrl(mediaItem);
   const summary = clip(article.summary || "", 320);
   const title = article.title;
   const hashtags = "#Calp #Calpe #CALPEONE";
 
   let text = `${title}\n\n${summary}\n\n${articleUrl}`;
   if (channel === "X") text = `${clip(title, 180)}\n${articleUrl}\n${hashtags}`;
-  if (channel === "INSTAGRAM") text = `${title}\n\n${summary}\n\n${hashtags}`;
+  if (channel === "INSTAGRAM") text = `${title}\n\n${summary}\n\n${articleUrl}\n\n${hashtags}`;
   if (channel === "TELEGRAM") text = `📰 ${title}\n\n${summary}\n\n${articleUrl}`;
   if (channel === "WHATSAPP") text = `📰 *${title}*\n\n${summary}\n\n${articleUrl}`;
   if (channel === "DISCORD") text = `**${title}**\n${summary}\n${articleUrl}`;
@@ -116,7 +124,7 @@ for (const article of archive.articles || []) {
       slug: article.slug,
       category: article.category,
       channel: channel.id,
-      adapter: channel.adapter,
+      adapter: old?.status === "SENT" ? (old.adapter || channel.adapter) : channel.adapter,
       status,
       reason,
       payload,
@@ -125,6 +133,7 @@ for (const article of archive.articles || []) {
       sent_at: sentAt,
       attempts: Number(old?.attempts || 0),
       last_error: old?.last_error || null,
+      external_id: old?.external_id || null,
       engine_version: "distribution-v1"
     });
   }
