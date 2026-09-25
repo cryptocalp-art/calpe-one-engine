@@ -1,13 +1,14 @@
 {
   "status": "success",
-  "generated_at": "2026-09-25T20:59:31.823Z",
-  "enabled": false,
-  "facebook_configured": false,
-  "instagram_configured": false,
-  "activated_at": null,
-  "attempted": 0,
-  "sent": 0,
+  "generated_at": "2026-09-25T22:16:10.859Z",
+  "enabled": true,
+  "facebook_configured": true,
+  "instagram_configured": true,
+  "activated_at": "2026-09-25T22:16:10.859Z",
+  "attempted": 2,
+  "sent": 2,
   "failed": 0,
-  "skipped": 24,
-  "pre_activation_skipped": 0
+  "skipped": 22,
+  "pre_activation_skipped": 22,
+  "identity_resolution_error": null
 }
