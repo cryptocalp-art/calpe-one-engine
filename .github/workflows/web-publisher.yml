@@ -2,20 +2,12 @@ name: CALPE ONE WEB PUBLISHER
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["CALPE ONE PUBLISHER EXPORT"]
-    types: [completed]
 
 permissions:
   contents: write
 
-concurrency:
-  group: calpe-one-web-publisher
-  cancel-in-progress: false
-
 jobs:
   build:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
