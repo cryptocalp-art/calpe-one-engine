@@ -24,15 +24,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build Vento export package
+      - name: Run automated quality gate
+        run: npm run quality:gate
+
+      - name: Build Vento export package from eligible drafts only
         run: npm run export:vento
 
-      - name: Commit export package
+      - name: Commit quality gate and export package
         run: |
           git config user.name "CALPE ONE ENGINE"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/vento-export.json data/publisher-last-run.json
+          git add data/quality-gate.json data/quality-gate-last-run.json data/vento-export.json data/publisher-last-run.json
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update Vento export package"
+          git commit -m "chore: update gated Vento export package"
           git pull --rebase origin main
           git push
