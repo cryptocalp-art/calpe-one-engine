@@ -3,9 +3,9 @@ import fs from "node:fs/promises";
 const now = new Date().toISOString();
 const graphVersion = process.env.META_GRAPH_VERSION || "v26.0";
 const graphBase = `https://graph.facebook.com/${graphVersion}`;
-const pageId = String(process.env.META_PAGE_ID || "").trim();
+const configuredPageId = String(process.env.META_PAGE_ID || "").trim();
 const pageToken = String(process.env.META_PAGE_ACCESS_TOKEN || "").trim();
-const igUserId = String(process.env.META_IG_USER_ID || "").trim();
+const configuredIgUserId = String(process.env.META_IG_USER_ID || "").trim();
 
 function redact(value) {
   if (!value) return value;
@@ -34,69 +34,85 @@ async function getJson(path, params = {}) {
 const result = {
   engine: "CALPE ONE ENGINE",
   module: "META_CONNECTION_CHECK",
-  version: "meta-check-v1",
+  version: "meta-check-v2",
   generated_at: now,
   graph_version: graphVersion,
   configured: {
-    page_id: Boolean(pageId),
+    page_id_present: Boolean(configuredPageId),
     page_access_token: Boolean(pageToken),
-    instagram_user_id: Boolean(igUserId)
+    instagram_user_id_present: Boolean(configuredIgUserId)
   },
   checks: {
     page_identity: "NOT_RUN",
-    page_id_match: false,
+    configured_page_id_match: null,
     instagram_link: "NOT_RUN",
-    instagram_id_match: false,
+    configured_instagram_id_match: null,
     instagram_identity: "NOT_RUN"
+  },
+  resolved: {
+    page_id: null,
+    instagram_user_id: null
   },
   page: null,
   instagram: null,
   status: "FAIL",
+  warnings: [],
   errors: []
 };
 
-if (!pageId) result.errors.push("META_PAGE_ID_MISSING");
 if (!pageToken) result.errors.push("META_PAGE_ACCESS_TOKEN_MISSING");
-if (!igUserId) result.errors.push("META_IG_USER_ID_MISSING");
 
 if (result.errors.length === 0) {
-  try {
-    const pageMe = await getJson("me", { fields: "id,name" });
-    result.checks.page_identity = "PASS";
-    result.checks.page_id_match = String(pageMe?.id || "") === pageId;
-    result.page = { id: pageMe?.id || null, name: pageMe?.name || null };
-    if (!result.checks.page_id_match) result.errors.push("PAGE_TOKEN_DOES_NOT_MATCH_META_PAGE_ID");
-  } catch (error) {
-    result.checks.page_identity = "FAIL";
-    result.errors.push(redact(error?.message || String(error)));
-  }
+  let resolvedIgId = "";
 
   try {
-    const page = await getJson(pageId, { fields: "id,name,instagram_business_account" });
-    const linkedIgId = String(page?.instagram_business_account?.id || "");
-    result.checks.instagram_link = linkedIgId ? "PASS" : "FAIL";
-    result.checks.instagram_id_match = linkedIgId === igUserId;
-    if (!linkedIgId) result.errors.push("PAGE_HAS_NO_INSTAGRAM_BUSINESS_ACCOUNT");
-    else if (!result.checks.instagram_id_match) result.errors.push("INSTAGRAM_ID_DOES_NOT_MATCH_PAGE_LINK");
+    const pageMe = await getJson("me", { fields: "id,name,instagram_business_account" });
+    const resolvedPageId = String(pageMe?.id || "");
+    resolvedIgId = String(pageMe?.instagram_business_account?.id || "");
+
+    result.checks.page_identity = resolvedPageId ? "PASS" : "FAIL";
+    result.page = { id: resolvedPageId || null, name: pageMe?.name || null };
+    result.resolved.page_id = resolvedPageId || null;
+    result.resolved.instagram_user_id = resolvedIgId || null;
+
+    if (!resolvedPageId) result.errors.push("PAGE_ID_NOT_RESOLVED_FROM_TOKEN");
+
+    if (configuredPageId) {
+      result.checks.configured_page_id_match = configuredPageId === resolvedPageId;
+      if (!result.checks.configured_page_id_match) {
+        result.warnings.push("CONFIGURED_META_PAGE_ID_DIFFERS_FROM_TOKEN_DERIVED_ID");
+      }
+    }
+
+    result.checks.instagram_link = resolvedIgId ? "PASS" : "FAIL";
+    if (!resolvedIgId) result.errors.push("PAGE_HAS_NO_INSTAGRAM_BUSINESS_ACCOUNT_OR_PERMISSION");
+
+    if (configuredIgUserId) {
+      result.checks.configured_instagram_id_match = configuredIgUserId === resolvedIgId;
+      if (!result.checks.configured_instagram_id_match) {
+        result.warnings.push("CONFIGURED_META_IG_USER_ID_DIFFERS_FROM_TOKEN_DERIVED_ID");
+      }
+    }
   } catch (error) {
+    result.checks.page_identity = "FAIL";
     result.checks.instagram_link = "FAIL";
     result.errors.push(redact(error?.message || String(error)));
   }
 
-  try {
-    const ig = await getJson(igUserId, { fields: "id,username" });
-    result.checks.instagram_identity = "PASS";
-    result.instagram = { id: ig?.id || null, username: ig?.username || null };
-  } catch (error) {
-    result.checks.instagram_identity = "FAIL";
-    result.errors.push(redact(error?.message || String(error)));
+  if (resolvedIgId) {
+    try {
+      const ig = await getJson(resolvedIgId, { fields: "id,username" });
+      result.checks.instagram_identity = "PASS";
+      result.instagram = { id: ig?.id || null, username: ig?.username || null };
+    } catch (error) {
+      result.checks.instagram_identity = "FAIL";
+      result.errors.push(redact(error?.message || String(error)));
+    }
   }
 }
 
 const allPass = result.checks.page_identity === "PASS"
-  && result.checks.page_id_match
   && result.checks.instagram_link === "PASS"
-  && result.checks.instagram_id_match
   && result.checks.instagram_identity === "PASS"
   && result.errors.length === 0;
 
@@ -108,8 +124,10 @@ console.log(JSON.stringify({
   status: result.status,
   configured: result.configured,
   checks: result.checks,
+  resolved: result.resolved,
   page: result.page,
   instagram: result.instagram,
+  warnings: result.warnings,
   errors: result.errors
 }, null, 2));
 
