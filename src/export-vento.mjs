@@ -154,7 +154,7 @@ for (const draft of drafts) {
 const exportDoc = {
   engine: "CALPE ONE ENGINE",
   module: "PUBLISHER_EXPORT",
-  contract_version: "vento-export-v2",
+  contract_version: "vento-export-v1",
   quality_gate_version: qualityGateDoc.version || null,
   generated_at: now,
   delivery_mode: "EXPORT_ONLY",
@@ -174,7 +174,7 @@ await fs.writeFile(
     {
       status: "success",
       generated_at: now,
-      contract_version: "vento-export-v2",
+      contract_version: "vento-export-v1",
       quality_gate_version: qualityGateDoc.version || null,
       delivery_mode: "EXPORT_ONLY",
       drafts_seen: drafts.length,
