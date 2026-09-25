@@ -79,11 +79,16 @@ jobs:
           META_TEST_ARCHIVE_ID: ${{ inputs.test_archive_id || '' }}
         run: npm run meta:deliver
 
+      - name: Refresh Control Room after Meta delivery
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run control:room
+
       - name: Commit confirmed Meta delivery state
         run: |
           git config user.name "CALPE ONE ENGINE"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json data/meta-production-state.json
+          git add data/distribution.json data/meta-delivery.json data/meta-delivery-last-run.json data/meta-production-state.json data/control-room.json docs/control-room
           if git diff --cached --quiet; then
             echo "No Meta delivery changes"
             exit 0
