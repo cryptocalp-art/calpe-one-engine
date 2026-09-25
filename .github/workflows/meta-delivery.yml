@@ -1,0 +1,74 @@
+name: CALPE ONE META DELIVERY
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_archive_id:
+        description: "Optional archive_id for one controlled live test"
+        required: false
+        type: string
+      send_backlog:
+        description: "Allow historical backlog (normally keep false)"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calpe-one-meta-delivery
+  cancel-in-progress: false
+
+jobs:
+  meta-delivery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Meta-compatible JPEG assets
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run meta:assets
+
+      - name: Refresh distribution payloads
+        env:
+          SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
+        run: npm run distribution
+
+      - name: Deliver eligible posts to Facebook and Instagram
+        env:
+          META_DELIVERY_ENABLED: ${{ vars.META_DELIVERY_ENABLED || 'false' }}
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          META_SEND_BACKLOG: ${{ inputs.send_backlog || 'false' }}
+          META_TEST_ARCHIVE_ID: ${{ inputs.test_archive_id || '' }}
+          META_MAX_PER_RUN: ${{ vars.META_MAX_PER_RUN || '4' }}
+        run: npm run meta:deliver
+
+      - name: Commit Meta delivery state
+        run: |
+          git config user.name "CALPE ONE ENGINE"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/distribution.json data/distribution-last-run.json data/meta-assets.json data/meta-assets-last-run.json data/meta-delivery.json data/meta-delivery-last-run.json docs/media
+          if git diff --cached --quiet; then
+            echo "No Meta delivery changes"
+            exit 0
+          fi
+          git commit -m "chore: update CALPE ONE Meta delivery"
+          git pull --rebase origin main
+          git push
