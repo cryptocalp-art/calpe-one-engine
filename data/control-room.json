@@ -1,0 +1,115 @@
+{
+  "engine": "CALPE ONE ENGINE",
+  "module": "CONTROL_ROOM",
+  "version": "control-room-v1",
+  "generated_at": "2026-09-25T23:20:25.374Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-09-25T23:19:34.139Z",
+  "newspaper": {
+    "archive_total": 18,
+    "published_today": 6,
+    "published_last_7_days": 18,
+    "categories": {
+      "LOCAL": 6,
+      "SOCIEDAD": 3,
+      "SUCESOS": 1,
+      "ECONOMIA": 1,
+      "TURISMO": 2,
+      "MEDIO_AMBIENTE": 3,
+      "CULTURA": 1,
+      "POLITICA": 1
+    },
+    "latest_articles": [
+      {
+        "archive_id": "arc_8031aaa3e6b91b49",
+        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
+        "category": "LOCAL",
+        "slug": "832-nadadores-travesia-penon-ifach-calp",
+        "published_at": "2026-09-25T22:35:24.377Z"
+      },
+      {
+        "archive_id": "arc_552c7b6f45a224ee",
+        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
+        "category": "SOCIEDAD",
+        "slug": "calp-marcha-rosa-4-octubre-2026",
+        "published_at": "2026-09-25T22:35:24.377Z"
+      },
+      {
+        "archive_id": "arc_5084bb5a8af7e780",
+        "title": "Calp licita hasta 75 test de saliva para la Policía Local",
+        "category": "SUCESOS",
+        "slug": "calp-licita-test-saliva-policia-local",
+        "published_at": "2026-09-25T22:24:03.996Z"
+      },
+      {
+        "archive_id": "arc_60739aeceb90078a",
+        "title": "Calp licita por 273.289 euros el renting de cinco vehículos municipales",
+        "category": "LOCAL",
+        "slug": "calp-licita-renting-cinco-vehiculos-municipales",
+        "published_at": "2026-09-25T22:24:03.996Z"
+      },
+      {
+        "archive_id": "arc_47301938c9d5c318",
+        "title": "Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
+        "category": "ECONOMIA",
+        "slug": "calp-recibe-asignacion-bono-consumo-2026",
+        "published_at": "2026-09-25T22:24:03.996Z"
+      },
+      {
+        "archive_id": "arc_8beba1ee06bcb1f6",
+        "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
+        "category": "TURISMO",
+        "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
+        "published_at": "2026-09-25T22:24:03.996Z"
+      },
+      {
+        "archive_id": "arc_dbe4f30606c424dd",
+        "title": "La Universidad de Alicante confirma la presencia de un alga invasora en Calp",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "ua-confirma-alga-invasora-calp",
+        "published_at": "2026-09-25T20:58:51.062Z"
+      },
+      {
+        "archive_id": "arc_3685dd63b8ac5374",
+        "title": "Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
+        "category": "LOCAL",
+        "slug": "calp-remodelacion-parque-arco-iris",
+        "published_at": "2026-09-25T20:58:51.062Z"
+      }
+    ]
+  },
+  "editorial_cycle": {
+    "radar_candidates": 13,
+    "investigated": 0,
+    "drafts": 3,
+    "eligible": 2,
+    "quarantined": 1,
+    "archive_added": 2
+  },
+  "delivery": {
+    "distribution_failed": 0,
+    "meta_enabled": true,
+    "meta_failed_last_run": 0,
+    "facebook_sent_total": 0,
+    "instagram_sent_total": 0,
+    "production_activated_at": "2026-09-25T23:13:07.656Z",
+    "send_backlog": false
+  },
+  "safety": {
+    "status": "PASS",
+    "blocking_issues": [],
+    "npm_high": 0,
+    "npm_critical": 0
+  },
+  "quarantine": [
+    {
+      "draft_id": "drf_84df876d0101a4a8",
+      "slug": "calp-nuevo-servicio-limpieza-playas-medios-temporadas-ampliadas",
+      "category": "MEDIO_AMBIENTE",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-09-25T22:35:43.207Z"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>CALPE ONE · Control Room</title>
+<meta name="description" content="Panel operativo de CALPE ONE">
+<style>
+:root{--bg:#0b1020;--panel:#121a2c;--panel2:#182238;--line:#263451;--text:#edf3ff;--muted:#9fb0cc;--ok:#36d399;--warn:#f8c451;--bad:#ff6b7a;--accent:#6ea8ff}*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#080c18,#0d1424 50%,#0a1020);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Arial,sans-serif}.wrap{max-width:1280px;margin:auto;padding:28px 20px 60px}.top{display:flex;align-items:flex-start;justify-content:space-between;gap:24px;margin-bottom:24px}.brand{font-size:32px;font-weight:900;letter-spacing:-1px}.subtitle{color:var(--muted);margin-top:5px}.state{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:10px 14px;font-weight:800}.dot{width:10px;height:10px;border-radius:50%}.dot.ok{background:var(--ok);box-shadow:0 0 14px var(--ok)}.dot.warn{background:var(--warn);box-shadow:0 0 14px var(--warn)}.dot.bad{background:var(--bad);box-shadow:0 0 14px var(--bad)}.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.metric,.panel,.module{background:rgba(18,26,44,.92);border:1px solid var(--line);border-radius:16px}.metric{padding:20px}.metric .label{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-weight:800}.metric .value{font-size:36px;font-weight:900;margin-top:6px}.metric .hint{font-size:13px;color:var(--muted);margin-top:3px}.section-title{font-size:18px;font-weight:900;margin:28px 0 12px}.modules{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.module{padding:15px}.module-head{display:flex;justify-content:space-between;gap:10px;align-items:center}.module-detail{color:var(--muted);font-size:13px;margin-top:10px}.pill{font-size:11px;border-radius:999px;padding:5px 8px;font-weight:900}.pill.ok{color:#071a13;background:var(--ok)}.pill.warn{color:#211604;background:var(--warn)}.pill.bad{color:#26070b;background:var(--bad)}.two{display:grid;grid-template-columns:1.5fr 1fr;gap:14px}.panel{padding:18px;overflow:hidden}.panel h2{font-size:17px;margin:0 0 14px}table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;border-top:1px solid var(--line);padding:11px 8px;vertical-align:top}th{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.07em}a{color:#cfe0ff;text-decoration:none}a:hover{text-decoration:underline}.cat{color:var(--muted);font-weight:800;font-size:11px}.bar-row{display:grid;grid-template-columns:120px 1fr 32px;gap:9px;align-items:center;margin:11px 0;font-size:12px}.bar{height:9px;background:#25314a;border-radius:999px;overflow:hidden}.bar i{display:block;height:100%;background:linear-gradient(90deg,#528cff,#70d7ff);border-radius:999px}.quick{display:flex;gap:10px;flex-wrap:wrap}.quick a{display:inline-flex;background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:9px 11px;font-size:13px;font-weight:700}.foot{margin-top:24px;color:var(--muted);font-size:12px}.empty{color:var(--muted);font-size:13px}@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.modules{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr}.top{flex-direction:column}}@media(max-width:560px){.grid,.modules{grid-template-columns:1fr}.metric .value{font-size:30px}.wrap{padding:20px 14px 45px}.bar-row{grid-template-columns:95px 1fr 28px}}
+</style>
+</head>
+<body><main class="wrap">
+<div class="top"><div><div class="brand">CALPE ONE · CONTROL ROOM</div><div class="subtitle">Estado operativo del periódico automático · actualización 26/09/2026, 01:20</div></div><div class="state"><span class="dot warn"></span>OPERATIVO CON AVISOS</div></div>
+
+<section class="grid">
+  <div class="metric"><div class="label">Archivo publicado</div><div class="value">18</div><div class="hint">noticias acumuladas</div></div>
+  <div class="metric"><div class="label">Publicadas hoy</div><div class="value">6</div><div class="hint">hora de Calp</div></div>
+  <div class="metric"><div class="label">Últimos 7 días</div><div class="value">18</div><div class="hint">ritmo editorial</div></div>
+  <div class="metric"><div class="label">Cuarentena</div><div class="value">1</div><div class="hint">último Quality Gate</div></div>
+</section>
+
+<div class="section-title">Motor editorial</div>
+<section class="modules"><article class="module"><div class="module-head"><strong>RADAR</strong><span class="pill ok">OK</span></div><div class="module-detail">13 candidatos en el último ciclo</div></article><article class="module"><div class="module-head"><strong>INVESTIGACIÓN</strong><span class="pill ok">OK</span></div><div class="module-detail">0 procesadas</div></article><article class="module"><div class="module-head"><strong>WRITER</strong><span class="pill ok">OK</span></div><div class="module-detail">3 borradores creados</div></article><article class="module"><div class="module-head"><strong>QUALITY GATE</strong><span class="pill warn">OK</span></div><div class="module-detail">2 elegibles · 1 en cuarentena</div></article><article class="module"><div class="module-head"><strong>ARCHIVE</strong><span class="pill ok">OK</span></div><div class="module-detail">18 noticias publicadas · 2 nuevas</div></article><article class="module"><div class="module-head"><strong>MEDIA</strong><span class="pill ok">OK</span></div><div class="module-detail">18 elementos gestionados</div></article><article class="module"><div class="module-head"><strong>DISTRIBUCIÓN</strong><span class="pill ok">OK</span></div><div class="module-detail">126 entregas · 0 fallos</div></article><article class="module"><div class="module-head"><strong>PRODUCTION SAFETY</strong><span class="pill ok">PASS</span></div><div class="module-detail">0 high · 0 critical</div></article><article class="module"><div class="module-head"><strong>META</strong><span class="pill ok">ACTIVO</span></div><div class="module-detail">Facebook 0 · Instagram 0 · último fallo 0</div></article></section>
+
+<div class="section-title">Última actividad</div>
+<section class="two">
+  <div class="panel"><h2>Últimas noticias publicadas</h2><table><thead><tr><th>Categoría</th><th>Noticia</th><th>Publicación</th></tr></thead><tbody><tr>
+  <td><span class="cat">LOCAL</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/832-nadadores-travesia-penon-ifach-calp/">832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach</a></td>
+  <td>26/09/2026, 00:35</td>
+</tr><tr>
+  <td><span class="cat">SOCIEDAD</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-marcha-rosa-4-octubre-2026/">Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa</a></td>
+  <td>26/09/2026, 00:35</td>
+</tr><tr>
+  <td><span class="cat">SUCESOS</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-licita-test-saliva-policia-local/">Calp licita hasta 75 test de saliva para la Policía Local</a></td>
+  <td>26/09/2026, 00:24</td>
+</tr><tr>
+  <td><span class="cat">LOCAL</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-licita-renting-cinco-vehiculos-municipales/">Calp licita por 273.289 euros el renting de cinco vehículos municipales</a></td>
+  <td>26/09/2026, 00:24</td>
+</tr><tr>
+  <td><span class="cat">ECONOMIA</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-recibe-asignacion-bono-consumo-2026/">Calp recibe una asignación de 369.130 euros del Bono Consumo 2026</a></td>
+  <td>26/09/2026, 00:24</td>
+</tr><tr>
+  <td><span class="cat">TURISMO</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/plan-movilidad-no-motorizada-preve-plazas-bikebox-calp/">El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp</a></td>
+  <td>26/09/2026, 00:24</td>
+</tr><tr>
+  <td><span class="cat">MEDIO_AMBIENTE</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/ua-confirma-alga-invasora-calp/">La Universidad de Alicante confirma la presencia de un alga invasora en Calp</a></td>
+  <td>25/09/2026, 22:58</td>
+</tr><tr>
+  <td><span class="cat">LOCAL</span></td>
+  <td><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-remodelacion-parque-arco-iris/">Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros</a></td>
+  <td>25/09/2026, 22:58</td>
+</tr></tbody></table></div>
+  <div class="panel"><h2>Categorías</h2><div class="bar-row"><span>LOCAL</span><div class="bar"><i style="width:33%"></i></div><b>6</b></div><div class="bar-row"><span>SOCIEDAD</span><div class="bar"><i style="width:17%"></i></div><b>3</b></div><div class="bar-row"><span>MEDIO_AMBIENTE</span><div class="bar"><i style="width:17%"></i></div><b>3</b></div><div class="bar-row"><span>TURISMO</span><div class="bar"><i style="width:11%"></i></div><b>2</b></div><div class="bar-row"><span>SUCESOS</span><div class="bar"><i style="width:6%"></i></div><b>1</b></div><div class="bar-row"><span>ECONOMIA</span><div class="bar"><i style="width:6%"></i></div><b>1</b></div><div class="bar-row"><span>CULTURA</span><div class="bar"><i style="width:6%"></i></div><b>1</b></div><div class="bar-row"><span>POLITICA</span><div class="bar"><i style="width:6%"></i></div><b>1</b></div></div>
+</section>
+
+<div class="section-title">Control editorial</div>
+<section class="two">
+  <div class="panel"><h2>Elementos en cuarentena</h2><table><thead><tr><th>Categoría</th><th>Elemento</th><th>Motivo</th></tr></thead><tbody><tr>
+  <td>MEDIO_AMBIENTE</td>
+  <td>calp-nuevo-servicio-limpieza-playas-medios-temporadas-ampliadas</td>
+  <td>INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE</td>
+</tr></tbody></table></div>
+  <div class="panel"><h2>Distribución</h2>
+    <div class="bar-row"><span>Facebook</span><div class="bar"><i style="width:0%"></i></div><b>0</b></div>
+    <div class="bar-row"><span>Instagram</span><div class="bar"><i style="width:0%"></i></div><b>0</b></div>
+    <div class="bar-row"><span>Fallos último ciclo</span><div class="bar"><i style="width:0%"></i></div><b>0</b></div>
+    <p class="subtitle">Meta producción: <strong>ACTIVA</strong><br>Backlog histórico: <strong>BLOQUEADO</strong><br>Activación: 26/09/2026, 01:13</p>
+  </div>
+</section>
+
+<div class="section-title">Accesos rápidos</div>
+<div class="quick"><a href="https://cryptocalp-art.github.io/calpe-one-engine/">Portada</a><a href="https://cryptocalp-art.github.io/calpe-one-engine/noticias/">Noticias</a><a href="https://cryptocalp-art.github.io/calpe-one-engine/rss.xml">RSS</a><a href="https://github.com/cryptocalp-art/calpe-one-engine/actions">GitHub Actions</a></div>
+<div class="foot">Última actividad detectada: 26/09/2026, 01:19 · Este panel muestra datos operativos agregados y no expone credenciales ni secretos.</div>
+</main></body></html>
