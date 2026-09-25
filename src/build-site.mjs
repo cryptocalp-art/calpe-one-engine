@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const inputPath = "data/vento-export.json";
+const inputPath = "data/archive.json";
 const outDir = "docs";
 const siteUrl = (process.env.SITE_URL || "https://cryptocalp-art.github.io/calpe-one-engine").replace(/\/$/, "");
 const now = new Date().toISOString();
@@ -12,11 +12,10 @@ const esc = (s = "") => String(s)
   .replaceAll(">", "&gt;")
   .replaceAll('"', "&quot;")
   .replaceAll("'", "&#39;");
-
 const xml = (s = "") => esc(s);
 const fmtDate = (value) => {
   const d = new Date(value || now);
-  return new Intl.DateTimeFormat("es-ES", { day: "2-digit", month: "long", year: "numeric", timeZone: "Europe/Madrid" }).format(d);
+  return new Intl.DateTimeFormat("es-ES", { day:"2-digit", month:"long", year:"numeric", timeZone:"Europe/Madrid" }).format(d);
 };
 const bodyToHtml = (body = "") => body.split(/\n\s*\n/).filter(Boolean).map(p => `<p>${esc(p.trim())}</p>`).join("\n");
 const sourceList = (sources = []) => sources.map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name)}</a> <span class="source-type">${esc(s.type || "")}</span></li>`).join("\n");
@@ -46,52 +45,40 @@ ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd).replaceA
 </body></html>`;
 
 const raw = JSON.parse(await fs.readFile(inputPath, "utf8"));
-const articles = (raw.ready || [])
-  .map(x => {
-    const news = x.calpe_news_candidate;
-    const draft = x.calpe_drafts;
-    if (!news) return null;
-    return {
-      ...news,
-      provenance: news.provenance || draft?.provenance || {},
-      created_at: news.created_at || draft?.created_at || x.generated_at || raw.generated_at,
-      sources: news.sources || draft?.sources || [],
-      category: news.category || draft?.category || "LOCAL"
-    };
-  })
-  .filter(Boolean)
-  .filter(a => a.slug && a.title && a.body && a.provenance?.investigation_status === "VERIFIED")
+const articles = (raw.articles || [])
+  .filter(a => a && a.status === "PUBLISHED" && a.slug && a.title && a.body)
+  .filter(a => a.provenance?.investigation_status === "VERIFIED")
   .filter(a => Number(a.provenance?.supported_claim_count || 0) >= 2)
   .filter(a => Number(a.provenance?.evidence_count || 0) >= 1)
-  .map(a => ({...a, published_at: a.published_at || a.created_at || raw.generated_at || now}));
+  .sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0));
 
-await fs.rm(outDir, { recursive: true, force: true });
-await fs.mkdir(path.join(outDir, "noticias"), { recursive: true });
+await fs.rm(outDir, { recursive:true, force:true });
+await fs.mkdir(path.join(outDir, "noticias"), { recursive:true });
 
 for (const a of articles) {
   const url = `${siteUrl}/noticias/${a.slug}/`;
   const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    headline: a.title,
-    description: a.meta_description || a.summary,
-    datePublished: a.published_at,
-    dateModified: now,
-    mainEntityOfPage: url,
-    author: { "@type": "Organization", name: "CALPE ONE" },
-    publisher: { "@type": "Organization", name: "CALPE ONE" }
+    "@context":"https://schema.org",
+    "@type":"NewsArticle",
+    headline:a.title,
+    description:a.meta_description || a.summary,
+    datePublished:a.published_at,
+    dateModified:a.updated_at || a.published_at,
+    mainEntityOfPage:url,
+    author:{"@type":"Organization",name:"CALPE ONE"},
+    publisher:{"@type":"Organization",name:"CALPE ONE"}
   };
   const caveats = (a.provenance?.caveats || []).length ? `<div class="note"><strong>Nota de verificación</strong><br>${(a.provenance.caveats || []).map(esc).join("<br>")}</div>` : "";
   const content = `<article class="article"><div class="hero"><div class="kicker">${esc(a.category || "LOCAL")}</div><h1>${esc(a.title)}</h1><div class="dek">${esc(a.summary || "")}</div><div class="meta">Publicado ${esc(fmtDate(a.published_at))} · Verificación ${esc(a.provenance?.confidence || "")}</div></div>${bodyToHtml(a.body)}${caveats}<section class="sources"><h2>Fuentes consultadas</h2><ul>${sourceList(a.sources || [])}</ul></section></article>`;
   const dir = path.join(outDir, "noticias", a.slug);
-  await fs.mkdir(dir, { recursive: true });
-  await fs.writeFile(path.join(dir, "index.html"), shell({ title: a.seo_title || a.title, description: a.meta_description || a.summary, canonical: url, content, jsonLd }));
+  await fs.mkdir(dir, { recursive:true });
+  await fs.writeFile(path.join(dir, "index.html"), shell({ title:a.seo_title || a.title, description:a.meta_description || a.summary, canonical:url, content, jsonLd }));
 }
 
 const cards = articles.map(a => `<article class="card"><div class="kicker">${esc(a.category || "LOCAL")}</div><h2><a href="${siteUrl}/noticias/${esc(a.slug)}/">${esc(a.title)}</a></h2><p>${esc(a.summary || "")}</p><div class="meta">${esc(fmtDate(a.published_at))}</div></article>`).join("\n");
 const listing = `<div class="hero"><div class="kicker">CALPE ONE NEWS</div><h1>Noticias de Calp</h1><div class="dek">Información local investigada y redactada a partir de fuentes trazables.</div></div><section class="grid">${cards}</section>`;
-await fs.writeFile(path.join(outDir, "index.html"), shell({title:"CALPE ONE · Noticias de Calp",description:"Noticias de Calp investigadas y verificadas por CALPE ONE.",canonical:`${siteUrl}/`,content:listing}));
-await fs.writeFile(path.join(outDir, "noticias", "index.html"), shell({title:"Noticias · CALPE ONE",description:"Últimas noticias verificadas de Calp.",canonical:`${siteUrl}/noticias/`,content:listing}));
+await fs.writeFile(path.join(outDir, "index.html"), shell({ title:"CALPE ONE · Noticias de Calp", description:"Noticias de Calp investigadas y verificadas por CALPE ONE.", canonical:`${siteUrl}/`, content:listing }));
+await fs.writeFile(path.join(outDir, "noticias", "index.html"), shell({ title:"Noticias · CALPE ONE", description:"Últimas noticias verificadas de Calp.", canonical:`${siteUrl}/noticias/`, content:listing }));
 
 const rssItems = articles.slice(0, 30).map(a => `<item><title>${xml(a.title)}</title><link>${siteUrl}/noticias/${xml(a.slug)}/</link><guid>${siteUrl}/noticias/${xml(a.slug)}/</guid><pubDate>${new Date(a.published_at).toUTCString()}</pubDate><description>${xml(a.summary || "")}</description></item>`).join("\n");
 const rss = `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>CALPE ONE</title><link>${siteUrl}/</link><description>Noticias verificadas de Calp</description><language>es-es</language>${rssItems}</channel></rss>`;
@@ -102,6 +89,6 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www
 await fs.writeFile(path.join(outDir, "sitemap.xml"), sitemap);
 await fs.writeFile(path.join(outDir, "robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);
 await fs.writeFile(path.join(outDir, ".nojekyll"), "");
-await fs.writeFile(path.join(outDir, "build-info.json"), JSON.stringify({engine:"CALPE ONE ENGINE",module:"WEB_PUBLISHER",generated_at:now,site_url:siteUrl,articles_published:articles.length},null,2)+"\n");
+await fs.writeFile(path.join(outDir, "build-info.json"), JSON.stringify({ engine:"CALPE ONE ENGINE", module:"WEB_PUBLISHER", source:"ARCHIVE", generated_at:now, site_url:siteUrl, articles_published:articles.length }, null, 2) + "\n");
 
-console.log(JSON.stringify({articles_published:articles.length,output:outDir,site_url:siteUrl},null,2));
+console.log(JSON.stringify({ articles_published:articles.length, archive_total:raw.count || articles.length, output:outDir, site_url:siteUrl }, null, 2));
