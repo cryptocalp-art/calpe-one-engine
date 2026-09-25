@@ -1,308 +1,249 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-25T20:58:05.587Z",
+  "generated_at": "2026-09-25T22:23:15.432Z",
   "model": "gpt-5.6-luna",
-  "count": 8,
+  "count": 5,
   "investigations": [
-    {
-      "candidate_fingerprint": "63f95e9d602e8614c961dc2f2cfa9d35ea1287ff38c89a33919e0ae163e9e334",
-      "title": "La UA confirma en Calp la expansión de un alga invasora que amenaza las praderas de posidonia",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La Universidad de Alicante confirma la detección de Rugulopteryx okamurae en el municipio de Calp tras prospecciones realizadas en julio. La UA sitúa el hallazgo cerca del Penyal d’Ifac y en redes de pesca del puerto, y describe los impactos potenciales de la especie sobre la biodiversidad marina y las praderas de Posidonia oceanica.",
-      "claims": [
-        {
-          "claim": "La Universidad de Alicante ha confirmado la presencia de Rugulopteryx okamurae en Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La detección se produjo tras prospecciones submarinas cerca del Penyal d’Ifac y la inspección de redes de pesca en el puerto de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El hallazgo representa una expansión hacia el norte de la provincia de Alicante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La especie puede alterar la biodiversidad marina y afectar a las praderas de Posidonia oceanica.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Universidad de Alicante",
-          "source_url": "https://web.ua.es/en/actualidad-universitaria/2026/septiembre-2026/21-27/ua-confirms-northern-expansion-of-invasive-rugulopteryx-okamurae-seaweed-following-detection-in-calp.html",
-          "evidence": "La UA informa de la confirmación de la especie en Calp después de trabajos de campo realizados en julio, incluyendo una inmersión cerca del Penyal d’Ifac, prospecciones submarinas y revisión de redes de arrastre en el puerto. También describe los impactos ecológicos de la especie, entre ellos la afección a praderas de Posidonia oceanica.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-ua-confirma-en-calp-la-expansion-de-un-alga-invasora-que-puede-destruir-praderas-de-posidonia",
-          "evidence": "Recoge la detección de Rugulopteryx okamurae en Calp y su localización en el entorno del Penyal d’Ifac, presentando el caso como el límite septentrional conocido de la especie en la Comunitat Valenciana.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La fuente primaria confirma la expansión hacia el norte de la provincia, pero no emplea exactamente la formulación de límite septentrional conocido de toda la Comunitat Valenciana."
-      ],
-      "id": "inv_06e3974d722f2fde",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "145d0d1b3ba28aa691712aad4b907b5c86d774c3dfe5c9e213f5c36910df4b80",
-      "title": "Calp inicia la remodelación del parque Arco Iris con una inversión de 114.829 euros",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "El Ayuntamiento de Calp ha informado de la remodelación del parque Arco Iris por 114.829 euros. El proyecto incluye la renovación del pavimento, una nueva zona de juegos infantiles con superficies amortiguadoras y un plazo estimado de seis semanas.",
-      "claims": [
-        {
-          "claim": "La actuación cuenta con una inversión de 114.829 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El proyecto contempla renovar el pavimento del parque.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se instalará una nueva área de juegos infantiles con pavimento de seguridad.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo previsto de ejecución es de seis semanas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las obras se iniciarían en septiembre de 2026.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-invertir%C3%A1-114829-euros-en-la-remodelaci%C3%B3n-del-parque-arco-iris",
-          "evidence": "El Ayuntamiento comunica una inversión de 114.829 euros para renovar el pavimento e instalar una nueva área infantil. Detalla los juegos previstos, las superficies amortiguadoras y un plazo de ejecución de seis semanas, con inicio previsto en septiembre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/eventos/month/2026-07/?lang=va-val",
-          "evidence": "La agenda municipal reproduce el proyecto de remodelación del parque, la inversión de 114.829 euros, la instalación de juegos y pavimento de seguridad, y el plazo de seis semanas.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La comunicación municipal localizada en julio describe la adjudicación propuesta y el inicio previsto de las obras; no acredita por sí sola que los trabajos hayan concluido o que se encontraran efectivamente en ejecución el 22 de septiembre."
-      ],
-      "id": "inv_f433b039f2d20f84",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "1fe9b220240c96d550378b19402fc8bb6b5acc296b42d79c144f37e9685d77ae",
-      "title": "La Pobla d’Ifac abre una nueva campaña de excavaciones centrada en la muralla y las viviendas medievales",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La Diputación de Alicante y el MARQ confirman la XXI actuación arqueológica en la Pobla d’Ifac durante 2026. La campaña cuenta con un presupuesto de 25.000 euros, dura aproximadamente un mes y se centra en los edificios XV y XVI, el edificio XIV y la búsqueda de la continuidad de la muralla en el sector este. También consta la elaboración del Plan General de Investigación 2026-2029 y trabajos relacionados con el Plan Director y la señalética.",
-      "claims": [
-        {
-          "claim": "En 2026 se desarrolla la XXI campaña o actuación arqueológica en la Pobla d’Ifac.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La campaña tiene un presupuesto de 25.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los trabajos se desarrollan en septiembre y duran aproximadamente un mes.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La intervención incluye trabajos en los edificios XV y XVI y la continuidad de la excavación del edificio XIV.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se busca localizar la continuidad del recinto amurallado en el sector este.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La actuación se integra en el Plan General de Investigación 2026-2029.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Avanzan el Plan Director y el diseño de nueva señalética.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Diputación de Alicante / MARQ",
-          "source_url": "https://www.diputacionalicante.es/ca/noticias/la-campana-de-excavaciones-del-marq-arranca-en-seis-yacimientos-de-norte-a-sur-de-la-provincia-de-alicante/",
-          "evidence": "La Diputación confirma la vigésimo primera actuación en la Pobla de Ifach, con 25.000 euros de presupuesto, una duración de un mes, trabajos en los edificios XV, XVI y XIV y la búsqueda de restos del recinto amurallado en el sector este.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12308/pobla-difac-abre-nueva-etapa-excavaciones-con-trabajos-en-muralla-y-viviendas-medievales",
-          "evidence": "Describe la campaña de septiembre de 2026, el cambio a un equipo de obreros, la continuidad de los trabajos en edificios medievales, la redacción del Plan Director y el diseño de nueva señalética.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La fuente oficial confirma la campaña y sus objetivos arqueológicos; los detalles sobre el cambio de modelo de voluntariado a equipo de obreros proceden principalmente de la fuente secundaria."
-      ],
-      "id": "inv_0b71c531c7c9960f",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "9f2d3ab0604f84c343e8c215551b36344c0bd8d271c4f13815a10ebfd9bf091e",
-      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está respaldada por una publicación de Calp Digital que detalla un contrato de hasta 176.000 euros, con 88.000 euros iniciales y una posible prórroga de 24 meses, además de suministro urgente en un máximo de 60 minutos. No se ha localizado durante la búsqueda una fuente primaria municipal o una corroboración independiente del expediente contractual.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento prepara un contrato para maquinaria y herramientas destinadas a las brigadas municipales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El valor máximo previsto es de 176.000 euros, con 88.000 euros para los dos primeros años y una posible prórroga de otros 24 meses.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato afecta a Calidad Urbana, Parques y Jardines y Vías Públicas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El proveedor deberá prestar atención 24 horas y suministrar equipos en un máximo de 60 minutos en casos urgentes.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento está obligado a gastar los 176.000 euros.",
-          "status": "CONTRADICTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12290/calp-reserva-176000-euros-para-equipar-sus-brigadas-con-maquinaria-y-atender-necesidades-urgentes",
-          "evidence": "La noticia describe un contrato de suministro de maquinaria y herramientas con un presupuesto de 88.000 euros para dos años y hasta 176.000 euros con prórroga. También recoge la obligación de atención 24/7 y suministro urgente en un máximo de 60 minutos, y aclara que el Ayuntamiento no está obligado a consumir todo el presupuesto.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "Falta localizar el anuncio de licitación, el pliego o un comunicado oficial del Ayuntamiento que permita verificar el expediente, las cantidades y las condiciones.",
-        "El titular puede inducir a interpretar los 176.000 euros como gasto comprometido, cuando la fuente habla de un importe máximo y no de una obligación de consumo."
-      ],
-      "id": "inv_8555deff855f0bd5",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
-      "model": "gpt-5.6-luna"
-    },
     {
       "candidate_fingerprint": "3e0b9225b1a9cd099c6ba614cc8538538a7c2ac662c0813c7236eb6d01402b97",
       "title": "Calp refuerza los controles de drogas al volante con hasta 75 nuevos test de saliva",
-      "status": "NEEDS_RESEARCH",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "Calp Digital informa de un suministro de hasta 75 test de saliva para la Policía Local, capaces de detectar seis grupos de sustancias y con un resultado inicial en unos tres minutos. La explicación general sobre la necesidad de confirmación en laboratorio es coherente con la normativa y con la información de la DGT, pero no se ha localizado una fuente primaria municipal que confirme la compra o el contrato concreto.",
+      "publishable": true,
+      "summary": "La licitación municipal para suministrar test de saliva a la Policía Local de Calp está corroborada por un registro independiente de contratación pública. La información sobre el procedimiento de cribado y confirmación posterior coincide además con la explicación oficial de la DGT.",
       "claims": [
         {
-          "claim": "La Policía Local dispondrá de hasta 75 test de saliva.",
+          "claim": "La Policía Local de Calp ha licitado el suministro de hasta 75 test de saliva para detectar drogas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los dispositivos pueden detectar hasta seis tipos o grupos de drogas.",
+          "claim": "El expediente corresponde al suministro de test de saliva para la Policía Local de Calp y fue publicado en septiembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El resultado inicial se obtiene aproximadamente en tres minutos.",
+          "claim": "Los dispositivos pueden detectar hasta seis grupos de sustancias y ofrecer un resultado inicial en aproximadamente tres minutos.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El resultado inicial es indiciario y una muestra posterior debe remitirse a un laboratorio para confirmación.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El resultado inicial debe confirmarse posteriormente mediante análisis de laboratorio.",
+          "claim": "La contratación tiene un importe estimado cercano a 1.950 euros sin IVA.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento ya ha consumido o utilizará necesariamente los 75 dispositivos.",
-          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
+          "source_name": "Licitron, ficha de contratación pública",
+          "source_url": "https://licitron.com/licitaciones/alicante/sum-462026-asssuministro-de-test-de-saliva-para-l-a8df5b4c",
+          "evidence": "Identifica el expediente SUM 46/2026-ASS del Ayuntamiento de Calp para el suministro de test de saliva destinados a detectar drogas en la Policía Local. Indica publicación el 10 de septiembre de 2026, presupuesto base de 1.950 euros y fecha límite de ofertas el 25 de septiembre de 2026.",
+          "source_type": "SECONDARY"
+        },
+        {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12287/calp-refuerza-controles-drogas-al-volante-con-hasta-75-nuevos-test-saliva",
-          "evidence": "La publicación describe un suministro máximo de 75 dispositivos, en partidas de 25, con detección de seis grupos de sustancias y un resultado inicial en tres minutos. También explica que se trata de una prueba de cribado y que una muestra posterior se remite al laboratorio.",
+          "source_url": "https://calpdigital.es/art/12287/calp-refuerza-controles-drogas-volante-con-hasta-75-nuevos-test-saliva",
+          "evidence": "Detalla que el pliego prevé hasta 75 unidades, en partidas de 25, con detección de hasta seis tipos de drogas y un resultado inicial en tres minutos. También explica que los positivos requieren una segunda muestra salival y análisis de laboratorio.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Dirección General de Tráfico",
-          "source_url": "https://www.dgt.es/",
-          "evidence": "La información general de la DGT sobre controles de drogas establece la diferencia entre la prueba salival inicial y el análisis posterior de confirmación en laboratorio.",
+          "source_url": "https://revista.dgt.es/es/sabia-que/normas/2018/0703como-se-hace-un-control-de-drogas.shtml",
+          "evidence": "Explica oficialmente que la primera muestra salival es indiciaria y que, si resulta positiva, se toma una segunda muestra para determinar y confirmar la sustancia en laboratorio; también contempla la prueba de contraste mediante sangre.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "No se ha encontrado el expediente de contratación o una nota oficial del Ayuntamiento que confirme el suministro específico de hasta 75 unidades.",
-        "La evidencia de la DGT respalda el procedimiento general, no la adquisición concreta realizada por Calp."
+        "La fuente independiente de contratación confirma el expediente, pero no permite comprobar en el resultado indexado el número exacto de sustancias detectables ni el tiempo de tres minutos.",
+        "El importe difundido por Calp Digital —2.359,50 euros con impuestos— no coincide con el presupuesto base de 1.950 euros sin IVA del registro de contratación; ambas cifras pueden ser compatibles según el tratamiento fiscal, pero conviene consultar el pliego original."
       ],
       "id": "inv_2361e414372cdd64",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
+      "investigated_at": "2026-09-25T22:23:15.432Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "f2b94c2a6cfa8c67af872d75731078907628ccaa2fc8cd2f131f45532e206ba9",
-      "title": "Calp aprueba su Plan Estratégico de Subvenciones para 2027-2029",
+      "candidate_fingerprint": "bc7c297413a662a8c4b9f71776e28c0cc6801e8ab6147a3133c3d31dd6b06fb2",
+      "title": "Calp licita por 273.000 euros el renting de cinco vehículos para Policía, SPRA y Bienestar Social",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El Pleno del Ayuntamiento de Calp aprobó inicialmente por unanimidad el Plan Estratégico de Subvenciones para 2027-2029. El documento organiza líneas de ayuda para protección social, educación, economía local, cultura y fiestas, deporte, medio ambiente, urbanismo y colaboración con entidades, y quedó sometido a información pública durante 30 días.",
+      "summary": "La licitación está corroborada por registros independientes de contratación pública. El expediente contempla cinco lotes, dos vehículos policiales, uno para el servicio de protección animal y dos furgonetas para Política Social, con un valor conjunto de 273.289,26 euros y una duración prevista de 48 meses.",
       "claims": [
         {
-          "claim": "El Pleno aprobó inicialmente el Plan Estratégico de Subvenciones 2027-2029.",
+          "claim": "El Ayuntamiento de Calp ha licitado mediante renting cinco vehículos para servicios municipales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación fue por unanimidad.",
+          "claim": "El valor conjunto de la licitación es de 273.289,26 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan organiza ayudas para familias, estudiantes, comercio, asociaciones, clubes deportivos y entidades culturales y festivas.",
+          "claim": "Dos vehículos se destinan a la Policía Local, uno al SPRA y dos a Bienestar Social.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan incluye áreas de protección social, educación, economía local, cultura y fiestas, deporte, medio ambiente, urbanismo y colaboración con entidades.",
+          "claim": "El contrato se divide en cinco lotes independientes publicados el 18 de septiembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan se sometió a información pública durante 30 días antes de su aprobación definitiva.",
+          "claim": "La duración prevista del renting es de 48 meses sin prórroga.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Una de las furgonetas está adaptada para transportar usuarios en silla de ruedas.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-del-ayuntamiento-de-calp-aprueba-el-plan-estrat%C3%A9gico-de-subvenciones-para-2027-2029",
-          "evidence": "El Ayuntamiento comunica la aprobación inicial por unanimidad del plan para 2027-2029, enumera sus áreas y líneas de ayuda y señala que se somete a información pública durante 30 días.",
-          "source_type": "PRIMARY"
+          "source_name": "Gobierto Contratación",
+          "source_url": "https://contratos.gobierto.es/licitaciones/5223520",
+          "evidence": "Registra el expediente SUM 54/2026-AOR-L1 del Ayuntamiento de Calp, publicado el 18 de septiembre de 2026, con un valor estimado conjunto de 273.289,26 euros y un primer lote para un SUV policial rotulado.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp, Portal de Transparencia",
-          "source_url": "https://www.calp.es/es/portal-de-transparencia/ayudas-y-subvenciones/plan-estrategico-de-subvenciones",
-          "evidence": "El portal municipal explica la función del Plan Estratégico de Subvenciones como instrumento plurianual de planificación y transparencia, y señala que debe detallar objetivos, plazos, costes, beneficiarios y financiación.",
-          "source_type": "PRIMARY"
+          "source_name": "Gobierto Contratación, lote SPRA",
+          "source_url": "https://contratos.gobierto.es/licitaciones/5223503",
+          "evidence": "Registra el lote SUM 54/2026-AOR-L3 para un furgón polivalente destinado al servicio municipal de protección y recogida de animales, con presupuesto de 59.504,13 euros.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Gobierto Contratación, lote adaptado",
+          "source_url": "https://gobierto-elb-dbfe699cce09029a.elb.eu-south-2.amazonaws.com/licitaciones/5223502",
+          "evidence": "Registra el lote SUM 54/2026-AOR-L4 para una furgoneta adaptada de nueve plazas con plataforma o rampa para silla de ruedas, con presupuesto de 72.000 euros.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12310/art/12291/calp-ya-ha-esperado-demasiado-el-ii-centro-de-salud-debe-ser-prioritario-en-los-presupuestos-de-2027",
+          "evidence": "Describe los cinco lotes, sus importes, los destinos municipales, las condiciones técnicas principales y el plazo de presentación de ofertas hasta el 19 de octubre de 2026.",
+          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La aprobación localizada es inicial; la fuente no acredita todavía la aprobación definitiva tras el periodo de exposición pública."
+        "Los registros consultados muestran una licitación publicada y no una adjudicación definitiva.",
+        "La URL facilitada por el candidato contiene una ruta duplicada y conduce a la noticia correcta; conviene sustituirla por una URL canónica antes de publicar."
       ],
-      "id": "inv_194cebe963ae6ab7",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
+      "id": "inv_8c9ce7f274fcf995",
+      "investigated_at": "2026-09-25T22:23:15.432Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "4c64d23eab2ca651c2f6a03a5f85a073336b5d66fb82bcc8d0f97916db5f001d",
+      "title": "La Diputación aprueba 369.130 euros de Bonos Consumo para Calp",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La Diputación de Alicante confirma oficialmente la aprobación del programa provincial de Bonos Consumo 2026 para 125 municipios y cerca de 25 millones de euros. La asignación específica de 369.130 euros para Calp está respaldada por dos medios independientes y por una información previa sobre las bases municipales.",
+      "claims": [
+        {
+          "claim": "La Diputación de Alicante aprobó la resolución de las ayudas del Bono Consumo 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa distribuye cerca de 25 millones de euros entre 125 municipios.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Calp figura con una asignación de 369.130 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los ayuntamientos pueden activar sus campañas y deben ejecutarlas antes del 31 de diciembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La justificación de los fondos puede presentarse hasta el 31 de enero de 2027.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Diputación de Alicante",
+          "source_url": "https://www.diputacionalicante.es/ca/noticias/el-pleno-resuelve-por-unanimidad-las-ayudas-de-bono-consumo-que-repartiran-cerca-de-25-millones-de-euros-entre-125-municipios/",
+          "evidence": "La institución provincial informa de la aprobación unánime de la convocatoria, de la distribución de cerca de 25 millones entre 125 municipios, de la fecha límite de ejecución del 31 de diciembre de 2026 y del plazo de justificación hasta el 31 de enero de 2027.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/08/11/calp-apuesta-por-el-comercio-local-con-una-nueva-campana-de-bono-consumo/",
+          "evidence": "Informa de que las bases de la campaña de Calp contemplan una dotación global de 389.130 euros, de los que 369.130 euros proceden de una subvención de la Diputación de Alicante destinada a financiar los bonos.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12323/la-diputacion-aprueba-cerca-de-25-millones-en-bonos-consumo-para-125-municipios-de-la-provincia-de-alicante",
+          "evidence": "Relaciona la aprobación provincial con una asignación de 369.130 euros para Calp y sitúa al municipio entre los de mayor dotación de la Marina Alta.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "Los 369.130 euros son la asignación provincial para financiar los bonos; no equivalen necesariamente al presupuesto total de gestión de la campaña municipal, que una información previa sitúa en 389.130 euros."
+      ],
+      "id": "inv_2c00506eaf1223c2",
+      "investigated_at": "2026-09-25T22:23:15.432Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d9e8655febdfad7a6a944331dd39eff132b79179af52d7facb95af9c4e7765d0",
+      "title": "El nuevo plan de movilidad no motorizada de la Marina Alta incluye a Calp",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La noticia está respaldada por una información comarcal detallada y por la MACMA, que ya había documentado oficialmente la elaboración del plan. La información de 2026 presenta un primer borrador con 77 tramos, 390,4 kilómetros, una inversión estimada de 12,35 millones y 120 plazas BikeBox en la estación de Calp.",
+      "claims": [
+        {
+          "claim": "La MACMA ha completado el primer borrador del Plan de Movilidad No Motorizada de la Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El borrador propone 77 tramos y unos 390,4 kilómetros de itinerarios no motorizados.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plan contempla una inversión estimada de aproximadamente 12,3 millones de euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La estación de Calp figura entre los puntos previstos para aparcamientos seguros automatizados de bicicletas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se prevén 120 plazas BikeBox en la estación de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El documento es un borrador sujeto a presentación pública y posibles modificaciones.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
+          "evidence": "Informa de que la MACMA ha terminado el primer borrador del plan y detalla una red de 77 tramos y 390,4 kilómetros, una inversión global estimada de 12.351.795,10 euros y 120 plazas BikeBox en la estación de Calp. También señala que el proyecto se presentará en sesiones informativas y de debate durante octubre.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "MACMA",
+          "source_url": "https://macma.org/cultura/actualitat/el-nou-pla-de-mobilitat-comarcal-no-motoritzada-un-projecte-pioner-arreu-del-territori-valencia",
+          "evidence": "La Mancomunidad documentó oficialmente en octubre de 2025 la puesta en marcha del Plan de Movilidad No Motorizada 2025-2030, incluyendo la elaboración de la red mediante inventario de caminos, encuestas y mesas participativas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza, versión en valenciano",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres/",
+          "evidence": "Reproduce los datos técnicos del borrador, incluida la inversión de 12.351.795,10 euros, los 390,4 kilómetros y las 120 plazas BikeBox previstas en la estación de Calp.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fuente primaria de MACMA localizada confirma el proyecto y su metodología, pero no publica en el resultado consultado el borrador final con las cifras de 2026.",
+        "Las cifras deben presentarse como propuestas de un borrador, no como obras aprobadas, ejecutadas o financiadas definitivamente."
+      ],
+      "id": "inv_cf5c2d5c82c587d8",
+      "investigated_at": "2026-09-25T22:23:15.432Z",
       "model": "gpt-5.6-luna"
     },
     {
@@ -311,106 +252,56 @@
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "Estimar Hotels ha anunciado la renovación de su colaboración con Gravity Wave y el objetivo de retirar 12 toneladas adicionales de residuos plásticos durante 2026, con una previsión acumulada cercana a 30 toneladas desde 2022. La existencia de la colaboración está documentada previamente por Estimar, pero las cifras y el nuevo compromiso de 2026 aparecen principalmente en comunicados reproducidos por varios medios, sin una confirmación independiente suficientemente diferenciada de Gravity Wave o de un registro de resultados.",
+      "summary": "La renovación de la colaboración y el compromiso de retirar 12 toneladas adicionales durante 2026 aparecen recogidos por varias publicaciones, pero las evidencias independientes localizadas proceden aparentemente de la misma comunicación corporativa. La página oficial de Estimar confirma la colaboración y cifras cercanas a seis toneladas anuales, aunque no confirma expresamente el nuevo objetivo de 30 toneladas acumuladas.",
       "claims": [
         {
-          "claim": "Estimar Hotels y Gravity Wave mantienen una colaboración iniciada en 2022.",
+          "claim": "Estimar Hotels ha renovado su acuerdo de colaboración con Gravity Wave.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El acuerdo renovado contempla retirar otras 12 toneladas durante 2026.",
+          "claim": "El acuerdo contempla recuperar 12 toneladas adicionales de plástico durante 2026.",
           "status": "SUPPORTED"
         },
         {
           "claim": "La cadena prevé alcanzar cerca de 30 toneladas retiradas desde el inicio de la colaboración.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La colaboración se inició en 2022.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se organizarán jornadas públicas de limpieza y acciones de sensibilización.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las cerca de 30 toneladas ya han sido retiradas y verificadas a 25 de septiembre de 2026.",
+          "claim": "Estimar incorpora elementos fabricados con plástico reciclado en sus habitaciones.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Estimar Hotels",
-          "source_url": "https://estimarhotels.com/wp-content/uploads/2024/08/Memoria-Sostenibilidad-Estimar-Hoteles-2022.pdf",
-          "evidence": "La memoria de sostenibilidad de Estimar confirma que la colaboración con Gravity Wave comenzó en 2022 y que estaba orientada a extraer residuos del Mediterráneo.",
+          "source_name": "Estimar Hotels, página corporativa de responsabilidad social",
+          "source_url": "https://estimarhotels.com/rsc/",
+          "evidence": "La empresa confirma su colaboración con Gravity Wave y afirma que recoge y recicla casi seis toneladas de plástico del Mediterráneo al año. También documenta que la colaboración comenzó en 2022 y que se retiraba un kilogramo por cada reserva directa durante el periodo descrito.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12328/estimar-hotels-alcanzara-cerca-30-toneladas-plastico-retiradas-mediterraneo-junto-gravity-wave",
-          "evidence": "La noticia recoge el anuncio de 12 toneladas adicionales durante 2026, la previsión de alcanzar cerca de 30 toneladas desde 2022 y la organización de jornadas públicas y acciones de sensibilización.",
-          "source_type": "SECONDARY"
         },
         {
           "source_name": "Forbes España / Europa Press",
           "source_url": "https://forbes.es/ultima-hora/1028088/estimar-hotels-renueva-su-alianza-con-gravity-wave-y-alcanzara-las-30-toneladas-de-plastico-retiradas-del-mediterraneo/",
-          "evidence": "Reproduce el anuncio de renovación de la alianza y el compromiso de retirar 12 toneladas adicionales en 2026, con una previsión acumulada cercana a 30 toneladas.",
+          "evidence": "Informa de la renovación del acuerdo, de la retirada prevista de 12 toneladas adicionales durante 2026 y del objetivo de alcanzar cerca de 30 toneladas acumuladas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "IndustriAmbiente",
+          "source_url": "https://www.industriambiente.com/noticias/20260925/estimar-hotels-ampliara-30-toneladas-plastico-retirado-mediterraneo-junto-gravity-wave",
+          "evidence": "Publica los mismos datos sobre la renovación del acuerdo, las 12 toneladas adicionales previstas para 2026 y el objetivo acumulado de cerca de 30 toneladas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las fuentes secundarias parecen basarse en el mismo anuncio corporativo y no constituyen necesariamente corroboración independiente.",
-        "El verbo prevé o alcanzará describe un objetivo anunciado, no un resultado final ya auditado."
+        "Forbes España indica que la información procede de Europa Press y la publicación de IndustriAmbiente parece reproducir la misma comunicación; no constituyen corroboraciones plenamente independientes.",
+        "La página oficial de Estimar respalda la colaboración y el orden de magnitud anual, pero no confirma de forma expresa el nuevo compromiso de 12 toneladas ni el acumulado de cerca de 30 toneladas.",
+        "No se localizó una fuente primaria de Gravity Wave que verificara el objetivo exacto ni documentación pública que respaldara la afirmación sobre objetos reciclados en las habitaciones."
       ],
       "id": "inv_3a0f42f508175844",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "28d21c8d16fadcb832a6c3b3465f153593f6e69bb8cc1adb8638fc3370c9ab00",
-      "title": "Calp prepara su presencia en Alicante Gastronómica con productos y marcas locales",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "Calp Digital informa de un contrato municipal de 36.800 euros para productos de degustación, material promocional, personal, transporte y otros servicios vinculados a Alicante Gastronómica, prevista del 2 al 5 de octubre de 2026. La participación municipal en la feria y la promoción de productos locales cuentan con antecedentes oficiales, pero no se ha localizado una fuente primaria que confirme el contrato concreto y su importe de 2026.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento ha tramitado un contrato de 36.800 euros para su presencia en Alicante Gastronómica 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato incluye alimentos para degustaciones, material promocional, personal y transporte.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La feria se celebrará del 2 al 5 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Calp promocionará productos y marcas locales como Peix de Calp y Gamba Blanca de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento había reservado previamente 80.000 euros del remanente para esta presencia.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
-          "evidence": "La publicación cifra en 36.800 euros el contrato previsto para alimentos, merchandising, diseño, folletos, transporte y personal, y sitúa la feria entre el 2 y el 5 de octubre de 2026. También menciona una reserva previa de 80.000 euros del remanente.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/en/noticia/calpe-town-council-will-promote-white-prawns-alicante-gastron%C3%B3mica-2025-tastings-and",
-          "evidence": "La fuente municipal acredita como antecedente que Calp participa en Alicante Gastronómica con stand propio, en colaboración con la Cofradía de Pescadores, AEMCO y CREAMA, para promocionar productos locales y ofrecer degustaciones.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "El antecedente oficial es de 2025 y no verifica por sí solo el contrato ni el importe anunciados para 2026.",
-        "Falta localizar el expediente de contratación o una nota oficial municipal correspondiente a la edición de 2026."
-      ],
-      "id": "inv_98efe33570c2c78f",
-      "investigated_at": "2026-09-25T20:58:05.587Z",
+      "investigated_at": "2026-09-25T22:23:15.432Z",
       "model": "gpt-5.6-luna"
     }
   ]

@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-25T20:59:08.797Z",
+  "generated_at": "2026-09-25T22:24:27.749Z",
   "archive_version": "archive-v1",
-  "count": 12,
+  "count": 16,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,180 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 8,
+    "reused": 12,
     "licensed_selected": 0,
     "official_candidates_not_auto_published": 1,
     "branded_fallbacks": 4
   },
   "items": [
+    {
+      "media_id": "med_1276963a19687c3b",
+      "archive_id": "arc_5084bb5a8af7e780",
+      "slug": "calp-licita-test-saliva-policia-local",
+      "title": "Calp licita hasta 75 test de saliva para la Policía Local",
+      "category": "SUCESOS",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_5084bb5a8af7e780.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp licita hasta 75 test de saliva para la Policía Local",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12287/calp-refuerza-controles-drogas-volante-con-hasta-75-nuevos-test-saliva",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/4048_control-conduccion-policia-local-drogas.webp",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": false,
+        "reason": "AI illustration disabled for SUCESOS"
+      },
+      "checked_at": "2026-09-25T22:24:27.749Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_a83850015ed7dbeb",
+      "archive_id": "arc_60739aeceb90078a",
+      "slug": "calp-licita-renting-cinco-vehiculos-municipales",
+      "title": "Calp licita por 273.289 euros el renting de cinco vehículos municipales",
+      "category": "LOCAL",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_60739aeceb90078a.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp licita por 273.289 euros el renting de cinco vehículos municipales",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12310/art/12291/calp-ya-ha-esperado-demasiado-el-ii-centro-de-salud-debe-ser-prioritario-en-los-presupuestos-de-2027",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/7868_calp-policia-local-vehiculo-comisaria-destacada.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T22:24:27.749Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_a692e6e1f2bba24f",
+      "archive_id": "arc_47301938c9d5c318",
+      "slug": "calp-recibe-asignacion-bono-consumo-2026",
+      "title": "Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
+      "category": "ECONOMIA",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_47301938c9d5c318.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Diputación de Alicante",
+          "source_page": "https://www.diputacionalicante.es/ca/noticias/el-pleno-resuelve-por-unanimidad-las-ayudas-de-bono-consumo-que-repartiran-cerca-de-25-millones-de-euros-entre-125-municipios/",
+          "image_url": "https://www.diputacionalicante.es/wp-content/uploads/2026/09/092326-pleno-extraordinario-3.jpg",
+          "official_source": true,
+          "rights_status": "OFFICIAL_SOURCE_RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Plaza",
+          "source_page": "https://lamarina.eldiario.es/2026/08/11/calp-apuesta-por-el-comercio-local-con-una-nueva-campana-de-bono-consumo/",
+          "image_url": "https://lamarina.eldiario.es/wp-content/uploads/2026/08/calp-pleno-e1786445057942.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12323/la-diputacion-aprueba-cerca-de-25-millones-en-bonos-consumo-para-125-municipios-de-la-provincia-de-alicante",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/2052_092326-pleno-extraordinario-3.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T22:24:27.749Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_3a55c9b84a7d7e70",
+      "archive_id": "arc_8beba1ee06bcb1f6",
+      "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
+      "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
+      "category": "TURISMO",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_8beba1ee06bcb1f6.svg",
+        "alt": "Imagen editorial de CALPE ONE para: El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Plaza",
+          "source_page": "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
+          "image_url": "https://lamarina.eldiario.es/wp-content/uploads/2026/09/carril-bici.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "MACMA",
+          "source_page": "https://macma.org/cultura/actualitat/el-nou-pla-de-mobilitat-comarcal-no-motoritzada-un-projecte-pioner-arreu-del-territori-valencia",
+          "image_url": "https://macma.org/storage/EwDJUtBSd7EPUwJcbQabYwyAKjMAKHGOPIgUQP1u.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Plaza, versión en valenciano",
+          "source_page": "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres/",
+          "image_url": "https://lamarina.eldiario.es/wp-content/uploads/2026/09/carril-bici.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T22:24:27.749Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_61430191ea7673cf",
       "archive_id": "arc_dbe4f30606c424dd",
@@ -58,7 +226,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -81,7 +249,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -123,7 +291,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -146,7 +314,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -188,7 +356,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -221,7 +389,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -254,7 +422,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -277,7 +445,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -310,7 +478,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -333,7 +501,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -356,7 +524,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     },
     {
@@ -389,7 +557,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T20:59:08.797Z",
+      "checked_at": "2026-09-25T22:24:27.749Z",
       "engine_version": "media-v1"
     }
   ]
