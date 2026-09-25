@@ -3,8 +3,13 @@ name: CALPE ONE META DELIVERY
 on:
   workflow_dispatch:
     inputs:
+      live_test:
+        description: "Publish exactly the selected archive_id to Meta for this manual test"
+        required: false
+        default: false
+        type: boolean
       test_archive_id:
-        description: "Optional archive_id for one controlled live test"
+        description: "Required when live_test=true; publishes only this archive_id"
         required: false
         type: string
       send_backlog:
@@ -42,16 +47,31 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Validate controlled manual live test
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.live_test }}
+        env:
+          TEST_ARCHIVE_ID: ${{ inputs.test_archive_id }}
+          SEND_BACKLOG: ${{ inputs.send_backlog }}
+        run: |
+          if [ -z "$TEST_ARCHIVE_ID" ]; then
+            echo "live_test=true requires test_archive_id"
+            exit 1
+          fi
+          if [ "$SEND_BACKLOG" = "true" ]; then
+            echo "Controlled live test cannot be combined with send_backlog=true"
+            exit 1
+          fi
+
       - name: Deliver eligible posts to Facebook and Instagram
         env:
-          META_DELIVERY_ENABLED: ${{ vars.META_DELIVERY_ENABLED || 'false' }}
+          META_DELIVERY_ENABLED: ${{ (github.event_name == 'workflow_dispatch' && inputs.live_test && 'true') || vars.META_DELIVERY_ENABLED || 'false' }}
           META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
           META_SEND_BACKLOG: ${{ inputs.send_backlog || 'false' }}
           META_TEST_ARCHIVE_ID: ${{ inputs.test_archive_id || '' }}
-          META_MAX_PER_RUN: ${{ vars.META_MAX_PER_RUN || '4' }}
+          META_MAX_PER_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.live_test && '2' || vars.META_MAX_PER_RUN || '4' }}
         run: npm run meta:deliver
 
       - name: Commit confirmed Meta delivery state
