@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-25T19:29:22.714Z",
+  "generated_at": "2026-09-25T20:59:08.797Z",
   "archive_version": "archive-v1",
-  "count": 8,
+  "count": 12,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,142 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 0,
+    "reused": 8,
     "licensed_selected": 0,
-    "official_candidates_not_auto_published": 0,
-    "branded_fallbacks": 8
+    "official_candidates_not_auto_published": 1,
+    "branded_fallbacks": 4
   },
   "items": [
+    {
+      "media_id": "med_61430191ea7673cf",
+      "archive_id": "arc_dbe4f30606c424dd",
+      "slug": "ua-confirma-alga-invasora-calp",
+      "title": "La Universidad de Alicante confirma la presencia de un alga invasora en Calp",
+      "category": "MEDIO_AMBIENTE",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_dbe4f30606c424dd.svg",
+        "alt": "Imagen editorial de CALPE ONE para: La Universidad de Alicante confirma la presencia de un alga invasora en Calp",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Universidad de Alicante",
+          "source_page": "https://web.ua.es/en/actualidad-universitaria/2026/septiembre-2026/21-27/ua-confirms-northern-expansion-of-invasive-rugulopteryx-okamurae-seaweed-following-detection-in-calp.html",
+          "image_url": "https://web.ua.es/es/actualidad-universitaria/cabecera.png",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Alta",
+          "source_page": "https://lamarinaalta.com/la-ua-confirma-en-calp-la-expansion-de-un-alga-invasora-que-puede-destruir-praderas-de-posidonia",
+          "image_url": "https://lamarinaalta.com/wp-content/uploads/2026/09/muestras-de-alga-invasora-rugulopteryx-okamurae-recogida-en-redes-de-pesca-en-el-puerto-de-calp-cedida-por-los-investigadores-de-la-ua-universidad-de-alicante-1320x956.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T20:59:08.797Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_f194433797803a98",
+      "archive_id": "arc_3685dd63b8ac5374",
+      "slug": "calp-remodelacion-parque-arco-iris",
+      "title": "Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
+      "category": "LOCAL",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_3685dd63b8ac5374.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T20:59:08.797Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_914a8aa79b352603",
+      "archive_id": "arc_6d6be357f1cce32d",
+      "slug": "pobla-ifac-xxi-campana-excavaciones",
+      "title": "La Pobla d’Ifac inicia su XXI campaña de excavaciones arqueológicas",
+      "category": "CULTURA",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_6d6be357f1cce32d.svg",
+        "alt": "Imagen editorial de CALPE ONE para: La Pobla d’Ifac inicia su XXI campaña de excavaciones arqueológicas",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Diputación de Alicante / MARQ",
+          "source_page": "https://www.diputacionalicante.es/ca/noticias/la-campana-de-excavaciones-del-marq-arranca-en-seis-yacimientos-de-norte-a-sur-de-la-provincia-de-alicante/",
+          "image_url": "https://www.diputacionalicante.es/wp-content/uploads/2026/09/RP-Excavaciones-MARQ.jpg",
+          "official_source": true,
+          "rights_status": "OFFICIAL_SOURCE_RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12308/pobla-difac-abre-nueva-etapa-excavaciones-con-trabajos-en-muralla-y-viviendas-medievales",
+          "image_url": "https://calpdigital.es/upload/images/08_2025/5172_pobla-de-ifach-2025-2.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-25T20:59:08.797Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_323ab087ddc0de8b",
+      "archive_id": "arc_a3cf780502eb8591",
+      "slug": "calp-plan-estrategico-subvenciones-2027-2029",
+      "title": "El Pleno de Calp aprueba inicialmente el Plan Estratégico de Subvenciones 2027-2029",
+      "category": "POLITICA",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_a3cf780502eb8591.svg",
+        "alt": "Imagen editorial de CALPE ONE para: El Pleno de Calp aprueba inicialmente el Plan Estratégico de Subvenciones 2027-2029",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [],
+      "ai_policy": {
+        "eligible": false,
+        "reason": "AI illustration disabled for POLITICA"
+      },
+      "checked_at": "2026-09-25T20:59:08.797Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_7904c9729d1353b7",
       "archive_id": "arc_be073fe6f7f930e7",
@@ -58,7 +188,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -91,7 +221,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -124,7 +254,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -147,7 +277,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -180,7 +310,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -203,7 +333,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -226,7 +356,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     },
     {
@@ -259,7 +389,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-25T19:29:22.714Z",
+      "checked_at": "2026-09-25T20:59:08.797Z",
       "engine_version": "media-v1"
     }
   ]
