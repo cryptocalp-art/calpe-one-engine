@@ -24,7 +24,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build CALPE ONE website
+      - name: Merge latest verified export into archive
+        run: npm run archive:merge
+
+      - name: Build CALPE ONE website from archive
         env:
           SITE_URL: ${{ vars.CALPE_ONE_SITE_URL || 'https://cryptocalp-art.github.io/calpe-one-engine' }}
         run: npm run build:web
@@ -33,8 +36,8 @@ jobs:
         run: |
           git config user.name "CALPE ONE ENGINE"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs
+          git add data/archive.json data/archive-last-run.json docs
           git diff --cached --quiet && exit 0
-          git commit -m "chore: publish CALPE ONE website"
+          git commit -m "chore: publish CALPE ONE website from archive"
           git pull --rebase origin main
           git push
