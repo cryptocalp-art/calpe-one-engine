@@ -2,24 +2,45 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-26T01:37:36.806Z",
+  "generated_at": "2026-09-26T07:46:48.630Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-26T01:37:36.643Z",
+  "last_activity": "2026-09-26T07:46:48.467Z",
   "newspaper": {
-    "archive_total": 19,
-    "published_today": 7,
-    "published_last_7_days": 19,
+    "archive_total": 22,
+    "published_today": 10,
+    "published_last_7_days": 22,
     "categories": {
+      "TURISMO": 4,
+      "MEDIO_AMBIENTE": 4,
       "ECONOMIA": 2,
       "LOCAL": 6,
       "SOCIEDAD": 3,
       "SUCESOS": 1,
-      "TURISMO": 2,
-      "MEDIO_AMBIENTE": 3,
       "CULTURA": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_1b13489d18f151c2",
+        "title": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
+        "category": "TURISMO",
+        "slug": "calp-distintivo-fiesta-interes-turistico-nacional-moros-cristianos",
+        "published_at": "2026-09-26T07:46:19.201Z"
+      },
+      {
+        "archive_id": "arc_ff61cde32143b7b6",
+        "title": "La Línea 9 del TRAM supera los 186.000 desplazamientos en agosto",
+        "category": "TURISMO",
+        "slug": "linea-9-tram-calp-desplazamientos-agosto-2026",
+        "published_at": "2026-09-26T07:46:19.201Z"
+      },
+      {
+        "archive_id": "arc_b6f40e5f58d26df4",
+        "title": "Las cuatro estaciones de control litoral de Calp presentan un estado ambiental óptimo en el último ciclo anual",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-control-calidad-ambiental-aguas-litorales-2025-2026",
+        "published_at": "2026-09-26T07:46:19.201Z"
+      },
       {
         "archive_id": "arc_d516bac45dc35f83",
         "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
@@ -54,37 +75,16 @@
         "category": "LOCAL",
         "slug": "calp-licita-renting-cinco-vehiculos-municipales",
         "published_at": "2026-09-25T22:24:03.996Z"
-      },
-      {
-        "archive_id": "arc_47301938c9d5c318",
-        "title": "Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
-        "category": "ECONOMIA",
-        "slug": "calp-recibe-asignacion-bono-consumo-2026",
-        "published_at": "2026-09-25T22:24:03.996Z"
-      },
-      {
-        "archive_id": "arc_8beba1ee06bcb1f6",
-        "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
-        "category": "TURISMO",
-        "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
-        "published_at": "2026-09-25T22:24:03.996Z"
-      },
-      {
-        "archive_id": "arc_dbe4f30606c424dd",
-        "title": "La Universidad de Alicante confirma la presencia de un alga invasora en Calp",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "ua-confirma-alga-invasora-calp",
-        "published_at": "2026-09-25T20:58:51.062Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 10,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 3,
+    "eligible": 3,
     "quarantined": 0,
-    "archive_added": 1
+    "archive_added": 3
   },
   "delivery": {
     "distribution_failed": 0,

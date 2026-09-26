@@ -1,180 +1,315 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-26T01:36:40.013Z",
+  "generated_at": "2026-09-26T07:45:28.599Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 6,
   "investigations": [
     {
-      "candidate_fingerprint": "1c4b6a990e66af7dab4afd68d9402dc3a4e99bd727ae5103f03cd28ea7b912fa",
-      "title": "Calp reforzará desde noviembre la limpieza de playas con un 40% más de inversión y nuevos medios",
+      "candidate_fingerprint": "d74ad00d17f7502c8246ee7ff8b324038420d9ece5e164206157878fe416f3b4",
+      "title": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda respaldada por una comunicación oficial del Ayuntamiento de Calp y por documentación de contratación. El nuevo servicio fue adjudicado a FCC Medio Ambiente, tiene una inversión anual de 639.726,71 euros —un 40% más que el coste anterior— y está previsto que empiece el 1 de noviembre de 2026. La fuente municipal también confirma la ampliación de temporadas, el refuerzo de personal y la atención a calas de difícil acceso.",
+      "summary": "La declaración oficial como Fiesta de Interés Turístico Nacional está acreditada por el BOE. Una información independiente de Calp Digital confirma que Ana Sala recogió el distintivo el 25 de septiembre de 2026 en el Teatro Real de Madrid.",
       "claims": [
         {
-          "claim": "El nuevo servicio de limpieza y mantenimiento de playas comenzará el 1 de noviembre de 2026.",
+          "claim": "Las fiestas de Moros y Cristianos de Calp tienen el título de Fiesta de Interés Turístico Nacional.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
+          "claim": "La concesión fue formalizada por resolución de la Secretaría de Estado de Turismo de 22 de agosto de 2026 y publicada en el BOE el 21 de septiembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La inversión anual asciende a 639.726,71 euros y supone un incremento del 40% respecto al servicio anterior.",
+          "claim": "Ana Sala recogió el distintivo oficial el 25 de septiembre de 2026 en el Teatro Real de Madrid.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato incorpora más personal, maquinaria, frecuencias y temporadas de servicio.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El servicio contempla actuaciones en playas, calas de difícil acceso y otros puntos del litoral.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato tiene una duración prevista de cuatro años.",
+          "claim": "La entrega correspondió al Ministerio de Industria y Turismo y a la Secretaría de Estado de Turismo.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — CalpeNoticias ES",
-          "source_url": "https://www.calp.es/es/aggregator/sources/2",
-          "evidence": "El Ayuntamiento informa de que el servicio ha sido adjudicado a FCC Medio Ambiente, que comenzará el 1 de noviembre, contará con una inversión anual de 639.726,71 euros —un 40% más— y ampliará temporadas, personal, maquinaria y prestaciones, incluyendo calas de difícil acceso.",
+          "source_name": "Boletín Oficial del Estado",
+          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
+          "evidence": "La Resolución de 22 de agosto de 2026 concede expresamente el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp. El anuncio fue publicado en el BOE número 233, de 21 de septiembre de 2026.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Plataforma de información de contratación — servicio de playas de Calp",
-          "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "evidence": "La ficha de contratación identifica el servicio de limpieza y mantenimiento de playas y calas de Calp, el expediente 151/2026, FCC Medio Ambiente como adjudicataria y un importe total adjudicado de 639.726,71 euros.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/mes-maquinaria-mes-personal-i-temporades-mes-llargues-el-nou-pla-de-calp-per-a-la-neteja-de-la-costa/",
-          "evidence": "La información publicada coincide en el inicio del servicio el 1 de noviembre, la adjudicación a FCC Medio Ambiente, la inversión anual de 639.726,71 euros, el incremento del 40% y la duración prevista de cuatro años.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12333/calp-recibe-en-madrid-distintivo-como-fiesta-interes-turistico-nacional-para-moros-y-cristianos",
+          "evidence": "Informa de que Ana Sala recogió el 25 de septiembre de 2026 el distintivo en el Teatro Real de Madrid, junto con una delegación calpina, y atribuye la entrega al ministro de Industria y Turismo y a la secretaria de Estado de Turismo.",
           "source_type": "SECONDARY"
         }
       ],
-      "caveats": [
-        "El porcentaje del 40% procede de la comunicación municipal; la documentación de contratación consultada confirma el importe adjudicado, pero no permite por sí sola recalcular la comparación con el coste anterior.",
-        "La fecha de inicio es una previsión comunicada por el Ayuntamiento, no una constatación de que el servicio ya hubiera comenzado en la fecha de consulta."
-      ],
-      "id": "inv_2a5cedb288d7de92",
-      "investigated_at": "2026-09-26T01:36:40.013Z",
+      "caveats": [],
+      "id": "inv_02dd2244eb7ced13",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "594f45322f780888745da0d11e30d65c399e580a4ec34f7318b2186d7d884c7a",
-      "title": "El Equipo ROCA de Calp localiza tonelada y media de cobre relacionada con un presunto hurto de cable en Xàbia",
+      "candidate_fingerprint": "829f845231114c2e6b6e647b0459d0394c838a590b4bd7735dca16c763fbb3c5",
+      "title": "Calp estudia cómo utiliza la ciudadanía el espacio público para orientar futuras decisiones urbanísticas",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "Dos medios locales publican una versión coincidente sobre una investigación de la Guardia Civil: desaparición de más de 25 toneladas de cable de telefonía en Xàbia, recuperación de aproximadamente 1.500 kilos en centros de reciclaje e investigación de dos trabajadores. No se ha localizado una nota oficial de la Guardia Civil ni otra fuente primaria que permita verificar independientemente los datos esenciales. Las publicaciones podrían proceder de la misma comunicación policial.",
+      "summary": "La información está desarrollada en Calp Digital y sus datos son internamente coherentes, pero no se ha localizado una publicación oficial del expediente o de los pliegos que confirme de forma independiente el importe, la duración y el alcance del estudio.",
       "claims": [
         {
-          "claim": "La Guardia Civil investiga a dos hombres de 49 y 23 años por su presunta relación con la sustracción de cable en Xàbia.",
+          "claim": "El Ayuntamiento de Calp prepara un diagnóstico sobre el uso ciudadano de calles, plazas, recorridos y otros espacios públicos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Una empresa detectó la desaparición de más de 25 toneladas de cable de telecomunicaciones.",
+          "claim": "El contrato tiene un presupuesto de 58.080 euros y una duración máxima de siete meses.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El análisis abarcará todo el término municipal.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Equipo ROCA de Calp realizó inspecciones en centros de reciclaje y recuperación de metales.",
+          "claim": "Se estudiarán seguridad, accesibilidad, movilidad, confort térmico, calidad ambiental y diferencias de uso por edad, género, origen o discapacidad.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se localizaron y recuperaron aproximadamente 1.500 kilos de cableado.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El material recuperado estaría relacionado con el presunto hurto cometido por trabajadores de empresas subcontratadas de telecomunicaciones.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Existe una corroboración independiente y primaria de todos los hechos esenciales.",
+          "claim": "El proyecto incluirá talleres y participación ciudadana para orientar futuras decisiones urbanísticas.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/09/23/la-guardia-civil-relaciona-a-dos-trabajadores-de-telecomunicaciones-con-el-hurto-de-cable-en-xabia",
-          "evidence": "Informa de que la Guardia Civil investigó a dos hombres por su presunta relación con la sustracción de cable en Xàbia; cifra en más de 25 toneladas el material desaparecido y atribuye las pesquisas al Equipo ROCA de Calp, que recuperó aproximadamente 1.500 kilos en establecimientos de reciclaje.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12276/art/12281/delegacion-50-vecinos-calp-visita-cabra-para-reforzar-vinculos-historicos-entre-ambos-municipios",
+          "evidence": "Describe un estudio municipal de todo el término de Calp sobre el uso cotidiano y la percepción de los espacios públicos. Menciona seguridad, accesibilidad, calor, calidad ambiental, movilidad y diferencias entre grupos de población, además de un presupuesto de 58.080 euros y una duración máxima de siete meses.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Xàbia al Día",
-          "source_url": "https://xabiaaldia.com/art/159970/la-guardia-civil-investiga-a-dos-trabajadores-por-el-presunto-robo-de-cable-de-telefonia-en-xabia",
-          "evidence": "Publica que las revisiones de una empresa detectaron la desaparición de más de 25 toneladas de cable y que la Guardia Civil recuperó alrededor de 1.500 kilos, vinculando presuntamente el material a dos trabajadores. También identifica al Equipo ROCA de Calp como responsable de las pesquisas.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/portal-de-transparencia/portal-de-participacion",
+          "evidence": "El portal oficial acredita que el Ayuntamiento dispone de canales y procesos de participación ciudadana, pero la página localizada no identifica este contrato ni confirma sus cuantías o calendario.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha encontrado el anuncio de licitación, los pliegos o un expediente oficial que permita verificar los datos económicos y temporales.",
+        "La única fuente que detalla el proyecto es la noticia de Calp Digital; la existencia genérica del portal municipal de participación no constituye corroboración específica."
+      ],
+      "id": "inv_0a1535fb8445de5e",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "1329cc7346db1e3ab9d7bdbb990a1a6f7604d7c0c223fe46ca2e66b4036c2c9e",
+      "title": "Calp exigirá que los datos municipales no se utilicen para entrenar la inteligencia artificial contratada",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La licitación de cinco licencias de IA, su finalidad y sus fechas aparecen respaldadas por una ficha de contratación y por Calp Digital. Sin embargo, no se ha localizado el pliego oficial directamente accesible que confirme la cláusula concreta sobre la prohibición de usar los datos para entrenar modelos.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento prevé contratar cinco licencias avanzadas de una plataforma de asistencia de inteligencia artificial.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las licencias se destinarán a redacción administrativa, análisis documental, elaboración de borradores y apoyo a desarrollos informáticos internos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El expediente fue publicado el 14 de agosto de 2026 y tiene una duración inicial de 24 meses.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El presupuesto inicial fue de 19.500 euros IVA incluido y el valor estimado de 24.173,55 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los datos municipales introducidos en la plataforma no podrán utilizarse para entrenar, ajustar o mejorar modelos sin autorización municipal expresa y por escrito.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Sophia / ficha de licitación",
+          "source_url": "https://www.sophia-anphis.es/licitaciones/ser-62%2F2026_ass-servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-para-el-ayuntamiento-de-calp-%28alicante%29",
+          "evidence": "La ficha identifica el expediente SER 62/2026-ASS, publicado el 14 de agosto de 2026, para un servicio de asistente de IA del Ayuntamiento de Calp. Indica cinco licencias avanzadas, usos administrativos y de programación, un valor estimado de 24.173,55 euros y un periodo de ejecución de dos años.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12277/calp-exigira-que-datos-municipales-no-se-utilicen-para-entrenar-inteligencia-artificial-que-contrate",
+          "evidence": "Explica que el contrato incorpora una condición para impedir que documentos, conversaciones y datos municipales se utilicen para entrenar, ajustar o mejorar modelos del proveedor o de terceros sin consentimiento municipal expreso y escrito.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha encontrado durante la búsqueda una nota de prensa oficial de la Guardia Civil que confirme el caso, las identidades o edades de los investigados y las cantidades citadas.",
-        "Las dos informaciones secundarias son prácticamente coincidentes y podrían reproducir una misma comunicación policial; por tanto, no se consideran corroboración independiente plena.",
-        "Debe mantenerse el lenguaje de presunción: las personas están investigadas y no consta una condena judicial."
+        "La ficha de contratación localizada confirma el objeto, el número de licencias, el importe estimado y la duración, pero no muestra la cláusula de no entrenamiento.",
+        "Debe consultarse el PCAP o PPT oficial del expediente en la Plataforma de Contratación del Sector Público antes de publicar esa condición como hecho confirmado."
       ],
-      "id": "inv_23dc9dd47578cfd6",
-      "investigated_at": "2026-09-26T01:36:40.013Z",
+      "id": "inv_a8a94cb104e680b4",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "ab17b90922ed70399ae4b00b39065491744277f1eee4fcf5eb4797bb50af3cd1",
-      "title": "El Ayuntamiento de Calp abre ayudas de hasta 4.000 euros para pymes, micropymes y autónomos por la crisis energética",
+      "candidate_fingerprint": "d07ea8f90b79325329d773f94c06acdb71df4bbcdfb157e91ca557898e7dbf24",
+      "title": "La Línea 9 del TRAM que pasa por Calp supera los 186.000 desplazamientos en agosto",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La convocatoria está confirmada por el Ayuntamiento de Calp y cuenta con una referencia secundaria coincidente. La línea dispone de 300.000 euros, permite subvencionar hasta el 50% de determinados gastos de electricidad, gas y carburantes realizados entre el 1 de marzo y el 31 de julio de 2026, y fija un máximo de 4.000 euros por solicitante.",
+      "summary": "El dato de 186.610 desplazamientos de la Línea 9 en agosto de 2026 aparece reproducido por varios medios y atribuido al balance mensual de FGV. Las fuentes coinciden también en el total de usuarios del TRAM d’Alacant y en la posición de la línea dentro de la red.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 el plazo para solicitar las ayudas.",
+          "claim": "La Línea 9 del TRAM d’Alacant registró 186.610 desplazamientos en agosto de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La convocatoria está dirigida a pymes, micropymes, autónomos y profesionales o colectivos sujetos a mutualidades que cumplan los requisitos.",
+          "claim": "La línea conecta Benidorm y Dénia y pasa por Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La dotación presupuestaria municipal asciende a 300.000 euros.",
+          "claim": "El conjunto del TRAM d’Alacant alcanzó 1.693.702 usuarios en agosto.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se subvenciona hasta el 50% de los gastos acreditados de electricidad, gas y carburantes.",
+          "claim": "La Línea 9 fue la quinta línea con más movimientos de la red alicantina ese mes.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12285/la-linea-9-del-tram-que-pasa-por-calp-supera-los-186000-desplazamientos-en-agosto",
+          "evidence": "Publica 186.610 desplazamientos para la Línea 9 en agosto y señala que el recorrido entre Benidorm y Dénia presta servicio a Calp. También ofrece el total de 1.693.702 usuarios del TRAM d’Alacant y sitúa a la L9 como quinta línea por volumen de viajes.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Gata Digital",
+          "source_url": "https://gatadigital.es/art/13765/art/13757/gatam-fest-convertira-gata-de-gorgos-en-un-laboratorio-de-musica-e-innovacion-del-17-al-20-de-septiembre",
+          "evidence": "Confirma de forma independiente los 186.610 desplazamientos de la L9 en agosto y el total de 1.693.702 usuarios de la red alicantina, además de describir la conexión Benidorm-Dénia y sus paradas en la Marina Alta.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Vía Libre",
+          "source_url": "https://www.vialibre.org/noticias.asp?cs=oper&not=50409",
+          "evidence": "Reproduce el balance atribuido a FGV: 186.610 viajes en la Línea 9 y 1.693.702 usuarios en el TRAM d’Alacant durante agosto, junto con el desglose de las líneas.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado en los resultados consultados el comunicado original de FGV, aunque el dato coincide en varias publicaciones independientes."
+      ],
+      "id": "inv_a962ed7925e6d41b",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "5d4fd47927faf178662df9d7b29b53637cf18ca853be82b6bfbe5c81856a6a25",
+      "title": "Calp mantiene una notable calidad ambiental en sus aguas litorales",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La nota oficial del Ayuntamiento y una publicación independiente coinciden en los resultados del informe de la Xarxa de Control Coster para julio de 2025-junio de 2026: La Fossa y Cantal Roig presentan calidad óptima; Puerto Blanco y Les Urques, calidad buena en la serie histórica, aunque ambas estaciones tienen estado óptimo en el ciclo anual analizado.",
+      "claims": [
+        {
+          "claim": "El informe corresponde al ciclo anual comprendido entre julio de 2025 y junio de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los gastos subvencionables corresponden al periodo comprendido entre el 1 de marzo y el 31 de julio de 2026.",
+          "claim": "La evaluación fue elaborada por el Institut d’Ecologia Litoral dentro de la Xarxa de Control Coster.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ayuda puede alcanzar un máximo de 4.000 euros por solicitante.",
+          "claim": "Las estaciones analizadas fueron La Fossa, Cantal Roig, Puerto Blanco y Les Urques.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fossa y Cantal Roig mantienen una calificación de calidad óptima.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Puerto Blanco y Les Urques tienen una calificación histórica de calidad buena, aunque registran estado óptimo en el ciclo anual actual.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El informe señala valores adecuados de oxigenación, salinidad y pH y baja presencia de sólidos en suspensión.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
           "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/node/36605",
-          "evidence": "La nota oficial anuncia la apertura de la convocatoria el 2 de septiembre de 2026, fija una partida de 300.000 euros, identifica a pymes, micropymes, autónomos y profesionales como potenciales beneficiarios y establece una ayuda de hasta el 50% de los gastos de electricidad, gas y carburantes realizados entre el 1 de marzo y el 31 de julio, con un máximo de 4.000 euros.",
+          "source_url": "https://noticias.calp.es/es/noticia/les-platges-de-calp-aproven-amb-nota-el-control-de-qualitat-ambiental-de-les-seues-aig%C3%BCes",
+          "evidence": "La nota municipal resume el informe técnico del IEL para julio de 2025-junio de 2026. Identifica las cuatro estaciones de muestreo, califica como óptimas La Fossa y Cantal Roig, y explica que Puerto Blanco y Les Urques tienen una calificación histórica buena pero estado óptimo en el ciclo actual.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Lixto",
-          "source_url": "https://lixto.es/archivo/calp-convoca-ayudas-de-hasta-4-000-para-pymes-micropymes-y-autonomos-p-recn4AqoCGoX5pLVk",
-          "evidence": "Resume la convocatoria municipal con un crédito total de 300.000 euros, una cobertura de hasta el 50% de los gastos energéticos del periodo marzo-julio de 2026 y un máximo de 4.000 euros por solicitante.",
+          "source_name": "elDiario.es La Marina",
+          "source_url": "https://lamarina.eldiario.es/2026/09/07/las-playas-de-calp-aprueban-con-nota-el-control-de-calidad-ambiental-de-sus-aguas-litorales/",
+          "evidence": "Reproduce de forma independiente los resultados del informe: las cuatro estaciones presentan estado óptimo o bueno; La Fossa y Cantal Roig mantienen calidad óptima; Puerto Blanco y Les Urques tienen estado óptimo durante el ciclo julio 2025-junio 2026.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La información acredita la apertura de la convocatoria y sus condiciones, no que las ayudas hayan sido concedidas o pagadas a los solicitantes.",
-        "El plazo indicado por el Ayuntamiento finalizaba el 15 de septiembre de 2026; a fecha de 26 de septiembre de 2026 ya había concluido."
+        "No se ha localizado el informe técnico completo del Institut d’Ecologia Litoral; la verificación se basa en la nota municipal y su reproducción independiente."
       ],
-      "id": "inv_b3666e4d8cbdc4dc",
-      "investigated_at": "2026-09-26T01:36:40.013Z",
+      "id": "inv_aab388e0135aa599",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "5d684d218d33fa7174e2588d41b175f8cd5d478b90817bfa4d9c32d110d4d3b5",
+      "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte y los clubes locales",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La convocatoria y su desglose están documentados por el Ayuntamiento, pero no se ha localizado en la búsqueda una publicación independiente o el anuncio del BOP que permita corroborar directamente la cuantía y las condiciones. La información puede ser correcta, pero no cumple todavía el umbral de corroboración exigido.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp convocó ayudas deportivas para la temporada 2025-2026 por un total de 275.000 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La convocatoria se dirige al deporte base, los eventos deportivos y los deportes autóctonos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La línea 1 cuenta con 245.000 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La línea 2 cuenta con 25.000 euros y se destina a eventos deportivos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La línea 3 cuenta con 5.000 euros y se dirige a Pilota Valenciana y Colombicultura.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo de solicitud fue del 4 al 17 de septiembre de 2026.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+          "evidence": "La nota oficial anuncia una convocatoria de 275.000 euros para la temporada 2025-2026 y desglosa tres líneas: 245.000 euros para deporte base y competiciones, 25.000 euros para eventos deportivos y 5.000 euros para deportes autóctonos. También indica que el periodo subvencionable va del 1 de julio de 2025 al 30 de junio de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, agregador de noticias",
+          "source_url": "https://www.calp.es/es/aggregator/sources/7",
+          "evidence": "El agregador municipal reproduce el titular y la existencia de la convocatoria de 275.000 euros, pero funciona como republicación de la comunicación municipal y no constituye corroboración independiente.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado el edicto específico del BOP ni una fuente periodística independiente que confirme la convocatoria.",
+        "La suma de las tres líneas sí coincide con los 275.000 euros anunciados, pero la fecha exacta del plazo permanece sin corroboración independiente."
+      ],
+      "id": "inv_22ae4e9e1d121156",
+      "investigated_at": "2026-09-26T07:45:28.599Z",
       "model": "gpt-5.6-luna"
     }
   ]

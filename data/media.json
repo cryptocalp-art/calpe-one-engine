@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-26T01:37:31.414Z",
+  "generated_at": "2026-09-26T07:46:37.507Z",
   "archive_version": "archive-v1",
-  "count": 19,
+  "count": 22,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,129 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 18,
+    "reused": 19,
     "licensed_selected": 0,
     "official_candidates_not_auto_published": 0,
-    "branded_fallbacks": 1
+    "branded_fallbacks": 3
   },
   "items": [
+    {
+      "media_id": "med_2a5656dc7b120a29",
+      "archive_id": "arc_1b13489d18f151c2",
+      "slug": "calp-distintivo-fiesta-interes-turistico-nacional-moros-cristianos",
+      "title": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
+      "category": "TURISMO",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_1b13489d18f151c2.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12333/calp-recibe-en-madrid-distintivo-como-fiesta-interes-turistico-nacional-para-moros-y-cristianos",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/3452_calp-recibe-fiesta-interes-turistico-nacional-moros-y-cristianos-1.jpeg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T07:46:37.507Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_744ecc9c5ba06808",
+      "archive_id": "arc_ff61cde32143b7b6",
+      "slug": "linea-9-tram-calp-desplazamientos-agosto-2026",
+      "title": "La Línea 9 del TRAM supera los 186.000 desplazamientos en agosto",
+      "category": "TURISMO",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_ff61cde32143b7b6.svg",
+        "alt": "Imagen editorial de CALPE ONE para: La Línea 9 del TRAM supera los 186.000 desplazamientos en agosto",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12285/la-linea-9-del-tram-que-pasa-por-calp-supera-los-186000-desplazamientos-en-agosto",
+          "image_url": "https://calpdigital.es/upload/images/07_2026/2206_estacion-tram-calp-4.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Gata Digital",
+          "source_page": "https://gatadigital.es/art/13765/art/13757/gatam-fest-convertira-gata-de-gorgos-en-un-laboratorio-de-musica-e-innovacion-del-17-al-20-de-septiembre",
+          "image_url": "https://gatadigital.es/upload/images/07_2026/9744_estacion-de-tren-en-gata.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Vía Libre",
+          "source_page": "https://www.vialibre.org/noticias.asp?cs=oper&not=50409",
+          "image_url": "https://www.vialibre-ffe.com/images/image/th/fgv_logo_th.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T07:46:37.507Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_d489350c6814691b",
+      "archive_id": "arc_b6f40e5f58d26df4",
+      "slug": "calp-control-calidad-ambiental-aguas-litorales-2025-2026",
+      "title": "Las cuatro estaciones de control litoral de Calp presentan un estado ambiental óptimo en el último ciclo anual",
+      "category": "MEDIO_AMBIENTE",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_b6f40e5f58d26df4.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Las cuatro estaciones de control litoral de Calp presentan un estado ambiental óptimo en el último ciclo anual",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "elDiario.es La Marina",
+          "source_page": "https://lamarina.eldiario.es/2026/09/07/las-playas-de-calp-aprueban-con-nota-el-control-de-calidad-ambiental-de-sus-aguas-litorales/",
+          "image_url": "https://lamarina.eldiario.es/wp-content/uploads/2026/09/playa-calp.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T07:46:37.507Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_4b683bb680970472",
       "archive_id": "arc_d516bac45dc35f83",
@@ -39,7 +156,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -72,7 +189,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -105,7 +222,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -138,7 +255,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -171,7 +288,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -222,7 +339,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -273,7 +390,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -315,7 +432,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -338,7 +455,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -380,7 +497,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -403,7 +520,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -445,7 +562,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -478,7 +595,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -511,7 +628,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -534,7 +651,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -567,7 +684,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -590,7 +707,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -613,7 +730,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     },
     {
@@ -646,7 +763,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T01:37:31.414Z",
+      "checked_at": "2026-09-26T07:46:37.507Z",
       "engine_version": "media-v1"
     }
   ]
