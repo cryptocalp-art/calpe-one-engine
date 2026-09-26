@@ -1,234 +1,180 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-25T22:34:47.503Z",
+  "generated_at": "2026-09-26T01:36:40.013Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "9a655789b9abba0eef01badc8577314596ec01f97903c12c1eb511d8e25c4044",
-      "title": "Calp prepara un nuevo plan de limpieza de la costa con más personal, maquinaria y temporadas ampliadas",
+      "candidate_fingerprint": "1c4b6a990e66af7dab4afd68d9402dc3a4e99bd727ae5103f03cd28ea7b912fa",
+      "title": "Calp reforzará desde noviembre la limpieza de playas con un 40% más de inversión y nuevos medios",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda corroborada por una publicación independiente y por registros de contratación pública. El Ayuntamiento adjudicó a FCC Medio Ambiente el servicio de limpieza y mantenimiento de playas y calas por 639.726,71 euros anuales, con inicio previsto el 1 de noviembre de 2026 y mejoras en personal, maquinaria, frecuencias y cobertura litoral.",
+      "summary": "La noticia queda respaldada por una comunicación oficial del Ayuntamiento de Calp y por documentación de contratación. El nuevo servicio fue adjudicado a FCC Medio Ambiente, tiene una inversión anual de 639.726,71 euros —un 40% más que el coste anterior— y está previsto que empiece el 1 de noviembre de 2026. La fuente municipal también confirma la ampliación de temporadas, el refuerzo de personal y la atención a calas de difícil acceso.",
       "claims": [
         {
-          "claim": "El nuevo servicio comenzará el 1 de noviembre de 2026 y estará a cargo de FCC Medio Ambiente, S.A.U.",
+          "claim": "El nuevo servicio de limpieza y mantenimiento de playas comenzará el 1 de noviembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La inversión anual será de 639.726,71 euros, aproximadamente un 40 % más que el servicio anterior.",
+          "claim": "El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato ampliará las temporadas y aumentará las frecuencias de trabajo fuera del verano.",
+          "claim": "La inversión anual asciende a 639.726,71 euros y supone un incremento del 40% respecto al servicio anterior.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se incorporarán más efectivos y nueva maquinaria, incluyendo tractores, máquinas limpiaplayas y otros vehículos y equipos.",
+          "claim": "El contrato incorpora más personal, maquinaria, frecuencias y temporadas de servicio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El servicio incluirá la limpieza sistemática de calas de difícil acceso y actuaciones puntuales en acantilados, escolleras y zonas rocosas.",
+          "claim": "El servicio contempla actuaciones en playas, calas de difícil acceso y otros puntos del litoral.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tiene una duración prevista de cuatro años.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "El Periódico de Alicante",
-          "source_url": "https://www.elperiodic.com/calpe/ayuntamiento-calp-pone-marcha-nuevo-servicio-limpieza-mantenimiento-playas-mayor-inversion-medios-prestaciones_1094618",
-          "evidence": "Informa de que el Ayuntamiento ultima el servicio adjudicado a FCC Medio Ambiente, con una inversión anual de 639.726,71 euros, inicio previsto el 1 de noviembre, ampliación de temporadas, más personal, nueva maquinaria y atención a calas de difícil acceso.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp — CalpeNoticias ES",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2",
+          "evidence": "El Ayuntamiento informa de que el servicio ha sido adjudicado a FCC Medio Ambiente, que comenzará el 1 de noviembre, contará con una inversión anual de 639.726,71 euros —un 40% más— y ampliará temporadas, personal, maquinaria y prestaciones, incluyendo calas de difícil acceso.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "Licitacion.eu",
+          "source_name": "Plataforma de información de contratación — servicio de playas de Calp",
           "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "evidence": "Registra la licitación municipal del servicio de limpieza y mantenimiento de playas y calas de Calp, con FCC Medio Ambiente como adjudicataria, contrato de 2026, importe total adjudicado de 639.726,71 euros y criterios de mejora relativos a temporadas, personal y medios materiales.",
+          "evidence": "La ficha de contratación identifica el servicio de limpieza y mantenimiento de playas y calas de Calp, el expediente 151/2026, FCC Medio Ambiente como adjudicataria y un importe total adjudicado de 639.726,71 euros.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "OpenMercantil",
-          "source_url": "https://openmercantil.es/licitaciones/recientes/p/2?cpv=90&historico=1",
-          "evidence": "Identifica la contratación municipal del servicio de limpieza y mantenimiento de playas y calas de Calp, con FCC Medio Ambiente como adjudicataria y un importe de 639.726,71 euros, IVA incluido.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/mes-maquinaria-mes-personal-i-temporades-mes-llargues-el-nou-pla-de-calp-per-a-la-neteja-de-la-costa/",
+          "evidence": "La información publicada coincide en el inicio del servicio el 1 de noviembre, la adjudicación a FCC Medio Ambiente, la inversión anual de 639.726,71 euros, el incremento del 40% y la duración prevista de cuatro años.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fecha de inicio es la prevista en la información publicada; la evidencia consultada no acredita todavía que el servicio haya comenzado efectivamente.",
-        "La fuente principal municipal parece haber sido reproducida por medios, pero no se localizó en la búsqueda una página municipal directa con el comunicado completo."
+        "El porcentaje del 40% procede de la comunicación municipal; la documentación de contratación consultada confirma el importe adjudicado, pero no permite por sí sola recalcular la comparación con el coste anterior.",
+        "La fecha de inicio es una previsión comunicada por el Ayuntamiento, no una constatación de que el servicio ya hubiera comenzado en la fecha de consulta."
       ],
-      "id": "inv_d683dda33443315f",
-      "investigated_at": "2026-09-25T22:34:47.503Z",
+      "id": "inv_2a5cedb288d7de92",
+      "investigated_at": "2026-09-26T01:36:40.013Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "171e731366b8a7ebeab86df831de10fb0672a917bd7f142bfe1500704fc37628",
-      "title": "Estimar Hotels prevé retirar otras 12 toneladas de plástico del Mediterráneo junto a Gravity Wave",
+      "candidate_fingerprint": "594f45322f780888745da0d11e30d65c399e580a4ec34f7318b2186d7d884c7a",
+      "title": "El Equipo ROCA de Calp localiza tonelada y media de cobre relacionada con un presunto hurto de cable en Xàbia",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La colaboración entre Estimar Hotels y Gravity Wave está respaldada, pero la afirmación central sobre la renovación para retirar otras 12 toneladas en 2026 y alcanzar cerca de 30 toneladas procede únicamente de la pieza de Calp Digital. La web corporativa de Estimar confirma la colaboración y una recogida aproximada de seis toneladas anuales, pero no confirma esas cifras concretas para 2026.",
+      "summary": "Dos medios locales publican una versión coincidente sobre una investigación de la Guardia Civil: desaparición de más de 25 toneladas de cable de telefonía en Xàbia, recuperación de aproximadamente 1.500 kilos en centros de reciclaje e investigación de dos trabajadores. No se ha localizado una nota oficial de la Guardia Civil ni otra fuente primaria que permita verificar independientemente los datos esenciales. Las publicaciones podrían proceder de la misma comunicación policial.",
       "claims": [
         {
-          "claim": "Estimar Hotels y Gravity Wave mantienen una colaboración para retirar y reciclar plástico del Mediterráneo.",
+          "claim": "La Guardia Civil investiga a dos hombres de 49 y 23 años por su presunta relación con la sustracción de cable en Xàbia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Estimar Hotels prevé retirar otras 12 toneladas de plástico durante 2026.",
-          "status": "UNVERIFIED"
+          "claim": "Una empresa detectó la desaparición de más de 25 toneladas de cable de telecomunicaciones.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La colaboración elevará el total recuperado desde 2022 hasta cerca de 30 toneladas.",
-          "status": "UNVERIFIED"
+          "claim": "El Equipo ROCA de Calp realizó inspecciones en centros de reciclaje y recuperación de metales.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La iniciativa está vinculada a las reservas directas de los clientes y contempla objetos elaborados con plástico reciclado y jornadas públicas de limpieza.",
+          "claim": "Se localizaron y recuperaron aproximadamente 1.500 kilos de cableado.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El material recuperado estaría relacionado con el presunto hurto cometido por trabajadores de empresas subcontratadas de telecomunicaciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Existe una corroboración independiente y primaria de todos los hechos esenciales.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12328/estimar-hotels-alcanzara-cerca-30-toneladas-plastico-retiradas-mediterraneo-junto-gravity-wave",
-          "evidence": "Afirma que Estimar Hotels renovará su acuerdo con Gravity Wave para retirar otras 12 toneladas durante 2026 y alcanzar cerca de 30 toneladas desde 2022; también describe la vinculación con reservas directas, objetos reciclados y jornadas públicas de retirada de residuos.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/09/23/la-guardia-civil-relaciona-a-dos-trabajadores-de-telecomunicaciones-con-el-hurto-de-cable-en-xabia",
+          "evidence": "Informa de que la Guardia Civil investigó a dos hombres por su presunta relación con la sustracción de cable en Xàbia; cifra en más de 25 toneladas el material desaparecido y atribuye las pesquisas al Equipo ROCA de Calp, que recuperó aproximadamente 1.500 kilos en establecimientos de reciclaje.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Estimar Hotels",
-          "source_url": "https://estimarhotels.com/en/rsc/",
-          "evidence": "La página corporativa confirma que Estimar Hotels colabora con Gravity Wave y que recoge y recicla aproximadamente seis toneladas de plástico del Mediterráneo al año.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Corresponsables",
-          "source_url": "https://www.corresponsables.com/opinion/ong-como-aliadas-clave-para-un-turismo-mas-sostenible-estimar-hotels/",
-          "evidence": "Recoge que Estimar Hotels había retirado más de 12 toneladas en los dos años anteriores y preveía llegar a 18 toneladas en 2025, lo que acredita la trayectoria de la colaboración, pero no confirma el nuevo objetivo de 12 toneladas para 2026 ni el total cercano a 30 toneladas.",
+          "source_name": "Xàbia al Día",
+          "source_url": "https://xabiaaldia.com/art/159970/la-guardia-civil-investiga-a-dos-trabajadores-por-el-presunto-robo-de-cable-de-telefonia-en-xabia",
+          "evidence": "Publica que las revisiones de una empresa detectaron la desaparición de más de 25 toneladas de cable y que la Guardia Civil recuperó alrededor de 1.500 kilos, vinculando presuntamente el material a dos trabajadores. También identifica al Equipo ROCA de Calp como responsable de las pesquisas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se localizó una nota de prensa independiente ni un comunicado corporativo de 2026 que confirme las cifras de 12 y cerca de 30 toneladas.",
-        "La evidencia corporativa disponible respalda la colaboración, pero utiliza una métrica distinta —aproximadamente seis toneladas anuales— y no valida por sí sola el objetivo anunciado."
+        "No se ha encontrado durante la búsqueda una nota de prensa oficial de la Guardia Civil que confirme el caso, las identidades o edades de los investigados y las cantidades citadas.",
+        "Las dos informaciones secundarias son prácticamente coincidentes y podrían reproducir una misma comunicación policial; por tanto, no se consideran corroboración independiente plena.",
+        "Debe mantenerse el lenguaje de presunción: las personas están investigadas y no consta una condena judicial."
       ],
-      "id": "inv_3fd0ff39f156aa3b",
-      "investigated_at": "2026-09-25T22:34:47.503Z",
+      "id": "inv_23dc9dd47578cfd6",
+      "investigated_at": "2026-09-26T01:36:40.013Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "83d78028481bc66a431d92478801101a54f0beb256e4ddad872a15554490014",
-      "title": "El Peñón de Ifach reúne a 832 nadadores en la XII Travesía a Nado de Calp",
+      "candidate_fingerprint": "ab17b90922ed70399ae4b00b39065491744277f1eee4fcf5eb4797bb50af3cd1",
+      "title": "El Ayuntamiento de Calp abre ayudas de hasta 4.000 euros para pymes, micropymes y autónomos por la crisis energética",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La prueba, su fecha, recorrido, organizador y resultados principales están respaldados por la plataforma oficial de cronometraje, el reglamento de la competición y el Real Club Náutico Calpe. Calp Digital aporta el dato de 832 participantes que tomaron la salida y las condiciones meteorológicas de la jornada.",
+      "summary": "La convocatoria está confirmada por el Ayuntamiento de Calp y cuenta con una referencia secundaria coincidente. La línea dispone de 300.000 euros, permite subvencionar hasta el 50% de determinados gastos de electricidad, gas y carburantes realizados entre el 1 de marzo y el 31 de julio de 2026, y fija un máximo de 4.000 euros por solicitante.",
       "claims": [
         {
-          "claim": "La XII Travesía a Nado Peñón de Ifach se celebró el 20 de septiembre de 2026 en Calp.",
+          "claim": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 el plazo para solicitar las ayudas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La prueba fue organizada por el Real Club Náutico Calpe.",
+          "claim": "La convocatoria está dirigida a pymes, micropymes, autónomos y profesionales o colectivos sujetos a mutualidades que cumplan los requisitos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El recorrido tuvo una distancia de 3.800 metros, desde Cantal Roig hasta la playa de la Fossa.",
+          "claim": "La dotación presupuestaria municipal asciende a 300.000 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "832 nadadores tomaron finalmente la salida.",
+          "claim": "Se subvenciona hasta el 50% de los gastos acreditados de electricidad, gas y carburantes.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La prueba estuvo marcada por viento de levante y mar de fondo.",
+          "claim": "Los gastos subvencionables corresponden al periodo comprendido entre el 1 de marzo y el 31 de julio de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Miguel Bou y Rosa Martínez ganaron las categorías masculina y femenina, respectivamente.",
+          "claim": "La ayuda puede alcanzar un máximo de 4.000 euros por solicitante.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "ChampionChip Levante",
-          "source_url": "https://www.chiplevante.com/es/prueba/travesia-a-nado-penon-de-ifach-915-2026",
-          "evidence": "La plataforma oficial identifica la prueba del 20 de septiembre de 2026 en Calpe, con distancia de 3,8 kilómetros y organización del Real Club Náutico Calpe. Publica además los podios masculino y femenino, con Miguel Bou y Rosa Martínez como ganadores.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/node/36605",
+          "evidence": "La nota oficial anuncia la apertura de la convocatoria el 2 de septiembre de 2026, fija una partida de 300.000 euros, identifica a pymes, micropymes, autónomos y profesionales como potenciales beneficiarios y establece una ayuda de hasta el 50% de los gastos de electricidad, gas y carburantes realizados entre el 1 de marzo y el 31 de julio, con un máximo de 4.000 euros.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Real Club Náutico Calpe",
-          "source_url": "https://www.rcnc.es/event/xii-travesia-a-nado-penon-de-ifach/",
-          "evidence": "El club organizador registra oficialmente la XII Travesía a Nado Peñón de Ifach y su celebración el 20 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Reglamento oficial de la prueba",
-          "source_url": "https://www.tiempoabatir.com/files/documentacion/REGLAMENTO2026TRAVIFACH.pdf",
-          "evidence": "El reglamento fija la fecha del 20 de septiembre de 2026, la salida desde Cantal Roig, la llegada en la playa de la Fossa y la distancia de 3.800 metros.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12327/xii-travesia-nado-penon-ifach-calp-2026",
-          "evidence": "Informa de que 832 de los 956 inscritos tomaron la salida, describe el recorrido de 3.800 metros y señala que la jornada estuvo condicionada por viento de levante y mar de fondo.",
+          "source_name": "Lixto",
+          "source_url": "https://lixto.es/archivo/calp-convoca-ayudas-de-hasta-4-000-para-pymes-micropymes-y-autonomos-p-recn4AqoCGoX5pLVk",
+          "evidence": "Resume la convocatoria municipal con un crédito total de 300.000 euros, una cobertura de hasta el 50% de los gastos energéticos del periodo marzo-julio de 2026 y un máximo de 4.000 euros por solicitante.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El recuento de 832 participantes procede de la crónica periodística; las fuentes oficiales consultadas confirman la prueba y sus resultados, pero no muestran de forma visible en el texto indexado el total de salidas."
+        "La información acredita la apertura de la convocatoria y sus condiciones, no que las ayudas hayan sido concedidas o pagadas a los solicitantes.",
+        "El plazo indicado por el Ayuntamiento finalizaba el 15 de septiembre de 2026; a fecha de 26 de septiembre de 2026 ya había concluido."
       ],
-      "id": "inv_ae3ae5353b811bde",
-      "investigated_at": "2026-09-25T22:34:47.503Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "a309672b792101a2dca22489c0c938ea2d7a951e037bdaf5aba59e80f3441f20",
-      "title": "Calp anuncia una nueva edición de la Marcha Rosa contra el cáncer de mama",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La convocatoria está confirmada por la agenda oficial de Calp y por la información publicada sobre la organización. La Marcha Rosa se celebrará el domingo 4 de octubre de 2026 en la plaza Mayor, con marcha solidaria, rastro, tómbola, actividades, rifa y paella gigante.",
-      "claims": [
-        {
-          "claim": "La Marcha Rosa se celebrará el domingo 4 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La actividad tendrá salida y llegada en la plaza Mayor y comenzará a las 12:00 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La jornada está organizada por la Asociación Alicante para la Lucha Contra el Cáncer con la colaboración del Ayuntamiento de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El programa incluirá rastro solidario, tómbola, actividades, rifa y una paella gigante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La inscripción podrá realizarse previamente en la sede de la asociación o el mismo día en la plaza Mayor.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/eventos/mes/",
-          "evidence": "La agenda oficial anuncia la Marcha Rosa del 4 de octubre de 2026 a partir de las 12:00 horas desde la plaza Mayor y menciona el rastro, la tómbola, las actuaciones, la paella gigante y el bar popular.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12322/calp-volvera-a-caminar-contra-el-cancer-de-mama-con-una-jornada-solidaria-en-la-plaza-Mayor",
-          "evidence": "Detalla la convocatoria del 4 de octubre, la organización por la Asociación Alicante para la Lucha Contra el Cáncer con colaboración municipal, la salida y llegada en la plaza Mayor, el horario de inscripción, el rastro, la tómbola, la rifa, el CrossFit y la paella gigante de las 13:30 horas.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La actividad es futura respecto de la fecha de investigación, por lo que las fuentes acreditan la convocatoria y el programa previsto, no su celebración efectiva."
-      ],
-      "id": "inv_074d9b30de805374",
-      "investigated_at": "2026-09-25T22:34:47.503Z",
+      "id": "inv_b3666e4d8cbdc4dc",
+      "investigated_at": "2026-09-26T01:36:40.013Z",
       "model": "gpt-5.6-luna"
     }
   ]

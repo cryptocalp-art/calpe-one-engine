@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "DISTRIBUTION",
   "version": "distribution-v1",
-  "generated_at": "2026-09-25T22:35:53.656Z",
+  "generated_at": "2026-09-26T01:37:36.643Z",
   "archive_version": "archive-v1",
   "media_version": "media-v1",
   "site_url": "https://cryptocalp-art.github.io/calpe-one-engine",
@@ -65,14 +65,217 @@
     }
   ],
   "stats": {
-    "articles": 18,
-    "deliveries": 126,
-    "sent": 20,
+    "articles": 19,
+    "deliveries": 133,
+    "sent": 21,
     "pending": 0,
     "failed": 0,
-    "skipped": 106
+    "skipped": 112
   },
   "queue": [
+    {
+      "distribution_id": "dst_a5664740b7776346",
+      "dedupe_key": "arc_d516bac45dc35f83:RSS",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "RSS",
+      "adapter": "NATIVE_RSS",
+      "status": "SENT",
+      "reason": null,
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos\n\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": "2026-09-26T01:37:36.643Z",
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_974eac5b7fa4b96c",
+      "dedupe_key": "arc_d516bac45dc35f83:FACEBOOK",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "FACEBOOK",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos\n\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_9012d236076b4bb3",
+      "dedupe_key": "arc_d516bac45dc35f83:INSTAGRAM",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "INSTAGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos\n\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/\n\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_c13136977092e4b8",
+      "dedupe_key": "arc_d516bac45dc35f83:X",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "X",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/\n#Calp #Calpe #CALPEONE",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_ccbb9b26e37d5d52",
+      "dedupe_key": "arc_d516bac45dc35f83:TELEGRAM",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "TELEGRAM",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "📰 Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos\n\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_61e40a024ee25390",
+      "dedupe_key": "arc_d516bac45dc35f83:WHATSAPP",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "WHATSAPP",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "📰 *Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos*\n\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\n\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
+    {
+      "distribution_id": "dst_421d6053e0d5bbdf",
+      "dedupe_key": "arc_d516bac45dc35f83:DISCORD",
+      "archive_id": "arc_d516bac45dc35f83",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "category": "ECONOMIA",
+      "channel": "DISCORD",
+      "adapter": "CONNECTOR_REQUIRED",
+      "status": "SKIPPED",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
+      "payload": {
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…",
+        "text": "**Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos**\nEl Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de cier…\nhttps://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "article_url": "https://cryptocalp-art.github.io/calpe-one-engine/noticias/calp-ayudas-pymes-autonomos-gastos-energia-2026/",
+        "image_url": "https://cryptocalp-art.github.io/calpe-one-engine/media/arc_d516bac45dc35f83.jpg",
+        "image_alt": "Imagen editorial de CALPE ONE para: Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "image_credit": "CALPE ONE",
+        "image_label": "Imagen editorial · No es una fotografía del hecho",
+        "image_rights_status": "CALPE_ONE_OWNED"
+      },
+      "created_at": "2026-09-26T01:37:36.643Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
+      "sent_at": null,
+      "attempts": 0,
+      "last_error": null,
+      "external_id": null,
+      "engine_version": "distribution-v1"
+    },
     {
       "distribution_id": "dst_e5e05f6b27301bd2",
       "dedupe_key": "arc_8031aaa3e6b91b49:RSS",
@@ -95,7 +298,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:35:53.656Z",
       "attempts": 0,
       "last_error": null,
@@ -109,9 +312,9 @@
       "slug": "832-nadadores-travesia-penon-ifach-calp",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
         "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
@@ -124,7 +327,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -138,9 +341,9 @@
       "slug": "832-nadadores-travesia-penon-ifach-calp",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
         "summary": "La XII Travesía a Nado Peñón de Ifach reunió el 20 de septiembre a 832 nadadores que tomaron la salida en Calp. La prueba, organizada por el Real Club Náutico Calpe, cubrió un recorrido de 3.800 metros entre Cantal Roig y la playa de la Fossa, con viento de levante y mar de fondo.",
@@ -153,7 +356,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -182,7 +385,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -211,7 +414,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -240,7 +443,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -269,7 +472,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -298,7 +501,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:35:53.656Z",
       "attempts": 0,
       "last_error": null,
@@ -312,9 +515,9 @@
       "slug": "calp-marcha-rosa-4-octubre-2026",
       "category": "SOCIEDAD",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
         "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
@@ -327,7 +530,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -341,9 +544,9 @@
       "slug": "calp-marcha-rosa-4-octubre-2026",
       "category": "SOCIEDAD",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
         "summary": "La Marcha Rosa contra el cáncer de mama se celebrará el domingo 4 de octubre en Calp con salida y llegada en la plaza Mayor. La jornada comenzará a las 12:00 y está organizada por la Asociación Alicante para la Lucha Contra el Cáncer, con la colaboración del Ayuntamiento de Calp.",
@@ -356,7 +559,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -385,7 +588,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -414,7 +617,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -443,7 +646,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -472,7 +675,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:35:53.656Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -501,7 +704,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -515,9 +718,9 @@
       "slug": "calp-licita-test-saliva-policia-local",
       "category": "SUCESOS",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp licita hasta 75 test de saliva para la Policía Local",
         "summary": "El Ayuntamiento de Calp ha licitado el suministro de hasta 75 test de saliva destinados a la Policía Local para la detección de drogas. El expediente, publicado en septiembre de 2026, fija un presupuesto base de 1.950 euros sin IVA.",
@@ -530,7 +733,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -544,9 +747,9 @@
       "slug": "calp-licita-test-saliva-policia-local",
       "category": "SUCESOS",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp licita hasta 75 test de saliva para la Policía Local",
         "summary": "El Ayuntamiento de Calp ha licitado el suministro de hasta 75 test de saliva destinados a la Policía Local para la detección de drogas. El expediente, publicado en septiembre de 2026, fija un presupuesto base de 1.950 euros sin IVA.",
@@ -559,7 +762,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -588,7 +791,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -617,7 +820,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -646,7 +849,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -675,7 +878,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -704,7 +907,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -718,9 +921,9 @@
       "slug": "calp-licita-renting-cinco-vehiculos-municipales",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp licita por 273.289 euros el renting de cinco vehículos municipales",
         "summary": "El Ayuntamiento de Calp ha licitado un contrato de renting para incorporar cinco vehículos destinados a distintos servicios municipales. El valor conjunto del procedimiento asciende a 273.289,26 euros y la duración prevista es de 48 meses, sin prórroga.",
@@ -733,7 +936,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -747,9 +950,9 @@
       "slug": "calp-licita-renting-cinco-vehiculos-municipales",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp licita por 273.289 euros el renting de cinco vehículos municipales",
         "summary": "El Ayuntamiento de Calp ha licitado un contrato de renting para incorporar cinco vehículos destinados a distintos servicios municipales. El valor conjunto del procedimiento asciende a 273.289,26 euros y la duración prevista es de 48 meses, sin prórroga.",
@@ -762,7 +965,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -791,7 +994,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -820,7 +1023,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -849,7 +1052,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -878,7 +1081,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -907,7 +1110,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -921,9 +1124,9 @@
       "slug": "calp-recibe-asignacion-bono-consumo-2026",
       "category": "ECONOMIA",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
         "summary": "Calp figura con una asignación de 369.130 euros dentro del programa provincial de Bono Consumo 2026 aprobado por la Diputación de Alicante. La convocatoria distribuye cerca de 25 millones de euros entre 125 municipios.",
@@ -936,7 +1139,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -950,9 +1153,9 @@
       "slug": "calp-recibe-asignacion-bono-consumo-2026",
       "category": "ECONOMIA",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp recibe una asignación de 369.130 euros del Bono Consumo 2026",
         "summary": "Calp figura con una asignación de 369.130 euros dentro del programa provincial de Bono Consumo 2026 aprobado por la Diputación de Alicante. La convocatoria distribuye cerca de 25 millones de euros entre 125 municipios.",
@@ -965,7 +1168,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -994,7 +1197,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1023,7 +1226,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1052,7 +1255,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1081,7 +1284,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1110,7 +1313,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:24:48.546Z",
       "attempts": 0,
       "last_error": null,
@@ -1124,9 +1327,9 @@
       "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
       "category": "TURISMO",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
         "summary": "El primer borrador del Plan de Movilidad No Motorizada de la Marina Alta incluye la estación de Calp entre los puntos previstos para instalar aparcamientos seguros automatizados de bicicletas. La propuesta contempla 120 plazas BikeBox en la estación calpina.",
@@ -1139,7 +1342,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1153,9 +1356,9 @@
       "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
       "category": "TURISMO",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
         "summary": "El primer borrador del Plan de Movilidad No Motorizada de la Marina Alta incluye la estación de Calp entre los puntos previstos para instalar aparcamientos seguros automatizados de bicicletas. La propuesta contempla 120 plazas BikeBox en la estación calpina.",
@@ -1168,7 +1371,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1197,7 +1400,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1226,7 +1429,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1255,7 +1458,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1284,7 +1487,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T22:24:48.546Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1313,7 +1516,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1342,7 +1545,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:16:10.859Z",
       "attempts": 1,
       "last_error": null,
@@ -1371,7 +1574,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T22:16:10.859Z",
       "attempts": 1,
       "last_error": null,
@@ -1400,7 +1603,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1429,7 +1632,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1458,7 +1661,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1487,7 +1690,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1516,7 +1719,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1530,9 +1733,9 @@
       "slug": "calp-remodelacion-parque-arco-iris",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
         "summary": "El Ayuntamiento de Calp ha comunicado un proyecto de remodelación del parque Arco Iris con una inversión de 114.829 euros. La actuación contempla renovar el pavimento, instalar una nueva área infantil y ejecutarse en un plazo previsto de seis semanas, con inicio anunciado para septiembre de 2026.",
@@ -1545,7 +1748,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1559,9 +1762,9 @@
       "slug": "calp-remodelacion-parque-arco-iris",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
         "summary": "El Ayuntamiento de Calp ha comunicado un proyecto de remodelación del parque Arco Iris con una inversión de 114.829 euros. La actuación contempla renovar el pavimento, instalar una nueva área infantil y ejecutarse en un plazo previsto de seis semanas, con inicio anunciado para septiembre de 2026.",
@@ -1574,7 +1777,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1603,7 +1806,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1632,7 +1835,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1661,7 +1864,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1690,7 +1893,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1719,7 +1922,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1733,9 +1936,9 @@
       "slug": "pobla-ifac-xxi-campana-excavaciones",
       "category": "CULTURA",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "La Pobla d’Ifac inicia su XXI campaña de excavaciones arqueológicas",
         "summary": "La Diputación de Alicante y el MARQ han confirmado la XXI actuación arqueológica en la Pobla d’Ifac, que se desarrolla durante septiembre de 2026 con un presupuesto de 25.000 euros. La campaña, de aproximadamente un mes, interviene en varios edificios medievales y busca nuevos restos del recinto amurallado.",
@@ -1748,7 +1951,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1762,9 +1965,9 @@
       "slug": "pobla-ifac-xxi-campana-excavaciones",
       "category": "CULTURA",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "La Pobla d’Ifac inicia su XXI campaña de excavaciones arqueológicas",
         "summary": "La Diputación de Alicante y el MARQ han confirmado la XXI actuación arqueológica en la Pobla d’Ifac, que se desarrolla durante septiembre de 2026 con un presupuesto de 25.000 euros. La campaña, de aproximadamente un mes, interviene en varios edificios medievales y busca nuevos restos del recinto amurallado.",
@@ -1777,7 +1980,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1806,7 +2009,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1835,7 +2038,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1864,7 +2067,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1893,7 +2096,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1922,7 +2125,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:59:18.073Z",
       "attempts": 0,
       "last_error": null,
@@ -1936,9 +2139,9 @@
       "slug": "calp-plan-estrategico-subvenciones-2027-2029",
       "category": "POLITICA",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "El Pleno de Calp aprueba inicialmente el Plan Estratégico de Subvenciones 2027-2029",
         "summary": "El Pleno del Ayuntamiento de Calp ha aprobado inicialmente y por unanimidad el Plan Estratégico de Subvenciones para el periodo 2027-2029. El documento ordena distintas líneas de ayuda municipales y queda sometido a un periodo de información pública de 30 días.",
@@ -1951,7 +2154,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -1965,9 +2168,9 @@
       "slug": "calp-plan-estrategico-subvenciones-2027-2029",
       "category": "POLITICA",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "El Pleno de Calp aprueba inicialmente el Plan Estratégico de Subvenciones 2027-2029",
         "summary": "El Pleno del Ayuntamiento de Calp ha aprobado inicialmente y por unanimidad el Plan Estratégico de Subvenciones para el periodo 2027-2029. El documento ordena distintas líneas de ayuda municipales y queda sometido a un periodo de información pública de 30 días.",
@@ -1980,7 +2183,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2009,7 +2212,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2038,7 +2241,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2067,7 +2270,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2096,7 +2299,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:59:18.073Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2125,7 +2328,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2139,9 +2342,9 @@
       "slug": "moros-cristianos-calp-fiesta-interes-turistico-nacional",
       "category": "TURISMO",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Los Moros y Cristianos de Calp reciben el distintivo de Fiesta de Interés Turístico Nacional",
         "summary": "La alcaldesa de Calp, Ana Sala, recogió en el Teatro Real de Madrid el distintivo de Fiesta de Interés Turístico Nacional concedido a los Moros y Cristianos del municipio por el Ministerio de Industria y Turismo.",
@@ -2154,7 +2357,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2168,9 +2371,9 @@
       "slug": "moros-cristianos-calp-fiesta-interes-turistico-nacional",
       "category": "TURISMO",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Los Moros y Cristianos de Calp reciben el distintivo de Fiesta de Interés Turístico Nacional",
         "summary": "La alcaldesa de Calp, Ana Sala, recogió en el Teatro Real de Madrid el distintivo de Fiesta de Interés Turístico Nacional concedido a los Moros y Cristianos del municipio por el Ministerio de Industria y Turismo.",
@@ -2183,7 +2386,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2212,7 +2415,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2241,7 +2444,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2270,7 +2473,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2299,7 +2502,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2328,7 +2531,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2342,9 +2545,9 @@
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
       "category": "MEDIO_AMBIENTE",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
         "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de playas, con una inversión anual prevista de 639.726,71 euros.",
@@ -2357,7 +2560,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2371,9 +2574,9 @@
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
       "category": "MEDIO_AMBIENTE",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
         "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de playas, con una inversión anual prevista de 639.726,71 euros.",
@@ -2386,7 +2589,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2415,7 +2618,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2444,7 +2647,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2473,7 +2676,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2502,7 +2705,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2531,7 +2734,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2545,9 +2748,9 @@
       "slug": "calp-campana-tu-voz-cuenta-empadronamiento",
       "category": "SOCIEDAD",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp lanza una campaña para impulsar el empadronamiento y renovar las inscripciones",
         "summary": "El Ayuntamiento de Calp ha puesto en marcha la campaña “Tu voz cuenta” para fomentar el empadronamiento y la renovación de las inscripciones, con especial atención a la población extranjera.",
@@ -2560,7 +2763,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2574,9 +2777,9 @@
       "slug": "calp-campana-tu-voz-cuenta-empadronamiento",
       "category": "SOCIEDAD",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp lanza una campaña para impulsar el empadronamiento y renovar las inscripciones",
         "summary": "El Ayuntamiento de Calp ha puesto en marcha la campaña “Tu voz cuenta” para fomentar el empadronamiento y la renovación de las inscripciones, con especial atención a la población extranjera.",
@@ -2589,7 +2792,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2618,7 +2821,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2647,7 +2850,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2676,7 +2879,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2705,7 +2908,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2734,7 +2937,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2748,9 +2951,9 @@
       "slug": "calp-espai-families-apoyo-crianza",
       "category": "SOCIEDAD",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp pone en marcha “Espai Famílies”, un recurso municipal de apoyo a la crianza",
         "summary": "El Ayuntamiento de Calp ha creado “Espai Famílies”, un nuevo recurso municipal de apoyo, encuentro y participación familiar que abordará cuestiones relacionadas con la crianza y las relaciones saludables.",
@@ -2763,7 +2966,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2777,9 +2980,9 @@
       "slug": "calp-espai-families-apoyo-crianza",
       "category": "SOCIEDAD",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp pone en marcha “Espai Famílies”, un recurso municipal de apoyo a la crianza",
         "summary": "El Ayuntamiento de Calp ha creado “Espai Famílies”, un nuevo recurso municipal de apoyo, encuentro y participación familiar que abordará cuestiones relacionadas con la crianza y las relaciones saludables.",
@@ -2792,7 +2995,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2821,7 +3024,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2850,7 +3053,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2879,7 +3082,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2908,7 +3111,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2937,7 +3140,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -2951,9 +3154,9 @@
       "slug": "calp-oceana-reserva-marina-penyal-ifac",
       "category": "MEDIO_AMBIENTE",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp y Oceana abren el debate sobre una posible Reserva Marina junto al Penyal d’Ifac",
         "summary": "El Ayuntamiento de Calp y Oceana organizaron una jornada ciudadana para abordar la posible protección como Reserva Marina del litoral comprendido entre el Penyal d’Ifac y la playa de la Fossa.",
@@ -2966,7 +3169,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -2980,9 +3183,9 @@
       "slug": "calp-oceana-reserva-marina-penyal-ifac",
       "category": "MEDIO_AMBIENTE",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp y Oceana abren el debate sobre una posible Reserva Marina junto al Penyal d’Ifac",
         "summary": "El Ayuntamiento de Calp y Oceana organizaron una jornada ciudadana para abordar la posible protección como Reserva Marina del litoral comprendido entre el Penyal d’Ifac y la playa de la Fossa.",
@@ -2995,7 +3198,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3024,7 +3227,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3053,7 +3256,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3082,7 +3285,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3111,7 +3314,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3140,7 +3343,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -3154,9 +3357,9 @@
       "slug": "calp-limpieza-530-imbornales-77-vias",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp completa la limpieza preventiva de más de 530 imbornales en 77 vías",
         "summary": "Aguas de Calpe ha completado la campaña preventiva de revisión y limpieza de imbornales y colectores en el municipio, con más de 530 puntos tratados en 77 calles, avenidas y partidas.",
@@ -3169,7 +3372,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3183,9 +3386,9 @@
       "slug": "calp-limpieza-530-imbornales-77-vias",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp completa la limpieza preventiva de más de 530 imbornales en 77 vías",
         "summary": "Aguas de Calpe ha completado la campaña preventiva de revisión y limpieza de imbornales y colectores en el municipio, con más de 530 puntos tratados en 77 calles, avenidas y partidas.",
@@ -3198,7 +3401,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3227,7 +3430,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3256,7 +3459,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3285,7 +3488,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3314,7 +3517,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3343,7 +3546,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -3357,9 +3560,9 @@
       "slug": "calp-consulta-ordenanza-acustica-20-octubre",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp abre hasta el 20 de octubre la consulta para revisar la ordenanza acústica",
         "summary": "El Ayuntamiento de Calp ha abierto una consulta pública previa para modificar la ordenanza sobre condiciones acústicas, con plazo de participación hasta el 20 de octubre de 2026.",
@@ -3372,7 +3575,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3386,9 +3589,9 @@
       "slug": "calp-consulta-ordenanza-acustica-20-octubre",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp abre hasta el 20 de octubre la consulta para revisar la ordenanza acústica",
         "summary": "El Ayuntamiento de Calp ha abierto una consulta pública previa para modificar la ordenanza sobre condiciones acústicas, con plazo de participación hasta el 20 de octubre de 2026.",
@@ -3401,7 +3604,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3430,7 +3633,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3459,7 +3662,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3488,7 +3691,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3517,7 +3720,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3546,7 +3749,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": "2026-09-25T20:34:48.650Z",
       "attempts": 0,
       "last_error": null,
@@ -3560,9 +3763,9 @@
       "slug": "calp-tramite-generalitat-segundo-centro-salud",
       "category": "LOCAL",
       "channel": "FACEBOOK",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp completa el trámite para que la Generalitat estudie el segundo centro de salud",
         "summary": "El pleno del Ayuntamiento de Calp aprobó por unanimidad el compromiso municipal de acondicionar y dotar de suministros la parcela propuesta para el futuro segundo centro de salud.",
@@ -3575,7 +3778,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3589,9 +3792,9 @@
       "slug": "calp-tramite-generalitat-segundo-centro-salud",
       "category": "LOCAL",
       "channel": "INSTAGRAM",
-      "adapter": "META_GRAPH_API",
+      "adapter": "CONNECTOR_REQUIRED",
       "status": "SKIPPED",
-      "reason": "META_PRE_ACTIVATION_BACKLOG",
+      "reason": "CONNECTOR_NOT_CONFIGURED",
       "payload": {
         "title": "Calp completa el trámite para que la Generalitat estudie el segundo centro de salud",
         "summary": "El pleno del Ayuntamiento de Calp aprobó por unanimidad el compromiso municipal de acondicionar y dotar de suministros la parcela propuesta para el futuro segundo centro de salud.",
@@ -3604,7 +3807,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T23:13:07.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3633,7 +3836,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3662,7 +3865,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3691,7 +3894,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,
@@ -3720,7 +3923,7 @@
         "image_rights_status": "CALPE_ONE_OWNED"
       },
       "created_at": "2026-09-25T20:34:48.650Z",
-      "updated_at": "2026-09-25T22:35:53.656Z",
+      "updated_at": "2026-09-26T01:37:36.643Z",
       "sent_at": null,
       "attempts": 0,
       "last_error": null,

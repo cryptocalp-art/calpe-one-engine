@@ -3,9 +3,63 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-25T22:35:43.558Z",
-  "count": 18,
+  "updated_at": "2026-09-26T01:37:31.235Z",
+  "count": 19,
   "articles": [
+    {
+      "archive_id": "arc_d516bac45dc35f83",
+      "external_id": "drf_31107c818daa8a14",
+      "investigation_id": "inv_b3666e4d8cbdc4dc",
+      "candidate_fingerprints": [
+        "ab17b90922ed70399ae4b00b39065491744277f1eee4fcf5eb4797bb50af3cd1"
+      ],
+      "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+      "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+      "summary": "El Ayuntamiento de Calp abrió el 2 de septiembre de 2026 una convocatoria de ayudas para pymes, micropymes, autónomos y otros profesionales o colectivos sujetos a mutualidades que cumplieran los requisitos establecidos. La línea contaba con una dotación municipal de 300.000 euros y permitía cubrir hasta el 50% de ciertos gastos de electricidad, gas y carburantes, con un límite de 4.000 euros por solicitante.",
+      "body": "El Ayuntamiento de Calp anunció el 2 de septiembre la apertura de una línea de ayudas dirigida a pymes, micropymes, autónomos y profesionales o colectivos sujetos a mutualidades, siempre que cumplieran las condiciones de la convocatoria. La dotación presupuestaria municipal ascendía a 300.000 euros.\n\nLas ayudas podían cubrir hasta el 50% de los gastos acreditados de electricidad, gas y carburantes realizados entre el 1 de marzo y el 31 de julio de 2026. El importe máximo establecido era de 4.000 euros por solicitante.\n\nLa convocatoria contemplaba, por tanto, gastos efectuados durante un periodo concreto de cinco meses y exigía que fueran acreditados. La información difundida por el Ayuntamiento identifica como posibles beneficiarios a los negocios y profesionales incluidos en las categorías previstas y sujetos al cumplimiento de los requisitos establecidos.\n\nEl plazo de solicitud finalizaba el 15 de septiembre de 2026. A fecha de 26 de septiembre, ese periodo ya había concluido. La convocatoria acredita la apertura de la línea y sus condiciones, pero la información disponible no confirma qué solicitudes han sido aceptadas ni que las ayudas hayan sido concedidas o abonadas.\n\nLa medida se articula con cargo al presupuesto municipal y establece un límite individual de 4.000 euros, aunque la cuantía concreta de cada ayuda dependía de los gastos subvencionables acreditados y del porcentaje aplicable fijado en la convocatoria.",
+      "category": "ECONOMIA",
+      "seo_title": "Calp ofrece ayudas de hasta 4.000 euros a pymes y autónomos",
+      "meta_description": "La convocatoria municipal de Calp contaba con 300.000 euros y cubría hasta el 50% de gastos de energía y carburantes de marzo a julio.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/node/36605",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Lixto",
+          "url": "https://lixto.es/archivo/calp-convoca-ayudas-de-hasta-4-000-para-pymes-micropymes-y-autonomos-p-recn4AqoCGoX5pLVk",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/node/36605",
+        "https://lixto.es/archivo/calp-convoca-ayudas-de-hasta-4-000-para-pymes-micropymes-y-autonomos-p-recn4AqoCGoX5pLVk"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 2,
+        "caveats": [
+          "La información acredita la apertura de la convocatoria y sus condiciones, no que las ayudas hayan sido concedidas o pagadas a los solicitantes.",
+          "El plazo indicado por el Ayuntamiento finalizaba el 15 de septiembre de 2026; a fecha de 26 de septiembre de 2026 ya había concluido."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_616f99e6830c6c85",
+        "quality_gate_evaluated_at": "2026-09-26T01:37:30.893Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "El plazo de solicitud finalizó el 15 de septiembre de 2026; la información disponible no confirma concesiones ni pagos.",
+        "No debe presentarse la convocatoria como una ayuda ya concedida o abonada a los solicitantes."
+      ],
+      "published_at": "2026-09-26T01:37:16.999Z",
+      "updated_at": "2026-09-26T01:37:31.235Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_8031aaa3e6b91b49",
       "external_id": "drf_5bec81386db18dce",
@@ -594,7 +648,8 @@
       "external_id": "drf_ffae6354c7d96238",
       "investigation_id": "inv_f1fb70d120479fcb",
       "candidate_fingerprints": [
-        "031bd6139a6dbf97baed005bc2d43b1e2aa2a8979440585d85eca0a70c9aa912"
+        "031bd6139a6dbf97baed005bc2d43b1e2aa2a8979440585d85eca0a70c9aa912",
+        "1c4b6a990e66af7dab4afd68d9402dc3a4e99bd727ae5103f03cd28ea7b912fa"
       ],
       "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
@@ -617,7 +672,9 @@
       ],
       "source_urls": [
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-        "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50"
+        "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+        "https://www.calp.es/es/aggregator/sources/2",
+        "https://lamarina.eldiario.es/ca/2026/09/25/mes-maquinaria-mes-personal-i-temporades-mes-llargues-el-nou-pla-de-calp-per-a-la-neteja-de-la-costa"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -632,7 +689,7 @@
         "La cifra utilizada es la inversión anual comunicada por el Ayuntamiento; el registro de contratación diferencia entre oferta adjudicada e importe total del contrato."
       ],
       "published_at": "2026-09-25T19:04:08.736Z",
-      "updated_at": "2026-09-25T19:16:53.619Z",
+      "updated_at": "2026-09-26T01:37:31.235Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

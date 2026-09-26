@@ -2,24 +2,31 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-25T23:20:25.374Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-09-25T23:19:34.139Z",
+  "generated_at": "2026-09-26T01:37:36.806Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-09-26T01:37:36.643Z",
   "newspaper": {
-    "archive_total": 18,
-    "published_today": 6,
-    "published_last_7_days": 18,
+    "archive_total": 19,
+    "published_today": 7,
+    "published_last_7_days": 19,
     "categories": {
+      "ECONOMIA": 2,
       "LOCAL": 6,
       "SOCIEDAD": 3,
       "SUCESOS": 1,
-      "ECONOMIA": 1,
       "TURISMO": 2,
       "MEDIO_AMBIENTE": 3,
       "CULTURA": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_d516bac45dc35f83",
+        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
+        "category": "ECONOMIA",
+        "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
+        "published_at": "2026-09-26T01:37:16.999Z"
+      },
       {
         "archive_id": "arc_8031aaa3e6b91b49",
         "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
@@ -68,23 +75,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "ua-confirma-alga-invasora-calp",
         "published_at": "2026-09-25T20:58:51.062Z"
-      },
-      {
-        "archive_id": "arc_3685dd63b8ac5374",
-        "title": "Calp prevé remodelar el parque Arco Iris con una inversión de 114.829 euros",
-        "category": "LOCAL",
-        "slug": "calp-remodelacion-parque-arco-iris",
-        "published_at": "2026-09-25T20:58:51.062Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 13,
+    "radar_candidates": 10,
     "investigated": 0,
-    "drafts": 3,
+    "drafts": 2,
     "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 2
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -101,15 +101,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_84df876d0101a4a8",
-      "slug": "calp-nuevo-servicio-limpieza-playas-medios-temporadas-ampliadas",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-09-25T22:35:43.207Z"
-    }
-  ]
+  "quarantine": []
 }
