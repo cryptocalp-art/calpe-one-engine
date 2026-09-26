@@ -1,315 +1,145 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-26T07:45:28.599Z",
+  "generated_at": "2026-09-26T13:08:08.895Z",
   "model": "gpt-5.6-luna",
-  "count": 6,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "d74ad00d17f7502c8246ee7ff8b324038420d9ece5e164206157878fe416f3b4",
-      "title": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La declaración oficial como Fiesta de Interés Turístico Nacional está acreditada por el BOE. Una información independiente de Calp Digital confirma que Ana Sala recogió el distintivo el 25 de septiembre de 2026 en el Teatro Real de Madrid.",
-      "claims": [
-        {
-          "claim": "Las fiestas de Moros y Cristianos de Calp tienen el título de Fiesta de Interés Turístico Nacional.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La concesión fue formalizada por resolución de la Secretaría de Estado de Turismo de 22 de agosto de 2026 y publicada en el BOE el 21 de septiembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Ana Sala recogió el distintivo oficial el 25 de septiembre de 2026 en el Teatro Real de Madrid.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La entrega correspondió al Ministerio de Industria y Turismo y a la Secretaría de Estado de Turismo.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
-          "evidence": "La Resolución de 22 de agosto de 2026 concede expresamente el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp. El anuncio fue publicado en el BOE número 233, de 21 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12333/calp-recibe-en-madrid-distintivo-como-fiesta-interes-turistico-nacional-para-moros-y-cristianos",
-          "evidence": "Informa de que Ana Sala recogió el 25 de septiembre de 2026 el distintivo en el Teatro Real de Madrid, junto con una delegación calpina, y atribuye la entrega al ministro de Industria y Turismo y a la secretaria de Estado de Turismo.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [],
-      "id": "inv_02dd2244eb7ced13",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "829f845231114c2e6b6e647b0459d0394c838a590b4bd7735dca16c763fbb3c5",
-      "title": "Calp estudia cómo utiliza la ciudadanía el espacio público para orientar futuras decisiones urbanísticas",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está desarrollada en Calp Digital y sus datos son internamente coherentes, pero no se ha localizado una publicación oficial del expediente o de los pliegos que confirme de forma independiente el importe, la duración y el alcance del estudio.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp prepara un diagnóstico sobre el uso ciudadano de calles, plazas, recorridos y otros espacios públicos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato tiene un presupuesto de 58.080 euros y una duración máxima de siete meses.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El análisis abarcará todo el término municipal.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se estudiarán seguridad, accesibilidad, movilidad, confort térmico, calidad ambiental y diferencias de uso por edad, género, origen o discapacidad.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El proyecto incluirá talleres y participación ciudadana para orientar futuras decisiones urbanísticas.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12276/art/12281/delegacion-50-vecinos-calp-visita-cabra-para-reforzar-vinculos-historicos-entre-ambos-municipios",
-          "evidence": "Describe un estudio municipal de todo el término de Calp sobre el uso cotidiano y la percepción de los espacios públicos. Menciona seguridad, accesibilidad, calor, calidad ambiental, movilidad y diferencias entre grupos de población, además de un presupuesto de 58.080 euros y una duración máxima de siete meses.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://www.calp.es/es/portal-de-transparencia/portal-de-participacion",
-          "evidence": "El portal oficial acredita que el Ayuntamiento dispone de canales y procesos de participación ciudadana, pero la página localizada no identifica este contrato ni confirma sus cuantías o calendario.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "No se ha encontrado el anuncio de licitación, los pliegos o un expediente oficial que permita verificar los datos económicos y temporales.",
-        "La única fuente que detalla el proyecto es la noticia de Calp Digital; la existencia genérica del portal municipal de participación no constituye corroboración específica."
-      ],
-      "id": "inv_0a1535fb8445de5e",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "1329cc7346db1e3ab9d7bdbb990a1a6f7604d7c0c223fe46ca2e66b4036c2c9e",
-      "title": "Calp exigirá que los datos municipales no se utilicen para entrenar la inteligencia artificial contratada",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La licitación de cinco licencias de IA, su finalidad y sus fechas aparecen respaldadas por una ficha de contratación y por Calp Digital. Sin embargo, no se ha localizado el pliego oficial directamente accesible que confirme la cláusula concreta sobre la prohibición de usar los datos para entrenar modelos.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento prevé contratar cinco licencias avanzadas de una plataforma de asistencia de inteligencia artificial.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las licencias se destinarán a redacción administrativa, análisis documental, elaboración de borradores y apoyo a desarrollos informáticos internos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El expediente fue publicado el 14 de agosto de 2026 y tiene una duración inicial de 24 meses.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El presupuesto inicial fue de 19.500 euros IVA incluido y el valor estimado de 24.173,55 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los datos municipales introducidos en la plataforma no podrán utilizarse para entrenar, ajustar o mejorar modelos sin autorización municipal expresa y por escrito.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Sophia / ficha de licitación",
-          "source_url": "https://www.sophia-anphis.es/licitaciones/ser-62%2F2026_ass-servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-para-el-ayuntamiento-de-calp-%28alicante%29",
-          "evidence": "La ficha identifica el expediente SER 62/2026-ASS, publicado el 14 de agosto de 2026, para un servicio de asistente de IA del Ayuntamiento de Calp. Indica cinco licencias avanzadas, usos administrativos y de programación, un valor estimado de 24.173,55 euros y un periodo de ejecución de dos años.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12277/calp-exigira-que-datos-municipales-no-se-utilicen-para-entrenar-inteligencia-artificial-que-contrate",
-          "evidence": "Explica que el contrato incorpora una condición para impedir que documentos, conversaciones y datos municipales se utilicen para entrenar, ajustar o mejorar modelos del proveedor o de terceros sin consentimiento municipal expreso y escrito.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La ficha de contratación localizada confirma el objeto, el número de licencias, el importe estimado y la duración, pero no muestra la cláusula de no entrenamiento.",
-        "Debe consultarse el PCAP o PPT oficial del expediente en la Plataforma de Contratación del Sector Público antes de publicar esa condición como hecho confirmado."
-      ],
-      "id": "inv_a8a94cb104e680b4",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "d07ea8f90b79325329d773f94c06acdb71df4bbcdfb157e91ca557898e7dbf24",
-      "title": "La Línea 9 del TRAM que pasa por Calp supera los 186.000 desplazamientos en agosto",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "El dato de 186.610 desplazamientos de la Línea 9 en agosto de 2026 aparece reproducido por varios medios y atribuido al balance mensual de FGV. Las fuentes coinciden también en el total de usuarios del TRAM d’Alacant y en la posición de la línea dentro de la red.",
-      "claims": [
-        {
-          "claim": "La Línea 9 del TRAM d’Alacant registró 186.610 desplazamientos en agosto de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La línea conecta Benidorm y Dénia y pasa por Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El conjunto del TRAM d’Alacant alcanzó 1.693.702 usuarios en agosto.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Línea 9 fue la quinta línea con más movimientos de la red alicantina ese mes.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12285/la-linea-9-del-tram-que-pasa-por-calp-supera-los-186000-desplazamientos-en-agosto",
-          "evidence": "Publica 186.610 desplazamientos para la Línea 9 en agosto y señala que el recorrido entre Benidorm y Dénia presta servicio a Calp. También ofrece el total de 1.693.702 usuarios del TRAM d’Alacant y sitúa a la L9 como quinta línea por volumen de viajes.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Gata Digital",
-          "source_url": "https://gatadigital.es/art/13765/art/13757/gatam-fest-convertira-gata-de-gorgos-en-un-laboratorio-de-musica-e-innovacion-del-17-al-20-de-septiembre",
-          "evidence": "Confirma de forma independiente los 186.610 desplazamientos de la L9 en agosto y el total de 1.693.702 usuarios de la red alicantina, además de describir la conexión Benidorm-Dénia y sus paradas en la Marina Alta.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Vía Libre",
-          "source_url": "https://www.vialibre.org/noticias.asp?cs=oper&not=50409",
-          "evidence": "Reproduce el balance atribuido a FGV: 186.610 viajes en la Línea 9 y 1.693.702 usuarios en el TRAM d’Alacant durante agosto, junto con el desglose de las líneas.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "No se ha localizado en los resultados consultados el comunicado original de FGV, aunque el dato coincide en varias publicaciones independientes."
-      ],
-      "id": "inv_a962ed7925e6d41b",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "5d4fd47927faf178662df9d7b29b53637cf18ca853be82b6bfbe5c81856a6a25",
-      "title": "Calp mantiene una notable calidad ambiental en sus aguas litorales",
+      "candidate_fingerprint": "e1a3e7676172c9908ff61621521804bafac923848b23e03d73ea81b4bfdb2a2f",
+      "title": "Calp programa 30 actividades para el Otoño Cultural 2026",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La nota oficial del Ayuntamiento y una publicación independiente coinciden en los resultados del informe de la Xarxa de Control Coster para julio de 2025-junio de 2026: La Fossa y Cantal Roig presentan calidad óptima; Puerto Blanco y Les Urques, calidad buena en la serie histórica, aunque ambas estaciones tienen estado óptimo en el ciclo anual analizado.",
+      "summary": "La programación municipal del Otoño Cultural 2026 está respaldada por una fuente oficial del Ayuntamiento y por la agenda cultural municipal. La agenda confirma varias actividades concretas anunciadas, entre ellas el concierto de Camerata Odesa del 26 de septiembre y representaciones teatrales. No se ha localizado una cobertura independiente completa de las 30 propuestas, por lo que la confianza se mantiene en nivel medio.",
       "claims": [
         {
-          "claim": "El informe corresponde al ciclo anual comprendido entre julio de 2025 y junio de 2026.",
+          "claim": "El Ayuntamiento de Calp ha programado 30 actividades culturales para el Otoño Cultural 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La evaluación fue elaborada por el Institut d’Ecologia Litoral dentro de la Xarxa de Control Coster.",
+          "claim": "Las actividades se desarrollan desde el 23 de septiembre hasta final de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las estaciones analizadas fueron La Fossa, Cantal Roig, Puerto Blanco y Les Urques.",
+          "claim": "La programación incluye música, teatro, artes visuales y recreaciones históricas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fossa y Cantal Roig mantienen una calificación de calidad óptima.",
+          "claim": "El programa contempla la presentación del futuro Museu d’Art Urbà, con 21 manifestaciones artísticas previstas en el centro histórico.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Puerto Blanco y Les Urques tienen una calificación histórica de calidad buena, aunque registran estado óptimo en el ciclo anual actual.",
+          "claim": "La programación incluye actividades en los Baños de la Reina y en el casco antiguo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El informe señala valores adecuados de oxigenación, salinidad y pH y baja presencia de sólidos en suspensión.",
+          "claim": "El programa incorpora actuaciones nacionales e internacionales, entre ellas Camerata Odesa y propuestas teatrales como La mujer de negro.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/les-platges-de-calp-aproven-amb-nota-el-control-de-qualitat-ambiental-de-les-seues-aig%C3%BCes",
-          "evidence": "La nota municipal resume el informe técnico del IEL para julio de 2025-junio de 2026. Identifica las cuatro estaciones de muestreo, califica como óptimas La Fossa y Cantal Roig, y explica que Puerto Blanco y Les Urques tienen una calificación histórica buena pero estado óptimo en el ciclo actual.",
+          "source_name": "Ayuntamiento de Calp — Noticias",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-oto%C3%B1o-cultural-2026-con-30-propuestas-culturales-para",
+          "evidence": "La nota oficial, fechada el 14 de septiembre de 2026, anuncia 30 actividades desde el 23 de septiembre hasta final de año y detalla disciplinas, Museu d’Art Urbà, Baños de la Reina, actuaciones musicales y propuestas teatrales.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "elDiario.es La Marina",
-          "source_url": "https://lamarina.eldiario.es/2026/09/07/las-playas-de-calp-aprueban-con-nota-el-control-de-calidad-ambiental-de-sus-aguas-litorales/",
-          "evidence": "Reproduce de forma independiente los resultados del informe: las cuatro estaciones presentan estado óptimo o bueno; La Fossa y Cantal Roig mantienen calidad óptima; Puerto Blanco y Les Urques tienen estado óptimo durante el ciclo julio 2025-junio 2026.",
+          "source_name": "Ayuntamiento de Calp — Programación Cultural",
+          "source_url": "https://cultura.calp.es/es/programacion-cultural",
+          "evidence": "La agenda cultural municipal recoge el concierto de Camerata Odesa, previsto para el 26 de septiembre de 2026, además de otras actividades culturales anunciadas para el periodo de otoño.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Turist Info Calpe",
+          "source_url": "https://calpe.es/en/events/odesa-camerata-concert-vivaldis-four-seasons",
+          "evidence": "La agenda turística municipal confirma el concierto de Camerata Odesa, Las cuatro estaciones de Vivaldi, para el 26 de septiembre de 2026 y atribuye su organización al Ayuntamiento y a la Concejalía de Cultura.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración localizada procede principalmente de canales municipales o dependientes del Ayuntamiento; no se ha encontrado una cobertura independiente completa de las 30 actividades.",
+        "La existencia de la programación no garantiza que todas las actividades se celebren sin cambios posteriores."
+      ],
+      "id": "inv_c398290f7079f8d5",
+      "investigated_at": "2026-09-26T13:08:08.895Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "7dda8e56b770fc5ac2904c060d8ca16ec28d0c34d138b8a49549bece00d0965d",
+      "title": "Calp analizará el uso ciudadano del espacio público para orientar futuras decisiones urbanísticas",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La noticia está corroborada por registros de la licitación pública del expediente SER 63/2026-AOR. Esos registros confirman el objeto del contrato, el presupuesto base de 58.080 euros con IVA, el plazo previsto de siete meses y el ámbito municipal. La información sobre las variables de análisis y la participación ciudadana aparece en la noticia y en descripciones del expediente, aunque no se ha podido abrir directamente el anuncio oficial de la Plataforma de Contratación.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp prepara un diagnóstico sobre la percepción y el uso del espacio público.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El estudio abarcará todo el término municipal de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El presupuesto base de licitación es de 58.080 euros, IVA incluido.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La duración máxima prevista del contrato es de siete meses.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El análisis abordará seguridad, accesibilidad, confort térmico, movilidad y calidad ambiental.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El estudio examinará diferencias de uso o percepción según edad, género, origen y discapacidad.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto incorpora mecanismos de participación ciudadana, como talleres o actividades participativas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El diagnóstico pretende servir de base para futuras decisiones o instrumentos urbanísticos municipales.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12276/calp-analizara-como-utiliza-ciudadania-espacio-publico-para-orientar-futuras-decisiones-urbanisticas",
+          "evidence": "La información atribuye al Ayuntamiento la preparación de un diagnóstico para todo el término municipal, con un contrato presupuestado en 58.080 euros y una duración máxima de siete meses. Describe el análisis de seguridad, accesibilidad, calor, calidad ambiental, movilidad y diferencias entre grupos de población.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Vínculo — ficha de licitación",
+          "source_url": "https://el-vinculo.com/licitacion/servicio-para-la-redaccion-del-documento-de-diagnostico-de-la-percepcion-y-uso-d-5674979",
+          "evidence": "La ficha identifica el expediente SER 63/2026-AOR, convocado por la Alcaldía del Ajuntament de Calp, con un presupuesto de 58.080 euros IVA incluido y un valor estimado de 48.000 euros. El objeto coincide con la redacción del diagnóstico del espacio público.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Licitadora — ficha de licitación",
+          "source_url": "https://lalicitadora.es/licitacion/servicio-para-la-redaccion-del-documento-de-diagnostico-de-la-y-uso-en-20329460",
+          "evidence": "La ficha del expediente SER 63/2026-AOR confirma el objeto oficial del contrato, el importe de 48.000 euros sin IVA y 58.080 euros con IVA, la duración de siete meses y que el contrato fue promovido por la Alcaldía del Ajuntament de Calp.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Licitaciones.io",
+          "source_url": "https://licitaciones.io/licitacion/licitacion-de-diagnostico-sobre-percepcion-y-uso-del-espacio-publico-en-calp-f9b3698bdc25",
+          "evidence": "La descripción del expediente señala que el diagnóstico analizará la percepción y uso del espacio público de Calp, incluyendo seguridad, accesibilidad, confort climático, enfoque de género y necesidades para futuros instrumentos urbanísticos. También confirma el presupuesto base de 58.080 euros y la duración de siete meses.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha localizado el informe técnico completo del Institut d’Ecologia Litoral; la verificación se basa en la nota municipal y su reproducción independiente."
+        "No se ha localizado directamente, mediante los resultados consultados, el anuncio o los pliegos alojados en la Plataforma de Contratación del Sector Público; las fichas secundarias indican que proceden de esa plataforma.",
+        "La licitación acredita que el Ayuntamiento prepara o ha licitado el estudio, pero no demuestra que el diagnóstico ya se haya ejecutado ni que sus conclusiones estén disponibles.",
+        "Las distintas fichas de licitación son reproducciones de datos del expediente público y no deben contarse como varias coberturas periodísticas independientes."
       ],
-      "id": "inv_aab388e0135aa599",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "5d684d218d33fa7174e2588d41b175f8cd5d478b90817bfa4d9c32d110d4d3b5",
-      "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte y los clubes locales",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La convocatoria y su desglose están documentados por el Ayuntamiento, pero no se ha localizado en la búsqueda una publicación independiente o el anuncio del BOP que permita corroborar directamente la cuantía y las condiciones. La información puede ser correcta, pero no cumple todavía el umbral de corroboración exigido.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp convocó ayudas deportivas para la temporada 2025-2026 por un total de 275.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La convocatoria se dirige al deporte base, los eventos deportivos y los deportes autóctonos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La línea 1 cuenta con 245.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La línea 2 cuenta con 25.000 euros y se destina a eventos deportivos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La línea 3 cuenta con 5.000 euros y se dirige a Pilota Valenciana y Colombicultura.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de solicitud fue del 4 al 17 de septiembre de 2026.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
-          "evidence": "La nota oficial anuncia una convocatoria de 275.000 euros para la temporada 2025-2026 y desglosa tres líneas: 245.000 euros para deporte base y competiciones, 25.000 euros para eventos deportivos y 5.000 euros para deportes autóctonos. También indica que el periodo subvencionable va del 1 de julio de 2025 al 30 de junio de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp, agregador de noticias",
-          "source_url": "https://www.calp.es/es/aggregator/sources/7",
-          "evidence": "El agregador municipal reproduce el titular y la existencia de la convocatoria de 275.000 euros, pero funciona como republicación de la comunicación municipal y no constituye corroboración independiente.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "No se ha localizado el edicto específico del BOP ni una fuente periodística independiente que confirme la convocatoria.",
-        "La suma de las tres líneas sí coincide con los 275.000 euros anunciados, pero la fecha exacta del plazo permanece sin corroboración independiente."
-      ],
-      "id": "inv_22ae4e9e1d121156",
-      "investigated_at": "2026-09-26T07:45:28.599Z",
+      "id": "inv_ab6280bc322c6496",
+      "investigated_at": "2026-09-26T13:08:08.895Z",
       "model": "gpt-5.6-luna"
     }
   ]

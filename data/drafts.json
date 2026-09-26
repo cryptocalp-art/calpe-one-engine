@@ -1,133 +1,110 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-09-26T07:46:19.201Z",
+  "generated_at": "2026-09-26T13:08:33.700Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 2,
   "drafts": [
     {
-      "id": "drf_af52f2a4c47d1d25",
-      "investigation_id": "inv_02dd2244eb7ced13",
-      "candidate_fingerprint": "d74ad00d17f7502c8246ee7ff8b324038420d9ece5e164206157878fe416f3b4",
-      "category": "TURISMO",
+      "id": "drf_ef2cc724a319353e",
+      "investigation_id": "inv_c398290f7079f8d5",
+      "candidate_fingerprint": "e1a3e7676172c9908ff61621521804bafac923848b23e03d73ea81b4bfdb2a2f",
+      "category": "CULTURA",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-09-26T07:46:19.201Z",
+      "created_at": "2026-09-26T13:08:33.700Z",
       "model": "gpt-5.6-luna",
-      "headline": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
-      "subheadline": "Ana Sala recogió el reconocimiento el 25 de septiembre en el Teatro Real, tras la concesión formalizada por resolución estatal.",
-      "lead": "Las fiestas de Moros y Cristianos de Calp ya cuentan oficialmente con el título de Fiesta de Interés Turístico Nacional. El reconocimiento fue recogido en Madrid el 25 de septiembre de 2026 por Ana Sala, durante un acto celebrado en el Teatro Real.",
-      "body_markdown": "La concesión del título quedó formalizada mediante una resolución de la Secretaría de Estado de Turismo fechada el 22 de agosto de 2026. El acuerdo fue publicado posteriormente en el Boletín Oficial del Estado, en su edición del 21 de septiembre de 2026.\n\nEl distintivo oficial fue recogido por Ana Sala el 25 de septiembre en el Teatro Real de Madrid. La entrega correspondió al Ministerio de Industria y Turismo y a la Secretaría de Estado de Turismo. En el acto también participó una delegación calpina, según la información difundida sobre la entrega.\n\nEl reconocimiento se refiere a la Fiesta de Moros y Cristianos de Calp, que pasa a figurar con la consideración oficial de Fiesta de Interés Turístico Nacional. La resolución publicada en el BOE acredita tanto la concesión como el marco administrativo del título.\n\nLa entrega del distintivo se produjo, por tanto, después de la publicación oficial de la resolución. El acto de Madrid materializó la recepción del reconocimiento concedido por la Administración estatal.",
-      "seo_title": "Calp recibe el distintivo nacional para sus Moros y Cristianos",
-      "meta_description": "Las fiestas de Moros y Cristianos de Calp reciben el distintivo oficial de Fiesta de Interés Turístico Nacional en un acto celebrado en Madrid.",
-      "slug": "calp-distintivo-fiesta-interes-turistico-nacional-moros-cristianos",
-      "editorial_notes": [],
+      "headline": "Calp programa 30 actividades para el Otoño Cultural 2026",
+      "subheadline": "La agenda municipal incluye música, teatro, artes visuales y recreaciones históricas hasta final de año",
+      "lead": "El Ayuntamiento de Calp ha programado 30 actividades dentro del Otoño Cultural 2026, con propuestas previstas desde el 23 de septiembre hasta final de año. El programa reúne actividades musicales, teatrales, de artes visuales y recreaciones históricas en distintos espacios del municipio.",
+      "body_markdown": "La programación municipal del Otoño Cultural 2026 contempla un total de 30 actividades que se desarrollarán desde el 23 de septiembre y hasta el final del año, según la información difundida por el Ayuntamiento de Calp y la agenda cultural municipal.\n\nEl programa incluye diferentes disciplinas, entre ellas música, teatro, artes visuales y recreaciones históricas. Entre los espacios incorporados a la programación figuran los Baños de la Reina y el casco antiguo, que acogerán parte de las actividades anunciadas.\n\nUna de las iniciativas previstas es la presentación del futuro Museu d’Art Urbà. La propuesta contempla 21 manifestaciones artísticas en el centro histórico de Calp, de acuerdo con la programación municipal.\n\nLa agenda también incorpora actuaciones de ámbito nacional e internacional. Entre ellas figura Camerata Odesa, que tiene previsto ofrecer el 26 de septiembre el concierto *Las cuatro estaciones*, de Vivaldi. El programa incluye asimismo propuestas teatrales como *La mujer de negro*.\n\nLa existencia de la programación está respaldada por una nota oficial del Ayuntamiento y por la agenda cultural y turística municipal, que confirma algunas de las actividades concretas anunciadas. La corroboración localizada procede principalmente de canales municipales o dependientes del Ayuntamiento.\n\nLa programación puede estar sujeta a cambios posteriores, por lo que la previsión anunciada no garantiza que todas las actividades se celebren sin modificaciones.",
+      "seo_title": "Calp programa 30 actividades para el Otoño Cultural 2026",
+      "meta_description": "El Ayuntamiento de Calp anuncia 30 actividades culturales hasta final de año, con música, teatro, artes visuales y recreaciones históricas.",
+      "slug": "calp-programa-30-actividades-otono-cultural-2026",
+      "editorial_notes": [
+        "La corroboración procede principalmente de fuentes municipales y no se ha localizado una cobertura independiente completa de las 30 propuestas.",
+        "Conviene revisar posibles cambios en fechas, espacios o actividades antes de publicar la agenda definitiva."
+      ],
       "sources": [
         {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
+          "source_name": "Ayuntamiento de Calp — Noticias",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-oto%C3%B1o-cultural-2026-con-30-propuestas-culturales-para",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12333/calp-recibe-en-madrid-distintivo-como-fiesta-interes-turistico-nacional-para-moros-y-cristianos",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 4,
-        "evidence_count": 2,
-        "caveats": []
-      }
-    },
-    {
-      "id": "drf_8c2668dd353932d8",
-      "investigation_id": "inv_a962ed7925e6d41b",
-      "candidate_fingerprint": "d07ea8f90b79325329d773f94c06acdb71df4bbcdfb157e91ca557898e7dbf24",
-      "category": "TURISMO",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-09-26T07:46:19.201Z",
-      "model": "gpt-5.6-luna",
-      "headline": "La Línea 9 del TRAM supera los 186.000 desplazamientos en agosto",
-      "subheadline": "El servicio, que conecta Benidorm y Dénia y pasa por Calp, registró 186.610 movimientos y fue la quinta línea con más actividad de la red alicantina.",
-      "lead": "La Línea 9 del TRAM d’Alacant registró 186.610 desplazamientos durante agosto de 2026. El servicio conecta Benidorm y Dénia y pasa por Calp, según el balance mensual difundido sobre la actividad de la red.",
-      "body_markdown": "La Línea 9 fue la quinta con más movimientos del TRAM d’Alacant durante el mes de agosto, con un total de 186.610 desplazamientos. El recorrido enlaza Benidorm y Dénia e incluye Calp entre sus puntos de paso.\n\nEn el conjunto de la red alicantina, el número de usuarios alcanzó los 1.693.702 durante ese mismo mes. El dato de la Línea 9 aparece recogido en varias publicaciones independientes que atribuyen las cifras al balance mensual de Ferrocarrils de la Generalitat Valenciana (FGV).\n\nLa cifra de 186.610 desplazamientos sitúa a la línea entre las de mayor volumen de movimientos de la red durante agosto, aunque por detrás de las cuatro que la precedieron en esa clasificación. El balance no ofrece en el expediente un desglose específico de los desplazamientos correspondientes a las paradas de Calp.\n\nLos datos corresponden exclusivamente a agosto de 2026 y se refieren a desplazamientos registrados en la línea, no a un recuento individual de viajeros en cada municipio del recorrido.",
-      "seo_title": "La Línea 9 del TRAM supera 186.000 desplazamientos en agosto",
-      "meta_description": "La Línea 9 del TRAM, que pasa por Calp, registró 186.610 desplazamientos en agosto y fue la quinta más utilizada de la red alicantina.",
-      "slug": "linea-9-tram-calp-desplazamientos-agosto-2026",
-      "editorial_notes": [
-        "El comunicado original de FGV no se ha localizado en los resultados consultados; las cifras coinciden en varias publicaciones independientes que atribuyen el balance a la compañía pública.",
-        "No se dispone de un desglose específico de los desplazamientos correspondientes a Calp."
-      ],
-      "sources": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12285/la-linea-9-del-tram-que-pasa-por-calp-supera-los-186000-desplazamientos-en-agosto",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Gata Digital",
-          "source_url": "https://gatadigital.es/art/13765/art/13757/gatam-fest-convertira-gata-de-gorgos-en-un-laboratorio-de-musica-e-innovacion-del-17-al-20-de-septiembre",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Vía Libre",
-          "source_url": "https://www.vialibre.org/noticias.asp?cs=oper&not=50409",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 4,
-        "evidence_count": 3,
-        "caveats": [
-          "No se ha localizado en los resultados consultados el comunicado original de FGV, aunque el dato coincide en varias publicaciones independientes."
-        ]
-      }
-    },
-    {
-      "id": "drf_2d1a5d0519891975",
-      "investigation_id": "inv_aab388e0135aa599",
-      "candidate_fingerprint": "5d4fd47927faf178662df9d7b29b53637cf18ca853be82b6bfbe5c81856a6a25",
-      "category": "MEDIO_AMBIENTE",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-09-26T07:46:19.201Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Las cuatro estaciones de control litoral de Calp presentan un estado ambiental óptimo en el último ciclo anual",
-      "subheadline": "La Fossa y Cantal Roig mantienen una calificación óptima; Puerto Blanco y Les Urques mejoran su valoración anual respecto a su calificación histórica buena.",
-      "lead": "Las cuatro estaciones de control analizadas en el litoral de Calp presentan un estado óptimo en el ciclo comprendido entre julio de 2025 y junio de 2026, según el resumen del informe de la Xarxa de Control Coster elaborado por el Institut d’Ecologia Litoral.",
-      "body_markdown": "El análisis incluyó las estaciones de La Fossa, Cantal Roig, Puerto Blanco y Les Urques. La Fossa y Cantal Roig mantienen una calificación de calidad óptima. Puerto Blanco y Les Urques cuentan con una calificación histórica de calidad buena, aunque en el ciclo anual analizado registran también un estado óptimo.\n\nEl informe técnico, elaborado por el Institut d’Ecologia Litoral dentro de la Xarxa de Control Coster, recoge valores adecuados de oxigenación, salinidad y pH, además de una baja presencia de sólidos en suspensión. Estos parámetros forman parte de la evaluación ambiental de las aguas litorales realizada en los puntos de muestreo.\n\nLa diferencia entre la valoración histórica y el resultado del último ciclo afecta a Puerto Blanco y Les Urques: ambas estaciones conservan la referencia histórica de calidad buena, mientras que el periodo de julio de 2025 a junio de 2026 obtiene la consideración de óptimo.\n\nLos resultados han sido difundidos por el Ayuntamiento de Calp y reproducidos de forma independiente. El expediente no incluye el informe técnico completo del Institut d’Ecologia Litoral, por lo que la información disponible se limita al resumen de resultados y parámetros recogido en esas publicaciones.",
-      "seo_title": "Las aguas litorales de Calp mantienen buenos resultados ambientales",
-      "meta_description": "El último ciclo de control ambiental califica como óptimas las cuatro estaciones litorales analizadas en Calp, según el resumen del informe técnico.",
-      "slug": "calp-control-calidad-ambiental-aguas-litorales-2025-2026",
-      "editorial_notes": [
-        "No se ha localizado el informe técnico completo del Institut d’Ecologia Litoral. La verificación se basa en la nota municipal y en una reproducción independiente.",
-        "Debe diferenciarse entre la calificación histórica buena de Puerto Blanco y Les Urques y su estado óptimo en el ciclo anual analizado."
-      ],
-      "sources": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/les-platges-de-calp-aproven-amb-nota-el-control-de-qualitat-ambiental-de-les-seues-aig%C3%BCes",
+          "source_name": "Ayuntamiento de Calp — Programación Cultural",
+          "source_url": "https://cultura.calp.es/es/programacion-cultural",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "elDiario.es La Marina",
-          "source_url": "https://lamarina.eldiario.es/2026/09/07/las-playas-de-calp-aprueban-con-nota-el-control-de-calidad-ambiental-de-sus-aguas-litorales/",
-          "source_type": "SECONDARY"
+          "source_name": "Turist Info Calpe",
+          "source_url": "https://calpe.es/en/events/odesa-camerata-concert-vivaldis-four-seasons",
+          "source_type": "PRIMARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
         "confidence": "MEDIUM",
         "supported_claim_count": 6,
-        "evidence_count": 2,
+        "evidence_count": 3,
         "caveats": [
-          "No se ha localizado el informe técnico completo del Institut d’Ecologia Litoral; la verificación se basa en la nota municipal y su reproducción independiente."
+          "La corroboración localizada procede principalmente de canales municipales o dependientes del Ayuntamiento; no se ha encontrado una cobertura independiente completa de las 30 actividades.",
+          "La existencia de la programación no garantiza que todas las actividades se celebren sin cambios posteriores."
+        ]
+      }
+    },
+    {
+      "id": "drf_44a9490c81ff11ae",
+      "investigation_id": "inv_ab6280bc322c6496",
+      "candidate_fingerprint": "7dda8e56b770fc5ac2904c060d8ca16ec28d0c34d138b8a49549bece00d0965d",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-26T13:08:33.700Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp prepara un diagnóstico sobre el uso y la percepción del espacio público",
+      "subheadline": "El contrato prevé analizar todo el término municipal con un presupuesto base de 58.080 euros y una duración máxima de siete meses",
+      "lead": "El Ayuntamiento de Calp prepara un diagnóstico sobre cómo se percibe y utiliza el espacio público en todo el término municipal. El contrato tiene un presupuesto base de licitación de 58.080 euros, IVA incluido, y una duración máxima prevista de siete meses.",
+      "body_markdown": "El Ayuntamiento de Calp prepara un estudio para analizar la percepción y el uso ciudadano del espacio público en todo el término municipal. El expediente de contratación SER 63/2026-AOR fija un presupuesto base de licitación de 58.080 euros, IVA incluido, y establece una duración máxima prevista de siete meses.\n\nEl diagnóstico abordará, entre otros aspectos, la seguridad, la accesibilidad, el confort térmico, la movilidad y la calidad ambiental de los espacios públicos. También examinará posibles diferencias en el uso o en la percepción según la edad, el género, el origen y la discapacidad.\n\nEl proyecto incorpora mecanismos de participación ciudadana, como talleres o actividades participativas. La información disponible señala que el análisis pretende aportar una base para futuras decisiones o instrumentos urbanísticos municipales.\n\nLos datos económicos y el plazo constan en varias fichas de licitación que identifican el expediente promovido por la Alcaldía del Ayuntamiento de Calp. Esas referencias también sitúan en 48.000 euros el importe sin IVA del contrato.\n\nLa documentación consultada acredita que el Ayuntamiento prepara o ha licitado la elaboración del estudio, pero no demuestra que el diagnóstico ya se haya ejecutado ni que sus conclusiones estén disponibles. Tampoco se ha localizado directamente, entre los resultados consultados, el anuncio o los pliegos alojados en la Plataforma de Contratación del Sector Público.\n\nLas fichas utilizadas reproducen datos del expediente público y no constituyen coberturas periodísticas independientes entre sí.",
+      "seo_title": "Calp prepara un diagnóstico sobre el espacio público",
+      "meta_description": "El Ayuntamiento de Calp licita un diagnóstico sobre el uso del espacio público por 58.080 euros y con un plazo máximo de siete meses.",
+      "slug": "calp-diagnostico-uso-percepcion-espacio-publico",
+      "editorial_notes": [
+        "La información sobre el expediente procede de fichas secundarias de licitación; no se ha localizado directamente el anuncio o los pliegos oficiales.",
+        "El expediente acredita la preparación o licitación del estudio, no su ejecución ni la existencia de conclusiones.",
+        "Las fichas consultadas reproducen datos del mismo expediente y no deben presentarse como coberturas independientes."
+      ],
+      "sources": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12276/calp-analizara-como-utiliza-ciudadania-espacio-publico-para-orientar-futuras-decisiones-urbanisticas",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Vínculo — ficha de licitación",
+          "source_url": "https://el-vinculo.com/licitacion/servicio-para-la-redaccion-del-documento-de-diagnostico-de-la-percepcion-y-uso-d-5674979",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Licitadora — ficha de licitación",
+          "source_url": "https://lalicitadora.es/licitacion/servicio-para-la-redaccion-del-documento-de-diagnostico-de-la-y-uso-en-20329460",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Licitaciones.io",
+          "source_url": "https://licitaciones.io/licitacion/licitacion-de-diagnostico-sobre-percepcion-y-uso-del-espacio-publico-en-calp-f9b3698bdc25",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 8,
+        "evidence_count": 4,
+        "caveats": [
+          "No se ha localizado directamente, mediante los resultados consultados, el anuncio o los pliegos alojados en la Plataforma de Contratación del Sector Público; las fichas secundarias indican que proceden de esa plataforma.",
+          "La licitación acredita que el Ayuntamiento prepara o ha licitado el estudio, pero no demuestra que el diagnóstico ya se haya ejecutado ni que sus conclusiones estén disponibles.",
+          "Las distintas fichas de licitación son reproducciones de datos del expediente público y no deben contarse como varias coberturas periodísticas independientes."
         ]
       }
     }

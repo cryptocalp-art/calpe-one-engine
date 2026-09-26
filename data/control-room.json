@@ -2,24 +2,31 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-26T07:46:48.630Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-26T07:46:48.467Z",
+  "generated_at": "2026-09-26T13:08:52.808Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-09-26T13:08:52.642Z",
   "newspaper": {
-    "archive_total": 22,
-    "published_today": 10,
-    "published_last_7_days": 22,
+    "archive_total": 23,
+    "published_today": 11,
+    "published_last_7_days": 23,
     "categories": {
+      "CULTURA": 2,
       "TURISMO": 4,
       "MEDIO_AMBIENTE": 4,
       "ECONOMIA": 2,
       "LOCAL": 6,
       "SOCIEDAD": 3,
       "SUCESOS": 1,
-      "CULTURA": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_dfe28571be9524dc",
+        "title": "Calp programa 30 actividades para el Otoño Cultural 2026",
+        "category": "CULTURA",
+        "slug": "calp-programa-30-actividades-otono-cultural-2026",
+        "published_at": "2026-09-26T13:08:33.700Z"
+      },
       {
         "archive_id": "arc_1b13489d18f151c2",
         "title": "Calp recibe en Madrid el distintivo oficial de Fiesta de Interés Turístico Nacional para los Moros y Cristianos",
@@ -68,23 +75,16 @@
         "category": "SUCESOS",
         "slug": "calp-licita-test-saliva-policia-local",
         "published_at": "2026-09-25T22:24:03.996Z"
-      },
-      {
-        "archive_id": "arc_60739aeceb90078a",
-        "title": "Calp licita por 273.289 euros el renting de cinco vehículos municipales",
-        "category": "LOCAL",
-        "slug": "calp-licita-renting-cinco-vehiculos-municipales",
-        "published_at": "2026-09-25T22:24:03.996Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 10,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 3,
-    "quarantined": 0,
-    "archive_added": 3
+    "drafts": 2,
+    "eligible": 1,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -101,5 +101,15 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_44a9490c81ff11ae",
+      "slug": "calp-diagnostico-uso-percepcion-espacio-publico",
+      "category": "MEDIO_AMBIENTE",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-09-26T13:08:47.647Z"
+    }
+  ]
 }
