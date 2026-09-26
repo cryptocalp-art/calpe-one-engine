@@ -2,24 +2,52 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-26T13:08:52.808Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-09-26T13:08:52.642Z",
+  "generated_at": "2026-09-26T17:14:06.246Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-09-26T17:14:06.087Z",
   "newspaper": {
-    "archive_total": 23,
-    "published_today": 11,
-    "published_last_7_days": 23,
+    "archive_total": 27,
+    "published_today": 15,
+    "published_last_7_days": 27,
     "categories": {
-      "CULTURA": 2,
+      "SOCIEDAD": 4,
+      "ECONOMIA": 3,
+      "CULTURA": 3,
+      "MEDIO_AMBIENTE": 5,
       "TURISMO": 4,
-      "MEDIO_AMBIENTE": 4,
-      "ECONOMIA": 2,
       "LOCAL": 6,
-      "SOCIEDAD": 3,
       "SUCESOS": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_33dd3a4d471b16ff",
+        "title": "Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
+        "category": "SOCIEDAD",
+        "slug": "calp-esfuerzo-compra-vivienda-renta-familiar",
+        "published_at": "2026-09-26T17:13:24.782Z"
+      },
+      {
+        "archive_id": "arc_64966194731a3749",
+        "title": "La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
+        "category": "ECONOMIA",
+        "slug": "marina-alta-pierde-afiliaciones-agosto",
+        "published_at": "2026-09-26T17:13:24.782Z"
+      },
+      {
+        "archive_id": "arc_b165bf3368281ab8",
+        "title": "Calp programa una jornada especial por el 50 aniversario de los Moros y Cristianos",
+        "category": "CULTURA",
+        "slug": "calp-jornada-50-aniversario-moros-cristianos",
+        "published_at": "2026-09-26T17:13:24.782Z"
+      },
+      {
+        "archive_id": "arc_1da60b70c971a9b9",
+        "title": "Estimar Hotels prevé retirar 12 toneladas de plástico del Mediterráneo durante 2026",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "estimar-hotels-retirar-plastico-mediterraneo-2026",
+        "published_at": "2026-09-26T17:13:24.782Z"
+      },
       {
         "archive_id": "arc_dfe28571be9524dc",
         "title": "Calp programa 30 actividades para el Otoño Cultural 2026",
@@ -47,44 +75,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-control-calidad-ambiental-aguas-litorales-2025-2026",
         "published_at": "2026-09-26T07:46:19.201Z"
-      },
-      {
-        "archive_id": "arc_d516bac45dc35f83",
-        "title": "Calp destinó 300.000 euros a ayudas de hasta 4.000 euros para pymes y autónomos",
-        "category": "ECONOMIA",
-        "slug": "calp-ayudas-pymes-autonomos-gastos-energia-2026",
-        "published_at": "2026-09-26T01:37:16.999Z"
-      },
-      {
-        "archive_id": "arc_8031aaa3e6b91b49",
-        "title": "832 nadadores toman la salida en la XII Travesía a Nado Peñón de Ifach",
-        "category": "LOCAL",
-        "slug": "832-nadadores-travesia-penon-ifach-calp",
-        "published_at": "2026-09-25T22:35:24.377Z"
-      },
-      {
-        "archive_id": "arc_552c7b6f45a224ee",
-        "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
-        "category": "SOCIEDAD",
-        "slug": "calp-marcha-rosa-4-octubre-2026",
-        "published_at": "2026-09-25T22:35:24.377Z"
-      },
-      {
-        "archive_id": "arc_5084bb5a8af7e780",
-        "title": "Calp licita hasta 75 test de saliva para la Policía Local",
-        "category": "SUCESOS",
-        "slug": "calp-licita-test-saliva-policia-local",
-        "published_at": "2026-09-25T22:24:03.996Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 10,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 1,
-    "quarantined": 1,
-    "archive_added": 1
+    "drafts": 5,
+    "eligible": 5,
+    "quarantined": 0,
+    "archive_added": 4
   },
   "delivery": {
     "distribution_failed": 0,
@@ -101,15 +101,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_44a9490c81ff11ae",
-      "slug": "calp-diagnostico-uso-percepcion-espacio-publico",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-09-26T13:08:47.647Z"
-    }
-  ]
+  "quarantine": []
 }

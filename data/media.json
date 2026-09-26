@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-26T13:08:48.147Z",
+  "generated_at": "2026-09-26T17:13:50.560Z",
   "archive_version": "archive-v1",
-  "count": 23,
+  "count": 27,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,180 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 22,
+    "reused": 23,
     "licensed_selected": 0,
     "official_candidates_not_auto_published": 0,
-    "branded_fallbacks": 1
+    "branded_fallbacks": 4
   },
   "items": [
+    {
+      "media_id": "med_4f8ae6cb8e6df5d3",
+      "archive_id": "arc_33dd3a4d471b16ff",
+      "slug": "calp-esfuerzo-compra-vivienda-renta-familiar",
+      "title": "Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
+      "category": "SOCIEDAD",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_33dd3a4d471b16ff.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Plaza",
+          "source_page": "https://lamarina.eldiario.es/2026/09/19/xabia-es-el-municipio-de-toda-la-peninsula-donde-mas-cuesta-comprar-una-casa-exige-el-69-de-la-renta-familiar",
+          "image_url": "https://lamarina.eldiario.es/wp-content/uploads/2026/09/vista-xabia.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "El País",
+          "source_page": "https://elpais.com/economia/vivienda/2026-08-19/comprar-una-casa-se-pone-cada-vez-mas-dificil-para-quienes-viven-en-la-costa.html",
+          "image_url": "https://imagenes.elpais.com/resizer/v2/HHM6YYZFMNG3RER52JEOYW43BA.jpg?auth=91fd7c77be1633b74d7397985ada1b8912095f0466e1bfdab0c651aa1299b26d&width=1200",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T17:13:50.560Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_733381a2cf34e79c",
+      "archive_id": "arc_64966194731a3749",
+      "slug": "marina-alta-pierde-afiliaciones-agosto",
+      "title": "La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
+      "category": "ECONOMIA",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_64966194731a3749.svg",
+        "alt": "Imagen editorial de CALPE ONE para: La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Cadena SER Radio Dénia",
+          "source_page": "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia",
+          "image_url": "https://cadenaser.com/resizer/v2/QZZKOBYFORHDRD2REBLCPI65CE.jpg?auth=573dce4efcb8d24cb01997517d3f955268488e503e1bc19ecf2226599655e70f&quality=70&width=1200&height=675&smart=true",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "MarinaAlta.es - Dénia FM",
+          "source_page": "https://marinaalta.es/2026/09/agosto-frena-el-empleo-en-la-marina-alta-pierde-mas-de-1-000-afiliados-y-sube-el-paro/",
+          "image_url": "https://media.marinaalta.es/wp-content/uploads/2024/06/01173720/employment-and-hiring-for-work-2023-11-27-05-31-17-utc.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Observatori Marina Alta",
+          "source_page": "https://observatorimarinaalta.org/noticias/",
+          "image_url": "https://observatorimarinaalta.org/wp-content/uploads/2023/06/PNoticias-Ximo-DeniaDesdeMontgo.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T17:13:50.560Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_70c921e54b89bb71",
+      "archive_id": "arc_b165bf3368281ab8",
+      "slug": "calp-jornada-50-aniversario-moros-cristianos",
+      "title": "Calp programa una jornada especial por el 50 aniversario de los Moros y Cristianos",
+      "category": "CULTURA",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_b165bf3368281ab8.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Calp programa una jornada especial por el 50 aniversario de los Moros y Cristianos",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12319/calp-celebrara-el-26-de-septiembre-un-encuentro-especial-por-el-50-aniversario-de-los-moros-y-cristianos",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/2971_encuentro-50-aniversario-moros-y-cristianos-calp.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T17:13:50.560Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_b11b4b5c673b2fb1",
+      "archive_id": "arc_1da60b70c971a9b9",
+      "slug": "estimar-hotels-retirar-plastico-mediterraneo-2026",
+      "title": "Estimar Hotels prevé retirar 12 toneladas de plástico del Mediterráneo durante 2026",
+      "category": "MEDIO_AMBIENTE",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_1da60b70c971a9b9.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Estimar Hotels prevé retirar 12 toneladas de plástico del Mediterráneo durante 2026",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Calp Digital",
+          "source_page": "https://calpdigital.es/art/12328/estimar-hotels-alcanzara-cerca-30-toneladas-plastico-retiradas-mediterraneo-junto-gravity-wave",
+          "image_url": "https://calpdigital.es/upload/images/09_2026/3460_estimar-hotels-convenio-gravity-wave.jpeg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Gravity Wave",
+          "source_page": "https://www.thegravitywave.com/trazabilidad/",
+          "image_url": "https://www.thegravitywave.com/wp-content/uploads/2026/08/gw-logo-blanco.png",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-26T17:13:50.560Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_3a6c87d23f33d079",
       "archive_id": "arc_dfe28571be9524dc",
@@ -39,7 +207,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -72,7 +240,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -123,7 +291,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -156,7 +324,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -179,7 +347,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -212,7 +380,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -245,7 +413,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -278,7 +446,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -311,7 +479,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -362,7 +530,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -413,7 +581,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -455,7 +623,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -478,7 +646,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -520,7 +688,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -543,7 +711,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -585,7 +753,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -618,7 +786,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -651,7 +819,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -674,7 +842,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -707,7 +875,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -730,7 +898,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -753,7 +921,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     },
     {
@@ -786,7 +954,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-26T13:08:48.147Z",
+      "checked_at": "2026-09-26T17:13:50.560Z",
       "engine_version": "media-v1"
     }
   ]

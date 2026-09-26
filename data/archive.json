@@ -3,9 +3,239 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-26T13:08:47.979Z",
-  "count": 23,
+  "updated_at": "2026-09-26T17:13:50.394Z",
+  "count": 27,
   "articles": [
+    {
+      "archive_id": "arc_33dd3a4d471b16ff",
+      "external_id": "drf_b32d3ba20951bb0e",
+      "investigation_id": "inv_3bc09e352a274a9b",
+      "candidate_fingerprints": [
+        "b39fb9bdedd4d7d0f4a8acf9d0b80afcdd03aae7dbc652c4b36011c56c66a215"
+      ],
+      "title": "Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
+      "slug": "calp-esfuerzo-compra-vivienda-renta-familiar",
+      "summary": "El precio medio de la vivienda en Calp alcanzó los 2.830 euros por metro cuadrado en el primer trimestre de 2026, según los datos atribuidos al informe Vivienda en Costa 2026 de Tinsa by Accumin. La cifra supone un aumento interanual del 20,4% y un esfuerzo de compra estimado del 60% de la renta disponible familiar.",
+      "body": "Calp figura entre los municipios costeros de la Marina Alta con mayor dificultad de acceso a la vivienda, de acuerdo con los datos publicados sobre el informe Vivienda en Costa 2026 de Tinsa by Accumin. La tabla difundida sitúa el precio medio en el municipio en 2.830 euros por metro cuadrado durante el primer trimestre de 2026.\n\nEl valor representa un incremento interanual del 20,4%. El mismo análisis estima que la compra de una vivienda exige en Calp un esfuerzo equivalente al 60% de la renta disponible de una familia.\n\nEste indicador relaciona el pago correspondiente al primer año de una hipoteca con la renta disponible del hogar medio. Por tanto, el porcentaje describe el peso estimado de ese coste sobre los ingresos familiares, no una medición de la renta de cada hogar ni una previsión individualizada.\n\nLos datos sitúan a Calp entre los municipios de la Marina Alta con mayor dificultad de acceso a la vivienda dentro de la información analizada. El contexto general del informe y su metodología han sido corroborados por otra publicación, mientras que los valores concretos de Calp proceden de una tabla difundida por La Marina Plaza.\n\nNo se ha localizado una publicación directa de Tinsa que reproduzca específicamente la tabla municipal de Calp. Por ello, las cifras deben atribuirse a esa información secundaria y al informe del que procede, sin presentarlas como una auditoría independiente del dato local.",
+      "category": "SOCIEDAD",
+      "seo_title": "Calp: comprar vivienda exige el 60% de la renta familiar",
+      "meta_description": "El informe Vivienda en Costa 2026 sitúa en Calp el precio en 2.830 euros por m², con una subida del 20,4% y un esfuerzo del 60%.",
+      "sources": [
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/09/19/xabia-es-el-municipio-de-toda-la-peninsula-donde-mas-cuesta-comprar-una-casa-exige-el-69-de-la-renta-familiar",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "El País",
+          "url": "https://elpais.com/economia/vivienda/2026-08-19/comprar-una-casa-se-pone-cada-vez-mas-dificil-para-quienes-viven-en-la-costa.html",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarina.eldiario.es/2026/09/19/xabia-es-el-municipio-de-toda-la-peninsula-donde-mas-cuesta-comprar-una-casa-exige-el-69-de-la-renta-familiar",
+        "https://elpais.com/economia/vivienda/2026-08-19/comprar-una-casa-se-pone-cada-vez-mas-dificil-para-quienes-viven-en-la-costa.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 2,
+        "caveats": [
+          "No se localizó durante la búsqueda una publicación directa de Tinsa con la tabla específica de Calp; los valores concretos del municipio proceden de La Marina Plaza."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_091f2aa8293d2dc3",
+        "quality_gate_evaluated_at": "2026-09-26T17:13:50.074Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Los datos concretos de Calp proceden de una tabla publicada por La Marina Plaza; no se localizó la tabla municipal en una publicación directa de Tinsa."
+      ],
+      "published_at": "2026-09-26T17:13:24.782Z",
+      "updated_at": "2026-09-26T17:13:50.394Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
+    {
+      "archive_id": "arc_64966194731a3749",
+      "external_id": "drf_7676a7176c3e2467",
+      "investigation_id": "inv_8e7ae363f4d510f1",
+      "candidate_fingerprints": [
+        "69af414cf102d4584e81cada3dca446160664955f2764282877752858e7c7163"
+      ],
+      "title": "La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
+      "slug": "marina-alta-pierde-afiliaciones-agosto",
+      "summary": "La Marina Alta perdió 1.057 afiliaciones a la Seguridad Social en agosto de 2026 respecto a julio, aunque el volumen total, 70.242 afiliaciones, fue récord para un mes de agosto. La tasa estimada de paro se situó en el 9,39%, por debajo de la registrada en la provincia de Alicante y en la Comunitat Valenciana.",
+      "body": "La afiliación a la Seguridad Social en la Marina Alta descendió en agosto de 2026 en comparación con el mes anterior. La comarca perdió 1.057 afiliaciones y cerró el mes con 70.242, según los datos recogidos en el análisis del Observatori Marina Alta de CREAMA y PACTE’MA y difundidos por medios comarcales.\n\nPese a la caída mensual, el volumen de afiliación fue el más alto registrado para un mes de agosto. Los datos dibujan así una evolución desigual: descenso respecto a julio, pero mantenimiento de un máximo en la comparación con otros agostos.\n\nLa tasa estimada de paro de la comarca se situó en el 9,39%. Esta tasa quedó por debajo de las correspondientes a la provincia de Alicante y a la Comunitat Valenciana, según la información difundida sobre el análisis.\n\nLas cifras disponibles también detallan 7.282 personas desempleadas en agosto. Tanto los datos de afiliación como los de paro corresponden al conjunto de la Marina Alta y no permiten extraer una cifra específica para Calp.\n\nEl Observatori Marina Alta recogió una publicación sobre la pérdida de empleo en agosto y la evolución anual. Las informaciones periodísticas consultadas atribuyen a ese análisis comarcal los datos de afiliación y la tasa estimada de paro.",
+      "category": "ECONOMIA",
+      "seo_title": "La Marina Alta pierde 1.057 afiliaciones en agosto",
+      "meta_description": "La Marina Alta cerró agosto con 70.242 afiliaciones, 1.057 menos que en julio, pero con récord para ese mes y un paro estimado del 9,39%.",
+      "sources": [
+        {
+          "name": "Cadena SER Radio Dénia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "MarinaAlta.es - Dénia FM",
+          "url": "https://marinaalta.es/2026/09/agosto-frena-el-empleo-en-la-marina-alta-pierde-mas-de-1-000-afiliados-y-sube-el-paro/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Observatori Marina Alta",
+          "url": "https://observatorimarinaalta.org/noticias/",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia",
+        "https://marinaalta.es/2026/09/agosto-frena-el-empleo-en-la-marina-alta-pierde-mas-de-1-000-afiliados-y-sube-el-paro",
+        "https://observatorimarinaalta.org/noticias"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 3,
+        "caveats": [
+          "Las cifras son comarcales y no específicas de Calp."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_ddb6fc4c658aeaab",
+        "quality_gate_evaluated_at": "2026-09-26T17:13:50.074Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Las cifras son comarcales y no específicas de Calp.",
+        "La tasa de paro se presenta como estimada, tal y como figura en las fuentes."
+      ],
+      "published_at": "2026-09-26T17:13:24.782Z",
+      "updated_at": "2026-09-26T17:13:50.394Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
+    {
+      "archive_id": "arc_b165bf3368281ab8",
+      "external_id": "drf_d186bccbabec5cdb",
+      "investigation_id": "inv_b11eac2353874a93",
+      "candidate_fingerprints": [
+        "0f37fb89f4881c5aee8401639f78c7431599b9b23d9ff281f57f11ffdbd94715"
+      ],
+      "title": "Calp programa una jornada especial por el 50 aniversario de los Moros y Cristianos",
+      "slug": "calp-jornada-50-aniversario-moros-cristianos",
+      "summary": "Calp tenía programada para este sábado 26 de septiembre de 2026 una jornada especial con motivo del 50 aniversario de los Moros y Cristianos. El programa incluía un pasacalle, un concurso de arrancadas y cabos de escuadra a las 12:30 horas, además de almuerzo, comida y tardeo.",
+      "body": "La programación del 50 aniversario de los Moros y Cristianos de Calp incluía una jornada especial para el 26 de septiembre de 2026. El encuentro estaba concebido como una de las actividades conmemorativas del medio siglo de celebración de las fiestas.\n\nEl programa previsto contemplaba un almuerzo y, posteriormente, un pasacalle a las 11:30 horas. A partir de las 12:30 estaba anunciado el concurso de arrancadas y cabos de escuadra. La jornada también incluía una comida y un tardeo.\n\nLa celebración del aniversario forma parte de los actos especiales organizados durante 2026 y 2027 con motivo de los 50 años de las fiestas. El portal oficial de Moros y Cristianos de Calpe recoge el encuentro del aniversario y la información publicada sobre la jornada detalla sus principales actividades.\n\nLa evidencia disponible acredita principalmente la programación previa. Por ese motivo, no permite confirmar por sí sola el número de asistentes, el desarrollo efectivo de cada actividad ni la participación final en los actos.\n\nLa jornada estaba fechada para el 26 de septiembre, coincidiendo con la fecha de redacción de esta información. En consecuencia, el texto se refiere al programa anunciado y evita dar por verificadas circunstancias posteriores al momento de la publicación de las fuentes.",
+      "category": "CULTURA",
+      "seo_title": "Calp programa una jornada por el 50 aniversario festero",
+      "meta_description": "La jornada del 26 de septiembre por el 50 aniversario de los Moros y Cristianos de Calp incluye pasacalle, concurso, comida y tardeo.",
+      "sources": [
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12319/calp-celebrara-el-26-de-septiembre-un-encuentro-especial-por-el-50-aniversario-de-los-moros-y-cristianos",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Portal oficial de Moros y Cristianos de Calpe",
+          "url": "https://morosycristianos.calpe.es/actualidad/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/node/35513",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://calpdigital.es/art/12319/calp-celebrara-el-26-de-septiembre-un-encuentro-especial-por-el-50-aniversario-de-los-moros-y-cristianos",
+        "https://morosycristianos.calpe.es/actualidad",
+        "https://noticias.calp.es/es/node/35513"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La evidencia acredita principalmente la programación previa; no verifica por sí sola la asistencia, el desarrollo efectivo o la participación final en los actos."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_b5ab1de3051791d7",
+        "quality_gate_evaluated_at": "2026-09-26T17:13:50.074Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La evidencia disponible acredita la programación previa, pero no verifica asistencia, desarrollo efectivo ni participación final.",
+        "Debe mantenerse el tiempo verbal de previsión o programación si se publica antes de confirmar el desarrollo de los actos."
+      ],
+      "published_at": "2026-09-26T17:13:24.782Z",
+      "updated_at": "2026-09-26T17:13:50.394Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
+    {
+      "archive_id": "arc_1da60b70c971a9b9",
+      "external_id": "drf_928e311291cc75f8",
+      "investigation_id": "inv_3a0f42f508175844",
+      "candidate_fingerprints": [
+        "d322656f60ba0bdf9ffbf5b2ad1efa07cf083572cbb5ba8826f30e185c75c4e3"
+      ],
+      "title": "Estimar Hotels prevé retirar 12 toneladas de plástico del Mediterráneo durante 2026",
+      "slug": "estimar-hotels-retirar-plastico-mediterraneo-2026",
+      "summary": "Estimar Hotels y Gravity Wave han renovado su colaboración medioambiental con el objetivo de retirar otras 12 toneladas de residuos plásticos durante 2026. Si se cumple la previsión, el acumulado desde el inicio del acuerdo en 2022 se acercará a las 30 toneladas.",
+      "body": "Estimar Hotels y Gravity Wave han renovado su colaboración para la retirada de residuos plásticos del Mediterráneo. El acuerdo prevé recuperar otras 12 toneladas durante 2026 y alcanzar un acumulado cercano a las 30 toneladas desde el comienzo de la colaboración, en 2022.\n\nLa iniciativa vincula las reservas directas realizadas en los establecimientos de Estimar Hotels con la retirada de un kilogramo de plástico por reserva. La empresa también prevé incorporar en sus establecimientos objetos fabricados con plástico reciclado.\n\nLa colaboración se apoya en actividades de retirada y pesaje de residuos marinos documentadas por Gravity Wave en el entorno de Calp. La información publicada por Estimar Hotels confirma asimismo el compromiso de retirar un kilogramo de plástico por estancia reservada directamente y el objetivo de cerrar 2026 con 30 toneladas recuperadas desde el inicio del proyecto.\n\nLas 12 toneladas corresponden a un objetivo para el conjunto de 2026, no a una cantidad ya retirada y auditada. Del mismo modo, la cifra de cerca de 30 toneladas es acumulada desde 2022 y no representa exclusivamente residuos recuperados durante este año.\n\nPor tanto, la previsión describe el objetivo de la colaboración y su mecanismo de vinculación con las reservas directas, sin permitir afirmar todavía que se haya alcanzado la cantidad anunciada para 2026.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Estimar prevé retirar 12 toneladas de plástico en 2026",
+      "meta_description": "Estimar Hotels y Gravity Wave prevén retirar 12 toneladas de plástico en 2026 y acercar a 30 toneladas el acumulado desde 2022.",
+      "sources": [
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12328/estimar-hotels-alcanzara-cerca-30-toneladas-plastico-retiradas-mediterraneo-junto-gravity-wave",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Estimar Hotels",
+          "url": "https://es.linkedin.com/posts/estimar-hotels_estimarhotels_yaeshora_loqueimporta-activity-7509145297307234304-nfQu",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Gravity Wave",
+          "url": "https://www.thegravitywave.com/trazabilidad/",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://calpdigital.es/art/12328/estimar-hotels-alcanzara-cerca-30-toneladas-plastico-retiradas-mediterraneo-junto-gravity-wave",
+        "https://es.linkedin.com/posts/estimar-hotels_estimarhotels_yaeshora_loqueimporta-activity-7509145297307234304-nfQu",
+        "https://www.thegravitywave.com/trazabilidad"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "El objetivo de 12 toneladas para 2026 es una previsión de la colaboración, no una cantidad ya retirada y auditada.",
+          "La cifra de cerca de 30 toneladas es acumulada desde 2022, no una retirada exclusivamente realizada en 2026."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_bf015b3fb839b51b",
+        "quality_gate_evaluated_at": "2026-09-26T17:13:50.074Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Las 12 toneladas son una previsión, no una cantidad ya retirada y auditada.",
+        "Las cerca de 30 toneladas corresponden al acumulado desde 2022, no solo a 2026."
+      ],
+      "published_at": "2026-09-26T17:13:24.782Z",
+      "updated_at": "2026-09-26T17:13:50.394Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_dfe28571be9524dc",
       "external_id": "drf_ef2cc724a319353e",
@@ -869,7 +1099,8 @@
       "investigation_id": "inv_f1fb70d120479fcb",
       "candidate_fingerprints": [
         "031bd6139a6dbf97baed005bc2d43b1e2aa2a8979440585d85eca0a70c9aa912",
-        "1c4b6a990e66af7dab4afd68d9402dc3a4e99bd727ae5103f03cd28ea7b912fa"
+        "1c4b6a990e66af7dab4afd68d9402dc3a4e99bd727ae5103f03cd28ea7b912fa",
+        "975a0654fd3338e8ce8c118918bb26fce094dec15f9a27ae5c364d4911d80272"
       ],
       "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
@@ -894,7 +1125,8 @@
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
         "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
         "https://www.calp.es/es/aggregator/sources/2",
-        "https://lamarina.eldiario.es/ca/2026/09/25/mes-maquinaria-mes-personal-i-temporades-mes-llargues-el-nou-pla-de-calp-per-a-la-neteja-de-la-costa"
+        "https://lamarina.eldiario.es/ca/2026/09/25/mes-maquinaria-mes-personal-i-temporades-mes-llargues-el-nou-pla-de-calp-per-a-la-neteja-de-la-costa",
+        "https://calp.es/en/aggregator"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -909,7 +1141,7 @@
         "La cifra utilizada es la inversión anual comunicada por el Ayuntamiento; el registro de contratación diferencia entre oferta adjudicada e importe total del contrato."
       ],
       "published_at": "2026-09-25T19:04:08.736Z",
-      "updated_at": "2026-09-26T01:37:31.235Z",
+      "updated_at": "2026-09-26T17:13:50.394Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
