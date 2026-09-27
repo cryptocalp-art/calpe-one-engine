@@ -1,119 +1,173 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-27T01:29:13.207Z",
+  "generated_at": "2026-09-27T08:13:32.203Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "bc0ec7f68c65df39273373a7e24559412f41174e45b42265a2cc6c8e633655cd",
-      "title": "El final del verano reduce el empleo en la Marina Alta, aunque la comarca mantiene su mejor agosto de la serie",
+      "candidate_fingerprint": "29ac796be35aa866174463e92680258479e98623095ee79feb14a390fcb44bb4",
+      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales con maquinaria",
       "status": "VERIFIED",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "Los datos esenciales están respaldados por el Observatori Marina Alta, organismo que elabora el análisis laboral comarcal, y por una corroboración periodística independiente. En agosto de 2026 la Marina Alta registró 70.242 afiliaciones a la Seguridad Social, 1.057 menos que en julio, y 7.282 personas desempleadas, 77 más que el mes anterior. El nivel de afiliación fue el más alto para un mes de agosto de la serie histórica y el paro quedó por debajo del de agosto de 2025.",
+      "summary": "La información queda respaldada por la noticia publicada por Calp Digital y por los datos de la licitación pública del expediente SUM 48/2026-AOR. El importe de 176.000 euros corresponde al presupuesto máximo considerando 24 meses iniciales y una prórroga de otros 24 meses; no implica que el Ayuntamiento deba gastar o comprar esa cantidad completa.",
       "claims": [
         {
-          "claim": "La Marina Alta cerró agosto de 2026 con 70.242 afiliaciones a la Seguridad Social.",
+          "claim": "El Ayuntamiento de Calp prepara un contrato para suministrar maquinaria a las brigadas de Calidad Urbana, Parques y Jardines y Vías Públicas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La comarca perdió 1.057 afiliaciones respecto a julio, un 1,48%.",
+          "claim": "El presupuesto inicial del contrato es de 88.000 euros para 24 meses y puede alcanzar 176.000 euros con una prórroga de otros 24 meses.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El paro registrado aumentó en 77 personas, hasta 7.282 desempleados.",
+          "claim": "El contrato incluye maquinaria agrícola, herramientas mecánicas y máquinas para trabajos municipales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Agosto de 2026 fue el mejor agosto de la serie histórica en volumen de afiliación.",
+          "claim": "La empresa adjudicataria deberá prestar atención permanente y suministrar equipos en un máximo de 60 minutos cuando exista una necesidad urgente.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La comarca mantuvo más afiliaciones y menos desempleo que un año antes.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El ajuste está relacionado con el final de la temporada estival.",
+          "claim": "El Ayuntamiento no está obligado a consumir todo el presupuesto ni a adquirir una cantidad mínima de maquinaria.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Observatori Marina Alta — CREAMA y PACTE’MA",
-          "source_url": "https://observatorimarinaalta.org/mercado-trabajo-mes-agosto-2026-situacion-laboral-marina-alta/",
-          "evidence": "El análisis oficial del mercado laboral de agosto de 2026 cifra las afiliaciones en 70.242, 1.057 menos que en julio; sitúa el paro registrado en 7.282 personas, tras aumentar en 77; y afirma que se trata del mayor volumen de empleo para un mes de agosto de la serie histórica y del nivel de paro más bajo para agosto desde 2007. También registra 3.333 afiliaciones más y 184 personas desempleadas menos que en agosto de 2025.",
-          "source_type": "PRIMARY"
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12290/calp-reserva-176000-euros-para-equipar-sus-brigadas-con-maquinaria-y-atender-necesidades-urgentes",
+          "evidence": "Describe el contrato municipal, el presupuesto de 88.000 euros para los dos primeros años, la posible prórroga de 24 meses hasta 176.000 euros, la maquinaria prevista y la obligación de respuesta urgente en un máximo de 60 minutos.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER — Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia/",
-          "evidence": "La información periodística independiente reproduce las cifras de 70.242 afiliaciones, una caída mensual de 1.057 y 7.282 personas desempleadas, y señala que el paro de agosto fue el más bajo desde 2007. Presenta el retroceso como un efecto del final de la temporada alta de verano.",
+          "source_name": "Alicitar, ficha de licitación del expediente SUM 48/2026-AOR",
+          "source_url": "https://www.alicitar.es/licitacion/17127943/suministro-de-maquinaria-agricola-y-maquinas-para-los-trabajos-de-las-brigadas-m",
+          "evidence": "Identifica la licitación del Ayuntamiento de Calp para el suministro de maquinaria de sus brigadas, con expediente SUM 48/2026-AOR, presupuesto de 88.000 euros con IVA, duración inicial de 24 meses y posibilidad de prórroga de otros 24 meses.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La afirmación sobre el final del verano es una interpretación contextual coherente con el informe, no una medición causal independiente.",
-        "La serie histórica y las comparaciones interanuales proceden del Observatori Marina Alta; no se ha localizado en esta búsqueda una tabla estadística estatal desglosada que permita replicar toda la serie."
+        "La fuente independiente localizada es una ficha de licitación que reproduce datos del expediente público, no el documento primario directamente enlazado desde la Plataforma de Contratación del Sector Público.",
+        "Los 176.000 euros son un importe máximo asociado a la duración total prevista, no necesariamente un gasto ejecutado."
       ],
-      "id": "inv_d286a84545d1a846",
-      "investigated_at": "2026-09-27T01:29:13.207Z",
+      "id": "inv_d5b3f3b843c0bbf6",
+      "investigated_at": "2026-09-27T08:13:32.203Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "628931753380b7dbc0d8a9881330d391900d39c3fd1f0a05ef7360d72aa1bd65",
-      "title": "La presión de la demanda extranjera sitúa a Calp y Moraira entre los municipios con mayor interés por el alquiler",
+      "candidate_fingerprint": "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954",
+      "title": "Calp convoca 275.000 euros en ayudas para clubes y promoción deportiva",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El análisis original de idealista/data y una corroboración independiente de Cadena SER respaldan que, durante el primer trimestre de 2026, las búsquedas de alquiler procedentes del extranjero representaron el 53% de la demanda registrada en Calp y el 52% en Moraira. Idealista sitúa ambos destinos entre los municipios españoles con mayor peso de demanda internacional. La métrica mide búsquedas en el portal, no contratos firmados ni el número total de extranjeros que alquilan.",
+      "summary": "La convocatoria está confirmada por el Ayuntamiento de Calp y por medios independientes. La distribución indicada —245.000 euros para deporte base y competición, 25.000 euros para eventos y 5.000 euros para pilota valenciana y colombicultura— coincide con la información oficial.",
       "claims": [
         {
-          "claim": "En Calp, el 53% de las búsquedas de alquiler registradas procedieron del extranjero.",
+          "claim": "El Ayuntamiento de Calp convocó ayudas a la promoción del deporte para la temporada 2025-2026 por un total de 275.000 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "En Moraira, el 52% de las búsquedas de alquiler registradas procedieron del extranjero.",
+          "claim": "La línea de deporte base y participación en competiciones dispone de 245.000 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Calp y Moraira se situaron entre los municipios españoles con mayor peso de demanda internacional de alquiler.",
+          "claim": "La línea para organización de eventos deportivos dispone de 25.000 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los datos corresponden al primer trimestre de 2026.",
+          "claim": "Existe una línea de 5.000 euros para pilota valenciana y colombicultura.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Alicante lideró, junto con Baleares, el ranking provincial con un 26% de demanda internacional.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La métrica refleja búsquedas realizadas desde el extranjero en idealista y no contratos de alquiler formalizados.",
+          "claim": "El plazo de solicitud fue del 4 al 17 de septiembre de 2026, ambos inclusive.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "idealista/data — idealista/news",
-          "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/09/14/905276-la-demanda-extranjera-para-alquilar-abraza-el-topico-sol-y-playa-con-alicante",
-          "evidence": "El análisis de idealista/data sobre el primer trimestre de 2026 indica que la demanda internacional representa el 53% de las búsquedas de alquiler en Calpe y el 52% en Moraira. Sitúa a Calpe y Moraira por encima del 50% y entre los principales municipios españoles en este indicador; también cifra en el 26% la demanda internacional de alquiler en la provincia de Alicante.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+          "evidence": "La convocatoria oficial fija un total de 275.000 euros para la temporada 2025-2026 y desglosa las tres líneas en 245.000, 25.000 y 5.000 euros. También indica el periodo de solicitud del 4 al 17 de septiembre de 2026.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Cadena SER — Radio Alicante",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/14/la-provincia-de-alicante-lidera-la-demanda-extranjera-de-alquiler-con-un-26-de-busquedas-radio-alicante/",
-          "evidence": "La cobertura independiente confirma los porcentajes del 53% para Calpe y del 52% para Moraira, así como el 26% de demanda internacional en la provincia de Alicante. Identifica la fuente como un análisis de Idealista difundido en septiembre de 2026.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
+          "evidence": "Informa de la apertura de la convocatoria municipal por 275.000 euros para la temporada 2025-2026 y confirma el plazo de diez días hábiles tras la publicación en el BOP.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/sec/deportes",
+          "evidence": "Su sección deportiva recoge la convocatoria de 275.000 euros y señala que se distribuye entre deporte base, eventos deportivos y deportes autóctonos como la pilota valenciana y la colombicultura.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El término “presión de la demanda” puede resultar ambiguo: el estudio mide el origen geográfico de las búsquedas en idealista, no la presión sobre la oferta disponible ni el número de contratos firmados.",
-        "Moraira es una localidad perteneciente al municipio de Teulada; la fuente de idealista la presenta como localidad y no como municipio independiente.",
-        "Los porcentajes describen la actividad registrada en el portal de idealista durante el primer trimestre de 2026 y no necesariamente todo el mercado de alquiler de Calp o Moraira."
+        "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
+        "La evidencia confirma la convocatoria y su dotación, no la cantidad finalmente concedida o pagada a cada club."
       ],
-      "id": "inv_065c085b37f8ce8f",
-      "investigated_at": "2026-09-27T01:29:13.207Z",
+      "id": "inv_387d8e9e862674e3",
+      "investigated_at": "2026-09-27T08:13:32.203Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d",
+      "title": "Más de 3.400 alumnos comienzan el curso en Calp con obras pendientes en el CEE Gargasindi",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La noticia está confirmada por una comunicación oficial del Ayuntamiento de Calp y por una información independiente de La Marina Alta. Ambas fuentes coinciden en la cifra de 3.467 alumnos, los ocho centros educativos y el traslado provisional del alumnado del CEE Gargasindi al CEIP Oltà mientras finalizan las obras.",
+      "claims": [
+        {
+          "claim": "3.467 alumnos comenzaron el curso 2026-2027 en Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El alumnado está distribuido entre ocho centros educativos del municipio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El CEE Gargasindi inició el curso provisionalmente en las instalaciones del CEIP Oltà porque las obras no habían terminado.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las obras del CEE Gargasindi estaban previstas para finalizar en las semanas siguientes al inicio del curso.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El CEE Gargasindi cuenta con 53 alumnos distribuidos entre sus distintas etapas y programas.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
+          "evidence": "El comunicado oficial del 9 de septiembre de 2026 cifra en 3.467 los alumnos del curso 2026-2027, repartidos en ocho centros. Explica que el alumnado del CEE Gargasindi comenzó provisionalmente en el CEIP Oltà por no haber concluido las obras y cifra en 53 sus estudiantes.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
+          "evidence": "Confirma la cifra de 3.467 alumnos, los ocho centros y el traslado provisional del alumnado del CEE Gargasindi al CEIP Oltà. También señala que la finalización de los trabajos estaba prevista para las semanas siguientes.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/",
+          "evidence": "Ofrece el desglose de alumnado por centros y confirma que el CEE Gargasindi cuenta con 53 estudiantes y comenzó temporalmente en las instalaciones del CEIP Oltà por el retraso de las obras.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La información acredita la situación al inicio del curso, el 9 de septiembre de 2026; no confirma si las obras ya habían terminado a fecha de esta investigación.",
+        "La cifra de 3.467 alumnos corresponde a los datos de inicio de curso y puede variar posteriormente por nuevas matrículas."
+      ],
+      "id": "inv_eed5f7ed5c15ba90",
+      "investigated_at": "2026-09-27T08:13:32.203Z",
       "model": "gpt-5.6-luna"
     }
   ]

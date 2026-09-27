@@ -3,9 +3,129 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-27T01:29:48.350Z",
-  "count": 28,
+  "updated_at": "2026-09-27T08:14:11.775Z",
+  "count": 30,
   "articles": [
+    {
+      "archive_id": "arc_4fbbe0f672fc8c62",
+      "external_id": "drf_e99c4f643e4e1bb2",
+      "investigation_id": "inv_387d8e9e862674e3",
+      "candidate_fingerprints": [
+        "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954"
+      ],
+      "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte",
+      "slug": "calp-convoca-275000-euros-ayudas-promocion-deporte",
+      "summary": "El Ayuntamiento de Calp convocó ayudas a la promoción del deporte por un importe total de 275.000 euros para la temporada 2025-2026. La convocatoria distribuye los fondos entre el deporte base y la participación en competiciones, la organización de eventos deportivos y dos modalidades deportivas específicas.",
+      "body": "La principal línea de la convocatoria cuenta con 245.000 euros y está destinada al deporte base y a la participación en competiciones. A esta partida se suman 25.000 euros para la organización de eventos deportivos.\n\nLa convocatoria reserva además 5.000 euros para pilota valenciana y colombicultura. La suma de las tres líneas alcanza los 275.000 euros anunciados por el Ayuntamiento.\n\nEl plazo de solicitud permaneció abierto del 4 al 17 de septiembre de 2026, ambos días inclusive. La convocatoria se refiere a la temporada deportiva 2025-2026, aunque su publicación y periodo de solicitud se sitúan en septiembre de 2026.\n\nLa distribución fija el importe global y la dotación de cada línea, pero la información disponible no acredita cuánto recibirá finalmente cada club ni qué cantidad será finalmente concedida o pagada. Por tanto, los 275.000 euros corresponden a la convocatoria de ayudas y no a una cuantía ya abonada a las entidades deportivas.\n\nLa convocatoria está respaldada por la comunicación oficial del Ayuntamiento de Calp y por informaciones independientes que confirman tanto el importe total como el desglose de las líneas. El expediente disponible no aporta en esta fase el resultado final de la concesión.",
+      "category": "DEPORTES",
+      "seo_title": "Calp convoca 275.000 euros en ayudas al deporte",
+      "meta_description": "El Ayuntamiento de Calp convoca 275.000 euros para la promoción deportiva de la temporada 2025-2026, con tres líneas de ayudas.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Alta",
+          "url": "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/sec/deportes",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+        "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion",
+        "https://calpdigital.es/sec/deportes"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
+          "La evidencia confirma la convocatoria y su dotación, no la cantidad finalmente concedida o pagada a cada club."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_67a558a622acd1f2",
+        "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
+        "La evidencia confirma la dotación convocada, no las cantidades finalmente concedidas o pagadas a cada club."
+      ],
+      "published_at": "2026-09-27T08:13:58.098Z",
+      "updated_at": "2026-09-27T08:14:11.775Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
+    {
+      "archive_id": "arc_760df5db6daffa60",
+      "external_id": "drf_ab43f1a699f693f1",
+      "investigation_id": "inv_eed5f7ed5c15ba90",
+      "candidate_fingerprints": [
+        "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d"
+      ],
+      "title": "3.467 alumnos comienzan el curso en Calp mientras el CEE Gargasindi sigue en instalaciones provisionales",
+      "slug": "calp-3467-alumnos-curso-cee-gargasindi-obras",
+      "summary": "Un total de 3.467 alumnos comenzó el curso escolar 2026-2027 en Calp, repartido entre ocho centros educativos del municipio. El alumnado del CEE Gargasindi inició las clases de forma provisional en las instalaciones del CEIP Oltà, ya que las obras del centro no habían concluido al comienzo del curso.",
+      "body": "El CEE Gargasindi cuenta con 53 alumnos distribuidos entre sus distintas etapas y programas. Mientras finalizaron los trabajos en sus instalaciones, este alumnado comenzó temporalmente la actividad lectiva en el CEIP Oltà.\n\nLa previsión comunicada al inicio del curso situaba la finalización de las obras en las semanas siguientes al comienzo de las clases. La información disponible acredita la situación registrada el 9 de septiembre de 2026, fecha de inicio del curso, pero no confirma si los trabajos ya han terminado posteriormente.\n\nEl conjunto del alumnado escolarizado en Calp para el curso 2026-2027 asciende a 3.467 estudiantes, distribuidos entre ocho centros educativos. Esta cifra corresponde a los datos de inicio de curso y puede variar con posterioridad por la incorporación de nuevas matrículas.\n\nEl traslado provisional del CEE Gargasindi al CEIP Oltà constituye la principal novedad señalada en la información sobre el arranque del curso. La documentación consultada confirma tanto la causa del traslado —la falta de finalización de las obras— como la previsión temporal comunicada para completar los trabajos, pero no aporta una confirmación posterior sobre la recuperación de las instalaciones del centro.",
+      "category": "SOCIEDAD",
+      "seo_title": "3.467 alumnos inician el curso en Calp con el CEE Gargasindi en obras",
+      "meta_description": "3.467 alumnos comienzan el curso 2026-2027 en Calp. Los 53 estudiantes del CEE Gargasindi empiezan provisionalmente en el CEIP Oltà.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Alta",
+          "url": "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Alta",
+          "url": "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
+        "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi",
+        "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La información acredita la situación al inicio del curso, el 9 de septiembre de 2026; no confirma si las obras ya habían terminado a fecha de esta investigación.",
+          "La cifra de 3.467 alumnos corresponde a los datos de inicio de curso y puede variar posteriormente por nuevas matrículas."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_8ed874eb90de4250",
+        "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La situación descrita corresponde al inicio del curso, el 9 de septiembre de 2026; no se confirma si las obras han terminado después.",
+        "La cifra de 3.467 alumnos corresponde al comienzo del curso y puede variar por nuevas matrículas."
+      ],
+      "published_at": "2026-09-27T08:13:58.098Z",
+      "updated_at": "2026-09-27T08:14:11.775Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_c211d27b865a3bea",
       "external_id": "drf_1199de93f67ea0dd",
