@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-26T22:53:45.124Z",
+  "generated_at": "2026-09-27T01:29:54.344Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-26T22:53:45.011Z",
+  "last_activity": "2026-09-27T01:29:54.182Z",
   "newspaper": {
-    "archive_total": 27,
-    "published_today": 0,
-    "published_last_7_days": 27,
+    "archive_total": 28,
+    "published_today": 1,
+    "published_last_7_days": 28,
     "categories": {
+      "ECONOMIA": 4,
       "SOCIEDAD": 4,
-      "ECONOMIA": 3,
       "CULTURA": 3,
       "MEDIO_AMBIENTE": 5,
       "TURISMO": 4,
@@ -20,6 +20,13 @@
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_c211d27b865a3bea",
+        "title": "El 53% de las búsquedas de alquiler en Calp durante el primer trimestre procedió del extranjero",
+        "category": "ECONOMIA",
+        "slug": "busquedas-alquiler-extranjero-calp-primer-trimestre-2026",
+        "published_at": "2026-09-27T01:29:35.126Z"
+      },
       {
         "archive_id": "arc_33dd3a4d471b16ff",
         "title": "Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
@@ -68,23 +75,16 @@
         "category": "TURISMO",
         "slug": "linea-9-tram-calp-desplazamientos-agosto-2026",
         "published_at": "2026-09-26T07:46:19.201Z"
-      },
-      {
-        "archive_id": "arc_b6f40e5f58d26df4",
-        "title": "Las cuatro estaciones de control litoral de Calp presentan un estado ambiental óptimo en el último ciclo anual",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-control-calidad-ambiental-aguas-litorales-2025-2026",
-        "published_at": "2026-09-26T07:46:19.201Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

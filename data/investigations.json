@@ -1,8 +1,120 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-26T22:53:42.276Z",
+  "generated_at": "2026-09-27T01:29:13.207Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 2,
+  "investigations": [
+    {
+      "candidate_fingerprint": "bc0ec7f68c65df39273373a7e24559412f41174e45b42265a2cc6c8e633655cd",
+      "title": "El final del verano reduce el empleo en la Marina Alta, aunque la comarca mantiene su mejor agosto de la serie",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "Los datos esenciales están respaldados por el Observatori Marina Alta, organismo que elabora el análisis laboral comarcal, y por una corroboración periodística independiente. En agosto de 2026 la Marina Alta registró 70.242 afiliaciones a la Seguridad Social, 1.057 menos que en julio, y 7.282 personas desempleadas, 77 más que el mes anterior. El nivel de afiliación fue el más alto para un mes de agosto de la serie histórica y el paro quedó por debajo del de agosto de 2025.",
+      "claims": [
+        {
+          "claim": "La Marina Alta cerró agosto de 2026 con 70.242 afiliaciones a la Seguridad Social.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La comarca perdió 1.057 afiliaciones respecto a julio, un 1,48%.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El paro registrado aumentó en 77 personas, hasta 7.282 desempleados.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Agosto de 2026 fue el mejor agosto de la serie histórica en volumen de afiliación.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La comarca mantuvo más afiliaciones y menos desempleo que un año antes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El ajuste está relacionado con el final de la temporada estival.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Observatori Marina Alta — CREAMA y PACTE’MA",
+          "source_url": "https://observatorimarinaalta.org/mercado-trabajo-mes-agosto-2026-situacion-laboral-marina-alta/",
+          "evidence": "El análisis oficial del mercado laboral de agosto de 2026 cifra las afiliaciones en 70.242, 1.057 menos que en julio; sitúa el paro registrado en 7.282 personas, tras aumentar en 77; y afirma que se trata del mayor volumen de empleo para un mes de agosto de la serie histórica y del nivel de paro más bajo para agosto desde 2007. También registra 3.333 afiliaciones más y 184 personas desempleadas menos que en agosto de 2025.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER — Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia/",
+          "evidence": "La información periodística independiente reproduce las cifras de 70.242 afiliaciones, una caída mensual de 1.057 y 7.282 personas desempleadas, y señala que el paro de agosto fue el más bajo desde 2007. Presenta el retroceso como un efecto del final de la temporada alta de verano.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La afirmación sobre el final del verano es una interpretación contextual coherente con el informe, no una medición causal independiente.",
+        "La serie histórica y las comparaciones interanuales proceden del Observatori Marina Alta; no se ha localizado en esta búsqueda una tabla estadística estatal desglosada que permita replicar toda la serie."
+      ],
+      "id": "inv_d286a84545d1a846",
+      "investigated_at": "2026-09-27T01:29:13.207Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "628931753380b7dbc0d8a9881330d391900d39c3fd1f0a05ef7360d72aa1bd65",
+      "title": "La presión de la demanda extranjera sitúa a Calp y Moraira entre los municipios con mayor interés por el alquiler",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El análisis original de idealista/data y una corroboración independiente de Cadena SER respaldan que, durante el primer trimestre de 2026, las búsquedas de alquiler procedentes del extranjero representaron el 53% de la demanda registrada en Calp y el 52% en Moraira. Idealista sitúa ambos destinos entre los municipios españoles con mayor peso de demanda internacional. La métrica mide búsquedas en el portal, no contratos firmados ni el número total de extranjeros que alquilan.",
+      "claims": [
+        {
+          "claim": "En Calp, el 53% de las búsquedas de alquiler registradas procedieron del extranjero.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "En Moraira, el 52% de las búsquedas de alquiler registradas procedieron del extranjero.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Calp y Moraira se situaron entre los municipios españoles con mayor peso de demanda internacional de alquiler.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los datos corresponden al primer trimestre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Alicante lideró, junto con Baleares, el ranking provincial con un 26% de demanda internacional.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La métrica refleja búsquedas realizadas desde el extranjero en idealista y no contratos de alquiler formalizados.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "idealista/data — idealista/news",
+          "source_url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/09/14/905276-la-demanda-extranjera-para-alquilar-abraza-el-topico-sol-y-playa-con-alicante",
+          "evidence": "El análisis de idealista/data sobre el primer trimestre de 2026 indica que la demanda internacional representa el 53% de las búsquedas de alquiler en Calpe y el 52% en Moraira. Sitúa a Calpe y Moraira por encima del 50% y entre los principales municipios españoles en este indicador; también cifra en el 26% la demanda internacional de alquiler en la provincia de Alicante.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER — Radio Alicante",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/14/la-provincia-de-alicante-lidera-la-demanda-extranjera-de-alquiler-con-un-26-de-busquedas-radio-alicante/",
+          "evidence": "La cobertura independiente confirma los porcentajes del 53% para Calpe y del 52% para Moraira, así como el 26% de demanda internacional en la provincia de Alicante. Identifica la fuente como un análisis de Idealista difundido en septiembre de 2026.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "El término “presión de la demanda” puede resultar ambiguo: el estudio mide el origen geográfico de las búsquedas en idealista, no la presión sobre la oferta disponible ni el número de contratos firmados.",
+        "Moraira es una localidad perteneciente al municipio de Teulada; la fuente de idealista la presenta como localidad y no como municipio independiente.",
+        "Los porcentajes describen la actividad registrada en el portal de idealista durante el primer trimestre de 2026 y no necesariamente todo el mercado de alquiler de Calp o Moraira."
+      ],
+      "id": "inv_065c085b37f8ce8f",
+      "investigated_at": "2026-09-27T01:29:13.207Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }

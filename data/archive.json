@@ -3,9 +3,65 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-26T17:13:50.394Z",
-  "count": 27,
+  "updated_at": "2026-09-27T01:29:48.350Z",
+  "count": 28,
   "articles": [
+    {
+      "archive_id": "arc_c211d27b865a3bea",
+      "external_id": "drf_1199de93f67ea0dd",
+      "investigation_id": "inv_065c085b37f8ce8f",
+      "candidate_fingerprints": [
+        "628931753380b7dbc0d8a9881330d391900d39c3fd1f0a05ef7360d72aa1bd65"
+      ],
+      "title": "El 53% de las búsquedas de alquiler en Calp durante el primer trimestre procedió del extranjero",
+      "slug": "busquedas-alquiler-extranjero-calp-primer-trimestre-2026",
+      "summary": "Las búsquedas de alquiler realizadas desde el extranjero representaron el 53% de la demanda registrada en Calp durante el primer trimestre de 2026, según un análisis de idealista/data. En Moraira, el porcentaje alcanzó el 52%. La métrica se refiere a la actividad del portal y no equivale a contratos formalizados.",
+      "body": "El **53% de las búsquedas de alquiler registradas en Calp** durante el primer trimestre de 2026 procedió del extranjero, según un análisis de idealista/data. El estudio sitúa a Calp entre los municipios españoles con mayor peso de demanda internacional en este indicador.\n\nEn Moraira, el porcentaje fue del **52%**. La localidad aparece también entre los principales destinos españoles por proporción de búsquedas internacionales de alquiler. La fuente presenta ambos datos como parte de un análisis sobre el interés extranjero por el alquiler en destinos asociados al litoral.\n\nLa provincia de Alicante registró un **26% de demanda internacional** en el conjunto del indicador analizado y lideró, junto con Baleares, el ranking provincial citado en el estudio.\n\nLos porcentajes no miden el número total de personas extranjeras que alquilan una vivienda ni la cantidad de contratos firmados. Reflejan el origen geográfico de las búsquedas realizadas en idealista durante los tres primeros meses de 2026. Por tanto, describen la actividad registrada en ese portal y no necesariamente el conjunto del mercado de alquiler de Calp o de Moraira.\n\nLa denominación de Moraira requiere además una precisión territorial: la fuente la presenta como localidad y no como municipio independiente. El dato publicado para Calp sí corresponde al municipio mencionado en el análisis.\n\nLa cobertura independiente que difundió el estudio confirma los porcentajes atribuidos a Calp, Moraira y la provincia de Alicante. La información permite medir el peso de la demanda internacional en las búsquedas del portal, pero no establecer por sí sola una presión sobre la oferta disponible ni anticipar cuántas de esas búsquedas terminan en operaciones de alquiler.",
+      "category": "ECONOMIA",
+      "seo_title": "El 53% de las búsquedas de alquiler en Calp fue extranjero",
+      "meta_description": "El 53% de las búsquedas de alquiler en Calp durante el primer trimestre de 2026 procedió del extranjero, según idealista/data.",
+      "sources": [
+        {
+          "name": "idealista/data — idealista/news",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/09/14/905276-la-demanda-extranjera-para-alquilar-abraza-el-topico-sol-y-playa-con-alicante",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Cadena SER — Radio Alicante",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/09/14/la-provincia-de-alicante-lidera-la-demanda-extranjera-de-alquiler-con-un-26-de-busquedas-radio-alicante/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.idealista.com/news/inmobiliario/vivienda/2026/09/14/905276-la-demanda-extranjera-para-alquilar-abraza-el-topico-sol-y-playa-con-alicante",
+        "https://cadenaser.com/comunitat-valenciana/2026/09/14/la-provincia-de-alicante-lidera-la-demanda-extranjera-de-alquiler-con-un-26-de-busquedas-radio-alicante"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 2,
+        "caveats": [
+          "El término “presión de la demanda” puede resultar ambiguo: el estudio mide el origen geográfico de las búsquedas en idealista, no la presión sobre la oferta disponible ni el número de contratos firmados.",
+          "Moraira es una localidad perteneciente al municipio de Teulada; la fuente de idealista la presenta como localidad y no como municipio independiente.",
+          "Los porcentajes describen la actividad registrada en el portal de idealista durante el primer trimestre de 2026 y no necesariamente todo el mercado de alquiler de Calp o Moraira."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_a76c808ec2f9d536",
+        "quality_gate_evaluated_at": "2026-09-27T01:29:48.032Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "El porcentaje mide búsquedas realizadas desde el extranjero en idealista, no contratos firmados ni el conjunto del mercado de alquiler.",
+        "Evitar presentar a Moraira como municipio independiente: la fuente la identifica como localidad perteneciente a Teulada.",
+        "La expresión “presión de la demanda” puede inducir a error si no se aclara que el estudio no mide la oferta disponible."
+      ],
+      "published_at": "2026-09-27T01:29:35.126Z",
+      "updated_at": "2026-09-27T01:29:48.350Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_33dd3a4d471b16ff",
       "external_id": "drf_b32d3ba20951bb0e",
@@ -63,7 +119,8 @@
       "external_id": "drf_7676a7176c3e2467",
       "investigation_id": "inv_8e7ae363f4d510f1",
       "candidate_fingerprints": [
-        "69af414cf102d4584e81cada3dca446160664955f2764282877752858e7c7163"
+        "69af414cf102d4584e81cada3dca446160664955f2764282877752858e7c7163",
+        "bc0ec7f68c65df39273373a7e24559412f41174e45b42265a2cc6c8e633655cd"
       ],
       "title": "La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
       "slug": "marina-alta-pierde-afiliaciones-agosto",
@@ -92,7 +149,8 @@
       "source_urls": [
         "https://cadenaser.com/comunitat-valenciana/2026/09/15/la-marina-alta-pierde-mas-de-1000-afiliaciones-en-agosto-pero-mantiene-cifras-record-de-empleo-radio-denia",
         "https://marinaalta.es/2026/09/agosto-frena-el-empleo-en-la-marina-alta-pierde-mas-de-1-000-afiliados-y-sube-el-paro",
-        "https://observatorimarinaalta.org/noticias"
+        "https://observatorimarinaalta.org/noticias",
+        "https://observatorimarinaalta.org/mercado-trabajo-mes-agosto-2026-situacion-laboral-marina-alta"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -113,7 +171,7 @@
         "La tasa de paro se presenta como estimada, tal y como figura en las fuentes."
       ],
       "published_at": "2026-09-26T17:13:24.782Z",
-      "updated_at": "2026-09-26T17:13:50.394Z",
+      "updated_at": "2026-09-27T01:29:48.350Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
