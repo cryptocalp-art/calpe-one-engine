@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-09-27T14:02:36.588Z",
+  "generated_at": "2026-09-27T18:26:56.037Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_a3a4f9027ed3cda6",
-      "draft_id": "drf_9421e37837a2610f",
-      "investigation_id": "inv_9161855efbee2e80",
-      "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
-      "slug": "calp-reduce-consumo-electrico-77-farolas-led",
-      "category": "MEDIO_AMBIENTE",
+      "gate_id": "qg_47dfba9624d20dbf",
+      "draft_id": "drf_a12c8189f2d29e1a",
+      "investigation_id": "inv_2fb06c0324a49622",
+      "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
+      "slug": "calp-reforzara-limpieza-playas-noviembre",
+      "category": "TURISMO",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -41,16 +41,16 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 6,
+        "supported_claim_count": 7,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
+        "evidence_count": 5,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 4,
+        "distinct_evidence_urls": 5,
+        "distinct_evidence_hosts": 5,
         "institutional_or_political": true,
-        "material_caveat": false,
+        "material_caveat": true,
         "caveat_reflected": true,
         "neutral_political_language": true,
         "headline_not_sensational": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 229
+        "body_word_count": 223
       },
-      "evaluated_at": "2026-09-27T14:02:36.588Z",
+      "evaluated_at": "2026-09-27T18:26:56.037Z",
       "engine_version": "quality-gate-v1"
     }
   ]

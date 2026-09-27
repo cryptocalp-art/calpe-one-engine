@@ -1,195 +1,86 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-27T14:01:40.741Z",
+  "generated_at": "2026-09-27T18:26:28.919Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "ed5466074d9c6503a6dc1a386b6abe61e6c77d516cf1596bea926ca2537fd930",
-      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales y atender emergencias",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La existencia del contrato y sus principales magnitudes económicas están corroboradas por la Plataforma de Contratación del Sector Público: suministro para las brigadas municipales, presupuesto base de 88.000 euros con IVA, duración inicial de 24 meses y posibilidad de otros 24 meses. Sin embargo, no se ha localizado una fuente primaria accesible que confirme específicamente la obligación de atención 24 horas y entrega en un máximo de 60 minutos, por lo que la noticia no queda completamente verificada.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp prepara un contrato para suministrar maquinaria y herramientas a las brigadas municipales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato tiene un presupuesto base de 88.000 euros para 24 meses.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato puede alcanzar 176.000 euros mediante una prórroga adicional de 24 meses.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El suministro se destina a trabajos de las brigadas municipales de Calp e incluye maquinaria agrícola, herramientas mecánicas y máquinas herramienta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La empresa adjudicataria deberá mantener atención 24 horas y suministrar equipos en un máximo de 60 minutos ante necesidades inmediatas.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Ayuntamiento no está obligado a consumir todo el presupuesto ni a adquirir una cantidad mínima de maquinaria.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Plataforma de Contratación del Sector Público / ficha de licitación SUM 48/2026-AOR",
-          "source_url": "https://contrataciondelestado.es/wps/poc?idEvl=M%2BajHibhsfAadbH3CysQuQ%3D%3D&uri=deeplink%3Adetalle_licitacion",
-          "evidence": "La licitación corresponde al suministro de maquinaria agrícola y máquinas para los trabajos de las brigadas municipales de Calp. La ficha indica un presupuesto con IVA de 88.000 euros, duración inicial de 24 meses y posibilidad de prórroga por otros 24 meses. También identifica los CPV de maquinaria agrícola, herramientas mecánicas y máquinas herramienta.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Alicitar, ficha de la licitación basada en PLACSP",
-          "source_url": "https://www.alicitar.es/licitacion/17127943/suministro-de-maquinaria-agricola-y-maquinas-para-los-trabajos-de-las-brigadas-m",
-          "evidence": "La ficha independiente identifica el expediente SUM 48/2026-AOR, el Ayuntamiento de Calp como órgano de contratación, el presupuesto de 88.000 euros con IVA, la duración de 24 meses y la prórroga posible de 24 meses.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12290/calp-reserva-176000-euros-para-equipar-sus-brigadas-con-maquinaria-y-atender-necesidades-urgentes",
-          "evidence": "La noticia atribuye al contrato un presupuesto de 88.000 euros para los dos primeros años, hasta 176.000 euros con la prórroga, y describe las condiciones de atención 24 horas y entrega en 60 minutos. Estas últimas condiciones no han quedado corroboradas en una fuente primaria accesible.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La cifra de 176.000 euros resulta de sumar dos periodos de 24 meses con un presupuesto de 88.000 euros cada uno; la ficha de contratación muestra además un valor estimado sin IVA de 145.454,54 euros.",
-        "Falta localizar y revisar el pliego técnico o administrativo completo para confirmar las condiciones de guardia, disponibilidad 24/7 y entrega en 60 minutos."
-      ],
-      "id": "inv_24fc4e4bdb74ec0e",
-      "investigated_at": "2026-09-27T14:01:40.741Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "3741add8d96147fbcd3dcf1d04af76c55059bee5809ae00527d489d5981bf074",
-      "title": "Calp promocionará sus productos locales en Alicante Gastronómica con una inversión de hasta 36.800 euros",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "Calp Digital aporta detalles concretos sobre un contrato de 36.800 euros y sobre la participación municipal prevista en Alicante Gastronómica del 2 al 5 de octubre de 2026. La participación de Calp en la feria y la promoción de productos locales tienen antecedentes oficiales, pero no se ha localizado una fuente primaria o independiente que confirme el contrato de 36.800 euros, sus partidas, los dos autobuses y el personal previsto para 2026.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp ha tramitado o preparado un contrato de 36.800 euros para su participación en Alicante Gastronómica 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El contrato incluye alimentos para degustaciones, material promocional, diseño gráfico, folletos, transporte y personal de apoyo.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Se prevén hasta 15.000 euros para productos alimentarios y 12.000 euros para material promocional.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La feria se celebrará del 2 al 5 de octubre de 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La iniciativa promocionará las marcas Peix de Calp y Gamba Blanca de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se contemplan dos autobuses desde Calp hasta IFA-Fira Alacant.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La contratación beneficiará directamente a productores y comercios locales mediante la adquisición de productos en establecimientos determinados por el Ayuntamiento.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
-          "evidence": "La noticia informa de un contrato de 36.800 euros para alimentos, merchandising, material gráfico, personal, transporte y dos autobuses; detalla partidas de 15.000 euros para productos y 12.000 para material promocional, y sitúa la feria del 2 al 5 de octubre de 2026.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/fr/node/19218",
-          "evidence": "El Ayuntamiento documentó la participación de Calp en Alicante Gastronómica, la promoción del Peix de Calp y el desplazamiento de dos autobuses en una edición anterior de la feria. Esta fuente corrobora el antecedente de la actividad, pero no el contrato ni las cifras de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "El Diario de la Marina Alta",
-          "source_url": "https://lamarina.eldiario.es/2026/03/10/calp-al-fin-adquirira-las-galerias-oltra-e-izara-una-gran-bandera-valenciana-en-que-gastara-81-millones/",
-          "evidence": "La información recoge una previsión presupuestaria municipal de 80.000 euros para el estand de Calp en Alicante Gastronómica, pero no confirma el contrato posterior de 36.800 euros ni sus partidas.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La cifra de 80.000 euros mencionada en la información presupuestaria municipal no coincide con los 36.800 euros del contrato descrito por Calp Digital; podrían referirse a conceptos distintos, pero no se ha podido verificar documentalmente.",
-        "Las fuentes localizadas sobre la edición de 2026 repiten o enlazan información institucional y no constituyen corroboración independiente suficiente del contrato."
-      ],
-      "id": "inv_ae03213da5fcbda4",
-      "investigated_at": "2026-09-27T14:01:40.741Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
-      "title": "La zona deportiva y escolar de Calp reduce un 84% el consumo eléctrico tras instalar 77 farolas LED",
+      "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
+      "title": "Calp reforzará desde noviembre la limpieza de playas con un 40% más de inversión y nuevos medios",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia está respaldada por una publicación oficial del Ayuntamiento de Calp y por una fuente periodística independiente. Ambas confirman la sustitución de 77 farolas por tecnología LED, la reducción prevista del 84% del consumo eléctrico, el ahorro anual estimado de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión.",
+      "summary": "La información queda suficientemente corroborada. El Ayuntamiento de Calp confirma oficialmente que ha adjudicado a FCC Medio Ambiente el nuevo servicio de limpieza y mantenimiento de playas, previsto para comenzar el 1 de noviembre de 2026, con una inversión anual de 639.726,71 euros, aproximadamente un 40% superior a la anterior. La documentación de contratación identifica además la adjudicación a FCC por 581.569,74 euros sin IVA, cuyo importe total asciende a 639.726,71 euros. Las mejoras de personal, frecuencias, maquinaria y cobertura de calas y otros puntos del litoral también están respaldadas por la fuente municipal y por medios independientes.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha sustituido 77 farolas en la zona deportiva y escolar por luminarias LED.",
+          "claim": "El nuevo servicio de limpieza y mantenimiento de playas de Calp ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación permitirá reducir un 84% el consumo eléctrico.",
+          "claim": "El servicio está previsto que comience el 1 de noviembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El ahorro económico anual estimado es de 19.168,75 euros.",
+          "claim": "La inversión anual será de 639.726,71 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se han instalado cuatro cuadros de mando con telegestión para controlar las luminarias y detectar fallos a distancia.",
+          "claim": "La inversión supone aproximadamente un 40% más que el coste anterior del servicio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación forma parte del Plan de Sostenibilidad Turística en Destino y está financiada en el marco del PRTR con fondos Next GenerationEU.",
+          "claim": "El contrato incorpora más personal, maquinaria, frecuencias y prestaciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación fue adjudicada por 55.460,59 euros a Elecnor Servicios y Proyectos S.A.U.",
+          "claim": "El servicio ampliará su cobertura a calas de difícil acceso y otros puntos del litoral.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tiene una duración prevista de cuatro años.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
           "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
-          "evidence": "La publicación oficial informa de la sustitución de 77 farolas, una reducción del 84% del consumo eléctrico, un ahorro anual de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión. También identifica el marco del Plan de Sostenibilidad Turística, la financiación europea y la adjudicación a Elecnor por 55.460,59 euros.",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+          "evidence": "El Ayuntamiento informa de que el servicio ha sido adjudicado a FCC Medio Ambiente, S.A.U.; fija una inversión anual de 639.726,71 euros, un 40% más que la anterior; indica que está previsto que comience el 1 de noviembre; y detalla el aumento de temporadas, frecuencias, personal y medios. También señala la atención a calas de difícil acceso y otros puntos del litoral y que el contrato está previsto para cuatro años.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Elperiodic.com",
-          "source_url": "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
-          "evidence": "La información independiente confirma la sustitución de 77 farolas, la reducción del 84% del consumo eléctrico, el ahorro anual de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión.",
+          "source_name": "Licitacion.eu, registro de contratación pública",
+          "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+          "evidence": "El registro identifica el expediente MIX.SER 05/2026-AOR, la adjudicación a FCC Medio Ambiente, S.A.U., dos ofertas recibidas y un importe adjudicado de 581.569,74 euros sin IVA y de 639.726,71 euros como importe total adjudicado. También recoge el contrato 151/2026 y el decreto de adjudicación municipal.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp, agregador oficial de noticias",
-          "source_url": "https://www.calp.es/es/aggregator/sources/7?page=1",
-          "evidence": "El agregador municipal reproduce la noticia y la incluye entre las comunicaciones oficiales del Ayuntamiento, confirmando su publicación institucional y sus principales datos.",
-          "source_type": "PRIMARY"
+          "source_name": "FaroPúblico, agregador de licitaciones basado en PLACSP",
+          "source_url": "https://faropublico.es/licitaciones/604d59a0-1e44-4d4a-b209-b5a506721e95",
+          "evidence": "Registra como resultado oficial de la licitación la adjudicación a FCC Medio Ambiente, S.A.U., por 581.570 euros sin impuestos, con dos ofertas recibidas y fecha de adjudicación del 10 de julio de 2026. Identifica el órgano de contratación como la Alcaldía del Ajuntament de Calp y el expediente MIX.SER 05/2026-AOR.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12331/calp-reforzara-desde-noviembre-la-limpieza-de-playas-con-un-40-mas-de-inversion-y-nuevos-medios",
+          "evidence": "Publica una corroboración independiente de la fecha de inicio, el importe anual de 639.726,71 euros, el incremento aproximado del 40%, la ampliación de temporadas y frecuencias, el refuerzo de plantilla, la incorporación de maquinaria y la actuación en calas de difícil acceso y otros puntos del litoral.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Euro Weekly News",
+          "source_url": "https://euroweeklynews.com/2026/09/25/calpe-beaches-set-for-major-upgrade-with-more-staff-machinery-and-cleaning/",
+          "evidence": "Confirma que el nuevo contrato entrará en funcionamiento el 1 de noviembre de 2026 y que la inversión municipal será de 639.726,71 euros anuales, aproximadamente un 40% más que el contrato anterior. También describe el refuerzo de trabajadores, maquinaria y frecuencias de limpieza.",
+          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El 84% y el ahorro de 19.168,75 euros son previsiones o estimaciones comunicadas por el Ayuntamiento; no se ha localizado una auditoría posterior que mida el consumo real tras la actuación.",
-        "La corroboración independiente reproduce esencialmente la información institucional, aunque procede de un medio distinto."
+        "La cifra de 581.569,74 euros corresponde al importe adjudicado sin IVA, mientras que 639.726,71 euros corresponde al importe total/anual comunicado por el Ayuntamiento; ambas cifras son compatibles y no constituyen una contradicción material.",
+        "La afirmación sobre el inicio del servicio es una fecha prevista, no una constatación de que el servicio ya haya comenzado.",
+        "La fuente independiente Calp Digital reproduce numerosos detalles coincidentes con la comunicación municipal; por ello, la corroboración contractual de los importes y adjudicatario se apoya adicionalmente en registros de contratación pública."
       ],
-      "id": "inv_9161855efbee2e80",
-      "investigated_at": "2026-09-27T14:01:40.741Z",
+      "id": "inv_2fb06c0324a49622",
+      "investigated_at": "2026-09-27T18:26:28.919Z",
       "model": "gpt-5.6-luna"
     }
   ]
