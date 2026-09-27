@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-27T08:14:18.987Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-09-27T08:14:18.813Z",
+  "generated_at": "2026-09-27T14:02:44.295Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-09-27T14:02:44.124Z",
   "newspaper": {
-    "archive_total": 30,
-    "published_today": 3,
-    "published_last_7_days": 30,
+    "archive_total": 31,
+    "published_today": 4,
+    "published_last_7_days": 31,
     "categories": {
+      "MEDIO_AMBIENTE": 6,
       "DEPORTES": 1,
       "SOCIEDAD": 5,
       "ECONOMIA": 4,
       "CULTURA": 3,
-      "MEDIO_AMBIENTE": 5,
       "TURISMO": 4,
       "LOCAL": 6,
       "SUCESOS": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_8cc8e2474936a46e",
+        "title": "La zona deportiva y escolar de Calp prevé reducir un 84% el consumo eléctrico con 77 farolas LED",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-reduce-consumo-electrico-77-farolas-led",
+        "published_at": "2026-09-27T14:02:28.568Z"
+      },
       {
         "archive_id": "arc_4fbbe0f672fc8c62",
         "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "estimar-hotels-retirar-plastico-mediterraneo-2026",
         "published_at": "2026-09-26T17:13:24.782Z"
-      },
-      {
-        "archive_id": "arc_dfe28571be9524dc",
-        "title": "Calp programa 30 actividades para el Otoño Cultural 2026",
-        "category": "CULTURA",
-        "slug": "calp-programa-30-actividades-otono-cultural-2026",
-        "published_at": "2026-09-26T13:08:33.700Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 2
+    "drafts": 1,
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_e4a728f06e3d1ecc",
-      "slug": "calp-contrato-maquinaria-brigadas-176000-euros",
-      "category": "LOCAL",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-09-27T08:14:11.439Z"
-    }
-  ]
+  "quarantine": []
 }

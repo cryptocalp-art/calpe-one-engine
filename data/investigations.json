@@ -1,173 +1,195 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-27T08:13:32.203Z",
+  "generated_at": "2026-09-27T14:01:40.741Z",
   "model": "gpt-5.6-luna",
   "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "29ac796be35aa866174463e92680258479e98623095ee79feb14a390fcb44bb4",
-      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales con maquinaria",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "ed5466074d9c6503a6dc1a386b6abe61e6c77d516cf1596bea926ca2537fd930",
+      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales y atender emergencias",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La información queda respaldada por la noticia publicada por Calp Digital y por los datos de la licitación pública del expediente SUM 48/2026-AOR. El importe de 176.000 euros corresponde al presupuesto máximo considerando 24 meses iniciales y una prórroga de otros 24 meses; no implica que el Ayuntamiento deba gastar o comprar esa cantidad completa.",
+      "publishable": false,
+      "summary": "La existencia del contrato y sus principales magnitudes económicas están corroboradas por la Plataforma de Contratación del Sector Público: suministro para las brigadas municipales, presupuesto base de 88.000 euros con IVA, duración inicial de 24 meses y posibilidad de otros 24 meses. Sin embargo, no se ha localizado una fuente primaria accesible que confirme específicamente la obligación de atención 24 horas y entrega en un máximo de 60 minutos, por lo que la noticia no queda completamente verificada.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp prepara un contrato para suministrar maquinaria a las brigadas de Calidad Urbana, Parques y Jardines y Vías Públicas.",
+          "claim": "El Ayuntamiento de Calp prepara un contrato para suministrar maquinaria y herramientas a las brigadas municipales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El presupuesto inicial del contrato es de 88.000 euros para 24 meses y puede alcanzar 176.000 euros con una prórroga de otros 24 meses.",
+          "claim": "El contrato tiene un presupuesto base de 88.000 euros para 24 meses.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato incluye maquinaria agrícola, herramientas mecánicas y máquinas para trabajos municipales.",
+          "claim": "El contrato puede alcanzar 176.000 euros mediante una prórroga adicional de 24 meses.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La empresa adjudicataria deberá prestar atención permanente y suministrar equipos en un máximo de 60 minutos cuando exista una necesidad urgente.",
+          "claim": "El suministro se destina a trabajos de las brigadas municipales de Calp e incluye maquinaria agrícola, herramientas mecánicas y máquinas herramienta.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "La empresa adjudicataria deberá mantener atención 24 horas y suministrar equipos en un máximo de 60 minutos ante necesidades inmediatas.",
+          "status": "UNVERIFIED"
         },
         {
           "claim": "El Ayuntamiento no está obligado a consumir todo el presupuesto ni a adquirir una cantidad mínima de maquinaria.",
-          "status": "SUPPORTED"
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
+        {
+          "source_name": "Plataforma de Contratación del Sector Público / ficha de licitación SUM 48/2026-AOR",
+          "source_url": "https://contrataciondelestado.es/wps/poc?idEvl=M%2BajHibhsfAadbH3CysQuQ%3D%3D&uri=deeplink%3Adetalle_licitacion",
+          "evidence": "La licitación corresponde al suministro de maquinaria agrícola y máquinas para los trabajos de las brigadas municipales de Calp. La ficha indica un presupuesto con IVA de 88.000 euros, duración inicial de 24 meses y posibilidad de prórroga por otros 24 meses. También identifica los CPV de maquinaria agrícola, herramientas mecánicas y máquinas herramienta.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Alicitar, ficha de la licitación basada en PLACSP",
+          "source_url": "https://www.alicitar.es/licitacion/17127943/suministro-de-maquinaria-agricola-y-maquinas-para-los-trabajos-de-las-brigadas-m",
+          "evidence": "La ficha independiente identifica el expediente SUM 48/2026-AOR, el Ayuntamiento de Calp como órgano de contratación, el presupuesto de 88.000 euros con IVA, la duración de 24 meses y la prórroga posible de 24 meses.",
+          "source_type": "SECONDARY"
+        },
         {
           "source_name": "Calp Digital",
           "source_url": "https://calpdigital.es/art/12290/calp-reserva-176000-euros-para-equipar-sus-brigadas-con-maquinaria-y-atender-necesidades-urgentes",
-          "evidence": "Describe el contrato municipal, el presupuesto de 88.000 euros para los dos primeros años, la posible prórroga de 24 meses hasta 176.000 euros, la maquinaria prevista y la obligación de respuesta urgente en un máximo de 60 minutos.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicitar, ficha de licitación del expediente SUM 48/2026-AOR",
-          "source_url": "https://www.alicitar.es/licitacion/17127943/suministro-de-maquinaria-agricola-y-maquinas-para-los-trabajos-de-las-brigadas-m",
-          "evidence": "Identifica la licitación del Ayuntamiento de Calp para el suministro de maquinaria de sus brigadas, con expediente SUM 48/2026-AOR, presupuesto de 88.000 euros con IVA, duración inicial de 24 meses y posibilidad de prórroga de otros 24 meses.",
+          "evidence": "La noticia atribuye al contrato un presupuesto de 88.000 euros para los dos primeros años, hasta 176.000 euros con la prórroga, y describe las condiciones de atención 24 horas y entrega en 60 minutos. Estas últimas condiciones no han quedado corroboradas en una fuente primaria accesible.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente independiente localizada es una ficha de licitación que reproduce datos del expediente público, no el documento primario directamente enlazado desde la Plataforma de Contratación del Sector Público.",
-        "Los 176.000 euros son un importe máximo asociado a la duración total prevista, no necesariamente un gasto ejecutado."
+        "La cifra de 176.000 euros resulta de sumar dos periodos de 24 meses con un presupuesto de 88.000 euros cada uno; la ficha de contratación muestra además un valor estimado sin IVA de 145.454,54 euros.",
+        "Falta localizar y revisar el pliego técnico o administrativo completo para confirmar las condiciones de guardia, disponibilidad 24/7 y entrega en 60 minutos."
       ],
-      "id": "inv_d5b3f3b843c0bbf6",
-      "investigated_at": "2026-09-27T08:13:32.203Z",
+      "id": "inv_24fc4e4bdb74ec0e",
+      "investigated_at": "2026-09-27T14:01:40.741Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954",
-      "title": "Calp convoca 275.000 euros en ayudas para clubes y promoción deportiva",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La convocatoria está confirmada por el Ayuntamiento de Calp y por medios independientes. La distribución indicada —245.000 euros para deporte base y competición, 25.000 euros para eventos y 5.000 euros para pilota valenciana y colombicultura— coincide con la información oficial.",
+      "candidate_fingerprint": "3741add8d96147fbcd3dcf1d04af76c55059bee5809ae00527d489d5981bf074",
+      "title": "Calp promocionará sus productos locales en Alicante Gastronómica con una inversión de hasta 36.800 euros",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Calp Digital aporta detalles concretos sobre un contrato de 36.800 euros y sobre la participación municipal prevista en Alicante Gastronómica del 2 al 5 de octubre de 2026. La participación de Calp en la feria y la promoción de productos locales tienen antecedentes oficiales, pero no se ha localizado una fuente primaria o independiente que confirme el contrato de 36.800 euros, sus partidas, los dos autobuses y el personal previsto para 2026.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp convocó ayudas a la promoción del deporte para la temporada 2025-2026 por un total de 275.000 euros.",
+          "claim": "El Ayuntamiento de Calp ha tramitado o preparado un contrato de 36.800 euros para su participación en Alicante Gastronómica 2026.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El contrato incluye alimentos para degustaciones, material promocional, diseño gráfico, folletos, transporte y personal de apoyo.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Se prevén hasta 15.000 euros para productos alimentarios y 12.000 euros para material promocional.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La feria se celebrará del 2 al 5 de octubre de 2026.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La iniciativa promocionará las marcas Peix de Calp y Gamba Blanca de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La línea de deporte base y participación en competiciones dispone de 245.000 euros.",
-          "status": "SUPPORTED"
+          "claim": "Se contemplan dos autobuses desde Calp hasta IFA-Fira Alacant.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "La línea para organización de eventos deportivos dispone de 25.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Existe una línea de 5.000 euros para pilota valenciana y colombicultura.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de solicitud fue del 4 al 17 de septiembre de 2026, ambos inclusive.",
-          "status": "SUPPORTED"
+          "claim": "La contratación beneficiará directamente a productores y comercios locales mediante la adquisición de productos en establecimientos determinados por el Ayuntamiento.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
-          "evidence": "La convocatoria oficial fija un total de 275.000 euros para la temporada 2025-2026 y desglosa las tres líneas en 245.000, 25.000 y 5.000 euros. También indica el periodo de solicitud del 4 al 17 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
-          "evidence": "Informa de la apertura de la convocatoria municipal por 275.000 euros para la temporada 2025-2026 y confirma el plazo de diez días hábiles tras la publicación en el BOP.",
-          "source_type": "SECONDARY"
-        },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/sec/deportes",
-          "evidence": "Su sección deportiva recoge la convocatoria de 275.000 euros y señala que se distribuye entre deporte base, eventos deportivos y deportes autóctonos como la pilota valenciana y la colombicultura.",
+          "source_url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+          "evidence": "La noticia informa de un contrato de 36.800 euros para alimentos, merchandising, material gráfico, personal, transporte y dos autobuses; detalla partidas de 15.000 euros para productos y 12.000 para material promocional, y sitúa la feria del 2 al 5 de octubre de 2026.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/fr/node/19218",
+          "evidence": "El Ayuntamiento documentó la participación de Calp en Alicante Gastronómica, la promoción del Peix de Calp y el desplazamiento de dos autobuses en una edición anterior de la feria. Esta fuente corrobora el antecedente de la actividad, pero no el contrato ni las cifras de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "El Diario de la Marina Alta",
+          "source_url": "https://lamarina.eldiario.es/2026/03/10/calp-al-fin-adquirira-las-galerias-oltra-e-izara-una-gran-bandera-valenciana-en-que-gastara-81-millones/",
+          "evidence": "La información recoge una previsión presupuestaria municipal de 80.000 euros para el estand de Calp en Alicante Gastronómica, pero no confirma el contrato posterior de 36.800 euros ni sus partidas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
-        "La evidencia confirma la convocatoria y su dotación, no la cantidad finalmente concedida o pagada a cada club."
+        "La cifra de 80.000 euros mencionada en la información presupuestaria municipal no coincide con los 36.800 euros del contrato descrito por Calp Digital; podrían referirse a conceptos distintos, pero no se ha podido verificar documentalmente.",
+        "Las fuentes localizadas sobre la edición de 2026 repiten o enlazan información institucional y no constituyen corroboración independiente suficiente del contrato."
       ],
-      "id": "inv_387d8e9e862674e3",
-      "investigated_at": "2026-09-27T08:13:32.203Z",
+      "id": "inv_ae03213da5fcbda4",
+      "investigated_at": "2026-09-27T14:01:40.741Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d",
-      "title": "Más de 3.400 alumnos comienzan el curso en Calp con obras pendientes en el CEE Gargasindi",
+      "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
+      "title": "La zona deportiva y escolar de Calp reduce un 84% el consumo eléctrico tras instalar 77 farolas LED",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia está confirmada por una comunicación oficial del Ayuntamiento de Calp y por una información independiente de La Marina Alta. Ambas fuentes coinciden en la cifra de 3.467 alumnos, los ocho centros educativos y el traslado provisional del alumnado del CEE Gargasindi al CEIP Oltà mientras finalizan las obras.",
+      "summary": "La noticia está respaldada por una publicación oficial del Ayuntamiento de Calp y por una fuente periodística independiente. Ambas confirman la sustitución de 77 farolas por tecnología LED, la reducción prevista del 84% del consumo eléctrico, el ahorro anual estimado de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión.",
       "claims": [
         {
-          "claim": "3.467 alumnos comenzaron el curso 2026-2027 en Calp.",
+          "claim": "El Ayuntamiento de Calp ha sustituido 77 farolas en la zona deportiva y escolar por luminarias LED.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El alumnado está distribuido entre ocho centros educativos del municipio.",
+          "claim": "La actuación permitirá reducir un 84% el consumo eléctrico.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El CEE Gargasindi inició el curso provisionalmente en las instalaciones del CEIP Oltà porque las obras no habían terminado.",
+          "claim": "El ahorro económico anual estimado es de 19.168,75 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las obras del CEE Gargasindi estaban previstas para finalizar en las semanas siguientes al inicio del curso.",
+          "claim": "Se han instalado cuatro cuadros de mando con telegestión para controlar las luminarias y detectar fallos a distancia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El CEE Gargasindi cuenta con 53 alumnos distribuidos entre sus distintas etapas y programas.",
+          "claim": "La actuación forma parte del Plan de Sostenibilidad Turística en Destino y está financiada en el marco del PRTR con fondos Next GenerationEU.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación fue adjudicada por 55.460,59 euros a Elecnor Servicios y Proyectos S.A.U.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
           "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
-          "evidence": "El comunicado oficial del 9 de septiembre de 2026 cifra en 3.467 los alumnos del curso 2026-2027, repartidos en ocho centros. Explica que el alumnado del CEE Gargasindi comenzó provisionalmente en el CEIP Oltà por no haber concluido las obras y cifra en 53 sus estudiantes.",
+          "source_url": "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
+          "evidence": "La publicación oficial informa de la sustitución de 77 farolas, una reducción del 84% del consumo eléctrico, un ahorro anual de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión. También identifica el marco del Plan de Sostenibilidad Turística, la financiación europea y la adjudicación a Elecnor por 55.460,59 euros.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
-          "evidence": "Confirma la cifra de 3.467 alumnos, los ocho centros y el traslado provisional del alumnado del CEE Gargasindi al CEIP Oltà. También señala que la finalización de los trabajos estaba prevista para las semanas siguientes.",
+          "source_name": "Elperiodic.com",
+          "source_url": "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
+          "evidence": "La información independiente confirma la sustitución de 77 farolas, la reducción del 84% del consumo eléctrico, el ahorro anual de 19.168,75 euros y la instalación de cuatro cuadros de mando con telegestión.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/",
-          "evidence": "Ofrece el desglose de alumnado por centros y confirma que el CEE Gargasindi cuenta con 53 estudiantes y comenzó temporalmente en las instalaciones del CEIP Oltà por el retraso de las obras.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp, agregador oficial de noticias",
+          "source_url": "https://www.calp.es/es/aggregator/sources/7?page=1",
+          "evidence": "El agregador municipal reproduce la noticia y la incluye entre las comunicaciones oficiales del Ayuntamiento, confirmando su publicación institucional y sus principales datos.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La información acredita la situación al inicio del curso, el 9 de septiembre de 2026; no confirma si las obras ya habían terminado a fecha de esta investigación.",
-        "La cifra de 3.467 alumnos corresponde a los datos de inicio de curso y puede variar posteriormente por nuevas matrículas."
+        "El 84% y el ahorro de 19.168,75 euros son previsiones o estimaciones comunicadas por el Ayuntamiento; no se ha localizado una auditoría posterior que mida el consumo real tras la actuación.",
+        "La corroboración independiente reproduce esencialmente la información institucional, aunque procede de un medio distinto."
       ],
-      "id": "inv_eed5f7ed5c15ba90",
-      "investigated_at": "2026-09-27T08:13:32.203Z",
+      "id": "inv_9161855efbee2e80",
+      "investigated_at": "2026-09-27T14:01:40.741Z",
       "model": "gpt-5.6-luna"
     }
   ]

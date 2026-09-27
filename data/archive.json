@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-27T08:14:11.775Z",
-  "count": 30,
+  "updated_at": "2026-09-27T14:02:36.925Z",
+  "count": 31,
   "articles": [
+    {
+      "archive_id": "arc_8cc8e2474936a46e",
+      "external_id": "drf_9421e37837a2610f",
+      "investigation_id": "inv_9161855efbee2e80",
+      "candidate_fingerprints": [
+        "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e"
+      ],
+      "title": "La zona deportiva y escolar de Calp prevé reducir un 84% el consumo eléctrico con 77 farolas LED",
+      "slug": "calp-reduce-consumo-electrico-77-farolas-led",
+      "summary": "El Ayuntamiento de Calp ha sustituido 77 farolas de la zona deportiva y escolar por luminarias LED, una actuación con la que prevé reducir un 84% el consumo eléctrico. El ahorro económico anual estimado asciende a 19.168,75 euros.",
+      "body": "La zona deportiva y escolar de Calp cuenta ya con 77 farolas sustituidas por luminarias LED, según la información difundida por el Ayuntamiento. La actuación permitirá, de acuerdo con las previsiones comunicadas, reducir un 84% el consumo eléctrico asociado a estas instalaciones.\n\nEl proyecto incorpora también cuatro cuadros de mando con sistemas de telegestión. Esta tecnología permite controlar las luminarias y detectar posibles fallos a distancia, según la información oficial sobre la intervención.\n\nEl ahorro económico anual estimado por el Ayuntamiento es de 19.168,75 euros. Esta cantidad está vinculada a la previsión de reducción del consumo, por lo que no equivale a una medición posterior de los resultados obtenidos tras la sustitución de las farolas.\n\nLa actuación forma parte del Plan de Sostenibilidad Turística en Destino y está financiada en el marco del Plan de Recuperación, Transformación y Resiliencia (PRTR), con fondos Next GenerationEU.\n\nEl contrato fue adjudicado por 55.460,59 euros a Elecnor Servicios y Proyectos S.A.U. La información municipal sobre la actuación ha sido recogida también por un medio periodístico independiente, que confirma los principales datos de la sustitución, la previsión de ahorro y la instalación de los cuadros de mando.\n\nTanto la reducción del 84% como el ahorro anual de 19.168,75 euros son estimaciones comunicadas por el Ayuntamiento. No consta una auditoría posterior que haya medido el consumo real después de la instalación de las nuevas luminarias.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Calp prevé reducir un 84% el consumo con 77 farolas LED",
+      "meta_description": "La zona deportiva y escolar de Calp incorpora 77 farolas LED y cuatro cuadros de telegestión. El Ayuntamiento estima un ahorro del 84%.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Elperiodic.com",
+          "url": "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp, agregador oficial de noticias",
+          "url": "https://www.calp.es/es/aggregator/sources/7?page=1",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
+        "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
+        "https://www.calp.es/es/aggregator/sources/7?page=1"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 3,
+        "caveats": [
+          "El 84% y el ahorro de 19.168,75 euros son previsiones o estimaciones comunicadas por el Ayuntamiento; no se ha localizado una auditoría posterior que mida el consumo real tras la actuación.",
+          "La corroboración independiente reproduce esencialmente la información institucional, aunque procede de un medio distinto."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_a3a4f9027ed3cda6",
+        "quality_gate_evaluated_at": "2026-09-27T14:02:36.588Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "El 84% de reducción y el ahorro anual de 19.168,75 euros son previsiones o estimaciones municipales; no se ha localizado una auditoría posterior que mida el consumo real.",
+        "La corroboración independiente reproduce esencialmente la información institucional."
+      ],
+      "published_at": "2026-09-27T14:02:28.568Z",
+      "updated_at": "2026-09-27T14:02:36.925Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_4fbbe0f672fc8c62",
       "external_id": "drf_e99c4f643e4e1bb2",

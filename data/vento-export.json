@@ -3,285 +3,142 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-27T08:14:11.612Z",
+  "generated_at": "2026-09-27T14:02:36.753Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 3,
-  "ready_count": 2,
-  "quarantined_count": 1,
+  "drafts_seen": 1,
+  "ready_count": 1,
+  "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_72021fa23bad5809",
+      "export_id": "exp_ebb3ff51046de577",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-09-27T08:14:11.612Z",
-      "source_draft_id": "drf_e99c4f643e4e1bb2",
-      "source_investigation_id": "inv_387d8e9e862674e3",
-      "candidate_fingerprint": "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954",
-      "quality_gate_id": "qg_67a558a622acd1f2",
+      "generated_at": "2026-09-27T14:02:36.753Z",
+      "source_draft_id": "drf_9421e37837a2610f",
+      "source_investigation_id": "inv_9161855efbee2e80",
+      "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
+      "quality_gate_id": "qg_a3a4f9027ed3cda6",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_e99c4f643e4e1bb2",
-        "investigation_id": "inv_387d8e9e862674e3",
-        "candidate_fingerprint": "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954",
-        "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte",
-        "subtitle": "La convocatoria para la temporada 2025-2026 incluye líneas para deporte base, eventos deportivos, pilota valenciana y colombicultura.",
-        "summary": "El Ayuntamiento de Calp convocó ayudas a la promoción del deporte por un importe total de 275.000 euros para la temporada 2025-2026. La convocatoria distribuye los fondos entre el deporte base y la participación en competiciones, la organización de eventos deportivos y dos modalidades deportivas específicas.",
-        "body": "La principal línea de la convocatoria cuenta con 245.000 euros y está destinada al deporte base y a la participación en competiciones. A esta partida se suman 25.000 euros para la organización de eventos deportivos.\n\nLa convocatoria reserva además 5.000 euros para pilota valenciana y colombicultura. La suma de las tres líneas alcanza los 275.000 euros anunciados por el Ayuntamiento.\n\nEl plazo de solicitud permaneció abierto del 4 al 17 de septiembre de 2026, ambos días inclusive. La convocatoria se refiere a la temporada deportiva 2025-2026, aunque su publicación y periodo de solicitud se sitúan en septiembre de 2026.\n\nLa distribución fija el importe global y la dotación de cada línea, pero la información disponible no acredita cuánto recibirá finalmente cada club ni qué cantidad será finalmente concedida o pagada. Por tanto, los 275.000 euros corresponden a la convocatoria de ayudas y no a una cuantía ya abonada a las entidades deportivas.\n\nLa convocatoria está respaldada por la comunicación oficial del Ayuntamiento de Calp y por informaciones independientes que confirman tanto el importe total como el desglose de las líneas. El expediente disponible no aporta en esta fase el resultado final de la concesión.",
-        "category": "DEPORTES",
-        "slug": "calp-convoca-275000-euros-ayudas-promocion-deporte",
-        "seo_title": "Calp convoca 275.000 euros en ayudas al deporte",
-        "meta_description": "El Ayuntamiento de Calp convoca 275.000 euros para la promoción deportiva de la temporada 2025-2026, con tres líneas de ayudas.",
+        "external_id": "drf_9421e37837a2610f",
+        "investigation_id": "inv_9161855efbee2e80",
+        "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
+        "title": "La zona deportiva y escolar de Calp prevé reducir un 84% el consumo eléctrico con 77 farolas LED",
+        "subtitle": "La actuación incluye cuatro cuadros de mando con telegestión y un ahorro anual estimado de 19.168,75 euros.",
+        "summary": "El Ayuntamiento de Calp ha sustituido 77 farolas de la zona deportiva y escolar por luminarias LED, una actuación con la que prevé reducir un 84% el consumo eléctrico. El ahorro económico anual estimado asciende a 19.168,75 euros.",
+        "body": "La zona deportiva y escolar de Calp cuenta ya con 77 farolas sustituidas por luminarias LED, según la información difundida por el Ayuntamiento. La actuación permitirá, de acuerdo con las previsiones comunicadas, reducir un 84% el consumo eléctrico asociado a estas instalaciones.\n\nEl proyecto incorpora también cuatro cuadros de mando con sistemas de telegestión. Esta tecnología permite controlar las luminarias y detectar posibles fallos a distancia, según la información oficial sobre la intervención.\n\nEl ahorro económico anual estimado por el Ayuntamiento es de 19.168,75 euros. Esta cantidad está vinculada a la previsión de reducción del consumo, por lo que no equivale a una medición posterior de los resultados obtenidos tras la sustitución de las farolas.\n\nLa actuación forma parte del Plan de Sostenibilidad Turística en Destino y está financiada en el marco del Plan de Recuperación, Transformación y Resiliencia (PRTR), con fondos Next GenerationEU.\n\nEl contrato fue adjudicado por 55.460,59 euros a Elecnor Servicios y Proyectos S.A.U. La información municipal sobre la actuación ha sido recogida también por un medio periodístico independiente, que confirma los principales datos de la sustitución, la previsión de ahorro y la instalación de los cuadros de mando.\n\nTanto la reducción del 84% como el ahorro anual de 19.168,75 euros son estimaciones comunicadas por el Ayuntamiento. No consta una auditoría posterior que haya medido el consumo real después de la instalación de las nuevas luminarias.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-reduce-consumo-electrico-77-farolas-led",
+        "seo_title": "Calp prevé reducir un 84% el consumo con 77 farolas LED",
+        "meta_description": "La zona deportiva y escolar de Calp incorpora 77 farolas LED y cuatro cuadros de telegestión. El Ayuntamiento estima un ahorro del 84%.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_67a558a622acd1f2",
+        "quality_gate_id": "qg_a3a4f9027ed3cda6",
         "editorial_notes": [
-          "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
-          "La evidencia confirma la dotación convocada, no las cantidades finalmente concedidas o pagadas a cada club."
+          "El 84% de reducción y el ahorro anual de 19.168,75 euros son previsiones o estimaciones municipales; no se ha localizado una auditoría posterior que mida el consumo real.",
+          "La corroboración independiente reproduce esencialmente la información institucional."
         ],
         "sources": [
           {
             "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+            "url": "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
             "type": "PRIMARY"
           },
           {
-            "name": "La Marina Alta",
-            "url": "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
+            "name": "Elperiodic.com",
+            "url": "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
             "type": "SECONDARY"
           },
           {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/sec/deportes",
-            "type": "SECONDARY"
+            "name": "Ayuntamiento de Calp, agregador oficial de noticias",
+            "url": "https://www.calp.es/es/aggregator/sources/7?page=1",
+            "type": "PRIMARY"
           }
         ],
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
-          "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
-          "https://calpdigital.es/sec/deportes"
+          "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
+          "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
+          "https://www.calp.es/es/aggregator/sources/7?page=1"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 5,
+          "supported_claim_count": 6,
           "evidence_count": 3,
           "caveats": [
-            "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
-            "La evidencia confirma la convocatoria y su dotación, no la cantidad finalmente concedida o pagada a cada club."
+            "El 84% y el ahorro de 19.168,75 euros son previsiones o estimaciones comunicadas por el Ayuntamiento; no se ha localizado una auditoría posterior que mida el consumo real tras la actuación.",
+            "La corroboración independiente reproduce esencialmente la información institucional, aunque procede de un medio distinto."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_67a558a622acd1f2",
-          "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
+          "quality_gate_id": "qg_a3a4f9027ed3cda6",
+          "quality_gate_evaluated_at": "2026-09-27T14:02:36.588Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-09-27T08:13:58.098Z",
+        "created_at": "2026-09-27T14:02:28.568Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_e99c4f643e4e1bb2",
-        "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte",
-        "slug": "calp-convoca-275000-euros-ayudas-promocion-deporte",
-        "summary": "El Ayuntamiento de Calp convocó ayudas a la promoción del deporte por un importe total de 275.000 euros para la temporada 2025-2026. La convocatoria distribuye los fondos entre el deporte base y la participación en competiciones, la organización de eventos deportivos y dos modalidades deportivas específicas.",
-        "body": "La principal línea de la convocatoria cuenta con 245.000 euros y está destinada al deporte base y a la participación en competiciones. A esta partida se suman 25.000 euros para la organización de eventos deportivos.\n\nLa convocatoria reserva además 5.000 euros para pilota valenciana y colombicultura. La suma de las tres líneas alcanza los 275.000 euros anunciados por el Ayuntamiento.\n\nEl plazo de solicitud permaneció abierto del 4 al 17 de septiembre de 2026, ambos días inclusive. La convocatoria se refiere a la temporada deportiva 2025-2026, aunque su publicación y periodo de solicitud se sitúan en septiembre de 2026.\n\nLa distribución fija el importe global y la dotación de cada línea, pero la información disponible no acredita cuánto recibirá finalmente cada club ni qué cantidad será finalmente concedida o pagada. Por tanto, los 275.000 euros corresponden a la convocatoria de ayudas y no a una cuantía ya abonada a las entidades deportivas.\n\nLa convocatoria está respaldada por la comunicación oficial del Ayuntamiento de Calp y por informaciones independientes que confirman tanto el importe total como el desglose de las líneas. El expediente disponible no aporta en esta fase el resultado final de la concesión.",
-        "category": "DEPORTES",
-        "seo_title": "Calp convoca 275.000 euros en ayudas al deporte",
-        "meta_description": "El Ayuntamiento de Calp convoca 275.000 euros para la promoción deportiva de la temporada 2025-2026, con tres líneas de ayudas.",
+        "external_id": "drf_9421e37837a2610f",
+        "title": "La zona deportiva y escolar de Calp prevé reducir un 84% el consumo eléctrico con 77 farolas LED",
+        "slug": "calp-reduce-consumo-electrico-77-farolas-led",
+        "summary": "El Ayuntamiento de Calp ha sustituido 77 farolas de la zona deportiva y escolar por luminarias LED, una actuación con la que prevé reducir un 84% el consumo eléctrico. El ahorro económico anual estimado asciende a 19.168,75 euros.",
+        "body": "La zona deportiva y escolar de Calp cuenta ya con 77 farolas sustituidas por luminarias LED, según la información difundida por el Ayuntamiento. La actuación permitirá, de acuerdo con las previsiones comunicadas, reducir un 84% el consumo eléctrico asociado a estas instalaciones.\n\nEl proyecto incorpora también cuatro cuadros de mando con sistemas de telegestión. Esta tecnología permite controlar las luminarias y detectar posibles fallos a distancia, según la información oficial sobre la intervención.\n\nEl ahorro económico anual estimado por el Ayuntamiento es de 19.168,75 euros. Esta cantidad está vinculada a la previsión de reducción del consumo, por lo que no equivale a una medición posterior de los resultados obtenidos tras la sustitución de las farolas.\n\nLa actuación forma parte del Plan de Sostenibilidad Turística en Destino y está financiada en el marco del Plan de Recuperación, Transformación y Resiliencia (PRTR), con fondos Next GenerationEU.\n\nEl contrato fue adjudicado por 55.460,59 euros a Elecnor Servicios y Proyectos S.A.U. La información municipal sobre la actuación ha sido recogida también por un medio periodístico independiente, que confirma los principales datos de la sustitución, la previsión de ahorro y la instalación de los cuadros de mando.\n\nTanto la reducción del 84% como el ahorro anual de 19.168,75 euros son estimaciones comunicadas por el Ayuntamiento. No consta una auditoría posterior que haya medido el consumo real después de la instalación de las nuevas luminarias.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp prevé reducir un 84% el consumo con 77 farolas LED",
+        "meta_description": "La zona deportiva y escolar de Calp incorpora 77 farolas LED y cuatro cuadros de telegestión. El Ayuntamiento estima un ahorro del 84%.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_67a558a622acd1f2",
+        "quality_gate_id": "qg_a3a4f9027ed3cda6",
         "published_at": null,
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
-          "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
-          "https://calpdigital.es/sec/deportes"
+          "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
+          "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
+          "https://www.calp.es/es/aggregator/sources/7?page=1"
         ],
         "sources": [
           {
             "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-convoca-ayudas-la-promoci%C3%B3n-del-deporte-por-valor-de-275000-euros",
+            "url": "https://noticias.calp.es/es/noticia/77-farolas-led-iluminan-ya-la-zona-deportiva-y-escolar-de-calp-con-una-reducci%C3%B3n-del-84-en",
             "type": "PRIMARY"
           },
           {
-            "name": "La Marina Alta",
-            "url": "https://ca.lamarinaalta.com/calp-abre-las-ayudas-al-deporte-local-de-la-temporada-2025-2026-con-275-000-euros-de-inversion/",
+            "name": "Elperiodic.com",
+            "url": "https://www.elperiodic.com/calpe/farolas-iluminan-zona-deportiva-escolar-calp-reduccion-consumo-electrico_1090508",
             "type": "SECONDARY"
           },
           {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/sec/deportes",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_387d8e9e862674e3",
-        "candidate_fingerprint": "4eaba3d8c09899cdfab712a9aa657fa9706f54fa3f3ce70b4b0a28d709acb954",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 3,
-          "caveats": [
-            "La convocatoria corresponde a la temporada 2025-2026, aunque fue publicada en septiembre de 2026.",
-            "La evidencia confirma la convocatoria y su dotación, no la cantidad finalmente concedida o pagada a cada club."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_67a558a622acd1f2",
-          "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_352a5f92f7106d9a",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-09-27T08:14:11.612Z",
-      "source_draft_id": "drf_ab43f1a699f693f1",
-      "source_investigation_id": "inv_eed5f7ed5c15ba90",
-      "candidate_fingerprint": "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d",
-      "quality_gate_id": "qg_8ed874eb90de4250",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_ab43f1a699f693f1",
-        "investigation_id": "inv_eed5f7ed5c15ba90",
-        "candidate_fingerprint": "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d",
-        "title": "3.467 alumnos comienzan el curso en Calp mientras el CEE Gargasindi sigue en instalaciones provisionales",
-        "subtitle": "El alumnado del centro inició el curso 2026-2027 en el CEIP Oltà debido a que las obras del Gargasindi no habían terminado.",
-        "summary": "Un total de 3.467 alumnos comenzó el curso escolar 2026-2027 en Calp, repartido entre ocho centros educativos del municipio. El alumnado del CEE Gargasindi inició las clases de forma provisional en las instalaciones del CEIP Oltà, ya que las obras del centro no habían concluido al comienzo del curso.",
-        "body": "El CEE Gargasindi cuenta con 53 alumnos distribuidos entre sus distintas etapas y programas. Mientras finalizaron los trabajos en sus instalaciones, este alumnado comenzó temporalmente la actividad lectiva en el CEIP Oltà.\n\nLa previsión comunicada al inicio del curso situaba la finalización de las obras en las semanas siguientes al comienzo de las clases. La información disponible acredita la situación registrada el 9 de septiembre de 2026, fecha de inicio del curso, pero no confirma si los trabajos ya han terminado posteriormente.\n\nEl conjunto del alumnado escolarizado en Calp para el curso 2026-2027 asciende a 3.467 estudiantes, distribuidos entre ocho centros educativos. Esta cifra corresponde a los datos de inicio de curso y puede variar con posterioridad por la incorporación de nuevas matrículas.\n\nEl traslado provisional del CEE Gargasindi al CEIP Oltà constituye la principal novedad señalada en la información sobre el arranque del curso. La documentación consultada confirma tanto la causa del traslado —la falta de finalización de las obras— como la previsión temporal comunicada para completar los trabajos, pero no aporta una confirmación posterior sobre la recuperación de las instalaciones del centro.",
-        "category": "SOCIEDAD",
-        "slug": "calp-3467-alumnos-curso-cee-gargasindi-obras",
-        "seo_title": "3.467 alumnos inician el curso en Calp con el CEE Gargasindi en obras",
-        "meta_description": "3.467 alumnos comienzan el curso 2026-2027 en Calp. Los 53 estudiantes del CEE Gargasindi empiezan provisionalmente en el CEIP Oltà.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_8ed874eb90de4250",
-        "editorial_notes": [
-          "La situación descrita corresponde al inicio del curso, el 9 de septiembre de 2026; no se confirma si las obras han terminado después.",
-          "La cifra de 3.467 alumnos corresponde al comienzo del curso y puede variar por nuevas matrículas."
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
+            "name": "Ayuntamiento de Calp, agregador oficial de noticias",
+            "url": "https://www.calp.es/es/aggregator/sources/7?page=1",
             "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/",
-            "type": "SECONDARY"
           }
         ],
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
-          "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
-          "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/"
-        ],
+        "investigation_id": "inv_9161855efbee2e80",
+        "candidate_fingerprint": "6afc1e488b0fd5f1b471db2cf188c36b3d2a85482468c9ba73ec035764a2f16e",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 5,
+          "supported_claim_count": 6,
           "evidence_count": 3,
           "caveats": [
-            "La información acredita la situación al inicio del curso, el 9 de septiembre de 2026; no confirma si las obras ya habían terminado a fecha de esta investigación.",
-            "La cifra de 3.467 alumnos corresponde a los datos de inicio de curso y puede variar posteriormente por nuevas matrículas."
+            "El 84% y el ahorro de 19.168,75 euros son previsiones o estimaciones comunicadas por el Ayuntamiento; no se ha localizado una auditoría posterior que mida el consumo real tras la actuación.",
+            "La corroboración independiente reproduce esencialmente la información institucional, aunque procede de un medio distinto."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_8ed874eb90de4250",
-          "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-09-27T08:13:58.098Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_ab43f1a699f693f1",
-        "title": "3.467 alumnos comienzan el curso en Calp mientras el CEE Gargasindi sigue en instalaciones provisionales",
-        "slug": "calp-3467-alumnos-curso-cee-gargasindi-obras",
-        "summary": "Un total de 3.467 alumnos comenzó el curso escolar 2026-2027 en Calp, repartido entre ocho centros educativos del municipio. El alumnado del CEE Gargasindi inició las clases de forma provisional en las instalaciones del CEIP Oltà, ya que las obras del centro no habían concluido al comienzo del curso.",
-        "body": "El CEE Gargasindi cuenta con 53 alumnos distribuidos entre sus distintas etapas y programas. Mientras finalizaron los trabajos en sus instalaciones, este alumnado comenzó temporalmente la actividad lectiva en el CEIP Oltà.\n\nLa previsión comunicada al inicio del curso situaba la finalización de las obras en las semanas siguientes al comienzo de las clases. La información disponible acredita la situación registrada el 9 de septiembre de 2026, fecha de inicio del curso, pero no confirma si los trabajos ya han terminado posteriormente.\n\nEl conjunto del alumnado escolarizado en Calp para el curso 2026-2027 asciende a 3.467 estudiantes, distribuidos entre ocho centros educativos. Esta cifra corresponde a los datos de inicio de curso y puede variar con posterioridad por la incorporación de nuevas matrículas.\n\nEl traslado provisional del CEE Gargasindi al CEIP Oltà constituye la principal novedad señalada en la información sobre el arranque del curso. La documentación consultada confirma tanto la causa del traslado —la falta de finalización de las obras— como la previsión temporal comunicada para completar los trabajos, pero no aporta una confirmación posterior sobre la recuperación de las instalaciones del centro.",
-        "category": "SOCIEDAD",
-        "seo_title": "3.467 alumnos inician el curso en Calp con el CEE Gargasindi en obras",
-        "meta_description": "3.467 alumnos comienzan el curso 2026-2027 en Calp. Los 53 estudiantes del CEE Gargasindi empiezan provisionalmente en el CEIP Oltà.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_8ed874eb90de4250",
-        "published_at": null,
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
-          "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
-          "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/"
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-3400-alumnos-y-alumnas-inician-hoy-el-curso-escolar-2026-2027-en-calp",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/mas-de-3-400-alumnos-comienzan-el-curso-escolar-en-calp-con-novedades-en-el-cee-gargasindi/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/la-marina-alta-vuelve-al-cole-miles-de-alumnos-arrancan-el-curso-2026-2027/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_eed5f7ed5c15ba90",
-        "candidate_fingerprint": "0cc0a6a68b40e76881c324fc145add7324519665d29dbe2a80d00b3a0ef0be9d",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 3,
-          "caveats": [
-            "La información acredita la situación al inicio del curso, el 9 de septiembre de 2026; no confirma si las obras ya habían terminado a fecha de esta investigación.",
-            "La cifra de 3.467 alumnos corresponde a los datos de inicio de curso y puede variar posteriormente por nuevas matrículas."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_8ed874eb90de4250",
-          "quality_gate_evaluated_at": "2026-09-27T08:14:11.439Z",
+          "quality_gate_id": "qg_a3a4f9027ed3cda6",
+          "quality_gate_evaluated_at": "2026-09-27T14:02:36.588Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }
     }
   ],
-  "quarantined": [
-    {
-      "export_id": "exp_7f4a3b9a4c2f7c57",
-      "draft_id": "drf_e4a728f06e3d1ecc",
-      "investigation_id": "inv_d5b3f3b843c0bbf6",
-      "slug": "calp-contrato-maquinaria-brigadas-176000-euros",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ]
-    }
-  ]
+  "quarantined": []
 }
