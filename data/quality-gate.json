@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-09-27T18:26:56.037Z",
+  "generated_at": "2026-09-27T22:14:37.218Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,31 +26,33 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_47dfba9624d20dbf",
-      "draft_id": "drf_a12c8189f2d29e1a",
-      "investigation_id": "inv_2fb06c0324a49622",
-      "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
-      "slug": "calp-reforzara-limpieza-playas-noviembre",
+      "gate_id": "qg_bf3746f7c80a9626",
+      "draft_id": "drf_0ce3e86e92b4a662",
+      "investigation_id": "inv_486c531e47d327bb",
+      "candidate_fingerprint": "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e",
+      "slug": "macma-borrador-movilidad-no-motorizada-marina-alta",
       "category": "TURISMO",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 7,
+        "supported_claim_count": 5,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 5,
+        "unverified_claim_count": 1,
+        "evidence_count": 3,
         "primary_evidence_count": 1,
-        "secondary_evidence_count": 4,
-        "distinct_evidence_urls": 5,
-        "distinct_evidence_hosts": 5,
-        "institutional_or_political": true,
-        "material_caveat": true,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": false,
+        "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
         "headline_not_sensational": true,
@@ -59,9 +61,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 223
+        "body_word_count": 216
       },
-      "evaluated_at": "2026-09-27T18:26:56.037Z",
+      "evaluated_at": "2026-09-27T22:14:37.218Z",
       "engine_version": "quality-gate-v1"
     }
   ]

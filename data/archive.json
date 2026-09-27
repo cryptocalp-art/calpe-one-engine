@@ -3,7 +3,7 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-27T18:26:56.351Z",
+  "updated_at": "2026-09-27T22:14:37.448Z",
   "count": 31,
   "articles": [
     {
@@ -1040,7 +1040,8 @@
       "external_id": "drf_25421904d03ad545",
       "investigation_id": "inv_cf5c2d5c82c587d8",
       "candidate_fingerprints": [
-        "d9e8655febdfad7a6a944331dd39eff132b79179af52d7facb95af9c4e7765d0"
+        "d9e8655febdfad7a6a944331dd39eff132b79179af52d7facb95af9c4e7765d0",
+        "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e"
       ],
       "title": "El borrador del plan de movilidad no motorizada incluye 120 plazas BikeBox en Calp",
       "slug": "plan-movilidad-no-motorizada-preve-plazas-bikebox-calp",
@@ -1069,7 +1070,9 @@
       "source_urls": [
         "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros",
         "https://macma.org/cultura/actualitat/el-nou-pla-de-mobilitat-comarcal-no-motoritzada-un-projecte-pioner-arreu-del-territori-valencia",
-        "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres"
+        "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres",
+        "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
+        "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -1086,7 +1089,7 @@
         "La fuente primaria localizada confirma el proyecto y su metodología, pero no el detalle del borrador de 2026; conviene mantener esa limitación en la edición."
       ],
       "published_at": "2026-09-25T22:24:03.996Z",
-      "updated_at": "2026-09-25T22:24:27.568Z",
+      "updated_at": "2026-09-27T22:14:37.448Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

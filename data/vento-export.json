@@ -3,7 +3,7 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-27T18:26:56.195Z",
+  "generated_at": "2026-09-27T22:14:37.330Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 1,
@@ -11,156 +11,137 @@
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_de6299482ac2fcfc",
+      "export_id": "exp_ad0e6686541ca7a7",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-09-27T18:26:56.195Z",
-      "source_draft_id": "drf_a12c8189f2d29e1a",
-      "source_investigation_id": "inv_2fb06c0324a49622",
-      "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
-      "quality_gate_id": "qg_47dfba9624d20dbf",
+      "generated_at": "2026-09-27T22:14:37.330Z",
+      "source_draft_id": "drf_0ce3e86e92b4a662",
+      "source_investigation_id": "inv_486c531e47d327bb",
+      "candidate_fingerprint": "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e",
+      "quality_gate_id": "qg_bf3746f7c80a9626",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_a12c8189f2d29e1a",
-        "investigation_id": "inv_2fb06c0324a49622",
-        "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
-        "title": "Calp prevé iniciar en noviembre un nuevo servicio de limpieza de playas con un 40% más de inversión",
-        "subtitle": "El contrato, adjudicado a FCC Medio Ambiente, contempla más personal, maquinaria, frecuencias y cobertura durante cuatro años.",
-        "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de las playas del municipio, cuyo inicio está previsto para el 1 de noviembre de 2026. La inversión anual comunicada asciende a 639.726,71 euros, aproximadamente un 40% más que la del servicio anterior.",
-        "body": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo contrato de limpieza y mantenimiento de playas, con una puesta en marcha prevista para el próximo 1 de noviembre. El servicio tendrá una duración prevista de cuatro años y contará con una inversión anual de 639.726,71 euros.\n\nSegún la información municipal, el importe supone aproximadamente un 40% más que el coste del contrato anterior. La documentación de contratación identifica además un importe adjudicado de 581.569,74 euros sin IVA, mientras que la cantidad de 639.726,71 euros corresponde al importe total comunicado para el servicio.\n\nEl contrato incorpora un refuerzo de los medios destinados a la limpieza del litoral. Entre las mejoras previstas figuran el aumento del personal, la incorporación de maquinaria y una ampliación de las frecuencias y de las temporadas de prestación. El servicio también extenderá su cobertura a calas de difícil acceso y a otros puntos del litoral de Calp.\n\nLa adjudicación corresponde al expediente MIX.SER 05/2026-AOR. El registro de contratación consultado recoge que se recibieron dos ofertas y que la adjudicación a FCC Medio Ambiente se formalizó por el importe indicado sin impuestos, con un total de 639.726,71 euros.\n\nLa fecha del 1 de noviembre es, en este momento, una previsión de inicio del nuevo servicio. La información disponible no acredita todavía que las nuevas prestaciones hayan comenzado.",
+        "external_id": "drf_0ce3e86e92b4a662",
+        "investigation_id": "inv_486c531e47d327bb",
+        "candidate_fingerprint": "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e",
+        "title": "La MACMA presenta un borrador de movilidad no motorizada de 12,3 millones para la Marina Alta",
+        "subtitle": "La propuesta contempla 77 tramos y se expondrá en Calp el 19 de octubre para recoger aportaciones ciudadanas",
+        "summary": "La Mancomunitat Comarcal de la Marina Alta (MACMA) ha presentado el primer borrador de su Plan de Movilidad No Motorizada para la comarca, una propuesta valorada en 12.351.795,10 euros y estructurada en 77 tramos. El documento se someterá a debate ciudadano en varias sesiones informativas, incluida una prevista en Calp el 19 de octubre.",
+        "body": "La MACMA ha completado y presentado el primer borrador de su Plan de Movilidad No Motorizada para la Marina Alta. La propuesta plantea una inversión estimada de aproximadamente 12,3 millones de euros y organiza la red prevista en 77 tramos para vertebrar la comarca.\n\nSegún la información difundida por la propia mancomunidad, el documento se encuentra todavía en fase de borrador. La cifra global recogida en la propuesta asciende a 12.351.795,10 euros, una cantidad que corresponde a una estimación del proyecto y que no debe interpretarse como un gasto ya comprometido o ejecutado.\n\nEl proceso incluye varias sesiones informativas durante el mes de octubre. En Calp, la presentación está programada para el lunes 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau. El objetivo de estos encuentros es dar a conocer la propuesta y recoger aportaciones, sugerencias y posibles mejoras de la ciudadanía.\n\nLa sesión de Calp forma parte de un calendario de presentaciones que también contempla encuentros en Orba, Jesús Pobre y Pego, de acuerdo con la información publicada sobre el borrador.\n\nLa documentación disponible describe el plan como una propuesta técnica abierta a debate. Por tanto, los datos conocidos corresponden a una fase inicial de presentación y participación, y no a un plan definitivo aprobado ni a actuaciones ya ejecutadas.",
         "category": "TURISMO",
-        "slug": "calp-reforzara-limpieza-playas-noviembre",
-        "seo_title": "Calp reforzará la limpieza de playas desde noviembre",
-        "meta_description": "El nuevo servicio de playas de Calp, adjudicado a FCC, prevé comenzar el 1 de noviembre con 639.726,71 euros anuales y más medios.",
+        "slug": "macma-borrador-movilidad-no-motorizada-marina-alta",
+        "seo_title": "La MACMA presenta su plan de movilidad para la Marina Alta",
+        "meta_description": "La MACMA presenta un borrador de movilidad no motorizada de 12,3 millones y 77 tramos. Calp acogerá una sesión el 19 de octubre.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_47dfba9624d20dbf",
+        "quality_gate_id": "qg_bf3746f7c80a9626",
         "editorial_notes": [
-          "La fecha de inicio del 1 de noviembre de 2026 es una previsión, no una constatación de que el servicio ya esté operativo.",
-          "Distinguir el importe adjudicado sin IVA (581.569,74 euros) del importe total/anual comunicado (639.726,71 euros)."
+          "Presentar siempre el proyecto como un primer borrador, no como un plan definitivo aprobado.",
+          "La inversión de 12.351.795,10 euros es estimada; no debe describirse como gasto comprometido o ejecutado.",
+          "La sesión de Calp está programada para el 19 de octubre de 2026 a las 18:30 en el Saló Blau."
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+            "name": "MACMA — Mancomunitat Comarcal de la Marina Alta",
+            "url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
             "type": "PRIMARY"
           },
           {
-            "name": "Licitacion.eu, registro de contratación pública",
-            "url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
             "type": "SECONDARY"
           },
           {
-            "name": "FaroPúblico, agregador de licitaciones basado en PLACSP",
-            "url": "https://faropublico.es/licitaciones/604d59a0-1e44-4d4a-b209-b5a506721e95",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12331/calp-reforzara-desde-noviembre-la-limpieza-de-playas-con-un-40-mas-de-inversion-y-nuevos-medios",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Euro Weekly News",
-            "url": "https://euroweeklynews.com/2026/09/25/calpe-beaches-set-for-major-upgrade-with-more-staff-machinery-and-cleaning/",
+            "name": "LaMarinaAlta.com",
+            "url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta",
             "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "https://faropublico.es/licitaciones/604d59a0-1e44-4d4a-b209-b5a506721e95",
-          "https://calpdigital.es/art/12331/calp-reforzara-desde-noviembre-la-limpieza-de-playas-con-un-40-mas-de-inversion-y-nuevos-medios",
-          "https://euroweeklynews.com/2026/09/25/calpe-beaches-set-for-major-upgrade-with-more-staff-machinery-and-cleaning/"
+          "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
+          "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
+          "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 5,
+          "supported_claim_count": 5,
+          "evidence_count": 3,
           "caveats": [
-            "La cifra de 581.569,74 euros corresponde al importe adjudicado sin IVA, mientras que 639.726,71 euros corresponde al importe total/anual comunicado por el Ayuntamiento; ambas cifras son compatibles y no constituyen una contradicción material.",
-            "La afirmación sobre el inicio del servicio es una fecha prevista, no una constatación de que el servicio ya haya comenzado.",
-            "La fuente independiente Calp Digital reproduce numerosos detalles coincidentes con la comunicación municipal; por ello, la corroboración contractual de los importes y adjudicatario se apoya adicionalmente en registros de contratación pública."
+            "La evidencia respalda un primer borrador y una propuesta técnica, no la aprobación definitiva ni la ejecución de las actuaciones.",
+            "La cobertura secundaria coincide ampliamente con la comunicación oficial; la confirmación más sólida de los datos procede de la propia MACMA.",
+            "Para publicar, debe evitarse presentar los 12,3 millones como gasto ya comprometido o ejecutado."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_47dfba9624d20dbf",
-          "quality_gate_evaluated_at": "2026-09-27T18:26:56.037Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_bf3746f7c80a9626",
+          "quality_gate_evaluated_at": "2026-09-27T22:14:37.218Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
-        "created_at": "2026-09-27T18:26:49.011Z",
+        "created_at": "2026-09-27T22:14:30.122Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_a12c8189f2d29e1a",
-        "title": "Calp prevé iniciar en noviembre un nuevo servicio de limpieza de playas con un 40% más de inversión",
-        "slug": "calp-reforzara-limpieza-playas-noviembre",
-        "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de las playas del municipio, cuyo inicio está previsto para el 1 de noviembre de 2026. La inversión anual comunicada asciende a 639.726,71 euros, aproximadamente un 40% más que la del servicio anterior.",
-        "body": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo contrato de limpieza y mantenimiento de playas, con una puesta en marcha prevista para el próximo 1 de noviembre. El servicio tendrá una duración prevista de cuatro años y contará con una inversión anual de 639.726,71 euros.\n\nSegún la información municipal, el importe supone aproximadamente un 40% más que el coste del contrato anterior. La documentación de contratación identifica además un importe adjudicado de 581.569,74 euros sin IVA, mientras que la cantidad de 639.726,71 euros corresponde al importe total comunicado para el servicio.\n\nEl contrato incorpora un refuerzo de los medios destinados a la limpieza del litoral. Entre las mejoras previstas figuran el aumento del personal, la incorporación de maquinaria y una ampliación de las frecuencias y de las temporadas de prestación. El servicio también extenderá su cobertura a calas de difícil acceso y a otros puntos del litoral de Calp.\n\nLa adjudicación corresponde al expediente MIX.SER 05/2026-AOR. El registro de contratación consultado recoge que se recibieron dos ofertas y que la adjudicación a FCC Medio Ambiente se formalizó por el importe indicado sin impuestos, con un total de 639.726,71 euros.\n\nLa fecha del 1 de noviembre es, en este momento, una previsión de inicio del nuevo servicio. La información disponible no acredita todavía que las nuevas prestaciones hayan comenzado.",
+        "external_id": "drf_0ce3e86e92b4a662",
+        "title": "La MACMA presenta un borrador de movilidad no motorizada de 12,3 millones para la Marina Alta",
+        "slug": "macma-borrador-movilidad-no-motorizada-marina-alta",
+        "summary": "La Mancomunitat Comarcal de la Marina Alta (MACMA) ha presentado el primer borrador de su Plan de Movilidad No Motorizada para la comarca, una propuesta valorada en 12.351.795,10 euros y estructurada en 77 tramos. El documento se someterá a debate ciudadano en varias sesiones informativas, incluida una prevista en Calp el 19 de octubre.",
+        "body": "La MACMA ha completado y presentado el primer borrador de su Plan de Movilidad No Motorizada para la Marina Alta. La propuesta plantea una inversión estimada de aproximadamente 12,3 millones de euros y organiza la red prevista en 77 tramos para vertebrar la comarca.\n\nSegún la información difundida por la propia mancomunidad, el documento se encuentra todavía en fase de borrador. La cifra global recogida en la propuesta asciende a 12.351.795,10 euros, una cantidad que corresponde a una estimación del proyecto y que no debe interpretarse como un gasto ya comprometido o ejecutado.\n\nEl proceso incluye varias sesiones informativas durante el mes de octubre. En Calp, la presentación está programada para el lunes 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau. El objetivo de estos encuentros es dar a conocer la propuesta y recoger aportaciones, sugerencias y posibles mejoras de la ciudadanía.\n\nLa sesión de Calp forma parte de un calendario de presentaciones que también contempla encuentros en Orba, Jesús Pobre y Pego, de acuerdo con la información publicada sobre el borrador.\n\nLa documentación disponible describe el plan como una propuesta técnica abierta a debate. Por tanto, los datos conocidos corresponden a una fase inicial de presentación y participación, y no a un plan definitivo aprobado ni a actuaciones ya ejecutadas.",
         "category": "TURISMO",
-        "seo_title": "Calp reforzará la limpieza de playas desde noviembre",
-        "meta_description": "El nuevo servicio de playas de Calp, adjudicado a FCC, prevé comenzar el 1 de noviembre con 639.726,71 euros anuales y más medios.",
+        "seo_title": "La MACMA presenta su plan de movilidad para la Marina Alta",
+        "meta_description": "La MACMA presenta un borrador de movilidad no motorizada de 12,3 millones y 77 tramos. Calp acogerá una sesión el 19 de octubre.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_47dfba9624d20dbf",
+        "quality_gate_id": "qg_bf3746f7c80a9626",
         "published_at": null,
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "https://faropublico.es/licitaciones/604d59a0-1e44-4d4a-b209-b5a506721e95",
-          "https://calpdigital.es/art/12331/calp-reforzara-desde-noviembre-la-limpieza-de-playas-con-un-40-mas-de-inversion-y-nuevos-medios",
-          "https://euroweeklynews.com/2026/09/25/calpe-beaches-set-for-major-upgrade-with-more-staff-machinery-and-cleaning/"
+          "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
+          "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
+          "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta"
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+            "name": "MACMA — Mancomunitat Comarcal de la Marina Alta",
+            "url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
             "type": "PRIMARY"
           },
           {
-            "name": "Licitacion.eu, registro de contratación pública",
-            "url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
             "type": "SECONDARY"
           },
           {
-            "name": "FaroPúblico, agregador de licitaciones basado en PLACSP",
-            "url": "https://faropublico.es/licitaciones/604d59a0-1e44-4d4a-b209-b5a506721e95",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12331/calp-reforzara-desde-noviembre-la-limpieza-de-playas-con-un-40-mas-de-inversion-y-nuevos-medios",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Euro Weekly News",
-            "url": "https://euroweeklynews.com/2026/09/25/calpe-beaches-set-for-major-upgrade-with-more-staff-machinery-and-cleaning/",
+            "name": "LaMarinaAlta.com",
+            "url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta",
             "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_2fb06c0324a49622",
-        "candidate_fingerprint": "62a7e146d2206af62ba1ea2659dbf3a775d80c553b5f121abb4839b82d7ca6a7",
+        "investigation_id": "inv_486c531e47d327bb",
+        "candidate_fingerprint": "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 5,
+          "supported_claim_count": 5,
+          "evidence_count": 3,
           "caveats": [
-            "La cifra de 581.569,74 euros corresponde al importe adjudicado sin IVA, mientras que 639.726,71 euros corresponde al importe total/anual comunicado por el Ayuntamiento; ambas cifras son compatibles y no constituyen una contradicción material.",
-            "La afirmación sobre el inicio del servicio es una fecha prevista, no una constatación de que el servicio ya haya comenzado.",
-            "La fuente independiente Calp Digital reproduce numerosos detalles coincidentes con la comunicación municipal; por ello, la corroboración contractual de los importes y adjudicatario se apoya adicionalmente en registros de contratación pública."
+            "La evidencia respalda un primer borrador y una propuesta técnica, no la aprobación definitiva ni la ejecución de las actuaciones.",
+            "La cobertura secundaria coincide ampliamente con la comunicación oficial; la confirmación más sólida de los datos procede de la propia MACMA.",
+            "Para publicar, debe evitarse presentar los 12,3 millones como gasto ya comprometido o ejecutado."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_47dfba9624d20dbf",
-          "quality_gate_evaluated_at": "2026-09-27T18:26:56.037Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_bf3746f7c80a9626",
+          "quality_gate_evaluated_at": "2026-09-27T22:14:37.218Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
         "engine_version": "publisher-export-v2"
       }
