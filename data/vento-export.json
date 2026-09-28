@@ -3,12 +3,26 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-28T15:31:53.643Z",
+  "generated_at": "2026-09-28T22:04:45.005Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
+  "drafts_seen": 1,
   "ready_count": 0,
-  "quarantined_count": 0,
+  "quarantined_count": 1,
   "ready": [],
-  "quarantined": []
+  "quarantined": [
+    {
+      "export_id": "exp_41120fe8f14a5312",
+      "draft_id": "drf_08cb133e905c37a5",
+      "investigation_id": "inv_a8a94cb104e680b4",
+      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
+    }
+  ]
 }

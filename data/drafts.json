@@ -1,8 +1,61 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-09-28T15:31:53.317Z",
+  "generated_at": "2026-09-28T22:04:35.028Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_08cb133e905c37a5",
+      "investigation_id": "inv_a8a94cb104e680b4",
+      "candidate_fingerprint": "1329cc7346db1e3ab9d7bdbb990a1a6f7604d7c0c223fe46ca2e66b4036c2c9e",
+      "category": "LOCAL",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-28T22:04:35.028Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El expediente de IA de Calp incluye la prohibición de usar datos municipales para entrenar modelos",
+      "subheadline": "El Ayuntamiento adjudicó el servicio a Peninsula Corporate Innovation S.L. por 14.625 euros con IVA y una duración inicial de 24 meses",
+      "lead": "El Ayuntamiento de Calp ha adjudicado un servicio de asistente de inteligencia artificial para uso interno que contempla cinco licencias avanzadas y una cláusula que impide utilizar los datos municipales para entrenar, ajustar o mejorar modelos sin autorización expresa y por escrito del consistorio.",
+      "body_markdown": "El expediente SER 62/2026-ASS corresponde a la contratación de una plataforma de asistente de inteligencia artificial destinada al uso interno del Ayuntamiento de Calp. El servicio incluye cinco licencias avanzadas para tareas administrativas, análisis documental y apoyo a la programación, según la información disponible sobre la licitación.\n\nLa documentación consultada recoge que los documentos, las conversaciones y los datos municipales introducidos en la plataforma no podrán emplearse para entrenar, ajustar o mejorar modelos de inteligencia artificial sin una autorización municipal expresa y escrita. Esta condición aparece descrita en la información publicada sobre el expediente y es coherente con el contenido de los pliegos, aunque no se ha recuperado directamente el documento oficial completo que permita revisar la cláusula en su integridad.\n\nEl contrato salió a licitación con un presupuesto base de 19.500 euros, IVA incluido. El valor estimado del expediente se fijó en 24.173,55 euros y la duración inicial prevista es de 24 meses. El expediente fue publicado el 14 de agosto de 2026.\n\nLa adjudicación se produjo el 11 de septiembre de 2026 a favor de Peninsula Corporate Innovation S.L., por un importe de 14.625 euros con IVA. Los registros consultados identifican el servicio como una suscripción a una plataforma basada en modelos de lenguaje, con usos previstos relacionados con la redacción administrativa, el análisis de documentos, la elaboración de borradores y desarrollos internos de software.\n\nLa contratación se plantea, por tanto, para proporcionar al personal municipal herramientas de asistencia en distintos trabajos internos. La condición sobre el uso de los datos establece el marco indicado para la información que se introduzca en el servicio, pero la fuente primaria recomendable para el archivo y la comprobación detallada de sus términos es el expediente oficial completo.",
+      "seo_title": "Calp adjudica su servicio interno de asistente de IA",
+      "meta_description": "El contrato de IA del Ayuntamiento de Calp incluye cinco licencias y prohíbe usar datos municipales para entrenar modelos sin autorización escrita.",
+      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
+      "editorial_notes": [
+        "La prohibición de usar datos municipales para entrenar, ajustar o mejorar modelos se ha localizado expresamente en una fuente secundaria y no en el texto completo del pliego oficial recuperado. Conviene revisar el expediente primario antes de publicar como cita literal o atribuir el alcance exacto de la cláusula."
+      ],
+      "sources": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12277/calp-exigira-que-datos-municipales-no-se-utilicen-para-entrenar-inteligencia-artificial-que-contrate",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Alicitar, datos importados de PLACSP",
+          "source_url": "https://www.alicitar.es/licitacion/18768648/servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-par",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Sophia Anphis, ficha basada en los pliegos de contratación",
+          "source_url": "https://www.sophia-anphis.es/licitaciones/ser-62%2F2026_ass-servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-para-el-ayuntamiento-de-calp-%28alicante%29",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Gobierto Contratación",
+          "source_url": "https://contratos.gobierto.es/licitaciones/5208271",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La prohibición de utilizar datos para entrenamiento se ha localizado expresamente en la noticia y no en el texto completo del pliego oficial recuperado durante la búsqueda.",
+          "Los registros de contratación consultados son fuentes secundarias que indican proceder de PLACSP; la fuente primaria recomendable para archivo es el expediente oficial completo."
+        ]
+      }
+    }
+  ]
 }

@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-28T15:31:57.666Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-28T15:31:57.486Z",
+  "generated_at": "2026-09-28T22:04:48.130Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-09-28T22:04:47.985Z",
   "newspaper": {
     "archive_total": 31,
     "published_today": 0,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 13,
     "investigated": 0,
-    "drafts": 0,
+    "drafts": 1,
     "eligible": 0,
-    "quarantined": 0,
+    "quarantined": 1,
     "archive_added": 0
   },
   "delivery": {
@@ -102,5 +102,15 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_08cb133e905c37a5",
+      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
+      "category": "LOCAL",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-09-28T22:04:44.876Z"
+    }
+  ]
 }

@@ -1,8 +1,246 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-28T15:31:53.120Z",
+  "generated_at": "2026-09-28T22:03:49.316Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 4,
+  "investigations": [
+    {
+      "candidate_fingerprint": "c76b69eedca0c5015d117718ffabf064e6fed2163046bcf503ff3c29d8b49407",
+      "title": "Calp reserva 176.000 euros para equipar sus brigadas municipales y atender necesidades urgentes",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está detallada en Calp Digital, pero no se ha localizado una publicación oficial de 2026 que permita corroborar de forma independiente el importe, la duración, las condiciones de suministro y la atención 24/7. Sí existen antecedentes oficiales de contratos municipales de maquinaria para brigadas, aunque no corresponden al expediente descrito.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento prepara un contrato de suministro de maquinaria para las brigadas de Calidad Urbana, Parques y Jardines y Vías Públicas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tendría un presupuesto de 88.000 euros para dos años y podría alcanzar 176.000 euros con una prórroga de otros 24 meses.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La empresa adjudicataria deberá prestar atención 24 horas al día y suministrar equipos en un máximo de 60 minutos ante necesidades urgentes.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El contrato contempla maquinaria agrícola, herramientas mecánicas, motosierras, desbrozadoras, hormigoneras, maquinaria para asfalto y equipos de taller.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12290/calp-reserva-176000-euros-para-equipar-sus-brigadas-con-maquinaria-y-atender-necesidades-urgentes",
+          "evidence": "Describe un contrato de 88.000 euros para los dos primeros años, una posible prórroga de 24 meses hasta 176.000 euros, suministro de maquinaria para varias brigadas y atención urgente 24/7 con respuesta máxima de 60 minutos.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Plataforma de Contratación del Sector Público",
+          "source_url": "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=f4ebe7c5-1d5c-4d29-b66a-008a24807598&cmpntname=GetDocumentsById&source=library&srv=cmpnt",
+          "evidence": "Recoge un expediente anterior del Ayuntamiento de Calp, AM 01/2022, sobre alquiler de vehículos y maquinaria para brigadas de Calidad Urbana, con presupuesto y condiciones distintos. Confirma el antecedente contractual, pero no el expediente de 2026 descrito en la candidatura.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Plataforma de Contratación del Sector Público",
+          "source_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=W5pHG3NC8H6eb2VfnlshL5SJeRAmUHhpbXptZxH2zUChSPV4S2I01CkD9%2Fjjp3o41WOQpZsb3mdR%2BQt1YeVsTmVmkTbVBw4rv3cILRCWrOs%2F%2Fq7NB2iMZvNyf0xrJmjt&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D",
+          "evidence": "Documenta otro expediente municipal, SUM 05/2025, para suministro de materiales y maquinaria destinados a trabajos habituales de mantenimiento y conservación, pero no acredita las cifras ni las condiciones de la noticia.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La única fuente que respalda directamente el expediente y sus cifras es Calp Digital.",
+        "Los documentos oficiales localizados corresponden a expedientes anteriores o de objeto diferente; no deben tratarse como corroboración del contrato de 2026."
+      ],
+      "id": "inv_bcf4a13f807f989d",
+      "investigated_at": "2026-09-28T22:03:49.316Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "1329cc7346db1e3ab9d7bdbb990a1a6f7604d7c0c223fe46ca2e66b4036c2c9e",
+      "title": "Calp exigirá que los datos municipales no se utilicen para entrenar la inteligencia artificial contratada",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La existencia del expediente de contratación, su objeto, el número de licencias, el importe y la duración quedan corroborados por registros independientes de contratación pública. La condición sobre la prohibición de usar datos municipales para entrenar modelos está descrita por Calp Digital y es coherente con el contenido del pliego, aunque no se ha recuperado directamente el documento oficial completo.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp licitó un servicio de asistente de inteligencia artificial para uso interno.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato contempla cinco licencias avanzadas para tareas administrativas, análisis documental y apoyo a la programación.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El expediente tenía un presupuesto base de 19.500 euros con IVA, un valor estimado de 24.173,55 euros y una duración inicial de 24 meses.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los documentos, conversaciones y datos municipales no podrán utilizarse para entrenar, ajustar o mejorar modelos sin autorización municipal expresa y escrita.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El expediente fue finalmente adjudicado el 11 de septiembre de 2026 a Peninsula Corporate Innovation S.L. por 14.625 euros con IVA.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12277/calp-exigira-que-datos-municipales-no-se-utilicen-para-entrenar-inteligencia-artificial-que-contrate",
+          "evidence": "Explica que el Ayuntamiento prevé cinco licencias avanzadas y que los datos introducidos por el personal municipal no podrán utilizarse para entrenar, ajustar o mejorar modelos sin consentimiento expreso y escrito. También identifica el presupuesto de 19.500 euros con IVA, el valor estimado de 24.173,55 euros y la duración de 24 meses.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Alicitar, datos importados de PLACSP",
+          "source_url": "https://www.alicitar.es/licitacion/18768648/servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-par",
+          "evidence": "Registra el expediente SER 62/2026-ASS del Ayuntamiento de Calp, publicado el 14 de agosto de 2026, con presupuesto de 19.500 euros, valor estimado de 24.173,55 euros, plazo de 24 meses y adjudicación a Peninsula Corporate Innovation S.L. por 14.625 euros con IVA el 11 de septiembre de 2026.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Sophia Anphis, ficha basada en los pliegos de contratación",
+          "source_url": "https://www.sophia-anphis.es/licitaciones/ser-62%2F2026_ass-servicio-de-suscripcion-a-plataforma-de-asistente-de-inteligencia-artificial-para-el-ayuntamiento-de-calp-%28alicante%29",
+          "evidence": "Describe el objeto del contrato como una suscripción a un asistente de IA basado en modelos de lenguaje, con cinco licencias avanzadas destinadas a redacción administrativa, análisis documental, borradores y desarrollos internos de software; también recoge la duración de 24 meses.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Gobierto Contratación",
+          "source_url": "https://contratos.gobierto.es/licitaciones/5208271",
+          "evidence": "Confirma el expediente SER 62/2026-ASS, el procedimiento abierto simplificado, la publicación del 14 de agosto de 2026, la adjudicación, el valor estimado de 24.173,55 euros y la adjudicataria.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La prohibición de utilizar datos para entrenamiento se ha localizado expresamente en la noticia y no en el texto completo del pliego oficial recuperado durante la búsqueda.",
+        "Los registros de contratación consultados son fuentes secundarias que indican proceder de PLACSP; la fuente primaria recomendable para archivo es el expediente oficial completo."
+      ],
+      "id": "inv_a8a94cb104e680b4",
+      "investigated_at": "2026-09-28T22:03:49.316Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "016bac338b5ae7acc5b89cc9d3304e24dce0e373712b9ae5bc3034ce0c690edc",
+      "title": "Calp analizará el uso ciudadano del espacio público para orientar futuras decisiones urbanísticas",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Calp Digital aporta una descripción extensa y coherente de un estudio de espacio público, con presupuesto, duración, alcance territorial y metodología participativa. La documentación oficial localizada solo confirma que el Ayuntamiento contemplaba un estudio transversal del espacio público, pero no acredita el contrato concreto de 58.080 euros ni todos sus requisitos.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento prepara un estudio sobre el uso ciudadano del espacio público para orientar futuras decisiones urbanísticas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tiene un presupuesto de 58.080 euros y una duración máxima de siete meses.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El análisis abarcará todo el término municipal y estudiará seguridad, accesibilidad, confort térmico, calidad ambiental, movilidad y diferencias de uso entre perfiles de población.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El trabajo incluirá consultas, foros y talleres de participación pública y deberá producir un diagnóstico utilizable en instrumentos de planificación urbanística.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento ya había previsto un estudio transversal del espacio público en su planificación urbana.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12276/art/12281/delegacion-50-vecinos-calp-visita-cabra-para-reforzar-vinculos-historicos-entre-ambos-municipios",
+          "evidence": "Describe un estudio municipal con presupuesto de 58.080 euros y duración máxima de siete meses, destinado a analizar el uso y la percepción del espacio público, con atención a seguridad, accesibilidad, confort térmico, movilidad, calidad ambiental, género, edad, origen y discapacidad. También menciona fases de borrador, consultas, participación pública y documento definitivo.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, Agenda Urbana y Plan de Acción Local",
+          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
+          "evidence": "El documento oficial señala que Calp plantea un estudio transversal del espacio público dentro de sus actuaciones urbanas y de accesibilidad. No identifica el expediente concreto de 58.080 euros ni confirma su duración o pliego técnico.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, portal de transparencia de Urbanismo y Medio Ambiente",
+          "source_url": "https://www.calp.es/es/portal-de-transparencia/urbanismo-y-medio-ambiente",
+          "evidence": "El portal oficial identifica el área municipal donde se publican planes, programas y estudios de urbanismo y medio ambiente, pero la búsqueda no permitió localizar allí el expediente específico descrito.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La URL facilitada para Calp Digital contiene una ruta duplicada, aunque redirige a una página cuyo contenido coincide con el título y el resumen.",
+        "La fuente oficial localizada confirma la planificación general, no la contratación concreta ni sus importes."
+      ],
+      "id": "inv_ef8962a7024f0a0d",
+      "investigated_at": "2026-09-28T22:03:49.316Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "860435c1347e83720b8541cc9aa7e616952654c1e68ee188cac41fc602b47718",
+      "title": "Calp prepara un despliegue de productos locales en Alicante Gastronómica",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La existencia de la iniciativa promocional de 2026 aparece en Calp Digital y en el dosier de prensa del Ayuntamiento. Sin embargo, no se ha encontrado una publicación oficial del expediente que confirme de forma independiente el contrato de 36.800 euros y el desglose de productos, material, transporte y personal.",
+      "claims": [
+        {
+          "claim": "Calp prepara una participación promocional en Alicante Gastronómica 2026 para promocionar Peix de Calp y Gamba Blanca de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento ha tramitado un contrato de 36.800 euros para alimentos, material promocional, personal de atención y transporte desde Calp hasta IFA.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El contrato prevé hasta 15.000 euros para productos de degustación y hasta 12.000 euros para material promocional.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La actuación incluye dos autobuses, pulseras de acceso, personal de apoyo y material gráfico.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El Ayuntamiento ha promocionado anteriormente la Gamba Blanca de Calp y el Peix de Calp en ferias gastronómicas.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+          "evidence": "Detalla una contratación de 36.800 euros para alimentos, material promocional, diseño gráfico, folletos, transporte de viajeros y personal de apoyo. Indica partidas de hasta 15.000 euros para productos y 12.000 euros para merchandising, además de dos autobuses, pulseras y personal de atención.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, dosier de prensa del 16 de septiembre de 2026",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2",
+          "evidence": "Incluye entre las informaciones municipales difundidas el 16 de septiembre de 2026 el artículo de Calp Digital titulado 'Calp prepara un gran despliegue de sus productos locales en Alicante Gastronómica'. Confirma la existencia de la comunicación municipal, pero reproduce la referencia sin aportar el expediente ni sus cifras.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-promocionar%C3%A1-la-gamba-blanca-en-alicante-gastron%C3%B3mica-2025-con",
+          "evidence": "Acredita que el Ayuntamiento participó en Alicante Gastronómica 2025 con un stand propio, degustaciones y colaboración con la Cofradía de Pescadores, AEMCO y CREAMA para promocionar la gamba blanca de Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-registra-la-marca-%E2%80%9Cgamba-blanca-de-calp%E2%80%9D-0",
+          "evidence": "Confirma que la marca Gamba Blanca de Calp está registrada a nombre del Ayuntamiento y que se suma a la marca Peix de Calp, utilizada para promocionar el pescado comercializado por la Cofradía de Pescadores.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "El dosier municipal funciona como referencia de prensa y no como corroboración independiente de los importes o del contenido contractual.",
+        "No se localizó el anuncio oficial o pliego del contrato de 36.800 euros durante la búsqueda.",
+        "La evidencia oficial acredita la estrategia promocional y los antecedentes de participación, pero no el expediente de 2026 descrito en la candidatura."
+      ],
+      "id": "inv_886f32209b484620",
+      "investigated_at": "2026-09-28T22:03:49.316Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
