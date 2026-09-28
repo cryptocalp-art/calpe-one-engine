@@ -1,70 +1,171 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-27T22:14:12.235Z",
+  "generated_at": "2026-09-28T00:50:27.677Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "d2719ca22ef39da405fe5cc7900a7d0f4c8c1c21530aa20a381471d17f296d4e",
-      "title": "La MACMA presenta un plan de movilidad no motorizada de 12,3 millones para la Marina Alta",
+      "candidate_fingerprint": "4e143909b186380a697f422e81dd11e6c01ac2640106e8d73901f37f4d8369b6",
+      "title": "Calp pone en marcha ‘Espai Famílies’, un nuevo espacio de apoyo y encuentro para las familias",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La MACMA publicó el 25 de septiembre de 2026 el primer borrador de su Plan de Movilidad No Motorizada para la Marina Alta. El borrador está valorado en 12.351.795,10 euros, contempla 77 tramos y prevé sesiones informativas en Calp durante octubre para recoger aportaciones ciudadanas. Los hechos esenciales están respaldados por la fuente oficial de la MACMA y por una cobertura independiente de La Marina Plaza. Conviene precisar editorialmente que se trata de un primer borrador, no de un plan definitivo aprobado.",
+      "summary": "La iniciativa está confirmada por el Ayuntamiento de Calp y por medios locales independientes. Las fuentes coinciden en que Espai Famílies es un recurso municipal con actividades gratuitas programadas entre septiembre y diciembre de 2026, incluida una primera actividad el 26 de septiembre.",
       "claims": [
         {
-          "claim": "La MACMA ha presentado el primer borrador de un Plan de Movilidad No Motorizada para la Marina Alta.",
+          "claim": "El Ayuntamiento de Calp ha puesto en marcha Espai Famílies como espacio de encuentro, apoyo, aprendizaje y participación para las familias.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla una inversión estimada de aproximadamente 12,3 millones de euros.",
+          "claim": "El programa inicial incluye actividades gratuitas sobre crianza, uso de pantallas, igualdad, infancia, masculinidades y relaciones saludables.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El borrador propone una red de 77 tramos para vertebrar la Marina Alta.",
+          "claim": "La primera actividad, una gymkana familiar, está prevista para el 26 de septiembre de 2026 en el Parc dels Garrofers.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La MACMA ha programado una sesión informativa en Calp el 19 de octubre de 2026, a las 18:30, en el Saló Blau.",
+          "claim": "La programación se extiende hasta diciembre de 2026.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las sesiones pretenden recoger aportaciones, sugerencias y mejoras de la ciudadanía.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plan definitivo ya está aprobado o ejecutado.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "MACMA — Mancomunitat Comarcal de la Marina Alta",
-          "source_url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
-          "evidence": "La publicación oficial de la MACMA, fechada el 25 de septiembre de 2026, informa de que se ha completado el primer borrador del plan, valorado en 12,3 millones de euros y estructurado en 77 tramos. También anuncia un ciclo de sesiones de debate en octubre, incluida una en Calp el lunes 19 de octubre a las 18:30 en el Saló Blau, para presentar la propuesta y recoger aportaciones y mejoras.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-espai-fam%C3%ADlies-un-nuevo-espacio-de-encuentro-y-apoyo",
+          "evidence": "La fuente oficial anuncia la puesta en marcha de Espai Famílies, describe sus objetivos y detalla cuatro actividades gratuitas programadas para el 26 de septiembre, 13 de octubre, 29 de noviembre y 3 de diciembre de 2026.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/09/25/el-plan-para-moverse-por-la-marina-alta-sin-vehiculo-privado-inversiones-de-123-millones-en-mas-de-390-kilometros/",
-          "evidence": "La cobertura de este medio independiente confirma que la MACMA ha completado el primer borrador, que prevé 77 tramos y una inversión global estimada de 12.351.795,10 euros. También recoge la sesión de presentación en Calp del 19 de octubre y describe el proceso como una fase de presentación y debate, no como un plan definitivo ya ejecutado.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/espai-families-un-nuevo-recurso-para-el-apoyo-familiar-en-calp-con-encuentros-sobre-crianza-pantallas-y-relaciones/",
+          "evidence": "Medio local independiente confirma la creación del recurso municipal, su carácter gratuito y la programación de cuatro actividades entre septiembre y diciembre de 2026, incluida la gymkana del 26 de septiembre.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta",
-          "evidence": "La noticia candidata informa de la finalización del primer borrador, la inversión de 12,3 millones, los 77 nuevos tramos y el calendario de charlas informativas en Calp, Orba, Jesús Pobre y Pego durante octubre.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/09/24/calp-pone-en-marcha-un-nuevo-espacio-de-encuentro-y-apoyo-para-las-familias-del-municipio/",
+          "evidence": "La publicación independiente reproduce y confirma los elementos esenciales del programa: naturaleza del espacio, temas abordados, gratuidad y calendario inicial.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La evidencia respalda un primer borrador y una propuesta técnica, no la aprobación definitiva ni la ejecución de las actuaciones.",
-        "La cobertura secundaria coincide ampliamente con la comunicación oficial; la confirmación más sólida de los datos procede de la propia MACMA.",
-        "Para publicar, debe evitarse presentar los 12,3 millones como gasto ya comprometido o ejecutado."
+        "La actividad del 26 de septiembre estaba anunciada como futura en las fuentes consultadas; estas evidencias no acreditan por sí mismas que finalmente se celebrara."
       ],
-      "id": "inv_486c531e47d327bb",
-      "investigated_at": "2026-09-27T22:14:12.235Z",
+      "id": "inv_6fad9db19fba1dc9",
+      "investigated_at": "2026-09-28T00:50:27.677Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c46f3a7f27f08f0bcb8dd16077fb12dfcffcf7461dd840490eb193d91f9dab50",
+      "title": "Calp lanza la campaña ‘Tu voz cuenta’ para fomentar el empadronamiento y la renovación del padrón",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La campaña está confirmada por el Ayuntamiento de Calp y por un medio local independiente. Las fuentes coinciden en que busca promover el empadronamiento y la renovación del padrón, especialmente entre residentes extranjeros, e incluye el reparto de 5.000 bolígrafos financiado mediante una subvención de la Diputación de Alicante.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp ha puesto en marcha la campaña ‘Tu voz cuenta. Empadrónate o renueva tu inscripción’.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La campaña se dirige especialmente a la población extranjera, aunque también al conjunto de residentes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La iniciativa contempla repartir 5.000 bolígrafos de cuatro colores a quienes se empadronen o renueven su inscripción.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La campaña pretende informar sobre los plazos de renovación y las ventajas administrativas y sociales del empadronamiento.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-lanza-la-campa%C3%B1a-tu-voz-cuenta-para-incentivar-el-empadronamiento-y",
+          "evidence": "La fuente oficial anuncia la campaña, identifica su público prioritario, señala la subvención de la Diputación de Alicante y detalla el reparto de 5.000 bolígrafos, los plazos de renovación y los trámites necesarios.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/09/23/tu-voz-cuenta-la-campana-de-calp-para-incentivar-el-empadronamiento-del-los-residentes-extranjeros/",
+          "evidence": "Medio local independiente confirma la puesta en marcha de la campaña, el objetivo de captar y actualizar inscripciones, el reparto de 5.000 bolígrafos y los plazos de renovación para residentes extranjeros.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/events/%F0%9F%97%B3%EF%B8%8F-calp-town-council-launches-the-your-voice-matters-campaign-to-encourage-registration-and-renewal-in-the-municipal-roll/?lang=en",
+          "evidence": "La versión municipal en inglés confirma la fecha de lanzamiento, el público destinatario, la subvención provincial, el número de bolígrafos y los requisitos generales del trámite.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "Las fuentes recogen estimaciones municipales sobre residentes extranjeros que no constan en el INE; no aportan un dato independiente que permita verificar esa estimación."
+      ],
+      "id": "inv_9987f49d54482eac",
+      "investigated_at": "2026-09-28T00:50:27.677Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "145d0d1b3ba28aa691712aad4b907b5c86d774c3dfe5c9e213f5c36910df4b80",
+      "title": "Calp inicia la remodelación del parque Arco Iris con una inversión de 114.829 euros",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La remodelación y sus características principales están respaldadas por un anuncio oficial previo, una fuente independiente sobre el proyecto y la información publicada sobre el inicio de las obras. La inversión exacta, el alcance de la actuación y el plazo previsto de seis semanas están suficientemente documentados.",
+      "claims": [
+        {
+          "claim": "Las obras de remodelación del parque Arco Iris han comenzado en septiembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación supone una inversión de 114.829 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto incluye la renovación del pavimento y una nueva zona infantil con estructura multijuegos y superficies amortiguadoras.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo previsto de ejecución es de seis semanas.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12315/calp-inicia-la-remodelacion-del-parque-arco-iris-con-una-inversion-de-114829-euros",
+          "evidence": "La noticia informa de que las obras comenzaron esa semana, cifra la inversión en 114.829 euros, describe la sustitución del pavimento y la nueva zona de juegos, y fija una duración estimada de seis semanas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-invertir%C3%A1-114829-euros-en-la-remodelaci%C3%B3n-del-parque-arco-iris",
+          "evidence": "La fuente oficial de 9 de julio de 2026 anunció la adjudicación propuesta, la inversión exacta, la renovación del pavimento, la instalación de la estructura multijuegos y el inicio previsto de las obras en septiembre con un plazo de seis semanas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Dénia FM / MarinaAlta.es",
+          "source_url": "https://marinaalta.es/podcast/informativo-denia-fm-10-07-2026/",
+          "evidence": "La información radiofónica independiente confirmó el proyecto de remodelación, la inversión aproximada de 115.000 euros, la renovación del pavimento, la nueva zona infantil y el plazo previsto de seis semanas con inicio en septiembre.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Alicitar",
+          "source_url": "https://www.alicitar.es/licitacion/9325274/suministro-e-instalacion-de-conjunto-de-juegos-infantiles-con-adecuacion-del-pav",
+          "evidence": "La base de datos de licitaciones identifica un procedimiento para el suministro e instalación de juegos infantiles y la adecuación del pavimento del Parque Arco Iris de Calp.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fuente independiente principal sobre el inicio de las obras es Calp Digital; las fuentes oficiales e independientes adicionales corroboran el proyecto y su planificación, pero no aportan una certificación de avance de obra posterior.",
+        "La finalización efectiva de las obras no queda acreditada por las fuentes consultadas a fecha de 28 de septiembre de 2026."
+      ],
+      "id": "inv_f433b039f2d20f84",
+      "investigated_at": "2026-09-28T00:50:27.677Z",
       "model": "gpt-5.6-luna"
     }
   ]
