@@ -1,135 +1,101 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-29T01:59:42.323Z",
+  "generated_at": "2026-09-29T08:34:07.754Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "41c5e894cf009bade436635f9e3fd8a66bac8764b501f7b36efcec6c1d5eedeb",
-      "title": "Calp amplía su apuesta por Alicante Gastronómica con más empresas locales y autobuses gratuitos",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "1887bab59592a2c039889e5d57eac852bbfa364b80e015fa79f0c6465f4b0e2e",
+      "title": "La nueva normativa de circulación que afectará a patinetes, bicicletas y motocicletas entra en vigor el 1 de octubre",
+      "status": "REJECTED",
       "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La noticia queda suficientemente corroborada. La feria Alicante Gastronómica está programada del 2 al 5 de octubre de 2026. Una información independiente cifra en 36.800 euros el contrato municipal vinculado a la presencia de Calp e incluye alimentos, material promocional, personal y dos excursiones en autobús. La fuente de La Marina Plaza aporta el detalle de empresas locales, productos, showcookings y autobuses gratuitos.",
-      "claims": [
-        {
-          "claim": "Alicante Gastronómica 2026 se celebrará del 2 al 5 de octubre en IFA-Fira Alacant.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento prevé una inversión de aproximadamente 30.000 a 40.000 euros para la participación de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La participación incluye productos y empresas locales, entre ellos Gamba Blanca de Calp, Peix de Calp, carnicerías, panaderías y bodegas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Casa Cantares y El Bambero protagonizarán showcookings vinculados a la participación de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se organizarán autobuses gratuitos desde Calp durante el fin de semana, con viaje de ida y vuelta y acceso a la feria.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
-          "evidence": "Informa de un contrato municipal de 36.800 euros para alimentos, material promocional, personal y transporte, y señala la previsión de dos autobuses de 55 plazas y 150 pulseras de acceso. También detalla la compra de productos tradicionales y la promoción de las marcas Peix de Calp y Gamba Blanca de Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/09/28/calp-va-con-todo-a-alicante-gastronomica-desde-su-gamba-blanca-hasta-embutidos-y-reposteria-tradicional",
-          "evidence": "Recoge la comparecencia municipal del 28 de septiembre y cifra la participación entre 30.000 y 40.000 euros. Detalla la presencia de Gamba Blanca de Calp, Peix de Calp, Cofradía de Pescadores, Carnicería Calpe, Carnicería Cloti, Panadería Rosa, Ca Loli y Bodegas Casanova, además de dos showcookings y autobuses gratuitos sábado y domingo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicante Gastronómica",
-          "source_url": "https://alicantegastronomica.com/alicante-gastronomica-impulsara-su-vocacion-de-evento-experiencial-en-su-nueva-edicion-del-2-al-5-de-octubre/",
-          "evidence": "La organización de la feria confirma que la octava edición se celebrará del 2 al 5 de octubre de 2026 en el recinto IFA-Fira Alacant.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2",
-          "evidence": "El dosier municipal de prensa recoge la información publicada por Calp Digital sobre el despliegue de productos locales de Calp en Alicante Gastronómica 2026, corroborando que el Ayuntamiento estaba preparando esa participación.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La cifra de 30.000-40.000 euros es una estimación comunicada públicamente; la fuente independiente identifica un contrato de 36.800 euros y otra reserva presupuestaria previa de 80.000 euros, que no debe confundirse automáticamente con el gasto final total.",
-        "La celebración de la feria y la planificación de la participación están corroboradas, pero la ejecución efectiva de todas las actividades dependerá de que se desarrollen conforme al programa anunciado."
-      ],
-      "id": "inv_7e58e0af0e0cd318",
-      "investigated_at": "2026-09-29T01:59:42.323Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "e65ce9faedddd6dfefde4d56eaf0b7ce4d139cc76904125a4f940c35ab13ad3f",
-      "title": "El turismo de Calp debate cómo crecer sin perder identidad ni vivienda para residentes",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La fuente candidata ofrece una crónica detallada de una mesa celebrada el 27 de septiembre de 2026 y encaja con el programa municipal del centenario turístico de Calp. Sin embargo, no se ha localizado una segunda fuente independiente que confirme la celebración concreta de la mesa, sus participantes y sus intervenciones. Las fuentes oficiales corroboran el centenario turístico y actividades relacionadas, pero no esta mesa específica.",
+      "summary": "El hecho principal —la entrada en vigor el 1 de octubre de 2026 del Real Decreto 518/2026, con nuevas obligaciones para VMP, bicicletas, motocicletas y ciclomotores— está respaldado por el BOE y fuentes oficiales. Sin embargo, la noticia contiene una afirmación materialmente incorrecta: sostiene que el casco será obligatorio en carretera para todos los ciclistas y que desaparecen las excepciones actuales. El texto legal mantiene la obligación general en vías interurbanas, pero en vías urbanas la impone a menores de 16 años y a quienes circulen profesionalmente en bicicleta. También presenta de forma incompleta los periodos transitorios relativos al alumbrado de los VMP y a los guantes homologados. No es publicable en su redacción actual.",
       "claims": [
         {
-          "claim": "Calp conmemora en 2026 el centenario de su historia turística, tomando 1926 como referencia simbólica.",
+          "claim": "El Real Decreto 518/2026 entra en vigor el 1 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El 27 de septiembre de 2026 se celebró una mesa redonda organizada por la Concejalía de Turismo y la Radio Municipal de Calp.",
-          "status": "UNVERIFIED"
+          "claim": "La reforma introduce nuevas obligaciones para los usuarios de patinetes o vehículos de movilidad personal, como edad mínima de 15 años, casco obligatorio y elementos luminosos o reflectantes en condiciones de baja visibilidad o por la noche.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La mesa reunió a Jaume Masó, Carmen Ibáñez, Mireia Ripoll y Marco Bittner.",
-          "status": "UNVERIFIED"
+          "claim": "El casco será obligatorio en carretera para todos los ciclistas y desaparecen las excepciones actuales.",
+          "status": "CONTRADICTED"
         },
         {
-          "claim": "El debate trató la renovación del destino, los límites del crecimiento, la sostenibilidad, la vivienda para trabajadores y la conservación de la identidad local.",
-          "status": "UNVERIFIED"
+          "claim": "Los adelantamientos a ciclistas en vías interurbanas deberán realizarse reduciendo la velocidad al menos 20 km/h respecto al límite, manteniendo 1,5 metros de separación y cambiando completamente de carril en determinados supuestos.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La actividad se celebró con motivo del Día Internacional del Turismo y del centenario turístico de Calp.",
-          "status": "UNVERIFIED"
+          "claim": "En vías urbanas, los vehículos motorizados deberán mantener cinco metros de separación con la bicicleta que les preceda en el mismo carril.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Conductores y pasajeros de motocicletas y ciclomotores deberán utilizar guantes en vías interurbanas y calzado cerrado en todo tipo de vías.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las motocicletas podrán circular por el arcén derecho en situaciones de congestión, con señalización y a un máximo de 30 km/h.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El incumplimiento de determinadas obligaciones de protección puede constituir una infracción grave sancionada con 200 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La obligación de utilizar alumbrado durante el día en los VMP comienza el 1 de octubre de 2027 y la exigencia de guantes homologados queda condicionada a una futura orden ministerial.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/09/28/el-turismo-de-calp-se-mira-al-espejo-cronica-de-una-mesa-redonda-en-su-dia-internacional",
-          "evidence": "Publica una crónica fechada el 28 de septiembre de 2026 y afirma que el 27 de septiembre la Concejalía de Turismo y la Radio Municipal organizaron una mesa con Jaume Masó, Carmen Ibáñez, Mireia Ripoll y Marco Bittner. La crónica describe un debate sobre crecimiento, renovación, vivienda, sostenibilidad e identidad local.",
+          "source_name": "Boletín Oficial del Estado — Real Decreto 518/2026",
+          "source_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889&lang=es",
+          "evidence": "Publica el Real Decreto 518/2026, de 24 de junio, y fija su entrada en vigor para el 1 de octubre de 2026. Regula la edad mínima de 15 años para conducir VMP, el casco obligatorio para sus conductores, los elementos luminosos o reflectantes, la separación urbana de cinco metros respecto a ciclistas, el adelantamiento interurbano con reducción de 20 km/h y la circulación de motocicletas por el arcén en congestiones a un máximo de 30 km/h. El artículo 118 mantiene para las bicicletas el casco en vías interurbanas, lo exige a menores de 16 años en todo tipo de vías y a ciclistas profesionales en vías urbanas; no establece el casco urbano universal para todos los ciclistas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Dirección General de Tráfico — nota oficial sobre el Real Decreto 518/2026",
+          "source_url": "https://www.dgt.es/export/sites/web-DGT/.galleries/downloads/nota_prensa/2026/20260623-RD-usuarios-vulnerables/nota-de-prensa.pdf",
+          "evidence": "Confirma que el real decreto entra en vigor el 1 de octubre de 2026. Indica que las disposiciones sobre alumbrado obligatorio diurno de los VMP y casco homologado para usuarios de motocicletas se aplicarán el 1 de octubre de 2027, y que la obligación de guantes homologados se aplicará cuando entre en vigor la orden ministerial que establezca sus especificaciones técnicas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ministerio del Interior — actualización del Reglamento General de Circulación",
+          "source_url": "https://www.interior.gob.es/opencms/va/detalle/articulo/Interior-actualiza-el-Reglamento-General-de-Circulacion-para-mejorar-la-proteccion-de-los-usuarios-vulnerables-de-la-via/",
+          "evidence": "Resume oficialmente las nuevas obligaciones para usuarios de VMP, bicicletas, ciclomotores y motocicletas, y señala que determinadas obligaciones de seguridad constituyen infracciones graves con sanción económica de 200 euros. También confirma la posibilidad de circulación de motocicletas por el arcén derecho en congestiones, con señalización y límite de 30 km/h.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+          "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722&p=20251204&tn=0",
+          "evidence": "Establece que las infracciones graves se sancionan con multa de 200 euros y considera infracción grave no utilizar el cinturón, el casco u otros elementos de protección obligatorios.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Alicante",
+          "source_url": "https://www.alicante.es/es/noticias/policia-retoma-control-patinetes-electricos-20-dias-activarse-normativa",
+          "evidence": "Confirma desde una administración local la entrada en vigor el 1 de octubre de 2026 y enumera como obligaciones objeto de control el casco, chaleco, luces, seguro, certificado de circulación y la edad superior a 15 años.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/11387/calp-conmemora-siglo-historia-turistica-con-programa-actividades-durante-todo-ano",
-          "evidence": "Informa de que el Ayuntamiento puso en marcha en 2026 el programa “100 años de turismo en Calpe”, tomando 1926 como referencia simbólica y anunciando actividades y debates sobre los retos futuros del sector.",
+          "source_url": "https://calpdigital.es/art/12336/la-dgt-estrena-nuevas-normas-el-1-de-octubre-que-cambia-y-que-multas-pueden-llegar-a-los-200-euros",
+          "evidence": "La noticia candidata afirma correctamente la fecha de entrada en vigor y recoge varias obligaciones confirmadas por el BOE, pero afirma incorrectamente que el casco será obligatorio en carretera para todos los ciclistas y presenta como plenamente inmediata la regulación de los guantes sin explicar la transición prevista para los guantes homologados.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp / Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%8F%96%EF%B8%8F-el-ayuntamiento-de-calp-inaugura-la-exposicion-100-anys-de-turisme-en-calp-nueva-sala-23-del-museo-del-turismo/",
-          "evidence": "Confirma que el Ayuntamiento desarrolló en 2026 la iniciativa “100 anys de turisme en Calp” y que inauguró una exposición sobre la historia turística del municipio el 10 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Tourist Info Calpe",
-          "source_url": "https://calpe.es/es/descubre-calpe/100-anos-historia-calpe",
-          "evidence": "Presenta el proyecto municipal sobre los 100 años de historia turística de Calp y describe la evolución del municipio como destino turístico y las tensiones entre crecimiento, identidad y modelo de alojamiento.",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La corroboración disponible confirma el contexto del centenario turístico, pero no la mesa redonda concreta ni sus asistentes.",
-        "No se ha encontrado una convocatoria, grabación, acta, agenda oficial o nota municipal independiente que permita verificar las intervenciones atribuidas a cada participante.",
-        "La afirmación sobre que Calp recibe visitantes y residentes de casi un centenar de nacionalidades tampoco queda verificada con las fuentes localizadas para esta investigación."
+        "La afirmación sobre el casco de los ciclistas es materialmente incorrecta tal como está redactada: la norma no elimina la diferencia entre vías interurbanas y urbanas ni impone el casco urbano a todos los ciclistas.",
+        "La obligación de guantes para motocicletas y ciclomotores existe en vías interurbanas, pero la exigencia de que sean homologados queda pendiente de una orden ministerial; mientras tanto se permiten guantes con las características actuales.",
+        "El alumbrado diurno obligatorio de los VMP no se exige desde el 1 de octubre de 2026, sino desde el 1 de octubre de 2027.",
+        "La cuantía de 200 euros se aplica a infracciones graves; no todas las obligaciones descritas implican automáticamente esa sanción en cualquier supuesto."
       ],
-      "id": "inv_aeb8995f3a7c3a38",
-      "investigated_at": "2026-09-29T01:59:42.323Z",
+      "id": "inv_1e72be13b0aab984",
+      "investigated_at": "2026-09-29T08:34:07.754Z",
       "model": "gpt-5.6-luna"
     }
   ]
