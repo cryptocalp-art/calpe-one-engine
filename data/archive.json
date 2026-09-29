@@ -3,9 +3,68 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-29T02:00:22.293Z",
-  "count": 32,
+  "updated_at": "2026-09-29T20:49:58.789Z",
+  "count": 33,
   "articles": [
+    {
+      "archive_id": "arc_fc0cf78bbe8f85ef",
+      "external_id": "drf_997ebd5486e6fc58",
+      "investigation_id": "inv_6a450fcc506f65ba",
+      "candidate_fingerprints": [
+        "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95"
+      ],
+      "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
+      "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
+      "summary": "Los Baños de la Reina recibieron 4.877 visitantes durante su primer año de apertura regular, según el balance difundido por medios locales a partir de datos atribuidos a la Concejalía de Cultura.",
+      "body": "Las visitas guiadas regulares al yacimiento comenzaron el 13 de septiembre de 2025. Desde entonces, el recuento del primer año suma 4.877 visitantes.\n\nEl desglose publicado sitúa en 3.610 el número de visitantes nacionales y en 1.267 el de extranjeros. Los dos grupos suman el total de 4.877 personas, por lo que la mayoría de las visitas correspondió a público procedente de España.\n\nEl balance ha sido difundido por Cadena SER Radio Dénia y Canfali, que coinciden tanto en la cifra total como en su distribución por procedencia. La fecha de inicio de las visitas guiadas regulares también consta en una comunicación municipal de septiembre de 2025.\n\nLas cifras deben entenderse como un balance atribuido al Ayuntamiento y no como una auditoría independiente, ya que no se ha localizado una publicación municipal primaria que detalle directamente los tres datos del recuento.",
+      "category": "TURISMO",
+      "seo_title": "Los Baños de la Reina suman 4.877 visitantes en un año",
+      "meta_description": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular, con 1.267 procedentes del extranjero.",
+      "sources": [
+        {
+          "name": "Cadena SER Radio Dénia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Canfali",
+          "url": "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://www.calp.es/es/aggregator/sources/2?page=29",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia",
+        "https://canfali.com/banos-reina-calp-visitas-primer-ano",
+        "https://www.calp.es/es/aggregator/sources/2?page=29"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "No se ha localizado una publicación municipal primaria que detalle directamente las cifras de 4.877, 3.610 y 1.267 visitantes. Las cifras aparecen en dos medios locales y parecen proceder del balance de la Concejalía de Cultura; conviene atribuirlas al Ayuntamiento y no presentarlas como una auditoría independiente.",
+          "La suma de 3.610 visitantes nacionales y 1.267 extranjeros coincide con el total de 4.877."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_1a0f363b42477b7f",
+        "quality_gate_evaluated_at": "2026-09-29T20:49:58.453Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Atribuir las cifras al Ayuntamiento o a la Concejalía de Cultura. No presentarlas como una auditoría independiente, porque el detalle numérico procede de dos medios locales."
+      ],
+      "published_at": "2026-09-29T20:49:43.998Z",
+      "updated_at": "2026-09-29T20:49:58.789Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_2c7c38a8954d8a0a",
       "external_id": "drf_89619caebae316a7",
@@ -1567,7 +1626,8 @@
       "external_id": "drf_eb698fa0e6dd1de2",
       "investigation_id": "inv_405e64f2301ce778",
       "candidate_fingerprints": [
-        "16f6be864260cc8cec55e96fa216c1bd9b252daa6d791b10d64d55450a2344d6"
+        "16f6be864260cc8cec55e96fa216c1bd9b252daa6d791b10d64d55450a2344d6",
+        "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b"
       ],
       "title": "Calp y Oceana abren el debate sobre una posible Reserva Marina junto al Penyal d’Ifac",
       "slug": "calp-oceana-reserva-marina-penyal-ifac",
@@ -1590,7 +1650,9 @@
       ],
       "source_urls": [
         "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
-        "https://lamarina.eldiario.es/ca/2026/09/22/calp-i-oceana-sotmeten-a-debat-la-proteccio-del-litoral-del-penyal-difac-com-a-reserva-marina"
+        "https://lamarina.eldiario.es/ca/2026/09/22/calp-i-oceana-sotmeten-a-debat-la-proteccio-del-litoral-del-penyal-difac-com-a-reserva-marina",
+        "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries",
+        "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -1605,7 +1667,7 @@
         "La información acredita una propuesta y una jornada informativa, no la declaración efectiva de la Reserva Marina."
       ],
       "published_at": "2026-09-25T19:04:08.736Z",
-      "updated_at": "2026-09-25T19:16:53.619Z",
+      "updated_at": "2026-09-29T20:49:58.789Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

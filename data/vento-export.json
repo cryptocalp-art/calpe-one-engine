@@ -3,12 +3,283 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-29T15:54:58.932Z",
+  "generated_at": "2026-09-29T20:49:58.625Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
-  "quarantined_count": 0,
-  "ready": [],
-  "quarantined": []
+  "drafts_seen": 3,
+  "ready_count": 2,
+  "quarantined_count": 1,
+  "ready": [
+    {
+      "export_id": "exp_ef4c707de38c7396",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-09-29T20:49:58.625Z",
+      "source_draft_id": "drf_997ebd5486e6fc58",
+      "source_investigation_id": "inv_6a450fcc506f65ba",
+      "candidate_fingerprint": "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95",
+      "quality_gate_id": "qg_1a0f363b42477b7f",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_997ebd5486e6fc58",
+        "investigation_id": "inv_6a450fcc506f65ba",
+        "candidate_fingerprint": "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95",
+        "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
+        "subtitle": "El balance atribuido al Ayuntamiento contabiliza 3.610 visitantes nacionales y 1.267 extranjeros desde septiembre de 2025",
+        "summary": "Los Baños de la Reina recibieron 4.877 visitantes durante su primer año de apertura regular, según el balance difundido por medios locales a partir de datos atribuidos a la Concejalía de Cultura.",
+        "body": "Las visitas guiadas regulares al yacimiento comenzaron el 13 de septiembre de 2025. Desde entonces, el recuento del primer año suma 4.877 visitantes.\n\nEl desglose publicado sitúa en 3.610 el número de visitantes nacionales y en 1.267 el de extranjeros. Los dos grupos suman el total de 4.877 personas, por lo que la mayoría de las visitas correspondió a público procedente de España.\n\nEl balance ha sido difundido por Cadena SER Radio Dénia y Canfali, que coinciden tanto en la cifra total como en su distribución por procedencia. La fecha de inicio de las visitas guiadas regulares también consta en una comunicación municipal de septiembre de 2025.\n\nLas cifras deben entenderse como un balance atribuido al Ayuntamiento y no como una auditoría independiente, ya que no se ha localizado una publicación municipal primaria que detalle directamente los tres datos del recuento.",
+        "category": "TURISMO",
+        "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
+        "seo_title": "Los Baños de la Reina suman 4.877 visitantes en un año",
+        "meta_description": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular, con 1.267 procedentes del extranjero.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_1a0f363b42477b7f",
+        "editorial_notes": [
+          "Atribuir las cifras al Ayuntamiento o a la Concejalía de Cultura. No presentarlas como una auditoría independiente, porque el detalle numérico procede de dos medios locales."
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Canfali",
+            "url": "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/es/aggregator/sources/2?page=29",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+          "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+          "https://www.calp.es/es/aggregator/sources/2?page=29"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "No se ha localizado una publicación municipal primaria que detalle directamente las cifras de 4.877, 3.610 y 1.267 visitantes. Las cifras aparecen en dos medios locales y parecen proceder del balance de la Concejalía de Cultura; conviene atribuirlas al Ayuntamiento y no presentarlas como una auditoría independiente.",
+            "La suma de 3.610 visitantes nacionales y 1.267 extranjeros coincide con el total de 4.877."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_1a0f363b42477b7f",
+          "quality_gate_evaluated_at": "2026-09-29T20:49:58.453Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-09-29T20:49:43.998Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_997ebd5486e6fc58",
+        "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
+        "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
+        "summary": "Los Baños de la Reina recibieron 4.877 visitantes durante su primer año de apertura regular, según el balance difundido por medios locales a partir de datos atribuidos a la Concejalía de Cultura.",
+        "body": "Las visitas guiadas regulares al yacimiento comenzaron el 13 de septiembre de 2025. Desde entonces, el recuento del primer año suma 4.877 visitantes.\n\nEl desglose publicado sitúa en 3.610 el número de visitantes nacionales y en 1.267 el de extranjeros. Los dos grupos suman el total de 4.877 personas, por lo que la mayoría de las visitas correspondió a público procedente de España.\n\nEl balance ha sido difundido por Cadena SER Radio Dénia y Canfali, que coinciden tanto en la cifra total como en su distribución por procedencia. La fecha de inicio de las visitas guiadas regulares también consta en una comunicación municipal de septiembre de 2025.\n\nLas cifras deben entenderse como un balance atribuido al Ayuntamiento y no como una auditoría independiente, ya que no se ha localizado una publicación municipal primaria que detalle directamente los tres datos del recuento.",
+        "category": "TURISMO",
+        "seo_title": "Los Baños de la Reina suman 4.877 visitantes en un año",
+        "meta_description": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular, con 1.267 procedentes del extranjero.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_1a0f363b42477b7f",
+        "published_at": null,
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+          "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+          "https://www.calp.es/es/aggregator/sources/2?page=29"
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Canfali",
+            "url": "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/es/aggregator/sources/2?page=29",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_6a450fcc506f65ba",
+        "candidate_fingerprint": "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "No se ha localizado una publicación municipal primaria que detalle directamente las cifras de 4.877, 3.610 y 1.267 visitantes. Las cifras aparecen en dos medios locales y parecen proceder del balance de la Concejalía de Cultura; conviene atribuirlas al Ayuntamiento y no presentarlas como una auditoría independiente.",
+            "La suma de 3.610 visitantes nacionales y 1.267 extranjeros coincide con el total de 4.877."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_1a0f363b42477b7f",
+          "quality_gate_evaluated_at": "2026-09-29T20:49:58.453Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_ffeae185d6e849fc",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-09-29T20:49:58.625Z",
+      "source_draft_id": "drf_972727890bf78043",
+      "source_investigation_id": "inv_8ea1a161ffb63163",
+      "candidate_fingerprint": "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b",
+      "quality_gate_id": "qg_21c087121188dc64",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_972727890bf78043",
+        "investigation_id": "inv_8ea1a161ffb63163",
+        "candidate_fingerprint": "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b",
+        "title": "Oceana y la Cofradía de Pescadores apoyan una reserva marina en el entorno del Penyal d’Ifac",
+        "subtitle": "La propuesta plantea proteger estrictamente 267 hectáreas y todavía debe ser tramitada por la Generalitat Valenciana",
+        "summary": "La propuesta para crear una reserva marina alrededor del Penyal d’Ifac cuenta con el respaldo de Oceana y de la Cofradía de Pescadores de Calp, pero aún no ha sido aprobada.",
+        "body": "Oceana respalda la creación de una reserva marina en el entorno del Penyal d’Ifac y propone que la protección estricta alcance 267 hectáreas. La organización reclama a la Generalitat Valenciana que apruebe la iniciativa.\n\nEl Ayuntamiento de Calp ha elevado la propuesta a la Conselleria competente. Según la información municipal, la Cofradía de Pescadores de Calp también ha expresado su apoyo a la iniciativa.\n\nLa propuesta pretende contribuir a la recuperación de hábitats, biodiversidad y recursos pesqueros. El ámbito planteado se sitúa alrededor del Penyal d’Ifac y se extiende desde sus faldas hasta el entorno de la playa de la Fossa, según la comunicación del Ayuntamiento.\n\nLa figura de protección no está vigente por el momento. La reserva depende de la tramitación de la Generalitat Valenciana y no consta una resolución publicada que apruebe definitivamente su creación. Por tanto, el respaldo de las entidades y la solicitud institucional no equivalen todavía a la declaración efectiva de la reserva marina.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "apoyos-reserva-marina-penyal-ifac",
+        "seo_title": "Apoyos a la reserva marina propuesta para el Penyal d’Ifac",
+        "meta_description": "Oceana y la Cofradía de Pescadores apoyan una reserva marina de 267 hectáreas en el entorno del Penyal d’Ifac, aún no aprobada.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_21c087121188dc64",
+        "editorial_notes": [
+          "Mantener en todo momento que se trata de una propuesta pendiente de aprobación. No afirmar que el entorno ya cuenta con la figura de reserva marina."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Oceana Europe",
+            "url": "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "ECOticias",
+            "url": "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+          "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La investigación confirma una propuesta y apoyos, no la declaración efectiva de la reserva marina.",
+            "No se ha localizado una resolución publicada por la Generalitat que apruebe definitivamente la reserva; por tanto, debe evitarse redactar que el espacio ya tiene esa figura de protección."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_21c087121188dc64",
+          "quality_gate_evaluated_at": "2026-09-29T20:49:58.453Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-09-29T20:49:43.998Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_972727890bf78043",
+        "title": "Oceana y la Cofradía de Pescadores apoyan una reserva marina en el entorno del Penyal d’Ifac",
+        "slug": "apoyos-reserva-marina-penyal-ifac",
+        "summary": "La propuesta para crear una reserva marina alrededor del Penyal d’Ifac cuenta con el respaldo de Oceana y de la Cofradía de Pescadores de Calp, pero aún no ha sido aprobada.",
+        "body": "Oceana respalda la creación de una reserva marina en el entorno del Penyal d’Ifac y propone que la protección estricta alcance 267 hectáreas. La organización reclama a la Generalitat Valenciana que apruebe la iniciativa.\n\nEl Ayuntamiento de Calp ha elevado la propuesta a la Conselleria competente. Según la información municipal, la Cofradía de Pescadores de Calp también ha expresado su apoyo a la iniciativa.\n\nLa propuesta pretende contribuir a la recuperación de hábitats, biodiversidad y recursos pesqueros. El ámbito planteado se sitúa alrededor del Penyal d’Ifac y se extiende desde sus faldas hasta el entorno de la playa de la Fossa, según la comunicación del Ayuntamiento.\n\nLa figura de protección no está vigente por el momento. La reserva depende de la tramitación de la Generalitat Valenciana y no consta una resolución publicada que apruebe definitivamente su creación. Por tanto, el respaldo de las entidades y la solicitud institucional no equivalen todavía a la declaración efectiva de la reserva marina.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Apoyos a la reserva marina propuesta para el Penyal d’Ifac",
+        "meta_description": "Oceana y la Cofradía de Pescadores apoyan una reserva marina de 267 hectáreas en el entorno del Penyal d’Ifac, aún no aprobada.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_21c087121188dc64",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+          "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Oceana Europe",
+            "url": "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "ECOticias",
+            "url": "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_8ea1a161ffb63163",
+        "candidate_fingerprint": "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La investigación confirma una propuesta y apoyos, no la declaración efectiva de la reserva marina.",
+            "No se ha localizado una resolución publicada por la Generalitat que apruebe definitivamente la reserva; por tanto, debe evitarse redactar que el espacio ya tiene esa figura de protección."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_21c087121188dc64",
+          "quality_gate_evaluated_at": "2026-09-29T20:49:58.453Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
+  "quarantined": [
+    {
+      "export_id": "exp_9e45c65f63c6067d",
+      "draft_id": "drf_f9c0f22e41646346",
+      "investigation_id": "inv_13a513d83383bc0a",
+      "slug": "boe-convoca-plaza-oficial-policia-local-calp",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "BODY_TOO_SHORT_FOR_AUTOMATED_PUBLICATION"
+      ]
+    }
+  ]
 }

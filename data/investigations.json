@@ -1,137 +1,164 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-29T15:54:27.089Z",
+  "generated_at": "2026-09-29T20:49:17.251Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "cbcab6b8a372464fc9f6bfeb57ce25bacf2ccff000e8695707f72e3422ff2ade",
-      "title": "Calp roza los 5.000 visitantes en los Baños de la Reina durante su primer año de apertura",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La Cadena SER publica que los Baños de la Reina recibieron 4.877 visitantes desde el inicio de las visitas guiadas regulares en septiembre de 2025, de los que 1.267 fueron extranjeros. La apertura regular y el funcionamiento de las visitas están respaldados por fuentes municipales, pero no se ha localizado una fuente independiente ni un comunicado oficial que confirme el balance acumulado de 4.877 visitantes y su desglose por procedencia.",
+      "candidate_fingerprint": "7d410e1aaf138516eeca207d317b030ddfc9523a0f09ed33a5e773997b8f47d9",
+      "title": "El BOE publica la convocatoria de una plaza de oficial de Policía Local en Calp",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La resolución del BOE de 29 de septiembre de 2026 confirma la convocatoria del Ayuntamiento de Calp para cubrir una plaza de Oficial de Policía Local mediante concurso-oposición y promoción interna. También establece un plazo de veinte días hábiles desde el día siguiente a la publicación.",
       "claims": [
         {
-          "claim": "Los Baños de la Reina comenzaron sus visitas guiadas regulares el 13 de septiembre de 2025.",
+          "claim": "El BOE publicó el 29 de septiembre de 2026 una resolución del Ayuntamiento de Calp relativa a la convocatoria de una plaza.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El yacimiento recibió 4.877 visitantes durante su primer año de apertura regular.",
-          "status": "UNVERIFIED"
+          "claim": "La plaza corresponde a Oficial de Policía Local.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "De los visitantes contabilizados, 3.610 eran nacionales y 1.267 extranjeros.",
-          "status": "UNVERIFIED"
+          "claim": "El sistema de selección es concurso-oposición, en turno de promoción interna.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "Los visitantes extranjeros procedían principalmente de Francia, Bélgica, Reino Unido y Alemania.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El yacimiento está consolidando su papel como recurso turístico y cultural más allá del sol y playa.",
-          "status": "UNVERIFIED"
+          "claim": "El plazo de presentación de solicitudes es de veinte días hábiles desde el día siguiente a la publicación en el BOE.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER - Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
-          "evidence": "Informa de 4.877 visitantes desde el 13 de septiembre de 2025 y desglosa la cifra en 3.610 visitantes nacionales y 1.267 extranjeros. Atribuye los datos al Ayuntamiento de Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp - Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/comienzan-las-visitas-guiadas-regulares-al-yacimiento-de-banys-de-la-reina",
-          "evidence": "Confirma que el yacimiento comenzó a abrirse regularmente al público el 13 de septiembre de 2025 y que se pusieron en marcha visitas guiadas gratuitas con periodicidad semanal.",
+          "source_name": "Boletín Oficial del Estado",
+          "source_url": "https://www.boe.es/boe/dias/2026/09/29/pdfs/BOE-A-2026-20176.pdf",
+          "evidence": "La Resolución de 16 de septiembre de 2026, publicada en el BOE núm. 240 de 29 de septiembre de 2026, convoca una plaza de Oficial de Policía Local del Ayuntamiento de Calp por concurso-oposición y promoción interna. Fija un plazo de veinte días hábiles desde el día siguiente a la publicación.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp - Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/1000-personas-participaron-en-las-visitas-guiadas-banys-de-la-reina-en-los-dos-primeros",
-          "evidence": "Publica un balance municipal de 1.000 participantes en las visitas guiadas durante los dos primeros meses de servicio, desde su puesta en marcha el 17 de septiembre de 2025. No confirma la cifra posterior de 4.877 visitantes ni el desglose por nacionalidad.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp - Casa de Cultura",
-          "source_url": "https://cultura.calp.es/es/eventos/visitas-guiadas-banys-de-la-reina-0",
-          "evidence": "Acredita que durante 2026 continuaron las visitas guiadas gratuitas al yacimiento, con grupos limitados e inscripción previa.",
+          "source_name": "Boletín Oficial de la Provincia de Alicante",
+          "source_url": "https://www.dip-alicante.es/bop2/pdftotal/2026/04/01_62/2026_003456.pdf",
+          "evidence": "El anuncio de bases citado por el BOE permite comprobar el antecedente administrativo de la convocatoria municipal y sus condiciones reguladoras.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La cifra de 4.877 visitantes aparece únicamente localizada en la noticia de Cadena SER y se atribuye genéricamente al Ayuntamiento.",
-        "No se ha encontrado un comunicado, informe estadístico o publicación oficial municipal que confirme el balance anual completo y el desglose de 1.267 visitantes extranjeros.",
-        "La conclusión sobre la consolidación turística es valorativa y no constituye un dato directamente verificable."
+        "La fuente primaria suficiente es el propio BOE; la convocatoria no implica que la plaza haya sido cubierta, solo que se ha abierto el procedimiento selectivo."
       ],
-      "id": "inv_e1bfaa74f80e4532",
-      "investigated_at": "2026-09-29T15:54:27.089Z",
+      "id": "inv_13a513d83383bc0a",
+      "investigated_at": "2026-09-29T20:49:17.251Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "c910ab6f71ce4814aa7fd4ab95eda87e5fd7800c1af8d94acc6401a7b90b0210",
-      "title": "La Generalitat sitúa antes de finalizar 2026 la terminación del IES Les Salines y del CEE Gargasindi",
-      "status": "REJECTED",
-      "confidence": "HIGH",
-      "publishable": false,
-      "summary": "La afirmación no corresponde exactamente con la evidencia localizada: la noticia de Cadena SER atribuye la previsión a diputados del PP, no a la Generalitat. Además, una actualización oficial del Ayuntamiento de Calp de mayo de 2026 fija la apertura del IES Les Salines para el 7 de enero de 2027, aunque contempla que las obras terminen antes. La previsión de finalización del CEE Gargasindi antes de acabar 2026 aparece en documentos municipales anteriores como una expectativa condicionada, no como un calendario confirmado por la Generalitat.",
+      "candidate_fingerprint": "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95",
+      "title": "Los Baños de la Reina rozan los 5.000 visitantes durante su primer año de apertura regular",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "Dos medios locales, Cadena SER Radio Dénia y Canfali, publican el mismo balance: 4.877 visitantes en el primer año de apertura regular de los Baños de la Reina, iniciado el 13 de septiembre de 2025. Ambos desglosan 3.610 visitantes nacionales y 1.267 extranjeros. La fecha de inicio de las visitas regulares también consta en una comunicación oficial municipal de 2025.",
       "claims": [
         {
-          "claim": "Diputados autonómicos del PP afirmaron que el IES Les Salines y el CEE Gargasindi deberían estar terminados antes de acabar 2026.",
+          "claim": "Los Baños de la Reina recibieron 4.877 visitantes durante su primer año de apertura regular.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Generalitat Valenciana sitúa oficialmente la terminación de ambos centros antes de finalizar 2026.",
-          "status": "CONTRADICTED"
-        },
-        {
-          "claim": "El IES Les Salines abrirá sus puertas el 7 de enero de 2027.",
+          "claim": "Las visitas guiadas regulares comenzaron el 13 de septiembre de 2025.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El CEE Gargasindi tenía una previsión municipal de apertura para el curso 2026/2027.",
+          "claim": "La mayoría de los visitantes procedía de España.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La terminación antes de acabar 2026 está confirmada y no es solo una previsión condicionada.",
-          "status": "CONTRADICTED"
+          "claim": "Se registraron 1.267 visitantes extranjeros.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER - Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia/",
-          "evidence": "Indica que diputados del Partido Popular han señalado que el nuevo IES Les Salines de Calp y el Centro de Educación Especial Gargasindi deberían estar terminados antes de que acabe 2026. La fuente no atribuye esa previsión a una resolución o anuncio de la Generalitat.",
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+          "evidence": "Informa de 4.877 visitantes desde el comienzo de las visitas guiadas diarias el 13 de septiembre de 2025. Desglosa 3.610 visitantes nacionales y 1.267 extranjeros.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp - Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/el-nuevo-instituto-de-calp-abrir%C3%A1-sus-puertas-el-7-de-enero-de-2027",
-          "evidence": "Informa, tras una visita técnica a las obras, de que el IES Les Salines abrirá el 7 de enero de 2027. También señala que el curso 2026/2027 comenzará en aulas provisionales y que el traslado al nuevo centro se prevé durante las vacaciones de Navidad.",
-          "source_type": "PRIMARY"
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+          "evidence": "Publica el mismo balance anual de 4.877 visitas y el desglose de 3.610 turistas nacionales y 1.267 internacionales, además de confirmar que las visitas guiadas comenzaron el 13 de septiembre del año anterior.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp - Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-adjudica-las-obras-del-nuevo-ies-y-el-cee-gargasindi",
-          "evidence": "Confirma la adjudicación de las obras del IES Les Salines por 14.748.935,36 euros y 24 meses, y del CEE Gargasindi por 7.055.799,57 euros y 15 meses. La previsión municipal de ejecución a finales de 2026 estaba condicionada a que no hubiera contingencias y el proceso se desarrollara con normalidad.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp - Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/las-obras-del-nuevo-cee-gargasindi-comenzar%C3%A1n-el-9-de-diciembre",
-          "evidence": "Indica que las obras del CEE Gargasindi comenzaron el 9 de diciembre de 2024, con un plazo de ejecución de 15 meses, y que se esperaba que el centro pudiera abrir durante el curso 2026/2027.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2?page=29",
+          "evidence": "La comunicación municipal de septiembre de 2025 anuncia el inicio de las visitas guiadas regulares al yacimiento a partir del sábado 13 de septiembre.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "El título atribuye la previsión a la Generalitat, pero la noticia enlazada la atribuye a diputados autonómicos del PP.",
-        "La apertura del IES está oficialmente prevista para el 7 de enero de 2027, aunque esto no excluye necesariamente que la obra pudiera finalizar en diciembre de 2026.",
-        "No se ha localizado una comunicación oficial de la Generalitat que confirme para ambos centros la terminación antes del 31 de diciembre de 2026.",
-        "La previsión municipal de 2024 estaba expresamente condicionada a la ausencia de contingencias."
+        "No se ha localizado una publicación municipal primaria que detalle directamente las cifras de 4.877, 3.610 y 1.267 visitantes. Las cifras aparecen en dos medios locales y parecen proceder del balance de la Concejalía de Cultura; conviene atribuirlas al Ayuntamiento y no presentarlas como una auditoría independiente.",
+        "La suma de 3.610 visitantes nacionales y 1.267 extranjeros coincide con el total de 4.877."
       ],
-      "id": "inv_515f374f6494ce22",
-      "investigated_at": "2026-09-29T15:54:27.089Z",
+      "id": "inv_6a450fcc506f65ba",
+      "investigated_at": "2026-09-29T20:49:17.251Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b",
+      "title": "La propuesta de Reserva Marina del Penyal d’Ifac suma el respaldo de Oceana y de la Cofradía de Pescadores",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La propuesta de reserva marina alrededor del Penyal d’Ifac cuenta con el apoyo de Oceana y de la Cofradía de Pescadores de Calp. Oceana sitúa en 267 hectáreas el área cuya protección estricta respalda. El Ayuntamiento confirma que la iniciativa fue elevada a la Conselleria y que la Cofradía apoya la propuesta. La reserva todavía no consta como aprobada y Oceana reclama a la Generalitat que la apruebe.",
+      "claims": [
+        {
+          "claim": "Oceana respalda la creación de una reserva marina alrededor del Penyal d’Ifac.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Cofradía de Pescadores de Calp apoya la iniciativa.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La protección estricta propuesta afecta a 267 hectáreas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La propuesta pretende recuperar hábitats, biodiversidad y recursos pesqueros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La reserva aún no está aprobada y depende de la tramitación de la Generalitat Valenciana.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "evidence": "El Ayuntamiento informa de que el Pleno acordó solicitar a la Conselleria de Agricultura y Pesca la creación de una reserva marina desde las faldas del Penyal d’Ifac hasta el entorno de la playa de la Fossa. También afirma que la Cofradía de Pescadores de Calp ha mostrado su apoyo.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Oceana Europe",
+          "source_url": "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+          "evidence": "Oceana anuncia su apoyo a la reserva marina, respalda la protección estricta de 267 hectáreas y señala que la propuesta está liderada junto con el Ayuntamiento, la Cofradía de Pescadores y el IMEDMAR. La organización pide al Gobierno valenciano que apruebe la propuesta.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "ECOticias",
+          "source_url": "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach",
+          "evidence": "Recoge que Oceana y la Cofradía respaldan la reserva, que el área propuesta comprende 267 hectáreas y que el Ayuntamiento solicitó a la Generalitat su creación en junio. Indica expresamente que la reserva todavía no está aprobada.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La investigación confirma una propuesta y apoyos, no la declaración efectiva de la reserva marina.",
+        "No se ha localizado una resolución publicada por la Generalitat que apruebe definitivamente la reserva; por tanto, debe evitarse redactar que el espacio ya tiene esa figura de protección."
+      ],
+      "id": "inv_8ea1a161ffb63163",
+      "investigated_at": "2026-09-29T20:49:17.251Z",
       "model": "gpt-5.6-luna"
     }
   ]

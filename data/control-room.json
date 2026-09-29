@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-29T15:55:02.984Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-29T15:55:02.805Z",
+  "generated_at": "2026-09-29T20:50:06.027Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-09-29T20:50:05.849Z",
   "newspaper": {
-    "archive_total": 32,
-    "published_today": 1,
-    "published_last_7_days": 32,
+    "archive_total": 33,
+    "published_today": 2,
+    "published_last_7_days": 33,
     "categories": {
+      "TURISMO": 5,
       "ECONOMIA": 5,
       "MEDIO_AMBIENTE": 6,
       "DEPORTES": 1,
       "SOCIEDAD": 5,
       "CULTURA": 3,
-      "TURISMO": 4,
       "LOCAL": 6,
       "SUCESOS": 1,
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_fc0cf78bbe8f85ef",
+        "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
+        "category": "TURISMO",
+        "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
+        "published_at": "2026-09-29T20:49:43.998Z"
+      },
       {
         "archive_id": "arc_2c7c38a8954d8a0a",
         "title": "Calp prepara su participación en Alicante Gastronómica con empresas locales y autobuses gratuitos",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "marina-alta-pierde-afiliaciones-agosto",
         "published_at": "2026-09-26T17:13:24.782Z"
-      },
-      {
-        "archive_id": "arc_b165bf3368281ab8",
-        "title": "Calp programa una jornada especial por el 50 aniversario de los Moros y Cristianos",
-        "category": "CULTURA",
-        "slug": "calp-jornada-50-aniversario-moros-cristianos",
-        "published_at": "2026-09-26T17:13:24.782Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 2,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,5 +102,15 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_f9c0f22e41646346",
+      "slug": "boe-convoca-plaza-oficial-policia-local-calp",
+      "category": "LOCAL",
+      "reasons": [
+        "BODY_TOO_SHORT_FOR_AUTOMATED_PUBLICATION"
+      ],
+      "evaluated_at": "2026-09-29T20:49:58.453Z"
+    }
+  ]
 }

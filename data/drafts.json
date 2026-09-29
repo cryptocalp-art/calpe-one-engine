@@ -1,8 +1,144 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-09-29T15:54:58.609Z",
+  "generated_at": "2026-09-29T20:49:43.998Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 3,
+  "drafts": [
+    {
+      "id": "drf_f9c0f22e41646346",
+      "investigation_id": "inv_13a513d83383bc0a",
+      "candidate_fingerprint": "7d410e1aaf138516eeca207d317b030ddfc9523a0f09ed33a5e773997b8f47d9",
+      "category": "LOCAL",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-29T20:49:43.998Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El BOE publica la convocatoria de una plaza de oficial de Policía Local en Calp",
+      "subheadline": "El proceso se cubrirá mediante concurso-oposición y promoción interna, con un plazo de 20 días hábiles para presentar solicitudes",
+      "lead": "El Boletín Oficial del Estado publicó este martes, 29 de septiembre, la convocatoria del Ayuntamiento de Calp para cubrir una plaza de Oficial de Policía Local.",
+      "body_markdown": "El procedimiento selectivo contempla el sistema de concurso-oposición y se desarrollará por el turno de promoción interna, según la resolución publicada en el BOE.\n\nLas personas interesadas disponen de un plazo de veinte días hábiles para presentar sus solicitudes. El cómputo comienza el día siguiente al de la publicación de la convocatoria en el Boletín Oficial del Estado.\n\nLa convocatoria corresponde a una plaza de Oficial de Policía Local del Ayuntamiento de Calp. La publicación oficial abre el procedimiento selectivo, pero no significa que la plaza haya sido cubierta.\n\nLas condiciones reguladoras de la convocatoria tienen como antecedente administrativo el anuncio de bases publicado en el Boletín Oficial de la Provincia de Alicante.",
+      "seo_title": "El BOE convoca una plaza de oficial de Policía Local en Calp",
+      "meta_description": "El BOE publica la convocatoria de una plaza de Oficial de Policía Local en Calp por concurso-oposición y promoción interna.",
+      "slug": "boe-convoca-plaza-oficial-policia-local-calp",
+      "editorial_notes": [
+        "La convocatoria abre el procedimiento selectivo, pero no acredita que la plaza haya sido cubierta."
+      ],
+      "sources": [
+        {
+          "source_name": "Boletín Oficial del Estado",
+          "source_url": "https://www.boe.es/boe/dias/2026/09/29/pdfs/BOE-A-2026-20176.pdf",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Boletín Oficial de la Provincia de Alicante",
+          "source_url": "https://www.dip-alicante.es/bop2/pdftotal/2026/04/01_62/2026_003456.pdf",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 2,
+        "caveats": [
+          "La fuente primaria suficiente es el propio BOE; la convocatoria no implica que la plaza haya sido cubierta, solo que se ha abierto el procedimiento selectivo."
+        ]
+      }
+    },
+    {
+      "id": "drf_997ebd5486e6fc58",
+      "investigation_id": "inv_6a450fcc506f65ba",
+      "candidate_fingerprint": "06fc93b2b46b39d36ff60460cd6ff5a5d8d7b9034937905c3ebe7d91c9300e95",
+      "category": "TURISMO",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-29T20:49:43.998Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
+      "subheadline": "El balance atribuido al Ayuntamiento contabiliza 3.610 visitantes nacionales y 1.267 extranjeros desde septiembre de 2025",
+      "lead": "Los Baños de la Reina recibieron 4.877 visitantes durante su primer año de apertura regular, según el balance difundido por medios locales a partir de datos atribuidos a la Concejalía de Cultura.",
+      "body_markdown": "Las visitas guiadas regulares al yacimiento comenzaron el 13 de septiembre de 2025. Desde entonces, el recuento del primer año suma 4.877 visitantes.\n\nEl desglose publicado sitúa en 3.610 el número de visitantes nacionales y en 1.267 el de extranjeros. Los dos grupos suman el total de 4.877 personas, por lo que la mayoría de las visitas correspondió a público procedente de España.\n\nEl balance ha sido difundido por Cadena SER Radio Dénia y Canfali, que coinciden tanto en la cifra total como en su distribución por procedencia. La fecha de inicio de las visitas guiadas regulares también consta en una comunicación municipal de septiembre de 2025.\n\nLas cifras deben entenderse como un balance atribuido al Ayuntamiento y no como una auditoría independiente, ya que no se ha localizado una publicación municipal primaria que detalle directamente los tres datos del recuento.",
+      "seo_title": "Los Baños de la Reina suman 4.877 visitantes en un año",
+      "meta_description": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular, con 1.267 procedentes del extranjero.",
+      "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
+      "editorial_notes": [
+        "Atribuir las cifras al Ayuntamiento o a la Concejalía de Cultura. No presentarlas como una auditoría independiente, porque el detalle numérico procede de dos medios locales."
+      ],
+      "sources": [
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/banos-reina-calp-visitas-primer-ano/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2?page=29",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "No se ha localizado una publicación municipal primaria que detalle directamente las cifras de 4.877, 3.610 y 1.267 visitantes. Las cifras aparecen en dos medios locales y parecen proceder del balance de la Concejalía de Cultura; conviene atribuirlas al Ayuntamiento y no presentarlas como una auditoría independiente.",
+          "La suma de 3.610 visitantes nacionales y 1.267 extranjeros coincide con el total de 4.877."
+        ]
+      }
+    },
+    {
+      "id": "drf_972727890bf78043",
+      "investigation_id": "inv_8ea1a161ffb63163",
+      "candidate_fingerprint": "54637bbf081d2567ab2c291d21a6eb128b221e3381bd603f17d6939f015fdb3b",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-29T20:49:43.998Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Oceana y la Cofradía de Pescadores apoyan una reserva marina en el entorno del Penyal d’Ifac",
+      "subheadline": "La propuesta plantea proteger estrictamente 267 hectáreas y todavía debe ser tramitada por la Generalitat Valenciana",
+      "lead": "La propuesta para crear una reserva marina alrededor del Penyal d’Ifac cuenta con el respaldo de Oceana y de la Cofradía de Pescadores de Calp, pero aún no ha sido aprobada.",
+      "body_markdown": "Oceana respalda la creación de una reserva marina en el entorno del Penyal d’Ifac y propone que la protección estricta alcance 267 hectáreas. La organización reclama a la Generalitat Valenciana que apruebe la iniciativa.\n\nEl Ayuntamiento de Calp ha elevado la propuesta a la Conselleria competente. Según la información municipal, la Cofradía de Pescadores de Calp también ha expresado su apoyo a la iniciativa.\n\nLa propuesta pretende contribuir a la recuperación de hábitats, biodiversidad y recursos pesqueros. El ámbito planteado se sitúa alrededor del Penyal d’Ifac y se extiende desde sus faldas hasta el entorno de la playa de la Fossa, según la comunicación del Ayuntamiento.\n\nLa figura de protección no está vigente por el momento. La reserva depende de la tramitación de la Generalitat Valenciana y no consta una resolución publicada que apruebe definitivamente su creación. Por tanto, el respaldo de las entidades y la solicitud institucional no equivalen todavía a la declaración efectiva de la reserva marina.",
+      "seo_title": "Apoyos a la reserva marina propuesta para el Penyal d’Ifac",
+      "meta_description": "Oceana y la Cofradía de Pescadores apoyan una reserva marina de 267 hectáreas en el entorno del Penyal d’Ifac, aún no aprobada.",
+      "slug": "apoyos-reserva-marina-penyal-ifac",
+      "editorial_notes": [
+        "Mantener en todo momento que se trata de una propuesta pendiente de aprobación. No afirmar que el entorno ya cuenta con la figura de reserva marina."
+      ],
+      "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Oceana Europe",
+          "source_url": "https://europe.oceana.org/press-releases/oceana-supports-the-creation-of-a-marine-reserve-in-calpe-to-restore-local-fisheries/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "ECOticias",
+          "source_url": "https://www.ecoticias.com/medio-ambiente/reserva-marina-en-calp-pesca-penon-ifach",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La investigación confirma una propuesta y apoyos, no la declaración efectiva de la reserva marina.",
+          "No se ha localizado una resolución publicada por la Generalitat que apruebe definitivamente la reserva; por tanto, debe evitarse redactar que el espacio ya tiene esa figura de protección."
+        ]
+      }
+    }
+  ]
 }
