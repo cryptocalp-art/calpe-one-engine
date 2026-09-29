@@ -1,59 +1,71 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-09-29T08:33:25.367Z",
+  "generated_at": "2026-09-29T15:53:42.398Z",
   "model": "gpt-5.6-luna",
   "archive_count": 32,
-  "duplicates_filtered": 1,
-  "count": 4,
+  "duplicates_filtered": 2,
+  "count": 5,
   "candidates": [
     {
-      "title": "La nueva normativa de circulación que afectará a patinetes, bicicletas y motocicletas entra en vigor el 1 de octubre",
-      "summary": "La reforma del Reglamento General de Circulación introduce nuevas obligaciones para usuarios de patinetes, ciclistas y motoristas, con sanciones de hasta 200 euros en algunos casos. ([calpdigital.es](https://calpdigital.es/art/12336/la-dgt-estrena-nuevas-normas-el-1-de-octubre-que-cambia-y-que-multas-pueden-llegar-a-los-200-euros?utm_source=openai))",
+      "title": "Calp roza los 5.000 visitantes en los Baños de la Reina durante su primer año de apertura",
+      "summary": "El yacimiento romano ha recibido 4.877 visitantes desde septiembre de 2025, incluidos 1.267 extranjeros, y consolida su papel como recurso turístico y cultural más allá del sol y playa.",
+      "source_name": "Cadena SER - Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/29/calp-roza-los-5000-visitantes-en-los-banos-de-la-reina-durante-su-primer-ano-de-apertura-radio-denia",
+      "published_at": "2026-09-29T12:20:00+02:00",
+      "category": "TURISMO",
+      "relevance": 91,
+      "reason": "Aporta datos nuevos sobre uno de los principales recursos patrimoniales de Calp y puede influir en la estrategia turística, cultural y de visitas del municipio.",
+      "detected_at": "2026-09-29T15:53:42.398Z",
+      "fingerprint": "cbcab6b8a372464fc9f6bfeb57ce25bacf2ccff000e8695707f72e3422ff2ade"
+    },
+    {
+      "title": "La Generalitat sitúa antes de finalizar 2026 la terminación del IES Les Salines y del CEE Gargasindi",
+      "summary": "Diputados autonómicos del PP han asegurado que el nuevo instituto de Calp y el Centro de Educación Especial Gargasindi deberían estar terminados antes de acabar 2026.",
+      "source_name": "Cadena SER - Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia",
+      "published_at": "2026-09-18T14:14:00+02:00",
+      "category": "SOCIEDAD",
+      "relevance": 94,
+      "reason": "Afecta directamente a cientos de familias de Calp y actualiza los plazos de dos infraestructuras educativas pendientes, incluido el centro que actualmente presta servicio al alumnado con necesidades especiales.",
+      "detected_at": "2026-09-29T15:53:42.398Z",
+      "fingerprint": "c910ab6f71ce4814aa7fd4ab95eda87e5fd7800c1af8d94acc6401a7b90b0210"
+    },
+    {
+      "title": "Un pesquero descarga cerca de 100 peces espada en el puerto de Calp",
+      "summary": "El barco Tío Michel, procedente de Almería, descargó cerca de un centenar de ejemplares, unos 1.600 kilos, en una operación vinculada al debate sobre la pesca sostenible y la futura reserva marina del Penyal d’Ifac.",
+      "source_name": "Periódico de Valencia",
+      "source_url": "https://periodico.top/valencia/calp-recibe-la-descarga-de-100-peces-espada-capturados-por-un-barco-de-almeria",
+      "published_at": "2026-09-27T08:27:00+02:00",
+      "category": "ECONOMIA",
+      "relevance": 77,
+      "reason": "Relaciona actividad portuaria, sector pesquero, comercialización de producto y el debate ambiental sobre la protección de las aguas de Calp.",
+      "detected_at": "2026-09-29T15:53:42.398Z",
+      "fingerprint": "18a40c6485c603bc0866be9afe6b10a5ba3816b42d25426cd9ada03a0ab8029d"
+    },
+    {
+      "title": "La DGT aplicará desde el 1 de octubre nuevas obligaciones para patinetes, bicicletas y motocicletas",
+      "summary": "La reforma del Reglamento General de Circulación introduce casco obligatorio para usuarios de patinetes, edad mínima de 15 años, nuevas obligaciones para ciclistas y requisitos adicionales para motoristas, con multas de hasta 200 euros.",
       "source_name": "Calp Digital",
       "source_url": "https://calpdigital.es/art/12336/la-dgt-estrena-nuevas-normas-el-1-de-octubre-que-cambia-y-que-multas-pueden-llegar-a-los-200-euros",
       "published_at": "2026-09-27",
-      "category": "TURISMO",
-      "relevance": 80,
-      "reason": "Tiene aplicación directa en las calles y carreteras de Calp desde el 1 de octubre y afecta especialmente a la movilidad urbana, los visitantes y los usuarios de vehículos de movilidad personal.",
-      "detected_at": "2026-09-29T08:33:25.367Z",
-      "fingerprint": "1887bab59592a2c039889e5d57eac852bbfa364b80e015fa79f0c6465f4b0e2e"
-    },
-    {
-      "title": "Una jornada de recogida de basuraleza retira 854 kilos de residuos en el entorno de Casa del Cocó y Casa Nova",
-      "summary": "Unos 70 voluntarios participaron en una actuación de limpieza ambiental en el área de Casa del Cocó y Casa Nova, con especial colaboración de ciclistas calpinos. ([calpcomunica.calp.es](https://calpcomunica.calp.es/page/4/?utm_source=openai))",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://calpcomunica.calp.es/page/4",
-      "published_at": "2026-09-28",
-      "category": "MEDIO_AMBIENTE",
-      "relevance": 76,
-      "reason": "Afecta a espacios naturales y periurbanos del término municipal y aporta un dato concreto sobre la presión de residuos y la participación ciudadana en su retirada.",
-      "detected_at": "2026-09-29T08:33:25.367Z",
-      "fingerprint": "e40764b6cc74a000732a174a8ddb153a509973357d08c7fff4de6cd91d69a5cd"
-    },
-    {
-      "title": "Un barco de Almería descarga en el puerto de Calp un centenar de peces espada",
-      "summary": "La actividad pesquera y la descarga de capturas vuelven a poner el foco en la importancia económica y productiva del puerto de Calp, con la llegada de alrededor de un centenar de peces espada. ([noticias.calp.es](https://noticias.calp.es/es/noticia/dosier-de-prensa-28092026))",
-      "source_name": "Levante-EMV",
-      "source_url": "https://www.levante-emv.com/marina/2026/09/27/riqueza-pesquera-calp-barco-almeria-pez-espada-almeria-caladeros-reserva-marina-puerto-134724101.html",
-      "published_at": "2026-09-27",
-      "category": "ECONOMIA",
+      "category": "LOCAL",
       "relevance": 72,
-      "reason": "Ofrece una actualización sobre la actividad del puerto y la cadena pesquera local, un sector relevante para la economía, la gastronomía y la identidad de Calp.",
-      "detected_at": "2026-09-29T08:33:25.367Z",
-      "fingerprint": "82ac539493b31bf50086c3093d3fe4a5a19aa2958cbbce8f0045e62d66251ef1"
+      "reason": "Aunque la norma es estatal, tendrá aplicación inmediata en la movilidad urbana y turística de Calp, especialmente en el uso de patinetes, bicicletas y motocicletas.",
+      "detected_at": "2026-09-29T15:53:42.398Z",
+      "fingerprint": "8e08a95633c69f2b733a82260f5b7f59fbbb4b056d4e3c419cd121f7354c6734"
     },
     {
-      "title": "La Rondalla de Calp estrecha lazos culturales con Liérganes y Barakaldo",
-      "summary": "La formación musical calpina participó en encuentros corales en Cantabria y Bizkaia, recuperando relaciones culturales iniciadas en Calp en 2019 y abriendo la posibilidad de futuros intercambios. ([calpdigital.es](https://calpdigital.es/art/12337/rondalla-calp-estrecha-lazos-culturales-con-lierganes-y-barakaldo-a-traves-musica?utm_source=openai))",
+      "title": "Calp incorpora al casco antiguo la escultura ‘Eterno femenino del Mar’",
+      "summary": "La obra de Miguel González Díaz, ganadora del III Concurso Nacional de Escultura Villa de Calp, ha sido instalada en el carrer Sant Roc y pasa a formar parte del patrimonio artístico municipal.",
       "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12337/rondalla-calp-estrecha-lazos-culturales-con-lierganes-y-barakaldo-a-traves-musica",
-      "published_at": "2026-09-28",
+      "source_url": "https://calpdigital.es/art/12320/eterno-femenino-del-mar-ya-forma-parte-del-paisaje-urbano-de-calp",
+      "published_at": "2026-09-23",
       "category": "CULTURA",
-      "relevance": 61,
-      "reason": "Refuerza la proyección exterior de una entidad cultural local y puede generar nuevas actividades e intercambios culturales con participación futura en Calp.",
-      "detected_at": "2026-09-29T08:33:25.367Z",
-      "fingerprint": "9df880e875f271c3a796cc4fa09b7f4018013927303873d8de8707b7aeaeca7d"
+      "relevance": 65,
+      "reason": "Es una actuación cultural y urbana permanente que mejora el patrimonio artístico y el atractivo del casco antiguo de Calp.",
+      "detected_at": "2026-09-29T15:53:42.398Z",
+      "fingerprint": "0aa76fdcdb486c4576c5bab0d41eac454aef9617843ce0ff86ab0295dc03daf7"
     }
   ]
 }
