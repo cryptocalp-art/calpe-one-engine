@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-09-28T22:04:44.876Z",
+  "generated_at": "2026-09-29T02:00:21.957Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -22,20 +22,18 @@
     "untraceable_sources_allowed": false
   },
   "drafts_seen": 1,
-  "eligible_count": 0,
-  "quarantined_count": 1,
+  "eligible_count": 1,
+  "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_4c32f03efaa068a1",
-      "draft_id": "drf_08cb133e905c37a5",
-      "investigation_id": "inv_a8a94cb104e680b4",
-      "candidate_fingerprint": "1329cc7346db1e3ab9d7bdbb990a1a6f7604d7c0c223fe46ca2e66b4036c2c9e",
-      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
-      "category": "LOCAL",
-      "status": "QUARANTINED",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
+      "gate_id": "qg_834ef1856bd65e88",
+      "draft_id": "drf_89619caebae316a7",
+      "investigation_id": "inv_7e58e0af0e0cd318",
+      "candidate_fingerprint": "41c5e894cf009bade436635f9e3fd8a66bac8764b501f7b36efcec6c1d5eedeb",
+      "slug": "calp-participacion-alicante-gastronomica-empresas-locales",
+      "category": "ECONOMIA",
+      "status": "ELIGIBLE",
+      "reasons": [],
       "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
@@ -47,11 +45,11 @@
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
         "evidence_count": 4,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 4,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 2,
         "distinct_evidence_urls": 4,
         "distinct_evidence_hosts": 4,
-        "institutional_or_political": true,
+        "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -61,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 286
+        "body_word_count": 301
       },
-      "evaluated_at": "2026-09-28T22:04:44.876Z",
+      "evaluated_at": "2026-09-29T02:00:21.957Z",
       "engine_version": "quality-gate-v1"
     }
   ]

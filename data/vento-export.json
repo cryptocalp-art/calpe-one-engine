@@ -3,26 +3,154 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-28T22:04:45.005Z",
+  "generated_at": "2026-09-29T02:00:22.132Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 1,
-  "ready_count": 0,
-  "quarantined_count": 1,
-  "ready": [],
-  "quarantined": [
+  "ready_count": 1,
+  "quarantined_count": 0,
+  "ready": [
     {
-      "export_id": "exp_41120fe8f14a5312",
-      "draft_id": "drf_08cb133e905c37a5",
-      "investigation_id": "inv_a8a94cb104e680b4",
-      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ]
+      "export_id": "exp_2c5992ce814dfa3d",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-09-29T02:00:22.132Z",
+      "source_draft_id": "drf_89619caebae316a7",
+      "source_investigation_id": "inv_7e58e0af0e0cd318",
+      "candidate_fingerprint": "41c5e894cf009bade436635f9e3fd8a66bac8764b501f7b36efcec6c1d5eedeb",
+      "quality_gate_id": "qg_834ef1856bd65e88",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_89619caebae316a7",
+        "investigation_id": "inv_7e58e0af0e0cd318",
+        "candidate_fingerprint": "41c5e894cf009bade436635f9e3fd8a66bac8764b501f7b36efcec6c1d5eedeb",
+        "title": "Calp prepara su participación en Alicante Gastronómica con empresas locales y autobuses gratuitos",
+        "subtitle": "La feria se celebrará del 2 al 5 de octubre en IFA-Fira Alacant e incluirá productos del municipio y dos showcookings",
+        "summary": "Calp participará en la edición de 2026 de Alicante Gastronómica con una representación de empresas y productos locales, además de dos demostraciones culinarias y un servicio de autobuses gratuitos desde el municipio durante el fin de semana.",
+        "body": "La octava edición de Alicante Gastronómica se celebrará del 2 al 5 de octubre de 2026 en el recinto IFA-Fira Alacant. El Ayuntamiento de Calp prepara su presencia en la feria con productos vinculados al municipio, participación empresarial y actividades gastronómicas.\n\nLa representación prevista incluye a Gamba Blanca de Calp y Peix de Calp, así como a la Cofradía de Pescadores, Carnicería Calpe, Carnicería Cloti, Panadería Rosa, Ca Loli y Bodegas Casanova. La programación también contempla la participación de Casa Cantares y El Bambero en dos showcookings relacionados con la oferta de Calp.\n\nEl Ayuntamiento ha comunicado que la inversión prevista para esta participación se sitúa aproximadamente entre 30.000 y 40.000 euros. De forma independiente, se ha identificado un contrato municipal por importe de 36.800 euros destinado a alimentos, material promocional, personal y transporte vinculados al despliegue en la feria.\n\nLa planificación incluye asimismo dos autobuses gratuitos desde Calp durante el fin de semana. El servicio contempla el desplazamiento de ida y vuelta y el acceso a la feria. La documentación difundida sobre la organización prevé dos vehículos de 55 plazas y 150 pulseras de acceso.\n\nLa presencia de Calp se apoyará en la promoción de productos tradicionales y de las marcas Peix de Calp y Gamba Blanca de Calp. La participación y las actividades anunciadas forman parte de la planificación municipal para la feria, cuya celebración está confirmada por la organización entre el viernes 2 y el lunes 5 de octubre.\n\nLa cifra comunicada de entre 30.000 y 40.000 euros debe entenderse como una estimación pública. El contrato identificado de 36.800 euros corresponde a varios conceptos concretos y no permite equipararlo automáticamente con el gasto final total de toda la participación. La ejecución efectiva de los showcookings, el transporte y el resto de actividades dependerá del desarrollo del programa anunciado.",
+        "category": "ECONOMIA",
+        "slug": "calp-participacion-alicante-gastronomica-empresas-locales",
+        "seo_title": "Calp participará en Alicante Gastronómica con empresas locales",
+        "meta_description": "Calp prepara su participación en Alicante Gastronómica, del 2 al 5 de octubre, con productos locales, showcookings y autobuses gratuitos.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_834ef1856bd65e88",
+        "editorial_notes": [
+          "Presentar los 30.000-40.000 euros como una estimación comunicada públicamente y diferenciarla del contrato identificado de 36.800 euros.",
+          "La ejecución de las actividades y del servicio de autobuses queda sujeta al desarrollo del programa anunciado."
+        ],
+        "sources": [
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/09/28/calp-va-con-todo-a-alicante-gastronomica-desde-su-gamba-blanca-hasta-embutidos-y-reposteria-tradicional",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Alicante Gastronómica",
+            "url": "https://alicantegastronomica.com/alicante-gastronomica-impulsara-su-vocacion-de-evento-experiencial-en-su-nueva-edicion-del-2-al-5-de-octubre/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+          "https://lamarina.eldiario.es/2026/09/28/calp-va-con-todo-a-alicante-gastronomica-desde-su-gamba-blanca-hasta-embutidos-y-reposteria-tradicional",
+          "https://alicantegastronomica.com/alicante-gastronomica-impulsara-su-vocacion-de-evento-experiencial-en-su-nueva-edicion-del-2-al-5-de-octubre/",
+          "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La cifra de 30.000-40.000 euros es una estimación comunicada públicamente; la fuente independiente identifica un contrato de 36.800 euros y otra reserva presupuestaria previa de 80.000 euros, que no debe confundirse automáticamente con el gasto final total.",
+            "La celebración de la feria y la planificación de la participación están corroboradas, pero la ejecución efectiva de todas las actividades dependerá de que se desarrollen conforme al programa anunciado."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_834ef1856bd65e88",
+          "quality_gate_evaluated_at": "2026-09-29T02:00:21.957Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-09-29T02:00:12.920Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_89619caebae316a7",
+        "title": "Calp prepara su participación en Alicante Gastronómica con empresas locales y autobuses gratuitos",
+        "slug": "calp-participacion-alicante-gastronomica-empresas-locales",
+        "summary": "Calp participará en la edición de 2026 de Alicante Gastronómica con una representación de empresas y productos locales, además de dos demostraciones culinarias y un servicio de autobuses gratuitos desde el municipio durante el fin de semana.",
+        "body": "La octava edición de Alicante Gastronómica se celebrará del 2 al 5 de octubre de 2026 en el recinto IFA-Fira Alacant. El Ayuntamiento de Calp prepara su presencia en la feria con productos vinculados al municipio, participación empresarial y actividades gastronómicas.\n\nLa representación prevista incluye a Gamba Blanca de Calp y Peix de Calp, así como a la Cofradía de Pescadores, Carnicería Calpe, Carnicería Cloti, Panadería Rosa, Ca Loli y Bodegas Casanova. La programación también contempla la participación de Casa Cantares y El Bambero en dos showcookings relacionados con la oferta de Calp.\n\nEl Ayuntamiento ha comunicado que la inversión prevista para esta participación se sitúa aproximadamente entre 30.000 y 40.000 euros. De forma independiente, se ha identificado un contrato municipal por importe de 36.800 euros destinado a alimentos, material promocional, personal y transporte vinculados al despliegue en la feria.\n\nLa planificación incluye asimismo dos autobuses gratuitos desde Calp durante el fin de semana. El servicio contempla el desplazamiento de ida y vuelta y el acceso a la feria. La documentación difundida sobre la organización prevé dos vehículos de 55 plazas y 150 pulseras de acceso.\n\nLa presencia de Calp se apoyará en la promoción de productos tradicionales y de las marcas Peix de Calp y Gamba Blanca de Calp. La participación y las actividades anunciadas forman parte de la planificación municipal para la feria, cuya celebración está confirmada por la organización entre el viernes 2 y el lunes 5 de octubre.\n\nLa cifra comunicada de entre 30.000 y 40.000 euros debe entenderse como una estimación pública. El contrato identificado de 36.800 euros corresponde a varios conceptos concretos y no permite equipararlo automáticamente con el gasto final total de toda la participación. La ejecución efectiva de los showcookings, el transporte y el resto de actividades dependerá del desarrollo del programa anunciado.",
+        "category": "ECONOMIA",
+        "seo_title": "Calp participará en Alicante Gastronómica con empresas locales",
+        "meta_description": "Calp prepara su participación en Alicante Gastronómica, del 2 al 5 de octubre, con productos locales, showcookings y autobuses gratuitos.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_834ef1856bd65e88",
+        "published_at": null,
+        "source_urls": [
+          "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+          "https://lamarina.eldiario.es/2026/09/28/calp-va-con-todo-a-alicante-gastronomica-desde-su-gamba-blanca-hasta-embutidos-y-reposteria-tradicional",
+          "https://alicantegastronomica.com/alicante-gastronomica-impulsara-su-vocacion-de-evento-experiencial-en-su-nueva-edicion-del-2-al-5-de-octubre/",
+          "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2"
+        ],
+        "sources": [
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12288/calp-prepara-gran-despliegue-productos-locales-en-alicante-gastronomica",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/09/28/calp-va-con-todo-a-alicante-gastronomica-desde-su-gamba-blanca-hasta-embutidos-y-reposteria-tradicional",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Alicante Gastronómica",
+            "url": "https://alicantegastronomica.com/alicante-gastronomica-impulsara-su-vocacion-de-evento-experiencial-en-su-nueva-edicion-del-2-al-5-de-octubre/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-septiembre-2",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_7e58e0af0e0cd318",
+        "candidate_fingerprint": "41c5e894cf009bade436635f9e3fd8a66bac8764b501f7b36efcec6c1d5eedeb",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La cifra de 30.000-40.000 euros es una estimación comunicada públicamente; la fuente independiente identifica un contrato de 36.800 euros y otra reserva presupuestaria previa de 80.000 euros, que no debe confundirse automáticamente con el gasto final total.",
+            "La celebración de la feria y la planificación de la participación están corroboradas, pero la ejecución efectiva de todas las actividades dependerá de que se desarrollen conforme al programa anunciado."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_834ef1856bd65e88",
+          "quality_gate_evaluated_at": "2026-09-29T02:00:21.957Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     }
-  ]
+  ],
+  "quarantined": []
 }

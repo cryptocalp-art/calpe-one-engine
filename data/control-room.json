@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-28T22:04:48.130Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-09-28T22:04:47.985Z",
+  "generated_at": "2026-09-29T02:00:30.023Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-09-29T02:00:29.849Z",
   "newspaper": {
-    "archive_total": 31,
-    "published_today": 0,
-    "published_last_7_days": 31,
+    "archive_total": 32,
+    "published_today": 1,
+    "published_last_7_days": 32,
     "categories": {
+      "ECONOMIA": 5,
       "MEDIO_AMBIENTE": 6,
       "DEPORTES": 1,
       "SOCIEDAD": 5,
-      "ECONOMIA": 4,
       "CULTURA": 3,
       "TURISMO": 4,
       "LOCAL": 6,
@@ -21,6 +21,13 @@
       "POLITICA": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_2c7c38a8954d8a0a",
+        "title": "Calp prepara su participación en Alicante Gastronómica con empresas locales y autobuses gratuitos",
+        "category": "ECONOMIA",
+        "slug": "calp-participacion-alicante-gastronomica-empresas-locales",
+        "published_at": "2026-09-29T02:00:12.920Z"
+      },
       {
         "archive_id": "arc_8cc8e2474936a46e",
         "title": "La zona deportiva y escolar de Calp prevé reducir un 84% el consumo eléctrico con 77 farolas LED",
@@ -69,23 +76,16 @@
         "category": "CULTURA",
         "slug": "calp-jornada-50-aniversario-moros-cristianos",
         "published_at": "2026-09-26T17:13:24.782Z"
-      },
-      {
-        "archive_id": "arc_1da60b70c971a9b9",
-        "title": "Estimar Hotels prevé retirar 12 toneladas de plástico del Mediterráneo durante 2026",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "estimar-hotels-retirar-plastico-mediterraneo-2026",
-        "published_at": "2026-09-26T17:13:24.782Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 13,
+    "radar_candidates": 4,
     "investigated": 0,
     "drafts": 1,
-    "eligible": 0,
-    "quarantined": 1,
-    "archive_added": 0
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_08cb133e905c37a5",
-      "slug": "calp-contrato-asistente-inteligencia-artificial-datos-municipales",
-      "category": "LOCAL",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-09-28T22:04:44.876Z"
-    }
-  ]
+  "quarantine": []
 }
