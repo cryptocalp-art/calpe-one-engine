@@ -1,8 +1,53 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-09-30T13:46:43.509Z",
+  "generated_at": "2026-09-30T19:23:34.516Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_b1034d08b969f306",
+      "investigation_id": "inv_484f104861b7ce4a",
+      "candidate_fingerprint": "4b2cc96bd7bb3d0707a7839e749aa239625c9d1e931159de942de14c520d17ad",
+      "category": "LOCAL",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-09-30T19:23:34.516Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp licita por 596.791 euros el asfaltado de Empedrola I y II, Cometa III y Canuta",
+      "subheadline": "El proyecto contempla un plazo de ejecución de tres meses e incluye trabajos sobre el firme, el drenaje, las rasantes y la señalización horizontal.",
+      "lead": "El Ayuntamiento de Calp ha iniciado la licitación de un proyecto de asfaltado que afecta a las partidas de Empedrola I y II, Cometa III y Canuta. El presupuesto base asciende a 596.791,23 euros y el plazo de ejecución previsto es de tres meses.",
+      "body_markdown": "El Ayuntamiento de Calp ha iniciado la licitación de las obras de asfaltado previstas en Empedrola I y II, Cometa III y Canuta, según la información municipal difundida este 30 de septiembre de 2026. El presupuesto base de licitación es de 596.791,23 euros y el plazo de ejecución establecido para el proyecto es de tres meses.\n\nLa actuación contempla intervenciones sobre distintos problemas detectados en el firme de estas zonas. Entre ellos figuran la presencia de baches, blandones, hundimientos y deformaciones asociadas a las raíces. El proyecto también incluye trabajos relacionados con el drenaje y las rasantes de las vías.\n\nAdemás, la licitación prevé actuaciones de señalización horizontal. De este modo, el proyecto no se limita al asfaltado de la superficie, sino que incorpora trabajos complementarios sobre la evacuación del agua, la configuración de las vías y la señalización.\n\nLa iniciativa se encuentra en fase de licitación. Por tanto, la información disponible acredita el inicio del procedimiento de contratación y las condiciones económicas y temporales previstas, pero no la adjudicación de las obras ni su ejecución efectiva.\n\nLa cifra exacta del presupuesto procede de la comunicación oficial del Ayuntamiento. Una ficha independiente de contratación pública consultada recoge el mismo expediente y redondea el importe a 596.791 euros, además de identificar las cuatro zonas incluidas y una duración contractual de tres meses.",
+      "seo_title": "Calp licita el asfaltado de Empedrola, Cometa y Canuta",
+      "meta_description": "El Ayuntamiento de Calp licita por 596.791,23 euros el asfaltado de Empedrola I y II, Cometa III y Canuta, con tres meses de ejecución.",
+      "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
+      "editorial_notes": [
+        "Mantener la referencia a la fase de licitación: las evidencias no acreditan la adjudicación ni la ejecución de las obras.",
+        "La cifra exacta de 596.791,23 euros procede de la fuente oficial; la ficha secundaria la redondea a 596.791 euros.",
+        "La evidencia incorporada no incluye el documento original de la Plataforma de Contratación del Sector Público."
+      ],
+      "sources": [
+        {
+          "source_name": "Noticias del Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "El Vínculo — ficha de contratación pública",
+          "source_url": "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 2,
+        "caveats": [
+          "La fuente secundaria redondea el presupuesto a 596.791 euros; la cifra exacta procede de la noticia oficial.",
+          "La ficha independiente remite a la contratación pública, pero no se ha incorporado en la evidencia el documento original de la Plataforma de Contratación del Sector Público."
+        ]
+      }
+    }
+  ]
 }

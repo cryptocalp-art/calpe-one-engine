@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-30T13:46:47.640Z",
+  "generated_at": "2026-09-30T19:23:51.077Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-30T13:46:47.499Z",
+  "last_activity": "2026-09-30T19:23:50.911Z",
   "newspaper": {
-    "archive_total": 37,
-    "published_today": 4,
-    "published_last_7_days": 37,
+    "archive_total": 38,
+    "published_today": 5,
+    "published_last_7_days": 38,
     "categories": {
+      "LOCAL": 7,
       "DEPORTES": 2,
       "SUCESOS": 2,
       "SOCIEDAD": 6,
@@ -17,10 +18,16 @@
       "TURISMO": 5,
       "ECONOMIA": 5,
       "MEDIO_AMBIENTE": 6,
-      "CULTURA": 3,
-      "LOCAL": 6
+      "CULTURA": 3
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_368fb5ffe916caf8",
+        "title": "Calp licita por 596.791 euros el asfaltado de Empedrola I y II, Cometa III y Canuta",
+        "category": "LOCAL",
+        "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
+        "published_at": "2026-09-30T19:23:34.516Z"
+      },
       {
         "archive_id": "arc_0e030a20ca8ee8b1",
         "title": "El Pavelló Ifac de Calp completa su renovación y vuelve a estar disponible",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-reduce-consumo-electrico-77-farolas-led",
         "published_at": "2026-09-27T14:02:28.568Z"
-      },
-      {
-        "archive_id": "arc_4fbbe0f672fc8c62",
-        "title": "Calp convoca 275.000 euros en ayudas para la promoción del deporte",
-        "category": "DEPORTES",
-        "slug": "calp-convoca-275000-euros-ayudas-promocion-deporte",
-        "published_at": "2026-09-27T08:13:58.098Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 9,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

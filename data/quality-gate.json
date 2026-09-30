@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-09-30T13:46:43.639Z",
+  "generated_at": "2026-09-30T19:23:45.267Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,8 +21,48 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 0,
-  "eligible_count": 0,
+  "drafts_seen": 1,
+  "eligible_count": 1,
   "quarantined_count": 0,
-  "decisions": []
+  "decisions": [
+    {
+      "gate_id": "qg_b68ef70ef86d0fd8",
+      "draft_id": "drf_b1034d08b969f306",
+      "investigation_id": "inv_484f104861b7ce4a",
+      "candidate_fingerprint": "4b2cc96bd7bb3d0707a7839e749aa239625c9d1e931159de942de14c520d17ad",
+      "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
+      "category": "LOCAL",
+      "status": "ELIGIBLE",
+      "reasons": [],
+      "warnings": [],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 4,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 0,
+        "evidence_count": 2,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 1,
+        "distinct_evidence_urls": 2,
+        "distinct_evidence_hosts": 2,
+        "institutional_or_political": true,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 221
+      },
+      "evaluated_at": "2026-09-30T19:23:45.267Z",
+      "engine_version": "quality-gate-v1"
+    }
+  ]
 }

@@ -3,12 +3,131 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-30T13:46:43.774Z",
+  "generated_at": "2026-09-30T19:23:45.422Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_1746e48c47e37e2f",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-09-30T19:23:45.422Z",
+      "source_draft_id": "drf_b1034d08b969f306",
+      "source_investigation_id": "inv_484f104861b7ce4a",
+      "candidate_fingerprint": "4b2cc96bd7bb3d0707a7839e749aa239625c9d1e931159de942de14c520d17ad",
+      "quality_gate_id": "qg_b68ef70ef86d0fd8",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_b1034d08b969f306",
+        "investigation_id": "inv_484f104861b7ce4a",
+        "candidate_fingerprint": "4b2cc96bd7bb3d0707a7839e749aa239625c9d1e931159de942de14c520d17ad",
+        "title": "Calp licita por 596.791 euros el asfaltado de Empedrola I y II, Cometa III y Canuta",
+        "subtitle": "El proyecto contempla un plazo de ejecución de tres meses e incluye trabajos sobre el firme, el drenaje, las rasantes y la señalización horizontal.",
+        "summary": "El Ayuntamiento de Calp ha iniciado la licitación de un proyecto de asfaltado que afecta a las partidas de Empedrola I y II, Cometa III y Canuta. El presupuesto base asciende a 596.791,23 euros y el plazo de ejecución previsto es de tres meses.",
+        "body": "El Ayuntamiento de Calp ha iniciado la licitación de las obras de asfaltado previstas en Empedrola I y II, Cometa III y Canuta, según la información municipal difundida este 30 de septiembre de 2026. El presupuesto base de licitación es de 596.791,23 euros y el plazo de ejecución establecido para el proyecto es de tres meses.\n\nLa actuación contempla intervenciones sobre distintos problemas detectados en el firme de estas zonas. Entre ellos figuran la presencia de baches, blandones, hundimientos y deformaciones asociadas a las raíces. El proyecto también incluye trabajos relacionados con el drenaje y las rasantes de las vías.\n\nAdemás, la licitación prevé actuaciones de señalización horizontal. De este modo, el proyecto no se limita al asfaltado de la superficie, sino que incorpora trabajos complementarios sobre la evacuación del agua, la configuración de las vías y la señalización.\n\nLa iniciativa se encuentra en fase de licitación. Por tanto, la información disponible acredita el inicio del procedimiento de contratación y las condiciones económicas y temporales previstas, pero no la adjudicación de las obras ni su ejecución efectiva.\n\nLa cifra exacta del presupuesto procede de la comunicación oficial del Ayuntamiento. Una ficha independiente de contratación pública consultada recoge el mismo expediente y redondea el importe a 596.791 euros, además de identificar las cuatro zonas incluidas y una duración contractual de tres meses.",
+        "category": "LOCAL",
+        "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
+        "seo_title": "Calp licita el asfaltado de Empedrola, Cometa y Canuta",
+        "meta_description": "El Ayuntamiento de Calp licita por 596.791,23 euros el asfaltado de Empedrola I y II, Cometa III y Canuta, con tres meses de ejecución.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_b68ef70ef86d0fd8",
+        "editorial_notes": [
+          "Mantener la referencia a la fase de licitación: las evidencias no acreditan la adjudicación ni la ejecución de las obras.",
+          "La cifra exacta de 596.791,23 euros procede de la fuente oficial; la ficha secundaria la redondea a 596.791 euros.",
+          "La evidencia incorporada no incluye el documento original de la Plataforma de Contratación del Sector Público."
+        ],
+        "sources": [
+          {
+            "name": "Noticias del Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "El Vínculo — ficha de contratación pública",
+            "url": "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+          "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 2,
+          "caveats": [
+            "La fuente secundaria redondea el presupuesto a 596.791 euros; la cifra exacta procede de la noticia oficial.",
+            "La ficha independiente remite a la contratación pública, pero no se ha incorporado en la evidencia el documento original de la Plataforma de Contratación del Sector Público."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_b68ef70ef86d0fd8",
+          "quality_gate_evaluated_at": "2026-09-30T19:23:45.267Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-09-30T19:23:34.516Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_b1034d08b969f306",
+        "title": "Calp licita por 596.791 euros el asfaltado de Empedrola I y II, Cometa III y Canuta",
+        "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
+        "summary": "El Ayuntamiento de Calp ha iniciado la licitación de un proyecto de asfaltado que afecta a las partidas de Empedrola I y II, Cometa III y Canuta. El presupuesto base asciende a 596.791,23 euros y el plazo de ejecución previsto es de tres meses.",
+        "body": "El Ayuntamiento de Calp ha iniciado la licitación de las obras de asfaltado previstas en Empedrola I y II, Cometa III y Canuta, según la información municipal difundida este 30 de septiembre de 2026. El presupuesto base de licitación es de 596.791,23 euros y el plazo de ejecución establecido para el proyecto es de tres meses.\n\nLa actuación contempla intervenciones sobre distintos problemas detectados en el firme de estas zonas. Entre ellos figuran la presencia de baches, blandones, hundimientos y deformaciones asociadas a las raíces. El proyecto también incluye trabajos relacionados con el drenaje y las rasantes de las vías.\n\nAdemás, la licitación prevé actuaciones de señalización horizontal. De este modo, el proyecto no se limita al asfaltado de la superficie, sino que incorpora trabajos complementarios sobre la evacuación del agua, la configuración de las vías y la señalización.\n\nLa iniciativa se encuentra en fase de licitación. Por tanto, la información disponible acredita el inicio del procedimiento de contratación y las condiciones económicas y temporales previstas, pero no la adjudicación de las obras ni su ejecución efectiva.\n\nLa cifra exacta del presupuesto procede de la comunicación oficial del Ayuntamiento. Una ficha independiente de contratación pública consultada recoge el mismo expediente y redondea el importe a 596.791 euros, además de identificar las cuatro zonas incluidas y una duración contractual de tres meses.",
+        "category": "LOCAL",
+        "seo_title": "Calp licita el asfaltado de Empedrola, Cometa y Canuta",
+        "meta_description": "El Ayuntamiento de Calp licita por 596.791,23 euros el asfaltado de Empedrola I y II, Cometa III y Canuta, con tres meses de ejecución.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_b68ef70ef86d0fd8",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+          "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193"
+        ],
+        "sources": [
+          {
+            "name": "Noticias del Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "El Vínculo — ficha de contratación pública",
+            "url": "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_484f104861b7ce4a",
+        "candidate_fingerprint": "4b2cc96bd7bb3d0707a7839e749aa239625c9d1e931159de942de14c520d17ad",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 2,
+          "caveats": [
+            "La fuente secundaria redondea el presupuesto a 596.791 euros; la cifra exacta procede de la noticia oficial.",
+            "La ficha independiente remite a la contratación pública, pero no se ha incorporado en la evidencia el documento original de la Plataforma de Contratación del Sector Público."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_b68ef70ef86d0fd8",
+          "quality_gate_evaluated_at": "2026-09-30T19:23:45.267Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }
