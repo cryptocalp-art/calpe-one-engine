@@ -1,85 +1,61 @@
 {
-  "generated_at": "2026-09-30T19:22:45.929Z",
-  "count": 10,
+  "generated_at": "2026-09-30T23:52:22.743Z",
+  "count": 7,
   "evidences": [
     {
-      "id": "evd_0ad3690b6d11fc77",
-      "investigation_id": "inv_484f104861b7ce4a",
-      "source_name": "Noticias del Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
-      "evidence": "La noticia oficial, fechada el 30 de septiembre de 2026, informa de la licitación para Empedrola I y II, Cometa III y Canuta, con un presupuesto de 596.791,23 euros y un plazo de ejecución de tres meses. También describe baches, blandones, hundimientos, deformaciones por raíces, drenaje, rasantes y señalización horizontal.",
+      "id": "evd_6c26cd9d00d69280",
+      "investigation_id": "inv_99ac337385ae7794",
+      "source_name": "Calp Comunica – Ayuntamiento de Calp",
+      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas/",
+      "evidence": "La publicación oficial fechada el 30 de septiembre de 2026 anuncia que la oficina vuelve a estar operativa el 1 de octubre, indica su ubicación en la calle Justicia y fija la atención de lunes a viernes, de 10:00 a 13:30 horas.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_06b8acdb2d6c371f",
-      "investigation_id": "inv_484f104861b7ce4a",
-      "source_name": "El Vínculo — ficha de contratación pública",
-      "source_url": "https://el-vinculo.com/licitacion/obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp-5816193",
-      "evidence": "La ficha del expediente OB 09/2026-AOR identifica una licitación del Ayuntamiento de Calp para las mismas cuatro zonas, con un presupuesto base de 596.791 euros, un valor estimado de 493.216 euros y una duración contractual de tres meses.",
+      "id": "evd_f78a3d61cc6148cd",
+      "investigation_id": "inv_99ac337385ae7794",
+      "source_name": "Ayuntamiento de Calp – agregador de noticias oficiales",
+      "source_url": "https://www.calp.es/va/aggregator?page=14",
+      "evidence": "Una comunicación municipal anterior identifica la apertura de una oficina de proximidad en Calp y describe el refuerzo de los servicios policiales de proximidad, aunque no confirma por sí sola la reapertura del 1 de octubre de 2026.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_d32ec42aaa0f1d3d",
+      "investigation_id": "inv_99ac337385ae7794",
+      "source_name": "OpenMercantil – ficha de licitación basada en la Plataforma de Contratación del Sector Público",
+      "source_url": "https://openmercantil.es/licitaciones/recientes/p/2?historico=1&provincia=Alicante",
+      "evidence": "La ficha recoge un expediente de 2026 del Ayuntamiento de Calp para el arrendamiento de un local destinado a las oficinas de la Policía de Proximidad, lo que aporta contexto administrativo sobre la existencia y continuidad del servicio, pero no acredita directamente la reapertura ni el horario anunciado.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_455d17faa9d97791",
-      "investigation_id": "inv_75bbd40856750e80",
-      "source_name": "Calp Comunica — Ayuntamiento de Calp",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas",
-      "evidence": "La publicación municipal fechada el 30 de septiembre de 2026 anuncia que la oficina vuelve a estar operativa el 1 de octubre, en la calle Justicia, de lunes a viernes y de 10:00 a 13:30 horas.",
+      "id": "evd_dcf70d2eb1f17e4e",
+      "investigation_id": "inv_2c059ed35db98794",
+      "source_name": "Calp Comunica – Ayuntamiento de Calp",
+      "source_url": "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa/",
+      "evidence": "La comunicación oficial del 30 de septiembre de 2026 informa del comienzo de los trabajos, describe la reparación del pavimento, la eliminación de irregularidades, la ejecución de un nuevo firme y la prevención de encharcamientos. También indica que el acceso al consultorio y al aparcamiento debe efectuarse por el acceso sur de la avenida Juan Carlos I mientras duren las obras.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_3f88b212bcd0beff",
-      "investigation_id": "inv_75bbd40856750e80",
-      "source_name": "Noticias del Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/node/36230",
-      "evidence": "Una comunicación municipal de junio de 2026 anunció para el verano la apertura de una oficina de proximidad en la calle Llibertat y un retén auxiliar en la zona de La Fossa. No confirma la reapertura de octubre en la calle Justicia.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_b79c3c71d037aad0",
-      "investigation_id": "inv_d7a6939cd238d7b1",
-      "source_name": "Calp Comunica — Ayuntamiento de Calp",
-      "source_url": "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa",
-      "evidence": "El aviso municipal, fechado el 30 de septiembre de 2026, anuncia la mejora del acceso al consultorio de la Fossa. La ficha individual no muestra en el texto recuperado los detalles sobre qué acceso se cierra ni sobre el itinerario alternativo.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_ce64063033f5758f",
-      "investigation_id": "inv_d7a6939cd238d7b1",
-      "source_name": "Certero — ficha de licitación pública",
-      "source_url": "https://www.certero.es/recursos/licitaciones/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-e7982b7d",
-      "evidence": "La ficha identifica el expediente OB 01/2026-ASS para obras de adecuación del acceso al consultorio médico de La Fossa, promovido por el Ayuntamiento de Calp. Indica un presupuesto con IVA de 40.898,39 euros, un plazo de ejecución de un mes y adjudicación a Vías y Obras Aitana S.L. el 15 de junio de 2026.",
+      "id": "evd_78b853d657b905cc",
+      "investigation_id": "inv_2c059ed35db98794",
+      "source_name": "Alicitar – ficha de licitación pública",
+      "source_url": "https://www.alicitar.es/licitacion/30958/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp",
+      "evidence": "La ficha recoge el expediente OB 01/2026-ASS para las obras de adecuación del acceso al consultorio médico de La Fossa, promovido por la Alcaldía del Ayuntamiento de Calp. Indica un presupuesto de 40.898,39 euros con IVA, un plazo de ejecución de un mes y adjudicación el 15 de junio de 2026.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_a52ec8afcf82319a",
-      "investigation_id": "inv_d7a6939cd238d7b1",
-      "source_name": "Noticias del Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-consultorio-de-calp-en-la-fossa-comienza-prestar-asistencia-sanitaria",
-      "evidence": "Una noticia municipal anterior confirma la ubicación del consultorio en la avenida Juan Carlos I, número 3, pero no aporta información sobre las obras de septiembre de 2026 ni sobre cierres temporales de accesos.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_4d432799c0dde1b1",
-      "investigation_id": "inv_796e6acd975638b3",
-      "source_name": "Cadena SER — Radio Valencia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
-      "evidence": "La información publicada el 27 de septiembre de 2026 cifra en más de 94.100 las personas registradas entre junio y agosto, con un aumento del 19,68 % frente a 78.639 el año anterior. Señala que el Peñón de Ifach fue el parque más visitado, con más de 34.500 personas registradas. También aclara que el recuento corresponde a personas atendidas o registradas en centros de visitantes por educadores ambientales y que el total real puede ser mayor.",
+      "id": "evd_3efb9e0c3cf620d5",
+      "investigation_id": "inv_2c059ed35db98794",
+      "source_name": "Obracivil – ficha de contratación pública",
+      "source_url": "https://obracivil.com/licitacion/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp-alicante/",
+      "evidence": "La ficha identifica la obra de adecuación del acceso al consultorio de La Fossa, promovida por el Ayuntamiento de Calp, con un plazo de ejecución de un mes y adjudicación a Vías y Obras Aitana S.L. el 15 de junio de 2026.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_273b0ba23ab523fb",
-      "investigation_id": "inv_796e6acd975638b3",
-      "source_name": "Diari Comunitat",
-      "source_url": "https://diaricomunitat.com/articles/parcs-naturals-de-la-generalitat-registren-record-de-94-117-visitants-b90ec4",
-      "evidence": "La publicación recoge 94.117 registros, un incremento del 19,68 %, 34.535 personas para el Peñón de Ifach y las cifras mensuales de junio, julio y agosto. También explica que los datos proceden de personas atendidas en centros de visita o registradas por educadores ambientales, por lo que no equivalen necesariamente al total de entradas al parque.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_bdda9dda5d53befc",
-      "investigation_id": "inv_796e6acd975638b3",
-      "source_name": "Vivir Ediciones",
-      "source_url": "https://vivirediciones.es/generalitat-valenciana/parques-naturales-generalitat-record-visitantes-verano/",
-      "evidence": "La publicación coincide en la cifra total de 94.117 personas, el incremento del 19,68 % y el liderazgo del Peñón de Ifach, atribuyendo los datos a la administración autonómica.",
+      "id": "evd_6f02c06d309eec7f",
+      "investigation_id": "inv_2c059ed35db98794",
+      "source_name": "Cadena SER – Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/03/17/calp-abre-de-forma-permanente-el-consultorio-medico-de-la-fossa-radio-denia/",
+      "evidence": "La información independiente confirma que el consultorio de la Fossa funciona de forma permanente desde marzo de 2026 y está situado en el recurso sanitario de esa zona. No informa de estas obras concretas ni de las restricciones de acceso de septiembre.",
       "source_type": "SECONDARY"
     }
   ]
