@@ -2,25 +2,39 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-29T20:50:06.027Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-09-29T20:50:05.849Z",
+  "generated_at": "2026-09-30T00:30:17.221Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-09-30T00:30:17.083Z",
   "newspaper": {
-    "archive_total": 33,
+    "archive_total": 35,
     "published_today": 2,
-    "published_last_7_days": 33,
+    "published_last_7_days": 35,
     "categories": {
+      "SOCIEDAD": 6,
+      "POLITICA": 2,
       "TURISMO": 5,
       "ECONOMIA": 5,
       "MEDIO_AMBIENTE": 6,
       "DEPORTES": 1,
-      "SOCIEDAD": 5,
       "CULTURA": 3,
       "LOCAL": 6,
-      "SUCESOS": 1,
-      "POLITICA": 1
+      "SUCESOS": 1
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_0a89c05f73091ec7",
+        "title": "Calp publica la lista provisional de las ayudas al transporte para estudiantes",
+        "category": "SOCIEDAD",
+        "slug": "calp-lista-provisional-ayudas-transporte-estudiantes",
+        "published_at": "2026-09-30T00:29:58.058Z"
+      },
+      {
+        "archive_id": "arc_1a37f095ebc18f1c",
+        "title": "El BOE publica la convocatoria de una plaza de Oficial de Policía Local en Calp",
+        "category": "POLITICA",
+        "slug": "boe-convoca-plaza-oficial-policia-local-calp",
+        "published_at": "2026-09-30T00:29:58.058Z"
+      },
       {
         "archive_id": "arc_fc0cf78bbe8f85ef",
         "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
@@ -62,30 +76,16 @@
         "category": "ECONOMIA",
         "slug": "busquedas-alquiler-extranjero-calp-primer-trimestre-2026",
         "published_at": "2026-09-27T01:29:35.126Z"
-      },
-      {
-        "archive_id": "arc_33dd3a4d471b16ff",
-        "title": "Calp registra un esfuerzo de compra de vivienda equivalente al 60% de la renta familiar",
-        "category": "SOCIEDAD",
-        "slug": "calp-esfuerzo-compra-vivienda-renta-familiar",
-        "published_at": "2026-09-26T17:13:24.782Z"
-      },
-      {
-        "archive_id": "arc_64966194731a3749",
-        "title": "La Marina Alta pierde 1.057 afiliaciones en agosto, pero alcanza su máximo para ese mes",
-        "category": "ECONOMIA",
-        "slug": "marina-alta-pierde-afiliaciones-agosto",
-        "published_at": "2026-09-26T17:13:24.782Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 3,
+    "drafts": 2,
     "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 1
+    "quarantined": 0,
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_f9c0f22e41646346",
-      "slug": "boe-convoca-plaza-oficial-policia-local-calp",
-      "category": "LOCAL",
-      "reasons": [
-        "BODY_TOO_SHORT_FOR_AUTOMATED_PUBLICATION"
-      ],
-      "evaluated_at": "2026-09-29T20:49:58.453Z"
-    }
-  ]
+  "quarantine": []
 }
