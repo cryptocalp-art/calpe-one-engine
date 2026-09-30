@@ -1,105 +1,136 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-09-30T00:29:31.956Z",
+  "generated_at": "2026-09-30T06:45:37.472Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "adabb4295c5f6d10448554cc40cd12417904f3f757ce3628a0d765513d235e94",
-      "title": "Calp actualiza las ayudas al transporte para estudiantes y abre el plazo de alegaciones",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La información esencial está respaldada por una publicación oficial de Calp Comunica fechada el 29 de septiembre de 2026. El Ayuntamiento anunció la consulta de la lista provisional de personas admitidas y excluidas para las ayudas al transporte de estudiantes que cursaron estudios fuera de Calp durante el curso 2025-2026, y fijó el 13 de octubre de 2026, incluido, como último día para presentar alegaciones. La convocatoria original de estas ayudas también consta en la web municipal.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp publicó una lista provisional de personas admitidas y excluidas en las ayudas al transporte para estudiantes.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las ayudas corresponden a estudiantes que cursaron estudios fuera de Calp durante el curso 2025-2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de alegaciones termina el 13 de octubre de 2026, incluido.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La convocatoria de las ayudas para el curso 2025-2026 fue publicada previamente por el Ayuntamiento.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/alegaciones-para-las-ayudas-al-transporte-para-estudiantes",
-          "evidence": "La publicación oficial de 29 de septiembre de 2026 indica que ya puede consultarse en el tablón de anuncios municipal la lista provisional de admitidos y excluidos para las ayudas al transporte de estudiantes que cursan estudios fuera de Calp durante el curso 2025-2026. También señala que el plazo para presentar alegaciones finaliza el 13 de octubre, incluido.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/se-abre-el-plazo-para-solicitar-las-ayudas-al-transporte-de-estudiantes-del-curso-2526",
-          "evidence": "La noticia municipal de 7 de agosto de 2026 acredita la convocatoria de las ayudas para estudiantes que cursan estudios fuera del municipio durante el curso 2025-2026 y sitúa el plazo inicial de solicitudes entre el 7 de agosto y el 11 de septiembre de 2026.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración localizada para la lista provisional y el plazo de alegaciones procede de la comunicación oficial municipal; no se ha localizado una publicación independiente de un medio ajeno al Ayuntamiento que reproduzca esos datos.",
-        "El verbo «actualiza» del titular es una caracterización editorial: la fuente confirma la publicación de la lista provisional y la apertura de alegaciones, no utiliza literalmente ese verbo."
-      ],
-      "id": "inv_ac7164c9ee7c912b",
-      "investigated_at": "2026-09-30T00:29:31.956Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "d163679a6a1d02ec484afcbd80978271c4ef5b3a79c0f160c6cdc8c368f3b5a6",
-      "title": "El BOE publica la convocatoria de una plaza de oficial de Policía Local en Calp",
+      "candidate_fingerprint": "bac33d462673466935acaf23d45d3e34c5ea7a3413a768563b8cc1eb0457c0cc",
+      "title": "Calp anuncia la reapertura del Pavelló Ifac tras una renovación integral",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda plenamente confirmada por el BOE, publicado el 29 de septiembre de 2026. La resolución del Ayuntamiento de Calp convoca una plaza de Oficial de Policía Local mediante concurso-oposición y por promoción interna. El BOE establece un plazo de veinte días hábiles contado desde el día siguiente a la publicación y deja constancia de las publicaciones previas en el Boletín Oficial de la Provincia de Alicante y en el DOGV.",
+      "summary": "La información queda corroborada por una comunicación oficial del Ayuntamiento de Calp y por La Marina Alta. El Ayuntamiento confirmó el 3 de septiembre de 2026 que había finalizado la renovación del Pavelló Ifac y que la instalación estaría disponible desde el lunes 7 de septiembre. La actuación incluyó la renovación del parquet por 38.557 euros, mejoras de iluminación, señalización y equipamiento. También se anunciaron actuaciones posteriores, como la sustitución de las calderas de agua caliente durante el primer trimestre de 2027.",
       "claims": [
         {
-          "claim": "El BOE publicó el 29 de septiembre de 2026 una resolución del Ayuntamiento de Calp sobre la convocatoria de una plaza.",
+          "claim": "El Ayuntamiento de Calp ha completado una renovación integral del Pavelló Ifac.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La plaza es de Oficial de Policía Local.",
+          "claim": "La inversión en la actuación del parquet fue de 38.557 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El sistema selectivo es el concurso-oposición por turno de promoción interna.",
+          "claim": "Los trabajos incluyeron acuchillado, lijado, tratamiento, barnizado, reparación de zonas deterioradas y renovación del marcaje deportivo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plazo de presentación de solicitudes es de veinte días hábiles desde el día siguiente a la publicación en el BOE.",
+          "claim": "La actuación incorporó mejoras en iluminación, señalización y equipamiento deportivo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las bases fueron publicadas en el Boletín Oficial de la Provincia de Alicante y hubo un extracto en el DOGV.",
+          "claim": "El pabellón quedó disponible para su uso a partir del 7 de septiembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Está prevista la sustitución de las calderas de agua caliente durante el primer trimestre de 2027 para mejorar la eficiencia energética y el servicio.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20176",
-          "evidence": "La Resolución de 16 de septiembre de 2026, publicada en el BOE número 240 de 29 de septiembre de 2026, convoca una plaza de Oficial de Policía Local del Ayuntamiento de Calp por concurso-oposición y promoción interna. El texto fija un plazo de veinte días hábiles desde el día siguiente a la publicación en el BOE. También identifica las bases publicadas en el BOP de Alicante número 62, de 1 de abril de 2026, el extracto publicado en el DOGV número 10452, de 16 de septiembre de 2026, y la rectificación publicada en el BOP número 135, de 21 de julio de 2026.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-termina-la-renovaci%C3%B3n-integral-del-pavell%C3%B3-ifac-con-una-inversi%C3%B3n",
+          "evidence": "La comunicación oficial, publicada el 3 de septiembre de 2026, informa de la finalización de la renovación del Pavelló Ifac, fija su disponibilidad para el 7 de septiembre y detalla la inversión de 38.557 euros en el parquet, así como mejoras de iluminación, señalización y equipamiento. También anuncia la sustitución futura de las calderas durante el primer trimestre de 2027.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Boletín Oficial del Estado — PDF de la disposición",
-          "source_url": "https://www.boe.es/boe/dias/2026/09/29/pdfs/BOE-A-2026-20176.pdf",
-          "evidence": "La versión oficial en PDF reproduce la resolución y confirma la plaza, la categoría de Oficial de Policía Local, el sistema de concurso-oposición, el turno de promoción interna y el plazo de veinte días hábiles.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/calp-pone-fecha-a-la-reapertura-del-pavello-ifac-tras-una-renovacion-integral",
+          "evidence": "La noticia publicada el 3 de septiembre de 2026 recoge que el Ayuntamiento había completado la renovación del pabellón, que la instalación estaría disponible desde el 7 de septiembre y que los trabajos incluyeron la restauración integral del parquet y mejoras en distintas áreas del recinto.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/va/noticia/calp-inverteix-este-estiu-prop-de-200000-%E2%82%AC-en-la-renovaci%C3%B3-de-les-seues-instal%C2%B7lacions",
+          "evidence": "La comunicación municipal del 19 de agosto de 2026 identifica una inversión de 38.557,68 euros en el parquet del Pavelló Ifac y menciona nuevas porterías, protectores y una nueva moqueta para gimnasia rítmica. Señala que el conjunto de las actuaciones estaba previsto que finalizara en septiembre.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "El BOE es la fuente oficial decisiva para la publicación de la convocatoria. La corroboración adicional del BOP y del DOGV aparece descrita dentro de la propia resolución del BOE; no se ha incorporado aquí una copia independiente de esos anuncios porque no fue recuperada directamente durante la búsqueda."
+        "La cifra de 38.557 euros es una redondez; otra comunicación municipal precisa 38.557,68 euros.",
+        "Las calderas y otras actuaciones futuras no forman parte de obras ya terminadas, por lo que deben redactarse como actuaciones previstas.",
+        "La expresión reapertura está respaldada por la fecha anunciada de disponibilidad, aunque la fuente oficial utiliza principalmente la fórmula disponibilidad para el uso."
       ],
-      "id": "inv_1888c6253e428fcb",
-      "investigated_at": "2026-09-30T00:29:31.956Z",
+      "id": "inv_4043d47c1889cd78",
+      "investigated_at": "2026-09-30T06:45:37.472Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "94044b6986f758b2dd35b5335ac5b63742b342a2b430d9975eb1d202bae4a290",
+      "title": "Un contador eléctrico se incendia en Calp y afecta a varios edificios",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El incidente está corroborado por la noticia de La Marina Alta y por una publicación atribuida a la Policía Local de Calp. Ambas fuentes sitúan el incendio el 8 de septiembre de 2026 en la calle La Niña, junto a la valla de un edificio y cerca de una zona de pinos. También coinciden en que el aviso llegó a través del 112, que varias patrullas aseguraron la zona y regularon el tráfico, y que una dotación del Consorcio Provincial de Bomberos realizó la extinción, revisión y aseguramiento de la instalación eléctrica que afectaba a varios edificios.",
+      "claims": [
+        {
+          "claim": "Se produjo un incendio en un contador eléctrico situado en la calle La Niña de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El aviso fue recibido a través del 112.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contador estaba junto a la valla de un edificio y próximo a una zona de pinos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La incidencia afectó a la instalación eléctrica de varios edificios de la zona.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Policía Local aseguró el perímetro y reguló el tráfico.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Consorcio Provincial de Bomberos desplazó una dotación para extinguir el fuego, revisar y asegurar la instalación.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación permitió controlar la incidencia y restablecer posteriormente la normalidad.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Policía Local de Calp",
+          "source_url": "https://www.govserv.org/ES/Calp/842801309099206/Polic%C3%ADa-Local-Calp",
+          "evidence": "La página que identifica la cuenta oficial de la Policía Local de Calp reproduce una publicación fechada el 8 de septiembre de 2026. El texto informa de un incendio en un contador eléctrico de la calle La Niña tras un aviso del 112, de la intervención de varias patrullas y de la actuación posterior de una dotación del Consorcio Provincial de Bomberos para extinguir, revisar y asegurar la instalación.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/un-contador-electrico-se-incendia-en-calp-y-afecta-a-la-instalacion-de-varios-edificios",
+          "evidence": "La noticia publicada el 8 de septiembre de 2026 informa de la intervención conjunta de la Policía Local de Calp y del Consorcio Provincial de Bomberos en la calle La Niña por el incendio de un contador eléctrico. Añade que el fuego afectó a la instalación de varios edificios y que la Policía Local aseguró la zona y reguló el tráfico mientras los bomberos extinguían y revisaban la instalación.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/aggregator/sources/7",
+          "evidence": "El agregador oficial del Ayuntamiento de Calp incluyó el 9 de septiembre de 2026 la noticia de La Marina Alta sobre el incendio del contador eléctrico en la calle La Niña. Esta referencia confirma que el incidente fue recogido en el dossier municipal de prensa, aunque no aporta detalles adicionales independientes.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración primaria localizada procede de una página que reproduce publicaciones de la Policía Local de Calp, no de una URL directa del perfil de la red social.",
+        "No se han localizado en la búsqueda abierta partes operativos independientes del Consorcio Provincial de Bomberos con detalles adicionales sobre daños materiales o duración de la intervención.",
+        "Debe evitarse afirmar que hubo daños estructurales o heridos, porque las fuentes consultadas no lo acreditan."
+      ],
+      "id": "inv_a81608f3114f0ec9",
+      "investigated_at": "2026-09-30T06:45:37.472Z",
       "model": "gpt-5.6-luna"
     }
   ]

@@ -2,25 +2,39 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-30T00:30:17.221Z",
+  "generated_at": "2026-09-30T06:46:27.130Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-30T00:30:17.083Z",
+  "last_activity": "2026-09-30T06:46:27.018Z",
   "newspaper": {
-    "archive_total": 35,
-    "published_today": 2,
-    "published_last_7_days": 35,
+    "archive_total": 37,
+    "published_today": 4,
+    "published_last_7_days": 37,
     "categories": {
+      "DEPORTES": 2,
+      "SUCESOS": 2,
       "SOCIEDAD": 6,
       "POLITICA": 2,
       "TURISMO": 5,
       "ECONOMIA": 5,
       "MEDIO_AMBIENTE": 6,
-      "DEPORTES": 1,
       "CULTURA": 3,
-      "LOCAL": 6,
-      "SUCESOS": 1
+      "LOCAL": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_0e030a20ca8ee8b1",
+        "title": "El Pavelló Ifac de Calp completa su renovación y vuelve a estar disponible",
+        "category": "DEPORTES",
+        "slug": "pavello-ifac-calp-renovacion-integral",
+        "published_at": "2026-09-30T06:46:06.407Z"
+      },
+      {
+        "archive_id": "arc_1ef50715fe10bf82",
+        "title": "Un incendio en un contador eléctrico moviliza a Policía Local y bomberos en Calp",
+        "category": "SUCESOS",
+        "slug": "incendio-contador-electrico-calle-la-nina-calp",
+        "published_at": "2026-09-30T06:46:06.407Z"
+      },
       {
         "archive_id": "arc_0a89c05f73091ec7",
         "title": "Calp publica la lista provisional de las ayudas al transporte para estudiantes",
@@ -62,25 +76,11 @@
         "category": "DEPORTES",
         "slug": "calp-convoca-275000-euros-ayudas-promocion-deporte",
         "published_at": "2026-09-27T08:13:58.098Z"
-      },
-      {
-        "archive_id": "arc_760df5db6daffa60",
-        "title": "3.467 alumnos comienzan el curso en Calp mientras el CEE Gargasindi sigue en instalaciones provisionales",
-        "category": "SOCIEDAD",
-        "slug": "calp-3467-alumnos-curso-cee-gargasindi-obras",
-        "published_at": "2026-09-27T08:13:58.098Z"
-      },
-      {
-        "archive_id": "arc_c211d27b865a3bea",
-        "title": "El 53% de las búsquedas de alquiler en Calp durante el primer trimestre procedió del extranjero",
-        "category": "ECONOMIA",
-        "slug": "busquedas-alquiler-extranjero-calp-primer-trimestre-2026",
-        "published_at": "2026-09-27T01:29:35.126Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 10,
     "investigated": 0,
     "drafts": 2,
     "eligible": 2,

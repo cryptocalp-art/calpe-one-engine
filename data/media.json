@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-09-30T00:30:09.151Z",
+  "generated_at": "2026-09-30T06:46:20.464Z",
   "archive_version": "archive-v1",
-  "count": 35,
+  "count": 37,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,78 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 33,
+    "reused": 35,
     "licensed_selected": 0,
     "official_candidates_not_auto_published": 0,
     "branded_fallbacks": 2
   },
   "items": [
+    {
+      "media_id": "med_ab4bd1692e445db7",
+      "archive_id": "arc_0e030a20ca8ee8b1",
+      "slug": "pavello-ifac-calp-renovacion-integral",
+      "title": "El Pavelló Ifac de Calp completa su renovación y vuelve a estar disponible",
+      "category": "DEPORTES",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_0e030a20ca8ee8b1.svg",
+        "alt": "Imagen editorial de CALPE ONE para: El Pavelló Ifac de Calp completa su renovación y vuelve a estar disponible",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Alta",
+          "source_page": "https://lamarinaalta.com/calp-pone-fecha-a-la-reapertura-del-pavello-ifac-tras-una-renovacion-integral",
+          "image_url": "https://lamarinaalta.com/wp-content/uploads/2026/09/pavello-ifac-calp-parque-renovado-1320x990.jpeg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-09-30T06:46:20.464Z",
+      "engine_version": "media-v1"
+    },
+    {
+      "media_id": "med_17dc59c47710d0ed",
+      "archive_id": "arc_1ef50715fe10bf82",
+      "slug": "incendio-contador-electrico-calle-la-nina-calp",
+      "title": "Un incendio en un contador eléctrico moviliza a Policía Local y bomberos en Calp",
+      "category": "SUCESOS",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_1ef50715fe10bf82.svg",
+        "alt": "Imagen editorial de CALPE ONE para: Un incendio en un contador eléctrico moviliza a Policía Local y bomberos en Calp",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "La Marina Alta",
+          "source_page": "https://lamarinaalta.com/un-contador-electrico-se-incendia-en-calp-y-afecta-a-la-instalacion-de-varios-edificios",
+          "image_url": "https://lamarinaalta.com/wp-content/uploads/2026/09/800924584_17973632940132579_1478675043024234088_n-e1788867224584.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": false,
+        "reason": "AI illustration disabled for SUCESOS"
+      },
+      "checked_at": "2026-09-30T06:46:20.464Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_2b09ca69cf1b33c0",
       "archive_id": "arc_0a89c05f73091ec7",
@@ -39,7 +105,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -62,7 +128,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -104,7 +170,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -155,7 +221,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -188,7 +254,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -230,7 +296,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -272,7 +338,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -314,7 +380,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -356,7 +422,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -407,7 +473,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -440,7 +506,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -482,7 +548,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -505,7 +571,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -538,7 +604,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -589,7 +655,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -622,7 +688,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -645,7 +711,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -678,7 +744,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -711,7 +777,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -744,7 +810,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -777,7 +843,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -828,7 +894,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -879,7 +945,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -921,7 +987,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -944,7 +1010,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -986,7 +1052,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1009,7 +1075,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1051,7 +1117,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1084,7 +1150,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1117,7 +1183,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1140,7 +1206,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1173,7 +1239,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1196,7 +1262,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1219,7 +1285,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     },
     {
@@ -1252,7 +1318,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-09-30T00:30:09.151Z",
+      "checked_at": "2026-09-30T06:46:20.464Z",
       "engine_version": "media-v1"
     }
   ]
