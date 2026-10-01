@@ -2,25 +2,53 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-01T05:59:18.143Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-01T05:59:17.968Z",
+  "generated_at": "2026-10-01T13:21:23.499Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-10-01T13:21:23.333Z",
   "newspaper": {
-    "archive_total": 41,
-    "published_today": 3,
-    "published_last_7_days": 41,
+    "archive_total": 45,
+    "published_today": 7,
+    "published_last_7_days": 45,
     "categories": {
+      "MEDIO_AMBIENTE": 7,
+      "DEPORTES": 3,
+      "ECONOMIA": 6,
+      "LOCAL": 9,
       "CULTURA": 4,
       "SUCESOS": 3,
-      "LOCAL": 8,
-      "DEPORTES": 2,
       "SOCIEDAD": 6,
       "POLITICA": 2,
-      "TURISMO": 5,
-      "ECONOMIA": 5,
-      "MEDIO_AMBIENTE": 6
+      "TURISMO": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_67f74c6026ba9c7b",
+        "title": "El aviso naranja por lluvias mantiene abiertas las aulas de Calp",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "aviso-naranja-lluvias-clases-abiertas-calp",
+        "published_at": "2026-10-01T13:20:30.915Z"
+      },
+      {
+        "archive_id": "arc_98f707dc190177f9",
+        "title": "Calp acogerá el Campeonato de España de Cruceros del 16 al 18 de octubre",
+        "category": "DEPORTES",
+        "slug": "calp-campeonato-espana-cruceros-2026",
+        "published_at": "2026-10-01T13:20:30.915Z"
+      },
+      {
+        "archive_id": "arc_b16751c5d77dd3e1",
+        "title": "AEMCO organiza en Calp un bootcamp financiero gratuito para autónomos y pymes",
+        "category": "ECONOMIA",
+        "slug": "aemco-bootcamp-financiero-autonomos-pymes-calp",
+        "published_at": "2026-10-01T13:20:30.915Z"
+      },
+      {
+        "archive_id": "arc_2740b9bb1de1f354",
+        "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
+        "category": "LOCAL",
+        "slug": "moros-cristianos-calp-reconocimiento-internacional",
+        "published_at": "2026-10-01T13:20:30.915Z"
+      },
       {
         "archive_id": "arc_8e7c13c31b0bbfb7",
         "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
@@ -48,44 +76,16 @@
         "category": "LOCAL",
         "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
         "published_at": "2026-09-30T19:23:34.516Z"
-      },
-      {
-        "archive_id": "arc_0e030a20ca8ee8b1",
-        "title": "El Pavelló Ifac de Calp completa su renovación y vuelve a estar disponible",
-        "category": "DEPORTES",
-        "slug": "pavello-ifac-calp-renovacion-integral",
-        "published_at": "2026-09-30T06:46:06.407Z"
-      },
-      {
-        "archive_id": "arc_1ef50715fe10bf82",
-        "title": "Un incendio en un contador eléctrico moviliza a Policía Local y bomberos en Calp",
-        "category": "SUCESOS",
-        "slug": "incendio-contador-electrico-calle-la-nina-calp",
-        "published_at": "2026-09-30T06:46:06.407Z"
-      },
-      {
-        "archive_id": "arc_0a89c05f73091ec7",
-        "title": "Calp publica la lista provisional de las ayudas al transporte para estudiantes",
-        "category": "SOCIEDAD",
-        "slug": "calp-lista-provisional-ayudas-transporte-estudiantes",
-        "published_at": "2026-09-30T00:29:58.058Z"
-      },
-      {
-        "archive_id": "arc_1a37f095ebc18f1c",
-        "title": "El BOE publica la convocatoria de una plaza de Oficial de Policía Local en Calp",
-        "category": "POLITICA",
-        "slug": "boe-convoca-plaza-oficial-policia-local-calp",
-        "published_at": "2026-09-30T00:29:58.058Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
-    "quarantined": 0,
-    "archive_added": 1
+    "drafts": 5,
+    "eligible": 4,
+    "quarantined": 1,
+    "archive_added": 4
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,5 +102,15 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_a22563a69cd31c35",
+      "slug": "domingo-sanchez-candidato-calpe-unidos-cambio-2027",
+      "category": "POLITICA",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-10-01T13:20:56.511Z"
+    }
+  ]
 }

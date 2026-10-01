@@ -1,78 +1,150 @@
 {
-  "generated_at": "2026-10-01T05:58:31.026Z",
-  "count": 12,
+  "generated_at": "2026-10-01T13:19:45.322Z",
+  "count": 24,
   "claims": [
     {
-      "id": "clm_e5da69b6f99de56c",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "AEMET activó un aviso naranja por lluvias en el litoral norte de Alicante para el jueves 1 de octubre de 2026.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_c464098a9a09d5f6",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "El aviso del jueves contemplaba hasta 50 l/m² en una hora y estaba vigente desde las 14:00 hasta las 23:59.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_bc903f6b86902c06",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "También había aviso amarillo por tormentas, con posibilidad de granizo y rachas muy fuertes de viento.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_e839ae155b2c16a0",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "El aviso naranja continuaba el viernes 2 de octubre entre las 00:00 y las 12:00, con hasta 50 l/m² en una hora y 120 l/m² en 12 horas.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_7820413492a42651",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "La situación afectaba directamente a la Marina Alta y, por extensión, a Calp.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_4a73bd2e74a39ec8",
-      "investigation_id": "inv_076473f9244b688b",
-      "claim": "El Centro de Coordinación de Emergencias de la Generalitat pidió extremar las precauciones a municipios y ciudadanía.",
-      "status": "UNVERIFIED"
-    },
-    {
-      "id": "clm_6ecba863a1666b47",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "El MARQ ha incorporado de forma permanente un ventanal gótico procedente de la Pobla de Ifach, en Calp.",
+      "id": "clm_9b4c47a916e1a380",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "claim": "El litoral norte de Alicante, incluida la Marina Alta, estuvo en aviso por lluvias y tormentas intensas el 1 de octubre de 2026.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_a36cd06406429370",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "La pieza fue descubierta durante excavaciones realizadas entre 2013 y 2018.",
+      "id": "clm_55cd4a1c027ec17e",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "claim": "Se activaron medidas preventivas ante el episodio meteorológico.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_9c5a8e2e1938fdd9",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "El ventanal está instalado en la sala del MARQ dedicada a la Edad Media y puede visitarse como parte del recorrido permanente.",
+      "id": "clm_a813f68c959019ae",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "claim": "Los centros educativos de Calp permanecieron abiertos durante la jornada del 1 de octubre.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_699ac780dc87c04d",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "Antes de su instalación permanente, formó parte de la exposición «Llúria. Señores y señoras de la tierra», que pasó por Calp y Cocentaina.",
+      "id": "clm_a15a96e2755b6ced",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "claim": "Se recomendó evitar desplazamientos innecesarios, barrancos, cauces y zonas inundables.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_d21d8de34c0b51a2",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "claim": "Domingo Sánchez ha sido anunciado como candidato de Calpe Unidos por el Cambio a la Alcaldía de Calp para las elecciones municipales de 2027.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_07ea3f5ca3e5dc1d",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "La pieza procede de la domus domini, residencia señorial vinculada a la Casa de Llúria.",
+      "id": "clm_263fa14dfbbd1f69",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "claim": "Calpe Unidos por el Cambio es una nueva formación municipalista vinculada a Sánchez.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_58fe74f3c4293e3c",
-      "investigation_id": "inv_ca3806401964bb90",
-      "claim": "Sus capiteles presentan rosetas dodecapétalas y palmas asociadas al taller de Girona.",
+      "id": "clm_79908c9ec63b27cf",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "claim": "La formación prioriza limpieza, aparcamiento, vivienda, servicios en urbanizaciones y comercio local.",
       "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_7bda617a488b869e",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "claim": "La formación está oficialmente inscrita en el Registro de Partidos Políticos.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_3ee80342b74fe4be",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "claim": "El Real Club Náutico de Calpe acogerá el Campeonato de España de Cruceros 2026.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_c37a0f50b1d1bc57",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "claim": "La competición se celebrará del 16 al 18 de octubre de 2026.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_2876799b212fdd94",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "claim": "Participarán 18 tripulaciones representantes de 13 federaciones autonómicas.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_d1986ac4a9d90e23",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "claim": "AEMCO celebrará un bootcamp financiero en Calp el viernes 2 de octubre de 2026.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_f495880801c57127",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "claim": "La jornada será gratuita y estará dirigida a autónomos y pymes.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_0e634385756293c1",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "claim": "La actividad abordará presupuestos, rentabilidad, control de gestión y fiscalidad.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_e239c622de8e48b0",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "claim": "La actividad tendrá lugar en la Clínica Salufit de Calp.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_4512894fb0a00408",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "claim": "Las III Jornadas Internacionales SAVE 2026 se celebrarán del 15 al 22 de octubre de 2026 en Alicante y Calp.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_83e52ba9107e31a0",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "claim": "Calp tendrá un papel destacado dentro de la programación.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_964f872151911c4d",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "claim": "El 17 de octubre se realizará en el entorno del Peñón de Ifach una acción para extraer y caracterizar residuos marinos.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_d6a67155757a5bf0",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "claim": "Las jornadas incluyen divulgación, voluntariado y ciencia marina.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_4b02bf4dc7755fd2",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "claim": "Los Moros y Cristianos de Calp han obtenido la declaración de Fiesta de Interés Turístico Nacional.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_4b65c3f301614923",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "claim": "La fiesta celebra su 50 aniversario entre 2026 y 2027.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_f2d6b4b750ac7a59",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "claim": "La organización y el Ayuntamiento valoran aspirar en el futuro a la declaración internacional.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_87c3eeead7e859a4",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "claim": "La fiesta atrae visitantes de Francia.",
+      "status": "UNVERIFIED"
+    },
+    {
+      "id": "clm_edede8f0c4161f53",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "claim": "Octubre se ha consolidado como un nuevo pico turístico para Calp.",
+      "status": "UNVERIFIED"
     }
   ]
 }

@@ -1,45 +1,133 @@
 {
-  "generated_at": "2026-10-01T05:58:31.026Z",
-  "count": 5,
+  "generated_at": "2026-10-01T13:19:45.322Z",
+  "count": 16,
   "evidences": [
     {
-      "id": "evd_3def0417e997df4c",
-      "investigation_id": "inv_076473f9244b688b",
-      "source_name": "La Marina Alta",
-      "source_url": "https://lamarinaalta.com/la-marina-alta-entra-en-aviso-naranja-ante-un-nuevo-episodio-de-lluvias-intensas-hasta-120-l-m%C2%B2-y-riesgo-de-fuertes-tormentas/",
-      "evidence": "La pieza, publicada el 30 de septiembre de 2026, afirma que AEMET activó aviso naranja por lluvias en el litoral norte de Alicante y amarillo por tormentas para el periodo comprendido entre la tarde del 1 y la mañana del 2 de octubre. Detalla acumulados de hasta 50 l/m² en una hora y hasta 120 l/m² en 12 horas, además de recomendaciones del Centro de Coordinación de Emergencias. Al ser la fuente candidata, no constituye por sí sola corroboración independiente.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_9526c233e41de5d9",
-      "investigation_id": "inv_076473f9244b688b",
-      "source_name": "Dénia.com",
-      "source_url": "https://www.denia.com/",
-      "evidence": "El sitio reproduce el mismo titular y el mismo episodio meteorológico con fecha de 30 de septiembre de 2026. El resultado no permite establecer por sí solo que exista una investigación independiente, por lo que se considera una posible repetición o sindicación de la información.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_664832eccedce7a5",
-      "investigation_id": "inv_ca3806401964bb90",
-      "source_name": "MARQ, Museo Arqueológico de Alicante",
-      "source_url": "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
-      "evidence": "El propio museo informa de que el ventanal gótico descubierto en la domus domini de la Pobla de Ifach durante las excavaciones de 2013-2018 ha sido instalado en la sala permanente dedicada a la Edad Media. Añade que la pieza formó parte de la exposición «Llúria. Señores y señoras de la tierra» y describe su procedencia y elementos arquitectónicos.",
+      "id": "evd_3e5f5a6042ce3227",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "source_name": "AEMET",
+      "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?datos=det&f=PR&w=hoy",
+      "evidence": "AEMET registró para el 1 de octubre avisos por tormentas y precipitaciones, con posible granizo y rachas muy fuertes de viento, y señaló el litoral norte de Alicante como zona de avisos.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_9ecf321a7edb5802",
-      "investigation_id": "inv_ca3806401964bb90",
-      "source_name": "Diputación de Alicante",
-      "source_url": "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
-      "evidence": "La Diputación confirma con fecha 30 de septiembre de 2026 que el ventanal gótico descubierto en la domus domini de la Pobla de Ifach ya se exhibe definitivamente en la muestra permanente del MARQ, en la sala dedicada a la Edad Media. También respalda las fechas de excavación, su paso por la exposición «Llúria» y la descripción de la residencia señorial y de los capiteles.",
+      "id": "evd_c59e9c0e5eb4cd37",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-1-de-octubre-2",
+      "evidence": "El dosier municipal del 1 de octubre recoge que el aviso naranja por lluvias afectaba a la Marina Alta y que Dénia, Xàbia y Calp mantenían las clases ese jueves.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_64264862c10cab71",
-      "investigation_id": "inv_ca3806401964bb90",
-      "source_name": "Alicante Press",
-      "source_url": "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach",
-      "evidence": "La información periodística independiente coincide en que el MARQ exhibe desde esa semana el ventanal gótico de la Pobla de Ifach en su colección permanente, tras las excavaciones de 2013-2018 y su paso por la exposición «Llúria».",
+      "id": "evd_d050629e59fb4249",
+      "investigation_id": "inv_4e83fbe1f9784b61",
+      "source_name": "Cadena SER Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/01/la-alerta-naranja-activa-las-medidas-preventivas-en-denia-y-xabia-ante-el-riesgo-de-lluvias-intensas-radio-denia",
+      "evidence": "La información describe la activación del aviso naranja desde las 14:00 en el litoral norte de Alicante y la continuidad de las clases, junto con la suspensión de actividades municipales al aire libre.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_abbf13e3a5aaddf2",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/09/30/el-expopular-domingo-sanchez-confirma-que-sera-el-candidato-de-calpe-unidos-por-el-cambio-a-la-alcaldia-en-2027/",
+      "evidence": "Publica el anuncio oficial de la candidatura de Domingo Sánchez García y enumera como prioridades la limpieza, el aparcamiento, la vivienda, los servicios en urbanizaciones, el comercio local, la protección del entorno y la atención municipal.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_39ac3286ffd8bf1d",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/11964/calpe-unidos-por-el-cambio-irrumpe-en-escenario-politico-cara-elecciones-2027",
+      "evidence": "Informa de la inscripción de Calpe Unidos por el Cambio desde el 11 de junio de 2026 y vincula la nueva formación con Domingo Sánchez, quien había anunciado su intención de concurrir como candidato independiente.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_4fd511dd23461a94",
+      "investigation_id": "inv_1d905babc299aaa7",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12057/domingo-sanchez-calp-merece-recuperar-ilusion-con-gobierno-que-piense-necesidades-vecinos",
+      "evidence": "Presenta a Domingo Sánchez como candidato de la formación y recoge como prioridades la vivienda, el aparcamiento, la limpieza, el comercio local y la recuperación del casco antiguo.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_158c30a39f2db7f0",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "source_name": "Real Club Náutico de Calpe",
+      "source_url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+      "evidence": "El club anuncia que será sede del Campeonato de España de Cruceros Trofeo Loterías con el Deporte 2026, previsto del 16 al 18 de octubre en aguas de Calpe.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_a72b6d2e24ebd372",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "source_name": "Federación Andaluza de Vela",
+      "source_url": "https://www.fav.es/campeonato-de-espana-de-cruceros-7/",
+      "evidence": "La federación informa el 30 de septiembre de que 18 tripulaciones de 13 federaciones autonómicas competirán del 16 al 18 de octubre en el Real Club Náutico de Calpe.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_588d8fbc41d7316d",
+      "investigation_id": "inv_a9b85b87148e1554",
+      "source_name": "Cadena SER Canarias",
+      "source_url": "https://cadenaser.com/canarias/2026/06/29/el-lanzarote-sailing-paradise-se-proclama-campeon-de-canarias-de-cruceros-ser-lanzarote/",
+      "evidence": "Identifica Calpe como sede del Campeonato de España de Cruceros Trofeo Loterías con el Deporte 2026 y sitúa la celebración entre el 16 y el 18 de octubre.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_78b378a31b999964",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "source_name": "AEMCO / Empresarios Calpe",
+      "source_url": "https://empresarioscalpe.es/2026/09/29/bootcamp-financiero-aemco-primera-edicion/",
+      "evidence": "AEMCO anuncia el bootcamp para el viernes 2 de octubre, de 16:00 a 18:45, en la Clínica Salufit de Calp, con carácter gratuito y dirigido a autónomos y pymes. Detalla sesiones sobre tesorería, márgenes, ayudas y financiación.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_5b2665f5cbad2be1",
+      "investigation_id": "inv_b9c5060b671993d9",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12344/aemco-bootcamp-financiero-autonomos-pymes-calp",
+      "evidence": "Confirma la celebración de la primera edición el 2 de octubre, su carácter gratuito y su orientación a autónomos y pequeñas empresas. Describe las sesiones sobre presupuesto, rentabilidad, control de gestión y fiscalidad.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_41cedbec253fc4d7",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12341/calp-jornadas-save-2026-penon-ifach-sostenibilidad",
+      "evidence": "Anuncia unas terceras jornadas SAVE del 15 al 22 de octubre y describe una acción denominada SAVE Action: Shared Seas en el entorno marino del Peñón de Ifach el 17 de octubre, centrada en la extracción y caracterización de residuos marinos.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_24d406733cba344b",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/voluntarios-de-las-jornadas-save-retiran-m%C3%A1s-de-1200-kg-de-residuos-en-calp",
+      "evidence": "Acredita que en 2025 se celebró en Calp la segunda edición de las Jornadas Internacionales SAVE, con actividades de voluntariado, ciencia y retirada de residuos en el entorno del Peñón de Ifach.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_1b9ed4d86da715e0",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "source_name": "Boletín Oficial del Estado",
+      "source_url": "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19610.pdf",
+      "evidence": "La resolución de la Secretaría de Estado de Turismo concede el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_e9844d420e0e1d39",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+      "evidence": "Confirma la declaración nacional y señala que la fiesta mantiene su 50 aniversario entre 2026 y 2027.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_12c3593ceffee1c7",
+      "investigation_id": "inv_01cc4fa738242e19",
+      "source_name": "Cadena SER Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/01/calp-mira-ya-al-reconocimiento-internacional-de-sus-moros-y-cristianos-tras-lograr-el-distintivo-nacional-radio-denia",
+      "evidence": "Recoge que, tras lograr el distintivo nacional, representantes de la fiesta consideran que todavía existe recorrido para aspirar en el futuro al reconocimiento de Fiesta de Interés Turístico Internacional.",
       "source_type": "SECONDARY"
     }
   ]
