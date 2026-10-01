@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-01T13:21:23.499Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-10-01T13:21:23.333Z",
+  "generated_at": "2026-10-01T19:34:12.559Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-10-01T19:34:12.408Z",
   "newspaper": {
-    "archive_total": 45,
-    "published_today": 7,
-    "published_last_7_days": 45,
+    "archive_total": 46,
+    "published_today": 8,
+    "published_last_7_days": 46,
     "categories": {
+      "TURISMO": 6,
       "MEDIO_AMBIENTE": 7,
       "DEPORTES": 3,
       "ECONOMIA": 6,
@@ -17,10 +18,16 @@
       "CULTURA": 4,
       "SUCESOS": 3,
       "SOCIEDAD": 6,
-      "POLITICA": 2,
-      "TURISMO": 5
+      "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_7ed1d9649af4708e",
+        "title": "El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
+        "category": "TURISMO",
+        "slug": "nuevas-tarifas-tram-abonos-calp",
+        "published_at": "2026-10-01T19:33:56.228Z"
+      },
       {
         "archive_id": "arc_67f74c6026ba9c7b",
         "title": "El aviso naranja por lluvias mantiene abiertas las aulas de Calp",
@@ -69,23 +76,16 @@
         "category": "LOCAL",
         "slug": "obras-acceso-consultorio-fossa-calp",
         "published_at": "2026-09-30T23:52:44.302Z"
-      },
-      {
-        "archive_id": "arc_368fb5ffe916caf8",
-        "title": "Calp licita por 596.791 euros el asfaltado de Empedrola I y II, Cometa III y Canuta",
-        "category": "LOCAL",
-        "slug": "calp-licita-asfaltado-empedrola-cometa-canuta",
-        "published_at": "2026-09-30T19:23:34.516Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 3,
     "investigated": 0,
-    "drafts": 5,
-    "eligible": 4,
-    "quarantined": 1,
-    "archive_added": 4
+    "drafts": 1,
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_a22563a69cd31c35",
-      "slug": "domingo-sanchez-candidato-calpe-unidos-cambio-2027",
-      "category": "POLITICA",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-01T13:20:56.511Z"
-    }
-  ]
+  "quarantine": []
 }

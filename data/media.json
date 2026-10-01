@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "MEDIA",
   "version": "media-v1",
-  "generated_at": "2026-10-01T13:20:57.017Z",
+  "generated_at": "2026-10-01T19:34:05.139Z",
   "archive_version": "archive-v1",
-  "count": 45,
+  "count": 46,
   "policy": {
     "official_or_licensed_first": true,
     "unverified_rights_never_auto_published": true,
@@ -13,12 +13,63 @@
     "ai_rule": "Never depict a real event as if the generated image were documentary photography"
   },
   "stats": {
-    "reused": 41,
+    "reused": 45,
     "licensed_selected": 0,
     "official_candidates_not_auto_published": 0,
-    "branded_fallbacks": 4
+    "branded_fallbacks": 1
   },
   "items": [
+    {
+      "media_id": "med_79deb3d1542824f0",
+      "archive_id": "arc_7ed1d9649af4708e",
+      "slug": "nuevas-tarifas-tram-abonos-calp",
+      "title": "El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
+      "category": "TURISMO",
+      "selected": {
+        "mode": "EDITORIAL_CARD",
+        "stable": true,
+        "image_url": "/media/arc_7ed1d9649af4708e.svg",
+        "alt": "Imagen editorial de CALPE ONE para: El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
+        "credit": "CALPE ONE",
+        "label": "Imagen editorial · No es una fotografía del hecho",
+        "rights_status": "CALPE_ONE_OWNED"
+      },
+      "candidates": [
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Ayuntamiento de Alicante",
+          "source_page": "https://www.alicante.es/es/noticias/alicante-estrena-bonos-mobilis-y-mobilis-jove-viajes-mensuales-ilimitados",
+          "image_url": "https://www.alicante.es/sites/default/files/imagenes/202610/autobuses-del-transporte-publico-2.jpeg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Cadena SER - Radio Alicante",
+          "source_page": "https://cadenaser.com/comunitat-valenciana/2026/09/30/el-bus-y-el-tram-de-alicante-suben-por-sorpresa-los-precios-e-implantan-nuevos-bonos-desde-este-1-de-octubre-radio-alicante/",
+          "image_url": "https://cadenaser.com/resizer/v2/MDWJADPS3BAPZCHMAFFQPSMTUA.jpeg?auth=e28ad00b753be240006924247a66548527687074f2e25a8526edf439e79d8fe3&quality=70&width=1200&height=675&focal=829,526",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        },
+        {
+          "type": "SOURCE_IMAGE",
+          "source_name": "Alicante Plaza",
+          "source_page": "https://alicanteplaza.es/alicanteplaza/alicante/el-consell-actualiza-los-precios-del-tram-y-del-tam-asi-quedan-las-subidas-y-las-bonificaciones",
+          "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1937113.jpg",
+          "official_source": false,
+          "rights_status": "RIGHTS_UNVERIFIED",
+          "auto_publish": false
+        }
+      ],
+      "ai_policy": {
+        "eligible": true,
+        "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
+      },
+      "checked_at": "2026-10-01T19:34:05.139Z",
+      "engine_version": "media-v1"
+    },
     {
       "media_id": "med_ca38e112265a8e76",
       "archive_id": "arc_67f74c6026ba9c7b",
@@ -58,7 +109,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -100,7 +151,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -142,7 +193,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -175,7 +226,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -217,7 +268,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -250,7 +301,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -292,7 +343,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -325,7 +376,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -358,7 +409,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -391,7 +442,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -414,7 +465,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -437,7 +488,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -479,7 +530,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -530,7 +581,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -563,7 +614,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -605,7 +656,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -647,7 +698,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -689,7 +740,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -731,7 +782,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -782,7 +833,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -815,7 +866,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -857,7 +908,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -880,7 +931,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -913,7 +964,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -964,7 +1015,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -997,7 +1048,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1020,7 +1071,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1053,7 +1104,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1086,7 +1137,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1119,7 +1170,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for SUCESOS"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1152,7 +1203,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1203,7 +1254,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1254,7 +1305,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1296,7 +1347,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1319,7 +1370,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1361,7 +1412,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1384,7 +1435,7 @@
         "eligible": false,
         "reason": "AI illustration disabled for POLITICA"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1426,7 +1477,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1459,7 +1510,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1492,7 +1543,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1515,7 +1566,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1548,7 +1599,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1571,7 +1622,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1594,7 +1645,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     },
     {
@@ -1627,7 +1678,7 @@
         "eligible": true,
         "reason": "Only as a clearly labelled conceptual illustration; never as documentary evidence"
       },
-      "checked_at": "2026-10-01T13:20:57.017Z",
+      "checked_at": "2026-10-01T19:34:05.139Z",
       "engine_version": "media-v1"
     }
   ]

@@ -3,9 +3,82 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-01T13:20:56.843Z",
-  "count": 45,
+  "updated_at": "2026-10-01T19:34:04.993Z",
+  "count": 46,
   "articles": [
+    {
+      "archive_id": "arc_7ed1d9649af4708e",
+      "external_id": "drf_8f2c1dac8b2087b8",
+      "investigation_id": "inv_cb271d726a08691a",
+      "candidate_fingerprints": [
+        "4d23d306b8b6125d4f57269a0d381d12460d82b73d54c669c74f7c68455578d5"
+      ],
+      "title": "El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
+      "slug": "nuevas-tarifas-tram-abonos-calp",
+      "summary": "La nueva regulación tarifaria del TRAM d’Alacant y del sistema TAM se aplica desde este 1 de octubre de 2026. El cambio incorpora abonos Móbilis con viajes ilimitados durante 30 días y modifica el precio de los billetes sencillos, con importes diferentes según el ámbito del desplazamiento.",
+      "body": "La Generalitat ha puesto en vigor desde el 1 de octubre una actualización de las tarifas del TRAM d’Alacant y del sistema TAM. La medida afecta a la movilidad vinculada a Calp, municipio integrado en la Línea 9 del TRAM d’Alacant.\n\nUna de las principales novedades es la creación de los abonos **Móbilis Mensual** y **Móbilis Mensual Jove**. Ambos permiten realizar viajes ilimitados durante 30 días. El abono general tiene un precio de 35 euros, mientras que el dirigido a jóvenes cuesta 29,75 euros, según la información difundida por el operador del sistema TAM y por las instituciones que han comunicado la actualización.\n\nTambién cambia el precio del billete sencillo. En el sistema TAM pasa de 1,45 a 1,50 euros. En cambio, el billete sencillo de los títulos propios del TRAM fuera del ámbito tarifario TAM sube de 1,45 a 2 euros.\n\nLa diferencia entre ambos importes resulta relevante para los desplazamientos relacionados con Calp, ya que el precio aplicable depende del título utilizado y del ámbito zonal del trayecto. Por tanto, los 2 euros no constituyen una tarifa única para todos los recorridos del TRAM d’Alacant.\n\nLa actualización mantiene las bonificaciones vigentes para determinados colectivos. Entre ellas figura la gratuidad para menores de hasta 14 años y otras reducciones que se mantienen hasta el 31 de diciembre de 2026.\n\nLa nueva regulación incluye además las condiciones de uso y canje de títulos anteriores, así como los requisitos y soportes asociados a los nuevos abonos mensuales.",
+      "category": "TURISMO",
+      "seo_title": "Nuevas tarifas del TRAM y abonos desde Calp",
+      "meta_description": "El TRAM d’Alacant y el sistema TAM actualizan sus tarifas desde el 1 de octubre, con nuevos abonos mensuales y precios distintos según el trayecto.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Alicante",
+          "url": "https://www.alicante.es/es/noticias/alicante-estrena-bonos-mobilis-y-mobilis-jove-viajes-mensuales-ilimitados",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Vectalia Movilidad Alicante",
+          "url": "https://alicante.vectalia.es/notificacion/nuevos-bonos-temporales-para-el-sistema-tam/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Cadena SER - Radio Alicante",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/09/30/el-bus-y-el-tram-de-alicante-suben-por-sorpresa-los-precios-e-implantan-nuevos-bonos-desde-este-1-de-octubre-radio-alicante/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Alicante Plaza",
+          "url": "https://alicanteplaza.es/alicanteplaza/alicante/el-consell-actualiza-los-precios-del-tram-y-del-tam-asi-quedan-las-subidas-y-las-bonificaciones",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ferrocarrils de la Generalitat Valenciana",
+          "url": "https://www.fgv.es/Entrevias/Entrevias41cs/files/assets/common/downloads/publication.pdf",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.alicante.es/es/noticias/alicante-estrena-bonos-mobilis-y-mobilis-jove-viajes-mensuales-ilimitados",
+        "https://alicante.vectalia.es/notificacion/nuevos-bonos-temporales-para-el-sistema-tam",
+        "https://cadenaser.com/comunitat-valenciana/2026/09/30/el-bus-y-el-tram-de-alicante-suben-por-sorpresa-los-precios-e-implantan-nuevos-bonos-desde-este-1-de-octubre-radio-alicante",
+        "https://alicanteplaza.es/alicanteplaza/alicante/el-consell-actualiza-los-precios-del-tram-y-del-tam-asi-quedan-las-subidas-y-las-bonificaciones",
+        "https://www.fgv.es/Entrevias/Entrevias41cs/files/assets/common/downloads/publication.pdf"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 5,
+        "caveats": [
+          "El precio de 2 euros corresponde al billete sencillo de los títulos propios del TRAM fuera del ámbito tarifario TAM; no debe presentarse como tarifa única para toda la red.",
+          "Para una noticia específicamente centrada en Calp conviene explicar que Calp está en la Línea 9 y que el cambio tarifario relevante depende del título y del ámbito zonal del trayecto.",
+          "La fuente inicial aportada, La Marina Alta, no fue necesaria para validar el hecho: existe confirmación institucional, del operador y de medios independientes."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_206fdf746a3aa4f0",
+        "quality_gate_evaluated_at": "2026-10-01T19:34:04.719Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Precisar siempre que el billete de 2 euros corresponde a títulos propios del TRAM fuera del ámbito TAM; el billete sencillo del sistema TAM cuesta 1,50 euros.",
+        "Indicar que Calp pertenece a la Línea 9 y que la tarifa aplicable depende del título y del ámbito zonal del trayecto."
+      ],
+      "published_at": "2026-10-01T19:33:56.228Z",
+      "updated_at": "2026-10-01T19:34:04.993Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_67f74c6026ba9c7b",
       "external_id": "drf_0699fe37fda693cd",
