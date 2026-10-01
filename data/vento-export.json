@@ -3,276 +3,137 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-09-30T23:52:54.888Z",
+  "generated_at": "2026-10-01T05:59:10.551Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 2,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_0fd47bc6bec25aac",
+      "export_id": "exp_561061650d8c7c2e",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-09-30T23:52:54.888Z",
-      "source_draft_id": "drf_23f15330d8010347",
-      "source_investigation_id": "inv_99ac337385ae7794",
-      "candidate_fingerprint": "70211c63e9990a4ee9486fd2a566d5818eb3ca27439441471f418bc05e0525ab",
-      "quality_gate_id": "qg_33bfc97759bb2e07",
+      "generated_at": "2026-10-01T05:59:10.551Z",
+      "source_draft_id": "drf_687359acce7d7513",
+      "source_investigation_id": "inv_ca3806401964bb90",
+      "candidate_fingerprint": "fe9a15d4a522b26c3fa35ec485b440e4cf4d8cbf51c69526d570f57e15ca5a4c",
+      "quality_gate_id": "qg_1310ea04ec1a5142",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_23f15330d8010347",
-        "investigation_id": "inv_99ac337385ae7794",
-        "candidate_fingerprint": "70211c63e9990a4ee9486fd2a566d5818eb3ca27439441471f418bc05e0525ab",
-        "title": "La Oficina de la Policía de Proximidad de Calp reabre este jueves en la calle Justicia",
-        "subtitle": "El servicio atenderá a la ciudadanía de lunes a viernes, entre las 10:00 y las 13:30 horas",
-        "summary": "La Oficina de la Policía de Proximidad de Calp volverá a estar operativa el 1 de octubre de 2026, según ha informado el Ayuntamiento de Calp. El servicio se prestará en el local situado en la calle Justicia.",
-        "body": "La Oficina de la Policía de Proximidad de Calp reabrirá sus puertas el jueves 1 de octubre de 2026, de acuerdo con la comunicación publicada por el Ayuntamiento de Calp el 30 de septiembre. La oficina está situada en la calle Justicia y recuperará la atención presencial a la ciudadanía.\n\nEl horario anunciado es de lunes a viernes, de 10:00 a 13:30 horas. El servicio tiene como finalidad facilitar la atención policial y el contacto directo con los vecinos y vecinas de Calp.\n\nLa reapertura ha sido comunicada por el consistorio a través de sus canales oficiales. La documentación municipal consultada también recoge la existencia de una oficina de proximidad y el refuerzo de los servicios policiales vinculados a este modelo de atención.\n\nLa información disponible sobre la fecha de reapertura y el horario procede de la comunicación oficial del Ayuntamiento. No se ha localizado una cobertura independiente específica que corrobore estos datos. La documentación contractual relacionada con el arrendamiento de un local para las oficinas de la Policía de Proximidad aporta contexto sobre la continuidad del servicio, pero no acredita por sí sola la fecha de reapertura ni el horario anunciado.",
-        "category": "SUCESOS",
-        "slug": "policia-proximidad-calp-reabre-1-octubre",
-        "seo_title": "La Policía de Proximidad de Calp reabre el 1 de octubre",
-        "meta_description": "La Oficina de la Policía de Proximidad de Calp reabre el 1 de octubre en la calle Justicia, con atención de lunes a viernes por la mañana.",
+        "external_id": "drf_687359acce7d7513",
+        "investigation_id": "inv_ca3806401964bb90",
+        "candidate_fingerprint": "fe9a15d4a522b26c3fa35ec485b440e4cf4d8cbf51c69526d570f57e15ca5a4c",
+        "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
+        "subtitle": "La pieza, recuperada durante las excavaciones realizadas entre 2013 y 2018, se exhibe en la sala dedicada a la Edad Media",
+        "summary": "El Museo Arqueológico de Alicante (MARQ) ha incorporado a su exposición permanente un ventanal gótico procedente de la domus domini de la Pobla de Ifach, en Calp. La pieza ya está instalada en la sala dedicada a la Edad Media y forma parte del recorrido permanente del museo.",
+        "body": "El MARQ exhibe de forma permanente un ventanal gótico descubierto en la domus domini de la Pobla de Ifach, en Calp, durante las excavaciones desarrolladas entre 2013 y 2018. La incorporación ha sido confirmada por el museo y por la Diputación de Alicante, que informó sobre la instalación definitiva de la pieza el 30 de septiembre de 2026.\n\nEl ventanal se encuentra en la sala del MARQ dedicada a la Edad Media, donde puede contemplarse como parte de la exposición permanente. La pieza procede de la residencia señorial vinculada a la Casa de Llúria, situada en el yacimiento de la Pobla de Ifach.\n\nAntes de llegar a la muestra permanente del museo alicantino, el elemento arquitectónico formó parte de la exposición «Llúria. Señores y señoras de la tierra», que pasó por Calp y Cocentaina. Su incorporación al recorrido estable permite presentar en el MARQ una pieza recuperada en las excavaciones del yacimiento calpino.\n\nEntre los elementos descritos en sus capiteles figuran rosetas dodecapétalas y palmas asociadas al taller de Girona. Esta referencia corresponde a una atribución estilística o contextual recogida en las fuentes, no a la identificación de una autoría individual.\n\nLa confirmación disponible acredita la instalación y exhibición del ventanal, pero no aporta horarios concretos para su visita.",
+        "category": "CULTURA",
+        "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
+        "seo_title": "El MARQ exhibe el ventanal gótico de la Pobla de Ifach",
+        "meta_description": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach, recuperado en excavaciones de Calp entre 2013 y 2018.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_33bfc97759bb2e07",
+        "quality_gate_id": "qg_1310ea04ec1a5142",
         "editorial_notes": [
-          "La fecha de reapertura y el horario proceden de una comunicación oficial municipal. No hay corroboración independiente específica."
+          "La información disponible confirma la incorporación y exhibición de la pieza, pero no incluye horarios concretos de visita.",
+          "La relación de los capiteles con el taller de Girona debe presentarse como una atribución estilística o contextual, no como una autoría individual."
         ],
         "sources": [
           {
-            "name": "Calp Comunica – Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas/",
+            "name": "MARQ, Museo Arqueológico de Alicante",
+            "url": "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
             "type": "PRIMARY"
           },
           {
-            "name": "Ayuntamiento de Calp – agregador de noticias oficiales",
-            "url": "https://www.calp.es/va/aggregator?page=14",
+            "name": "Diputación de Alicante",
+            "url": "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
             "type": "PRIMARY"
           },
           {
-            "name": "OpenMercantil – ficha de licitación basada en la Plataforma de Contratación del Sector Público",
-            "url": "https://openmercantil.es/licitaciones/recientes/p/2?historico=1&provincia=Alicante",
+            "name": "Alicante Press",
+            "url": "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach",
             "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas/",
-          "https://www.calp.es/va/aggregator?page=14",
-          "https://openmercantil.es/licitaciones/recientes/p/2?historico=1&provincia=Alicante"
+          "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
+          "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
+          "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 4,
+          "confidence": "HIGH",
+          "supported_claim_count": 6,
           "evidence_count": 3,
           "caveats": [
-            "No se encontró una noticia independiente de un medio de comunicación que corroborase específicamente la reapertura del 1 de octubre de 2026.",
-            "La evidencia sobre la fecha y el horario procede de una comunicación oficial municipal; la documentación contractual solo aporta contexto adicional."
+            "La confirmación localizada acredita la incorporación y exhibición de la pieza, pero no aporta información adicional sobre horarios concretos de visita.",
+            "La afirmación sobre el taller de Girona aparece en las fuentes como una atribución estilística o contextual, no como una prueba de autoría individual."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_33bfc97759bb2e07",
-          "quality_gate_evaluated_at": "2026-09-30T23:52:54.788Z",
+          "quality_gate_id": "qg_1310ea04ec1a5142",
+          "quality_gate_evaluated_at": "2026-10-01T05:59:10.385Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-09-30T23:52:44.302Z",
+        "created_at": "2026-10-01T05:58:59.692Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_23f15330d8010347",
-        "title": "La Oficina de la Policía de Proximidad de Calp reabre este jueves en la calle Justicia",
-        "slug": "policia-proximidad-calp-reabre-1-octubre",
-        "summary": "La Oficina de la Policía de Proximidad de Calp volverá a estar operativa el 1 de octubre de 2026, según ha informado el Ayuntamiento de Calp. El servicio se prestará en el local situado en la calle Justicia.",
-        "body": "La Oficina de la Policía de Proximidad de Calp reabrirá sus puertas el jueves 1 de octubre de 2026, de acuerdo con la comunicación publicada por el Ayuntamiento de Calp el 30 de septiembre. La oficina está situada en la calle Justicia y recuperará la atención presencial a la ciudadanía.\n\nEl horario anunciado es de lunes a viernes, de 10:00 a 13:30 horas. El servicio tiene como finalidad facilitar la atención policial y el contacto directo con los vecinos y vecinas de Calp.\n\nLa reapertura ha sido comunicada por el consistorio a través de sus canales oficiales. La documentación municipal consultada también recoge la existencia de una oficina de proximidad y el refuerzo de los servicios policiales vinculados a este modelo de atención.\n\nLa información disponible sobre la fecha de reapertura y el horario procede de la comunicación oficial del Ayuntamiento. No se ha localizado una cobertura independiente específica que corrobore estos datos. La documentación contractual relacionada con el arrendamiento de un local para las oficinas de la Policía de Proximidad aporta contexto sobre la continuidad del servicio, pero no acredita por sí sola la fecha de reapertura ni el horario anunciado.",
-        "category": "SUCESOS",
-        "seo_title": "La Policía de Proximidad de Calp reabre el 1 de octubre",
-        "meta_description": "La Oficina de la Policía de Proximidad de Calp reabre el 1 de octubre en la calle Justicia, con atención de lunes a viernes por la mañana.",
+        "external_id": "drf_687359acce7d7513",
+        "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
+        "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
+        "summary": "El Museo Arqueológico de Alicante (MARQ) ha incorporado a su exposición permanente un ventanal gótico procedente de la domus domini de la Pobla de Ifach, en Calp. La pieza ya está instalada en la sala dedicada a la Edad Media y forma parte del recorrido permanente del museo.",
+        "body": "El MARQ exhibe de forma permanente un ventanal gótico descubierto en la domus domini de la Pobla de Ifach, en Calp, durante las excavaciones desarrolladas entre 2013 y 2018. La incorporación ha sido confirmada por el museo y por la Diputación de Alicante, que informó sobre la instalación definitiva de la pieza el 30 de septiembre de 2026.\n\nEl ventanal se encuentra en la sala del MARQ dedicada a la Edad Media, donde puede contemplarse como parte de la exposición permanente. La pieza procede de la residencia señorial vinculada a la Casa de Llúria, situada en el yacimiento de la Pobla de Ifach.\n\nAntes de llegar a la muestra permanente del museo alicantino, el elemento arquitectónico formó parte de la exposición «Llúria. Señores y señoras de la tierra», que pasó por Calp y Cocentaina. Su incorporación al recorrido estable permite presentar en el MARQ una pieza recuperada en las excavaciones del yacimiento calpino.\n\nEntre los elementos descritos en sus capiteles figuran rosetas dodecapétalas y palmas asociadas al taller de Girona. Esta referencia corresponde a una atribución estilística o contextual recogida en las fuentes, no a la identificación de una autoría individual.\n\nLa confirmación disponible acredita la instalación y exhibición del ventanal, pero no aporta horarios concretos para su visita.",
+        "category": "CULTURA",
+        "seo_title": "El MARQ exhibe el ventanal gótico de la Pobla de Ifach",
+        "meta_description": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach, recuperado en excavaciones de Calp entre 2013 y 2018.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_33bfc97759bb2e07",
+        "quality_gate_id": "qg_1310ea04ec1a5142",
         "published_at": null,
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas/",
-          "https://www.calp.es/va/aggregator?page=14",
-          "https://openmercantil.es/licitaciones/recientes/p/2?historico=1&provincia=Alicante"
+          "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
+          "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
+          "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach"
         ],
         "sources": [
           {
-            "name": "Calp Comunica – Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE%E2%99%80%EF%B8%8F%F0%9F%91%AE%E2%99%82%EF%B8%8F-la-oficina-de-la-policia-de-proximidad-reabre-sus-puertas/",
+            "name": "MARQ, Museo Arqueológico de Alicante",
+            "url": "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
             "type": "PRIMARY"
           },
           {
-            "name": "Ayuntamiento de Calp – agregador de noticias oficiales",
-            "url": "https://www.calp.es/va/aggregator?page=14",
+            "name": "Diputación de Alicante",
+            "url": "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
             "type": "PRIMARY"
           },
           {
-            "name": "OpenMercantil – ficha de licitación basada en la Plataforma de Contratación del Sector Público",
-            "url": "https://openmercantil.es/licitaciones/recientes/p/2?historico=1&provincia=Alicante",
+            "name": "Alicante Press",
+            "url": "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach",
             "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_99ac337385ae7794",
-        "candidate_fingerprint": "70211c63e9990a4ee9486fd2a566d5818eb3ca27439441471f418bc05e0525ab",
+        "investigation_id": "inv_ca3806401964bb90",
+        "candidate_fingerprint": "fe9a15d4a522b26c3fa35ec485b440e4cf4d8cbf51c69526d570f57e15ca5a4c",
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 4,
+          "confidence": "HIGH",
+          "supported_claim_count": 6,
           "evidence_count": 3,
           "caveats": [
-            "No se encontró una noticia independiente de un medio de comunicación que corroborase específicamente la reapertura del 1 de octubre de 2026.",
-            "La evidencia sobre la fecha y el horario procede de una comunicación oficial municipal; la documentación contractual solo aporta contexto adicional."
+            "La confirmación localizada acredita la incorporación y exhibición de la pieza, pero no aporta información adicional sobre horarios concretos de visita.",
+            "La afirmación sobre el taller de Girona aparece en las fuentes como una atribución estilística o contextual, no como una prueba de autoría individual."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_33bfc97759bb2e07",
-          "quality_gate_evaluated_at": "2026-09-30T23:52:54.788Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_dafe89735d9d14fb",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-09-30T23:52:54.888Z",
-      "source_draft_id": "drf_424429f10b13d3fb",
-      "source_investigation_id": "inv_2c059ed35db98794",
-      "candidate_fingerprint": "78bf77c1aeb0f3007d3f0be116f6a26c56b772e97744a0bcb853be34db32a579",
-      "quality_gate_id": "qg_affe703307a1a150",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_424429f10b13d3fb",
-        "investigation_id": "inv_2c059ed35db98794",
-        "candidate_fingerprint": "78bf77c1aeb0f3007d3f0be116f6a26c56b772e97744a0bcb853be34db32a579",
-        "title": "Calp inicia las obras de mejora del acceso al consultorio de la Fossa",
-        "subtitle": "El acceso este permanecerá cerrado temporalmente y la entrada se realizará por el acceso sur de la avenida Juan Carlos I",
-        "summary": "El Ayuntamiento de Calp ha iniciado trabajos para mejorar el acceso al consultorio de la Fossa. Mientras se ejecutan las obras, el acceso al consultorio y al aparcamiento deberá realizarse por el acceso sur de la avenida Juan Carlos I.",
-        "body": "El Ayuntamiento de Calp ha comenzado las obras de mejora del acceso al consultorio de la Fossa, según ha informado el consistorio. La actuación contempla la eliminación de irregularidades del pavimento y la ejecución de un firme más continuo, firme y seguro.\n\nLos trabajos también tienen como objetivo evitar la formación de encharcamientos en la zona de acceso. Durante la ejecución de la actuación, el acceso este permanecerá temporalmente cerrado.\n\nEl Ayuntamiento indica que tanto la entrada al consultorio como el acceso al aparcamiento deberán efectuarse por el acceso sur de la avenida Juan Carlos I mientras duren las obras. La comunicación municipal no precisa en la información disponible la fecha de finalización de los trabajos.\n\nLa existencia de una obra específica para adecuar el acceso al consultorio de la Fossa también aparece recogida en fichas de contratación pública. Estas referencias identifican un expediente de obras promovido por el Ayuntamiento y señalan que la actuación fue adjudicada el 15 de junio de 2026, con un plazo de ejecución de un mes. Sin embargo, esas fuentes no verifican por sí mismas el cierre temporal del acceso este ni la situación operativa concreta del 30 de septiembre.\n\nLa información sobre el itinerario alternativo y la restricción temporal de acceso procede de la comunicación oficial municipal. El consultorio de la Fossa funciona de forma permanente desde marzo de 2026, según una información independiente previa, pero esa fuente no detalla estas obras ni las actuales condiciones de acceso.",
-        "category": "LOCAL",
-        "slug": "obras-acceso-consultorio-fossa-calp",
-        "seo_title": "Obras en el acceso al consultorio de la Fossa de Calp",
-        "meta_description": "Calp mejora el acceso al consultorio de la Fossa. El acceso este queda cerrado y la entrada se realizará por la avenida Juan Carlos I.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_affe703307a1a150",
-        "editorial_notes": [
-          "El cierre temporal del acceso este y el itinerario alternativo proceden de la comunicación oficial municipal. Las fuentes independientes confirman la obra, pero no esas restricciones concretas ni su estado el 30 de septiembre."
-        ],
-        "sources": [
-          {
-            "name": "Calp Comunica – Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Alicitar – ficha de licitación pública",
-            "url": "https://www.alicitar.es/licitacion/30958/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Obracivil – ficha de contratación pública",
-            "url": "https://obracivil.com/licitacion/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp-alicante/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Cadena SER – Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/03/17/calp-abre-de-forma-permanente-el-consultorio-medico-de-la-fossa-radio-denia/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa/",
-          "https://www.alicitar.es/licitacion/30958/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp",
-          "https://obracivil.com/licitacion/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp-alicante/",
-          "https://cadenaser.com/comunitat-valenciana/2026/03/17/calp-abre-de-forma-permanente-el-consultorio-medico-de-la-fossa-radio-denia/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 5,
-          "evidence_count": 4,
-          "caveats": [
-            "Las fuentes independientes confirman la existencia y adjudicación de la obra, pero no detallan el cierre temporal del acceso este ni permiten verificar de forma autónoma el estado de los trabajos el 30 de septiembre de 2026.",
-            "La información sobre los itinerarios alternativos y el cierre temporal procede de la comunicación oficial municipal."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_affe703307a1a150",
-          "quality_gate_evaluated_at": "2026-09-30T23:52:54.788Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-09-30T23:52:44.302Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_424429f10b13d3fb",
-        "title": "Calp inicia las obras de mejora del acceso al consultorio de la Fossa",
-        "slug": "obras-acceso-consultorio-fossa-calp",
-        "summary": "El Ayuntamiento de Calp ha iniciado trabajos para mejorar el acceso al consultorio de la Fossa. Mientras se ejecutan las obras, el acceso al consultorio y al aparcamiento deberá realizarse por el acceso sur de la avenida Juan Carlos I.",
-        "body": "El Ayuntamiento de Calp ha comenzado las obras de mejora del acceso al consultorio de la Fossa, según ha informado el consistorio. La actuación contempla la eliminación de irregularidades del pavimento y la ejecución de un firme más continuo, firme y seguro.\n\nLos trabajos también tienen como objetivo evitar la formación de encharcamientos en la zona de acceso. Durante la ejecución de la actuación, el acceso este permanecerá temporalmente cerrado.\n\nEl Ayuntamiento indica que tanto la entrada al consultorio como el acceso al aparcamiento deberán efectuarse por el acceso sur de la avenida Juan Carlos I mientras duren las obras. La comunicación municipal no precisa en la información disponible la fecha de finalización de los trabajos.\n\nLa existencia de una obra específica para adecuar el acceso al consultorio de la Fossa también aparece recogida en fichas de contratación pública. Estas referencias identifican un expediente de obras promovido por el Ayuntamiento y señalan que la actuación fue adjudicada el 15 de junio de 2026, con un plazo de ejecución de un mes. Sin embargo, esas fuentes no verifican por sí mismas el cierre temporal del acceso este ni la situación operativa concreta del 30 de septiembre.\n\nLa información sobre el itinerario alternativo y la restricción temporal de acceso procede de la comunicación oficial municipal. El consultorio de la Fossa funciona de forma permanente desde marzo de 2026, según una información independiente previa, pero esa fuente no detalla estas obras ni las actuales condiciones de acceso.",
-        "category": "LOCAL",
-        "seo_title": "Obras en el acceso al consultorio de la Fossa de Calp",
-        "meta_description": "Calp mejora el acceso al consultorio de la Fossa. El acceso este queda cerrado y la entrada se realizará por la avenida Juan Carlos I.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_affe703307a1a150",
-        "published_at": null,
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa/",
-          "https://www.alicitar.es/licitacion/30958/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp",
-          "https://obracivil.com/licitacion/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp-alicante/",
-          "https://cadenaser.com/comunitat-valenciana/2026/03/17/calp-abre-de-forma-permanente-el-consultorio-medico-de-la-fossa-radio-denia/"
-        ],
-        "sources": [
-          {
-            "name": "Calp Comunica – Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/el-ayuntamiento-de-calp-mejora-el-acceso-al-consultorio-de-la-fossa/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Alicitar – ficha de licitación pública",
-            "url": "https://www.alicitar.es/licitacion/30958/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Obracivil – ficha de contratación pública",
-            "url": "https://obracivil.com/licitacion/obras-de-adecuacion-del-acceso-al-consultorio-medico-ubicado-en-la-fossa-de-calp-alicante/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Cadena SER – Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/03/17/calp-abre-de-forma-permanente-el-consultorio-medico-de-la-fossa-radio-denia/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_2c059ed35db98794",
-        "candidate_fingerprint": "78bf77c1aeb0f3007d3f0be116f6a26c56b772e97744a0bcb853be34db32a579",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 5,
-          "evidence_count": 4,
-          "caveats": [
-            "Las fuentes independientes confirman la existencia y adjudicación de la obra, pero no detallan el cierre temporal del acceso este ni permiten verificar de forma autónoma el estado de los trabajos el 30 de septiembre de 2026.",
-            "La información sobre los itinerarios alternativos y el cierre temporal procede de la comunicación oficial municipal."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_affe703307a1a150",
-          "quality_gate_evaluated_at": "2026-09-30T23:52:54.788Z",
+          "quality_gate_id": "qg_1310ea04ec1a5142",
+          "quality_gate_evaluated_at": "2026-10-01T05:59:10.385Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"

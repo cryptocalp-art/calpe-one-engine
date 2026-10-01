@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-09-30T23:53:06.096Z",
+  "generated_at": "2026-10-01T05:59:18.143Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-09-30T23:53:05.986Z",
+  "last_activity": "2026-10-01T05:59:17.968Z",
   "newspaper": {
-    "archive_total": 40,
-    "published_today": 2,
-    "published_last_7_days": 40,
+    "archive_total": 41,
+    "published_today": 3,
+    "published_last_7_days": 41,
     "categories": {
+      "CULTURA": 4,
       "SUCESOS": 3,
       "LOCAL": 8,
       "DEPORTES": 2,
@@ -17,10 +18,16 @@
       "POLITICA": 2,
       "TURISMO": 5,
       "ECONOMIA": 5,
-      "MEDIO_AMBIENTE": 6,
-      "CULTURA": 3
+      "MEDIO_AMBIENTE": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_8e7c13c31b0bbfb7",
+        "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
+        "category": "CULTURA",
+        "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
+        "published_at": "2026-10-01T05:58:59.692Z"
+      },
       {
         "archive_id": "arc_2625f122ddd42b9e",
         "title": "La Oficina de la Policía de Proximidad de Calp reabre este jueves en la calle Justicia",
@@ -69,23 +76,16 @@
         "category": "POLITICA",
         "slug": "boe-convoca-plaza-oficial-policia-local-calp",
         "published_at": "2026-09-30T00:29:58.058Z"
-      },
-      {
-        "archive_id": "arc_fc0cf78bbe8f85ef",
-        "title": "Los Baños de la Reina registran 4.877 visitantes en su primer año de apertura regular",
-        "category": "TURISMO",
-        "slug": "banos-de-la-reina-4877-visitantes-primer-ano",
-        "published_at": "2026-09-29T20:49:43.998Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 2
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

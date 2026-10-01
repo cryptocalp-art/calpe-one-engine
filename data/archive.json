@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-09-30T23:52:54.991Z",
-  "count": 40,
+  "updated_at": "2026-10-01T05:59:10.720Z",
+  "count": 41,
   "articles": [
+    {
+      "archive_id": "arc_8e7c13c31b0bbfb7",
+      "external_id": "drf_687359acce7d7513",
+      "investigation_id": "inv_ca3806401964bb90",
+      "candidate_fingerprints": [
+        "fe9a15d4a522b26c3fa35ec485b440e4cf4d8cbf51c69526d570f57e15ca5a4c"
+      ],
+      "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
+      "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
+      "summary": "El Museo Arqueológico de Alicante (MARQ) ha incorporado a su exposición permanente un ventanal gótico procedente de la domus domini de la Pobla de Ifach, en Calp. La pieza ya está instalada en la sala dedicada a la Edad Media y forma parte del recorrido permanente del museo.",
+      "body": "El MARQ exhibe de forma permanente un ventanal gótico descubierto en la domus domini de la Pobla de Ifach, en Calp, durante las excavaciones desarrolladas entre 2013 y 2018. La incorporación ha sido confirmada por el museo y por la Diputación de Alicante, que informó sobre la instalación definitiva de la pieza el 30 de septiembre de 2026.\n\nEl ventanal se encuentra en la sala del MARQ dedicada a la Edad Media, donde puede contemplarse como parte de la exposición permanente. La pieza procede de la residencia señorial vinculada a la Casa de Llúria, situada en el yacimiento de la Pobla de Ifach.\n\nAntes de llegar a la muestra permanente del museo alicantino, el elemento arquitectónico formó parte de la exposición «Llúria. Señores y señoras de la tierra», que pasó por Calp y Cocentaina. Su incorporación al recorrido estable permite presentar en el MARQ una pieza recuperada en las excavaciones del yacimiento calpino.\n\nEntre los elementos descritos en sus capiteles figuran rosetas dodecapétalas y palmas asociadas al taller de Girona. Esta referencia corresponde a una atribución estilística o contextual recogida en las fuentes, no a la identificación de una autoría individual.\n\nLa confirmación disponible acredita la instalación y exhibición del ventanal, pero no aporta horarios concretos para su visita.",
+      "category": "CULTURA",
+      "seo_title": "El MARQ exhibe el ventanal gótico de la Pobla de Ifach",
+      "meta_description": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach, recuperado en excavaciones de Calp entre 2013 y 2018.",
+      "sources": [
+        {
+          "name": "MARQ, Museo Arqueológico de Alicante",
+          "url": "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Diputación de Alicante",
+          "url": "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Alicante Press",
+          "url": "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.marqalicante.com/en/el-ventanal-gotico-de-la-domus-domini-de-calp-llega-al-marq-para-ser-expuesta-en-la-sala-permanente-dedicada-a-la-edad-media",
+        "https://www.diputacionalicante.es/noticias/el-marq-incorpora-a-la-muestra-permanente-el-ventanal-gotico-hallado-en-las-excavaciones-de-la-pobla-de-ifach",
+        "https://alicantepress.com/art/53868/el-marq-incorpora-a-su-exposicion-permanente-un-ventanal-gotico-hallado-en-la-pobla-de-ifach"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 3,
+        "caveats": [
+          "La confirmación localizada acredita la incorporación y exhibición de la pieza, pero no aporta información adicional sobre horarios concretos de visita.",
+          "La afirmación sobre el taller de Girona aparece en las fuentes como una atribución estilística o contextual, no como una prueba de autoría individual."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_1310ea04ec1a5142",
+        "quality_gate_evaluated_at": "2026-10-01T05:59:10.385Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La información disponible confirma la incorporación y exhibición de la pieza, pero no incluye horarios concretos de visita.",
+        "La relación de los capiteles con el taller de Girona debe presentarse como una atribución estilística o contextual, no como una autoría individual."
+      ],
+      "published_at": "2026-10-01T05:58:59.692Z",
+      "updated_at": "2026-10-01T05:59:10.720Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_2625f122ddd42b9e",
       "external_id": "drf_23f15330d8010347",
