@@ -3,9 +3,76 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-01T19:34:04.993Z",
-  "count": 46,
+  "updated_at": "2026-10-01T23:54:53.327Z",
+  "count": 47,
   "articles": [
+    {
+      "archive_id": "arc_5678de936f72f0b0",
+      "external_id": "drf_30dc9d631344962c",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "candidate_fingerprints": [
+        "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e"
+      ],
+      "title": "Calp acogerá una intervención ambiental de las III Jornadas SAVE 2026",
+      "slug": "calp-intervencion-jornadas-save-2026",
+      "summary": "Las III Jornadas Internacionales SAVE 2026 se celebrarán del 15 al 22 de octubre y tendrán a Alicante y Calp como principales sedes españolas. En el municipio calpino, el programa prevé para el 17 de octubre una intervención ambiental en el entorno del Penyal d’Ifac centrada en la extracción y caracterización de residuos marinos.",
+      "body": "Las III Jornadas Internacionales SAVE 2026 reunirán entre el 15 y el 22 de octubre a universidades, centros de investigación, administraciones públicas, empresas, organizaciones sociales y ciudadanía. La Universidad de Alicante ha confirmado oficialmente las fechas y la celebración de actividades en Alicante y Calp, mientras que la programación detallada sitúa en el municipio calpino una de las actuaciones ambientales del encuentro.\n\nLa intervención prevista para el 17 de octubre se desarrollará en el entorno del Penyal d’Ifac y estará orientada a extraer y caracterizar residuos marinos. En esta actividad también participará alumnado del Grado en Ciencias del Mar de la Universidad de Alicante, dentro de una propuesta formativa de extracción ligera y caracterización de residuos sumergidos.\n\nEl programa incorpora además una dimensión internacional, con actividades previstas en Chile, Bolivia y Brasil. Las jornadas mantienen así un formato que combina acciones ambientales, formación y participación de distintos sectores vinculados a la sostenibilidad y al entorno marino.\n\nSAVE cuenta con dos ediciones anteriores en Calp. Según la información difundida sobre el conjunto de esas convocatorias, reunieron a más de 350 participantes y permitieron retirar más de 2.000 kilos de residuos. Las fuentes oficiales consultadas documentan actuaciones anteriores de recogida y caracterización de residuos, tanto terrestres como marinos, y la participación de universidades, empresas, organizaciones no gubernamentales y ciudadanía.\n\nLa edición de 2026 dará continuidad a ese tipo de actividades de ciencia ciudadana y acción ambiental. La agenda oficial de la Universidad de Alicante confirma las sedes y las fechas generales, mientras que los detalles de la intervención del 17 de octubre han sido corroborados mediante la información publicada sobre el programa.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Calp acogerá una intervención de las Jornadas SAVE 2026",
+      "meta_description": "Calp será sede de las III Jornadas SAVE 2026, con una intervención ambiental el 17 de octubre para extraer y caracterizar residuos marinos.",
+      "sources": [
+        {
+          "name": "Universidad de Alicante – Sedes Universitarias",
+          "url": "https://web.ua.es/es/extensio/seus/sedes-universitarias_noticias-2026.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "LinkAlicante",
+          "url": "https://www.linkalicante.com/noticias/jornadas-save-2026/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/voluntarios-de-las-jornadas-save-retiran-m%C3%A1s-de-1200-kg-de-residuos-en-calp",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Universidad de Alicante – Actualidad Universitaria",
+          "url": "https://web.ua.es/es/actualidad-universitaria/2024/mayo2024/13-19/la-universidad-de-alicante-organiza-las-i-jornadas-save-sobre-sostenibilidad-accion-voluntariado-y-entorno.html",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://web.ua.es/es/extensio/seus/sedes-universitarias_noticias-2026.html",
+        "https://www.linkalicante.com/noticias/jornadas-save-2026",
+        "https://noticias.calp.es/es/noticia/voluntarios-de-las-jornadas-save-retiran-m%C3%A1s-de-1200-kg-de-residuos-en-calp",
+        "https://web.ua.es/es/actualidad-universitaria/2024/mayo2024/13-19/la-universidad-de-alicante-organiza-las-i-jornadas-save-sobre-sostenibilidad-accion-voluntariado-y-entorno.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 7,
+        "evidence_count": 4,
+        "caveats": [
+          "La expresión «uno de los epicentros» es una valoración periodística; las fuentes sí confirman que Calp es una de las sedes principales y que acogerá una intervención relevante.",
+          "La información oficial de la UA localizada confirma las fechas, las sedes y la existencia del programa, pero no muestra en el texto rastreado todos los detalles operativos del 17 de octubre; esos detalles se han corroborado mediante LinkAlicante y la fuente candidata.",
+          "Las cifras acumuladas de más de 350 participantes y más de 2.000 kilos de residuos proceden de la información de LinkAlicante y Calp Digital; las fuentes oficiales consultadas documentan por separado las actuaciones de 2024 y 2025, pero no presentan en una única página esa suma acumulada."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_37f447dc239d29d2",
+        "quality_gate_evaluated_at": "2026-10-01T23:54:53.012Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La cifra acumulada de más de 350 participantes y más de 2.000 kilos de residuos procede de información secundaria y no aparece reunida en una única fuente oficial; conviene mantener la atribución prudente.",
+        "La Universidad de Alicante confirma oficialmente las fechas y las sedes, mientras que los detalles operativos de la intervención del 17 de octubre se corroboran mediante una fuente secundaria."
+      ],
+      "published_at": "2026-10-01T23:54:45.629Z",
+      "updated_at": "2026-10-01T23:54:53.327Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_7ed1d9649af4708e",
       "external_id": "drf_8f2c1dac8b2087b8",

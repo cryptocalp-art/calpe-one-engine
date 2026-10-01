@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-01T19:34:12.559Z",
+  "generated_at": "2026-10-01T23:55:04.127Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-01T19:34:12.408Z",
+  "last_activity": "2026-10-01T23:55:03.953Z",
   "newspaper": {
-    "archive_total": 46,
-    "published_today": 8,
-    "published_last_7_days": 46,
+    "archive_total": 47,
+    "published_today": 1,
+    "published_last_7_days": 47,
     "categories": {
+      "MEDIO_AMBIENTE": 8,
       "TURISMO": 6,
-      "MEDIO_AMBIENTE": 7,
       "DEPORTES": 3,
       "ECONOMIA": 6,
       "LOCAL": 9,
@@ -21,6 +21,13 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_5678de936f72f0b0",
+        "title": "Calp acogerá una intervención ambiental de las III Jornadas SAVE 2026",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-intervencion-jornadas-save-2026",
+        "published_at": "2026-10-01T23:54:45.629Z"
+      },
       {
         "archive_id": "arc_7ed1d9649af4708e",
         "title": "El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
@@ -69,18 +76,11 @@
         "category": "SUCESOS",
         "slug": "policia-proximidad-calp-reabre-1-octubre",
         "published_at": "2026-09-30T23:52:44.302Z"
-      },
-      {
-        "archive_id": "arc_bc0842d518ca1462",
-        "title": "Calp inicia las obras de mejora del acceso al consultorio de la Fossa",
-        "category": "LOCAL",
-        "slug": "obras-acceso-consultorio-fossa-calp",
-        "published_at": "2026-09-30T23:52:44.302Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 8,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

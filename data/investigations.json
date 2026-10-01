@@ -1,82 +1,80 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-01T19:33:32.286Z",
+  "generated_at": "2026-10-01T23:54:21.540Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "4d23d306b8b6125d4f57269a0d381d12460d82b73d54c669c74f7c68455578d5",
-      "title": "Nuevas tarifas y abonos del TRAM d’Alacant entran en vigor y afectan a la movilidad desde Calp",
+      "candidate_fingerprint": "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e",
+      "title": "Calp será uno de los epicentros de las III Jornadas Internacionales SAVE 2026",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La información queda suficientemente corroborada para su publicación. Desde el 1 de octubre de 2026 se aplica una actualización tarifaria en el TRAM d’Alacant y el sistema TAM. Se crean abonos Móbilis mensuales de 30 días con viajes ilimitados y el billete sencillo del TRAM fuera del ámbito TAM pasa de 1,45 a 2 euros. La formulación debe matizarse: el billete sencillo del sistema TAM pasa a 1,50 euros, por lo que los 2 euros no se aplican indistintamente a todos los trayectos. La conexión de Calp con la Línea 9 del TRAM hace relevante el cambio para la movilidad local.",
+      "summary": "La Universidad de Alicante confirma oficialmente la celebración de las III Jornadas Internacionales SAVE entre el 15 y el 22 de octubre de 2026, con Alicante y Calp como sedes. Una información independiente de LinkAlicante detalla que Calp tendrá una intervención ambiental el 17 de octubre en el entorno del Penyal d’Ifac, centrada en la extracción y caracterización de residuos marinos, además de una actividad formativa con alumnado del Grado en Ciencias del Mar de la UA. La misma fuente confirma la dimensión internacional del programa, con acciones previstas en Chile, Bolivia y Brasil. Los hechos esenciales de la noticia están suficientemente corroborados y no se han localizado contradicciones materiales.",
       "claims": [
         {
-          "claim": "La Generalitat aplica desde el 1 de octubre de 2026 una nueva regulación tarifaria para el TRAM d’Alacant y el sistema TAM.",
+          "claim": "Las III Jornadas Internacionales SAVE 2026 se celebrarán del 15 al 22 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se incorporan abonos Móbilis Mensual y Móbilis Mensual Jove, válidos durante 30 días y con viajes ilimitados.",
+          "claim": "Alicante y Calp serán las principales sedes españolas de las jornadas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El billete sencillo del TRAM d’Alacant fuera del ámbito tarifario TAM sube de 1,45 a 2 euros.",
+          "claim": "El 17 de octubre habrá en el entorno del Penyal d’Ifac una intervención para extraer y caracterizar residuos marinos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El billete sencillo del sistema TAM sube de 1,45 a 1,50 euros.",
+          "claim": "El alumnado del Grado en Ciencias del Mar de la Universidad de Alicante participará en una actividad formativa de extracción ligera y caracterización de residuos sumergidos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las nuevas tarifas afectan a la movilidad desde Calp porque Calp forma parte de la Línea 9 del TRAM d’Alacant.",
+          "claim": "El programa tendrá una dimensión internacional con actividades en Chile, Bolivia y Brasil.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se mantienen las bonificaciones vigentes para determinados usuarios, incluida la gratuidad para menores de hasta 14 años y reducciones para otros colectivos hasta el 31 de diciembre de 2026.",
+          "claim": "Las jornadas reúnen a universidades, centros de investigación, administraciones, empresas, organizaciones sociales y ciudadanía.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las dos primeras ediciones reunieron a más de 350 participantes y contribuyeron a retirar más de 2.000 kilos de residuos.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Alicante",
-          "source_url": "https://www.alicante.es/es/noticias/alicante-estrena-bonos-mobilis-y-mobilis-jove-viajes-mensuales-ilimitados",
-          "evidence": "Comunicado institucional fechado el 30 de septiembre de 2026 y actualizado el 1 de octubre. Confirma la entrada en vigor de las nuevas tarifas, la creación de los abonos Móbilis Mensual y Móbilis Mensual Jove por 35 y 29,75 euros, respectivamente, con viajes ilimitados durante 30 días, y la subida del billete sencillo del TAM a 1,50 euros. También detalla las nuevas tarifas bonificadas y las condiciones de uso y canje de títulos anteriores.",
+          "source_name": "Universidad de Alicante – Sedes Universitarias",
+          "source_url": "https://web.ua.es/es/extensio/seus/sedes-universitarias_noticias-2026.html",
+          "evidence": "La agenda oficial de la Universidad de Alicante anuncia las III Jornadas Internacionales SAVE, indica que se celebrarán del 15 al 22 de octubre de 2026 y señala que reunirán en Alicante y Calp a universidades, centros de investigación, administraciones públicas, empresas, organizaciones sociales y ciudadanía. También enlaza el programa completo y el formulario de inscripción.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Vectalia Movilidad Alicante",
-          "source_url": "https://alicante.vectalia.es/notificacion/nuevos-bonos-temporales-para-el-sistema-tam/",
-          "evidence": "El operador del sistema TAM informa de que, desde el 1 de octubre de 2026 y conforme a la Orden 8/2026, se crean dos bonos mensuales con viajes ilimitados durante 30 días. Fija el precio del bono general en 35 euros y el bono joven en 29,75 euros, además de indicar sus requisitos y soporte.",
+          "source_name": "LinkAlicante",
+          "source_url": "https://www.linkalicante.com/noticias/jornadas-save-2026/",
+          "evidence": "La información describe las III Jornadas SAVE del 15 al 22 de octubre de 2026, con Alicante y Calp como escenarios principales. Detalla la intervención del sábado 17 de octubre en el entorno del Peñón de Ifach para extraer y caracterizar residuos marinos, la actividad Aula Marina Inmersiva con alumnado del Grado en Ciencias del Mar de la UA y la ampliación del programa a Chile, Bolivia y Brasil. También atribuye la organización a Movimiento SAVE y a distintas unidades de la Universidad de Alicante.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/voluntarios-de-las-jornadas-save-retiran-m%C3%A1s-de-1200-kg-de-residuos-en-calp",
+          "evidence": "La noticia oficial sobre la segunda edición de SAVE confirma el precedente de actividades de extracción de residuos marinos y terrestres en el entorno del Penyal d’Ifac, así como la participación de universidades, empresas, ONG y ciudadanía. Informa de que en las dos primeras ediciones se desarrollaron acciones de ciencia ciudadana y se retiraron más de una tonelada de residuos en la segunda edición.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Cadena SER - Radio Alicante",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/30/el-bus-y-el-tram-de-alicante-suben-por-sorpresa-los-precios-e-implantan-nuevos-bonos-desde-este-1-de-octubre-radio-alicante/",
-          "evidence": "Información independiente publicada el 30 de septiembre de 2026. Confirma la aplicación desde el 1 de octubre de la nueva regulación, los abonos mensuales con viajes ilimitados, el precio de 35 y 29,75 euros, la subida del sencillo del TAM a 1,50 euros y la subida del sencillo del TRAM en el resto de zonas de 1,45 a 2 euros.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicante Plaza",
-          "source_url": "https://alicanteplaza.es/alicanteplaza/alicante/el-consell-actualiza-los-precios-del-tram-y-del-tam-asi-quedan-las-subidas-y-las-bonificaciones",
-          "evidence": "Corrobora que la nueva regulación se aplica desde el 1 de octubre y que la resolución fue publicada en el DOGV. Resume la creación de los abonos mensuales, la subida del billete sencillo del TAM de 1,45 a 1,50 euros y el mantenimiento de las bonificaciones principales.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ferrocarrils de la Generalitat Valenciana",
-          "source_url": "https://www.fgv.es/Entrevias/Entrevias41cs/files/assets/common/downloads/publication.pdf",
-          "evidence": "Documento institucional de FGV que identifica la Línea 9 del TRAM de Alicante como una línea que presta servicio a Calp, junto con otros municipios de la Marina Alta y la Marina Baixa.",
+          "source_name": "Universidad de Alicante – Actualidad Universitaria",
+          "source_url": "https://web.ua.es/es/actualidad-universitaria/2024/mayo2024/13-19/la-universidad-de-alicante-organiza-las-i-jornadas-save-sobre-sostenibilidad-accion-voluntariado-y-entorno.html",
+          "evidence": "La UA documenta la primera edición de SAVE en Calp, que incluyó recogida y caracterización de residuos, batida terrestre y limpieza submarina. Esta información respalda la continuidad del formato de ciencia ciudadana y acción ambiental del proyecto.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "El precio de 2 euros corresponde al billete sencillo de los títulos propios del TRAM fuera del ámbito tarifario TAM; no debe presentarse como tarifa única para toda la red.",
-        "Para una noticia específicamente centrada en Calp conviene explicar que Calp está en la Línea 9 y que el cambio tarifario relevante depende del título y del ámbito zonal del trayecto.",
-        "La fuente inicial aportada, La Marina Alta, no fue necesaria para validar el hecho: existe confirmación institucional, del operador y de medios independientes."
+        "La expresión «uno de los epicentros» es una valoración periodística; las fuentes sí confirman que Calp es una de las sedes principales y que acogerá una intervención relevante.",
+        "La información oficial de la UA localizada confirma las fechas, las sedes y la existencia del programa, pero no muestra en el texto rastreado todos los detalles operativos del 17 de octubre; esos detalles se han corroborado mediante LinkAlicante y la fuente candidata.",
+        "Las cifras acumuladas de más de 350 participantes y más de 2.000 kilos de residuos proceden de la información de LinkAlicante y Calp Digital; las fuentes oficiales consultadas documentan por separado las actuaciones de 2024 y 2025, pero no presentan en una única página esa suma acumulada."
       ],
-      "id": "inv_cb271d726a08691a",
-      "investigated_at": "2026-10-01T19:33:32.286Z",
+      "id": "inv_6a089cd312f10cd9",
+      "investigated_at": "2026-10-01T23:54:21.540Z",
       "model": "gpt-5.6-luna"
     }
   ]
