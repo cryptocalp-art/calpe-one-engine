@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-02T18:27:57.923Z",
+  "generated_at": "2026-10-02T23:00:27.359Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-02T18:27:57.742Z",
+  "last_activity": "2026-10-02T23:00:27.174Z",
   "newspaper": {
-    "archive_total": 50,
-    "published_today": 4,
-    "published_last_7_days": 50,
+    "archive_total": 52,
+    "published_today": 2,
+    "published_last_7_days": 34,
     "categories": {
-      "MEDIO_AMBIENTE": 10,
+      "MEDIO_AMBIENTE": 12,
       "SUCESOS": 4,
       "TURISMO": 6,
       "DEPORTES": 3,
@@ -21,6 +21,20 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_05e8ddd7b551fcfe",
+        "title": "La alerta por lluvias se mantiene en nivel naranja el viernes y se prolonga al sábado en el litoral norte de Alicante",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "alerta-naranja-lluvias-sabado-litoral-norte-alicante",
+        "published_at": "2026-10-02T23:00:02.339Z"
+      },
+      {
+        "archive_id": "arc_2e038afc6443bfe1",
+        "title": "Calp cancela el Día de las Aves por la alerta naranja de lluvias",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-cancela-dia-de-las-aves-alerta-lluvias",
+        "published_at": "2026-10-02T23:00:02.339Z"
+      },
       {
         "archive_id": "arc_11bd4adb967f0502",
         "title": "AEMET activa un nuevo aviso naranja por lluvias para este sábado en la Marina Alta",
@@ -62,30 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "aviso-naranja-lluvias-clases-abiertas-calp",
         "published_at": "2026-10-01T13:20:30.915Z"
-      },
-      {
-        "archive_id": "arc_98f707dc190177f9",
-        "title": "Calp acogerá el Campeonato de España de Cruceros del 16 al 18 de octubre",
-        "category": "DEPORTES",
-        "slug": "calp-campeonato-espana-cruceros-2026",
-        "published_at": "2026-10-01T13:20:30.915Z"
-      },
-      {
-        "archive_id": "arc_b16751c5d77dd3e1",
-        "title": "AEMCO organiza en Calp un bootcamp financiero gratuito para autónomos y pymes",
-        "category": "ECONOMIA",
-        "slug": "aemco-bootcamp-financiero-autonomos-pymes-calp",
-        "published_at": "2026-10-01T13:20:30.915Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 3,
+    "eligible": 3,
     "quarantined": 0,
-    "archive_added": 1
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
