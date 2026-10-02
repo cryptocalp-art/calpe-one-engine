@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-02T05:41:18.150Z",
+  "generated_at": "2026-10-02T12:39:42.831Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-02T05:41:17.965Z",
+  "last_activity": "2026-10-02T12:39:42.685Z",
   "newspaper": {
-    "archive_total": 48,
-    "published_today": 2,
-    "published_last_7_days": 48,
+    "archive_total": 49,
+    "published_today": 3,
+    "published_last_7_days": 49,
     "categories": {
+      "MEDIO_AMBIENTE": 9,
       "SUCESOS": 4,
-      "MEDIO_AMBIENTE": 8,
       "TURISMO": 6,
       "DEPORTES": 3,
       "ECONOMIA": 6,
@@ -21,6 +21,13 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_e32437584f94a2d4",
+        "title": "Calp presenta su estrategia ambiental “Calp Blau” en el Congreso Internacional Bandera Azul",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
+        "published_at": "2026-10-02T12:39:24.061Z"
+      },
       {
         "archive_id": "arc_b5831b7184cbf59a",
         "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
@@ -69,18 +76,11 @@
         "category": "LOCAL",
         "slug": "moros-cristianos-calp-reconocimiento-internacional",
         "published_at": "2026-10-01T13:20:30.915Z"
-      },
-      {
-        "archive_id": "arc_8e7c13c31b0bbfb7",
-        "title": "El MARQ incorpora a su exposición permanente el ventanal gótico de la Pobla de Ifach",
-        "category": "CULTURA",
-        "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
-        "published_at": "2026-10-01T05:58:59.692Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 6,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

@@ -3,7 +3,7 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-02T05:41:10.534Z",
+  "generated_at": "2026-10-02T12:39:32.856Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 1,
@@ -11,125 +11,130 @@
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_46efa1847681ed72",
+      "export_id": "exp_6042597ee7fd8142",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-02T05:41:10.534Z",
-      "source_draft_id": "drf_5538b5fc4ac92951",
-      "source_investigation_id": "inv_85a39bb32c291e2a",
-      "candidate_fingerprint": "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
-      "quality_gate_id": "qg_ec948ec5ef45a109",
+      "generated_at": "2026-10-02T12:39:32.856Z",
+      "source_draft_id": "drf_ecd151f7e648c0dc",
+      "source_investigation_id": "inv_2ee431b802863165",
+      "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
+      "quality_gate_id": "qg_7daca490178b4886",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_5538b5fc4ac92951",
-        "investigation_id": "inv_85a39bb32c291e2a",
-        "candidate_fingerprint": "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
-        "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
-        "subtitle": "La programación municipal fija ambos actos para este viernes 2 de octubre en la plaza Colón",
-        "summary": "La Policía Local de Calp tiene previsto celebrar este viernes 2 de octubre la festividad de sus patronos, los Ángeles Custodios, con una exhibición de material policial y una parada policial en la plaza Colón.",
-        "body": "La programación difundida por el Ayuntamiento de Calp sitúa a las 18:00 horas el inicio de la exhibición de material policial en la plaza Colón. Posteriormente, a las 19:30 horas, está prevista una parada policial en el mismo espacio.\n\nSegún el programa oficial, la parada incluirá la formación de los efectivos y el pase de revista. El acto contempla también la entrega de diplomas y cruces por años de servicio. La información municipal no precisa cuántos agentes recibirán estos reconocimientos.\n\nLa convocatoria aparece recogida tanto en una publicación de Calp Comunica como en la agenda municipal de actividades del fin de semana. La primera fue difundida el 30 de septiembre y la segunda, el 1 de octubre. Ambas sitúan los actos en la plaza Colón y mantienen los mismos horarios y contenidos principales.\n\nLa celebración estaba programada para este viernes 2 de octubre de 2026. La documentación disponible acredita la convocatoria previa, pero no confirma que los actos se hayan celebrado ya. Por tanto, la exhibición y la parada deben considerarse actividades previstas hasta que exista una confirmación posterior.\n\nLa programación municipal tampoco ofrece en la información consultada detalles adicionales sobre el desarrollo de la jornada ni sobre el número de reconocimientos que se entregarán.",
-        "category": "SUCESOS",
-        "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
-        "seo_title": "Calp prepara una exhibición y parada de la Policía Local",
-        "meta_description": "La Policía Local de Calp prevé celebrar este viernes sus actos patronales en la plaza Colón, con exhibición a las 18:00 y parada a las 19:30.",
+        "external_id": "drf_ecd151f7e648c0dc",
+        "investigation_id": "inv_2ee431b802863165",
+        "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
+        "title": "Calp presenta su estrategia ambiental “Calp Blau” en el Congreso Internacional Bandera Azul",
+        "subtitle": "El encuentro se celebra en Islantilla del 30 de septiembre al 2 de octubre y reúne a representantes del municipio en varias sesiones del programa oficial.",
+        "summary": "El Ayuntamiento de Calp ha presentado el proyecto ambiental “Calp Blau” en el III Congreso Internacional Bandera Azul, celebrado en Islantilla entre el 30 de septiembre y el 2 de octubre de 2026. La iniciativa reúne distintas líneas de actuación vinculadas a la educación ambiental, la protección del litoral y la participación ciudadana.",
+        "body": "El Ayuntamiento de Calp ha presentado el proyecto o marca ambiental “Calp Blau” durante el III Congreso Internacional Bandera Azul, que tiene lugar en Islantilla del 30 de septiembre al 2 de octubre de 2026. La participación de representantes municipales figura en el programa oficial del encuentro.\n\nSegún la información difundida por el Ayuntamiento, la iniciativa integra varias líneas de trabajo relacionadas con el medio ambiente y el litoral. Entre ellas se encuentran la educación ambiental, la ciencia, el voluntariado, los fondeos ecológicos, las playas sin humo, los itinerarios azules y las acciones de limpieza del litoral.\n\nEl programa del congreso incluye al concejal de Medio Ambiente de Calp, Pedro Heinz Moll Leuchter, en el bloque dedicado a la Educación Ambiental. También contempla la participación de la alcaldesa, Ana Mª Sala, en una mesa sobre los 40 años de Bandera Azul como motor de cambio en los municipios costeros.\n\nLa presentación se produce en un año en el que la playa de la Fossa cumple 40 años consecutivos con la distinción Bandera Azul, según la información recogida en el expediente. La continuidad de este reconocimiento se menciona como parte del contexto de la participación de Calp en el congreso.\n\nLa descripción de las actuaciones que forman “Calp Blau” procede principalmente de la comunicación municipal. El programa oficial consultado confirma la presencia del concejal y de la alcaldesa en las sesiones indicadas, pero no detalla todas las acciones incluidas en la estrategia.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
+        "seo_title": "Calp presenta “Calp Blau” en el Congreso Bandera Azul",
+        "meta_description": "Calp presenta “Calp Blau”, una estrategia ambiental con educación, ciencia, voluntariado y acciones de protección del litoral, en el Congreso Bandera Azul.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ec948ec5ef45a109",
+        "quality_gate_id": "qg_7daca490178b4886",
         "editorial_notes": [
-          "La evidencia confirma una convocatoria oficial, pero no la celebración efectiva de los actos. Mantener el lenguaje de previsión hasta contar con confirmación posterior.",
-          "La corroboración procede de dos publicaciones oficiales municipales; no consta una cobertura independiente previa.",
-          "No se informa del número de agentes que recibirán diplomas o cruces."
+          "La descripción detallada de las líneas de actuación de “Calp Blau” procede principalmente de una nota de prensa municipal y debe mantenerse atribuida al Ayuntamiento.",
+          "El programa oficial confirma la participación de representantes de Calp, pero no enumera todas las actuaciones de la iniciativa."
         ],
         "sources": [
           {
-            "name": "Calp Comunica — Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
             "type": "PRIMARY"
           },
           {
-            "name": "Ayuntamiento de Calp — Agenda municipal de actividades del fin de semana",
-            "url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre",
+            "name": "III Congreso Internacional Bandera Azul / ADEAC",
+            "url": "https://congresosbanderaazul.org/programa/",
             "type": "PRIMARY"
+          },
+          {
+            "name": "Valencia Extra",
+            "url": "https://www.valenciaextra.com/es/comarcas/la-safor/gandia-old/gandia-entra-en-la-historia-con-40-anos-consecutivos-de-bandera-azul-solo-seis-playas-mas-en-toda-espana-pueden-decir-lo-mismo_594594_102.html",
+            "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2/",
-          "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
+          "https://congresosbanderaazul.org/programa/",
+          "https://www.valenciaextra.com/es/comarcas/la-safor/gandia-old/gandia-entra-en-la-historia-con-40-anos-consecutivos-de-bandera-azul-solo-seis-playas-mas-en-toda-espana-pueden-decir-lo-mismo_594594_102.html"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "MEDIUM",
-          "supported_claim_count": 4,
-          "evidence_count": 2,
+          "supported_claim_count": 6,
+          "evidence_count": 3,
           "caveats": [
-            "La evidencia disponible acredita una convocatoria o programación previa, no la celebración efectiva del acto, que todavía estaba prevista para el 2 de octubre de 2026 en la fecha de consulta.",
-            "No se localizó una cobertura independiente de un medio ajeno al Ayuntamiento que confirmara anticipadamente el evento; la corroboración adicional procede de otra publicación oficial municipal.",
-            "La información oficial consultada no detalla cuántos agentes recibirán diplomas o cruces."
+            "La descripción detallada de las actuaciones de “Calp Blau” procede principalmente de la nota de prensa municipal; el programa del congreso corrobora la participación de representantes de Calp, pero no enumera todas esas actuaciones.",
+            "La noticia municipal fue publicada el 2 de octubre de 2026, antes de la hora de corte indicada, por lo que la verificación se refiere a información disponible hasta ese momento."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ec948ec5ef45a109",
-          "quality_gate_evaluated_at": "2026-10-02T05:41:10.350Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
+          "quality_gate_id": "qg_7daca490178b4886",
+          "quality_gate_evaluated_at": "2026-10-02T12:39:32.712Z",
+          "quality_gate_warnings": []
         },
-        "created_at": "2026-10-02T05:41:03.354Z",
+        "created_at": "2026-10-02T12:39:24.061Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_5538b5fc4ac92951",
-        "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
-        "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
-        "summary": "La Policía Local de Calp tiene previsto celebrar este viernes 2 de octubre la festividad de sus patronos, los Ángeles Custodios, con una exhibición de material policial y una parada policial en la plaza Colón.",
-        "body": "La programación difundida por el Ayuntamiento de Calp sitúa a las 18:00 horas el inicio de la exhibición de material policial en la plaza Colón. Posteriormente, a las 19:30 horas, está prevista una parada policial en el mismo espacio.\n\nSegún el programa oficial, la parada incluirá la formación de los efectivos y el pase de revista. El acto contempla también la entrega de diplomas y cruces por años de servicio. La información municipal no precisa cuántos agentes recibirán estos reconocimientos.\n\nLa convocatoria aparece recogida tanto en una publicación de Calp Comunica como en la agenda municipal de actividades del fin de semana. La primera fue difundida el 30 de septiembre y la segunda, el 1 de octubre. Ambas sitúan los actos en la plaza Colón y mantienen los mismos horarios y contenidos principales.\n\nLa celebración estaba programada para este viernes 2 de octubre de 2026. La documentación disponible acredita la convocatoria previa, pero no confirma que los actos se hayan celebrado ya. Por tanto, la exhibición y la parada deben considerarse actividades previstas hasta que exista una confirmación posterior.\n\nLa programación municipal tampoco ofrece en la información consultada detalles adicionales sobre el desarrollo de la jornada ni sobre el número de reconocimientos que se entregarán.",
-        "category": "SUCESOS",
-        "seo_title": "Calp prepara una exhibición y parada de la Policía Local",
-        "meta_description": "La Policía Local de Calp prevé celebrar este viernes sus actos patronales en la plaza Colón, con exhibición a las 18:00 y parada a las 19:30.",
+        "external_id": "drf_ecd151f7e648c0dc",
+        "title": "Calp presenta su estrategia ambiental “Calp Blau” en el Congreso Internacional Bandera Azul",
+        "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
+        "summary": "El Ayuntamiento de Calp ha presentado el proyecto ambiental “Calp Blau” en el III Congreso Internacional Bandera Azul, celebrado en Islantilla entre el 30 de septiembre y el 2 de octubre de 2026. La iniciativa reúne distintas líneas de actuación vinculadas a la educación ambiental, la protección del litoral y la participación ciudadana.",
+        "body": "El Ayuntamiento de Calp ha presentado el proyecto o marca ambiental “Calp Blau” durante el III Congreso Internacional Bandera Azul, que tiene lugar en Islantilla del 30 de septiembre al 2 de octubre de 2026. La participación de representantes municipales figura en el programa oficial del encuentro.\n\nSegún la información difundida por el Ayuntamiento, la iniciativa integra varias líneas de trabajo relacionadas con el medio ambiente y el litoral. Entre ellas se encuentran la educación ambiental, la ciencia, el voluntariado, los fondeos ecológicos, las playas sin humo, los itinerarios azules y las acciones de limpieza del litoral.\n\nEl programa del congreso incluye al concejal de Medio Ambiente de Calp, Pedro Heinz Moll Leuchter, en el bloque dedicado a la Educación Ambiental. También contempla la participación de la alcaldesa, Ana Mª Sala, en una mesa sobre los 40 años de Bandera Azul como motor de cambio en los municipios costeros.\n\nLa presentación se produce en un año en el que la playa de la Fossa cumple 40 años consecutivos con la distinción Bandera Azul, según la información recogida en el expediente. La continuidad de este reconocimiento se menciona como parte del contexto de la participación de Calp en el congreso.\n\nLa descripción de las actuaciones que forman “Calp Blau” procede principalmente de la comunicación municipal. El programa oficial consultado confirma la presencia del concejal y de la alcaldesa en las sesiones indicadas, pero no detalla todas las acciones incluidas en la estrategia.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp presenta “Calp Blau” en el Congreso Bandera Azul",
+        "meta_description": "Calp presenta “Calp Blau”, una estrategia ambiental con educación, ciencia, voluntariado y acciones de protección del litoral, en el Congreso Bandera Azul.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ec948ec5ef45a109",
+        "quality_gate_id": "qg_7daca490178b4886",
         "published_at": null,
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2/",
-          "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
+          "https://congresosbanderaazul.org/programa/",
+          "https://www.valenciaextra.com/es/comarcas/la-safor/gandia-old/gandia-entra-en-la-historia-con-40-anos-consecutivos-de-bandera-azul-solo-seis-playas-mas-en-toda-espana-pueden-decir-lo-mismo_594594_102.html"
         ],
         "sources": [
           {
-            "name": "Calp Comunica — Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
             "type": "PRIMARY"
           },
           {
-            "name": "Ayuntamiento de Calp — Agenda municipal de actividades del fin de semana",
-            "url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre",
+            "name": "III Congreso Internacional Bandera Azul / ADEAC",
+            "url": "https://congresosbanderaazul.org/programa/",
             "type": "PRIMARY"
+          },
+          {
+            "name": "Valencia Extra",
+            "url": "https://www.valenciaextra.com/es/comarcas/la-safor/gandia-old/gandia-entra-en-la-historia-con-40-anos-consecutivos-de-bandera-azul-solo-seis-playas-mas-en-toda-espana-pueden-decir-lo-mismo_594594_102.html",
+            "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_85a39bb32c291e2a",
-        "candidate_fingerprint": "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
+        "investigation_id": "inv_2ee431b802863165",
+        "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "MEDIUM",
-          "supported_claim_count": 4,
-          "evidence_count": 2,
+          "supported_claim_count": 6,
+          "evidence_count": 3,
           "caveats": [
-            "La evidencia disponible acredita una convocatoria o programación previa, no la celebración efectiva del acto, que todavía estaba prevista para el 2 de octubre de 2026 en la fecha de consulta.",
-            "No se localizó una cobertura independiente de un medio ajeno al Ayuntamiento que confirmara anticipadamente el evento; la corroboración adicional procede de otra publicación oficial municipal.",
-            "La información oficial consultada no detalla cuántos agentes recibirán diplomas o cruces."
+            "La descripción detallada de las actuaciones de “Calp Blau” procede principalmente de la nota de prensa municipal; el programa del congreso corrobora la participación de representantes de Calp, pero no enumera todas esas actuaciones.",
+            "La noticia municipal fue publicada el 2 de octubre de 2026, antes de la hora de corte indicada, por lo que la verificación se refiere a información disponible hasta ese momento."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ec948ec5ef45a109",
-          "quality_gate_evaluated_at": "2026-10-02T05:41:10.350Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
+          "quality_gate_id": "qg_7daca490178b4886",
+          "quality_gate_evaluated_at": "2026-10-02T12:39:32.712Z",
+          "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }

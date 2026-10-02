@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-02T05:41:10.350Z",
+  "generated_at": "2026-10-02T12:39:32.712Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,32 +26,30 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_ec948ec5ef45a109",
-      "draft_id": "drf_5538b5fc4ac92951",
-      "investigation_id": "inv_85a39bb32c291e2a",
-      "candidate_fingerprint": "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
-      "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
-      "category": "SUCESOS",
+      "gate_id": "qg_7daca490178b4886",
+      "draft_id": "drf_ecd151f7e648c0dc",
+      "investigation_id": "inv_2ee431b802863165",
+      "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
+      "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
+      "category": "MEDIO_AMBIENTE",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
+      "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 4,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 2,
+        "unverified_claim_count": 0,
+        "evidence_count": 3,
         "primary_evidence_count": 2,
-        "secondary_evidence_count": 0,
-        "distinct_evidence_urls": 2,
-        "distinct_evidence_hosts": 2,
-        "institutional_or_political": false,
+        "secondary_evidence_count": 1,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -61,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 205
+        "body_word_count": 241
       },
-      "evaluated_at": "2026-10-02T05:41:10.350Z",
+      "evaluated_at": "2026-10-02T12:39:32.712Z",
       "engine_version": "quality-gate-v1"
     }
   ]
