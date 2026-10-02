@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-02T12:39:32.712Z",
+  "generated_at": "2026-10-02T18:27:49.872Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,11 +26,11 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_7daca490178b4886",
-      "draft_id": "drf_ecd151f7e648c0dc",
-      "investigation_id": "inv_2ee431b802863165",
-      "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
-      "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
+      "gate_id": "qg_8475d11cebe1391b",
+      "draft_id": "drf_216c3e77baec6911",
+      "investigation_id": "inv_79eb3b5da7189843",
+      "candidate_fingerprint": "0527f38bb64eead54da887d5a2a6b0476eb6af73f013257a28723054daf58b40",
+      "slug": "aemet-aviso-naranja-lluvias-sabado-marina-alta",
       "category": "MEDIO_AMBIENTE",
       "status": "ELIGIBLE",
       "reasons": [],
@@ -41,15 +41,15 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 6,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
         "evidence_count": 3,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 2,
         "distinct_evidence_urls": 3,
         "distinct_evidence_hosts": 3,
-        "institutional_or_political": true,
+        "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 241
+        "body_word_count": 193
       },
-      "evaluated_at": "2026-10-02T12:39:32.712Z",
+      "evaluated_at": "2026-10-02T18:27:49.872Z",
       "engine_version": "quality-gate-v1"
     }
   ]

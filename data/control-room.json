@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-02T12:39:42.831Z",
+  "generated_at": "2026-10-02T18:27:57.923Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-02T12:39:42.685Z",
+  "last_activity": "2026-10-02T18:27:57.742Z",
   "newspaper": {
-    "archive_total": 49,
-    "published_today": 3,
-    "published_last_7_days": 49,
+    "archive_total": 50,
+    "published_today": 4,
+    "published_last_7_days": 50,
     "categories": {
-      "MEDIO_AMBIENTE": 9,
+      "MEDIO_AMBIENTE": 10,
       "SUCESOS": 4,
       "TURISMO": 6,
       "DEPORTES": 3,
@@ -21,6 +21,13 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_11bd4adb967f0502",
+        "title": "AEMET activa un nuevo aviso naranja por lluvias para este sábado en la Marina Alta",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "aemet-aviso-naranja-lluvias-sabado-marina-alta",
+        "published_at": "2026-10-02T18:27:41.077Z"
+      },
       {
         "archive_id": "arc_e32437584f94a2d4",
         "title": "Calp presenta su estrategia ambiental “Calp Blau” en el Congreso Internacional Bandera Azul",
@@ -68,13 +75,6 @@
         "title": "AEMCO organiza en Calp un bootcamp financiero gratuito para autónomos y pymes",
         "category": "ECONOMIA",
         "slug": "aemco-bootcamp-financiero-autonomos-pymes-calp",
-        "published_at": "2026-10-01T13:20:30.915Z"
-      },
-      {
-        "archive_id": "arc_2740b9bb1de1f354",
-        "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
-        "category": "LOCAL",
-        "slug": "moros-cristianos-calp-reconocimiento-internacional",
         "published_at": "2026-10-01T13:20:30.915Z"
       }
     ]

@@ -1,133 +1,182 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-02T12:38:52.088Z",
+  "generated_at": "2026-10-02T18:26:52.833Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "61d902a038b759f610e6403bea090ce85c1cd76760a05cd6cbeb8532cb404df4",
-      "title": "El Ayuntamiento de Calp presenta el proyecto “Calp Blau” en el III Congreso Internacional Bandera Azul",
+      "candidate_fingerprint": "0527f38bb64eead54da887d5a2a6b0476eb6af73f013257a28723054daf58b40",
+      "title": "AEMET activa un nuevo aviso naranja por lluvias para este sábado en la Marina Alta",
       "status": "VERIFIED",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda suficientemente respaldada: el Ayuntamiento de Calp informa de la presentación de “Calp Blau” en el III Congreso Internacional Bandera Azul celebrado en Islantilla del 30 de septiembre al 2 de octubre de 2026. El programa oficial del congreso confirma la participación del concejal de Medio Ambiente de Calp y de la alcaldesa en una mesa sobre los 40 años de Bandera Azul. La existencia de la estrategia y sus diferentes líneas de actuación está respaldada principalmente por la fuente municipal.",
+      "summary": "La actualización publicada a las 13:05 del 2 de octubre de 2026 está corroborada por una información independiente de Cadena SER: el litoral norte de Alicante, donde se incluye la Marina Alta, pasó a tener aviso naranja el sábado 3 de octubre entre las 08:00 y las 16:00, con riesgo de hasta 50 l/m² en una hora. También se confirma la continuidad de avisos amarillos antes y después de ese intervalo. La información de AEMET había cambiado durante la mañana, por lo que debe conservarse la referencia temporal de la actualización.",
       "claims": [
         {
-          "claim": "El III Congreso Internacional Bandera Azul se celebró en Islantilla del 30 de septiembre al 2 de octubre de 2026.",
+          "claim": "El litoral norte de Alicante mantenía un aviso naranja por lluvias hasta las 20:00 del viernes 2 de octubre de 2026, con posibilidad de acumular 50 l/m² en una hora.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento de Calp presentó allí el proyecto o marca ambiental “Calp Blau”.",
+          "claim": "AEMET activó posteriormente un nuevo aviso naranja para el sábado 3 de octubre entre las 08:00 y las 16:00.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La iniciativa integra educación ambiental, ciencia, voluntariado, fondeos ecológicos, playas sin humo, itinerarios azules y acciones de limpieza litoral.",
+          "claim": "El nuevo aviso naranja establecía un umbral de 50 l/m² en una hora.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El concejal de Medio Ambiente de Calp participó en el programa oficial del congreso dentro del bloque de Educación Ambiental.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La alcaldesa de Calp participó en una mesa sobre los 40 años de Bandera Azul como motor de cambio en municipios costeros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La playa de la Fossa cumple 40 años consecutivos con Bandera Azul en 2026.",
+          "claim": "Continuaron avisos amarillos por lluvia y tormentas durante otros periodos del viernes y del sábado.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
-          "evidence": "La nota municipal afirma que Calp presentó “Calp Blau” en el III Congreso Internacional Bandera Azul, celebrado en Islantilla del 30 de septiembre al 2 de octubre. Describe la iniciativa como basada en educación ambiental, ciencia, voluntariado, fondeos ecológicos, playas sin humo, itinerarios guiados y recogidas de residuos. También afirma que la Fossa cumple 40 años ininterrumpidos con Bandera Azul.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "III Congreso Internacional Bandera Azul / ADEAC",
-          "source_url": "https://congresosbanderaazul.org/programa/",
-          "evidence": "El programa oficial sitúa el congreso en Islantilla entre el 30 de septiembre y el 2 de octubre de 2026; incluye a Pedro Heinz Moll Leuchter, concejal de Medio Ambiente de Calp, en el bloque de Educación Ambiental, y a la alcaldesa Ana Mª Sala en la mesa sobre 40 años de Bandera Azul.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Valencia Extra",
-          "source_url": "https://www.valenciaextra.com/es/comarcas/la-safor/gandia-old/gandia-entra-en-la-historia-con-40-anos-consecutivos-de-bandera-azul-solo-seis-playas-mas-en-toda-espana-pueden-decir-lo-mismo_594594_102.html",
-          "evidence": "La información identifica a la playa de La Fossa, en Calpe, entre las playas españolas que mantienen 40 años consecutivos de Bandera Azul en 2026.",
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/hasta-cuando-dura-la-alerta-en-la-marina-alta-la-prediccion-de-la-aemet-de-cara-al-fin-de-semana/",
+          "evidence": "La noticia, publicada el 2 de octubre a las 13:05, afirma que la actualización de AEMET de las 12:24 mantuvo el aviso naranja hasta las 20:00 del viernes, activó otro aviso naranja para el litoral norte de Alicante entre las 08:00 y las 16:00 del sábado y fijó un umbral de 50 l/m² en una hora. También describe avisos amarillos antes y después de ese periodo.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/02/la-tormenta-descarga-30-litros-en-una-hora-en-la-ciudad-de-alicante-radio-alicante/",
+          "evidence": "La información publicada el 2 de octubre a las 16:55 confirma que el sábado comenzaría con aviso amarillo en el litoral norte de Alicante, que pasaría a naranja entre las 08:00 y las 16:00 y volvería después a amarillo. La pieza atribuye el aviso a AEMET.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Agencia Estatal de Meteorología (AEMET)",
+          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+          "evidence": "La página oficial de avisos meteorológicos de AEMET es la fuente institucional de referencia para los niveles, zonas, horarios y umbrales de los avisos. La consulta web mostró que la información era dinámica y podía cambiar con nuevas actualizaciones.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La descripción detallada de las actuaciones de “Calp Blau” procede principalmente de la nota de prensa municipal; el programa del congreso corrobora la participación de representantes de Calp, pero no enumera todas esas actuaciones.",
-        "La noticia municipal fue publicada el 2 de octubre de 2026, antes de la hora de corte indicada, por lo que la verificación se refiere a información disponible hasta ese momento."
+        "La previsión meteorológica era dinámica el 2 de octubre de 2026; la noticia debe fecharse y atribuirse expresamente a la actualización de las 12:24.",
+        "La página dinámica de AEMET consultada posteriormente no conserva necesariamente la misma versión horaria que respaldó la noticia."
       ],
-      "id": "inv_2ee431b802863165",
-      "investigated_at": "2026-10-02T12:38:52.088Z",
+      "id": "inv_79eb3b5da7189843",
+      "investigated_at": "2026-10-02T18:26:52.833Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "bbe3dd5945e39caeaa710ec616e5e1f5e9233e226da1385d29881667214b49ec",
-      "title": "Las fiestas de Moros y Cristianos de Calp ya tienen imagen oficial para su edición de 2026",
+      "candidate_fingerprint": "f780b0002a177afbab29ed7819ea9b2d94013322ffecdc94f4a381ddedeaa8b2",
+      "title": "Las protestas docentes continúan en la Marina Alta y llegan al IES Les Salines de Calp",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La fuente de la Asociación de Moros y Cristianos afirma que el cartel de 2026 fue presentado y que la obra es de Enrique Díaz Núñez. Sin embargo, no se ha localizado una corroboración independiente de la presentación efectiva del cartel ni de su autoría. Sí quedan corroborados por fuentes oficiales e independientes las fechas previstas de las fiestas, del 21 al 26 de octubre de 2026, y la declaración de Fiesta de Interés Turístico Nacional.",
+      "summary": "La información de LaMarinaAlta.com documenta una movilización en el IES Les Salines de Calp el 1 de octubre de 2026 y recoge las reivindicaciones docentes. Sin embargo, no se ha localizado una corroboración independiente específica del acto en Calp ni una confirmación oficial del centro, de la Conselleria o de STEPV que respalde materialmente todos los detalles.",
       "claims": [
         {
-          "claim": "La Asociación de Moros y Cristianos presentó el cartel o imagen oficial de las fiestas de 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El cartel fue realizado por Enrique Díaz Núñez.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Las fiestas se celebrarán del 21 al 26 de octubre de 2026.",
+          "claim": "El profesorado mantiene concentraciones semanales en centros de la Marina Alta desde el inicio del curso 2026/2027.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La edición de 2026 será la primera bajo el reconocimiento de Fiesta de Interés Turístico Nacional.",
+          "claim": "El 1 de octubre de 2026 se celebró una movilización en el IES Les Salines de Calp.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Las reivindicaciones incluyen reducción de ratios, mejora de plantillas, climatización, infraestructuras y recuperación del poder adquisitivo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las fiestas de Moros y Cristianos de Calp han sido declaradas Fiesta de Interés Turístico Nacional.",
+          "claim": "Los centros afrontan problemas de climatización, plantillas e infraestructuras.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los datos porcentuales citados proceden de una encuesta difundida por STEPV el 29 de septiembre.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/las-protestas-docentes-continuan-en-la-marina-alta-mientras-siguen-abiertas-las-reivindicaciones-educativas/",
+          "evidence": "La pieza publicada el 2 de octubre afirma que docentes de distintos municipios realizan concentraciones semanales y enumera las reivindicaciones. También enlaza una galería identificada como movilización educativa en el IES Les Salines de Calp el 1 de octubre y atribuye a STEPV los datos sobre plantillas, infraestructuras y climatización.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/las-protestas-docentes-continuan-en-la-marina-alta-mientras-siguen-abiertas-las-reivindicaciones-educativas/movilizacion-educativa-en-el-ies-les-salines-de-calp-el-1-de-octubre-2026/",
+          "evidence": "La página identifica específicamente una movilización educativa en el IES Les Salines de Calp el 1 de octubre de 2026 y la fecha de publicación del material, pero no aporta por sí sola una fuente externa ni detalles independientes sobre asistentes, convocatoria o contenido del acto.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "STEPV",
+          "source_url": "https://stepv.intersindical.org/",
+          "evidence": "La web del sindicato muestra actividad y publicaciones de STEPV durante octubre de 2026, pero la consulta no localizó una comunicación específica que confirmara la concentración del 1 de octubre en el IES Les Salines ni los porcentajes concretos citados en la noticia.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La galería fotográfica y el artículo pertenecen al mismo medio y no constituyen corroboración independiente.",
+        "Debe solicitarse o localizarse la convocatoria de STEPV, una comunicación del IES Les Salines, de la Conselleria o del Ayuntamiento de Calp, y el documento original de la encuesta antes de publicar como hecho plenamente verificado.",
+        "Las cifras porcentuales no deben presentarse como datos generales de todos los centros, sino como resultados de la encuesta atribuida a STEPV."
+      ],
+      "id": "inv_971323a6bb6ace98",
+      "investigated_at": "2026-10-02T18:26:52.833Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "83a0f42cd8a42290f245436be97181442cab5277cd6b3be8f3b9217d1006a41e",
+      "title": "El Penyal d’Ifac registra 34.535 visitantes durante el verano y lidera la red de parques naturales valencianos",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "LOW",
+      "publishable": false,
+      "summary": "La cifra de 34.535 visitantes, el liderazgo del Penyal d’Ifac y el crecimiento regional del 19,68% aparecen en LaMarinaAlta.com, pero no se ha localizado durante la investigación el comunicado, tabla estadística o conjunto de datos oficial de la Generalitat que permita verificar esos números. La existencia y titularidad del parque sí están confirmadas oficialmente, pero no sus cifras de visitantes del verano de 2026.",
+      "claims": [
+        {
+          "claim": "El Penyal d’Ifac registró 34.535 visitantes entre junio y agosto de 2026.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Fue el espacio protegido más visitado de la Comunitat Valenciana durante ese periodo.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La red de parques naturales valencianos superó los 94.100 visitantes en verano de 2026.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El total regional supuso un crecimiento del 19,68% respecto al verano de 2025.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Las cifras proceden de usuarios registrados por educadores ambientales en centros de visitantes y no necesariamente del total real de visitas.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El Penyal d’Ifac es un parque natural situado en Calp y gestionado dentro de la red valenciana de espacios naturales protegidos.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Asociación de Moros y Cristianos de Calp",
-          "source_url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
-          "evidence": "La asociación publica el 1 de octubre de 2026 que ya dispone de imagen oficial, afirma que el cartel fue presentado, atribuye la obra a Enrique Díaz Núñez y fija las fiestas del 21 al 26 de octubre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19610.pdf",
-          "evidence": "La Resolución de 22 de agosto de 2026, publicada el 21 de septiembre, concede oficialmente el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
-          "evidence": "La información confirma que el Ayuntamiento convocó el concurso para seleccionar el cartel anunciador de 2026 y que las fiestas están previstas del 21 al 26 de octubre. No confirma quién ganó ni que el cartel se hubiera presentado el 1 de octubre.",
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/verano-de-record-para-calp-y-denia-sus-parques-naturales-los-mas-buscados/",
+          "evidence": "La noticia publicada el 2 de octubre afirma que el Penyal d’Ifac registró 34.535 personas entre junio y agosto, que fue el espacio protegido más visitado de la Comunitat Valenciana y que la red autonómica superó 94.100 visitas, un 19,68% más que en 2025. El artículo atribuye los datos a la Generalitat, pero no enlaza en el texto consultado un documento oficial verificable con la tabla completa.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Portal oficial de las fiestas de Moros y Cristianos de Calpe",
-          "source_url": "https://morosycristianos.calpe.es/",
-          "evidence": "El portal oficial muestra en su agenda las fiestas de Moros y Cristianos de 2026 del 21 al 26 de octubre y recoge que la celebración cuenta con la declaración de Fiesta de Interés Turístico Nacional.",
+          "source_name": "Generalitat Valenciana, Red de Parques Naturales",
+          "source_url": "https://parquesnaturales.gva.es/es/web/pn-penyal-d-ifac/historia",
+          "evidence": "La página oficial confirma que el Penyal d’Ifac está en Calp y que fue declarado Parque Natural mediante el Decreto 1/1987 de la Generalitat Valenciana. No contiene las cifras de visitantes del verano de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Generalitat Valenciana, Red de Parques Naturales",
+          "source_url": "https://parquesnaturales.gva.es/es/web/pn-penyal-d-ifac/lugares-interes",
+          "evidence": "La página oficial identifica el espacio como Parque Natural del Penyal d’Ifac y describe sus instalaciones y lugares de interés. No aporta los datos de afluencia alegados para junio, julio y agosto de 2026.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La única evidencia localizada sobre la presentación del cartel y la atribución a Enrique Díaz Núñez es la publicación de la propia asociación organizadora.",
-        "La convocatoria previa del concurso demuestra que el cartel debía seleccionarse, pero no sustituye una confirmación independiente del resultado.",
-        "Se recomienda localizar un comunicado municipal, acta del concurso, publicación del Ayuntamiento o cobertura periodística independiente que confirme la presentación y la autoría antes de publicar la noticia como verificada."
+        "No se localizó el informe o comunicado oficial que respalde las cifras exactas.",
+        "La afirmación de que fue el más visitado requiere consultar la tabla comparativa completa de todos los parques naturales valencianos.",
+        "Debe confirmarse si 'visitantes' significa registros en centros de visitantes, entradas a itinerarios o una métrica agregada de la red.",
+        "No publicar la cifra como dato oficial definitivo hasta obtener el documento primario de la Generalitat."
       ],
-      "id": "inv_3183ce9e82c18ef4",
-      "investigated_at": "2026-10-02T12:38:52.088Z",
+      "id": "inv_28df90f61ad54b51",
+      "investigated_at": "2026-10-02T18:26:52.833Z",
       "model": "gpt-5.6-luna"
     }
   ]
