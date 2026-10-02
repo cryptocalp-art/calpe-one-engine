@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-01T23:55:04.127Z",
+  "generated_at": "2026-10-02T05:41:18.150Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-01T23:55:03.953Z",
+  "last_activity": "2026-10-02T05:41:17.965Z",
   "newspaper": {
-    "archive_total": 47,
-    "published_today": 1,
-    "published_last_7_days": 47,
+    "archive_total": 48,
+    "published_today": 2,
+    "published_last_7_days": 48,
     "categories": {
+      "SUCESOS": 4,
       "MEDIO_AMBIENTE": 8,
       "TURISMO": 6,
       "DEPORTES": 3,
       "ECONOMIA": 6,
       "LOCAL": 9,
       "CULTURA": 4,
-      "SUCESOS": 3,
       "SOCIEDAD": 6,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_b5831b7184cbf59a",
+        "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
+        "category": "SUCESOS",
+        "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
+        "published_at": "2026-10-02T05:41:03.354Z"
+      },
       {
         "archive_id": "arc_5678de936f72f0b0",
         "title": "Calp acogerá una intervención ambiental de las III Jornadas SAVE 2026",
@@ -69,18 +76,11 @@
         "category": "CULTURA",
         "slug": "marq-incorpora-ventanal-gotico-pobla-ifach",
         "published_at": "2026-10-01T05:58:59.692Z"
-      },
-      {
-        "archive_id": "arc_2625f122ddd42b9e",
-        "title": "La Oficina de la Policía de Proximidad de Calp reabre este jueves en la calle Justicia",
-        "category": "SUCESOS",
-        "slug": "policia-proximidad-calp-reabre-1-octubre",
-        "published_at": "2026-09-30T23:52:44.302Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 3,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

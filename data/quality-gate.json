@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-01T23:54:53.012Z",
+  "generated_at": "2026-10-02T05:41:10.350Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,29 +26,31 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_37f447dc239d29d2",
-      "draft_id": "drf_30dc9d631344962c",
-      "investigation_id": "inv_6a089cd312f10cd9",
-      "candidate_fingerprint": "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e",
-      "slug": "calp-intervencion-jornadas-save-2026",
-      "category": "MEDIO_AMBIENTE",
+      "gate_id": "qg_ec948ec5ef45a109",
+      "draft_id": "drf_5538b5fc4ac92951",
+      "investigation_id": "inv_85a39bb32c291e2a",
+      "candidate_fingerprint": "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
+      "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
+      "category": "SUCESOS",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 7,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 3,
+        "unverified_claim_count": 1,
+        "evidence_count": 2,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 0,
+        "distinct_evidence_urls": 2,
+        "distinct_evidence_hosts": 2,
         "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +61,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 270
+        "body_word_count": 205
       },
-      "evaluated_at": "2026-10-01T23:54:53.012Z",
+      "evaluated_at": "2026-10-02T05:41:10.350Z",
       "engine_version": "quality-gate-v1"
     }
   ]
