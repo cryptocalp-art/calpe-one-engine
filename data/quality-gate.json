@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-03T02:00:58.115Z",
+  "generated_at": "2026-10-03T08:09:04.769Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_522d9c29a38c3257",
-      "draft_id": "drf_e43bf6c75d2bbddb",
-      "investigation_id": "inv_ea2b4f79fa0e5c7f",
-      "candidate_fingerprint": "49114c419a5c10a81ee7e9baebe02aadf77dadc60da23eeed2fae331a02f78ba",
-      "slug": "calp-gastronomia-alicante-gastronomica-2026",
-      "category": "ECONOMIA",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 8,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 5,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 5,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 256
-      },
-      "evaluated_at": "2026-10-03T02:00:58.115Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
