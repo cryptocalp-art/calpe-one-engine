@@ -1,8 +1,73 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-03T08:09:04.511Z",
+  "generated_at": "2026-10-03T13:25:33.981Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 1,
+  "investigations": [
+    {
+      "candidate_fingerprint": "49f2f5e4c386fd7f771754e7eb28707f9fda7682391b9204f2640234bc8eefb5",
+      "title": "Una tromba de agua inunda calles y obliga a cerrar pasos del barranco del Quisi en Calp",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está respaldada directamente por La Marina Plaza, que informa de lluvias intensas el viernes 2 de octubre de 2026, un dispositivo especial de la Policía Local de Calp y el cierre de los pasos de tráfico del barranco del Quisi. Fuentes oficiales independientes confirman que hubo lluvias y que el Ayuntamiento suspendió actos por ese motivo, además de la existencia de avisos meteorológicos para la zona. Sin embargo, no se ha localizado una comunicación oficial o una fuente independiente que confirme específicamente la inundación de calles de Calp, el dispositivo policial o el cierre de los pasos del Quisi.",
+      "claims": [
+        {
+          "claim": "El viernes 2 de octubre de 2026 se produjeron lluvias intensas en Calp y otros municipios de la Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las lluvias provocaron inundaciones o anegamientos en calles de Calp.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La Policía Local de Calp activó o habilitó un dispositivo especial por el episodio de lluvias.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Los pasos de tráfico habilitados del barranco del Quisi fueron cerrados preventivamente.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Existía una situación meteorológica adversa con avisos por lluvias en la Marina Alta durante el 2 de octubre de 2026.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/10/02/una-tromba-daigua-anega-carrers-i-obliga-a-tallar-carreteres-a-pego-denia-i-calp",
+          "evidence": "La publicación del 2 de octubre de 2026 afirma que durante la tarde se produjeron dos episodios intensos de lluvia en la Marina Alta. En relación con Calp, señala que la Policía Local habilitó un dispositivo especial y que fueron cerrados los pasos de tráfico habilitados del barranco del Quisi.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp - Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/",
+          "evidence": "El Ayuntamiento publicó el 2 de octubre de 2026 que, debido a las lluvias, se suspendían actos previstos de la Policía Local y que también se cancelaba una actividad por la alerta naranja de lluvias prevista para el sábado. Esto confirma la existencia de un episodio de lluvias y medidas municipales relacionadas, pero no menciona el cierre del barranco del Quisi ni inundaciones concretas en calles.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Agencia Estatal de Meteorología (AEMET)",
+          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+          "evidence": "La página de avisos meteorológicos consultada para el viernes 2 de octubre de 2026 recoge avisos por lluvias y tormentas en zonas de la Comunitat Valenciana y áreas próximas, con previsión de acumulaciones intensas. La fuente respalda el contexto meteorológico adverso, pero no acredita por sí sola las incidencias concretas en Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp - Noticias",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-2-de-octubre-0",
+          "evidence": "El dosier municipal fechado el 2 de octubre de 2026 recoge entre las informaciones del día una alerta por lluvias y la actividad municipal relacionada con esa situación. No contiene una confirmación específica del cierre de los pasos del barranco del Quisi.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La única fuente localizada que afirma expresamente el cierre de los pasos del Quisi y la activación del dispositivo policial es la propia noticia candidata; las publicaciones posteriores de la misma cabecera no cuentan como corroboración independiente.",
+        "La documentación oficial localizada confirma lluvias, alerta meteorológica y cancelaciones municipales, pero no detalla inundaciones urbanas ni cortes concretos en el barranco del Quisi.",
+        "Para elevar el candidato a VERIFIED sería necesario localizar un comunicado de la Policía Local de Calp, del Ayuntamiento, de Protección Civil, del 112 o de otra fuente independiente que confirme al menos el cierre de los pasos del Quisi y, preferiblemente, los anegamientos en calles."
+      ],
+      "id": "inv_435296886cc33056",
+      "investigated_at": "2026-10-03T13:25:33.981Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
