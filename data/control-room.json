@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-02T23:00:27.359Z",
+  "generated_at": "2026-10-03T02:01:09.472Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-02T23:00:27.174Z",
+  "last_activity": "2026-10-03T02:01:09.275Z",
   "newspaper": {
-    "archive_total": 52,
-    "published_today": 2,
+    "archive_total": 53,
+    "published_today": 3,
     "published_last_7_days": 34,
     "categories": {
+      "ECONOMIA": 7,
       "MEDIO_AMBIENTE": 12,
       "SUCESOS": 4,
       "TURISMO": 6,
       "DEPORTES": 3,
-      "ECONOMIA": 6,
       "LOCAL": 9,
       "CULTURA": 4,
       "SOCIEDAD": 6,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_77224d1bc48341d0",
+        "title": "Calp presenta su producto local y su gastronomía en Alicante Gastronómica 2026",
+        "category": "ECONOMIA",
+        "slug": "calp-gastronomia-alicante-gastronomica-2026",
+        "published_at": "2026-10-03T02:00:47.930Z"
+      },
       {
         "archive_id": "arc_05e8ddd7b551fcfe",
         "title": "La alerta por lluvias se mantiene en nivel naranja el viernes y se prolonga al sábado en el litoral norte de Alicante",
@@ -69,23 +76,16 @@
         "category": "TURISMO",
         "slug": "nuevas-tarifas-tram-abonos-calp",
         "published_at": "2026-10-01T19:33:56.228Z"
-      },
-      {
-        "archive_id": "arc_67f74c6026ba9c7b",
-        "title": "El aviso naranja por lluvias mantiene abiertas las aulas de Calp",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "aviso-naranja-lluvias-clases-abiertas-calp",
-        "published_at": "2026-10-01T13:20:30.915Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 3,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 2
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
