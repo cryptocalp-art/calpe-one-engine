@@ -3,7 +3,7 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-03T17:59:19.882Z",
+  "updated_at": "2026-10-03T21:19:17.688Z",
   "count": 54,
   "articles": [
     {
@@ -252,7 +252,8 @@
       "investigation_id": "inv_79eb3b5da7189843",
       "candidate_fingerprints": [
         "0527f38bb64eead54da887d5a2a6b0476eb6af73f013257a28723054daf58b40",
-        "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66"
+        "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66",
+        "79a59018acac12eaec4cace169d9333f3dfce6765b9b79f278d9e04339d906a4"
       ],
       "title": "AEMET activa un nuevo aviso naranja por lluvias para este sábado en la Marina Alta",
       "slug": "aemet-aviso-naranja-lluvias-sabado-marina-alta",
@@ -283,7 +284,9 @@
         "https://cadenaser.com/comunitat-valenciana/2026/10/02/la-tormenta-descarga-30-litros-en-una-hora-en-la-ciudad-de-alicante-radio-alicante",
         "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
         "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
-        "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03"
+        "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03",
+        "https://x.com/AEMET_CValencia/status/2106292384401166629",
+        "https://lamarina.eldiario.es/2026/10/03/la-marina-alta-acumula-hasta-136-mm-en-las-ultimas-48-horas-donde-ha-llovido-mas"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -305,7 +308,7 @@
         "La previsión es dinámica y puede modificarse; revisar los avisos antes de publicar si ha habido una actualización posterior."
       ],
       "published_at": "2026-10-02T18:27:41.077Z",
-      "updated_at": "2026-10-03T17:59:19.882Z",
+      "updated_at": "2026-10-03T21:19:17.688Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

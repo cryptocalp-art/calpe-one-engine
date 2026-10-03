@@ -1,244 +1,66 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-03T17:58:19.476Z",
+  "generated_at": "2026-10-03T21:18:46.063Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66",
-      "title": "La Marina Alta sale del aviso naranja, pero mantiene el nivel amarillo tras las lluvias",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información está respaldada por una publicación de LaMarinaAlta.com que cita la actualización de AEMET del 3 de octubre de 2026, y por las páginas de AEMET relativas a los avisos meteorológicos y a la zona de Calp. Los datos de precipitación atribuidos a AVAMET aparecen detallados en la fuente local.",
-      "claims": [
-        {
-          "claim": "AEMET desactivó el aviso naranja en el litoral norte de Alicante el sábado 3 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El litoral norte de Alicante mantuvo el aviso amarillo por lluvias y tormentas hasta las 23:59 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El episodio podía dejar acumulaciones de hasta 30 l/m² en una hora o 60 l/m² en dos o tres horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La estación de l’Atzúbia-Rambla Gallinera registró 136 l/m² en las 24 horas previas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "En Calp se registraron 25,4 l/m² y en Calp-Toix-Mascarat 27,4 l/m².",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
-          "evidence": "Publica el 3 de octubre de 2026 que AEMET desactivó el nivel naranja en el litoral norte de Alicante, mantuvo el aviso amarillo hasta la medianoche y recogió los acumulados de 136 l/m² en l’Atzúbia, 27,4 l/m² en Calp-Toix-Mascarat y 25,4 l/m² en Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Agencia Estatal de Meteorología (AEMET)",
-          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
-          "evidence": "La página oficial de avisos meteorológicos de AEMET identifica avisos por lluvias en el litoral norte de Alicante durante el episodio meteorológico de los días 1 y 2 de octubre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Agencia Estatal de Meteorología (AEMET)",
-          "source_url": "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03",
-          "evidence": "La predicción oficial de AEMET para la playa Arenal-Bol sitúa Calp en la zona de avisos del litoral norte de Alicante y está elaborada el sábado 3 de octubre de 2026; también muestra el aviso especial por chubascos y tormentas fuertes y persistentes.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "Los acumulados de lluvia de Calp proceden de registros de AVAMET citados por la fuente periodística, no de una tabla histórica de AEMET localizada directamente.",
-        "La noticia usa “hasta la medianoche”; la referencia horaria concreta localizada es hasta las 23:59 horas."
-      ],
-      "id": "inv_78ea9a63bce2e7c1",
-      "investigated_at": "2026-10-03T17:58:19.476Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "8144acad5ed0188f49087000d43a23ec6c601e5cb0a702bfc6ae9184ef5fe181",
-      "title": "El Peñón de Ifach registra 34.535 visitantes durante el verano",
+      "candidate_fingerprint": "79a59018acac12eaec4cace169d9333f3dfce6765b9b79f278d9e04339d906a4",
+      "title": "La alerta por lluvias baja de naranja a amarilla en la Marina Alta tras acumularse hasta 136 milímetros en 48 horas",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La cifra de 34.535 visitantes del Peñón de Ifach entre junio y agosto de 2026 aparece corroborada por varias publicaciones independientes que atribuyen los datos a los registros oficiales de la red de parques naturales valencianos. No se localizó en la búsqueda una nota primaria de la Generalitat con el desglose completo.",
+      "summary": "La noticia queda suficientemente respaldada en sus hechos esenciales: el aviso meteorológico en el litoral norte de Alicante pasó de naranja a amarillo el sábado 3 de octubre de 2026, mientras continuaban las lluvias y tormentas. Los registros de AVAMET citados por La Marina Plaza sitúan el máximo comarcal en 136 mm en 48 horas y a Calp por encima de 50 mm en ese mismo intervalo. Una fuente independiente confirma el cambio de nivel de aviso y aporta registros de lluvia relevantes, aunque sus datos de Calp corresponden a una ventana distinta de 24 horas y no permiten verificar exactamente la tabla de 48 horas del candidato.",
       "claims": [
         {
-          "claim": "El Parque Natural del Penyal d’Ifac registró 34.535 visitantes entre junio y agosto de 2026.",
+          "claim": "El aviso por lluvias en la Marina Alta/litoral norte de Alicante bajó de nivel naranja a amarillo el sábado 3 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Fue el espacio natural protegido con más registros de visitantes de la Comunitat Valenciana durante ese periodo.",
+          "claim": "El aviso amarillo se mantuvo activo por riesgo de lluvias y tormentas durante el sábado.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La red autonómica de parques naturales superó los 94.100 visitantes registrados durante el verano.",
+          "claim": "Se registraron hasta 136 mm de precipitación en 48 horas en la Marina Alta.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La cifra corresponde a personas atendidas o registradas en centros de visitantes y por educadores ambientales, por lo que el total real puede ser superior.",
+          "claim": "Calp superó los 50 mm acumulados en 48 horas, según la tabla de AVAMET difundida por La Marina Plaza.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra de 136 mm corresponde al máximo comarcal y no específicamente a Calp.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Castelló Extra",
-          "source_url": "https://castelloextra.com/es/politica/los-parques-naturales-valencianos-han-batido-record-de-visitas-este-verano_599236_102.html",
-          "evidence": "Informa el 27 de septiembre de 2026 de más de 94.100 visitantes registrados entre junio y agosto y señala que el Peñón de Ifach fue el parque natural con más registros, con 34.535 personas durante el verano. También aclara que se contabilizan visitas atendidas o registradas por los servicios de los parques.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER Comunitat Valenciana",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
-          "evidence": "Corrobora que los parques naturales valencianos superaron las 94.100 personas registradas durante junio, julio y agosto y sitúa al Penyal d’Ifac como el espacio con mayor afluencia del periodo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Diario de Alicante",
-          "source_url": "https://www.diariodealicante.net/en/Visits-to-the-region%27s-natural-parks-have-increased-by-20%25./",
-          "evidence": "Publica las cifras de 94.117 visitantes en la red de parques y 34.535 personas registradas en el Peñón de Ifach durante el verano de 2026.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "No se encontró durante la búsqueda una publicación primaria localizada directamente en la web de la Generalitat o del Parque Natural con el desglose de 34.535 visitantes.",
-        "La expresión “visitantes” debe publicarse preferentemente como “visitas o personas registradas” para reflejar la metodología indicada por las fuentes."
-      ],
-      "id": "inv_6209cdaa3f61e170",
-      "investigated_at": "2026-10-03T17:58:19.476Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "edb7deaaa0988b93607ac8420b31a1f3edcf42080a77ac085c2132564a7532fe",
-      "title": "La Generalitat anuncia ayudas de hasta 1.000 euros para la compra de la primera vivienda",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La nueva ayuda de hasta 1.000 euros para menores de 35 años está corroborada por medios independientes que recogen un anuncio del presidente de la Generalitat. Sin embargo, no se localizó convocatoria, decreto ni ficha oficial que concrete sus requisitos. Además, la afirmación sobre ampliar a 50 años los avales del IVF no coincide con la ficha oficial localizada, que fija el límite general en 45 años, por lo que requiere aclaración antes de publicar.",
-      "claims": [
-        {
-          "claim": "La Generalitat anunció una ayuda de hasta 1.000 euros para menores de 35 años que compren su primera vivienda.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ayuda estaría destinada a gastos de notaría, registro y gestoría.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Generalitat prevé ampliar hasta los 50 años la edad máxima de acceso a los avales del IVF.",
-          "status": "CONTRADICTED"
-        },
-        {
-          "claim": "El IVF dispone en 2026 de un programa de garantías para la compra de primera vivienda.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ficha oficial localizada fija en 45 años la edad máxima general para acceder al programa de garantías IVF.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El IVF puede ampliar la financiación avalada hasta cubrir el 100% del precio de adquisición en determinadas condiciones.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Cadena SER Comunitat Valenciana",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/28/debate-sobre-el-estado-de-la-comunitat-valenciana-radio-valencia/",
-          "evidence": "Informa de que el presidente de la Generalitat anunció una nueva subvención de 1.000 euros para gastos de notaría, registro y gestoría en la compra de la primera vivienda por jóvenes menores de 35 años.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Periódico de Torrevieja",
-          "source_url": "https://periodico.top/torrevieja/la-generalitat-anuncia-ayudas-para-comprar-vivienda-y-renovar-el-hospital-de-tor",
-          "evidence": "Corrobora el anuncio de una subvención de hasta 1.000 euros para menores de 35 años que compren su primera vivienda en la Comunitat Valenciana.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Sede Electrónica de la Generalitat Valenciana",
-          "source_url": "https://sede.gva.es/es/detall-tramit?id_caso=a_quien&id_proc=G109432",
-          "evidence": "La ficha oficial del programa de garantías IVF indica que en 2026 pueden acceder, con carácter general, personas de hasta 45 años incluidos. También confirma que se trata de garantías para financiar la compra de la primera vivienda.",
+          "source_name": "AEMET Comunitat Valenciana",
+          "source_url": "https://x.com/AEMET_CValencia/status/2106292384401166629",
+          "evidence": "La publicación oficial difundida el 3 de octubre indica que la adversidad meteorológica continuaba y que permanecía activo el aviso por tormentas fuertes o muy fuertes en los litorales de Castellón, València y el norte de Alicante, con posibles acumulados de 30 l/m² en una hora o 60 l/m² en dos o tres horas.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Institut Valencià de Finances",
-          "source_url": "https://www.ivf.gva.es/inicio/-/asset_publisher/UJ1VvxNBuSiv/content/el-ivf-amplia-hasta-los-60-millones-de-euros-la-dotacion-del-programa-de-avales-para-la-compra-de-vivienda-en-la-comunitat-valenciana",
-          "evidence": "Comunica que el programa IVF de 2026 amplía su dotación hasta 60 millones de euros y que la cobertura del aval puede llegar al 20% del valor de la vivienda, permitiendo obtener financiación de hasta el 100% de la operación en los supuestos previstos.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "No se localizó todavía la norma o convocatoria oficial de la ayuda de 1.000 euros, ni sus límites de renta, precio de vivienda, plazo o compatibilidad con otras ayudas.",
-        "La afirmación de los 50 años debe considerarse no verificada y materialmente incompatible con la ficha oficial vigente localizada, salvo que se refiera a una reforma anunciada pero todavía no incorporada al trámite.",
-        "La fuente propuesta por el candidato es una noticia local; la corroboración independiente confirma el anuncio político, pero no acredita por sí sola la existencia de una ayuda ya convocada."
-      ],
-      "id": "inv_d1276b3fab1aa34a",
-      "investigated_at": "2026-10-03T17:58:19.476Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "d07ed60c7b98c4924bcf54d23c08a88b7e4c53e0df2fdf28923f397ba44084f1",
-      "title": "Setenta voluntarios retiran 854 kilos de residuos en el entorno de Casa del Cocó y Casa Nova",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La jornada de recogida de basuraleza en el entorno de Casa del Cocó está confirmada por la agenda oficial del Ayuntamiento de Calp y los datos de 70 voluntarios y 854 kilos aparecen en un artículo de opinión firmado por la impulsora de la actividad. No se localizó una confirmación independiente u oficial de esos dos datos concretos.",
-      "claims": [
-        {
-          "claim": "Se celebró una jornada de recogida de basuraleza en el entorno de Casa del Cocó y Casa Nova.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La jornada reunió a 70 voluntarios.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Se retiraron 854 kilos de residuos abandonados.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La actividad fue impulsada por Cicloturistes de Calp y contó con colaboración municipal y de la Fundación CEPAIM.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La iniciativa reclama medidas permanentes de prevención, vigilancia y control de vertidos.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-25-26-y-27-de-septiembre",
-          "evidence": "La agenda municipal del 24 de septiembre de 2026 anuncia una recogida de basuraleza el domingo 27 de septiembre, con punto de encuentro en Casa del Cocó y horario de 9:00 a 11:30.",
-          "source_type": "PRIMARY"
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas/",
+          "evidence": "Publica el 3 de octubre que AEMET había desactivado el aviso naranja en el litoral norte de Alicante y mantenía el aviso amarillo hasta las 23:59. También recoge, a partir de registros de AVAMET consultados a las 09:41, 136 l/m² en l’Atzúbia durante las últimas 24 horas y 27,4 y 25,4 l/m² en dos estaciones de Calp. Esto corrobora el cambio de alerta y la existencia de precipitaciones importantes, pero utiliza una ventana de 24 horas distinta de la tabla de 48 horas del candidato.",
+          "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/09/29/recoger-854-kilos-fue-un-exito-como-comunidad-tener-854-kilos-que-recoger-no-lo-es",
-          "evidence": "En un artículo de opinión firmado por Martina Rogers, impulsora de la iniciativa, se afirma que participaron 70 voluntarios y que se retiraron 854 kilos de residuos. El texto también menciona la colaboración del Ayuntamiento, Cicloturistes de Calp y la Fundación CEPAIM.",
+          "source_url": "https://lamarina.eldiario.es/2026/10/03/la-marina-alta-acumula-hasta-136-mm-en-las-ultimas-48-horas-donde-ha-llovido-mas/",
+          "evidence": "La pieza original, publicada el 3 de octubre, atribuye a las estadísticas de AVAMET un máximo de 136 mm en 48 horas en l’Atzúvia y señala que Calp, junto con Benissa, Benitatxell y Ondara, superó los 50 mm en ese periodo.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-retira-110-kilos-de-residuos-en-la-cala-manzanera-0",
-          "evidence": "Acredita que el Ayuntamiento de Calp ha organizado anteriormente jornadas de recogida de residuos con voluntariado y participación de la Fundación CEPAIM, aunque corresponde a otra actividad y no confirma las cifras de 2026.",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La única fuente localizada para las cifras de 70 voluntarios y 854 kilos es un artículo de opinión de una participante, no un comunicado oficial ni una fuente independiente.",
-        "La agenda municipal confirma la convocatoria, pero no ofrece resultados posteriores de participación o peso recogido.",
-        "Antes de publicar las cifras exactas conviene obtener un parte del Ayuntamiento, de Cicloturistes de Calp, de la entidad gestora de residuos o material fotográfico/documental verificable."
+        "La corroboración independiente disponible no reproduce exactamente la tabla de acumulados de 48 horas: informa de 136 mm en 24 horas en l’Atzúbia y de valores inferiores a 50 mm en las estaciones de Calp para esa ventana temporal.",
+        "No se ha localizado una página abierta de AEMET con el boletín completo; la fuente primaria identificada es la publicación oficial de AEMET Comunitat Valenciana en X, citada y enlazada por la fuente independiente.",
+        "Para publicar con máxima precisión conviene indicar que los 136 mm y los más de 50 mm en Calp corresponden a acumulados de AVAMET en 48 horas, mientras que otros registros publicados posteriormente usan una ventana de 24 horas."
       ],
-      "id": "inv_78361f26b6b00290",
-      "investigated_at": "2026-10-03T17:58:19.476Z",
+      "id": "inv_5131fe9c5e2fb5e5",
+      "investigated_at": "2026-10-03T21:18:46.063Z",
       "model": "gpt-5.6-luna"
     }
   ]
