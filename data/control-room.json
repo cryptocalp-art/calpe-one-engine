@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-03T13:26:08.053Z",
+  "generated_at": "2026-10-03T17:59:30.455Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-03T13:26:07.865Z",
+  "last_activity": "2026-10-03T17:59:30.323Z",
   "newspaper": {
-    "archive_total": 53,
-    "published_today": 3,
-    "published_last_7_days": 30,
+    "archive_total": 54,
+    "published_today": 4,
+    "published_last_7_days": 27,
     "categories": {
+      "TURISMO": 7,
       "ECONOMIA": 7,
       "MEDIO_AMBIENTE": 12,
       "SUCESOS": 4,
-      "TURISMO": 6,
       "DEPORTES": 3,
       "LOCAL": 9,
       "CULTURA": 4,
@@ -21,6 +21,13 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_c914fbe283376b4a",
+        "title": "El Penyal d’Ifac suma 34.535 personas registradas durante el verano",
+        "category": "TURISMO",
+        "slug": "penyal-ifac-34535-personas-registradas-verano-2026",
+        "published_at": "2026-10-03T17:59:06.428Z"
+      },
       {
         "archive_id": "arc_77224d1bc48341d0",
         "title": "Calp presenta su producto local y su gastronomía en Alicante Gastronómica 2026",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-intervencion-jornadas-save-2026",
         "published_at": "2026-10-01T23:54:45.629Z"
-      },
-      {
-        "archive_id": "arc_7ed1d9649af4708e",
-        "title": "El TRAM d’Alacant actualiza sus tarifas y estrena abonos mensuales desde el 1 de octubre",
-        "category": "TURISMO",
-        "slug": "nuevas-tarifas-tram-abonos-calp",
-        "published_at": "2026-10-01T19:33:56.228Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

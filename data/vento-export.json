@@ -3,12 +3,271 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-03T13:26:02.244Z",
+  "generated_at": "2026-10-03T17:59:19.763Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 2,
+  "ready_count": 2,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_7a2f67c4aa77488d",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-03T17:59:19.763Z",
+      "source_draft_id": "drf_6452f335da467a80",
+      "source_investigation_id": "inv_78ea9a63bce2e7c1",
+      "candidate_fingerprint": "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66",
+      "quality_gate_id": "qg_b46b8c3abe8b556a",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_6452f335da467a80",
+        "investigation_id": "inv_78ea9a63bce2e7c1",
+        "candidate_fingerprint": "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66",
+        "title": "La Marina Alta sale del aviso naranja y mantiene el nivel amarillo por lluvias",
+        "subtitle": "AEMET mantiene la alerta en el litoral norte de Alicante hasta las 23:59 horas del sábado 3 de octubre",
+        "summary": "El litoral norte de Alicante ha dejado atrás el aviso naranja, pero continúa en nivel amarillo por lluvias y tormentas hasta las 23:59 horas de este sábado 3 de octubre de 2026. El episodio podía dejar acumulaciones de hasta 30 litros por metro cuadrado en una hora o 60 litros en periodos de dos o tres horas.",
+        "body": "La Agencia Estatal de Meteorología (AEMET) desactivó este sábado el aviso naranja que afectaba al litoral norte de Alicante y mantuvo el nivel amarillo por lluvias y tormentas durante el resto de la jornada, hasta las 23:59 horas.\n\nSegún la previsión recogida para el episodio, los chubascos podían dejar acumulaciones de hasta 30 litros por metro cuadrado en una hora. También se contemplaban acumulaciones de hasta 60 litros por metro cuadrado en periodos de dos o tres horas.\n\nLos registros de precipitación citados por la información meteorológica reflejan acumulados destacados en distintos puntos de la comarca durante las 24 horas previas. La estación de l’Atzúbia-Rambla Gallinera registró 136 litros por metro cuadrado.\n\nEn el término de Calp, los datos atribuidos a registros de AVAMET situaron la precipitación acumulada en 25,4 litros por metro cuadrado. En el punto de Calp-Toix-Mascarat se contabilizaron 27,4 litros por metro cuadrado en ese mismo periodo.\n\nLa predicción de AEMET para la playa de Arenal-Bol incluye Calp dentro de la zona de avisos del litoral norte de Alicante y recoge la posibilidad de chubascos y tormentas fuertes y persistentes.\n\nLa evolución del episodio mantiene, por tanto, el aviso amarillo activo durante la tarde y la noche del sábado, después de la desactivación del nivel naranja.",
+        "category": "SUCESOS",
+        "slug": "calp-mantiene-aviso-amarillo-lluvias-tormentas",
+        "seo_title": "Calp mantiene el aviso amarillo por lluvias y tormentas",
+        "meta_description": "AEMET desactiva el aviso naranja en el litoral norte de Alicante, pero mantiene el nivel amarillo hasta las 23:59 del sábado.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_b46b8c3abe8b556a",
+        "editorial_notes": [
+          "Los acumulados de Calp proceden de registros de AVAMET citados por una fuente periodística, no de una tabla histórica de AEMET localizada directamente.",
+          "Se utiliza la referencia concreta de AEMET, hasta las 23:59 horas, en lugar de la expresión genérica «hasta la medianoche»."
+        ],
+        "sources": [
+          {
+            "name": "LaMarinaAlta.com",
+            "url": "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Agencia Estatal de Meteorología (AEMET)",
+            "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Agencia Estatal de Meteorología (AEMET)",
+            "url": "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
+          "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+          "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "Los acumulados de lluvia de Calp proceden de registros de AVAMET citados por la fuente periodística, no de una tabla histórica de AEMET localizada directamente.",
+            "La noticia usa “hasta la medianoche”; la referencia horaria concreta localizada es hasta las 23:59 horas."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_b46b8c3abe8b556a",
+          "quality_gate_evaluated_at": "2026-10-03T17:59:19.642Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-03T17:59:06.428Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_6452f335da467a80",
+        "title": "La Marina Alta sale del aviso naranja y mantiene el nivel amarillo por lluvias",
+        "slug": "calp-mantiene-aviso-amarillo-lluvias-tormentas",
+        "summary": "El litoral norte de Alicante ha dejado atrás el aviso naranja, pero continúa en nivel amarillo por lluvias y tormentas hasta las 23:59 horas de este sábado 3 de octubre de 2026. El episodio podía dejar acumulaciones de hasta 30 litros por metro cuadrado en una hora o 60 litros en periodos de dos o tres horas.",
+        "body": "La Agencia Estatal de Meteorología (AEMET) desactivó este sábado el aviso naranja que afectaba al litoral norte de Alicante y mantuvo el nivel amarillo por lluvias y tormentas durante el resto de la jornada, hasta las 23:59 horas.\n\nSegún la previsión recogida para el episodio, los chubascos podían dejar acumulaciones de hasta 30 litros por metro cuadrado en una hora. También se contemplaban acumulaciones de hasta 60 litros por metro cuadrado en periodos de dos o tres horas.\n\nLos registros de precipitación citados por la información meteorológica reflejan acumulados destacados en distintos puntos de la comarca durante las 24 horas previas. La estación de l’Atzúbia-Rambla Gallinera registró 136 litros por metro cuadrado.\n\nEn el término de Calp, los datos atribuidos a registros de AVAMET situaron la precipitación acumulada en 25,4 litros por metro cuadrado. En el punto de Calp-Toix-Mascarat se contabilizaron 27,4 litros por metro cuadrado en ese mismo periodo.\n\nLa predicción de AEMET para la playa de Arenal-Bol incluye Calp dentro de la zona de avisos del litoral norte de Alicante y recoge la posibilidad de chubascos y tormentas fuertes y persistentes.\n\nLa evolución del episodio mantiene, por tanto, el aviso amarillo activo durante la tarde y la noche del sábado, después de la desactivación del nivel naranja.",
+        "category": "SUCESOS",
+        "seo_title": "Calp mantiene el aviso amarillo por lluvias y tormentas",
+        "meta_description": "AEMET desactiva el aviso naranja en el litoral norte de Alicante, pero mantiene el nivel amarillo hasta las 23:59 del sábado.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_b46b8c3abe8b556a",
+        "published_at": null,
+        "source_urls": [
+          "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
+          "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+          "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03"
+        ],
+        "sources": [
+          {
+            "name": "LaMarinaAlta.com",
+            "url": "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Agencia Estatal de Meteorología (AEMET)",
+            "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Agencia Estatal de Meteorología (AEMET)",
+            "url": "https://www.aemet.es/gl/eltiempo/prediccion/playas?l=0304709&p=03",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_78ea9a63bce2e7c1",
+        "candidate_fingerprint": "9536f94bc22c6142c6576ec0f9d427c0aa089ae7c7189f94ca70ec084f86ef66",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "Los acumulados de lluvia de Calp proceden de registros de AVAMET citados por la fuente periodística, no de una tabla histórica de AEMET localizada directamente.",
+            "La noticia usa “hasta la medianoche”; la referencia horaria concreta localizada es hasta las 23:59 horas."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_b46b8c3abe8b556a",
+          "quality_gate_evaluated_at": "2026-10-03T17:59:19.642Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_2003f7d6ece94d79",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-03T17:59:19.763Z",
+      "source_draft_id": "drf_c65b5dbfb8c9af66",
+      "source_investigation_id": "inv_6209cdaa3f61e170",
+      "candidate_fingerprint": "8144acad5ed0188f49087000d43a23ec6c601e5cb0a702bfc6ae9184ef5fe181",
+      "quality_gate_id": "qg_fa707d992ef1fd8f",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_c65b5dbfb8c9af66",
+        "investigation_id": "inv_6209cdaa3f61e170",
+        "candidate_fingerprint": "8144acad5ed0188f49087000d43a23ec6c601e5cb0a702bfc6ae9184ef5fe181",
+        "title": "El Penyal d’Ifac suma 34.535 personas registradas durante el verano",
+        "subtitle": "El parque natural fue el espacio protegido con más registros de la Comunitat Valenciana entre junio y agosto de 2026",
+        "summary": "El Parque Natural del Penyal d’Ifac registró 34.535 personas entre junio y agosto de 2026, según los datos difundidos sobre la actividad de la red autonómica de parques naturales. La cifra sitúa al espacio protegido de Calp como el que acumuló más registros durante ese periodo.",
+        "body": "El Parque Natural del Penyal d’Ifac registró 34.535 personas durante los meses de junio, julio y agosto de 2026. Con esa cifra, fue el espacio natural protegido de la Comunitat Valenciana que obtuvo más registros de visitantes durante el verano, según los datos difundidos sobre la red autonómica de parques naturales.\n\nEn el conjunto de la red se contabilizaron más de 94.100 personas registradas durante esos tres meses. Otra publicación sitúa el total en 94.117 registros.\n\nLa metodología de recuento limita el alcance de estas cifras: los datos corresponden a personas atendidas o registradas en los centros de visitantes y por los educadores ambientales de los parques. Por ello, el número real de personas que acudieron a los espacios naturales puede ser superior al reflejado en los registros.\n\nLa cifra del Penyal d’Ifac no equivale, por tanto, necesariamente a un recuento completo de todas las entradas al parque. Se trata de las personas contabilizadas por los servicios de atención y educación ambiental durante el periodo estival.\n\nLos datos disponibles corresponden exclusivamente a los meses de junio, julio y agosto de 2026 y no incluyen, en este expediente, un desglose mensual del parque natural.",
+        "category": "TURISMO",
+        "slug": "penyal-ifac-34535-personas-registradas-verano-2026",
+        "seo_title": "El Penyal d’Ifac registra 34.535 personas en verano",
+        "meta_description": "El Penyal d’Ifac registró 34.535 personas entre junio y agosto de 2026 y fue el parque natural valenciano con más registros.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_fa707d992ef1fd8f",
+        "editorial_notes": [
+          "La cifra debe presentarse como personas registradas o atendidas, no como un recuento completo de visitantes, porque la metodología puede dejar fuera parte de la afluencia.",
+          "No se localizó una publicación primaria de la Generalitat o del parque con el desglose completo; el dato está respaldado por varias fuentes secundarias."
+        ],
+        "sources": [
+          {
+            "name": "Castelló Extra",
+            "url": "https://castelloextra.com/es/politica/los-parques-naturales-valencianos-han-batido-record-de-visitas-este-verano_599236_102.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER Comunitat Valenciana",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Diario de Alicante",
+            "url": "https://www.diariodealicante.net/en/Visits-to-the-region%27s-natural-parks-have-increased-by-20%25./",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://castelloextra.com/es/politica/los-parques-naturales-valencianos-han-batido-record-de-visitas-este-verano_599236_102.html",
+          "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
+          "https://www.diariodealicante.net/en/Visits-to-the-region%27s-natural-parks-have-increased-by-20%25./"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "No se encontró durante la búsqueda una publicación primaria localizada directamente en la web de la Generalitat o del Parque Natural con el desglose de 34.535 visitantes.",
+            "La expresión “visitantes” debe publicarse preferentemente como “visitas o personas registradas” para reflejar la metodología indicada por las fuentes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_fa707d992ef1fd8f",
+          "quality_gate_evaluated_at": "2026-10-03T17:59:19.642Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-03T17:59:06.428Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_c65b5dbfb8c9af66",
+        "title": "El Penyal d’Ifac suma 34.535 personas registradas durante el verano",
+        "slug": "penyal-ifac-34535-personas-registradas-verano-2026",
+        "summary": "El Parque Natural del Penyal d’Ifac registró 34.535 personas entre junio y agosto de 2026, según los datos difundidos sobre la actividad de la red autonómica de parques naturales. La cifra sitúa al espacio protegido de Calp como el que acumuló más registros durante ese periodo.",
+        "body": "El Parque Natural del Penyal d’Ifac registró 34.535 personas durante los meses de junio, julio y agosto de 2026. Con esa cifra, fue el espacio natural protegido de la Comunitat Valenciana que obtuvo más registros de visitantes durante el verano, según los datos difundidos sobre la red autonómica de parques naturales.\n\nEn el conjunto de la red se contabilizaron más de 94.100 personas registradas durante esos tres meses. Otra publicación sitúa el total en 94.117 registros.\n\nLa metodología de recuento limita el alcance de estas cifras: los datos corresponden a personas atendidas o registradas en los centros de visitantes y por los educadores ambientales de los parques. Por ello, el número real de personas que acudieron a los espacios naturales puede ser superior al reflejado en los registros.\n\nLa cifra del Penyal d’Ifac no equivale, por tanto, necesariamente a un recuento completo de todas las entradas al parque. Se trata de las personas contabilizadas por los servicios de atención y educación ambiental durante el periodo estival.\n\nLos datos disponibles corresponden exclusivamente a los meses de junio, julio y agosto de 2026 y no incluyen, en este expediente, un desglose mensual del parque natural.",
+        "category": "TURISMO",
+        "seo_title": "El Penyal d’Ifac registra 34.535 personas en verano",
+        "meta_description": "El Penyal d’Ifac registró 34.535 personas entre junio y agosto de 2026 y fue el parque natural valenciano con más registros.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_fa707d992ef1fd8f",
+        "published_at": null,
+        "source_urls": [
+          "https://castelloextra.com/es/politica/los-parques-naturales-valencianos-han-batido-record-de-visitas-este-verano_599236_102.html",
+          "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
+          "https://www.diariodealicante.net/en/Visits-to-the-region%27s-natural-parks-have-increased-by-20%25./"
+        ],
+        "sources": [
+          {
+            "name": "Castelló Extra",
+            "url": "https://castelloextra.com/es/politica/los-parques-naturales-valencianos-han-batido-record-de-visitas-este-verano_599236_102.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER Comunitat Valenciana",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/09/27/los-parques-naturales-de-la-comunitat-valenciana-registran-un-record-en-el-numero-de-visitantes-este-verano-radio-valencia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Diario de Alicante",
+            "url": "https://www.diariodealicante.net/en/Visits-to-the-region%27s-natural-parks-have-increased-by-20%25./",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_6209cdaa3f61e170",
+        "candidate_fingerprint": "8144acad5ed0188f49087000d43a23ec6c601e5cb0a702bfc6ae9184ef5fe181",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "No se encontró durante la búsqueda una publicación primaria localizada directamente en la web de la Generalitat o del Parque Natural con el desglose de 34.535 visitantes.",
+            "La expresión “visitantes” debe publicarse preferentemente como “visitas o personas registradas” para reflejar la metodología indicada por las fuentes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_fa707d992ef1fd8f",
+          "quality_gate_evaluated_at": "2026-10-03T17:59:19.642Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

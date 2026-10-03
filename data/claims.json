@@ -1,35 +1,125 @@
 {
-  "generated_at": "2026-10-03T13:25:33.981Z",
-  "count": 5,
+  "generated_at": "2026-10-03T17:58:19.476Z",
+  "count": 20,
   "claims": [
     {
-      "id": "clm_765ef96756b0bf41",
-      "investigation_id": "inv_435296886cc33056",
-      "claim": "El viernes 2 de octubre de 2026 se produjeron lluvias intensas en Calp y otros municipios de la Marina Alta.",
+      "id": "clm_288824d36e7b7b06",
+      "investigation_id": "inv_78ea9a63bce2e7c1",
+      "claim": "AEMET desactivó el aviso naranja en el litoral norte de Alicante el sábado 3 de octubre de 2026.",
       "status": "SUPPORTED"
     },
     {
-      "id": "clm_cb535607140c3c2d",
-      "investigation_id": "inv_435296886cc33056",
-      "claim": "Las lluvias provocaron inundaciones o anegamientos en calles de Calp.",
+      "id": "clm_5839e7443daec7b4",
+      "investigation_id": "inv_78ea9a63bce2e7c1",
+      "claim": "El litoral norte de Alicante mantuvo el aviso amarillo por lluvias y tormentas hasta las 23:59 horas.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_b933e683f6b9db9f",
+      "investigation_id": "inv_78ea9a63bce2e7c1",
+      "claim": "El episodio podía dejar acumulaciones de hasta 30 l/m² en una hora o 60 l/m² en dos o tres horas.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_af7fe5597f2df3d9",
+      "investigation_id": "inv_78ea9a63bce2e7c1",
+      "claim": "La estación de l’Atzúbia-Rambla Gallinera registró 136 l/m² en las 24 horas previas.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_8684ff923c41a8fe",
+      "investigation_id": "inv_78ea9a63bce2e7c1",
+      "claim": "En Calp se registraron 25,4 l/m² y en Calp-Toix-Mascarat 27,4 l/m².",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_9150214c8cce65a7",
+      "investigation_id": "inv_6209cdaa3f61e170",
+      "claim": "El Parque Natural del Penyal d’Ifac registró 34.535 visitantes entre junio y agosto de 2026.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_c67942ee937a75f4",
+      "investigation_id": "inv_6209cdaa3f61e170",
+      "claim": "Fue el espacio natural protegido con más registros de visitantes de la Comunitat Valenciana durante ese periodo.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_6a5bcc171c269823",
+      "investigation_id": "inv_6209cdaa3f61e170",
+      "claim": "La red autonómica de parques naturales superó los 94.100 visitantes registrados durante el verano.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_b5b230b891351b54",
+      "investigation_id": "inv_6209cdaa3f61e170",
+      "claim": "La cifra corresponde a personas atendidas o registradas en centros de visitantes y por educadores ambientales, por lo que el total real puede ser superior.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_ff6afaac9ad053b6",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "La Generalitat anunció una ayuda de hasta 1.000 euros para menores de 35 años que compren su primera vivienda.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_8a22ef10eaec27c6",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "La ayuda estaría destinada a gastos de notaría, registro y gestoría.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_6df98d6d6e445723",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "La Generalitat prevé ampliar hasta los 50 años la edad máxima de acceso a los avales del IVF.",
+      "status": "CONTRADICTED"
+    },
+    {
+      "id": "clm_fa7922e1e8c9fada",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "El IVF dispone en 2026 de un programa de garantías para la compra de primera vivienda.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_64c9d2ef41729cff",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "La ficha oficial localizada fija en 45 años la edad máxima general para acceder al programa de garantías IVF.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_bf6b7f8956c536cc",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "claim": "El IVF puede ampliar la financiación avalada hasta cubrir el 100% del precio de adquisición en determinadas condiciones.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_e57e2f2456820645",
+      "investigation_id": "inv_78361f26b6b00290",
+      "claim": "Se celebró una jornada de recogida de basuraleza en el entorno de Casa del Cocó y Casa Nova.",
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "clm_9e4a9573ef966335",
+      "investigation_id": "inv_78361f26b6b00290",
+      "claim": "La jornada reunió a 70 voluntarios.",
       "status": "UNVERIFIED"
     },
     {
-      "id": "clm_ce6d22e96e816076",
-      "investigation_id": "inv_435296886cc33056",
-      "claim": "La Policía Local de Calp activó o habilitó un dispositivo especial por el episodio de lluvias.",
+      "id": "clm_27d004883147f064",
+      "investigation_id": "inv_78361f26b6b00290",
+      "claim": "Se retiraron 854 kilos de residuos abandonados.",
       "status": "UNVERIFIED"
     },
     {
-      "id": "clm_a71cffdf283394e2",
-      "investigation_id": "inv_435296886cc33056",
-      "claim": "Los pasos de tráfico habilitados del barranco del Quisi fueron cerrados preventivamente.",
-      "status": "UNVERIFIED"
+      "id": "clm_0721b21c212e8232",
+      "investigation_id": "inv_78361f26b6b00290",
+      "claim": "La actividad fue impulsada por Cicloturistes de Calp y contó con colaboración municipal y de la Fundación CEPAIM.",
+      "status": "SUPPORTED"
     },
     {
-      "id": "clm_33aa0c49d26491b3",
-      "investigation_id": "inv_435296886cc33056",
-      "claim": "Existía una situación meteorológica adversa con avisos por lluvias en la Marina Alta durante el 2 de octubre de 2026.",
+      "id": "clm_ea78ca8339c5aa09",
+      "investigation_id": "inv_78361f26b6b00290",
+      "claim": "La iniciativa reclama medidas permanentes de prevención, vigilancia y control de vertidos.",
       "status": "SUPPORTED"
     }
   ]
