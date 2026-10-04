@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-03T21:19:17.688Z",
-  "count": 54,
+  "updated_at": "2026-10-04T00:40:32.606Z",
+  "count": 55,
   "articles": [
+    {
+      "archive_id": "arc_a24f91f6b64d76ea",
+      "external_id": "drf_ceca81941143de48",
+      "investigation_id": "inv_0524bdd4bbf0c504",
+      "candidate_fingerprints": [
+        "1647cf76119ec04ae3e63442f0f0f9feacdc447a0062a8b795966366042a2595"
+      ],
+      "title": "Calp celebrará la Oktoberfesters del 8 al 11 de octubre en el Parc de la Creativitat",
+      "slug": "oktoberfesters-calp-8-11-octubre-parc-creativitat",
+      "summary": "Calp acogerá la Oktoberfesters 2026 del 8 al 11 de octubre en el Parc de la Creativitat. El Ayuntamiento ha confirmado la celebración y la presentación del cartel oficial tuvo lugar el 2 de octubre, con la participación de la alcaldesa y representantes de Prefesters.",
+      "body": "La Oktoberfesters 2026 se celebrará en Calp del 8 al 11 de octubre, según la comunicación difundida por el Ayuntamiento. El evento tendrá como escenario el Parc de la Creativitat y estará organizado por los prefesteros o representantes de Prefesters.\n\nLa propuesta incluirá comida y bebida de estilo alemán y español, además de música en directo y actividades infantiles. La agenda de la empresa vinculada a la programación también anuncia gastronomía alemana, cerveza y actuaciones musicales, aunque las fuentes consultadas no detallan por completo el calendario de actividades ni los horarios de cada jornada.\n\nEl cartel oficial de la edición de 2026 fue presentado el 2 de octubre por la alcaldesa y representantes de Prefesters. El anuncio municipal sitúa la celebración entre el jueves 8 y el domingo 11 de octubre en el recinto del Parc de la Creativitat.\n\nLa convocatoria aparece asimismo en el canal oficial del Ayuntamiento y en la agenda turística de Calpe. Esta última referencia identifica el Parc de la Creativitat como el emplazamiento habitual de la Oktoberfesters, aunque la página recuperada corresponde a la edición de 2025 y no constituye la prueba principal de las fechas de 2026.\n\nPor ahora, la información difundida confirma las fechas, el lugar y los principales contenidos de la cita, pero no ofrece una programación detallada de actuaciones, horarios o actividades concretas para cada día.",
+      "category": "TURISMO",
+      "seo_title": "Oktoberfesters 2026 en Calp: fechas y lugar",
+      "meta_description": "La Oktoberfesters 2026 se celebrará del 8 al 11 de octubre en el Parc de la Creativitat de Calp, con gastronomía, música y actividades infantiles.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp / Calp Comunica",
+          "url": "https://calpcomunica.calp.es/event/oktoberfesters/?lang=es",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp — canal oficial de Telegram",
+          "url": "https://t.me/s/AyuntamientodeCalp?q=%23Fiestas",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "BrUma Eventos",
+          "url": "https://brumaof.com/eventos",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Turist Info Calpe",
+          "url": "https://calpe.es/es/eventos/oktoberfesters",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://calpcomunica.calp.es/event/oktoberfesters/?lang=es",
+        "https://t.me/s/AyuntamientodeCalp?q=%23Fiestas",
+        "https://brumaof.com/eventos",
+        "https://calpe.es/es/eventos/oktoberfesters"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La agenda de Turist Info recuperada corresponde a 2025; la confirmación de 2026 procede de Calp Comunica y del canal oficial del Ayuntamiento.",
+          "La programación detallada de actuaciones y horarios no queda completamente especificada en las fuentes consultadas."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_6fcfeac1cf08c960",
+        "quality_gate_evaluated_at": "2026-10-04T00:40:32.348Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La agenda de Turist Info recuperada corresponde a la edición de 2025 y solo sirve como contexto del emplazamiento.",
+        "La programación detallada de actuaciones y horarios no está completamente especificada en las fuentes consultadas."
+      ],
+      "published_at": "2026-10-04T00:40:19.907Z",
+      "updated_at": "2026-10-04T00:40:32.606Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_c914fbe283376b4a",
       "external_id": "drf_c65b5dbfb8c9af66",

@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-03T21:19:23.416Z",
+  "generated_at": "2026-10-04T00:40:42.855Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-03T21:19:23.236Z",
+  "last_activity": "2026-10-04T00:40:42.709Z",
   "newspaper": {
-    "archive_total": 54,
-    "published_today": 4,
-    "published_last_7_days": 27,
+    "archive_total": 55,
+    "published_today": 1,
+    "published_last_7_days": 28,
     "categories": {
-      "TURISMO": 7,
+      "TURISMO": 8,
       "ECONOMIA": 7,
       "MEDIO_AMBIENTE": 12,
       "SUCESOS": 4,
@@ -21,6 +21,13 @@
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_a24f91f6b64d76ea",
+        "title": "Calp celebrará la Oktoberfesters del 8 al 11 de octubre en el Parc de la Creativitat",
+        "category": "TURISMO",
+        "slug": "oktoberfesters-calp-8-11-octubre-parc-creativitat",
+        "published_at": "2026-10-04T00:40:19.907Z"
+      },
       {
         "archive_id": "arc_c914fbe283376b4a",
         "title": "El Penyal d’Ifac suma 34.535 personas registradas durante el verano",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
         "published_at": "2026-10-02T05:41:03.354Z"
-      },
-      {
-        "archive_id": "arc_5678de936f72f0b0",
-        "title": "Calp acogerá una intervención ambiental de las III Jornadas SAVE 2026",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-intervencion-jornadas-save-2026",
-        "published_at": "2026-10-01T23:54:45.629Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 6,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

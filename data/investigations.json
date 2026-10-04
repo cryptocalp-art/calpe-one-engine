@@ -1,66 +1,127 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-03T21:18:46.063Z",
+  "generated_at": "2026-10-04T00:39:46.575Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "79a59018acac12eaec4cace169d9333f3dfce6765b9b79f278d9e04339d906a4",
-      "title": "La alerta por lluvias baja de naranja a amarilla en la Marina Alta tras acumularse hasta 136 milímetros en 48 horas",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "be587f65e3c3b44aec85c09430cc8f2a0f622b37b15bb1bfcb8c3a0aa5fe93fe",
+      "title": "La Fiscalía pide 14 años de prisión para un acusado de agresión sexual a una menor en Calp",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La noticia queda suficientemente respaldada en sus hechos esenciales: el aviso meteorológico en el litoral norte de Alicante pasó de naranja a amarillo el sábado 3 de octubre de 2026, mientras continuaban las lluvias y tormentas. Los registros de AVAMET citados por La Marina Plaza sitúan el máximo comarcal en 136 mm en 48 horas y a Calp por encima de 50 mm en ese mismo intervalo. Una fuente independiente confirma el cambio de nivel de aviso y aporta registros de lluvia relevantes, aunque sus datos de Calp corresponden a una ventana distinta de 24 horas y no permiten verificar exactamente la tabla de 48 horas del candidato.",
+      "publishable": false,
+      "summary": "La información está respaldada por una publicación de La Marina Plaza, que atribuye los hechos y la petición de pena al Ministerio Fiscal y sitúa la vista oral en la Audiencia de Alicante el 5 de octubre de 2026. No se ha localizado una segunda fuente independiente ni una comunicación oficial de la Fiscalía o del Poder Judicial que confirme específicamente este procedimiento, por lo que no alcanza el umbral de verificación exigido.",
       "claims": [
         {
-          "claim": "El aviso por lluvias en la Marina Alta/litoral norte de Alicante bajó de nivel naranja a amarillo el sábado 3 de octubre de 2026.",
+          "claim": "La Audiencia de Alicante celebrará el 5 de octubre de 2026 una vista por un caso de presunta agresión sexual vinculado a Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El aviso amarillo se mantuvo activo por riesgo de lluvias y tormentas durante el sábado.",
+          "claim": "La Fiscalía solicita provisionalmente 14 años de prisión para el acusado.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se registraron hasta 136 mm de precipitación en 48 horas en la Marina Alta.",
+          "claim": "La víctima sería la sobrina menor de edad de la pareja del acusado y los hechos habrían ocurrido en una vivienda familiar de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Calp superó los 50 mm acumulados en 48 horas, según la tabla de AVAMET difundida por La Marina Plaza.",
+          "claim": "La acusación incluye agresión sexual continuada y grooming.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La cifra de 136 mm corresponde al máximo comarcal y no específicamente a Calp.",
+          "claim": "Los hechos habrían comenzado en 2013, cuando la menor tenía cinco años, y posteriormente el acusado le habría solicitado imágenes de contenido sexual.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Existe corroboración independiente o una fuente primaria oficial que confirme este caso concreto.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/03/piden-14-anos-de-prision-para-dos-hombres-por-agresion-sexual-a-dos-ninas-de-5-y-10-anos-en-calp-y-xabia",
+          "evidence": "Publica el 3 de octubre de 2026 que la Audiencia de Alicante juzgará el 5 de octubre un caso en el que la Fiscalía pide 14 años de prisión por delitos continuados de agresión sexual y grooming. Según el relato atribuido al Ministerio Fiscal, la víctima sería la sobrina menor de la pareja del acusado y los hechos habrían ocurrido en una vivienda familiar de Calp.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Poder Judicial de España",
+          "source_url": "https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?vgnextchannel=ea1732cd1ddaa210VgnVCM100000cb34e20aRCRD&vgnextfmt=default&vgnextlocale=es_ES&vgnextoid=43928c593893c810VgnVCM1000004648ac0aRCRD",
+          "evidence": "La búsqueda localizó una nota oficial del Poder Judicial sobre otro procedimiento de la Audiencia de Alicante relacionado con una menor y la hija de la pareja del acusado, pero no corresponde al caso de Calp descrito en el candidato. No sirve como corroboración de esta noticia.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La vista y la petición de pena son actuaciones procesales, no una condena ni una declaración judicial de culpabilidad.",
+        "La información principal procede de una única fuente secundaria y reproduce el relato de la acusación del Ministerio Fiscal.",
+        "La fuente oficial localizada del Poder Judicial trata un caso distinto y no confirma el procedimiento de octubre de 2026 en Calp."
+      ],
+      "id": "inv_9781d80bed67658c",
+      "investigated_at": "2026-10-04T00:39:46.575Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "1647cf76119ec04ae3e63442f0f0f9feacdc447a0062a8b795966366042a2595",
+      "title": "Calp celebrará la Oktoberfesters del 8 al 11 de octubre en el Parc de la Creativitat",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Ayuntamiento de Calp confirma oficialmente que la Oktoberfesters 2026 se celebrará del 8 al 11 de octubre en el Parc de la Creativitat, con comida y bebida de estilo alemán y español, música en directo y actividades infantiles. La fecha y el lugar cuentan además con corroboración de una fuente externa vinculada a la organización del evento.",
+      "claims": [
+        {
+          "claim": "La Oktoberfesters 2026 se celebrará del 8 al 11 de octubre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El evento tendrá lugar en el Parc de la Creativitat de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La organización corresponde a los prefesteros o representantes de Prefesters.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluirá gastronomía alemana y española, música en directo y actividades infantiles.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El cartel oficial fue presentado el 2 de octubre de 2026 por la alcaldesa y representantes de Prefesters.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "AEMET Comunitat Valenciana",
-          "source_url": "https://x.com/AEMET_CValencia/status/2106292384401166629",
-          "evidence": "La publicación oficial difundida el 3 de octubre indica que la adversidad meteorológica continuaba y que permanecía activo el aviso por tormentas fuertes o muy fuertes en los litorales de Castellón, València y el norte de Alicante, con posibles acumulados de 30 l/m² en una hora o 60 l/m² en dos o tres horas.",
+          "source_name": "Ayuntamiento de Calp / Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/event/oktoberfesters/?lang=es",
+          "evidence": "La comunicación municipal fechada el 2 de octubre de 2026 anuncia la presentación del cartel oficial de Oktoberfesters 2026 y señala que los prefesteros organizarán el evento del 8 al 11 de octubre en el Parc de la Creativitat, con comida y bebida alemana y española, música en directo y actividades infantiles.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-marina-alta-sale-del-aviso-naranja-pero-se-mantiene-en-alerta-tras-registrar-136-l-m%C2%B2-en-24-horas/",
-          "evidence": "Publica el 3 de octubre que AEMET había desactivado el aviso naranja en el litoral norte de Alicante y mantenía el aviso amarillo hasta las 23:59. También recoge, a partir de registros de AVAMET consultados a las 09:41, 136 l/m² en l’Atzúbia durante las últimas 24 horas y 27,4 y 25,4 l/m² en dos estaciones de Calp. Esto corrobora el cambio de alerta y la existencia de precipitaciones importantes, pero utiliza una ventana de 24 horas distinta de la tabla de 48 horas del candidato.",
+          "source_name": "Ayuntamiento de Calp — canal oficial de Telegram",
+          "source_url": "https://t.me/s/AyuntamientodeCalp?q=%23Fiestas",
+          "evidence": "El canal oficial del Ayuntamiento reproduce el anuncio de Oktoberfesters 2026 y confirma las fechas del 8 al 11 de octubre, el Parc de la Creativitat, la participación de Prefesters, la oferta gastronómica, la música en directo y las actividades infantiles.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "BrUma Eventos",
+          "source_url": "https://brumaof.com/eventos",
+          "evidence": "La agenda de la empresa vinculada a la programación anuncia el Oktoberfest de Calp del 8 al 11 de octubre de 2026 en la avenida Felipe VI, en el entorno del Parc de la Creativitat, y describe gastronomía alemana, cerveza y música en directo.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/03/la-marina-alta-acumula-hasta-136-mm-en-las-ultimas-48-horas-donde-ha-llovido-mas/",
-          "evidence": "La pieza original, publicada el 3 de octubre, atribuye a las estadísticas de AVAMET un máximo de 136 mm en 48 horas en l’Atzúvia y señala que Calp, junto con Benissa, Benitatxell y Ondara, superó los 50 mm en ese periodo.",
-          "source_type": "SECONDARY"
+          "source_name": "Turist Info Calpe",
+          "source_url": "https://calpe.es/es/eventos/oktoberfesters",
+          "evidence": "La agenda turística oficial de Calpe confirma que el Parc de la Creativitat es el lugar habitual del evento Oktoberfesters. La página recuperada corresponde a la edición de 2025, por lo que sirve como contexto del emplazamiento, no como prueba principal de las fechas de 2026.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La corroboración independiente disponible no reproduce exactamente la tabla de acumulados de 48 horas: informa de 136 mm en 24 horas en l’Atzúbia y de valores inferiores a 50 mm en las estaciones de Calp para esa ventana temporal.",
-        "No se ha localizado una página abierta de AEMET con el boletín completo; la fuente primaria identificada es la publicación oficial de AEMET Comunitat Valenciana en X, citada y enlazada por la fuente independiente.",
-        "Para publicar con máxima precisión conviene indicar que los 136 mm y los más de 50 mm en Calp corresponden a acumulados de AVAMET en 48 horas, mientras que otros registros publicados posteriormente usan una ventana de 24 horas."
+        "La agenda de Turist Info recuperada corresponde a 2025; la confirmación de 2026 procede de Calp Comunica y del canal oficial del Ayuntamiento.",
+        "La programación detallada de actuaciones y horarios no queda completamente especificada en las fuentes consultadas."
       ],
-      "id": "inv_5131fe9c5e2fb5e5",
-      "investigated_at": "2026-10-03T21:18:46.063Z",
+      "id": "inv_0524bdd4bbf0c504",
+      "investigated_at": "2026-10-04T00:39:46.575Z",
       "model": "gpt-5.6-luna"
     }
   ]
