@@ -1,94 +1,38 @@
 {
-  "generated_at": "2026-10-04T13:13:07.334Z",
-  "count": 11,
+  "generated_at": "2026-10-04T17:37:14.495Z",
+  "count": 4,
   "evidences": [
     {
-      "id": "evd_c2f07399167be3e0",
-      "investigation_id": "inv_f0139af0ad73d59a",
-      "source_name": "INE, INEbase — Medición del número de viviendas turísticas",
-      "source_url": "https://ine.es/dyngs/INEbase/listaoperaciones.html",
-      "evidence": "El INE identifica la operación estadística “Medición del número de viviendas turísticas en España y su capacidad” con periodo de referencia mayo de 2026. La página consultada no muestra la cifra específica de Calp ni el ranking provincial.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_5156bb360e63a250",
-      "investigation_id": "inv_f0139af0ad73d59a",
-      "source_name": "Periódico de Calp",
-      "source_url": "https://periodico.top/calp/viviendas-turisticas-1000hab-provincia-p1-2026-05",
-      "evidence": "Publica que Calp tendría 106,6 viviendas turísticas por cada 1.000 habitantes y el primer puesto entre 91 municipios alicantinos de más de 1.000 habitantes, atribuyendo el cálculo al INE.",
+      "id": "evd_9ff6120e4f1580b9",
+      "investigation_id": "inv_93297bb9b6d4d1ef",
+      "source_name": "Canfali Marina Alta",
+      "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
+      "evidence": "Publica el 4 de octubre de 2026 que la Policía Local de Calp habría informado de cortes del 5 al 8 de octubre en dos tramos de la calle La Niña, con un itinerario alternativo hacia Pintor Sorolla. La pieza atribuye la información a la Policía de Calp, pero no enlaza una comunicación oficial verificable.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_9fb0aedbd9e61676",
-      "investigation_id": "inv_f0139af0ad73d59a",
-      "source_name": "Observatorio de la Vivienda Turística",
-      "source_url": "https://observatorioviviendaturistica.com/datos/comunidad-valenciana/alicante/calp",
-      "evidence": "Presenta datos de viviendas turísticas de Calp referidos a mayo de 2026, pero no reproduce en la página consultada la tasa de 106,6 por cada 1.000 habitantes ni confirma el primer puesto provincial.",
+      "id": "evd_83f200961f1232ec",
+      "investigation_id": "inv_93297bb9b6d4d1ef",
+      "source_name": "Sophia-Anphis, ficha de contratación pública",
+      "source_url": "https://www.sophia-anphis.es/licitaciones/ob-08%2F2026_aor-obras-de-reparaciones-y-actuaciones-localizadas-de-pavimentacion-con-aglomerado-asfaltico-en-calp-%28alicante%29",
+      "evidence": "Recoge un contrato del Ayuntamiento de Calp para obras de reparación y mejora de pavimentos en varias calles y partidas del municipio, con periodo de ejecución del 28 de julio al 28 de octubre de 2026. La ficha no identifica la calle La Niña ni confirma los cortes anunciados.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_533c5da4da9edfce",
-      "investigation_id": "inv_55f072273aa13ac4",
-      "source_name": "INE, Metodología de Indicadores Urbanos",
-      "source_url": "https://www.ine.es/metodologia/iu/metodologia_IU.pdf",
-      "evidence": "La documentación metodológica del INE identifica Indicadores Urbanos, incluye los municipios de Calp y Orihuela en el ámbito de la operación y explica el tratamiento estadístico de los indicadores urbanos. No reproduce en las líneas consultadas el ranking completo con los porcentajes concretos.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_1553dad4887fb4b9",
-      "investigation_id": "inv_55f072273aa13ac4",
-      "source_name": "Periódico de Orihuela",
-      "source_url": "https://periodico.top/orihuela/ranking-viviendas-vacias-pct-provincia-alicante-2021",
-      "evidence": "La clasificación publicada señala que Orihuela ocupa el primer puesto provincial con el 27,2%, seguida de Calp con el 18,0%. Indica que el ranking incluye 22 municipios y que los datos proceden de Indicadores Urbanos del INE de 2021.",
+      "id": "evd_4bf17b7e862116fa",
+      "investigation_id": "inv_e9ff63e1f746dd54",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12359/fiscalia-14-anos-agresion-sexual-menor-calp",
+      "evidence": "Publica el 4 de octubre de 2026 que la Audiencia Provincial de Alicante juzgará el 5 de octubre a un hombre para quien la Fiscalía solicita provisionalmente 14 años por delitos continuados de agresión sexual y grooming. Sitúa los hechos presuntos en una vivienda familiar de Calp, señala que habrían comenzado en 2013 cuando la víctima tenía cinco años y fija el señalamiento a las 10:00 ante la Sección Décima.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_0c6ba64edf26f37f",
-      "investigation_id": "inv_55f072273aa13ac4",
-      "source_name": "Todo Pueblos",
-      "source_url": "https://todopueblos.es/municipio/calp-03710/servicios/",
-      "evidence": "Presenta para el Censo 2021 de Calp 4.777 viviendas vacías, equivalentes al 18,3% de un total de 26.156 viviendas. Esta cifra corrobora el orden de magnitud del 18% comunicado en la noticia, aunque no reproduce exactamente el porcentaje redondeado de la fuente candidata.",
+      "id": "evd_a8f8b17f2e086149",
+      "investigation_id": "inv_e9ff63e1f746dd54",
+      "source_name": "La Marina Plaza / elDiario.es",
+      "source_url": "https://lamarina.eldiario.es/ca/2026/10/03/demanen-llargues-penes-de-preso-per-a-dos-homes-per-agressio-sexual-a-dos-xiquetes-de-5-i-10-anys-a-calp-i-xabia/",
+      "evidence": "Publica el 3 de octubre de 2026 que la Fiscalía solicitará el lunes 5 de octubre 14 años de prisión para un hombre acusado de delitos continuados de agresión sexual y grooming contra la sobrina menor de su pareja sentimental, por hechos presuntamente cometidos en una vivienda familiar de Calp.",
       "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_01dca55fc1476acc",
-      "investigation_id": "inv_d1276b3fab1aa34a",
-      "source_name": "La Vanguardia",
-      "source_url": "https://www.lavanguardia.com/local/valencia/20260928/11645605/llorca-exhibe-proyecto-proximos-anos-haber-sido-ratificado-candidato.amp.html",
-      "evidence": "Informa sobre el Debate de Política General del 28 de septiembre de 2026 y recoge el anuncio de una subvención de 1.000 euros para gastos de la compra de primera vivienda para menores de 35 años, además de una nueva convocatoria de ayudas al alquiler por 60 millones de euros.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_90a35a10861d8eb6",
-      "investigation_id": "inv_d1276b3fab1aa34a",
-      "source_name": "El País",
-      "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-09-28/llorca-promete-mas-viviendas-y-matematicas-y-menos-impuestos-mientras-el-pp-sigue-sin-apoyar-su-candidatura-a-la-generalitat.html?outputType=amp",
-      "evidence": "Resume las medidas anunciadas por el president durante el debate e incluye ayudas de 1.000 euros para los gastos de compra de la primera vivienda destinadas a menores de 35 años.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_4664c58744e13275",
-      "investigation_id": "inv_d1276b3fab1aa34a",
-      "source_name": "Alicante Press",
-      "source_url": "https://alicantepress.com/art/53849/los-jovenes-que-compren-su-primera-vivienda-tendran-una-ayuda-de-1000-euros",
-      "evidence": "Detalla que el anuncio contempla una subvención de 1.000 euros para gastos de notaría, registro y gestoría de menores de 35 años que compren su primera vivienda, y que el Consell plantea elevar hasta los 50 años el acceso a los avales del IVF.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_7fe51dd4a360eac1",
-      "investigation_id": "inv_d1276b3fab1aa34a",
-      "source_name": "Generalitat Valenciana — sede electrónica, programa de garantías IVF",
-      "source_url": "https://sede.gva.es/es/detall-tramit?id_caso=a_quien&id_proc=G109432",
-      "evidence": "La ficha oficial del programa vigente para 2026 establece como requisito general tener hasta 45 años, salvo la excepción prevista para compradores afectados por la DANA. Esto indica que la ampliación anunciada hasta los 50 años aún no consta incorporada en esta convocatoria consultada.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_3364fde67db2fb36",
-      "investigation_id": "inv_d1276b3fab1aa34a",
-      "source_name": "IVF — ampliación de la dotación del programa de avales",
-      "source_url": "https://www.ivf.gva.es/es/inicio/-/asset_publisher/UJ1VvxNBuSiv/content/el-ivf-amplia-hasta-los-60-millones-de-euros-la-dotacion-del-programa-de-avales-para-la-compra-de-vivienda-en-la-comunitat-valenciana",
-      "evidence": "El IVF confirma para 2026 la ampliación de la dotación del programa hasta 60 millones de euros, el aumento de la cobertura del aval hasta el 20% y la eliminación del límite de edad para personas afectadas por la DANA. No confirma en esta nota la ampliación general hasta los 50 años.",
-      "source_type": "PRIMARY"
     }
   ]
 }

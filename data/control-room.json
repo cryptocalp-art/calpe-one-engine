@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-04T13:14:29.679Z",
+  "generated_at": "2026-10-04T17:38:01.622Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-04T13:14:29.500Z",
+  "last_activity": "2026-10-04T17:38:01.446Z",
   "newspaper": {
-    "archive_total": 57,
-    "published_today": 3,
+    "archive_total": 58,
+    "published_today": 4,
     "published_last_7_days": 27,
     "categories": {
+      "SUCESOS": 5,
       "SOCIEDAD": 8,
       "TURISMO": 8,
       "ECONOMIA": 7,
       "MEDIO_AMBIENTE": 12,
-      "SUCESOS": 4,
       "DEPORTES": 3,
       "LOCAL": 9,
       "CULTURA": 4,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_aa97edc6879491b7",
+        "title": "La Fiscalía solicita 14 años de prisión para un acusado de agredir sexualmente a una menor en Calp",
+        "category": "SUCESOS",
+        "slug": "fiscalia-pide-14-anos-agresion-sexual-menor-calp",
+        "published_at": "2026-10-04T17:37:42.518Z"
+      },
       {
         "archive_id": "arc_f7a63936ef67f36b",
         "title": "Calp ocupa el segundo puesto en Alicante por porcentaje de viviendas vacías, según datos de 2021",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-cancela-dia-de-las-aves-alerta-lluvias",
         "published_at": "2026-10-02T23:00:02.339Z"
-      },
-      {
-        "archive_id": "arc_11bd4adb967f0502",
-        "title": "AEMET activa un nuevo aviso naranja por lluvias para este sábado en la Marina Alta",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "aemet-aviso-naranja-lluvias-sabado-marina-alta",
-        "published_at": "2026-10-02T18:27:41.077Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 2
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
