@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-04T00:40:32.348Z",
+  "generated_at": "2026-10-04T06:50:52.982Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_6fcfeac1cf08c960",
-      "draft_id": "drf_ceca81941143de48",
-      "investigation_id": "inv_0524bdd4bbf0c504",
-      "candidate_fingerprint": "1647cf76119ec04ae3e63442f0f0f9feacdc447a0062a8b795966366042a2595",
-      "slug": "oktoberfesters-calp-8-11-octubre-parc-creativitat",
-      "category": "TURISMO",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": true,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 225
-      },
-      "evaluated_at": "2026-10-04T00:40:32.348Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
