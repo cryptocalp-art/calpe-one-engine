@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-04T17:37:53.264Z",
+  "generated_at": "2026-10-04T21:29:02.105Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_1233d3951194f222",
-      "draft_id": "drf_3ccef2f7979506a3",
-      "investigation_id": "inv_e9ff63e1f746dd54",
-      "candidate_fingerprint": "2a0552a8a32d8b648ca3711653bacfca11224c98833c6d85ad6bfc77358de9d8",
-      "slug": "fiscalia-pide-14-anos-agresion-sexual-menor-calp",
-      "category": "SUCESOS",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 2,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 2,
-        "distinct_evidence_hosts": 2,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 247
-      },
-      "evaluated_at": "2026-10-04T17:37:53.264Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }

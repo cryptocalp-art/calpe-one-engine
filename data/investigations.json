@@ -1,113 +1,87 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-04T17:37:14.495Z",
+  "generated_at": "2026-10-04T21:28:33.369Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "e15eafaf7ca7766383835f3c85e27f2c2db1fd23cc7c01aa20425480fe7d7b93",
-      "title": "Cortes de tráfico en Calp del 5 al 8 de octubre por obras en la calle La Niña",
+      "candidate_fingerprint": "e4e19cca3f72c03a38357d0683d0a5bc017b7093aa43e20c363c4b1fa16ef0fe",
+      "title": "La Generalitat sitúa antes de final de 2026 la finalización prevista del IES Les Salines y del CEE Gargasindi",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La información aparece publicada por Canfali y es parcialmente compatible con un expediente de obras de pavimentación del Ayuntamiento de Calp, pero no se ha localizado una comunicación oficial ni una segunda fuente independiente que confirme los cortes concretos, sus fechas, los tramos afectados y el desvío anunciado.",
+      "summary": "La previsión de que ambos equipamientos estén terminados antes de finalizar 2026 está respaldada por antecedentes oficiales del Ayuntamiento de Calp y por información posterior sobre el calendario del IES Les Salines. Sin embargo, no se ha localizado una fuente primaria de la Generalitat que confirme directamente ese plazo. La información de Cadena SER atribuye la previsión a declaraciones de los diputados autonómicos del PP, por lo que el titular sobre una decisión o posicionamiento directo de la Generalitat resulta más amplio que la evidencia disponible.",
       "claims": [
         {
-          "claim": "Habrá cortes de tráfico en la calle La Niña entre el lunes 5 y el jueves 8 de octubre de 2026 por trabajos de reparación del pavimento.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Los cortes afectarán al tramo entre la calle Alemania y la avenida Europa.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "También se interrumpirá la circulación entre la avenida Ejércitos Españoles y la calle Pintor Sorolla.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Se habilitará un desvío desde la avenida Europa para acceder a la calle Pintor Sorolla.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Ayuntamiento de Calp tiene contratadas obras de reparación y mejora de pavimentos con ejecución prevista entre el 28 de julio y el 28 de octubre de 2026.",
+          "claim": "El nuevo IES Les Salines de Calp y el CEE Gargasindi son proyectos educativos en ejecución vinculados al Pla Edificant.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento de Calp adjudicó las obras del IES Les Salines con un plazo de ejecución de 24 meses y las del CEE Gargasindi con un plazo de 15 meses.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento de Calp comunicó en octubre de 2024 que ambos proyectos podían estar ejecutados a finales de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "En mayo de 2026 se informó de que el IES Les Salines tenía prevista la recepción de las obras en diciembre de 2026 y la apertura el 7 de enero de 2027, tras las vacaciones navideñas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Cadena SER informó el 18 de septiembre de 2026 de que los diputados autonómicos del PP situaban la terminación de ambos centros antes de acabar 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Generalitat Valenciana, como institución, ha confirmado directamente ese calendario para los dos centros.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El CEE Gargasindi estaba ya terminado antes del 4 de octubre de 2026.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Canfali Marina Alta",
-          "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
-          "evidence": "Publica el 4 de octubre de 2026 que la Policía Local de Calp habría informado de cortes del 5 al 8 de octubre en dos tramos de la calle La Niña, con un itinerario alternativo hacia Pintor Sorolla. La pieza atribuye la información a la Policía de Calp, pero no enlaza una comunicación oficial verificable.",
+          "source_name": "Ayuntamiento de Calp — adjudicación de las obras del nuevo IES y el CEE Gargasindi",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-adjudica-las-obras-del-nuevo-ies-y-el-cee-gargasindi",
+          "evidence": "El Ayuntamiento informa de la adjudicación del IES Les Salines por 14.748.935,36 euros y 24 meses de ejecución, y del CEE Gargasindi por 7.055.799,57 euros y 15 meses. La nota fija como objetivo que las obras estén ejecutadas a finales de 2026, aunque lo formula como previsión condicionada a que no haya contingencias.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — inicio de las obras del segundo IES",
+          "source_url": "https://noticias.calp.es/es/noticia/las-obras-del-segundo-ies-comenzar%C3%A1n-el-pr%C3%B3ximo-9-de-diciembre",
+          "evidence": "El Ayuntamiento señala que las obras del IES Les Salines comenzaron el 9 de diciembre de 2024, con un plazo de 24 meses, y que el centro podía estar acabado antes de finalizar 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — inicio de las obras del CEE Gargasindi",
+          "source_url": "https://noticias.calp.es/es/noticia/las-obras-del-nuevo-cee-gargasindi-comenzar%C3%A1n-el-9-de-diciembre",
+          "evidence": "El Ayuntamiento comunica que las obras del CEE Gargasindi comenzaron el 9 de diciembre de 2024, con un plazo de 15 meses, y que se esperaba su apertura para el curso 2026/2027.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "MarinaAlta.es — apertura prevista del IES Les Salines en enero de 2027",
+          "source_url": "https://marinaalta.es/2026/05/el-nuevo-ies-les-salines-de-calp-abrira-en-enero-de-2027/",
+          "evidence": "La información recoge una visita técnica del 26 de mayo de 2026 con participación de la Dirección Territorial de Educación de Alicante, el equipo directivo, la constructora y responsables municipales. Sitúa la recepción oficial de las obras en diciembre de 2026 y la apertura del instituto el 7 de enero de 2027, después del traslado durante las vacaciones de Navidad.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Sophia-Anphis, ficha de contratación pública",
-          "source_url": "https://www.sophia-anphis.es/licitaciones/ob-08%2F2026_aor-obras-de-reparaciones-y-actuaciones-localizadas-de-pavimentacion-con-aglomerado-asfaltico-en-calp-%28alicante%29",
-          "evidence": "Recoge un contrato del Ayuntamiento de Calp para obras de reparación y mejora de pavimentos en varias calles y partidas del municipio, con periodo de ejecución del 28 de julio al 28 de octubre de 2026. La ficha no identifica la calle La Niña ni confirma los cortes anunciados.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "No se localizó una nota oficial del Ayuntamiento de Calp o de la Policía Local que confirme los cortes concretos.",
-        "La existencia de un contrato general de pavimentación no demuestra que las obras de la calle La Niña estuvieran programadas para esas fechas.",
-        "La fuente principal localizada es una única publicación periodística; la imagen atribuida a la Policía Local no constituye por sí sola una fuente primaria verificable."
-      ],
-      "id": "inv_93297bb9b6d4d1ef",
-      "investigated_at": "2026-10-04T17:37:14.495Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "2a0552a8a32d8b648ca3711653bacfca11224c98833c6d85ad6bfc77358de9d8",
-      "title": "La Fiscalía pide 14 años de prisión para un acusado de agredir sexualmente a una menor en Calp",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "Dos medios locales independientes coinciden en los elementos esenciales: la Fiscalía solicita provisionalmente 14 años de prisión, el acusado será juzgado el 5 de octubre de 2026 por la Sección Décima de la Audiencia Provincial de Alicante y los hechos investigados estarían relacionados con una menor vinculada familiarmente a la pareja del acusado y con episodios presuntamente cometidos en Calp. No se ha localizado el escrito oficial de acusación, por lo que los detalles deben atribuirse expresamente a la Fiscalía y presentarse como presuntos.",
-      "claims": [
-        {
-          "claim": "La Fiscalía solicita provisionalmente 14 años de prisión.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El juicio está señalado para el lunes 5 de octubre de 2026 a las 10:00 ante la Sección Décima de la Audiencia Provincial de Alicante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El acusado está siendo juzgado por delitos continuados de agresión sexual y grooming contra una menor.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Según la acusación fiscal, los hechos comenzaron en 2013, cuando la menor tenía cinco años, y habrían ocurrido en una vivienda familiar de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía sostiene que el contacto continuó después de que la menor se trasladara con su familia fuera de España y que se solicitaron o enviaron imágenes de contenido sexual.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12359/fiscalia-14-anos-agresion-sexual-menor-calp",
-          "evidence": "Publica el 4 de octubre de 2026 que la Audiencia Provincial de Alicante juzgará el 5 de octubre a un hombre para quien la Fiscalía solicita provisionalmente 14 años por delitos continuados de agresión sexual y grooming. Sitúa los hechos presuntos en una vivienda familiar de Calp, señala que habrían comenzado en 2013 cuando la víctima tenía cinco años y fija el señalamiento a las 10:00 ante la Sección Décima.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/03/demanen-llargues-penes-de-preso-per-a-dos-homes-per-agressio-sexual-a-dos-xiquetes-de-5-i-10-anys-a-calp-i-xabia/",
-          "evidence": "Publica el 3 de octubre de 2026 que la Fiscalía solicitará el lunes 5 de octubre 14 años de prisión para un hombre acusado de delitos continuados de agresión sexual y grooming contra la sobrina menor de su pareja sentimental, por hechos presuntamente cometidos en una vivienda familiar de Calp.",
+          "source_name": "Cadena SER Radio Dénia — El PP pone fecha a varias infraestructuras educativas pendientes en la Marina Alta",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia",
+          "evidence": "La emisora informa de que los diputados autonómicos Noelia Císcar y Javier Gutiérrez afirmaron que el nuevo IES Les Salines y el CEE Gargasindi deberían estar terminados antes de que acabara 2026. La fuente presenta el plazo como una previsión defendida por esos diputados, no como una resolución o comunicado directo de la Generalitat.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La petición de 14 años es provisional y no equivale a una condena.",
-        "Los hechos descritos proceden de la versión de la Fiscalía y deben atribuirse como acusación, sin presentarlos como hechos probados.",
-        "No se ha encontrado públicamente el escrito de acusación ni una comunicación oficial de la Audiencia Provincial que permita verificar todos los detalles narrativos.",
-        "Debe evitarse cualquier dato que pueda identificar a la menor o al acusado."
+        "No se ha encontrado una comunicación primaria de la Generalitat Valenciana que confirme expresamente la fecha de finalización de ambos centros.",
+        "La evidencia posterior localizada aporta una fecha concreta para el IES Les Salines —recepción en diciembre de 2026 y apertura el 7 de enero de 2027—, pero no una actualización equivalente sobre el estado final del CEE Gargasindi a fecha 4 de octubre de 2026.",
+        "La atribución institucional del candidato es imprecisa: la noticia de Cadena SER recoge declaraciones de diputados del PP, mientras que las previsiones de calendario localizadas en fuentes primarias proceden principalmente del Ayuntamiento de Calp.",
+        "Para elevar el candidato a VERIFIED sería necesario localizar un comunicado, expediente, declaración oficial o actualización de obra de la Generalitat que confirme el plazo de ambos proyectos, especialmente el del CEE Gargasindi."
       ],
-      "id": "inv_e9ff63e1f746dd54",
-      "investigated_at": "2026-10-04T17:37:14.495Z",
+      "id": "inv_460b8f65bed71740",
+      "investigated_at": "2026-10-04T21:28:33.369Z",
       "model": "gpt-5.6-luna"
     }
   ]
