@@ -3,9 +3,144 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-04T00:40:32.606Z",
-  "count": 55,
+  "updated_at": "2026-10-04T13:14:15.132Z",
+  "count": 57,
   "articles": [
+    {
+      "archive_id": "arc_f7a63936ef67f36b",
+      "external_id": "drf_91549319cb88389f",
+      "investigation_id": "inv_55f072273aa13ac4",
+      "candidate_fingerprints": [
+        "e3dec3d18dc5827f5216a2d35f174799792ab1c5e079d5184140479d4c10547c"
+      ],
+      "title": "Calp ocupa el segundo puesto en Alicante por porcentaje de viviendas vacías, según datos de 2021",
+      "slug": "calp-segundo-municipio-alicante-viviendas-vacias",
+      "summary": "Calp aparece como el segundo municipio de la provincia de Alicante con mayor porcentaje de viviendas vacías, con alrededor del 18% del parque residencial, según una clasificación basada en los Indicadores Urbanos del Instituto Nacional de Estadística (INE) correspondientes a 2021. Orihuela encabeza ese listado, con un 27,2%.",
+      "body": "Los datos sitúan a Calp en la segunda posición entre los municipios alicantinos incluidos en la clasificación de viviendas vacías. El porcentaje atribuido al municipio es del 18,0%, una cifra que debe entenderse como aproximada al existir otra presentación de los datos del Censo 2021 que lo eleva al 18,3%.\\n\\nLa clasificación señala que el primer puesto corresponde a Orihuela, con el 27,2%, y que el listado reúne a 22 municipios. La documentación metodológica del INE identifica la operación de Indicadores Urbanos y contempla a Calp y Orihuela dentro de su ámbito, aunque la evidencia consultada no reproduce directamente el ranking completo con sus porcentajes.\\n\\nOtra fuente que presenta los datos del Censo 2021 para Calp cifra en 4.777 las viviendas vacías, sobre un total de 26.156 viviendas, lo que equivale al 18,3%. La diferencia frente al 18,0% de la clasificación puede responder al redondeo o al denominador utilizado en cada presentación.\\n\\nPor tanto, la posición de Calp y el orden de magnitud del porcentaje están respaldados por los datos difundidos, pero el ranking no aparece en la documentación del INE recuperada como una clasificación publicada directamente por el instituto. El dato corresponde a 2021 y no permite extraer conclusiones sobre la evolución posterior del parque residencial.",
+      "category": "SOCIEDAD",
+      "seo_title": "Calp, segundo municipio de Alicante por viviendas vacías",
+      "meta_description": "Calp figura segundo entre los municipios alicantinos incluidos en una clasificación basada en datos de 2021, con cerca del 18% de viviendas vacías.",
+      "sources": [
+        {
+          "name": "INE, Metodología de Indicadores Urbanos",
+          "url": "https://www.ine.es/metodologia/iu/metodologia_IU.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Periódico de Orihuela",
+          "url": "https://periodico.top/orihuela/ranking-viviendas-vacias-pct-provincia-alicante-2021",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Todo Pueblos",
+          "url": "https://todopueblos.es/municipio/calp-03710/servicios/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.ine.es/metodologia/iu/metodologia_IU.pdf",
+        "https://periodico.top/orihuela/ranking-viviendas-vacias-pct-provincia-alicante-2021",
+        "https://todopueblos.es/municipio/calp-03710/servicios"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 3,
+        "evidence_count": 3,
+        "caveats": [
+          "Existe una pequeña diferencia entre el 18,0% del ranking citado y el 18,3% de otra presentación de los datos del Censo 2021; debe tratarse como un porcentaje aproximado o explicarse la metodología/denominador.",
+          "La posición segunda se basa en una clasificación elaborada a partir de datos oficiales, no en un ranking publicado directamente por el INE en la evidencia recuperada."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_bc398e1aaa4ffbb1",
+        "quality_gate_evaluated_at": "2026-10-04T13:14:14.796Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Mantener la referencia temporal a 2021.",
+        "Presentar el 18% como cifra aproximada por la diferencia con el 18,3% de otra fuente.",
+        "Aclarar que la segunda posición procede de una clasificación secundaria basada en datos del INE, no de un ranking publicado directamente por el INE en la evidencia consultada."
+      ],
+      "published_at": "2026-10-04T13:14:01.963Z",
+      "updated_at": "2026-10-04T13:14:15.132Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
+    {
+      "archive_id": "arc_98d3d32feebbd16c",
+      "external_id": "drf_d7795e2e4752c7cd",
+      "investigation_id": "inv_d1276b3fab1aa34a",
+      "candidate_fingerprints": [
+        "edb7deaaa0988b93607ac8420b31a1f3edcf42080a77ac085c2132564a7532fe"
+      ],
+      "title": "La Generalitat anuncia una ayuda de 1.000 euros para la primera vivienda de menores de 35 años",
+      "slug": "generalitat-anuncia-ayuda-1000-euros-primera-vivienda",
+      "summary": "La Generalitat anunció durante el Debate de Política General del 28 de septiembre una ayuda de 1.000 euros para menores de 35 años que compren su primera vivienda. Según lo difundido, la subvención se destinaría a cubrir gastos de notaría, registro y gestoría vinculados a la operación.",
+      "body": "La medida fue presentada como una ayuda para facilitar el acceso a la primera vivienda entre las personas menores de 35 años. El anuncio contempla una subvención de 1.000 euros destinada a gastos asociados a la compra, concretamente los de notaría, registro y gestoría.\\n\\nEl Consell también anunció su intención de ampliar hasta los 50 años la edad máxima para acceder a los avales del Instituto Valenciano de Finanzas (IVF). No obstante, la ficha oficial consultada del programa de garantías para 2026 mantiene con carácter general el límite en 45 años, con una excepción prevista para compradores afectados por la DANA.\\n\\nPor ello, tanto la ayuda de 1.000 euros como la ampliación de la edad de acceso a los avales deben presentarse todavía como anuncios y no como medidas ya disponibles para su solicitud. En las fuentes oficiales consultadas no consta una convocatoria abierta de la subvención, ni sus requisitos concretos, plazo o procedimiento de tramitación.\\n\\nEl IVF sí ha confirmado para 2026 una dotación de 60 millones de euros para su programa de avales, así como una cobertura del aval de hasta el 20% y la eliminación del límite de edad para las personas afectadas por la DANA. La nota oficial consultada no confirma, sin embargo, la ampliación general del límite hasta los 50 años.\\n\\nLa Generalitat anunció además una nueva convocatoria de ayudas al alquiler. La información difundida la vincula a una dotación de 60 millones de euros, aunque el expediente consultado no aporta los requisitos ni el calendario de esa futura convocatoria.",
+      "category": "SOCIEDAD",
+      "seo_title": "La Generalitat anuncia 1.000 euros para la primera vivienda",
+      "meta_description": "La Generalitat anuncia una ayuda de 1.000 euros para menores de 35 años que compren su primera vivienda, aún sin convocatoria abierta.",
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/local/valencia/20260928/11645605/llorca-exhibe-proyecto-proximos-anos-haber-sido-ratificado-candidato.amp.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "El País",
+          "url": "https://elpais.com/espana/comunidad-valenciana/2026-09-28/llorca-promete-mas-viviendas-y-matematicas-y-menos-impuestos-mientras-el-pp-sigue-sin-apoyar-su-candidatura-a-la-generalitat.html?outputType=amp",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Alicante Press",
+          "url": "https://alicantepress.com/art/53849/los-jovenes-que-compren-su-primera-vivienda-tendran-una-ayuda-de-1000-euros",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Generalitat Valenciana — sede electrónica, programa de garantías IVF",
+          "url": "https://sede.gva.es/es/detall-tramit?id_caso=a_quien&id_proc=G109432",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "IVF — ampliación de la dotación del programa de avales",
+          "url": "https://www.ivf.gva.es/es/inicio/-/asset_publisher/UJ1VvxNBuSiv/content/el-ivf-amplia-hasta-los-60-millones-de-euros-la-dotacion-del-programa-de-avales-para-la-compra-de-vivienda-en-la-comunitat-valenciana",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.lavanguardia.com/local/valencia/20260928/11645605/llorca-exhibe-proyecto-proximos-anos-haber-sido-ratificado-candidato.amp.html",
+        "https://elpais.com/espana/comunidad-valenciana/2026-09-28/llorca-promete-mas-viviendas-y-matematicas-y-menos-impuestos-mientras-el-pp-sigue-sin-apoyar-su-candidatura-a-la-generalitat.html?outputType=amp",
+        "https://alicantepress.com/art/53849/los-jovenes-que-compren-su-primera-vivienda-tendran-una-ayuda-de-1000-euros",
+        "https://sede.gva.es/es/detall-tramit?id_caso=a_quien&id_proc=G109432",
+        "https://www.ivf.gva.es/es/inicio/-/asset_publisher/UJ1VvxNBuSiv/content/el-ivf-amplia-hasta-los-60-millones-de-euros-la-dotacion-del-programa-de-avales-para-la-compra-de-vivienda-en-la-comunitat-valenciana"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 5,
+        "caveats": [
+          "Debe diferenciarse entre anuncio político y convocatoria o ayuda efectivamente abierta.",
+          "La ficha oficial consultada del IVF mantiene el límite general en 45 años; la ampliación a 50 años requiere una nueva convocatoria, modificación normativa o confirmación oficial posterior.",
+          "La ayuda de 1.000 euros no aparece, en las fuentes oficiales recuperadas, como convocatoria abierta con requisitos, plazo y procedimiento de solicitud."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_594d4e041ffa3c72",
+        "quality_gate_evaluated_at": "2026-10-04T13:14:14.796Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Diferenciar claramente el anuncio político de una ayuda efectivamente convocada.",
+        "No presentar como vigente la ampliación de los avales del IVF hasta los 50 años: la ficha oficial consultada mantiene el límite general en 45.",
+        "No añadir requisitos, plazos ni procedimiento de solicitud, porque no constan en las evidencias recuperadas."
+      ],
+      "published_at": "2026-10-04T13:14:01.963Z",
+      "updated_at": "2026-10-04T13:14:15.132Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_a24f91f6b64d76ea",
       "external_id": "drf_ceca81941143de48",

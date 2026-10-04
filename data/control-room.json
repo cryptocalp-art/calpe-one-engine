@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-04T06:50:56.886Z",
+  "generated_at": "2026-10-04T13:14:29.679Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-04T06:50:56.768Z",
+  "last_activity": "2026-10-04T13:14:29.500Z",
   "newspaper": {
-    "archive_total": 55,
-    "published_today": 1,
+    "archive_total": 57,
+    "published_today": 3,
     "published_last_7_days": 27,
     "categories": {
+      "SOCIEDAD": 8,
       "TURISMO": 8,
       "ECONOMIA": 7,
       "MEDIO_AMBIENTE": 12,
@@ -17,10 +18,23 @@
       "DEPORTES": 3,
       "LOCAL": 9,
       "CULTURA": 4,
-      "SOCIEDAD": 6,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_f7a63936ef67f36b",
+        "title": "Calp ocupa el segundo puesto en Alicante por porcentaje de viviendas vacías, según datos de 2021",
+        "category": "SOCIEDAD",
+        "slug": "calp-segundo-municipio-alicante-viviendas-vacias",
+        "published_at": "2026-10-04T13:14:01.963Z"
+      },
+      {
+        "archive_id": "arc_98d3d32feebbd16c",
+        "title": "La Generalitat anuncia una ayuda de 1.000 euros para la primera vivienda de menores de 35 años",
+        "category": "SOCIEDAD",
+        "slug": "generalitat-anuncia-ayuda-1000-euros-primera-vivienda",
+        "published_at": "2026-10-04T13:14:01.963Z"
+      },
       {
         "archive_id": "arc_a24f91f6b64d76ea",
         "title": "Calp celebrará la Oktoberfesters del 8 al 11 de octubre en el Parc de la Creativitat",
@@ -62,30 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "aemet-aviso-naranja-lluvias-sabado-marina-alta",
         "published_at": "2026-10-02T18:27:41.077Z"
-      },
-      {
-        "archive_id": "arc_e32437584f94a2d4",
-        "title": "Calp presenta su estrategia ambiental “Calp Blau” en el Congreso Internacional Bandera Azul",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-presenta-calp-blau-en-el-congreso-bandera-azul",
-        "published_at": "2026-10-02T12:39:24.061Z"
-      },
-      {
-        "archive_id": "arc_b5831b7184cbf59a",
-        "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
-        "category": "SUCESOS",
-        "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
-        "published_at": "2026-10-02T05:41:03.354Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 3,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
