@@ -1,121 +1,142 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-05T07:05:27.727Z",
+  "generated_at": "2026-10-05T16:03:11.929Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "51123e903dd3f20aea3b5548dcf30b40294c9c1815bcc959c6dda547bf581f7c",
-      "title": "Una tromba de agua anega calles y obliga a cerrar los pasos del barranco del Quisi en Calp",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
+      "title": "Calp lleva al Parlamento Europeo su rechazo a la ampliación de la piscifactoría frente a sus costas",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La noticia original informa de lluvias intensas en Calp, un dispositivo especial de la Policía Local y el cierre de los pasos habilitados del barranco del Quisi. La existencia del episodio meteorológico está corroborada por avisos oficiales y comunicaciones municipales, pero no se ha localizado una fuente independiente que confirme específicamente el cierre de esos pasos ni el dispositivo policial descrito.",
+      "publishable": true,
+      "summary": "La noticia está suficientemente corroborada: Cadena SER informa de la intervención del concejal Marco Bittner en una mesa celebrada en el Parlamento Europeo durante la Ocean Week 2026; la agenda oficial de Ocean Week confirma la celebración del evento el 30 de septiembre de 2026 y otro medio independiente, El Periòdic, coincide en los elementos principales. La ampliación de 12 a 45 jaulas y la capacidad de 3.000 toneladas anuales también cuentan con antecedentes documentados por el Ayuntamiento de Calp y Cadena SER. No obstante, algunas cifras adicionales incluidas en la pieza de SER —como el consumo de pienso, el estudio económico y el material grabado por voluntarios— no quedan plenamente verificadas por fuentes primarias independientes.",
       "claims": [
         {
-          "claim": "El 2 de octubre de 2026 se registró un episodio de lluvias intensas en Calp y la Marina Alta.",
+          "claim": "El Ayuntamiento de Calp trasladó al Parlamento Europeo su oposición a la ampliación de la piscifactoría mediante la participación del concejal Marco Bittner en Bruselas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Policía Local de Calp activó o habilitó un dispositivo especial por el episodio de lluvias.",
+          "claim": "La intervención tuvo lugar en la mesa redonda “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security”, celebrada durante la Ocean Week 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La ampliación autorizada contempla pasar de 12 a 45 jaulas y alcanzar una capacidad máxima de 3.000 toneladas anuales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento reclamó controles ambientales independientes y una mayor participación de los municipios costeros en la ordenación del espacio marítimo.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La piscifactoría puede generar efectos económicos y ambientales sobre Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El informe de vigilancia ambiental de 2024 registró cerca de 4.800 toneladas de pienso, incluidas 23 toneladas de pienso medicamentoso.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "Los pasos de tráfico habilitados del barranco del Quisi fueron cerrados preventivamente.",
+          "claim": "Un estudio de la Universidad de Alicante cifra las posibles pérdidas económicas para Calp entre 83 y 911 millones de euros en diez años.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La alerta meteorológica oficial contemplaba lluvias intensas en el litoral norte de Alicante el 2 de octubre de 2026.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/02/una-tromba-daigua-anega-carrers-i-obliga-a-tallar-carreteres-a-pego-denia-i-calp",
-          "evidence": "Informa de precipitaciones intensas en la Marina Alta y afirma que en Calp la Policía Local habilitó un dispositivo especial y que fueron cerrados los pasos de tráfico del barranco del Quisi. Es la fuente directa de los hechos específicos, pero no constituye corroboración independiente.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Agencia Estatal de Meteorología (AEMET)",
-          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
-          "evidence": "Recoge para el 2 de octubre de 2026 un aviso de nivel importante por lluvias en el litoral norte de Alicante, con una previsión de hasta 50 milímetros en una hora.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp / Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/",
-          "evidence": "El Ayuntamiento comunicó el 2 de octubre la cancelación de actos por las lluvias y la alerta naranja prevista para el día siguiente, confirmando la existencia de un episodio meteorológico adverso en esas fechas, pero sin mencionar el barranco del Quisi ni sus pasos de tráfico.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12348/alerta-proteccion-civil-movil-lluvias-calp",
-          "evidence": "Informa de un aviso de Protección Civil por lluvias fuertes en la Marina Alta y recomienda evitar desplazamientos, zonas inundables y barrancos, así como respetar los cortes de tráfico y las indicaciones de emergencias. No identifica expresamente los pasos del Quisi.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración disponible acredita el episodio de lluvias y las advertencias generales de Protección Civil, pero no confirma de forma independiente el cierre concreto de los pasos del barranco del Quisi.",
-        "Conviene obtener un comunicado, parte o registro de la Policía Local, del Ayuntamiento o de Emergencias que documente el dispositivo y el cierre antes de publicar la noticia como plenamente verificada."
-      ],
-      "id": "inv_b111511312e7587d",
-      "investigated_at": "2026-10-05T07:05:27.727Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "46f72eedc655ca833787064b50d2bcf0a410ac1d1dac0f33b7f546c8b1da28b3",
-      "title": "La Generalitat sitúa antes de final de 2026 la finalización del IES Les Salines y del CEE Gargasindi de Calp",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La Cadena SER sí documenta que los diputados autonómicos del PP Noelia Císcar y Javier Gutiérrez afirmaron que el IES Les Salines y el CEE Gargasindi deberían estar terminados antes de acabar 2026. Además, un comunicado oficial del Ayuntamiento de Calp ya situó condicionalmente la ejecución de ambos proyectos a finales de 2026. No se ha localizado, sin embargo, una fuente primaria de la Generalitat que permita atribuirle directamente ese calendario en septiembre de 2026.",
-      "claims": [
-        {
-          "claim": "Los diputados autonómicos del PP Noelia Císcar y Javier Gutiérrez afirmaron el 18 de septiembre de 2026 que ambos centros deberían estar terminados antes de finalizar 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Generalitat Valenciana ha fijado oficialmente ese plazo para la finalización de las obras.",
+          "claim": "El Ayuntamiento mantiene pendiente un recurso contencioso-administrativo contra la ampliación.",
           "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Ayuntamiento de Calp adjudicó las obras del IES Les Salines y del CEE Gargasindi y comunicó en octubre de 2024 que, sin contingencias y con normalidad, podrían estar ejecutadas a finales de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo es compatible con los contratos adjudicados: 24 meses para el IES Les Salines y 15 meses para el CEE Gargasindi.",
-          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
           "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia/",
-          "evidence": "Publica que los diputados autonómicos populares Noelia Císcar y Javier Gutiérrez aseguraron durante una entrevista que el nuevo IES Les Salines de Calp y el Centro de Educación Especial Gargasindi deberían estar terminados antes de que acabara 2026.",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+          "evidence": "Informa de que el concejal Marco Bittner participó en Bruselas en la mesa redonda de la Ocean Week 2026, expuso la posición del consistorio sobre la piscifactoría y reclamó vigilancia ambiental independiente y mayor participación municipal. También recoge las cifras de 45 jaulas y 3.000 toneladas anuales.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-adjudica-las-obras-del-nuevo-ies-y-el-cee-gargasindi",
-          "evidence": "Informa de la adjudicación del IES Les Salines a Vialterra por 14.748.935,36 euros y 24 meses de ejecución, y del CEE Gargasindi a Orthem por 7.055.799,57 euros y 15 meses. La alcaldesa declaró que, si no sufrían contingencias y el proceso avanzaba con normalidad, ambos proyectos estarían a finales de 2026.",
+          "source_name": "El Periòdic",
+          "source_url": "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+          "evidence": "Confirma de forma independiente que Calp trasladó al Parlamento Europeo su oposición a la ampliación, que Marco Bittner intervino en la mesa redonda de Bruselas y que la ampliación supone pasar de 12 a 45 jaulas y alcanzar 3.000 toneladas anuales.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ocean Week",
+          "source_url": "https://www.oceanweek.eu/week-schedule",
+          "evidence": "La agenda del evento incluye la mesa redonda “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security” el miércoles 30 de septiembre de 2026, dentro de la programación de Ocean Week.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "MarinaAlta.es / Dénia FM",
-          "source_url": "https://marinaalta.es/ca/2024/12/primera-pedra-del-nou-cee-gargasindi-i-ies-les-salines-a-calp/",
-          "evidence": "Informa del inicio simbólico de los proyectos y señala que para el CEE Gargasindi se preveía un plazo de ejecución de 15 meses y la apertura del centro para el curso 2026/2027, según la empresa adjudicataria.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+          "evidence": "La información municipal documenta la oposición de Calp a la ampliación y describe el aumento previsto de 12 a 45 jaulas, además de mencionar impactos económicos y ambientales alegados por el consistorio.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Litoral",
+          "source_url": "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html",
+          "evidence": "Recoge la resolución ambiental de 2021 que permitió aumentar la instalación de 12 a 45 jaulas y alcanzar una capacidad máxima de producción de 3.000 toneladas de pescado al año.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente de septiembre atribuye el calendario a declaraciones de diputados del PP, no a una resolución, anuncio o calendario oficial localizado de la Generalitat.",
-        "El comunicado municipal de 2024 formuló el objetivo de finales de 2026 de manera condicional, sujeto a que no hubiera contingencias y el proceso transcurriera con normalidad.",
-        "Para publicar el titular tal como está redactado sería necesario localizar una fuente primaria de la Generalitat que confirme que el plazo lo ha fijado formalmente el Consell o la conselleria competente."
+        "La corroboración del acto de Bruselas procede de medios y de la agenda de Ocean Week, pero no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal de 5 de octubre de 2026.",
+        "Las cifras sobre pienso, pérdidas económicas, material orgánico y situación procesal del recurso deben verificarse con el informe ambiental, el estudio universitario y el expediente administrativo o judicial originales antes de presentarlas como hechos concluyentes.",
+        "La expresión “autorizada” está respaldada por antecedentes periodísticos y municipales, pero la resolución administrativa concreta no se ha localizado en esta búsqueda."
       ],
-      "id": "inv_18c2ca3e04d8218f",
-      "investigated_at": "2026-10-05T07:05:27.727Z",
+      "id": "inv_4ef8cb1ff4c24b19",
+      "investigated_at": "2026-10-05T16:03:11.929Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d8c93b6a378c02eb463cbc79c23c2e8a0282da27722b1d09266ed6261aa8ba42",
+      "title": "Cortes de tráfico en la calle La Niña de Calp del 5 al 8 de octubre por obras",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "LOW",
+      "publishable": false,
+      "summary": "La información solo ha sido localizada en Canfali, que atribuye el aviso a la Policía Local y reproduce una imagen cortesía de ese cuerpo. No se ha encontrado durante la búsqueda un aviso independiente del Ayuntamiento, de la Policía Local o de otro medio que confirme los cortes, las fechas, los dos tramos afectados y el itinerario alternativo. La noticia es plausible, pero no alcanza el umbral de corroboración independiente exigido.",
+      "claims": [
+        {
+          "claim": "La calle La Niña permanecerá parcialmente cortada del 5 al 8 de octubre de 2026 por obras de reparación del pavimento.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Los cortes afectan al tramo entre la calle Alemania y la avenida Europa.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "También se corta el tramo entre la avenida Ejércitos Españoles y la calle Pintor Sorolla.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Existe un desvío desde la avenida Europa para acceder a la calle Pintor Sorolla, con circulación provisional por una rotonda en sentido contrario al habitual.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La Policía Local de Calp comunicó las restricciones y recomendó planificar los desplazamientos.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
+          "evidence": "Publica el 4 de octubre de 2026 que, según su información, habría cortes del 5 al 8 de octubre por reparación del pavimento en la calle La Niña. Detalla dos tramos afectados, un itinerario alternativo y atribuye la información a la Policía Local de Calp.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Tourist Info Calpe / Ayuntamiento de Calp",
+          "source_url": "https://media.calpe.es/en/news/article/info-restricciones-trafico-2a-etapa-vuelta-ciclista-espana-calp-benidorm",
+          "evidence": "Confirma que la calle La Niña, la avenida Europa, la avenida de los Ejércitos Españoles y la calle Pintor Sorolla forman parte de la red viaria municipal y han sido objeto de avisos oficiales de restricciones en otras fechas, pero no confirma los cortes de octubre de 2026 ni las obras descritas por Canfali.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La única fuente que afirma directamente los cortes de octubre es Canfali; la imagen mencionada como cortesía de la Policía Local no equivale por sí sola a un comunicado oficial verificable.",
+        "Debe localizarse el aviso original de la Policía Local o del Ayuntamiento, una orden de tráfico, expediente de obras o publicación en canales oficiales.",
+        "No debe publicarse como información confirmada hasta obtener una segunda fuente independiente o una fuente primaria municipal."
+      ],
+      "id": "inv_2c0a8ac6d953ab6e",
+      "investigated_at": "2026-10-05T16:03:11.929Z",
       "model": "gpt-5.6-luna"
     }
   ]

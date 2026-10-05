@@ -1,8 +1,69 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-05T07:05:57.445Z",
+  "generated_at": "2026-10-05T16:03:45.233Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_68b1e428692f2ecb",
+      "investigation_id": "inv_4ef8cb1ff4c24b19",
+      "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-05T16:03:45.233Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría",
+      "subheadline": "El concejal Marco Bittner reclamó controles ambientales independientes y más participación municipal en la ordenación del espacio marítimo",
+      "lead": "El Ayuntamiento de Calp ha trasladado al Parlamento Europeo su rechazo a la ampliación de la piscifactoría situada frente a sus costas. El concejal Marco Bittner intervino en Bruselas en una mesa redonda incluida en la programación de la Ocean Week 2026, donde expuso la posición del consistorio y reclamó una mayor vigilancia ambiental.",
+      "body_markdown": "El Ayuntamiento de Calp ha llevado al Parlamento Europeo su oposición a la ampliación de la piscifactoría mediante la participación del concejal Marco Bittner en una mesa redonda celebrada en Bruselas durante la Ocean Week 2026. La agenda oficial del evento sitúa la sesión el 30 de septiembre y la identifica con el título “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security”.\n\nDurante su intervención, Bittner trasladó la posición del consistorio sobre la instalación y reclamó que los controles ambientales sean independientes. También defendió una mayor participación de los municipios costeros en la ordenación del espacio marítimo.\n\nLa ampliación contempla pasar de 12 a 45 jaulas y alcanzar una capacidad máxima de 3.000 toneladas anuales. Estos datos aparecen recogidos en antecedentes municipales y periodísticos sobre la instalación, así como en la información difundida sobre la intervención en Bruselas.\n\nEl Ayuntamiento sostiene que la piscifactoría puede generar efectos económicos y ambientales sobre Calp. La oposición municipal a la ampliación se enmarca en esa preocupación por las posibles repercusiones de la actividad en el entorno y en la economía local.\n\nLa celebración de la mesa redonda está confirmada por la agenda de Ocean Week y los elementos principales de la intervención coinciden en dos informaciones periodísticas independientes. No obstante, no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal publicada el 5 de octubre de 2026 sobre el acto.\n\nTampoco se incorporan a esta información otras cifras atribuidas a informes sobre el consumo de pienso o posibles pérdidas económicas, al no estar plenamente verificadas mediante las fuentes primarias correspondientes. La consideración de la ampliación como autorizada se apoya en antecedentes periodísticos y municipales, pero no se ha localizado en el expediente consultado la resolución administrativa concreta.",
+      "seo_title": "Calp lleva a Europa su rechazo a la piscifactoría",
+      "meta_description": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría y reclama controles ambientales independientes y más participación municipal.",
+      "slug": "calp-lleva-a-europa-su-rechazo-a-la-piscifactoria",
+      "editorial_notes": [
+        "No presentar como hechos las cifras sobre consumo de pienso, pérdidas económicas, material grabado o situación procesal de un posible recurso: figuran como no verificadas.",
+        "La ampliación de 12 a 45 jaulas y la capacidad de 3.000 toneladas anuales están respaldadas por antecedentes periodísticos y municipales, pero no se ha localizado la resolución administrativa original.",
+        "La corroboración del acto procede de medios y de la agenda de Ocean Week; no consta un comunicado específico del Parlamento Europeo ni una nota municipal del 5 de octubre de 2026."
+      ],
+      "sources": [
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Periòdic",
+          "source_url": "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ocean Week",
+          "source_url": "https://www.oceanweek.eu/week-schedule",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Litoral",
+          "source_url": "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 5,
+        "caveats": [
+          "La corroboración del acto de Bruselas procede de medios y de la agenda de Ocean Week, pero no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal de 5 de octubre de 2026.",
+          "Las cifras sobre pienso, pérdidas económicas, material orgánico y situación procesal del recurso deben verificarse con el informe ambiental, el estudio universitario y el expediente administrativo o judicial originales antes de presentarlas como hechos concluyentes.",
+          "La expresión “autorizada” está respaldada por antecedentes periodísticos y municipales, pero la resolución administrativa concreta no se ha localizado en esta búsqueda."
+        ]
+      }
+    }
+  ]
 }

@@ -3,12 +3,173 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-05T07:05:57.776Z",
+  "generated_at": "2026-10-05T16:03:58.229Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_c05f5a82ffa42cf1",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-05T16:03:58.229Z",
+      "source_draft_id": "drf_68b1e428692f2ecb",
+      "source_investigation_id": "inv_4ef8cb1ff4c24b19",
+      "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
+      "quality_gate_id": "qg_cbcf44a95087759e",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_68b1e428692f2ecb",
+        "investigation_id": "inv_4ef8cb1ff4c24b19",
+        "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
+        "title": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría",
+        "subtitle": "El concejal Marco Bittner reclamó controles ambientales independientes y más participación municipal en la ordenación del espacio marítimo",
+        "summary": "El Ayuntamiento de Calp ha trasladado al Parlamento Europeo su rechazo a la ampliación de la piscifactoría situada frente a sus costas. El concejal Marco Bittner intervino en Bruselas en una mesa redonda incluida en la programación de la Ocean Week 2026, donde expuso la posición del consistorio y reclamó una mayor vigilancia ambiental.",
+        "body": "El Ayuntamiento de Calp ha llevado al Parlamento Europeo su oposición a la ampliación de la piscifactoría mediante la participación del concejal Marco Bittner en una mesa redonda celebrada en Bruselas durante la Ocean Week 2026. La agenda oficial del evento sitúa la sesión el 30 de septiembre y la identifica con el título “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security”.\n\nDurante su intervención, Bittner trasladó la posición del consistorio sobre la instalación y reclamó que los controles ambientales sean independientes. También defendió una mayor participación de los municipios costeros en la ordenación del espacio marítimo.\n\nLa ampliación contempla pasar de 12 a 45 jaulas y alcanzar una capacidad máxima de 3.000 toneladas anuales. Estos datos aparecen recogidos en antecedentes municipales y periodísticos sobre la instalación, así como en la información difundida sobre la intervención en Bruselas.\n\nEl Ayuntamiento sostiene que la piscifactoría puede generar efectos económicos y ambientales sobre Calp. La oposición municipal a la ampliación se enmarca en esa preocupación por las posibles repercusiones de la actividad en el entorno y en la economía local.\n\nLa celebración de la mesa redonda está confirmada por la agenda de Ocean Week y los elementos principales de la intervención coinciden en dos informaciones periodísticas independientes. No obstante, no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal publicada el 5 de octubre de 2026 sobre el acto.\n\nTampoco se incorporan a esta información otras cifras atribuidas a informes sobre el consumo de pienso o posibles pérdidas económicas, al no estar plenamente verificadas mediante las fuentes primarias correspondientes. La consideración de la ampliación como autorizada se apoya en antecedentes periodísticos y municipales, pero no se ha localizado en el expediente consultado la resolución administrativa concreta.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-lleva-a-europa-su-rechazo-a-la-piscifactoria",
+        "seo_title": "Calp lleva a Europa su rechazo a la piscifactoría",
+        "meta_description": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría y reclama controles ambientales independientes y más participación municipal.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cbcf44a95087759e",
+        "editorial_notes": [
+          "No presentar como hechos las cifras sobre consumo de pienso, pérdidas económicas, material grabado o situación procesal de un posible recurso: figuran como no verificadas.",
+          "La ampliación de 12 a 45 jaulas y la capacidad de 3.000 toneladas anuales están respaldadas por antecedentes periodísticos y municipales, pero no se ha localizado la resolución administrativa original.",
+          "La corroboración del acto procede de medios y de la agenda de Ocean Week; no consta un comunicado específico del Parlamento Europeo ni una nota municipal del 5 de octubre de 2026."
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "El Periòdic",
+            "url": "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ocean Week",
+            "url": "https://www.oceanweek.eu/week-schedule",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Cadena SER Radio Litoral",
+            "url": "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+          "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+          "https://www.oceanweek.eu/week-schedule",
+          "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+          "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 5,
+          "caveats": [
+            "La corroboración del acto de Bruselas procede de medios y de la agenda de Ocean Week, pero no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal de 5 de octubre de 2026.",
+            "Las cifras sobre pienso, pérdidas económicas, material orgánico y situación procesal del recurso deben verificarse con el informe ambiental, el estudio universitario y el expediente administrativo o judicial originales antes de presentarlas como hechos concluyentes.",
+            "La expresión “autorizada” está respaldada por antecedentes periodísticos y municipales, pero la resolución administrativa concreta no se ha localizado en esta búsqueda."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cbcf44a95087759e",
+          "quality_gate_evaluated_at": "2026-10-05T16:03:58.058Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "created_at": "2026-10-05T16:03:45.233Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_68b1e428692f2ecb",
+        "title": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría",
+        "slug": "calp-lleva-a-europa-su-rechazo-a-la-piscifactoria",
+        "summary": "El Ayuntamiento de Calp ha trasladado al Parlamento Europeo su rechazo a la ampliación de la piscifactoría situada frente a sus costas. El concejal Marco Bittner intervino en Bruselas en una mesa redonda incluida en la programación de la Ocean Week 2026, donde expuso la posición del consistorio y reclamó una mayor vigilancia ambiental.",
+        "body": "El Ayuntamiento de Calp ha llevado al Parlamento Europeo su oposición a la ampliación de la piscifactoría mediante la participación del concejal Marco Bittner en una mesa redonda celebrada en Bruselas durante la Ocean Week 2026. La agenda oficial del evento sitúa la sesión el 30 de septiembre y la identifica con el título “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security”.\n\nDurante su intervención, Bittner trasladó la posición del consistorio sobre la instalación y reclamó que los controles ambientales sean independientes. También defendió una mayor participación de los municipios costeros en la ordenación del espacio marítimo.\n\nLa ampliación contempla pasar de 12 a 45 jaulas y alcanzar una capacidad máxima de 3.000 toneladas anuales. Estos datos aparecen recogidos en antecedentes municipales y periodísticos sobre la instalación, así como en la información difundida sobre la intervención en Bruselas.\n\nEl Ayuntamiento sostiene que la piscifactoría puede generar efectos económicos y ambientales sobre Calp. La oposición municipal a la ampliación se enmarca en esa preocupación por las posibles repercusiones de la actividad en el entorno y en la economía local.\n\nLa celebración de la mesa redonda está confirmada por la agenda de Ocean Week y los elementos principales de la intervención coinciden en dos informaciones periodísticas independientes. No obstante, no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal publicada el 5 de octubre de 2026 sobre el acto.\n\nTampoco se incorporan a esta información otras cifras atribuidas a informes sobre el consumo de pienso o posibles pérdidas económicas, al no estar plenamente verificadas mediante las fuentes primarias correspondientes. La consideración de la ampliación como autorizada se apoya en antecedentes periodísticos y municipales, pero no se ha localizado en el expediente consultado la resolución administrativa concreta.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp lleva a Europa su rechazo a la piscifactoría",
+        "meta_description": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría y reclama controles ambientales independientes y más participación municipal.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cbcf44a95087759e",
+        "published_at": null,
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+          "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+          "https://www.oceanweek.eu/week-schedule",
+          "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+          "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html"
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "El Periòdic",
+            "url": "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ocean Week",
+            "url": "https://www.oceanweek.eu/week-schedule",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Cadena SER Radio Litoral",
+            "url": "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_4ef8cb1ff4c24b19",
+        "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 5,
+          "caveats": [
+            "La corroboración del acto de Bruselas procede de medios y de la agenda de Ocean Week, pero no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal de 5 de octubre de 2026.",
+            "Las cifras sobre pienso, pérdidas económicas, material orgánico y situación procesal del recurso deben verificarse con el informe ambiental, el estudio universitario y el expediente administrativo o judicial originales antes de presentarlas como hechos concluyentes.",
+            "La expresión “autorizada” está respaldada por antecedentes periodísticos y municipales, pero la resolución administrativa concreta no se ha localizado en esta búsqueda."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cbcf44a95087759e",
+          "quality_gate_evaluated_at": "2026-10-05T16:03:58.058Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-05T07:06:04.147Z",
+  "generated_at": "2026-10-05T16:04:08.283Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-05T07:06:03.953Z",
+  "last_activity": "2026-10-05T16:04:08.080Z",
   "newspaper": {
-    "archive_total": 58,
-    "published_today": 0,
-    "published_last_7_days": 27,
+    "archive_total": 59,
+    "published_today": 1,
+    "published_last_7_days": 28,
     "categories": {
+      "MEDIO_AMBIENTE": 13,
       "SUCESOS": 5,
       "SOCIEDAD": 8,
       "TURISMO": 8,
       "ECONOMIA": 7,
-      "MEDIO_AMBIENTE": 12,
       "DEPORTES": 3,
       "LOCAL": 9,
       "CULTURA": 4,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_312d5c01efeaf1e0",
+        "title": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-lleva-a-europa-su-rechazo-a-la-piscifactoria",
+        "published_at": "2026-10-05T16:03:45.233Z"
+      },
       {
         "archive_id": "arc_aa97edc6879491b7",
         "title": "La Fiscalía solicita 14 años de prisión para un acusado de agredir sexualmente a una menor en Calp",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "alerta-naranja-lluvias-sabado-litoral-norte-alicante",
         "published_at": "2026-10-02T23:00:02.339Z"
-      },
-      {
-        "archive_id": "arc_2e038afc6443bfe1",
-        "title": "Calp cancela el Día de las Aves por la alerta naranja de lluvias",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-cancela-dia-de-las-aves-alerta-lluvias",
-        "published_at": "2026-10-02T23:00:02.339Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
