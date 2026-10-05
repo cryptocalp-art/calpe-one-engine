@@ -1,87 +1,123 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-04T21:28:33.369Z",
+  "generated_at": "2026-10-05T00:57:35.621Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "e4e19cca3f72c03a38357d0683d0a5bc017b7093aa43e20c363c4b1fa16ef0fe",
-      "title": "La Generalitat sitúa antes de final de 2026 la finalización prevista del IES Les Salines y del CEE Gargasindi",
+      "candidate_fingerprint": "e15eafaf7ca7766383835f3c85e27f2c2db1fd23cc7c01aa20425480fe7d7b93",
+      "title": "Cortes de tráfico en Calp del 5 al 8 de octubre por obras en la calle La Niña",
       "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
+      "confidence": "LOW",
       "publishable": false,
-      "summary": "La previsión de que ambos equipamientos estén terminados antes de finalizar 2026 está respaldada por antecedentes oficiales del Ayuntamiento de Calp y por información posterior sobre el calendario del IES Les Salines. Sin embargo, no se ha localizado una fuente primaria de la Generalitat que confirme directamente ese plazo. La información de Cadena SER atribuye la previsión a declaraciones de los diputados autonómicos del PP, por lo que el titular sobre una decisión o posicionamiento directo de la Generalitat resulta más amplio que la evidencia disponible.",
+      "summary": "La información está publicada por Canfali y atribuye el aviso a la Policía Local de Calp, pero no se ha localizado una comunicación oficial accesible del Ayuntamiento o de la Policía Local que confirme los cortes, sus tramos y las fechas. La única corroboración adicional localizada es información municipal anterior sobre el estado y actuaciones de la calle La Niña, que no confirma los trabajos de octubre de 2026.",
       "claims": [
         {
-          "claim": "El nuevo IES Les Salines de Calp y el CEE Gargasindi son proyectos educativos en ejecución vinculados al Pla Edificant.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento de Calp adjudicó las obras del IES Les Salines con un plazo de ejecución de 24 meses y las del CEE Gargasindi con un plazo de 15 meses.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento de Calp comunicó en octubre de 2024 que ambos proyectos podían estar ejecutados a finales de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "En mayo de 2026 se informó de que el IES Les Salines tenía prevista la recepción de las obras en diciembre de 2026 y la apertura el 7 de enero de 2027, tras las vacaciones navideñas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Cadena SER informó el 18 de septiembre de 2026 de que los diputados autonómicos del PP situaban la terminación de ambos centros antes de acabar 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Generalitat Valenciana, como institución, ha confirmado directamente ese calendario para los dos centros.",
+          "claim": "Habrá cortes de tráfico en la calle La Niña de Calp del 5 al 8 de octubre de 2026 por trabajos de reparación del pavimento.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "El CEE Gargasindi estaba ya terminado antes del 4 de octubre de 2026.",
+          "claim": "Los cortes afectarán al tramo entre la calle Alemania y la avenida Europa.",
           "status": "UNVERIFIED"
+        },
+        {
+          "claim": "También se cortará el tramo entre la avenida Ejércitos Españoles y la calle Pintor Sorolla.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Se habilitará un itinerario alternativo desde la avenida Europa hacia la calle Pintor Sorolla, con señalización provisional.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La información procede de la Policía Local de Calp y recomienda planificar los desplazamientos.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — adjudicación de las obras del nuevo IES y el CEE Gargasindi",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-adjudica-las-obras-del-nuevo-ies-y-el-cee-gargasindi",
-          "evidence": "El Ayuntamiento informa de la adjudicación del IES Les Salines por 14.748.935,36 euros y 24 meses de ejecución, y del CEE Gargasindi por 7.055.799,57 euros y 15 meses. La nota fija como objetivo que las obras estén ejecutadas a finales de 2026, aunque lo formula como previsión condicionada a que no haya contingencias.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — inicio de las obras del segundo IES",
-          "source_url": "https://noticias.calp.es/es/noticia/las-obras-del-segundo-ies-comenzar%C3%A1n-el-pr%C3%B3ximo-9-de-diciembre",
-          "evidence": "El Ayuntamiento señala que las obras del IES Les Salines comenzaron el 9 de diciembre de 2024, con un plazo de 24 meses, y que el centro podía estar acabado antes de finalizar 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — inicio de las obras del CEE Gargasindi",
-          "source_url": "https://noticias.calp.es/es/noticia/las-obras-del-nuevo-cee-gargasindi-comenzar%C3%A1n-el-9-de-diciembre",
-          "evidence": "El Ayuntamiento comunica que las obras del CEE Gargasindi comenzaron el 9 de diciembre de 2024, con un plazo de 15 meses, y que se esperaba su apertura para el curso 2026/2027.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "MarinaAlta.es — apertura prevista del IES Les Salines en enero de 2027",
-          "source_url": "https://marinaalta.es/2026/05/el-nuevo-ies-les-salines-de-calp-abrira-en-enero-de-2027/",
-          "evidence": "La información recoge una visita técnica del 26 de mayo de 2026 con participación de la Dirección Territorial de Educación de Alicante, el equipo directivo, la constructora y responsables municipales. Sitúa la recepción oficial de las obras en diciembre de 2026 y la apertura del instituto el 7 de enero de 2027, después del traslado durante las vacaciones de Navidad.",
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
+          "evidence": "La noticia, publicada el 4 de octubre de 2026, afirma que los cortes comenzarían el 5 de octubre y durarían previsiblemente hasta el 8 de octubre por obras de reparación del pavimento. Detalla dos tramos afectados, un desvío desde la avenida Europa y atribuye la información a la Policía Local de Calp. La página muestra una imagen descrita como cortesía de la Policía de Calp, pero no enlaza una comunicación oficial independiente. ([canfali.com](https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/?utm_source=openai))",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER Radio Dénia — El PP pone fecha a varias infraestructuras educativas pendientes en la Marina Alta",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia",
-          "evidence": "La emisora informa de que los diputados autonómicos Noelia Císcar y Javier Gutiérrez afirmaron que el nuevo IES Les Salines y el CEE Gargasindi deberían estar terminados antes de que acabara 2026. La fuente presenta el plazo como una previsión defendida por esos diputados, no como una resolución o comunicado directo de la Generalitat.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-7-de-enero-comienzan-las-obras-de-asfaltado-de-la-calle-la-ni%C3%B1a-y-las-avenidas-gabriel",
+          "evidence": "La comunicación municipal de enero de 2019 documenta actuaciones anteriores de pavimentación en la calle La Niña y confirma la existencia de problemas de pavimento en esa vía, pero no acredita los cortes anunciados para octubre de 2026. ([noticias.calp.es](https://noticias.calp.es/es/noticia/el-7-de-enero-comienzan-las-obras-de-asfaltado-de-la-calle-la-ni%C3%B1a-y-las-avenidas-gabriel?utm_source=openai))",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado una nota oficial de 2026 del Ayuntamiento de Calp o de la Policía Local que confirme los cortes.",
+        "La fuente secundaria puede estar reproduciendo un aviso policial no publicado en una página oficial accesible.",
+        "La información debe volver a comprobarse antes de publicar, especialmente porque las obras y los cortes son temporales."
+      ],
+      "id": "inv_93297bb9b6d4d1ef",
+      "investigated_at": "2026-10-05T00:57:35.621Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "75c1cb1d5738d232dcaa0aaf7e17d46407c4bd5294235d3c9fd5c445967f95c9",
+      "title": "Calp reunirá a los 18 mejores equipos del país en el Campeonato de España de Cruceros",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La celebración del Campeonato de España de Cruceros Loterías con el Deporte 2026 en el Real Club Náutico de Calpe del 16 al 18 de octubre está confirmada por el propio club y por la Real Federación Española de Vela. Fuentes federativas y una cobertura independiente confirman además la participación de 18 equipos o tripulaciones procedentes de 13 federaciones autonómicas. El vínculo con el 50.º aniversario del club también está respaldado por la fuente oficial del RCN Calpe.",
+      "claims": [
+        {
+          "claim": "El Real Club Náutico de Calpe acogerá el Campeonato de España de Cruceros Loterías con el Deporte 2026 del 16 al 18 de octubre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participarán 18 equipos o tripulaciones procedentes de 13 federaciones autonómicas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El campeonato se disputará en el Real Club Náutico de Calpe y estará organizado por la Real Federación Española de Vela en colaboración con el club anfitrión.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La edición está vinculada al 50.º aniversario del Real Club Náutico de Calpe.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se trata de una concentración de los mejores equipos clasificados del país.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Real Club Náutico de Calpe",
+          "source_url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+          "evidence": "El club anuncia oficialmente que será sede del Campeonato de España de Cruceros – Trofeo Loterías con el Deporte 2026, previsto del 16 al 18 de octubre en aguas de Calpe, coincidiendo con el 50.º aniversario del club. También indica la colaboración con la Real Federación Española de Vela. ([rcnc.es](https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Real Federación Española de Vela",
+          "source_url": "https://rfev.es/mas-de-40-regatas-decidiran-los-equipos-del-campeonato-de-espana-de-cruceros-loterias-con-el-deporte-2026/",
+          "evidence": "La federación confirma que la final nacional se celebrará del 16 al 18 de octubre en el Real Club Náutico de Calpe bajo la organización de la RFEV y el club anfitrión. ([rfev.es](https://rfev.es/mas-de-40-regatas-decidiran-los-equipos-del-campeonato-de-espana-de-cruceros-loterias-con-el-deporte-2026/?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Federación Andaluza de Vela",
+          "source_url": "https://www.fav.es/campeonato-de-espana-de-cruceros-7/",
+          "evidence": "La federación autonómica informa el 30 de septiembre de 2026 de que 18 tripulaciones representarán a 13 federaciones autonómicas en la final del 16 al 18 de octubre en el Real Club Náutico de Calpe. ([fav.es](https://www.fav.es/campeonato-de-espana-de-cruceros-7/?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Mundo Deportivo",
+          "source_url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
+          "evidence": "La cobertura independiente confirma que 18 equipos de 13 federaciones autonómicas se reunirán del 16 al 18 de octubre en el Real Club Náutico de Calpe para disputar el título nacional. ([mundodeportivo.com](https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html?utm_source=openai))",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha encontrado una comunicación primaria de la Generalitat Valenciana que confirme expresamente la fecha de finalización de ambos centros.",
-        "La evidencia posterior localizada aporta una fecha concreta para el IES Les Salines —recepción en diciembre de 2026 y apertura el 7 de enero de 2027—, pero no una actualización equivalente sobre el estado final del CEE Gargasindi a fecha 4 de octubre de 2026.",
-        "La atribución institucional del candidato es imprecisa: la noticia de Cadena SER recoge declaraciones de diputados del PP, mientras que las previsiones de calendario localizadas en fuentes primarias proceden principalmente del Ayuntamiento de Calp.",
-        "Para elevar el candidato a VERIFIED sería necesario localizar un comunicado, expediente, declaración oficial o actualización de obra de la Generalitat que confirme el plazo de ambos proyectos, especialmente el del CEE Gargasindi."
+        "La expresión \"mejores equipos del país\" es una formulación periodística; las fuentes describen equipos clasificados para la final nacional, no una clasificación absoluta de los 18 mejores equipos españoles.",
+        "El evento aún era futuro respecto a la fecha de investigación, 5 de octubre de 2026; la verificación confirma la convocatoria y sede, no que la competición ya se haya celebrado."
       ],
-      "id": "inv_460b8f65bed71740",
-      "investigated_at": "2026-10-04T21:28:33.369Z",
+      "id": "inv_870a673822274ce4",
+      "investigated_at": "2026-10-05T00:57:35.621Z",
       "model": "gpt-5.6-luna"
     }
   ]

@@ -1,8 +1,62 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-04T21:29:01.949Z",
+  "generated_at": "2026-10-05T00:58:02.706Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_c90b81a049ff4a45",
+      "investigation_id": "inv_870a673822274ce4",
+      "candidate_fingerprint": "75c1cb1d5738d232dcaa0aaf7e17d46407c4bd5294235d3c9fd5c445967f95c9",
+      "category": "DEPORTES",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-05T00:58:02.706Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp acogerá la final del Campeonato de España de Cruceros con 18 equipos",
+      "subheadline": "La competición se disputará del 16 al 18 de octubre en el Real Club Náutico de Calpe, con representación de 13 federaciones autonómicas",
+      "lead": "El Real Club Náutico de Calpe será la sede del Campeonato de España de Cruceros Loterías con el Deporte 2026, cuya celebración está prevista del 16 al 18 de octubre. La final nacional reunirá a 18 equipos o tripulaciones procedentes de 13 federaciones autonómicas.",
+      "body_markdown": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre el Campeonato de España de Cruceros Loterías con el Deporte 2026. La convocatoria está confirmada por el propio club y por la Real Federación Española de Vela, que organizará la competición junto con la entidad náutica anfitriona.\n\nLa final contará con la participación de 18 equipos o tripulaciones representantes de 13 federaciones autonómicas. Las formaciones llegan a esta fase tras el proceso de clasificación correspondiente, según la información difundida por fuentes federativas. La competición determinará el campeón de España de Cruceros de 2026.\n\nEl campeonato se celebrará en el Real Club Náutico de Calpe en el marco del 50.º aniversario de la entidad. El club ha vinculado expresamente la celebración de la prueba nacional con esta conmemoración.\n\nLa Real Federación Española de Vela ha confirmado igualmente las fechas y la sede de la final. La Federación Andaluza de Vela informó de la composición de la participación, con 18 tripulaciones de 13 federaciones autonómicas, mientras que una cobertura independiente también recoge la presencia de 18 equipos en Calp durante esas jornadas.\n\nEl evento sigue programado para los días 16, 17 y 18 de octubre, por lo que la verificación disponible confirma la convocatoria, la sede y la participación prevista, pero no el desarrollo ni el resultado de la competición.",
+      "seo_title": "Calp acogerá el Campeonato de España de Cruceros 2026",
+      "meta_description": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre la final nacional de Cruceros, con 18 equipos de 13 federaciones autonómicas.",
+      "slug": "calp-campeonato-espana-cruceros-2026",
+      "editorial_notes": [
+        "Evitar presentar a los participantes como los 18 mejores equipos absolutos del país: las fuentes los describen como equipos o tripulaciones clasificados para la final nacional.",
+        "La competición era futura a fecha de redacción, 5 de octubre de 2026; no afirmar que ya se ha celebrado ni anticipar resultados."
+      ],
+      "sources": [
+        {
+          "source_name": "Real Club Náutico de Calpe",
+          "source_url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Real Federación Española de Vela",
+          "source_url": "https://rfev.es/mas-de-40-regatas-decidiran-los-equipos-del-campeonato-de-espana-de-cruceros-loterias-con-el-deporte-2026/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Federación Andaluza de Vela",
+          "source_url": "https://www.fav.es/campeonato-de-espana-de-cruceros-7/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Mundo Deportivo",
+          "source_url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La expresión \"mejores equipos del país\" es una formulación periodística; las fuentes describen equipos clasificados para la final nacional, no una clasificación absoluta de los 18 mejores equipos españoles.",
+          "El evento aún era futuro respecto a la fecha de investigación, 5 de octubre de 2026; la verificación confirma la convocatoria y sede, no que la competición ya se haya celebrado."
+        ]
+      }
+    }
+  ]
 }
