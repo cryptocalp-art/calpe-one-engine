@@ -3,9 +3,55 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-05T16:03:58.398Z",
-  "count": 59,
+  "updated_at": "2026-10-05T22:40:50.460Z",
+  "count": 60,
   "articles": [
+    {
+      "archive_id": "arc_b92aa8649b074866",
+      "external_id": "drf_e567dcef781b81d2",
+      "investigation_id": "inv_64e9fe4e556c6cee",
+      "candidate_fingerprints": [
+        "aea768e3ebd57b0fc36bbb302d31063d9a7cfa539735573a6ea9fd6a0dd72c42"
+      ],
+      "title": "Calp activa cortes y desvíos en la calle La Niña por trabajos de reparación",
+      "slug": "cortes-calle-la-nina-calp-reparacion-pavimento",
+      "summary": "La circulación en la calle La Niña de Calp estará restringida entre el 5 y el 8 de octubre de 2026 debido a trabajos de reparación del pavimento. Las restricciones afectan a dos tramos de la vía y cuentan con un itinerario alternativo señalizado.",
+      "body": "La circulación permanecerá restringida en la calle La Niña durante el periodo comprendido entre el lunes 5 y el jueves 8 de octubre, según la información difundida sobre los trabajos de reparación del pavimento previstos en esta vía de Calp.\n\nLos cortes afectan, por un lado, al tramo situado entre la calle Alemania y la avenida Europa. El segundo punto con restricciones se encuentra entre la avenida de los Ejércitos Españoles y la calle Pintor Sorolla.\n\nPara facilitar los desplazamientos, se ha establecido un itinerario alternativo desde la avenida Europa hacia la calle Pintor Sorolla. El recorrido está debidamente señalizado para orientar a los conductores durante el periodo de trabajos.\n\nLa Policía Local de Calp recomienda planificar los desplazamientos con antelación y respetar la señalización provisional instalada en la zona. Las restricciones se mantendrán, según la previsión comunicada, hasta el 8 de octubre.\n\nLa información sobre los cortes procede de una publicación de Canfali que atribuye los detalles a la Policía Local de Calp. No se ha localizado una comunicación municipal específica sobre estas restricciones publicada en la web oficial, por lo que las fechas y condiciones indicadas corresponden a la previsión difundida en esa información.",
+      "category": "LOCAL",
+      "seo_title": "Cortes en la calle La Niña de Calp del 5 al 8 de octubre",
+      "meta_description": "La calle La Niña tendrá cortes del 5 al 8 de octubre por reparación del pavimento. Habrá desvío señalizado hacia Pintor Sorolla.",
+      "sources": [
+        {
+          "name": "Canfali",
+          "url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 1,
+        "caveats": [
+          "La corroboración localizada procede de un único medio secundario y parece basarse en información o material de la Policía Local; no se ha encontrado una comunicación municipal específica publicada en la web oficial."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_f0c0cd8a785d4af9",
+        "quality_gate_evaluated_at": "2026-10-05T22:40:50.127Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La corroboración localizada procede de un único medio secundario y no se ha encontrado una comunicación municipal específica publicada en la web oficial. Mantener lenguaje prudente sobre las fechas y la duración prevista."
+      ],
+      "published_at": "2026-10-05T22:40:40.226Z",
+      "updated_at": "2026-10-05T22:40:50.460Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_312d5c01efeaf1e0",
       "external_id": "drf_68b1e428692f2ecb",
@@ -712,7 +758,8 @@
       "investigation_id": "inv_85a39bb32c291e2a",
       "candidate_fingerprints": [
         "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
-        "0f6e480b78ae3619b159cb1cc247aa51452ff5a2156786de02f10de487065c6b"
+        "0f6e480b78ae3619b159cb1cc247aa51452ff5a2156786de02f10de487065c6b",
+        "58acbc3762764479e3c24e1f01819eaf6566beca37f0cd0e03c75fe27d425a90"
       ],
       "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
       "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
@@ -763,7 +810,7 @@
         "No se informa del número de agentes que recibirán diplomas o cruces."
       ],
       "published_at": "2026-10-02T05:41:03.354Z",
-      "updated_at": "2026-10-02T23:00:19.146Z",
+      "updated_at": "2026-10-05T22:40:50.460Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

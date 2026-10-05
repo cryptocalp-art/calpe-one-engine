@@ -1,142 +1,153 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-05T16:03:11.929Z",
+  "generated_at": "2026-10-05T22:40:07.380Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "88e56f4613e9ee4d59afc6f6a93c977200ade2815e5be7fe44edd5d809ab05ba",
-      "title": "Calp lleva al Parlamento Europeo su rechazo a la ampliación de la piscifactoría frente a sus costas",
+      "candidate_fingerprint": "aea768e3ebd57b0fc36bbb302d31063d9a7cfa539735573a6ea9fd6a0dd72c42",
+      "title": "Calp activa cortes y desvíos en la calle La Niña por trabajos de reparación",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La noticia está suficientemente corroborada: Cadena SER informa de la intervención del concejal Marco Bittner en una mesa celebrada en el Parlamento Europeo durante la Ocean Week 2026; la agenda oficial de Ocean Week confirma la celebración del evento el 30 de septiembre de 2026 y otro medio independiente, El Periòdic, coincide en los elementos principales. La ampliación de 12 a 45 jaulas y la capacidad de 3.000 toneladas anuales también cuentan con antecedentes documentados por el Ayuntamiento de Calp y Cadena SER. No obstante, algunas cifras adicionales incluidas en la pieza de SER —como el consumo de pienso, el estudio económico y el material grabado por voluntarios— no quedan plenamente verificadas por fuentes primarias independientes.",
+      "summary": "La información queda suficientemente respaldada por una publicación independiente de Canfali, que atribuye las restricciones a la Policía Local de Calp y detalla los dos tramos afectados, el itinerario alternativo y las fechas previstas de los trabajos. No se ha localizado en la búsqueda una nota oficial municipal específica sobre los cortes.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp trasladó al Parlamento Europeo su oposición a la ampliación de la piscifactoría mediante la participación del concejal Marco Bittner en Bruselas.",
+          "claim": "La circulación en la calle La Niña estará restringida entre el 5 y el 8 de octubre de 2026 por trabajos de reparación del pavimento.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La intervención tuvo lugar en la mesa redonda “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security”, celebrada durante la Ocean Week 2026.",
+          "claim": "Los cortes afectan a los tramos entre la calle Alemania y la avenida Europa, y entre la avenida Ejércitos Españoles y la calle Pintor Sorolla.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ampliación autorizada contempla pasar de 12 a 45 jaulas y alcanzar una capacidad máxima de 3.000 toneladas anuales.",
+          "claim": "Existe un itinerario alternativo desde la avenida Europa hacia Pintor Sorolla, debidamente señalizado.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento reclamó controles ambientales independientes y una mayor participación de los municipios costeros en la ordenación del espacio marítimo.",
+          "claim": "La Policía Local recomienda planificar los desplazamientos y respetar la señalización provisional.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "La piscifactoría puede generar efectos económicos y ambientales sobre Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El informe de vigilancia ambiental de 2024 registró cerca de 4.800 toneladas de pienso, incluidas 23 toneladas de pienso medicamentoso.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Un estudio de la Universidad de Alicante cifra las posibles pérdidas económicas para Calp entre 83 y 911 millones de euros en diez años.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Ayuntamiento mantiene pendiente un recurso contencioso-administrativo contra la ampliación.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/05/calp-lleva-a-bruselas-su-rechazo-a-la-ampliacion-de-la-piscifactoria-y-reclama-mas-control-ambiental-radio-denia/",
-          "evidence": "Informa de que el concejal Marco Bittner participó en Bruselas en la mesa redonda de la Ocean Week 2026, expuso la posición del consistorio sobre la piscifactoría y reclamó vigilancia ambiental independiente y mayor participación municipal. También recoge las cifras de 45 jaulas y 3.000 toneladas anuales.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "El Periòdic",
-          "source_url": "https://www.elperiodic.com/val/calpe/calp-porta-parlament-europeu-seua-oposicio-lampliacio-piscifactoria_1096084",
-          "evidence": "Confirma de forma independiente que Calp trasladó al Parlamento Europeo su oposición a la ampliación, que Marco Bittner intervino en la mesa redonda de Bruselas y que la ampliación supone pasar de 12 a 45 jaulas y alcanzar 3.000 toneladas anuales.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ocean Week",
-          "source_url": "https://www.oceanweek.eu/week-schedule",
-          "evidence": "La agenda del evento incluye la mesa redonda “Carnivorous Aquaculture: Eating up the Ocean, Threatening Food Security” el miércoles 30 de septiembre de 2026, dentro de la programación de Ocean Week.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-se-suma-red-aktaia-para-la-protecci%C3%B3n-del-medio-marino-frente-las-piscifactor%C3%ADas",
-          "evidence": "La información municipal documenta la oposición de Calp a la ampliación y describe el aumento previsto de 12 a 45 jaulas, además de mencionar impactos económicos y ambientales alegados por el consistorio.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Litoral",
-          "source_url": "https://cadenaser.com/emisora/2021/05/28/radio_litoral/1622205454_735487.html",
-          "evidence": "Recoge la resolución ambiental de 2021 que permitió aumentar la instalación de 12 a 45 jaulas y alcanzar una capacidad máxima de producción de 3.000 toneladas de pescado al año.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración del acto de Bruselas procede de medios y de la agenda de Ocean Week, pero no se ha localizado un comunicado específico del Parlamento Europeo ni una nota municipal de 5 de octubre de 2026.",
-        "Las cifras sobre pienso, pérdidas económicas, material orgánico y situación procesal del recurso deben verificarse con el informe ambiental, el estudio universitario y el expediente administrativo o judicial originales antes de presentarlas como hechos concluyentes.",
-        "La expresión “autorizada” está respaldada por antecedentes periodísticos y municipales, pero la resolución administrativa concreta no se ha localizado en esta búsqueda."
-      ],
-      "id": "inv_4ef8cb1ff4c24b19",
-      "investigated_at": "2026-10-05T16:03:11.929Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "d8c93b6a378c02eb463cbc79c23c2e8a0282da27722b1d09266ed6261aa8ba42",
-      "title": "Cortes de tráfico en la calle La Niña de Calp del 5 al 8 de octubre por obras",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "LOW",
-      "publishable": false,
-      "summary": "La información solo ha sido localizada en Canfali, que atribuye el aviso a la Policía Local y reproduce una imagen cortesía de ese cuerpo. No se ha encontrado durante la búsqueda un aviso independiente del Ayuntamiento, de la Policía Local o de otro medio que confirme los cortes, las fechas, los dos tramos afectados y el itinerario alternativo. La noticia es plausible, pero no alcanza el umbral de corroboración independiente exigido.",
-      "claims": [
-        {
-          "claim": "La calle La Niña permanecerá parcialmente cortada del 5 al 8 de octubre de 2026 por obras de reparación del pavimento.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Los cortes afectan al tramo entre la calle Alemania y la avenida Europa.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "También se corta el tramo entre la avenida Ejércitos Españoles y la calle Pintor Sorolla.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Existe un desvío desde la avenida Europa para acceder a la calle Pintor Sorolla, con circulación provisional por una rotonda en sentido contrario al habitual.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La Policía Local de Calp comunicó las restricciones y recomendó planificar los desplazamientos.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
           "source_name": "Canfali",
           "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
-          "evidence": "Publica el 4 de octubre de 2026 que, según su información, habría cortes del 5 al 8 de octubre por reparación del pavimento en la calle La Niña. Detalla dos tramos afectados, un itinerario alternativo y atribuye la información a la Policía Local de Calp.",
+          "evidence": "Publica el 4 de octubre de 2026 que los cortes comenzarán el 5 de octubre y están previstos hasta el 8 de octubre por obras de reparación del pavimento. Detalla los dos tramos afectados, el desvío desde la avenida Europa hacia Pintor Sorolla y las recomendaciones de la Policía Local. La imagen se atribuye a la Policía de Calp.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración localizada procede de un único medio secundario y parece basarse en información o material de la Policía Local; no se ha encontrado una comunicación municipal específica publicada en la web oficial."
+      ],
+      "id": "inv_64e9fe4e556c6cee",
+      "investigated_at": "2026-10-05T22:40:07.380Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "5041db727fa0c75d157f6fe24991156a5e100730a193ae30f89990df159cbc85",
+      "title": "Una tromba de agua anega calles y obliga a cortar carreteras en Pego, Dénia y Calp",
+      "status": "REJECTED",
+      "confidence": "HIGH",
+      "publishable": false,
+      "summary": "El episodio de lluvias intensas en la Marina Alta sí está documentado, pero la formulación del candidato no queda respaldada y atribuye a Dénia y Calp cortes o anegamientos que no aparecen acreditados en la fuente citada. La información localizada de La Marina Plaza se centra en Pego y en carreteras de su entorno; la fuente oficial de Calp solo confirma un aviso preventivo por lluvias, no inundaciones ni cortes en el municipio.",
+      "claims": [
+        {
+          "claim": "El 2 de octubre de 2026 se registraron lluvias intensas en la Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las lluvias provocaron cortes de carreteras y accesos en Pego.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El episodio causó anegamientos y cortes de carreteras específicamente en Dénia y Calp.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Calp sufrió las afecciones descritas en el titular y resumen del candidato.",
+          "status": "CONTRADICTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/02/lluvias-en-tromba-se-abaten-sobre-la-marina-alta-y-cortan-carreteras-y-accesos-a-pego/",
+          "evidence": "Informa de precipitaciones intensas el viernes 2 de octubre, con máximos en Pego y l’Atzúvia. Señala cortes de las carreteras entre Pego y El Verger, de la Mar y dels Marenys, y que Pego solo podía recibir acceso por determinadas carreteras. El titular y el texto localizado no acreditan cortes o anegamientos en Calp ni Dénia.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Tourist Info Calpe / Ayuntamiento de Calp",
-          "source_url": "https://media.calpe.es/en/news/article/info-restricciones-trafico-2a-etapa-vuelta-ciclista-espana-calp-benidorm",
-          "evidence": "Confirma que la calle La Niña, la avenida Europa, la avenida de los Ejércitos Españoles y la calle Pintor Sorolla forman parte de la red viaria municipal y han sido objeto de avisos oficiales de restricciones en otras fechas, pero no confirma los cortes de octubre de 2026 ni las obras descritas por Canfali.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calpdigital.es/art/12348/alerta-proteccion-civil-movil-lluvias-calp",
+          "evidence": "La información localizada sobre Calp confirma un aviso de Protección Civil por lluvias, con recomendaciones de precaución y advertencias sobre posibles zonas inundables. No documenta que el municipio sufriera los cortes de carreteras o anegamientos descritos por el candidato.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-2-de-octubre-0",
+          "evidence": "El dosier municipal del 2 de octubre enlaza una noticia de Marina Plaza sobre el episodio de lluvias y una información local sobre el aviso meteorológico, pero no aporta un parte que confirme inundaciones o cortes de carreteras en Calp.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La única fuente que afirma directamente los cortes de octubre es Canfali; la imagen mencionada como cortesía de la Policía Local no equivale por sí sola a un comunicado oficial verificable.",
-        "Debe localizarse el aviso original de la Policía Local o del Ayuntamiento, una orden de tráfico, expediente de obras o publicación en canales oficiales.",
-        "No debe publicarse como información confirmada hasta obtener una segunda fuente independiente o una fuente primaria municipal."
+        "La noticia podría estar mezclando incidencias comarcales de distintos municipios.",
+        "La evidencia sí permite publicar una pieza sobre lluvias intensas y cortes en el entorno de Pego, pero no el titular propuesto con Dénia y Calp."
       ],
-      "id": "inv_2c0a8ac6d953ab6e",
-      "investigated_at": "2026-10-05T16:03:11.929Z",
+      "id": "inv_19e6e344af0eef05",
+      "investigated_at": "2026-10-05T22:40:07.380Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "58acbc3762764479e3c24e1f01819eaf6566beca37f0cd0e03c75fe27d425a90",
+      "title": "La Policía Local de Calp celebrará el 6 de octubre la Parada Policial aplazada por las lluvias",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La convocatoria está confirmada por el canal oficial Calp Comunica, dependiente del Ayuntamiento. La información oficial del 5 de octubre anuncia el aplazamiento del acto previsto inicialmente para el 2 de octubre y fija la nueva celebración para el martes 6 de octubre en la plaza Colón, con exhibición a las 18:00 y Parada Policial a las 19:00.",
+      "claims": [
+        {
+          "claim": "La Parada Policial se celebrará el martes 6 de octubre de 2026 en la plaza Colón de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El acto fue aplazado tras suspenderse la convocatoria prevista para el viernes 2 de octubre por las lluvias.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La exhibición de material policial comenzará a las 18:00.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Parada Policial comenzará a las 19:00.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/",
+          "evidence": "La publicación oficial del 5 de octubre anuncia que la Policía Local celebrará el martes 6 de octubre la Parada Policial en honor a los Ángeles Custodios, después de suspenderla el viernes por las lluvias. Fija la plaza Colón como lugar y programa una exhibición a las 18:00 y el acto de la Parada Policial a las 19:00.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Noticias del Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre",
+          "evidence": "La agenda municipal confirma que el acto estaba previsto inicialmente para el viernes 2 de octubre en la plaza Colón, con exhibición a las 18:00 y Parada Policial a las 19:30, además de entrega de diplomas y cruces por años de servicio.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2/",
+          "evidence": "La convocatoria original del 30 de septiembre sitúa el acto en la plaza Colón el viernes 2 de octubre y confirma la exhibición de material policial y la Parada Policial en honor a los Ángeles Custodios. La página figura como evento pasado, coherente con su posterior aplazamiento.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La convocatoria original fijaba la Parada a las 19:30, mientras que el aviso oficial del 5 de octubre fija la nueva celebración del 6 de octubre a las 19:00. Para publicar debe utilizarse el horario actualizado de las 19:00."
+      ],
+      "id": "inv_ffc72eedbeaf4946",
+      "investigated_at": "2026-10-05T22:40:07.380Z",
       "model": "gpt-5.6-luna"
     }
   ]
