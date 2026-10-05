@@ -1,53 +1,61 @@
 {
-  "generated_at": "2026-10-05T00:57:35.621Z",
-  "count": 6,
+  "generated_at": "2026-10-05T07:05:27.727Z",
+  "count": 7,
   "evidences": [
     {
-      "id": "evd_9ff6120e4f1580b9",
-      "investigation_id": "inv_93297bb9b6d4d1ef",
-      "source_name": "Canfali",
-      "source_url": "https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/",
-      "evidence": "La noticia, publicada el 4 de octubre de 2026, afirma que los cortes comenzarían el 5 de octubre y durarían previsiblemente hasta el 8 de octubre por obras de reparación del pavimento. Detalla dos tramos afectados, un desvío desde la avenida Europa y atribuye la información a la Policía Local de Calp. La página muestra una imagen descrita como cortesía de la Policía de Calp, pero no enlaza una comunicación oficial independiente. ([canfali.com](https://canfali.com/cortes-trafico-calp-5-8-octubre-calle-la-nina/?utm_source=openai))",
+      "id": "evd_cca7744ca258b600",
+      "investigation_id": "inv_b111511312e7587d",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/ca/2026/10/02/una-tromba-daigua-anega-carrers-i-obliga-a-tallar-carreteres-a-pego-denia-i-calp",
+      "evidence": "Informa de precipitaciones intensas en la Marina Alta y afirma que en Calp la Policía Local habilitó un dispositivo especial y que fueron cerrados los pasos de tráfico del barranco del Quisi. Es la fuente directa de los hechos específicos, pero no constituye corroboración independiente.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_1f71bcdf7f2c2426",
-      "investigation_id": "inv_93297bb9b6d4d1ef",
+      "id": "evd_faf8b4b7657c3a3a",
+      "investigation_id": "inv_b111511312e7587d",
+      "source_name": "Agencia Estatal de Meteorología (AEMET)",
+      "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?f=AT&w=hoy",
+      "evidence": "Recoge para el 2 de octubre de 2026 un aviso de nivel importante por lluvias en el litoral norte de Alicante, con una previsión de hasta 50 milímetros en una hora.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_5d07d65e4709fde9",
+      "investigation_id": "inv_b111511312e7587d",
+      "source_name": "Ayuntamiento de Calp / Calp Comunica",
+      "source_url": "https://calpcomunica.calp.es/",
+      "evidence": "El Ayuntamiento comunicó el 2 de octubre la cancelación de actos por las lluvias y la alerta naranja prevista para el día siguiente, confirmando la existencia de un episodio meteorológico adverso en esas fechas, pero sin mencionar el barranco del Quisi ni sus pasos de tráfico.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_5346fe3b7254371b",
+      "investigation_id": "inv_b111511312e7587d",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12348/alerta-proteccion-civil-movil-lluvias-calp",
+      "evidence": "Informa de un aviso de Protección Civil por lluvias fuertes en la Marina Alta y recomienda evitar desplazamientos, zonas inundables y barrancos, así como respetar los cortes de tráfico y las indicaciones de emergencias. No identifica expresamente los pasos del Quisi.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_38cbc7f9015d893b",
+      "investigation_id": "inv_18c2ca3e04d8218f",
+      "source_name": "Cadena SER Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/18/el-pp-pone-fecha-a-varias-infraestructuras-educativas-pendientes-en-la-marina-alta-radio-denia/",
+      "evidence": "Publica que los diputados autonómicos populares Noelia Císcar y Javier Gutiérrez aseguraron durante una entrevista que el nuevo IES Les Salines de Calp y el Centro de Educación Especial Gargasindi deberían estar terminados antes de que acabara 2026.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_983db7da2eb3273a",
+      "investigation_id": "inv_18c2ca3e04d8218f",
       "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-7-de-enero-comienzan-las-obras-de-asfaltado-de-la-calle-la-ni%C3%B1a-y-las-avenidas-gabriel",
-      "evidence": "La comunicación municipal de enero de 2019 documenta actuaciones anteriores de pavimentación en la calle La Niña y confirma la existencia de problemas de pavimento en esa vía, pero no acredita los cortes anunciados para octubre de 2026. ([noticias.calp.es](https://noticias.calp.es/es/noticia/el-7-de-enero-comienzan-las-obras-de-asfaltado-de-la-calle-la-ni%C3%B1a-y-las-avenidas-gabriel?utm_source=openai))",
+      "source_url": "https://noticias.calp.es/es/noticia/calp-adjudica-las-obras-del-nuevo-ies-y-el-cee-gargasindi",
+      "evidence": "Informa de la adjudicación del IES Les Salines a Vialterra por 14.748.935,36 euros y 24 meses de ejecución, y del CEE Gargasindi a Orthem por 7.055.799,57 euros y 15 meses. La alcaldesa declaró que, si no sufrían contingencias y el proceso avanzaba con normalidad, ambos proyectos estarían a finales de 2026.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_e181ef3c6432c040",
-      "investigation_id": "inv_870a673822274ce4",
-      "source_name": "Real Club Náutico de Calpe",
-      "source_url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
-      "evidence": "El club anuncia oficialmente que será sede del Campeonato de España de Cruceros – Trofeo Loterías con el Deporte 2026, previsto del 16 al 18 de octubre en aguas de Calpe, coincidiendo con el 50.º aniversario del club. También indica la colaboración con la Real Federación Española de Vela. ([rcnc.es](https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_97aee87010c96e7a",
-      "investigation_id": "inv_870a673822274ce4",
-      "source_name": "Real Federación Española de Vela",
-      "source_url": "https://rfev.es/mas-de-40-regatas-decidiran-los-equipos-del-campeonato-de-espana-de-cruceros-loterias-con-el-deporte-2026/",
-      "evidence": "La federación confirma que la final nacional se celebrará del 16 al 18 de octubre en el Real Club Náutico de Calpe bajo la organización de la RFEV y el club anfitrión. ([rfev.es](https://rfev.es/mas-de-40-regatas-decidiran-los-equipos-del-campeonato-de-espana-de-cruceros-loterias-con-el-deporte-2026/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_e05f1fb3cebfa0c3",
-      "investigation_id": "inv_870a673822274ce4",
-      "source_name": "Federación Andaluza de Vela",
-      "source_url": "https://www.fav.es/campeonato-de-espana-de-cruceros-7/",
-      "evidence": "La federación autonómica informa el 30 de septiembre de 2026 de que 18 tripulaciones representarán a 13 federaciones autonómicas en la final del 16 al 18 de octubre en el Real Club Náutico de Calpe. ([fav.es](https://www.fav.es/campeonato-de-espana-de-cruceros-7/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_a0dda41994734c35",
-      "investigation_id": "inv_870a673822274ce4",
-      "source_name": "Mundo Deportivo",
-      "source_url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
-      "evidence": "La cobertura independiente confirma que 18 equipos de 13 federaciones autonómicas se reunirán del 16 al 18 de octubre en el Real Club Náutico de Calpe para disputar el título nacional. ([mundodeportivo.com](https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html?utm_source=openai))",
+      "id": "evd_9bf423a201742035",
+      "investigation_id": "inv_18c2ca3e04d8218f",
+      "source_name": "MarinaAlta.es / Dénia FM",
+      "source_url": "https://marinaalta.es/ca/2024/12/primera-pedra-del-nou-cee-gargasindi-i-ies-les-salines-a-calp/",
+      "evidence": "Informa del inicio simbólico de los proyectos y señala que para el CEE Gargasindi se preveía un plazo de ejecución de 15 meses y la apertura del centro para el curso 2026/2027, según la empresa adjudicataria.",
       "source_type": "SECONDARY"
     }
   ]

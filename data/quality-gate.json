@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-05T00:58:11.508Z",
+  "generated_at": "2026-10-05T07:05:57.609Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_d34762b7d11a8657",
-      "draft_id": "drf_c90b81a049ff4a45",
-      "investigation_id": "inv_870a673822274ce4",
-      "candidate_fingerprint": "75c1cb1d5738d232dcaa0aaf7e17d46407c4bd5294235d3c9fd5c445967f95c9",
-      "slug": "calp-campeonato-espana-cruceros-2026",
-      "category": "DEPORTES",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 221
-      },
-      "evaluated_at": "2026-10-05T00:58:11.508Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
