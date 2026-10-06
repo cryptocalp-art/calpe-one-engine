@@ -3,247 +3,26 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-06T10:22:11.109Z",
+  "generated_at": "2026-10-06T17:13:40.614Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 2,
-  "quarantined_count": 0,
-  "ready": [
+  "drafts_seen": 1,
+  "ready_count": 0,
+  "quarantined_count": 1,
+  "ready": [],
+  "quarantined": [
     {
-      "export_id": "exp_9a1b2fc0089b3bdd",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-06T10:22:11.109Z",
-      "source_draft_id": "drf_8a3106f9acb01f71",
-      "source_investigation_id": "inv_ead13b66534153c1",
-      "candidate_fingerprint": "cb13152f029d9f4d8ea162ceb54df64ed89eda3f2c9b15184d390319a7a1b5db",
-      "quality_gate_id": "qg_ee6c236ac8df15ad",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_8a3106f9acb01f71",
-        "investigation_id": "inv_ead13b66534153c1",
-        "candidate_fingerprint": "cb13152f029d9f4d8ea162ceb54df64ed89eda3f2c9b15184d390319a7a1b5db",
-        "title": "Dos detenidos en Calp por un presunto robo con violencia en la vía pública",
-        "subtitle": "Una víctima de 63 años fue trasladada al hospital tras recibir un golpe en la cabeza; los arrestados quedaron en libertad con cargos y medidas cautelares",
-        "summary": "La Guardia Civil ha detenido en Calp a dos hombres, de 25 y 37 años, como presuntos autores de un robo con violencia cometido contra dos personas en la vía pública. Una de las víctimas, de 63 años, recibió un golpe en la cabeza y tuvo que ser trasladada a un hospital.",
-        "body": "La Guardia Civil ha detenido en Calp a dos hombres de 25 y 37 años por su presunta relación con un robo con violencia contra dos personas en la vía pública, según la información difundida por las fuentes consultadas.\n\nDurante el incidente, una de las víctimas, un hombre de 63 años, recibió un golpe en la cabeza y fue trasladado al hospital. La persona que le acompañaba también resultó herida al intentar impedir el robo.\n\nLa investigación permitió localizar el vehículo utilizado en los hechos e identificar a los sospechosos en un plazo aproximado de dos días. Con esos indicios, los agentes procedieron a las detenciones en Calp.\n\nTras pasar a disposición del Tribunal de Instancia de Dénia, los dos detenidos quedaron en libertad con cargos y medidas cautelares. La información disponible no recoge una condena firme, por lo que ambos deben ser considerados presuntos autores mientras no exista una resolución judicial que establezca lo contrario.\n\nLos datos han sido publicados por Canfali y Cadena SER, que coinciden en los elementos principales del caso y atribuyen la actuación a la Guardia Civil.",
-        "category": "SUCESOS",
-        "slug": "dos-detenidos-calp-presunto-robo-violencia",
-        "seo_title": "Dos detenidos en Calp por un presunto robo con violencia",
-        "meta_description": "La Guardia Civil detiene en Calp a dos hombres por un presunto robo con violencia. Una víctima de 63 años fue trasladada al hospital.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ee6c236ac8df15ad",
-        "editorial_notes": [
-          "No se ha localizado una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre el caso.",
-          "Mantener en todo momento la condición de presuntos autores: las fuentes no informan de una condena firme."
-        ],
-        "sources": [
-          {
-            "name": "Canfali",
-            "url": "https://canfali.com/detenidos-agresion-robo-calp/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Cadena SER / Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://canfali.com/detenidos-agresion-robo-calp/",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 6,
-          "evidence_count": 2,
-          "caveats": [
-            "No se ha localizado en la búsqueda una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre este caso.",
-            "Las personas detenidas deben ser descritas como presuntos autores; las fuentes no informan de una condena firme."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ee6c236ac8df15ad",
-          "quality_gate_evaluated_at": "2026-10-06T10:22:10.998Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-10-06T10:21:59.251Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_8a3106f9acb01f71",
-        "title": "Dos detenidos en Calp por un presunto robo con violencia en la vía pública",
-        "slug": "dos-detenidos-calp-presunto-robo-violencia",
-        "summary": "La Guardia Civil ha detenido en Calp a dos hombres, de 25 y 37 años, como presuntos autores de un robo con violencia cometido contra dos personas en la vía pública. Una de las víctimas, de 63 años, recibió un golpe en la cabeza y tuvo que ser trasladada a un hospital.",
-        "body": "La Guardia Civil ha detenido en Calp a dos hombres de 25 y 37 años por su presunta relación con un robo con violencia contra dos personas en la vía pública, según la información difundida por las fuentes consultadas.\n\nDurante el incidente, una de las víctimas, un hombre de 63 años, recibió un golpe en la cabeza y fue trasladado al hospital. La persona que le acompañaba también resultó herida al intentar impedir el robo.\n\nLa investigación permitió localizar el vehículo utilizado en los hechos e identificar a los sospechosos en un plazo aproximado de dos días. Con esos indicios, los agentes procedieron a las detenciones en Calp.\n\nTras pasar a disposición del Tribunal de Instancia de Dénia, los dos detenidos quedaron en libertad con cargos y medidas cautelares. La información disponible no recoge una condena firme, por lo que ambos deben ser considerados presuntos autores mientras no exista una resolución judicial que establezca lo contrario.\n\nLos datos han sido publicados por Canfali y Cadena SER, que coinciden en los elementos principales del caso y atribuyen la actuación a la Guardia Civil.",
-        "category": "SUCESOS",
-        "seo_title": "Dos detenidos en Calp por un presunto robo con violencia",
-        "meta_description": "La Guardia Civil detiene en Calp a dos hombres por un presunto robo con violencia. Una víctima de 63 años fue trasladada al hospital.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ee6c236ac8df15ad",
-        "published_at": null,
-        "source_urls": [
-          "https://canfali.com/detenidos-agresion-robo-calp/",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/"
-        ],
-        "sources": [
-          {
-            "name": "Canfali",
-            "url": "https://canfali.com/detenidos-agresion-robo-calp/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Cadena SER / Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_ead13b66534153c1",
-        "candidate_fingerprint": "cb13152f029d9f4d8ea162ceb54df64ed89eda3f2c9b15184d390319a7a1b5db",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 6,
-          "evidence_count": 2,
-          "caveats": [
-            "No se ha localizado en la búsqueda una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre este caso.",
-            "Las personas detenidas deben ser descritas como presuntos autores; las fuentes no informan de una condena firme."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ee6c236ac8df15ad",
-          "quality_gate_evaluated_at": "2026-10-06T10:22:10.998Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_4edaaf3b853a4c9d",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-06T10:22:11.109Z",
-      "source_draft_id": "drf_7e504dcf4693e17b",
-      "source_investigation_id": "inv_c82a023dab6ac8dd",
-      "candidate_fingerprint": "1afc67dd9d7f3fe6c127a6de50ab24d484d5e6832fe4f1fa45aab844a7381669",
-      "quality_gate_id": "qg_bbc7c9966e58d638",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_7e504dcf4693e17b",
-        "investigation_id": "inv_c82a023dab6ac8dd",
-        "candidate_fingerprint": "1afc67dd9d7f3fe6c127a6de50ab24d484d5e6832fe4f1fa45aab844a7381669",
-        "title": "Calp reabre las barbacoas de los parques municipales por el bajo riesgo de incendio",
-        "subtitle": "La medida entra en vigor este 6 de octubre y afecta a seis emplazamientos municipales",
-        "summary": "El Ayuntamiento de Calp ha anunciado la reapertura, desde este 6 de octubre, de las barbacoas situadas en varios parques municipales y en la zona de acampada de Oltà, debido al bajo riesgo de incendio actual.",
-        "body": "El Ayuntamiento de Calp ha anunciado la reapertura de las barbacoas municipales a partir de este 6 de octubre. La decisión se justifica por el bajo riesgo de incendio actual, según la comunicación difundida por el consistorio.\n\nLa medida afecta a la zona de acampada de Oltà y a los parques Els Llombers, La Cometa, Enginent y La Vallesa. También incluye las barbacoas situadas en el entorno de la ermita de San Salvador.\n\nEl anuncio municipal confirma la fecha de entrada en vigor y los espacios incluidos en la reapertura, pero no detalla horarios, normas específicas de uso ni posibles restricciones posteriores si cambia el nivel de riesgo de incendio.\n\nLa información procede de una comunicación oficial del Ayuntamiento de Calp publicada el 6 de octubre de 2026. No se ha localizado una fuente independiente que informe por separado de la reapertura.",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-reabre-barbacoas-parques-municipales",
-        "seo_title": "Calp reabre las barbacoas municipales por bajo riesgo de incendio",
-        "meta_description": "El Ayuntamiento de Calp reabre desde el 6 de octubre las barbacoas de Oltà, varios parques y la ermita de San Salvador.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_bbc7c9966e58d638",
-        "editorial_notes": [
-          "La medida está respaldada por una comunicación oficial del Ayuntamiento, sin una fuente independiente adicional.",
-          "No se han publicado horarios, normas de uso ni restricciones posteriores vinculadas a posibles cambios en el riesgo de incendio."
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/",
-            "type": "PRIMARY"
-          }
-        ],
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales/",
-          "https://calpcomunica.calp.es/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 2,
-          "caveats": [
-            "No se ha localizado una fuente independiente que publique de forma separada la reapertura del 6 de octubre de 2026.",
-            "La evidencia confirma el anuncio municipal y las zonas incluidas, pero no detalla posibles horarios, normas de uso o restricciones posteriores por cambios en el nivel de riesgo."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_bbc7c9966e58d638",
-          "quality_gate_evaluated_at": "2026-10-06T10:22:10.998Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-10-06T10:21:59.251Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_7e504dcf4693e17b",
-        "title": "Calp reabre las barbacoas de los parques municipales por el bajo riesgo de incendio",
-        "slug": "calp-reabre-barbacoas-parques-municipales",
-        "summary": "El Ayuntamiento de Calp ha anunciado la reapertura, desde este 6 de octubre, de las barbacoas situadas en varios parques municipales y en la zona de acampada de Oltà, debido al bajo riesgo de incendio actual.",
-        "body": "El Ayuntamiento de Calp ha anunciado la reapertura de las barbacoas municipales a partir de este 6 de octubre. La decisión se justifica por el bajo riesgo de incendio actual, según la comunicación difundida por el consistorio.\n\nLa medida afecta a la zona de acampada de Oltà y a los parques Els Llombers, La Cometa, Enginent y La Vallesa. También incluye las barbacoas situadas en el entorno de la ermita de San Salvador.\n\nEl anuncio municipal confirma la fecha de entrada en vigor y los espacios incluidos en la reapertura, pero no detalla horarios, normas específicas de uso ni posibles restricciones posteriores si cambia el nivel de riesgo de incendio.\n\nLa información procede de una comunicación oficial del Ayuntamiento de Calp publicada el 6 de octubre de 2026. No se ha localizado una fuente independiente que informe por separado de la reapertura.",
-        "category": "MEDIO_AMBIENTE",
-        "seo_title": "Calp reabre las barbacoas municipales por bajo riesgo de incendio",
-        "meta_description": "El Ayuntamiento de Calp reabre desde el 6 de octubre las barbacoas de Oltà, varios parques y la ermita de San Salvador.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_bbc7c9966e58d638",
-        "published_at": null,
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales/",
-          "https://calpcomunica.calp.es/"
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/",
-            "type": "PRIMARY"
-          }
-        ],
-        "investigation_id": "inv_c82a023dab6ac8dd",
-        "candidate_fingerprint": "1afc67dd9d7f3fe6c127a6de50ab24d484d5e6832fe4f1fa45aab844a7381669",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 2,
-          "caveats": [
-            "No se ha localizado una fuente independiente que publique de forma separada la reapertura del 6 de octubre de 2026.",
-            "La evidencia confirma el anuncio municipal y las zonas incluidas, pero no detalla posibles horarios, normas de uso o restricciones posteriores por cambios en el nivel de riesgo."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_bbc7c9966e58d638",
-          "quality_gate_evaluated_at": "2026-10-06T10:22:10.998Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
+      "export_id": "exp_60378c11a35e4a03",
+      "draft_id": "drf_8ade18931ae8733d",
+      "investigation_id": "inv_39bd58df96ed6eb9",
+      "slug": "calp-licita-diagnostico-uso-percepcion-espacio-publico",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
     }
-  ],
-  "quarantined": []
+  ]
 }
