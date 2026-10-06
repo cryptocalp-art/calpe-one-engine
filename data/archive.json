@@ -3,9 +3,63 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-06T03:01:12.354Z",
-  "count": 62,
+  "updated_at": "2026-10-06T10:22:11.221Z",
+  "count": 63,
   "articles": [
+    {
+      "archive_id": "arc_b14863b8a9b52fc6",
+      "external_id": "drf_8a3106f9acb01f71",
+      "investigation_id": "inv_ead13b66534153c1",
+      "candidate_fingerprints": [
+        "cb13152f029d9f4d8ea162ceb54df64ed89eda3f2c9b15184d390319a7a1b5db"
+      ],
+      "title": "Dos detenidos en Calp por un presunto robo con violencia en la vía pública",
+      "slug": "dos-detenidos-calp-presunto-robo-violencia",
+      "summary": "La Guardia Civil ha detenido en Calp a dos hombres, de 25 y 37 años, como presuntos autores de un robo con violencia cometido contra dos personas en la vía pública. Una de las víctimas, de 63 años, recibió un golpe en la cabeza y tuvo que ser trasladada a un hospital.",
+      "body": "La Guardia Civil ha detenido en Calp a dos hombres de 25 y 37 años por su presunta relación con un robo con violencia contra dos personas en la vía pública, según la información difundida por las fuentes consultadas.\n\nDurante el incidente, una de las víctimas, un hombre de 63 años, recibió un golpe en la cabeza y fue trasladado al hospital. La persona que le acompañaba también resultó herida al intentar impedir el robo.\n\nLa investigación permitió localizar el vehículo utilizado en los hechos e identificar a los sospechosos en un plazo aproximado de dos días. Con esos indicios, los agentes procedieron a las detenciones en Calp.\n\nTras pasar a disposición del Tribunal de Instancia de Dénia, los dos detenidos quedaron en libertad con cargos y medidas cautelares. La información disponible no recoge una condena firme, por lo que ambos deben ser considerados presuntos autores mientras no exista una resolución judicial que establezca lo contrario.\n\nLos datos han sido publicados por Canfali y Cadena SER, que coinciden en los elementos principales del caso y atribuyen la actuación a la Guardia Civil.",
+      "category": "SUCESOS",
+      "seo_title": "Dos detenidos en Calp por un presunto robo con violencia",
+      "meta_description": "La Guardia Civil detiene en Calp a dos hombres por un presunto robo con violencia. Una víctima de 63 años fue trasladada al hospital.",
+      "sources": [
+        {
+          "name": "Canfali",
+          "url": "https://canfali.com/detenidos-agresion-robo-calp/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Cadena SER / Radio Dénia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://canfali.com/detenidos-agresion-robo-calp",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 2,
+        "caveats": [
+          "No se ha localizado en la búsqueda una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre este caso.",
+          "Las personas detenidas deben ser descritas como presuntos autores; las fuentes no informan de una condena firme."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_ee6c236ac8df15ad",
+        "quality_gate_evaluated_at": "2026-10-06T10:22:10.998Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No se ha localizado una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre el caso.",
+        "Mantener en todo momento la condición de presuntos autores: las fuentes no informan de una condena firme."
+      ],
+      "published_at": "2026-10-06T10:21:59.251Z",
+      "updated_at": "2026-10-06T10:22:11.221Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_ff0170ed3599be91",
       "external_id": "drf_9815d8bf5e3ff9b9",
@@ -875,7 +929,8 @@
       "candidate_fingerprints": [
         "cfbc007f0f224c0f2dcf91602b7161aecf80e0abe32d2fef09ac7c14ce6b0f9b",
         "0f6e480b78ae3619b159cb1cc247aa51452ff5a2156786de02f10de487065c6b",
-        "58acbc3762764479e3c24e1f01819eaf6566beca37f0cd0e03c75fe27d425a90"
+        "58acbc3762764479e3c24e1f01819eaf6566beca37f0cd0e03c75fe27d425a90",
+        "1afc67dd9d7f3fe6c127a6de50ab24d484d5e6832fe4f1fa45aab844a7381669"
       ],
       "title": "La Policía Local de Calp prepara una exhibición y una parada por la festividad de sus patronos",
       "slug": "calp-exhibicion-parada-policia-local-angeles-custodios",
@@ -900,7 +955,8 @@
         "https://calpcomunica.calp.es/evento/%F0%9F%91%AE-la-policia-local-de-calp-celebra-el-dia-de-sus-patronos-los-angeles-custodios-2",
         "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-2-3-y-4-de-octubre",
         "https://calpcomunica.calp.es/evento/cancelacion-por-lluvias",
-        "https://calpcomunica.calp.es"
+        "https://calpcomunica.calp.es",
+        "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -926,7 +982,7 @@
         "No se informa del número de agentes que recibirán diplomas o cruces."
       ],
       "published_at": "2026-10-02T05:41:03.354Z",
-      "updated_at": "2026-10-05T22:40:50.460Z",
+      "updated_at": "2026-10-06T10:22:11.221Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

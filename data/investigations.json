@@ -1,149 +1,110 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-06T03:00:29.117Z",
+  "generated_at": "2026-10-06T10:21:29.106Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "6d736114c85d4cfe0dbb902bec7cb424a9076cdcc20b5a84ee32a6852a2d1ba0",
-      "title": "Calp aprueba definitivamente la urbanización de cuatro parcelas en Benicolada",
+      "candidate_fingerprint": "cb13152f029d9f4d8ea162ceb54df64ed89eda3f2c9b15184d390319a7a1b5db",
+      "title": "Dos detenidos en Calp por agredir y robar a dos personas en la vía pública",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El BOP de Alicante confirma la aprobación definitiva, mediante Resolución de Alcaldía de 13 de agosto de 2026, del proyecto de urbanización de las parcelas 5-N, 6-N, 7-N y 18-I de la partida Benicolada. La resolución pone fin a la vía administrativa y contempla recursos potestativos y judiciales dentro de los plazos legales.",
+      "summary": "La noticia queda corroborada por Canfali y Cadena SER, medios independientes entre sí. Ambas fuentes coinciden en los elementos esenciales: dos hombres de 25 y 37 años fueron detenidos por la Guardia Civil en Calp por un presunto robo con violencia contra dos personas en la vía pública; una víctima de 63 años fue golpeada en la cabeza y trasladada al hospital. También coinciden en la identificación de los sospechosos mediante el vehículo y en su puesta a disposición judicial, con libertad con cargos y medidas cautelares.",
       "claims": [
         {
-          "claim": "El Boletín Oficial de la Provincia publicó el anuncio el 5 de octubre de 2026.",
+          "claim": "La Guardia Civil detuvo en Calp a dos hombres de 25 y 37 años.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto afecta a las parcelas 5-N, 6-N, 7-N y 18-I de la partida Benicolada, en Calp.",
+          "claim": "Los detenidos son presuntos autores de un robo con violencia contra dos personas en la vía pública.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación definitiva fue acordada mediante Resolución de Alcaldía n.º 2026-1979, de 13 de agosto de 2026.",
+          "claim": "Una víctima de 63 años recibió un golpe en la cabeza y tuvo que ser trasladada al hospital.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación desarrolla un estudio de detalle aprobado definitivamente en 2017.",
+          "claim": "La segunda persona que acompañaba a la víctima también resultó herida al intentar impedir el robo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto se tramitó de forma independiente después de que los promotores renunciaran al PAI presentado en 2024.",
+          "claim": "Los investigadores localizaron el vehículo utilizado e identificaron a los sospechosos en un plazo aproximado de dos días.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "No se presentaron alegaciones durante el periodo de información pública.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La resolución pone fin a la vía administrativa.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se pueden presentar recurso potestativo de reposición en un mes o recurso contencioso-administrativo en dos meses.",
+          "claim": "Los detenidos quedaron a disposición del Tribunal de Instancia de Dénia y fueron puestos en libertad con cargos y medidas cautelares.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Boletín Oficial de la Provincia de Alicante",
-          "source_url": "https://www.dip-alicante.es/bop2/pdftotal/2026/10/05_189/2026_007435.pdf",
-          "evidence": "El anuncio oficial identifica el expediente como la aprobación definitiva del proyecto de urbanización en Benicolada, parcelas 5-N, 6-N, 7-N y 18-I. Indica que la Alcaldía lo aprobó mediante Resolución n.º 2026-1979, de 13 de agosto de 2026; que no se presentaron alegaciones; y que la resolución pone fin a la vía administrativa, con posibilidad de reposición en un mes o recurso contencioso-administrativo en dos meses.",
-          "source_type": "PRIMARY"
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/detenidos-agresion-robo-calp/",
+          "evidence": "Publica el 6 de octubre de 2026 que la Guardia Civil detuvo en Calp a dos hombres de 25 y 37 años por un presunto robo con violencia contra dos personas. Detalla el golpe en la cabeza a una víctima de 63 años, la lesión de su acompañante, el traslado hospitalario, la localización del vehículo, las identificaciones y la puesta en libertad con cargos y medidas cautelares.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Boletín Bien de la Provincia de Alicante",
-          "source_url": "https://boletinbien.com/alicante/administracion-local/ayuntamientos/calp/proyecto-urbanizacion",
-          "evidence": "La información secundaria reproduce los datos esenciales del anuncio oficial: ubicación y parcelas afectadas, fecha de aprobación de 13 de agosto de 2026, ausencia de alegaciones y plazos de los recursos.",
+          "source_name": "Cadena SER / Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/06/detenidos-dos-hombres-en-calpe-tras-agredir-y-robar-a-dos-personas-en-plena-calle-radio-denia/",
+          "evidence": "Informa el 6 de octubre de 2026, atribuyendo los datos a la Guardia Civil, de la detención de dos hombres de 25 y 37 años tras seguir y abordar a dos personas en la vía pública. Confirma el golpe a un hombre de 63 años, el robo de una riñonera, las lesiones de la segunda víctima, el traslado hospitalario, la investigación mediante el vehículo y la libertad con cargos con medidas cautelares.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La corroboración secundaria consultada remite al mismo PDF oficial y no constituye una investigación independiente del expediente.",
-        "La aprobación del proyecto de urbanización no equivale por sí sola a que las obras hayan comenzado o estén ejecutadas."
+        "No se ha localizado en la búsqueda una nota pública directa de la Guardia Civil o del Ministerio del Interior sobre este caso.",
+        "Las personas detenidas deben ser descritas como presuntos autores; las fuentes no informan de una condena firme."
       ],
-      "id": "inv_0011ffacba1a649b",
-      "investigated_at": "2026-10-06T03:00:29.117Z",
+      "id": "inv_ead13b66534153c1",
+      "investigated_at": "2026-10-06T10:21:29.106Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "825ef9868f8a7033a1639a0e394b26ff4f59fa4c245fce3434e6ea4d88ef28e6",
-      "title": "Calp activa los bonos consumo de 2026 con ayudas de hasta 100 euros por persona",
+      "candidate_fingerprint": "1afc67dd9d7f3fe6c127a6de50ab24d484d5e6832fe4f1fa45aab844a7381669",
+      "title": "Calp reabre las barbacoas de los parques municipales por el bajo riesgo de incendio",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El BOP de Alicante publicó el 5 de octubre de 2026 la aprobación definitiva de las bases de la campaña Bono Consumo Calp 2026. El programa dispone de 389.130 euros: 369.130 euros para los bonos y 20.000 euros para funcionamiento y publicidad. Las personas adultas empadronadas en Calp pueden obtener bonos de 20, 50 o 100 euros, con una ayuda máxima de 100 euros por solicitante; los comercios deben adherirse voluntariamente para participar.",
+      "summary": "La afirmación está respaldada por una comunicación oficial del Ayuntamiento de Calp publicada el 6 de octubre de 2026. El Ayuntamiento vincula la apertura al bajo riesgo de incendio actual y enumera las zonas afectadas: la zona de acampada de Oltà y los parques Els Llombers, La Cometa, Enginent, La Vallesa y la ermita de San Salvador.",
       "claims": [
         {
-          "claim": "El Ayuntamiento aprobó definitivamente las bases de la campaña Bono Consumo 2026.",
+          "claim": "El Ayuntamiento de Calp anunció la reapertura de las barbacoas el 6 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación definitiva se publicó en el BOP de Alicante de 5 de octubre de 2026.",
+          "claim": "La reapertura se justifica por el bajo riesgo de incendio actual.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La campaña tiene un crédito total de 389.130 euros.",
+          "claim": "La medida afecta a Oltà, Els Llombers, La Cometa, Enginent, La Vallesa y la ermita de San Salvador.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "369.130 euros se destinan exclusivamente a los bonos.",
+          "claim": "La reapertura se produce desde el mismo 6 de octubre.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "20.000 euros se destinan a gastos de funcionamiento y publicidad.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ayuda está limitada a 100 euros por solicitante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Pueden beneficiarse las personas físicas mayores de edad empadronadas en Calp que cumplan los requisitos de identificación establecidos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los bonos tienen valores nominales de 20, 50 y 100 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los establecimientos comerciales deben adherirse voluntariamente para participar en el programa.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La campaña ya permite solicitar o canjear bonos de forma inmediata.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Boletín Oficial de la Provincia de Alicante",
-          "source_url": "https://www.dip-alicante.es/bop2/pdftotal/2026/10/05_189/2026_007464.pdf",
-          "evidence": "El anuncio oficial declara definitivamente aprobadas las bases tras el periodo de exposición pública. Fija un presupuesto total de 389.130 euros, de los que 369.130 euros corresponden a los bonos y 20.000 euros a funcionamiento y publicidad. Establece una ayuda máxima de 100 euros por solicitante, bonos de 20, 50 y 100 euros, beneficiarios mayores de edad empadronados en Calp y adhesión voluntaria de los establecimientos colaboradores.",
+          "source_name": "Ayuntamiento de Calp / Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/se-reabren-las-barbacoas-de-los-parques-municipales/",
+          "evidence": "La página oficial del Ayuntamiento identifica el anuncio como publicado el 6 de octubre de 2026 con el título “Se reabren las barbacoas de los parques municipales”.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-aprueba-las-bases-de-la-campa%C3%B1a-de-bono-consumo",
-          "evidence": "El Ayuntamiento informó el 11 de agosto de 2026 de la aprobación inicial de las bases, con los mismos importes, límite de 100 euros, valores de los bonos y requisitos generales de las personas beneficiarias y establecimientos adheridos.",
+          "source_name": "Ayuntamiento de Calp / Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/",
+          "evidence": "La portada oficial del servicio municipal indica que, debido al bajo riesgo de incendio actual, se abren desde ese día las barbacoas de la zona de acampada de Oltà y de los parques Els Llombers, La Cometa, Enginent, La Vallesa y la ermita de San Salvador.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Boletín Bien de la Provincia de Alicante",
-          "source_url": "https://boletinbien.com/alicante/administracion-local/ayuntamientos/calp/bono-consumo-2026-10-05",
-          "evidence": "La información secundaria resume la aprobación definitiva, el presupuesto total, la distribución entre bonos y gastos, el límite de 100 euros por persona y los valores nominales de 20, 50 y 100 euros.",
-          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El verbo \"activa\" debe entenderse como aprobación definitiva y puesta en marcha administrativa de la campaña; las fuentes consultadas no prueban por sí solas que la plataforma de solicitud o el canje estuvieran operativos el 5 de octubre de 2026.",
-        "La adhesión de los comercios es voluntaria: solo deben adherirse aquellos establecimientos que quieran participar, no todo el comercio de Calp.",
-        "La fuente municipal de agosto acredita la aprobación inicial; la aprobación definitiva queda acreditada por el BOP de 5 de octubre de 2026."
+        "No se ha localizado una fuente independiente que publique de forma separada la reapertura del 6 de octubre de 2026.",
+        "La evidencia confirma el anuncio municipal y las zonas incluidas, pero no detalla posibles horarios, normas de uso o restricciones posteriores por cambios en el nivel de riesgo."
       ],
-      "id": "inv_728aa76cba587872",
-      "investigated_at": "2026-10-06T03:00:29.117Z",
+      "id": "inv_c82a023dab6ac8dd",
+      "investigated_at": "2026-10-06T10:21:29.106Z",
       "model": "gpt-5.6-luna"
     }
   ]
