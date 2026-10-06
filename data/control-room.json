@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-06T17:13:47.396Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-10-06T17:13:47.204Z",
+  "generated_at": "2026-10-06T21:39:40.988Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-10-06T21:39:40.784Z",
   "newspaper": {
     "archive_total": 63,
     "published_today": 4,
-    "published_last_7_days": 31,
+    "published_last_7_days": 30,
     "categories": {
       "SUCESOS": 6,
       "MEDIO_AMBIENTE": 14,
@@ -82,9 +82,9 @@
   "editorial_cycle": {
     "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 1,
+    "drafts": 0,
     "eligible": 0,
-    "quarantined": 1,
+    "quarantined": 0,
     "archive_added": 0
   },
   "delivery": {
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_8ade18931ae8733d",
-      "slug": "calp-licita-diagnostico-uso-percepcion-espacio-publico",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-06T17:13:40.452Z"
-    }
-  ]
+  "quarantine": []
 }

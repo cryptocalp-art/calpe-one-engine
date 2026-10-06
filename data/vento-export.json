@@ -3,26 +3,12 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-06T17:13:40.614Z",
+  "generated_at": "2026-10-06T21:39:33.713Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
+  "drafts_seen": 0,
   "ready_count": 0,
-  "quarantined_count": 1,
+  "quarantined_count": 0,
   "ready": [],
-  "quarantined": [
-    {
-      "export_id": "exp_60378c11a35e4a03",
-      "draft_id": "drf_8ade18931ae8733d",
-      "investigation_id": "inv_39bd58df96ed6eb9",
-      "slug": "calp-licita-diagnostico-uso-percepcion-espacio-publico",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ]
-    }
-  ]
+  "quarantined": []
 }

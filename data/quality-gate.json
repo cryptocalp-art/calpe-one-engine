@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-06T17:13:40.452Z",
+  "generated_at": "2026-10-06T21:39:33.543Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,52 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
+  "drafts_seen": 0,
   "eligible_count": 0,
-  "quarantined_count": 1,
-  "decisions": [
-    {
-      "gate_id": "qg_6d4f655be5c25690",
-      "draft_id": "drf_8ade18931ae8733d",
-      "investigation_id": "inv_39bd58df96ed6eb9",
-      "candidate_fingerprint": "4d6416cc477186371edde9b14f84ecf46d80d3804dbfb065753224fb9b1c2e8b",
-      "slug": "calp-licita-diagnostico-uso-percepcion-espacio-publico",
-      "category": "MEDIO_AMBIENTE",
-      "status": "QUARANTINED",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 6,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 3,
-        "evidence_count": 2,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 2,
-        "distinct_evidence_hosts": 2,
-        "institutional_or_political": true,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 261
-      },
-      "evaluated_at": "2026-10-06T17:13:40.452Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "quarantined_count": 0,
+  "decisions": []
 }
