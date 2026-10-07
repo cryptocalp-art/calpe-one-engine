@@ -2,25 +2,53 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-07T08:42:26.267Z",
+  "generated_at": "2026-10-07T16:32:55.616Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-07T08:42:26.119Z",
+  "last_activity": "2026-10-07T16:32:55.422Z",
   "newspaper": {
-    "archive_total": 64,
-    "published_today": 1,
-    "published_last_7_days": 27,
+    "archive_total": 68,
+    "published_today": 5,
+    "published_last_7_days": 31,
     "categories": {
-      "SOCIEDAD": 9,
+      "LOCAL": 11,
+      "POLITICA": 3,
+      "SOCIEDAD": 10,
+      "MEDIO_AMBIENTE": 15,
       "SUCESOS": 6,
-      "MEDIO_AMBIENTE": 14,
       "ECONOMIA": 8,
-      "LOCAL": 10,
       "TURISMO": 8,
       "DEPORTES": 3,
-      "CULTURA": 4,
-      "POLITICA": 2
+      "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_81d72ae8acd2f20e",
+        "title": "Calp convoca un concurso para definir la reurbanización de la avenida Europa, la plaza Colón y varias calles",
+        "category": "LOCAL",
+        "slug": "calp-concurso-reurbanizacion-avenida-europa-plaza-colon",
+        "published_at": "2026-10-07T16:32:17.406Z"
+      },
+      {
+        "archive_id": "arc_d4850eda1da87bfc",
+        "title": "Calp alcanza un 29,35% en el último análisis de indicadores de transparencia de Dyntra",
+        "category": "POLITICA",
+        "slug": "dyntra-transparencia-ayuntamiento-calp-2935-por-ciento",
+        "published_at": "2026-10-07T16:32:17.406Z"
+      },
+      {
+        "archive_id": "arc_b44724da52bfceca",
+        "title": "HCB Calpe se incorpora al grupo sanitario Ribera tras autorizarse la operación",
+        "category": "SOCIEDAD",
+        "slug": "hcb-calpe-incorpora-grupo-sanitario-ribera",
+        "published_at": "2026-10-07T16:32:17.406Z"
+      },
+      {
+        "archive_id": "arc_80b32c4b0681f127",
+        "title": "El Consorci Mare recupera 8.084 kilos de textil y 1.013 litros de aceite durante septiembre",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "consorci-mare-recoge-textil-aceite-septiembre",
+        "published_at": "2026-10-07T16:32:17.406Z"
+      },
       {
         "archive_id": "arc_f82bc7f2dd8682a5",
         "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
@@ -48,44 +76,16 @@
         "category": "ECONOMIA",
         "slug": "calp-aprueba-bases-bono-consumo-2026",
         "published_at": "2026-10-06T03:00:59.520Z"
-      },
-      {
-        "archive_id": "arc_b92aa8649b074866",
-        "title": "Calp activa cortes y desvíos en la calle La Niña por trabajos de reparación",
-        "category": "LOCAL",
-        "slug": "cortes-calle-la-nina-calp-reparacion-pavimento",
-        "published_at": "2026-10-05T22:40:40.226Z"
-      },
-      {
-        "archive_id": "arc_312d5c01efeaf1e0",
-        "title": "Calp traslada al Parlamento Europeo su oposición a ampliar la piscifactoría",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-lleva-a-europa-su-rechazo-a-la-piscifactoria",
-        "published_at": "2026-10-05T16:03:45.233Z"
-      },
-      {
-        "archive_id": "arc_aa97edc6879491b7",
-        "title": "La Fiscalía solicita 14 años de prisión para un acusado de agredir sexualmente a una menor en Calp",
-        "category": "SUCESOS",
-        "slug": "fiscalia-pide-14-anos-agresion-sexual-menor-calp",
-        "published_at": "2026-10-04T17:37:42.518Z"
-      },
-      {
-        "archive_id": "arc_f7a63936ef67f36b",
-        "title": "Calp ocupa el segundo puesto en Alicante por porcentaje de viviendas vacías, según datos de 2021",
-        "category": "SOCIEDAD",
-        "slug": "calp-segundo-municipio-alicante-viviendas-vacias",
-        "published_at": "2026-10-04T13:14:01.963Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 4,
+    "eligible": 4,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 4
   },
   "delivery": {
     "distribution_failed": 0,
