@@ -3,12 +3,278 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-06T21:39:33.713Z",
+  "generated_at": "2026-10-07T01:35:12.249Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 2,
+  "ready_count": 2,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_97dcd117ea240193",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-07T01:35:12.249Z",
+      "source_draft_id": "drf_30305e6a7073655b",
+      "source_investigation_id": "inv_5c564089c6227c23",
+      "candidate_fingerprint": "67774719c6dd253270ae1342f1fdb0e8efef597487589c1401b64192a1ea1ca0",
+      "quality_gate_id": "qg_a437504371e55d46",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_30305e6a7073655b",
+        "investigation_id": "inv_5c564089c6227c23",
+        "candidate_fingerprint": "67774719c6dd253270ae1342f1fdb0e8efef597487589c1401b64192a1ea1ca0",
+        "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
+        "subtitle": "La jornada incluirá actividades familiares, una paella gigante y una actuación itinerante de Dianium Dansa",
+        "summary": "Calp conmemorará el 9 d’Octubre el viernes 9 de octubre de 2026 con una programación que combinará actividades familiares, propuestas gastronómicas y actos institucionales. La entrega del Premi Jaume Pastor i Fluixà y de las Medallas de la Villa se celebrará a las 20:00 en la plaza Mayor.",
+        "body": "La programación del 9 d’Octubre en Calp tendrá como acto central la entrega del Premi Jaume Pastor i Fluixà y las Medallas de la Villa. El acto institucional está previsto para el viernes 9 de octubre de 2026, a las 20:00, en la plaza Mayor.\n\nLa jornada comenzará con actividades familiares durante la mañana. El programa contempla propuestas infantiles y familiares entre las 11:00 y las 14:00, según la información difundida sobre la celebración.\n\nA las 14:00 está prevista una paella gigante. La actividad se integra en la programación de la jornada y precederá a las propuestas previstas para la tarde.\n\nLa música y la danza tendrán también presencia en el programa. Dianium Dansa ofrecerá una actuación itinerante a las 19:15 por el centro de Calp, antes del acto institucional de la plaza Mayor.\n\nLa celebración concluirá con la entrega de los reconocimientos municipales, que cuenta con confirmación directa en la agenda oficial del Ayuntamiento de Calp. Las actividades complementarias —las propuestas familiares, la paella gigante y la actuación de Dianium Dansa— aparecen recogidas de forma coincidente en dos fuentes locales independientes.\n\nDe este modo, el programa combina actividades dirigidas al público familiar durante la mañana, una propuesta gastronómica al mediodía y una actuación itinerante antes de la ceremonia institucional de la tarde. La información disponible no detalla en la agenda municipal consultada todos los actos complementarios, aunque estos sí están corroborados por las fuentes secundarias coincidentes.",
+        "category": "SOCIEDAD",
+        "slug": "calp-programa-9-octubre-2026",
+        "seo_title": "Calp prepara el programa del 9 d’Octubre de 2026",
+        "meta_description": "Calp celebrará el 9 d’Octubre con actividades familiares, paella gigante, Dianium Dansa y la entrega de premios y medallas en la plaza Mayor.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_a437504371e55d46",
+        "editorial_notes": [
+          "La agenda municipal confirma directamente el acto institucional. Las actividades complementarias se basan en dos fuentes secundarias coincidentes y no aparecen enumeradas íntegramente en la página municipal consultada."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — Noticias / Agenda cultural",
+            "url": "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Red Costa Blanca — 9 Octubre en Calpe",
+            "url": "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+          "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+          "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La fuente municipal consultada confirma directamente el acto institucional, pero no enumera en esa página todos los actos complementarios; estos quedan corroborados por dos fuentes secundarias coincidentes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_a437504371e55d46",
+          "quality_gate_evaluated_at": "2026-10-07T01:35:12.116Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-07T01:34:59.643Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_30305e6a7073655b",
+        "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
+        "slug": "calp-programa-9-octubre-2026",
+        "summary": "Calp conmemorará el 9 d’Octubre el viernes 9 de octubre de 2026 con una programación que combinará actividades familiares, propuestas gastronómicas y actos institucionales. La entrega del Premi Jaume Pastor i Fluixà y de las Medallas de la Villa se celebrará a las 20:00 en la plaza Mayor.",
+        "body": "La programación del 9 d’Octubre en Calp tendrá como acto central la entrega del Premi Jaume Pastor i Fluixà y las Medallas de la Villa. El acto institucional está previsto para el viernes 9 de octubre de 2026, a las 20:00, en la plaza Mayor.\n\nLa jornada comenzará con actividades familiares durante la mañana. El programa contempla propuestas infantiles y familiares entre las 11:00 y las 14:00, según la información difundida sobre la celebración.\n\nA las 14:00 está prevista una paella gigante. La actividad se integra en la programación de la jornada y precederá a las propuestas previstas para la tarde.\n\nLa música y la danza tendrán también presencia en el programa. Dianium Dansa ofrecerá una actuación itinerante a las 19:15 por el centro de Calp, antes del acto institucional de la plaza Mayor.\n\nLa celebración concluirá con la entrega de los reconocimientos municipales, que cuenta con confirmación directa en la agenda oficial del Ayuntamiento de Calp. Las actividades complementarias —las propuestas familiares, la paella gigante y la actuación de Dianium Dansa— aparecen recogidas de forma coincidente en dos fuentes locales independientes.\n\nDe este modo, el programa combina actividades dirigidas al público familiar durante la mañana, una propuesta gastronómica al mediodía y una actuación itinerante antes de la ceremonia institucional de la tarde. La información disponible no detalla en la agenda municipal consultada todos los actos complementarios, aunque estos sí están corroborados por las fuentes secundarias coincidentes.",
+        "category": "SOCIEDAD",
+        "seo_title": "Calp prepara el programa del 9 d’Octubre de 2026",
+        "meta_description": "Calp celebrará el 9 d’Octubre con actividades familiares, paella gigante, Dianium Dansa y la entrega de premios y medallas en la plaza Mayor.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_a437504371e55d46",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+          "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+          "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — Noticias / Agenda cultural",
+            "url": "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Red Costa Blanca — 9 Octubre en Calpe",
+            "url": "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_5c564089c6227c23",
+        "candidate_fingerprint": "67774719c6dd253270ae1342f1fdb0e8efef597487589c1401b64192a1ea1ca0",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La fuente municipal consultada confirma directamente el acto institucional, pero no enumera en esa página todos los actos complementarios; estos quedan corroborados por dos fuentes secundarias coincidentes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_a437504371e55d46",
+          "quality_gate_evaluated_at": "2026-10-07T01:35:12.116Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_dd22657aa76dae81",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-07T01:35:12.249Z",
+      "source_draft_id": "drf_e80c49e489e8cc3d",
+      "source_investigation_id": "inv_8a16fabccb5bb5d3",
+      "candidate_fingerprint": "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1",
+      "quality_gate_id": "qg_d4e65d17f9973bac",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_e80c49e489e8cc3d",
+        "investigation_id": "inv_8a16fabccb5bb5d3",
+        "candidate_fingerprint": "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1",
+        "title": "Calp presenta el cartel oficial de los Moros y Cristianos 2026",
+        "subtitle": "La edición, cuyo cartel ha sido realizado por Enrique Díaz Núñez, se celebrará del 21 al 26 de octubre y coincidirá con el 50 aniversario",
+        "summary": "La Asociación de Moros y Cristianos de Calp ha presentado el cartel oficial de la edición de 2026, obra de Enrique Díaz Núñez. Las fiestas se celebrarán del 21 al 26 de octubre, en una edición que coincide con el 50 aniversario de la celebración.",
+        "body": "La Asociación de Moros y Cristianos de Calp ha dado a conocer el cartel anunciador oficial de las fiestas de 2026. La obra ha sido realizada por Enrique Díaz Núñez, según la información publicada por la entidad organizadora.\n\nLas celebraciones tendrán lugar del 21 al 26 de octubre de 2026. La programación festiva se desarrollará en torno al 22 de octubre, de acuerdo con la información municipal sobre estas fiestas.\n\nLa edición de este año coincide con el 50 aniversario de los Moros y Cristianos de Calp. Fuentes municipales y de la propia asociación sitúan la conmemoración del aniversario entre 2026 y 2027, mientras que la convocatoria y las informaciones sobre la edición de 2026 identifican este año como el del 50 aniversario.\n\nLa presentación del cartel y la identificación de su autor proceden principalmente de la Asociación de Moros y Cristianos de Calp, entidad organizadora. Las fechas de celebración y la referencia al aniversario cuentan además con corroboración municipal e independiente.\n\nCon el cartel ya presentado, la asociación dispone de la imagen oficial para una edición que se celebrará durante seis días, del 21 al 26 de octubre. La información disponible en este expediente no incluye otros detalles de la programación diaria ni atribuye declaraciones concretas sobre el diseño de la obra o sobre la organización de los actos.",
+        "category": "CULTURA",
+        "slug": "calp-cartel-moros-cristianos-2026",
+        "seo_title": "Calp presenta el cartel de Moros y Cristianos 2026",
+        "meta_description": "La Asociación de Moros y Cristianos de Calp presenta el cartel de 2026, obra de Enrique Díaz Núñez, para unas fiestas del 21 al 26 de octubre.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_d4e65d17f9973bac",
+        "editorial_notes": [
+          "La presentación del cartel y la autoría proceden principalmente de la Asociación de Moros y Cristianos, entidad organizadora. Las fechas y el 50 aniversario están corroborados por fuentes municipales e independientes.",
+          "El expediente sitúa la conmemoración del 50 aniversario entre 2026 y 2027 en una de las fuentes municipales; conviene mantener esa precisión si se amplía la información."
+        ],
+        "sources": [
+          {
+            "name": "Portal de las fiestas de Moros y Cristianos de Calpe — Asociación de Moros y Cristianos",
+            "url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — Noticias",
+            "url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Portal de las fiestas de Moros y Cristianos de Calpe — Asociación de Moros y Cristianos",
+            "url": "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp/",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+          "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
+          "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+          "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "La corroboración independiente confirma las fechas y el 50 aniversario, mientras que la presentación concreta del cartel y la autoría proceden principalmente de la fuente oficial de la Asociación, que es la entidad organizadora."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_d4e65d17f9973bac",
+          "quality_gate_evaluated_at": "2026-10-07T01:35:12.116Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-07T01:34:59.643Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_e80c49e489e8cc3d",
+        "title": "Calp presenta el cartel oficial de los Moros y Cristianos 2026",
+        "slug": "calp-cartel-moros-cristianos-2026",
+        "summary": "La Asociación de Moros y Cristianos de Calp ha presentado el cartel oficial de la edición de 2026, obra de Enrique Díaz Núñez. Las fiestas se celebrarán del 21 al 26 de octubre, en una edición que coincide con el 50 aniversario de la celebración.",
+        "body": "La Asociación de Moros y Cristianos de Calp ha dado a conocer el cartel anunciador oficial de las fiestas de 2026. La obra ha sido realizada por Enrique Díaz Núñez, según la información publicada por la entidad organizadora.\n\nLas celebraciones tendrán lugar del 21 al 26 de octubre de 2026. La programación festiva se desarrollará en torno al 22 de octubre, de acuerdo con la información municipal sobre estas fiestas.\n\nLa edición de este año coincide con el 50 aniversario de los Moros y Cristianos de Calp. Fuentes municipales y de la propia asociación sitúan la conmemoración del aniversario entre 2026 y 2027, mientras que la convocatoria y las informaciones sobre la edición de 2026 identifican este año como el del 50 aniversario.\n\nLa presentación del cartel y la identificación de su autor proceden principalmente de la Asociación de Moros y Cristianos de Calp, entidad organizadora. Las fechas de celebración y la referencia al aniversario cuentan además con corroboración municipal e independiente.\n\nCon el cartel ya presentado, la asociación dispone de la imagen oficial para una edición que se celebrará durante seis días, del 21 al 26 de octubre. La información disponible en este expediente no incluye otros detalles de la programación diaria ni atribuye declaraciones concretas sobre el diseño de la obra o sobre la organización de los actos.",
+        "category": "CULTURA",
+        "seo_title": "Calp presenta el cartel de Moros y Cristianos 2026",
+        "meta_description": "La Asociación de Moros y Cristianos de Calp presenta el cartel de 2026, obra de Enrique Díaz Núñez, para unas fiestas del 21 al 26 de octubre.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_d4e65d17f9973bac",
+        "published_at": null,
+        "source_urls": [
+          "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+          "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
+          "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+          "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp/"
+        ],
+        "sources": [
+          {
+            "name": "Portal de las fiestas de Moros y Cristianos de Calpe — Asociación de Moros y Cristianos",
+            "url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — Noticias",
+            "url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Portal de las fiestas de Moros y Cristianos de Calpe — Asociación de Moros y Cristianos",
+            "url": "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp/",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_8a16fabccb5bb5d3",
+        "candidate_fingerprint": "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "La corroboración independiente confirma las fechas y el 50 aniversario, mientras que la presentación concreta del cartel y la autoría proceden principalmente de la fuente oficial de la Asociación, que es la entidad organizadora."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_d4e65d17f9973bac",
+          "quality_gate_evaluated_at": "2026-10-07T01:35:12.116Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

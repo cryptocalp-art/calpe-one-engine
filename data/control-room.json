@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-06T21:39:40.988Z",
+  "generated_at": "2026-10-07T01:35:21.669Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-06T21:39:40.784Z",
+  "last_activity": "2026-10-07T01:35:21.511Z",
   "newspaper": {
-    "archive_total": 63,
-    "published_today": 4,
-    "published_last_7_days": 30,
+    "archive_total": 64,
+    "published_today": 1,
+    "published_last_7_days": 29,
     "categories": {
+      "SOCIEDAD": 9,
       "SUCESOS": 6,
       "MEDIO_AMBIENTE": 14,
       "ECONOMIA": 8,
       "LOCAL": 10,
-      "SOCIEDAD": 8,
       "TURISMO": 8,
       "DEPORTES": 3,
       "CULTURA": 4,
       "POLITICA": 2
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_f82bc7f2dd8682a5",
+        "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
+        "category": "SOCIEDAD",
+        "slug": "calp-programa-9-octubre-2026",
+        "published_at": "2026-10-07T01:34:59.643Z"
+      },
       {
         "archive_id": "arc_b14863b8a9b52fc6",
         "title": "Dos detenidos en Calp por un presunto robo con violencia en la vía pública",
@@ -69,23 +76,16 @@
         "category": "SOCIEDAD",
         "slug": "calp-segundo-municipio-alicante-viviendas-vacias",
         "published_at": "2026-10-04T13:14:01.963Z"
-      },
-      {
-        "archive_id": "arc_98d3d32feebbd16c",
-        "title": "La Generalitat anuncia una ayuda de 1.000 euros para la primera vivienda de menores de 35 años",
-        "category": "SOCIEDAD",
-        "slug": "generalitat-anuncia-ayuda-1000-euros-primera-vivienda",
-        "published_at": "2026-10-04T13:14:01.963Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 10,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

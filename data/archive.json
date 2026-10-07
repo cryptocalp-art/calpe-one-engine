@@ -3,9 +3,67 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-06T10:22:11.221Z",
-  "count": 63,
+  "updated_at": "2026-10-07T01:35:12.378Z",
+  "count": 64,
   "articles": [
+    {
+      "archive_id": "arc_f82bc7f2dd8682a5",
+      "external_id": "drf_30305e6a7073655b",
+      "investigation_id": "inv_5c564089c6227c23",
+      "candidate_fingerprints": [
+        "67774719c6dd253270ae1342f1fdb0e8efef597487589c1401b64192a1ea1ca0"
+      ],
+      "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
+      "slug": "calp-programa-9-octubre-2026",
+      "summary": "Calp conmemorará el 9 d’Octubre el viernes 9 de octubre de 2026 con una programación que combinará actividades familiares, propuestas gastronómicas y actos institucionales. La entrega del Premi Jaume Pastor i Fluixà y de las Medallas de la Villa se celebrará a las 20:00 en la plaza Mayor.",
+      "body": "La programación del 9 d’Octubre en Calp tendrá como acto central la entrega del Premi Jaume Pastor i Fluixà y las Medallas de la Villa. El acto institucional está previsto para el viernes 9 de octubre de 2026, a las 20:00, en la plaza Mayor.\n\nLa jornada comenzará con actividades familiares durante la mañana. El programa contempla propuestas infantiles y familiares entre las 11:00 y las 14:00, según la información difundida sobre la celebración.\n\nA las 14:00 está prevista una paella gigante. La actividad se integra en la programación de la jornada y precederá a las propuestas previstas para la tarde.\n\nLa música y la danza tendrán también presencia en el programa. Dianium Dansa ofrecerá una actuación itinerante a las 19:15 por el centro de Calp, antes del acto institucional de la plaza Mayor.\n\nLa celebración concluirá con la entrega de los reconocimientos municipales, que cuenta con confirmación directa en la agenda oficial del Ayuntamiento de Calp. Las actividades complementarias —las propuestas familiares, la paella gigante y la actuación de Dianium Dansa— aparecen recogidas de forma coincidente en dos fuentes locales independientes.\n\nDe este modo, el programa combina actividades dirigidas al público familiar durante la mañana, una propuesta gastronómica al mediodía y una actuación itinerante antes de la ceremonia institucional de la tarde. La información disponible no detalla en la agenda municipal consultada todos los actos complementarios, aunque estos sí están corroborados por las fuentes secundarias coincidentes.",
+      "category": "SOCIEDAD",
+      "seo_title": "Calp prepara el programa del 9 d’Octubre de 2026",
+      "meta_description": "Calp celebrará el 9 d’Octubre con actividades familiares, paella gigante, Dianium Dansa y la entrega de premios y medallas en la plaza Mayor.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp — Noticias / Agenda cultural",
+          "url": "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Red Costa Blanca — 9 Octubre en Calpe",
+          "url": "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/eventos/acte-del-%E2%80%9C-premi-jaume-pastor-i-fluix%C3%A0-9-d%E2%80%99octubre-i-medalles-de-la-vila%E2%80%9D",
+        "https://redcostablanca.es/AlicanteHoy.php?ID=7180",
+        "https://calpdigital.es/art/12369/calp-9-octubre-2026-premis-jaume-pastor-fluixa"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La fuente municipal consultada confirma directamente el acto institucional, pero no enumera en esa página todos los actos complementarios; estos quedan corroborados por dos fuentes secundarias coincidentes."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_a437504371e55d46",
+        "quality_gate_evaluated_at": "2026-10-07T01:35:12.116Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La agenda municipal confirma directamente el acto institucional. Las actividades complementarias se basan en dos fuentes secundarias coincidentes y no aparecen enumeradas íntegramente en la página municipal consultada."
+      ],
+      "published_at": "2026-10-07T01:34:59.643Z",
+      "updated_at": "2026-10-07T01:35:12.378Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_b14863b8a9b52fc6",
       "external_id": "drf_8a3106f9acb01f71",
@@ -1306,7 +1364,8 @@
       "external_id": "drf_fdae906463675dc2",
       "investigation_id": "inv_01cc4fa738242e19",
       "candidate_fingerprints": [
-        "909fb7abeb19965112ca8114bee5c574feb67a1488ea0ab7e619eafb74ec955b7"
+        "909fb7abeb19965112ca8114bee5c574feb67a1488ea0ab7e619eafb74ec955b7",
+        "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1"
       ],
       "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
       "slug": "moros-cristianos-calp-reconocimiento-internacional",
@@ -1335,7 +1394,10 @@
       "source_urls": [
         "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19610.pdf",
         "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
-        "https://cadenaser.com/comunitat-valenciana/2026/10/01/calp-mira-ya-al-reconocimiento-internacional-de-sus-moros-y-cristianos-tras-lograr-el-distintivo-nacional-radio-denia"
+        "https://cadenaser.com/comunitat-valenciana/2026/10/01/calp-mira-ya-al-reconocimiento-internacional-de-sus-moros-y-cristianos-tras-lograr-el-distintivo-nacional-radio-denia",
+        "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026",
+        "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
+        "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -1359,7 +1421,7 @@
         "No incluir referencias a visitantes franceses ni a un supuesto pico turístico de octubre, al no estar verificadas."
       ],
       "published_at": "2026-10-01T13:20:30.915Z",
-      "updated_at": "2026-10-01T13:20:56.843Z",
+      "updated_at": "2026-10-07T01:35:12.378Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
