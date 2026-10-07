@@ -1,214 +1,82 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-07T16:31:34.678Z",
+  "generated_at": "2026-10-07T22:00:18.810Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "0833123e43be951a73c648e6694848359b6d749f88e4b986098d5ec364a0286e",
-      "title": "Calp convoca un concurso de proyectos para reurbanizar la avenida Europa, la plaza Colón y varias calles",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La convocatoria existe y está respaldada por la comunicación oficial del Ayuntamiento, una referencia a la licitación publicada en la Plataforma de Contratación del Sector Público y una corroboración independiente de Cadena SER. El concurso se divide en tres lotes, suma 50.000 euros en premios y fija el plazo de presentación el 11 de noviembre de 2026 a las 10:00 horas.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp ha convocado un concurso de proyectos con intervención de jurado para definir la reurbanización de la avenida Europa, la calle Portalet, un tramo de la avenida Puerto de Santa María, la calle La Niña y la plaza Colón.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La convocatoria está dividida en tres lotes y contempla premios de 20.000, 10.000 y 20.000 euros, respectivamente, con una dotación total de 50.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de presentación termina el 11 de noviembre de 2026 a las 10:00 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las propuestas serán valoradas anónimamente por un jurado y los ganadores podrán recibir posteriormente encargos para redactar los proyectos de ejecución y dirigir las obras.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
-          "evidence": "La nota oficial confirma el concurso, los ámbitos incluidos, la división en tres lotes, el reparto de 20.000, 10.000 y 20.000 euros, el total de 50.000 euros, la valoración anónima por jurado y el plazo hasta el 11 de noviembre de 2026 a las 10:00 horas.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
-          "evidence": "La información independiente confirma la convocatoria, los tres lotes, los espacios afectados, el reparto de los 50.000 euros, la valoración anónima y la fecha y hora límite de presentación.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicitar, con datos de PLACSP",
-          "source_url": "https://www.alicitar.es/licitacion/22178313/concurso-de-proyectos-con-intervencion-de-jurado-para-la-seleccion-de-propuestas",
-          "evidence": "La ficha de licitación identifica el expediente SER 75/2026-CP del Ayuntamiento de Calp, publicado el 6 de octubre de 2026, con presupuesto de 50.000 euros y fin de presentación el 11 de noviembre de 2026.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La publicación oficial indica que el concurso es el primer paso de futuras actuaciones; no acredita todavía la ejecución material de las obras de reurbanización."
-      ],
-      "id": "inv_b7afa50bff133b1e",
-      "investigated_at": "2026-10-07T16:31:34.678Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "58b501ad45c7a22bffea6cba14323aa93d92697d2ec2312754e50b1f1c760dbf",
-      "title": "Calp obtiene un 29,35% de cumplimiento en el último análisis de transparencia de Dyntra",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La ficha oficial de Dyntra para el Ayuntamiento de Calpe-Calp muestra 54 de 184 indicadores publicados, equivalentes al 29,35%. También registra resultados bajos en contratación y transparencia económico-financiera y un 0% en Open Data. La ficha fue evaluada y verificada el 15 de julio de 2026.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp aparece con 54 indicadores publicados de un total de 184, lo que equivale al 29,35%.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Dyntra registra carencias en contratación pública y transparencia económico-financiera.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El apartado Open Data obtiene un 0%, con 0 de 2 indicadores publicados.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La evaluación fue realizada y verificada el 15 de julio de 2026.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Dyntra",
-          "source_url": "https://www.dyntra.org/poi/ayuntamiento-de-calpe-calp/",
-          "evidence": "La ficha oficial muestra un índice del 29,35% y 54 de 184 indicadores publicados. También registra un 7,41% en contrataciones de servicios, un 20% en transparencia económico-financiera y un 0% en Open Data, con 0 de 2 indicadores. La página identifica como fecha de evaluación y verificación el 15 de julio de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12374/transparencia-calp-ranking-dyntra",
-          "evidence": "La noticia resume los datos de la ficha de Dyntra: 54 indicadores validados de 184, un cumplimiento del 29,35% y deficiencias en contratación, información económica y datos abiertos.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "El porcentaje describe los indicadores publicados o localizados por la metodología de Dyntra; no equivale por sí solo a una auditoría integral del cumplimiento legal en materia de transparencia.",
-        "La afirmación sobre carencias en contratación es correcta como descripción del resultado de Dyntra, pero el 0% corresponde específicamente a determinados subapartados, no necesariamente a toda la contratación pública."
-      ],
-      "id": "inv_ba25ee39a3ce5681",
-      "investigated_at": "2026-10-07T16:31:34.678Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "dfd5c621e80f5b1a2f169cd043e2de46d16b18412b8631342a09ddc8d2541e88",
-      "title": "HCB Calpe se integra en el grupo sanitario Ribera tras culminar la adquisición de HCB",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "Ribera confirma oficialmente la incorporación del grupo HCB tras obtener la autorización de la autoridad de competencia. La operación incluye dos hospitales, tres centros médicos —entre ellos HCB Calpe—, dos centros de diagnóstico por imagen y más de 650 profesionales. La cobertura independiente coincide en los hechos esenciales y recoge que la integración será progresiva y mantendrá la continuidad del servicio.",
-      "claims": [
-        {
-          "claim": "La adquisición o incorporación del grupo HCB por Ribera se ha culminado tras obtener la autorización de la autoridad de competencia.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "HCB Calpe pasa a formar parte de la red asistencial de Ribera.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La operación incorpora dos hospitales, tres centros médicos y más de 650 profesionales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La integración será progresiva y se mantendrá la continuidad del servicio.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ribera Healthcare Group",
-          "source_url": "https://riberasalud.com/en/ribera-incorpora-grupo-hcb-comunidad-valenciana/",
-          "evidence": "La comunicación corporativa de Ribera, fechada el 6 de octubre de 2026, confirma la incorporación de HCB después de la autorización de la autoridad de competencia. Identifica dos hospitales, tres centros médicos en Calpe, Moraira y Albir, dos centros de diagnóstico por imagen y más de 650 profesionales.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12370/hcb-calpe-integra-grupo-ribera",
-          "evidence": "La noticia local confirma que HCB Calpe se incorpora a Ribera, que la operación afecta a dos hospitales, tres centros médicos y más de 650 profesionales, y que la empresa prevé una integración progresiva con continuidad del servicio.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/ribera-refuerza-su-presencia-en-la-marina-alta-con-la-incorporacion-de-hcb-radio-denia/",
-          "evidence": "La cobertura independiente confirma la incorporación de HCB a Ribera y la existencia de más de 650 profesionales, dos hospitales y tres centros médicos, incluido el centro de Calpe.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La fuente corporativa describe la operación como incorporación del grupo HCB y no detalla las condiciones económicas de la adquisición.",
-        "La continuidad del servicio es un compromiso declarado por la empresa, no una verificación independiente de sus efectos operativos futuros."
-      ],
-      "id": "inv_a1c30bdfa1230494",
-      "investigated_at": "2026-10-07T16:31:34.678Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "d18d089fd54acd581135a7ee7e9a6e4c88a5124a25a610962e759ca088d36b1c",
-      "title": "El Consorci Mare recupera 8.084 kilos de textil y 1.013 litros de aceite usado durante septiembre",
+      "candidate_fingerprint": "d83915866e0a92f65bf553cb6807e8fdac1cbf06f103fb9bb0ca6e1059e49b54",
+      "title": "El equipo ROCA de la Guardia Civil de Calp detiene a cuatro hombres por dos robos en naves industriales de Altea",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "Las cifras principales están corroboradas por varias informaciones independientes: 8.084 kilos de residuos textiles y 1.013 litros de aceite de cocina usado recogidos durante septiembre. También coinciden los datos sobre la prueba piloto, con 145 contenedores en 15 municipios. No se localizó durante la búsqueda una publicación directa del Consorci Mare con esos datos, por lo que la confianza se mantiene en nivel medio.",
+      "summary": "Los hechos esenciales están respaldados por la Cadena SER y por otros medios locales que describen el mismo suceso: cuatro hombres, de entre 21 y 33 años, fueron detenidos en Valencia por su presunta relación con dos robos con fuerza cometidos en naves industriales anexas de Altea. La investigación correspondió al equipo ROCA de la Guardia Civil de Calp y el valor de los efectos sustraídos se situó cerca de los 9.000 euros. No se ha localizado una nota oficial de la Guardia Civil sobre este caso; por ello la confianza no se eleva a HIGH y la corroboración independiente queda limitada, al existir indicios de que los medios pudieron basarse en la misma comunicación policial.",
       "claims": [
         {
-          "claim": "Durante septiembre se recogieron 8.084 kilos de residuos textiles y 1.013 litros de aceite de cocina usado.",
+          "claim": "La Guardia Civil detuvo a cuatro hombres de entre 21 y 33 años por su presunta relación con dos robos con fuerza en Altea.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La recogida se realizó mediante una prueba piloto con 145 contenedores instalados en 15 municipios.",
+          "claim": "Los robos se cometieron en dos naves industriales anexas, dedicadas respectivamente a la fabricación de muebles y al reciclaje de residuos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El ámbito de actuación abarca municipios de la Marina Alta y la Marina Baixa y el Consorci Mare trata residuos de 52 municipios.",
+          "claim": "En uno de los robos se forzó una puerta y en el otro se practicaron tres agujeros en una pared para acceder a la nave.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los residuos recogidos fueron aprovechados posteriormente como ropa, tela o biocombustible.",
+          "claim": "Los efectos sustraídos —principalmente materiales, cobre, latón y dinero en efectivo— alcanzaron un valor cercano a 9.000 euros; el segundo robo superó los 8.000 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los daños ocasionados en las instalaciones superaron los 1.700 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La investigación fue desarrollada por el equipo ROCA de la Guardia Civil de Calp tras las denuncias de las empresas afectadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los sospechosos se desplazaban presuntamente desde Valencia hasta Altea durante la noche y regresaban posteriormente a Valencia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los cuatro hombres fueron localizados y detenidos en un barrio de Valencia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los detenidos pasaron a disposición de la Sección de Instrucción del Tribunal de Instancia de Benidorm, que decretó su puesta en libertad con cargos.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Teulada Moraira Digital",
-          "source_url": "https://teuladamorairadigital.es/art/16899/reciclaje-textil-aceite-consorci-mare-septiembre",
-          "evidence": "La información publica las cifras de 8.084 kilos de textil y 1.013 litros de aceite, así como la red piloto de 145 contenedores en 15 municipios. También indica que el Consorci Mare gestiona residuos de 52 municipios y que los materiales fueron aprovechados como ropa, tela o biocombustible.",
+          "source_name": "Cadena SER Radio Benidorm",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/la-guardia-civil-detiene-a-cuatro-hombres-por-robar-en-naves-industriales-de-altea-radio-benidorm",
+          "evidence": "Informa de la detención de cuatro hombres de entre 21 y 33 años por dos robos con fuerza en dos naves industriales anexas de Altea. Detalla las empresas afectadas, los métodos de acceso, la sustracción de cobre, latón y efectivo, un valor sustraído cercano a 9.000 euros, daños superiores a 1.700 euros, la intervención del equipo ROCA de Calpe, los desplazamientos desde Valencia y la puesta en libertad con cargos por decisión judicial.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Onda Cero Marina Baixa",
-          "source_url": "https://amp.ondacero.es/emisoras/comunidad-valenciana/marina-baixa/noticias/consorci-mare-recupera-mas-9000-kilos-textil-aceite-mes-septiembre_202610056ac36fdef7f8f566d14d833c.html",
-          "evidence": "La emisora confirma las mismas cantidades, los 145 contenedores y los 15 municipios de la red piloto, además de atribuir la información al Consorci Mare.",
+          "source_name": "MarinaAlta.es / Dénia FM",
+          "source_url": "https://marinaalta.es/2026/10/la-guardia-civil-de-calp-detiene-a-cuatro-hombres-por-dos-robos-en-naves-industriales-de-altea/",
+          "evidence": "Publica una relación sustancialmente coincidente: cuatro detenidos de entre 21 y 33 años, dos robos con fuerza en naves anexas de Altea, una empresa de muebles y otra de reciclaje, efectos sustraídos por cerca de 9.000 euros, daños superiores a 1.700 euros, investigación del equipo ROCA de Calp, localización en Valencia y libertad con cargos.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "MarinaAlta.es",
-          "source_url": "https://marinaalta.es/ca/2026/10/el-consorci-mare-recoge-mas-de-9-000-kilos-de-residuos-textiles-y-aceite-usado-durante-septiembre/",
-          "evidence": "La noticia confirma la recogida durante septiembre de 8.084 kilos de residuos textiles y 1.013 litros de aceite usado mediante una red de 145 contenedores distribuida en 15 municipios.",
+          "source_name": "Marina Baixa Digital",
+          "source_url": "https://marinabaixadigital.es/sec/noticias-sucesos",
+          "evidence": "Su portada de sucesos del 7 de octubre de 2026 registra la detención de cuatro hombres por dos robos en naves industriales de Altea, con un botín cercano a 9.000 euros, y atribuye la investigación al equipo ROCA de la Guardia Civil de Calpe.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se localizó una nota o informe publicado directamente en la web del Consorci Mare durante la búsqueda.",
-        "Las fuentes describen los residuos como recogidos o recuperados; la expresión no implica necesariamente que todo el material haya sido reciclado íntegramente.",
-        "Las cifras de aprovechamiento posterior proceden de datos atribuidos al gestor autorizado y no fueron comprobadas mediante un documento técnico independiente."
+        "No se ha encontrado una nota de prensa o ficha oficial de la Guardia Civil que documente directamente esta actuación.",
+        "Las fuentes secundarias coinciden ampliamente y parecen reproducir una misma comunicación policial; por tanto, no constituyen una corroboración plenamente independiente en sentido estricto.",
+        "La detención y la investigación no equivalen a una condena: los implicados aparecen descritos como presuntos responsables y quedaron en libertad con cargos."
       ],
-      "id": "inv_5ba391bb39540554",
-      "investigated_at": "2026-10-07T16:31:34.678Z",
+      "id": "inv_493944903f2757e9",
+      "investigated_at": "2026-10-07T22:00:18.810Z",
       "model": "gpt-5.6-luna"
     }
   ]

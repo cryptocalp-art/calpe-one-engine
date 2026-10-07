@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-07T16:32:55.616Z",
+  "generated_at": "2026-10-07T22:01:05.094Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-07T16:32:55.422Z",
+  "last_activity": "2026-10-07T22:01:04.902Z",
   "newspaper": {
-    "archive_total": 68,
-    "published_today": 5,
+    "archive_total": 69,
+    "published_today": 1,
     "published_last_7_days": 31,
     "categories": {
+      "SUCESOS": 7,
       "LOCAL": 11,
       "POLITICA": 3,
       "SOCIEDAD": 10,
       "MEDIO_AMBIENTE": 15,
-      "SUCESOS": 6,
       "ECONOMIA": 8,
       "TURISMO": 8,
       "DEPORTES": 3,
       "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_816ffd85358e9e49",
+        "title": "El equipo ROCA de Calp detiene a cuatro hombres por dos robos en naves de Altea",
+        "category": "SUCESOS",
+        "slug": "cuatro-detenidos-dos-robos-naves-altea",
+        "published_at": "2026-10-07T22:00:44.580Z"
+      },
       {
         "archive_id": "arc_81d72ae8acd2f20e",
         "title": "Calp convoca un concurso para definir la reurbanización de la avenida Europa, la plaza Colón y varias calles",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-aprueba-urbanizacion-cuatro-parcelas-benicolada",
         "published_at": "2026-10-06T03:00:59.520Z"
-      },
-      {
-        "archive_id": "arc_5a421e168b9f00a8",
-        "title": "Calp aprueba definitivamente las bases del Bono Consumo 2026",
-        "category": "ECONOMIA",
-        "slug": "calp-aprueba-bases-bono-consumo-2026",
-        "published_at": "2026-10-06T03:00:59.520Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 4,
-    "eligible": 4,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 4
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

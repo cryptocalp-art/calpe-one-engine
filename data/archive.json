@@ -3,9 +3,70 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-07T16:32:39.221Z",
-  "count": 68,
+  "updated_at": "2026-10-07T22:00:53.623Z",
+  "count": 69,
   "articles": [
+    {
+      "archive_id": "arc_816ffd85358e9e49",
+      "external_id": "drf_092f209f20370312",
+      "investigation_id": "inv_493944903f2757e9",
+      "candidate_fingerprints": [
+        "d83915866e0a92f65bf553cb6807e8fdac1cbf06f103fb9bb0ca6e1059e49b54"
+      ],
+      "title": "El equipo ROCA de Calp detiene a cuatro hombres por dos robos en naves de Altea",
+      "slug": "cuatro-detenidos-dos-robos-naves-altea",
+      "summary": "El equipo ROCA de la Guardia Civil de Calp ha detenido a cuatro hombres, de entre 21 y 33 años, por su presunta relación con dos robos con fuerza cometidos en naves industriales anexas de Altea. Los efectos sustraídos alcanzaron un valor cercano a los 9.000 euros y los daños en las instalaciones superaron los 1.700 euros, según la información difundida por medios locales.",
+      "body": "La investigación se inició después de las denuncias presentadas por las empresas afectadas. Las dos naves estaban dedicadas, respectivamente, a la fabricación de muebles y al reciclaje de residuos.\n\nSegún la información difundida, en uno de los robos los autores habrían forzado una puerta para acceder al interior. En el segundo, el acceso se habría realizado mediante tres agujeros practicados en una pared de la nave.\n\nEntre los efectos sustraídos figuraban principalmente materiales, cobre, latón y dinero en efectivo. El valor total se situó cerca de los 9.000 euros, mientras que el segundo robo superó los 8.000 euros. Los daños ocasionados en las instalaciones fueron valorados en más de 1.700 euros.\n\nLas pesquisas atribuidas al equipo ROCA de la Guardia Civil de Calp apuntan a que los sospechosos se desplazaban presuntamente desde Valencia hasta Altea durante la noche y regresaban después a Valencia. Los cuatro fueron localizados y detenidos en un barrio de esta ciudad.\n\nTras los arrestos, los detenidos pasaron a disposición de la Sección de Instrucción del Tribunal de Instancia de Benidorm, que decretó su puesta en libertad con cargos.\n\nLa detención y la investigación no equivalen a una condena. La información disponible procede de medios secundarios que describen el mismo operativo y no se ha localizado una nota oficial de la Guardia Civil sobre esta actuación.",
+      "category": "SUCESOS",
+      "seo_title": "Cuatro detenidos por dos robos en naves de Altea",
+      "meta_description": "El equipo ROCA de Calp detiene a cuatro hombres por dos robos en naves de Altea. Los efectos sustraídos rondan los 9.000 euros.",
+      "sources": [
+        {
+          "name": "Cadena SER Radio Benidorm",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/la-guardia-civil-detiene-a-cuatro-hombres-por-robar-en-naves-industriales-de-altea-radio-benidorm",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "MarinaAlta.es / Dénia FM",
+          "url": "https://marinaalta.es/2026/10/la-guardia-civil-de-calp-detiene-a-cuatro-hombres-por-dos-robos-en-naves-industriales-de-altea/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Marina Baixa Digital",
+          "url": "https://marinabaixadigital.es/sec/noticias-sucesos",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://cadenaser.com/comunitat-valenciana/2026/10/07/la-guardia-civil-detiene-a-cuatro-hombres-por-robar-en-naves-industriales-de-altea-radio-benidorm",
+        "https://marinaalta.es/2026/10/la-guardia-civil-de-calp-detiene-a-cuatro-hombres-por-dos-robos-en-naves-industriales-de-altea",
+        "https://marinabaixadigital.es/sec/noticias-sucesos"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 9,
+        "evidence_count": 3,
+        "caveats": [
+          "No se ha encontrado una nota de prensa o ficha oficial de la Guardia Civil que documente directamente esta actuación.",
+          "Las fuentes secundarias coinciden ampliamente y parecen reproducir una misma comunicación policial; por tanto, no constituyen una corroboración plenamente independiente en sentido estricto.",
+          "La detención y la investigación no equivalen a una condena: los implicados aparecen descritos como presuntos responsables y quedaron en libertad con cargos."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_787e1a3c783dc730",
+        "quality_gate_evaluated_at": "2026-10-07T22:00:53.297Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No se ha localizado una nota oficial de la Guardia Civil; las fuentes secundarias coinciden ampliamente y podrían proceder de una misma comunicación policial.",
+        "Mantener el carácter presunto de los hechos y recordar que los detenidos quedaron en libertad con cargos, sin equivalencia con una condena."
+      ],
+      "published_at": "2026-10-07T22:00:44.580Z",
+      "updated_at": "2026-10-07T22:00:53.623Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_81d72ae8acd2f20e",
       "external_id": "drf_7e20ad139a09bb1f",
