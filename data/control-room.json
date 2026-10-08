@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-08T16:32:24.458Z",
+  "generated_at": "2026-10-08T22:06:49.165Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-08T16:32:24.268Z",
+  "last_activity": "2026-10-08T22:06:49.035Z",
   "newspaper": {
-    "archive_total": 72,
-    "published_today": 4,
+    "archive_total": 73,
+    "published_today": 1,
     "published_last_7_days": 27,
     "categories": {
+      "SOCIEDAD": 12,
       "POLITICA": 4,
       "ECONOMIA": 9,
-      "SOCIEDAD": 11,
       "SUCESOS": 7,
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
@@ -21,6 +21,13 @@
       "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_2c3ad78781155e4e",
+        "title": "Calp programa diez sesiones para abordar el control del estrés desde el SASEM",
+        "category": "SOCIEDAD",
+        "slug": "calp-programa-diez-talleres-sasem-control-estres",
+        "published_at": "2026-10-08T22:06:32.622Z"
+      },
       {
         "archive_id": "arc_dfd6f5008faaf56a",
         "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29 de noviembre",
@@ -69,23 +76,16 @@
         "category": "SOCIEDAD",
         "slug": "hcb-calpe-incorpora-grupo-sanitario-ribera",
         "published_at": "2026-10-07T16:32:17.406Z"
-      },
-      {
-        "archive_id": "arc_80b32c4b0681f127",
-        "title": "El Consorci Mare recupera 8.084 kilos de textil y 1.013 litros de aceite durante septiembre",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "consorci-mare-recoge-textil-aceite-septiembre",
-        "published_at": "2026-10-07T16:32:17.406Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 2
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
