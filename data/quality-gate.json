@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-08T01:58:31.250Z",
+  "generated_at": "2026-10-08T09:00:55.413Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,50 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_b341f925cfd50dfe",
-      "draft_id": "drf_e33946defb247563",
-      "investigation_id": "inv_c18431f4f472cffa",
-      "candidate_fingerprint": "12d0bbcdf83ef848c88be481fca43ae1536134e88b9f4a439849d85057e4a134",
-      "slug": "calp-programa-obra-salud-mental-octubre",
-      "category": "SOCIEDAD",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 3,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 5,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 5,
-        "distinct_evidence_hosts": 5,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 228
-      },
-      "evaluated_at": "2026-10-08T01:58:31.250Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }

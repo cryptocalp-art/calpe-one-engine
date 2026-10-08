@@ -1,74 +1,8 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-08T01:57:57.270Z",
+  "generated_at": "2026-10-08T09:00:54.995Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
-  "investigations": [
-    {
-      "candidate_fingerprint": "12d0bbcdf83ef848c88be481fca43ae1536134e88b9f4a439849d85057e4a134",
-      "title": "La Marina Alta activa un programa comarcal de salud mental con una cita en Calp",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La información queda suficientemente respaldada: existe una programación comarcal de actividades de salud mental durante octubre de 2026 y el programa incluía en Calp, el 7 de octubre a las 19:00, la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditorio de la Casa de Cultura Jaume Pastor i Fluixà. La fecha, lugar, obra y organización aparecen en fuentes oficiales del Ayuntamiento de Calp y de la Conselleria de Sanitat. No se han localizado datos independientes sobre asistencia o desarrollo concreto de la función.",
-      "claims": [
-        {
-          "claim": "La Comisión o estructura de salud mental del Departamento de Salud de Dénia coordinó un programa de actividades durante octubre de 2026 en distintos municipios de la Marina Alta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El programa tenía una actividad prevista en Calp el miércoles 7 de octubre de 2026 a las 19:00 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La actividad fue la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditorio de la Casa de Cultura Jaume Pastor i Fluixà.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La representación se celebró efectivamente el 7 de octubre, y no solo fue anunciada o programada.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Conselleria de Sanitat / Departamento de Salud de Dénia — Agenda Intradénia",
-          "source_url": "https://requena.san.gva.es/va/web/intradenia/agenda",
-          "evidence": "La agenda institucional incluye el programa “Octubre, Mes de la Salut Mental a la Marina Alta” y sitúa en Calp, el 7 de octubre a las 19:00, la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditori de la Casa de Cultura Jaume Pastor i Fluixà. También enumera actividades posteriores en Dénia y Xàbia durante octubre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — Noticias municipales",
-          "source_url": "https://noticias.calp.es/es/teatro",
-          "evidence": "La página oficial de teatro del Ayuntamiento de Calp registra “Joaquín Caserza presenta ‘Conversaciones con mi mente’” el miércoles 7 de octubre de 2026 a las 19:00 en el Auditorio de la Casa de Cultura, con entrada libre y organización de la Concejalía de Área de Política Social.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Casa de Cultura Jaume Pastor i Fluixà — Agenda cultural oficial",
-          "source_url": "https://cultura.calp.es/es",
-          "evidence": "La agenda cultural municipal muestra el mismo evento para el 7 de octubre de 2026 a las 19:00, en el Auditorio de la Casa de Cultura, organizado por la Concejalía de Área de Política Social.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Dénia Digital",
-          "source_url": "https://deniadigital.es/art/23276/denia-mes-salud-mental-actividades-octubre-2026",
-          "evidence": "La información describe una programación de octubre coordinada por la Comisión de Salud Mental del Departamento de Salud de Dénia, con actividades de sensibilización, exposiciones y una jornada de puertas abiertas en el Hospital de Dénia. Corrobora la existencia del programa comarcal, aunque se centra en las actividades de Dénia y no aporta prueba independiente de la asistencia al acto de Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-marina-alta-se-moviliza-en-octubre-para-impulsar-la-salud-mental-comunitaria",
-          "evidence": "La noticia original detalla el programa de octubre, atribuye su coordinación a la Comisión de Salud Mental del Departamento de Salud de Dénia y sitúa en Calp el 7 de octubre la representación de “Conversaciones con mi mente” en la Casa de Cultura.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "Las fuentes oficiales acreditan con claridad la convocatoria y programación del acto; no se ha encontrado una crónica posterior, acta, fotografías oficiales o declaración de la organización que documente asistencia o confirme expresamente que la representación llegó a celebrarse.",
-        "La corroboración periodística adicional sobre el programa comarcal puede proceder de la misma información institucional, por lo que no debe considerarse una corroboración plenamente independiente del origen de la nota."
-      ],
-      "id": "inv_c18431f4f472cffa",
-      "investigated_at": "2026-10-08T01:57:57.270Z",
-      "model": "gpt-5.6-luna"
-    }
-  ]
+  "count": 0,
+  "investigations": []
 }
