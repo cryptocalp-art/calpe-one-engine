@@ -1,82 +1,73 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-07T22:00:18.810Z",
+  "generated_at": "2026-10-08T01:57:57.270Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "d83915866e0a92f65bf553cb6807e8fdac1cbf06f103fb9bb0ca6e1059e49b54",
-      "title": "El equipo ROCA de la Guardia Civil de Calp detiene a cuatro hombres por dos robos en naves industriales de Altea",
+      "candidate_fingerprint": "12d0bbcdf83ef848c88be481fca43ae1536134e88b9f4a439849d85057e4a134",
+      "title": "La Marina Alta activa un programa comarcal de salud mental con una cita en Calp",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "Los hechos esenciales están respaldados por la Cadena SER y por otros medios locales que describen el mismo suceso: cuatro hombres, de entre 21 y 33 años, fueron detenidos en Valencia por su presunta relación con dos robos con fuerza cometidos en naves industriales anexas de Altea. La investigación correspondió al equipo ROCA de la Guardia Civil de Calp y el valor de los efectos sustraídos se situó cerca de los 9.000 euros. No se ha localizado una nota oficial de la Guardia Civil sobre este caso; por ello la confianza no se eleva a HIGH y la corroboración independiente queda limitada, al existir indicios de que los medios pudieron basarse en la misma comunicación policial.",
+      "summary": "La información queda suficientemente respaldada: existe una programación comarcal de actividades de salud mental durante octubre de 2026 y el programa incluía en Calp, el 7 de octubre a las 19:00, la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditorio de la Casa de Cultura Jaume Pastor i Fluixà. La fecha, lugar, obra y organización aparecen en fuentes oficiales del Ayuntamiento de Calp y de la Conselleria de Sanitat. No se han localizado datos independientes sobre asistencia o desarrollo concreto de la función.",
       "claims": [
         {
-          "claim": "La Guardia Civil detuvo a cuatro hombres de entre 21 y 33 años por su presunta relación con dos robos con fuerza en Altea.",
+          "claim": "La Comisión o estructura de salud mental del Departamento de Salud de Dénia coordinó un programa de actividades durante octubre de 2026 en distintos municipios de la Marina Alta.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los robos se cometieron en dos naves industriales anexas, dedicadas respectivamente a la fabricación de muebles y al reciclaje de residuos.",
+          "claim": "El programa tenía una actividad prevista en Calp el miércoles 7 de octubre de 2026 a las 19:00 horas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "En uno de los robos se forzó una puerta y en el otro se practicaron tres agujeros en una pared para acceder a la nave.",
+          "claim": "La actividad fue la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditorio de la Casa de Cultura Jaume Pastor i Fluixà.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los efectos sustraídos —principalmente materiales, cobre, latón y dinero en efectivo— alcanzaron un valor cercano a 9.000 euros; el segundo robo superó los 8.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los daños ocasionados en las instalaciones superaron los 1.700 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La investigación fue desarrollada por el equipo ROCA de la Guardia Civil de Calp tras las denuncias de las empresas afectadas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los sospechosos se desplazaban presuntamente desde Valencia hasta Altea durante la noche y regresaban posteriormente a Valencia.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los cuatro hombres fueron localizados y detenidos en un barrio de Valencia.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los detenidos pasaron a disposición de la Sección de Instrucción del Tribunal de Instancia de Benidorm, que decretó su puesta en libertad con cargos.",
-          "status": "SUPPORTED"
+          "claim": "La representación se celebró efectivamente el 7 de octubre, y no solo fue anunciada o programada.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER Radio Benidorm",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/la-guardia-civil-detiene-a-cuatro-hombres-por-robar-en-naves-industriales-de-altea-radio-benidorm",
-          "evidence": "Informa de la detención de cuatro hombres de entre 21 y 33 años por dos robos con fuerza en dos naves industriales anexas de Altea. Detalla las empresas afectadas, los métodos de acceso, la sustracción de cobre, latón y efectivo, un valor sustraído cercano a 9.000 euros, daños superiores a 1.700 euros, la intervención del equipo ROCA de Calpe, los desplazamientos desde Valencia y la puesta en libertad con cargos por decisión judicial.",
+          "source_name": "Conselleria de Sanitat / Departamento de Salud de Dénia — Agenda Intradénia",
+          "source_url": "https://requena.san.gva.es/va/web/intradenia/agenda",
+          "evidence": "La agenda institucional incluye el programa “Octubre, Mes de la Salut Mental a la Marina Alta” y sitúa en Calp, el 7 de octubre a las 19:00, la representación “Conversaciones con mi mente”, de Joaquín Caserza, en el Auditori de la Casa de Cultura Jaume Pastor i Fluixà. También enumera actividades posteriores en Dénia y Xàbia durante octubre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — Noticias municipales",
+          "source_url": "https://noticias.calp.es/es/teatro",
+          "evidence": "La página oficial de teatro del Ayuntamiento de Calp registra “Joaquín Caserza presenta ‘Conversaciones con mi mente’” el miércoles 7 de octubre de 2026 a las 19:00 en el Auditorio de la Casa de Cultura, con entrada libre y organización de la Concejalía de Área de Política Social.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Casa de Cultura Jaume Pastor i Fluixà — Agenda cultural oficial",
+          "source_url": "https://cultura.calp.es/es",
+          "evidence": "La agenda cultural municipal muestra el mismo evento para el 7 de octubre de 2026 a las 19:00, en el Auditorio de la Casa de Cultura, organizado por la Concejalía de Área de Política Social.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Dénia Digital",
+          "source_url": "https://deniadigital.es/art/23276/denia-mes-salud-mental-actividades-octubre-2026",
+          "evidence": "La información describe una programación de octubre coordinada por la Comisión de Salud Mental del Departamento de Salud de Dénia, con actividades de sensibilización, exposiciones y una jornada de puertas abiertas en el Hospital de Dénia. Corrobora la existencia del programa comarcal, aunque se centra en las actividades de Dénia y no aporta prueba independiente de la asistencia al acto de Calp.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "MarinaAlta.es / Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/la-guardia-civil-de-calp-detiene-a-cuatro-hombres-por-dos-robos-en-naves-industriales-de-altea/",
-          "evidence": "Publica una relación sustancialmente coincidente: cuatro detenidos de entre 21 y 33 años, dos robos con fuerza en naves anexas de Altea, una empresa de muebles y otra de reciclaje, efectos sustraídos por cerca de 9.000 euros, daños superiores a 1.700 euros, investigación del equipo ROCA de Calp, localización en Valencia y libertad con cargos.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Marina Baixa Digital",
-          "source_url": "https://marinabaixadigital.es/sec/noticias-sucesos",
-          "evidence": "Su portada de sucesos del 7 de octubre de 2026 registra la detención de cuatro hombres por dos robos en naves industriales de Altea, con un botín cercano a 9.000 euros, y atribuye la investigación al equipo ROCA de la Guardia Civil de Calpe.",
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/la-marina-alta-se-moviliza-en-octubre-para-impulsar-la-salud-mental-comunitaria",
+          "evidence": "La noticia original detalla el programa de octubre, atribuye su coordinación a la Comisión de Salud Mental del Departamento de Salud de Dénia y sitúa en Calp el 7 de octubre la representación de “Conversaciones con mi mente” en la Casa de Cultura.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha encontrado una nota de prensa o ficha oficial de la Guardia Civil que documente directamente esta actuación.",
-        "Las fuentes secundarias coinciden ampliamente y parecen reproducir una misma comunicación policial; por tanto, no constituyen una corroboración plenamente independiente en sentido estricto.",
-        "La detención y la investigación no equivalen a una condena: los implicados aparecen descritos como presuntos responsables y quedaron en libertad con cargos."
+        "Las fuentes oficiales acreditan con claridad la convocatoria y programación del acto; no se ha encontrado una crónica posterior, acta, fotografías oficiales o declaración de la organización que documente asistencia o confirme expresamente que la representación llegó a celebrarse.",
+        "La corroboración periodística adicional sobre el programa comarcal puede proceder de la misma información institucional, por lo que no debe considerarse una corroboración plenamente independiente del origen de la nota."
       ],
-      "id": "inv_493944903f2757e9",
-      "investigated_at": "2026-10-07T22:00:18.810Z",
+      "id": "inv_c18431f4f472cffa",
+      "investigated_at": "2026-10-08T01:57:57.270Z",
       "model": "gpt-5.6-luna"
     }
   ]

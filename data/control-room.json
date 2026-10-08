@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-07T22:01:05.094Z",
+  "generated_at": "2026-10-08T01:58:45.529Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-07T22:01:04.902Z",
+  "last_activity": "2026-10-08T01:58:45.350Z",
   "newspaper": {
-    "archive_total": 69,
-    "published_today": 1,
-    "published_last_7_days": 31,
+    "archive_total": 70,
+    "published_today": 2,
+    "published_last_7_days": 30,
     "categories": {
+      "SOCIEDAD": 11,
       "SUCESOS": 7,
       "LOCAL": 11,
       "POLITICA": 3,
-      "SOCIEDAD": 10,
       "MEDIO_AMBIENTE": 15,
       "ECONOMIA": 8,
       "TURISMO": 8,
@@ -21,6 +21,13 @@
       "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_8991dbbdef12f0d8",
+        "title": "La Marina Alta programa en Calp una representación sobre salud mental",
+        "category": "SOCIEDAD",
+        "slug": "calp-programa-obra-salud-mental-octubre",
+        "published_at": "2026-10-08T01:58:22.601Z"
+      },
       {
         "archive_id": "arc_816ffd85358e9e49",
         "title": "El equipo ROCA de Calp detiene a cuatro hombres por dos robos en naves de Altea",
@@ -69,18 +76,11 @@
         "category": "SUCESOS",
         "slug": "dos-detenidos-calp-presunto-robo-violencia",
         "published_at": "2026-10-06T10:21:59.251Z"
-      },
-      {
-        "archive_id": "arc_ff0170ed3599be91",
-        "title": "Calp aprueba definitivamente el proyecto de urbanización de cuatro parcelas en Benicolada",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-aprueba-urbanizacion-cuatro-parcelas-benicolada",
-        "published_at": "2026-10-06T03:00:59.520Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 7,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

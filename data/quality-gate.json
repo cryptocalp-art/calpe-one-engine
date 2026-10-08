@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-07T22:00:53.297Z",
+  "generated_at": "2026-10-08T01:58:31.250Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,29 +26,31 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_787e1a3c783dc730",
-      "draft_id": "drf_092f209f20370312",
-      "investigation_id": "inv_493944903f2757e9",
-      "candidate_fingerprint": "d83915866e0a92f65bf553cb6807e8fdac1cbf06f103fb9bb0ca6e1059e49b54",
-      "slug": "cuatro-detenidos-dos-robos-naves-altea",
-      "category": "SUCESOS",
+      "gate_id": "qg_b341f925cfd50dfe",
+      "draft_id": "drf_e33946defb247563",
+      "investigation_id": "inv_c18431f4f472cffa",
+      "candidate_fingerprint": "12d0bbcdf83ef848c88be481fca43ae1536134e88b9f4a439849d85057e4a134",
+      "slug": "calp-programa-obra-salud-mental-octubre",
+      "category": "SOCIEDAD",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 9,
+        "supported_claim_count": 3,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
+        "unverified_claim_count": 1,
+        "evidence_count": 5,
+        "primary_evidence_count": 3,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 5,
+        "distinct_evidence_hosts": 5,
         "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +61,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 219
+        "body_word_count": 228
       },
-      "evaluated_at": "2026-10-07T22:00:53.297Z",
+      "evaluated_at": "2026-10-08T01:58:31.250Z",
       "engine_version": "quality-gate-v1"
     }
   ]
