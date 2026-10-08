@@ -2,25 +2,39 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-08T09:01:03.484Z",
+  "generated_at": "2026-10-08T16:32:24.458Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-08T09:01:03.270Z",
+  "last_activity": "2026-10-08T16:32:24.268Z",
   "newspaper": {
-    "archive_total": 70,
-    "published_today": 2,
-    "published_last_7_days": 29,
+    "archive_total": 72,
+    "published_today": 4,
+    "published_last_7_days": 27,
     "categories": {
+      "POLITICA": 4,
+      "ECONOMIA": 9,
       "SOCIEDAD": 11,
       "SUCESOS": 7,
       "LOCAL": 11,
-      "POLITICA": 3,
       "MEDIO_AMBIENTE": 15,
-      "ECONOMIA": 8,
       "TURISMO": 8,
       "DEPORTES": 3,
       "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_dfd6f5008faaf56a",
+        "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29 de noviembre",
+        "category": "POLITICA",
+        "slug": "cesar-sanchez-dirigira-campana-ppcv-elecciones-generales-29-noviembre",
+        "published_at": "2026-10-08T16:31:52.453Z"
+      },
+      {
+        "archive_id": "arc_e8bf3d26807d458c",
+        "title": "El programa Punt Nàutic orientará a más de 1.000 estudiantes de la Marina Alta",
+        "category": "ECONOMIA",
+        "slug": "punt-nautic-orientara-mas-de-1000-estudiantes-marina-alta",
+        "published_at": "2026-10-08T16:31:52.453Z"
+      },
       {
         "archive_id": "arc_8991dbbdef12f0d8",
         "title": "La Marina Alta programa en Calp una representación sobre salud mental",
@@ -62,30 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "consorci-mare-recoge-textil-aceite-septiembre",
         "published_at": "2026-10-07T16:32:17.406Z"
-      },
-      {
-        "archive_id": "arc_f82bc7f2dd8682a5",
-        "title": "Calp celebrará el 9 d’Octubre con los Premis Jaume Pastor i Fluixà y las Medallas de la Villa",
-        "category": "SOCIEDAD",
-        "slug": "calp-programa-9-octubre-2026",
-        "published_at": "2026-10-07T01:34:59.643Z"
-      },
-      {
-        "archive_id": "arc_b14863b8a9b52fc6",
-        "title": "Dos detenidos en Calp por un presunto robo con violencia en la vía pública",
-        "category": "SUCESOS",
-        "slug": "dos-detenidos-calp-presunto-robo-violencia",
-        "published_at": "2026-10-06T10:21:59.251Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,

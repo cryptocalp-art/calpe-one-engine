@@ -3,12 +3,284 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-08T09:00:55.609Z",
+  "generated_at": "2026-10-08T16:32:06.443Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 2,
+  "ready_count": 2,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_2b97a795e51dbc71",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-08T16:32:06.443Z",
+      "source_draft_id": "drf_df99d5083eba22d8",
+      "source_investigation_id": "inv_b5d7a7043f7ce195",
+      "candidate_fingerprint": "37f9455d14a2954a85f6da64087f6f89ce4b00501e1efe2e47e44ea907c237df",
+      "quality_gate_id": "qg_ce318f1e9dc3c3a1",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_df99d5083eba22d8",
+        "investigation_id": "inv_b5d7a7043f7ce195",
+        "candidate_fingerprint": "37f9455d14a2954a85f6da64087f6f89ce4b00501e1efe2e47e44ea907c237df",
+        "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29 de noviembre",
+        "subtitle": "La Comisión Transitoria del partido también ha designado a Gerardo Camps como portavoz de la campaña",
+        "summary": "César Sánchez ha sido designado director de campaña del Partido Popular de la Comunitat Valenciana (PPCV) para las elecciones generales del próximo 29 de noviembre. El nombramiento fue acordado por la Comisión Transitoria del PPCV, presidida por Juanfran Pérez Llorca, según la información difundida tras la reunión de este órgano.",
+        "body": "César Sánchez asumirá la dirección de la campaña del PPCV para las elecciones generales convocadas para el domingo 29 de noviembre de 2026. La designación fue acordada por la Comisión Transitoria del partido, presidida por Juanfran Pérez Llorca.\n\nSánchez es diputado nacional y concejal de Calp, y fue alcalde del municipio. En la estructura de campaña, Gerardo Camps ejercerá como portavoz, de acuerdo con la comunicación difundida tras la reunión de la Comisión Transitoria.\n\nLos comicios serán anticipados tras la disolución de las Cortes. El Real Decreto 806/2026, de 5 de octubre, disuelve el Congreso y el Senado y convoca elecciones a ambas Cámaras para el 29 de noviembre.\n\nLa designación de Sánchez y la de Camps han sido recogidas por Europa Press, La Marina Plaza y otros medios a partir de la información del PPCV. La composición anunciada sitúa a un representante político de Calp al frente de la campaña del partido en la Comunitat Valenciana, aunque las fuentes consultadas no detallan en esta información las funciones concretas que desarrollará el comité más allá de los nombramientos comunicados.\n\nLa atribución del acuerdo a la Comisión Transitoria se basa en el comunicado del partido recogido por los medios. No consta, según el expediente consultado, una resolución individualizada del PPCV publicada con el nombramiento.",
+        "category": "POLITICA",
+        "slug": "cesar-sanchez-dirigira-campana-ppcv-elecciones-generales-29-noviembre",
+        "seo_title": "César Sánchez dirigirá la campaña del PPCV el 29N",
+        "meta_description": "César Sánchez ha sido designado director de campaña del PPCV para las elecciones generales del 29 de noviembre. Gerardo Camps será el portavoz.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_ce318f1e9dc3c3a1",
+        "editorial_notes": [
+          "La designación procede de una comunicación del PPCV recogida por varios medios; el expediente no aporta una resolución individualizada publicada por el partido.",
+          "Mantener la atribución del nombramiento a la Comisión Transitoria y no presentar como independiente una información que puede partir del mismo comunicado."
+        ],
+        "sources": [
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-ppcv-nombra-cesar-sanchez-director-campana-gerardo-camps-portavoz-20261007214507.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/08/un-exalcalde-de-calp-al-frente-del-pp-valenciano-en-las-elecciones-generales-del-29n/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Boletín Oficial del Estado",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12375/cesar-sanchez-director-campana-ppcv-elecciones-generales-29n",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://www.europapress.es/comunitat-valenciana/noticia-ppcv-nombra-cesar-sanchez-director-campana-gerardo-camps-portavoz-20261007214507.html",
+          "https://lamarina.eldiario.es/2026/10/08/un-exalcalde-de-calp-al-frente-del-pp-valenciano-en-las-elecciones-generales-del-29n/",
+          "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es",
+          "https://calpdigital.es/art/12375/cesar-sanchez-director-campana-ppcv-elecciones-generales-29n"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La atribución de la decisión a la Comisión Transitoria se basa en el comunicado del partido recogido por Europa Press y otros medios; no se ha localizado en la búsqueda una resolución individualizada publicada por el PPCV con el nombramiento.",
+            "Las referencias de Calp Digital y otros medios pueden partir del mismo comunicado del PPCV, por lo que la corroboración independiente más sólida para el hecho electoral es el BOE; para el nombramiento, Europa Press y La Marina Plaza ofrecen confirmaciones separadas."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_ce318f1e9dc3c3a1",
+          "quality_gate_evaluated_at": "2026-10-08T16:32:06.272Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-08T16:31:52.453Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_df99d5083eba22d8",
+        "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29 de noviembre",
+        "slug": "cesar-sanchez-dirigira-campana-ppcv-elecciones-generales-29-noviembre",
+        "summary": "César Sánchez ha sido designado director de campaña del Partido Popular de la Comunitat Valenciana (PPCV) para las elecciones generales del próximo 29 de noviembre. El nombramiento fue acordado por la Comisión Transitoria del PPCV, presidida por Juanfran Pérez Llorca, según la información difundida tras la reunión de este órgano.",
+        "body": "César Sánchez asumirá la dirección de la campaña del PPCV para las elecciones generales convocadas para el domingo 29 de noviembre de 2026. La designación fue acordada por la Comisión Transitoria del partido, presidida por Juanfran Pérez Llorca.\n\nSánchez es diputado nacional y concejal de Calp, y fue alcalde del municipio. En la estructura de campaña, Gerardo Camps ejercerá como portavoz, de acuerdo con la comunicación difundida tras la reunión de la Comisión Transitoria.\n\nLos comicios serán anticipados tras la disolución de las Cortes. El Real Decreto 806/2026, de 5 de octubre, disuelve el Congreso y el Senado y convoca elecciones a ambas Cámaras para el 29 de noviembre.\n\nLa designación de Sánchez y la de Camps han sido recogidas por Europa Press, La Marina Plaza y otros medios a partir de la información del PPCV. La composición anunciada sitúa a un representante político de Calp al frente de la campaña del partido en la Comunitat Valenciana, aunque las fuentes consultadas no detallan en esta información las funciones concretas que desarrollará el comité más allá de los nombramientos comunicados.\n\nLa atribución del acuerdo a la Comisión Transitoria se basa en el comunicado del partido recogido por los medios. No consta, según el expediente consultado, una resolución individualizada del PPCV publicada con el nombramiento.",
+        "category": "POLITICA",
+        "seo_title": "César Sánchez dirigirá la campaña del PPCV el 29N",
+        "meta_description": "César Sánchez ha sido designado director de campaña del PPCV para las elecciones generales del 29 de noviembre. Gerardo Camps será el portavoz.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_ce318f1e9dc3c3a1",
+        "published_at": null,
+        "source_urls": [
+          "https://www.europapress.es/comunitat-valenciana/noticia-ppcv-nombra-cesar-sanchez-director-campana-gerardo-camps-portavoz-20261007214507.html",
+          "https://lamarina.eldiario.es/2026/10/08/un-exalcalde-de-calp-al-frente-del-pp-valenciano-en-las-elecciones-generales-del-29n/",
+          "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es",
+          "https://calpdigital.es/art/12375/cesar-sanchez-director-campana-ppcv-elecciones-generales-29n"
+        ],
+        "sources": [
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-ppcv-nombra-cesar-sanchez-director-campana-gerardo-camps-portavoz-20261007214507.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/08/un-exalcalde-de-calp-al-frente-del-pp-valenciano-en-las-elecciones-generales-del-29n/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Boletín Oficial del Estado",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12375/cesar-sanchez-director-campana-ppcv-elecciones-generales-29n",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_b5d7a7043f7ce195",
+        "candidate_fingerprint": "37f9455d14a2954a85f6da64087f6f89ce4b00501e1efe2e47e44ea907c237df",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La atribución de la decisión a la Comisión Transitoria se basa en el comunicado del partido recogido por Europa Press y otros medios; no se ha localizado en la búsqueda una resolución individualizada publicada por el PPCV con el nombramiento.",
+            "Las referencias de Calp Digital y otros medios pueden partir del mismo comunicado del PPCV, por lo que la corroboración independiente más sólida para el hecho electoral es el BOE; para el nombramiento, Europa Press y La Marina Plaza ofrecen confirmaciones separadas."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_ce318f1e9dc3c3a1",
+          "quality_gate_evaluated_at": "2026-10-08T16:32:06.272Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_e9a3fa6126918279",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-08T16:32:06.443Z",
+      "source_draft_id": "drf_f27309350541fe0b",
+      "source_investigation_id": "inv_d30cd73fc4fa86bb",
+      "candidate_fingerprint": "d293cdb8089a12d445aec6446e70cc10f91038a45749e61565f67821dcb1d14f",
+      "quality_gate_id": "qg_e40f62f86ff55e7f",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_f27309350541fe0b",
+        "investigation_id": "inv_d30cd73fc4fa86bb",
+        "candidate_fingerprint": "d293cdb8089a12d445aec6446e70cc10f91038a45749e61565f67821dcb1d14f",
+        "title": "El programa Punt Nàutic orientará a más de 1.000 estudiantes de la Marina Alta",
+        "subtitle": "La iniciativa de CREAMA y pacte’MA se desarrollará durante el curso 2026-2027 e incluirá una actividad en Calp en noviembre",
+        "summary": "El proyecto Punt Nàutic ha iniciado una campaña de orientación laboral para acercar a la juventud de la Marina Alta las oportunidades profesionales de la Economía Azul y del sector marítimo. La iniciativa, impulsada por CREAMA y pacte’MA, prevé beneficiar a más de 1.000 estudiantes durante el curso 2026-2027.",
+        "body": "El programa Punt Nàutic desarrollará durante el curso lectivo 2026-2027 distintas acciones de orientación y sensibilización dirigidas a estudiantes de la Marina Alta. El proyecto está impulsado por CREAMA y pacte’MA y cuenta con apoyo de LABORA y del Ministerio de Trabajo y Economía Social.\n\nLa programación incluye jornadas náuticas, talleres gastronómicos, visitas técnicas a infraestructuras portuarias y charlas en institutos. El objetivo señalado por las entidades promotoras es acercar a la juventud las oportunidades profesionales vinculadas a la Economía Azul y al sector marítimo.\n\nSegún la previsión comunicada por pacte’MA, más de 1.000 estudiantes se beneficiarán de las actuaciones previstas. La cifra corresponde al número estimado de participantes para el conjunto del curso, por lo que no equivale necesariamente a jóvenes atendidos hasta la fecha de inicio de la campaña.\n\nEntre las actividades anunciadas figura el «Dia Blau», que llegará a Calp durante el mes de noviembre de 2026. El expediente no concreta la fecha exacta de esta actividad en el municipio ni detalla el número de estudiantes que participará en ella.\n\nLa información sobre el inicio del programa procede de la comunicación de pacte’MA y ha sido recogida también por otros medios. La cobertura independiente disponible reproduce en buena medida los datos de la comunicación institucional, por lo que las cifras y el calendario deben presentarse como previsiones del proyecto para el curso 2026-2027.",
+        "category": "ECONOMIA",
+        "slug": "punt-nautic-orientara-mas-de-1000-estudiantes-marina-alta",
+        "seo_title": "Punt Nàutic orientará a más de 1.000 estudiantes",
+        "meta_description": "Punt Nàutic llevará orientación sobre la Economía Azul a más de 1.000 estudiantes de la Marina Alta y organizará un Dia Blau en Calp.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e40f62f86ff55e7f",
+        "editorial_notes": [
+          "Presentar la cifra de más de 1.000 estudiantes como previsión de beneficiarios, no como número de jóvenes ya atendidos.",
+          "No concretar la fecha del Dia Blau en Calp: el expediente solo indica que tendrá lugar durante noviembre de 2026.",
+          "La corroboración independiente reproduce en gran medida la comunicación institucional de pacte’MA."
+        ],
+        "sources": [
+          {
+            "name": "pacte’MA / Marina Alta",
+            "url": "https://marina-alta.org/va/el-punt-nautic-arranca-acciones-de-orientacion-laboral-para-acercar-la-economia-azul-a-la-juventud-de-la-marina-alta/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "TV Dénia",
+            "url": "https://tvdenia.com/el-punt-nautic-arranca-acciones-de-orientacion-para-acercar-la-economia-azul-a-la-juventud/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/mas-de-1-000-jovenes-de-la-marina-alta-se-benefician-de-la-orientacion-laboral-del-punt-nautic/",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://marina-alta.org/va/el-punt-nautic-arranca-acciones-de-orientacion-laboral-para-acercar-la-economia-azul-a-la-juventud-de-la-marina-alta/",
+          "https://tvdenia.com/el-punt-nautic-arranca-acciones-de-orientacion-para-acercar-la-economia-azul-a-la-juventud/",
+          "https://lamarinaalta.com/mas-de-1-000-jovenes-de-la-marina-alta-se-benefician-de-la-orientacion-laboral-del-punt-nautic/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 6,
+          "evidence_count": 3,
+          "caveats": [
+            "La cifra de más de 1.000 corresponde al número previsto de estudiantes beneficiarios, no necesariamente a jóvenes ya atendidos en la fecha de publicación.",
+            "La cobertura independiente de TV Dénia reproduce en gran medida la comunicación institucional; la corroboración primaria procede de pacte’MA, mientras que los antecedentes del proyecto en CREAMA confirman que Punt Nàutic es una iniciativa preexistente, pero no sustituyen la confirmación específica de la edición 2026-2027."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e40f62f86ff55e7f",
+          "quality_gate_evaluated_at": "2026-10-08T16:32:06.272Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-08T16:31:52.453Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_f27309350541fe0b",
+        "title": "El programa Punt Nàutic orientará a más de 1.000 estudiantes de la Marina Alta",
+        "slug": "punt-nautic-orientara-mas-de-1000-estudiantes-marina-alta",
+        "summary": "El proyecto Punt Nàutic ha iniciado una campaña de orientación laboral para acercar a la juventud de la Marina Alta las oportunidades profesionales de la Economía Azul y del sector marítimo. La iniciativa, impulsada por CREAMA y pacte’MA, prevé beneficiar a más de 1.000 estudiantes durante el curso 2026-2027.",
+        "body": "El programa Punt Nàutic desarrollará durante el curso lectivo 2026-2027 distintas acciones de orientación y sensibilización dirigidas a estudiantes de la Marina Alta. El proyecto está impulsado por CREAMA y pacte’MA y cuenta con apoyo de LABORA y del Ministerio de Trabajo y Economía Social.\n\nLa programación incluye jornadas náuticas, talleres gastronómicos, visitas técnicas a infraestructuras portuarias y charlas en institutos. El objetivo señalado por las entidades promotoras es acercar a la juventud las oportunidades profesionales vinculadas a la Economía Azul y al sector marítimo.\n\nSegún la previsión comunicada por pacte’MA, más de 1.000 estudiantes se beneficiarán de las actuaciones previstas. La cifra corresponde al número estimado de participantes para el conjunto del curso, por lo que no equivale necesariamente a jóvenes atendidos hasta la fecha de inicio de la campaña.\n\nEntre las actividades anunciadas figura el «Dia Blau», que llegará a Calp durante el mes de noviembre de 2026. El expediente no concreta la fecha exacta de esta actividad en el municipio ni detalla el número de estudiantes que participará en ella.\n\nLa información sobre el inicio del programa procede de la comunicación de pacte’MA y ha sido recogida también por otros medios. La cobertura independiente disponible reproduce en buena medida los datos de la comunicación institucional, por lo que las cifras y el calendario deben presentarse como previsiones del proyecto para el curso 2026-2027.",
+        "category": "ECONOMIA",
+        "seo_title": "Punt Nàutic orientará a más de 1.000 estudiantes",
+        "meta_description": "Punt Nàutic llevará orientación sobre la Economía Azul a más de 1.000 estudiantes de la Marina Alta y organizará un Dia Blau en Calp.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e40f62f86ff55e7f",
+        "published_at": null,
+        "source_urls": [
+          "https://marina-alta.org/va/el-punt-nautic-arranca-acciones-de-orientacion-laboral-para-acercar-la-economia-azul-a-la-juventud-de-la-marina-alta/",
+          "https://tvdenia.com/el-punt-nautic-arranca-acciones-de-orientacion-para-acercar-la-economia-azul-a-la-juventud/",
+          "https://lamarinaalta.com/mas-de-1-000-jovenes-de-la-marina-alta-se-benefician-de-la-orientacion-laboral-del-punt-nautic/"
+        ],
+        "sources": [
+          {
+            "name": "pacte’MA / Marina Alta",
+            "url": "https://marina-alta.org/va/el-punt-nautic-arranca-acciones-de-orientacion-laboral-para-acercar-la-economia-azul-a-la-juventud-de-la-marina-alta/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "TV Dénia",
+            "url": "https://tvdenia.com/el-punt-nautic-arranca-acciones-de-orientacion-para-acercar-la-economia-azul-a-la-juventud/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/mas-de-1-000-jovenes-de-la-marina-alta-se-benefician-de-la-orientacion-laboral-del-punt-nautic/",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_d30cd73fc4fa86bb",
+        "candidate_fingerprint": "d293cdb8089a12d445aec6446e70cc10f91038a45749e61565f67821dcb1d14f",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 6,
+          "evidence_count": 3,
+          "caveats": [
+            "La cifra de más de 1.000 corresponde al número previsto de estudiantes beneficiarios, no necesariamente a jóvenes ya atendidos en la fecha de publicación.",
+            "La cobertura independiente de TV Dénia reproduce en gran medida la comunicación institucional; la corroboración primaria procede de pacte’MA, mientras que los antecedentes del proyecto en CREAMA confirman que Punt Nàutic es una iniciativa preexistente, pero no sustituyen la confirmación específica de la edición 2026-2027."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e40f62f86ff55e7f",
+          "quality_gate_evaluated_at": "2026-10-08T16:32:06.272Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

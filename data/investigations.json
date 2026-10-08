@@ -1,8 +1,178 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-08T09:00:54.995Z",
+  "generated_at": "2026-10-08T16:31:13.810Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 3,
+  "investigations": [
+    {
+      "candidate_fingerprint": "9d7479ce7fd084af4d6cc39fcf0c93d4a436f7862ec366c8f8c4a430a35606ef",
+      "title": "El Ayuntamiento de Calp organiza talleres terapéuticos sobre control del estrés",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La información está respaldada por una nota oficial del Ayuntamiento de Calp, que detalla el programa SASEM, sus cinco módulos y diez sesiones, así como las fechas y el lugar. No se ha localizado una corroboración independiente suficientemente diferenciada; las búsquedas disponibles remiten esencialmente a la misma comunicación institucional.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp, a través del SASEM, ha puesto en marcha un programa de talleres terapéuticos y formativos para personas con problemas graves de salud mental.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa se denomina «Control del Estrés» y pretende reforzar la autonomía, el bienestar emocional y la inclusión de las personas usuarias del servicio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa consta de cinco módulos y diez sesiones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las sesiones se celebrarán los miércoles entre el 14 de octubre y el 16 de diciembre de 2026, de 10:30 a 11:30 horas, en Cruz Roja Calp, calle María Jorro, 1.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actividad estará a cargo de la psicóloga del programa SASEM del Ayuntamiento de Calp.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-organiza-un-nuevo-programa-de-talleres-terap%C3%A9uticos-y-formativos",
+          "evidence": "La nota oficial, publicada el 8 de octubre de 2026, atribuye al SASEM la puesta en marcha del programa «Control del Estrés», describe sus objetivos, detalla los cinco módulos y diez sesiones, y fija las sesiones los miércoles del 14 de octubre al 16 de diciembre en Cruz Roja Calp, de 10:30 a 11:30 horas.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha encontrado una fuente independiente que confirme por separado la celebración del programa, las fechas o el uso de las instalaciones de Cruz Roja.",
+        "La evidencia disponible procede de una única comunicación institucional del Ayuntamiento; convendría confirmar el calendario con Cruz Roja Calp o con el propio SASEM antes de publicar como información plenamente corroborada."
+      ],
+      "id": "inv_7bfd247eb20e9915",
+      "investigated_at": "2026-10-08T16:31:13.810Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "37f9455d14a2954a85f6da64087f6f89ce4b00501e1efe2e47e44ea907c237df",
+      "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29N",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La designación de César Sánchez como director de campaña del PPCV está corroborada por varias fuentes independientes y por la información oficial sobre la convocatoria electoral. El nombramiento fue acordado por la Comisión Transitoria del PPCV y Gerardo Camps fue designado portavoz.",
+      "claims": [
+        {
+          "claim": "César Sánchez ha sido designado director de campaña del Partido Popular de la Comunitat Valenciana.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La designación corresponde a la Comisión Transitoria del PPCV, presidida por Juanfran Pérez Llorca.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "César Sánchez es diputado nacional, concejal de Calp y exalcalde del municipio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las elecciones generales se celebrarán el 29 de noviembre de 2026 y son elecciones anticipadas tras la disolución de las Cortes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Gerardo Camps ejercerá como portavoz de la campaña.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-ppcv-nombra-cesar-sanchez-director-campana-gerardo-camps-portavoz-20261007214507.html",
+          "evidence": "Informa de que el PPCV nombró a César Sánchez director de campaña y a Gerardo Camps portavoz tras la reunión de la Comisión Transitoria. También recoge la composición inicial del comité de campaña.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/08/un-exalcalde-de-calp-al-frente-del-pp-valenciano-en-las-elecciones-generales-del-29n/",
+          "evidence": "Confirma que el actual diputado nacional y concejal de Calp, exalcalde del municipio, ha sido designado director de campaña del PPCV para las elecciones generales del 29 de noviembre y detalla la estructura del comité de campaña.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Boletín Oficial del Estado",
+          "source_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742&lang=es",
+          "evidence": "El Real Decreto 806/2026, de 5 de octubre, disuelve el Congreso y el Senado y convoca elecciones a ambas Cámaras para el domingo 29 de noviembre de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12375/cesar-sanchez-director-campana-ppcv-elecciones-generales-29n",
+          "evidence": "Publica que la Comisión Transitoria del PPCV designó a César Sánchez director de campaña para las elecciones generales del 29 de noviembre y que Gerardo Camps será el portavoz.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La atribución de la decisión a la Comisión Transitoria se basa en el comunicado del partido recogido por Europa Press y otros medios; no se ha localizado en la búsqueda una resolución individualizada publicada por el PPCV con el nombramiento.",
+        "Las referencias de Calp Digital y otros medios pueden partir del mismo comunicado del PPCV, por lo que la corroboración independiente más sólida para el hecho electoral es el BOE; para el nombramiento, Europa Press y La Marina Plaza ofrecen confirmaciones separadas."
+      ],
+      "id": "inv_b5d7a7043f7ce195",
+      "investigated_at": "2026-10-08T16:31:13.810Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d293cdb8089a12d445aec6446e70cc10f91038a45749e61565f67821dcb1d14f",
+      "title": "Más de 1.000 jóvenes de la Marina Alta recibirán orientación laboral sobre la Economía Azul",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El proyecto Punt Nàutic, impulsado por CREAMA y pacte’MA, ha iniciado una campaña comarcal de orientación sobre el sector marítimo y la Economía Azul para el curso 2026-2027. La fuente institucional confirma que beneficiará a más de 1.000 estudiantes e incluye actividades en Calp durante noviembre.",
+      "claims": [
+        {
+          "claim": "Punt Nàutic está impulsado por CREAMA y pacte’MA.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa se desarrolla durante el curso lectivo 2026-2027 y busca acercar a la juventud a las oportunidades profesionales de la Economía Azul y del sector marítimo.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las actuaciones incluyen jornadas náuticas, talleres gastronómicos, visitas técnicas a infraestructuras portuarias y charlas en institutos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Más de 1.000 estudiantes de la Marina Alta se beneficiarán de las acciones de orientación y sensibilización.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actividad «Dia Blau» llegará a Calp durante noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto cuenta con apoyo de LABORA y del Ministerio de Trabajo y Economía Social.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "pacte’MA / Marina Alta",
+          "source_url": "https://marina-alta.org/va/el-punt-nautic-arranca-acciones-de-orientacion-laboral-para-acercar-la-economia-azul-a-la-juventud-de-la-marina-alta/",
+          "evidence": "La entidad comarcal informa del inicio de las acciones del Punt Nàutic, identifica a CREAMA y pacte’MA como impulsores, señala que más de 1.000 estudiantes se beneficiarán durante el curso 2026-2027 y confirma que el Dia Blau llegará a Calp en noviembre. También enumera las actividades y las fuentes de financiación institucional.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "TV Dénia",
+          "source_url": "https://tvdenia.com/el-punt-nautic-arranca-acciones-de-orientacion-para-acercar-la-economia-azul-a-la-juventud/",
+          "evidence": "Corrobora el inicio de la campaña del Punt Nàutic, su objetivo de acercar la Economía Azul a la juventud y la participación de CREAMA y pacte’MA, además del apoyo de LABORA y del Ministerio de Trabajo y Economía Social.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/mas-de-1-000-jovenes-de-la-marina-alta-se-benefician-de-la-orientacion-laboral-del-punt-nautic/",
+          "evidence": "Describe el programa para el curso 2026-2027, las actividades de orientación laboral, el objetivo de superar los 1.000 estudiantes y la llegada del Dia Blau a Calp durante noviembre.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra de más de 1.000 corresponde al número previsto de estudiantes beneficiarios, no necesariamente a jóvenes ya atendidos en la fecha de publicación.",
+        "La cobertura independiente de TV Dénia reproduce en gran medida la comunicación institucional; la corroboración primaria procede de pacte’MA, mientras que los antecedentes del proyecto en CREAMA confirman que Punt Nàutic es una iniciativa preexistente, pero no sustituyen la confirmación específica de la edición 2026-2027."
+      ],
+      "id": "inv_d30cd73fc4fa86bb",
+      "investigated_at": "2026-10-08T16:31:13.810Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
