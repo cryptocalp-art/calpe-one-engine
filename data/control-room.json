@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-08T22:06:49.165Z",
+  "generated_at": "2026-10-09T02:13:03.985Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-08T22:06:49.035Z",
+  "last_activity": "2026-10-09T02:13:03.830Z",
   "newspaper": {
-    "archive_total": 73,
-    "published_today": 1,
+    "archive_total": 74,
+    "published_today": 2,
     "published_last_7_days": 27,
     "categories": {
+      "ECONOMIA": 10,
       "SOCIEDAD": 12,
       "POLITICA": 4,
-      "ECONOMIA": 9,
       "SUCESOS": 7,
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
@@ -21,6 +21,13 @@
       "CULTURA": 4
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_93016c4679341a86",
+        "title": "Convocada una huelga general de 24 horas para el 11 de noviembre por la vivienda y los salarios",
+        "category": "ECONOMIA",
+        "slug": "huelga-general-11-noviembre-vivienda-salarios-marina-alta",
+        "published_at": "2026-10-09T02:12:43.339Z"
+      },
       {
         "archive_id": "arc_2c3ad78781155e4e",
         "title": "Calp programa diez sesiones para abordar el control del estrés desde el SASEM",
@@ -68,13 +75,6 @@
         "title": "Calp alcanza un 29,35% en el último análisis de indicadores de transparencia de Dyntra",
         "category": "POLITICA",
         "slug": "dyntra-transparencia-ayuntamiento-calp-2935-por-ciento",
-        "published_at": "2026-10-07T16:32:17.406Z"
-      },
-      {
-        "archive_id": "arc_b44724da52bfceca",
-        "title": "HCB Calpe se incorpora al grupo sanitario Ribera tras autorizarse la operación",
-        "category": "SOCIEDAD",
-        "slug": "hcb-calpe-incorpora-grupo-sanitario-ribera",
         "published_at": "2026-10-07T16:32:17.406Z"
       }
     ]
