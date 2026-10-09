@@ -1,73 +1,8 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-09T02:12:43.339Z",
+  "generated_at": "2026-10-09T09:07:53.860Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
-  "drafts": [
-    {
-      "id": "drf_8610dc0aa67acc16",
-      "investigation_id": "inv_d34e719ff378e10d",
-      "candidate_fingerprint": "bb3e3ac716920734141c39e035fd4338c59ff5f34f082268327c21b9634b47b8",
-      "category": "ECONOMIA",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-09T02:12:43.339Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Convocada una huelga general de 24 horas para el 11 de noviembre por la vivienda y los salarios",
-      "subheadline": "UGT, CCOO y otras organizaciones sindicales sitúan entre sus reivindicaciones el control de precios y medidas contra la especulación inmobiliaria. La movilización afecta a la Marina Alta, aunque todavía no hay un calendario comarcal confirmado.",
-      "lead": "UGT y CCOO han convocado una huelga general de 24 horas para el miércoles 11 de noviembre de 2026. La protesta, en la que también participan el Sindicato de Inquilinas y otras organizaciones sindicales, centra sus reivindicaciones en la vivienda, los salarios, el coste de la vida y el control de precios.",
-      "body_markdown": "UGT y CCOO han confirmado la convocatoria de una huelga general de 24 horas para el miércoles 11 de noviembre de 2026. La movilización incluye al Sindicato de Inquilinas y a otras organizaciones sindicales, entre ellas la Confederación Intersindical, según las comunicaciones y la información difundida sobre el acuerdo.\n\nLas reivindicaciones planteadas abarcan la mejora de los salarios, el acceso a una vivienda digna, el control de los precios y medidas contra la especulación inmobiliaria. Las organizaciones también vinculan el paro a la reducción de la jornada, la erradicación de la precariedad, las pensiones y las condiciones laborales.\n\nLa convocatoria tiene incidencia en la Marina Alta. La documentación disponible relaciona la movilización con la presión residencial que afecta a la comarca y recoge referencias a alquileres elevados, escasez de vivienda protegida y dificultades para la población joven. Entre los datos difundidos en el ámbito local figuran 67 viviendas protegidas en Dénia y ocho en Calp.\n\nNo obstante, la información verificada no incluye una comunicación oficial específica de UGT, CCOO o de una plataforma de la Marina Alta con detalles sobre actos, concentraciones, servicios mínimos o previsiones de seguimiento en Calp, Dénia, Xàbia u otros municipios. Por tanto, la convocatoria comarcal debe entenderse, con los datos disponibles, como parte de un paro de ámbito estatal y no como una programación local independiente ya detallada.\n\nTampoco se incorpora en esta información la afirmación de que se trataría de la primera huelga general en 14 años. Las fuentes consultadas respaldan únicamente que sería la primera convocatoria apoyada conjuntamente por UGT y CCOO desde noviembre de 2012, una formulación distinta de afirmar que sea la primera huelga general de cualquier tipo celebrada en España durante ese periodo.",
-      "seo_title": "Huelga general el 11 de noviembre por vivienda y salarios",
-      "meta_description": "UGT, CCOO y otras organizaciones convocan una huelga general de 24 horas el 11 de noviembre por la vivienda, los salarios y el control de precios.",
-      "slug": "huelga-general-11-noviembre-vivienda-salarios-marina-alta",
-      "editorial_notes": [
-        "No presentar la movilización como una convocatoria comarcal independiente: no constan actos, concentraciones, servicios mínimos ni seguimiento específico confirmados para municipios de la Marina Alta.",
-        "No utilizar la afirmación de que es la primera huelga general en 14 años; las fuentes solo respaldan que sería la primera convocatoria conjunta de UGT y CCOO desde noviembre de 2012."
-      ],
-      "sources": [
-        {
-          "source_name": "CCOO",
-          "source_url": "https://www.ccoo.es/noticia:769574--Convocamos_huelga_general_para_el_11_de_noviembre&opc_id=8c53f4de8f8f09d2e54f19daf8d8ed95",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "UGT",
-          "source_url": "https://ugt.es/11n-huelga-general-salarios-vivienda-precios",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Confederación Intersindical",
-          "source_url": "https://intersindical.es/la-confederacion-intersindical-convocara-junto-a-los-sindicatos-de-clase-estatales-huelga-general-el-11-de-noviembre-por-la-vivienda-y-el-coste-de-la-vida/",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "RTVE",
-          "source_url": "https://www.rtve.es/noticias/20261007/huelga-general-fecha-sindicatos-ccoo-ugt-inquilinas/17256812.shtml",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/economia/laboral-00346/noticia-sindicatos-confirman-huelga-general-vivienda-11-noviembre-20261007210859.html",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/11436/ccoo-denuncia-que-vivir-en-la-marina-exige-hasta-el-87-del-salario-juvenil-y-expulsa-a-la-clase-trabajadora",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 5,
-        "evidence_count": 6,
-        "caveats": [
-          "La evidencia confirma una convocatoria estatal, pero no se ha localizado una comunicación oficial específica de UGT, CCOO o de una plataforma de la Marina Alta que detalle actos, concentraciones, servicios mínimos o seguimiento previsto en Calp, Dénia, Xàbia u otros municipios.",
-          "La formulación «primera huelga general en 14 años» requiere precisión: las fuentes consultadas respaldan que sería la primera convocatoria respaldada conjuntamente por UGT y CCOO desde noviembre de 2012, no necesariamente la primera huelga general de cualquier tipo celebrada en España en ese periodo.",
-          "La relación con la Marina Alta está fundamentada en la incidencia comarcal de la crisis de vivienda y en la cobertura local, pero «una de las zonas costeras con mayores dificultades» es una valoración comparativa que necesitaría una fuente estadística independiente y explícitamente comparativa."
-        ]
-      }
-    }
-  ]
+  "count": 0,
+  "drafts": []
 }
