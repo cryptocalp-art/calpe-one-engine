@@ -3,12 +3,395 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-09T09:07:54.111Z",
+  "generated_at": "2026-10-09T16:16:22.327Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 3,
+  "ready_count": 3,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_29edc44397e0ec0a",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-09T16:16:22.327Z",
+      "source_draft_id": "drf_8b739853aae84d89",
+      "source_investigation_id": "inv_74993974b74d4ccf",
+      "candidate_fingerprint": "9a2e8c157a24787c3c5aace5f411df8d9c01b2d54b45f424adf9803208c9ad66",
+      "quality_gate_id": "qg_2264fc47deb2eae7",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_8b739853aae84d89",
+        "investigation_id": "inv_74993974b74d4ccf",
+        "candidate_fingerprint": "9a2e8c157a24787c3c5aace5f411df8d9c01b2d54b45f424adf9803208c9ad66",
+        "title": "La Rondalla de Calp y la Mandolinenorchester de Weiterode conmemoran 25 años de hermanamiento",
+        "subtitle": "Las dos formaciones ofrecerán un concierto conjunto el sábado 10 de octubre en la parroquia Virgen de las Nieves, con entrada libre.",
+        "summary": "La Rondalla de Calp y la Mandolinenorchester de Weiterode celebrarán este sábado, 10 de octubre, el 25 aniversario de su hermanamiento musical con un concierto conjunto en la parroquia Virgen de las Nieves. La actuación comenzará a las 20:00 y tendrá entrada libre.",
+        "body": "La música servirá este sábado como punto de encuentro entre Calp y Weiterode, localidad vinculada a Bebra, en Alemania. La Rondalla de Calp y la Mandolinenorchester de Weiterode ofrecerán un concierto conjunto con motivo de los 25 años de hermanamiento musical entre ambas formaciones.\n\nLa actuación está prevista para el 10 de octubre de 2026, a las 20:00, en la parroquia Virgen de las Nieves. La entrada será gratuita, según la información difundida por el Ayuntamiento de Calp y la agenda cultural municipal.\n\nEl concierto se integra en el proyecto europeo WANDERLUST, desarrollado entre Calp y Bebra y financiado mediante el programa CERV. La iniciativa incluye la visita de una delegación alemana a la localidad calpina durante el mes de octubre.\n\nLa documentación de contratación municipal cifra en 48 personas la delegación alemana, una cifra que incluye músicos y acompañantes. La visita reúne así a cerca de medio centenar de participantes en torno a este aniversario de colaboración musical.\n\nLa cita permitirá compartir escenario a las dos agrupaciones, que mantienen este vínculo desde hace un cuarto de siglo. El Ayuntamiento ha incorporado el concierto a su programación y la convocatoria también figura en una agenda cultural independiente.",
+        "category": "CULTURA",
+        "slug": "concierto-calp-weiterode-25-anos-hermanamiento",
+        "seo_title": "Concierto de Calp y Weiterode por 25 años de hermanamiento",
+        "meta_description": "La Rondalla de Calp y la Mandolinenorchester de Weiterode ofrecen el 10 de octubre un concierto gratuito por sus 25 años de hermanamiento.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_2264fc47deb2eae7",
+        "editorial_notes": [],
+        "sources": [
+          {
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/?lang=en",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica, agenda municipal",
+            "url": "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/5/?tribe-bar-date=2026-06-01",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Sophia, plataforma de contratación pública",
+            "url": "https://www.sophia-anphis.es/licitaciones/ser-61%2F2026_ass-servicio-de-agencia-de-viaje-en-el-marco-del-encuentro-de-hermanamiento-cerv-2024-rondalla-weiterode-%28bebra-alemania%29-rondalla-de-cal-26b9c67f",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ocio Alicante",
+            "url": "https://ocioalicante.net/evento/calpe/parroquia-nuestra-senora-nieves/conciertos/concierto-rondalla-calp-mandolinenorchester-weiterode/?id=165862",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpcomunica.calp.es/?lang=en",
+          "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/5/?tribe-bar-date=2026-06-01",
+          "https://www.sophia-anphis.es/licitaciones/ser-61%2F2026_ass-servicio-de-agencia-de-viaje-en-el-marco-del-encuentro-de-hermanamiento-cerv-2024-rondalla-weiterode-%28bebra-alemania%29-rondalla-de-cal-26b9c67f",
+          "https://ocioalicante.net/evento/calpe/parroquia-nuestra-senora-nieves/conciertos/concierto-rondalla-calp-mandolinenorchester-weiterode/?id=165862"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_2264fc47deb2eae7",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-09T16:16:04.272Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_8b739853aae84d89",
+        "title": "La Rondalla de Calp y la Mandolinenorchester de Weiterode conmemoran 25 años de hermanamiento",
+        "slug": "concierto-calp-weiterode-25-anos-hermanamiento",
+        "summary": "La Rondalla de Calp y la Mandolinenorchester de Weiterode celebrarán este sábado, 10 de octubre, el 25 aniversario de su hermanamiento musical con un concierto conjunto en la parroquia Virgen de las Nieves. La actuación comenzará a las 20:00 y tendrá entrada libre.",
+        "body": "La música servirá este sábado como punto de encuentro entre Calp y Weiterode, localidad vinculada a Bebra, en Alemania. La Rondalla de Calp y la Mandolinenorchester de Weiterode ofrecerán un concierto conjunto con motivo de los 25 años de hermanamiento musical entre ambas formaciones.\n\nLa actuación está prevista para el 10 de octubre de 2026, a las 20:00, en la parroquia Virgen de las Nieves. La entrada será gratuita, según la información difundida por el Ayuntamiento de Calp y la agenda cultural municipal.\n\nEl concierto se integra en el proyecto europeo WANDERLUST, desarrollado entre Calp y Bebra y financiado mediante el programa CERV. La iniciativa incluye la visita de una delegación alemana a la localidad calpina durante el mes de octubre.\n\nLa documentación de contratación municipal cifra en 48 personas la delegación alemana, una cifra que incluye músicos y acompañantes. La visita reúne así a cerca de medio centenar de participantes en torno a este aniversario de colaboración musical.\n\nLa cita permitirá compartir escenario a las dos agrupaciones, que mantienen este vínculo desde hace un cuarto de siglo. El Ayuntamiento ha incorporado el concierto a su programación y la convocatoria también figura en una agenda cultural independiente.",
+        "category": "CULTURA",
+        "seo_title": "Concierto de Calp y Weiterode por 25 años de hermanamiento",
+        "meta_description": "La Rondalla de Calp y la Mandolinenorchester de Weiterode ofrecen el 10 de octubre un concierto gratuito por sus 25 años de hermanamiento.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_2264fc47deb2eae7",
+        "published_at": null,
+        "source_urls": [
+          "https://calpcomunica.calp.es/?lang=en",
+          "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/5/?tribe-bar-date=2026-06-01",
+          "https://www.sophia-anphis.es/licitaciones/ser-61%2F2026_ass-servicio-de-agencia-de-viaje-en-el-marco-del-encuentro-de-hermanamiento-cerv-2024-rondalla-weiterode-%28bebra-alemania%29-rondalla-de-cal-26b9c67f",
+          "https://ocioalicante.net/evento/calpe/parroquia-nuestra-senora-nieves/conciertos/concierto-rondalla-calp-mandolinenorchester-weiterode/?id=165862"
+        ],
+        "sources": [
+          {
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/?lang=en",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica, agenda municipal",
+            "url": "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/5/?tribe-bar-date=2026-06-01",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Sophia, plataforma de contratación pública",
+            "url": "https://www.sophia-anphis.es/licitaciones/ser-61%2F2026_ass-servicio-de-agencia-de-viaje-en-el-marco-del-encuentro-de-hermanamiento-cerv-2024-rondalla-weiterode-%28bebra-alemania%29-rondalla-de-cal-26b9c67f",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ocio Alicante",
+            "url": "https://ocioalicante.net/evento/calpe/parroquia-nuestra-senora-nieves/conciertos/concierto-rondalla-calp-mandolinenorchester-weiterode/?id=165862",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_74993974b74d4ccf",
+        "candidate_fingerprint": "9a2e8c157a24787c3c5aace5f411df8d9c01b2d54b45f424adf9803208c9ad66",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_2264fc47deb2eae7",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_8936b2b0c6db942d",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-09T16:16:22.327Z",
+      "source_draft_id": "drf_61bee026892e0daf",
+      "source_investigation_id": "inv_55e8fc6d3e707769",
+      "candidate_fingerprint": "ab54104ef29bafc71e1768d87312635462a13521b6a68000f4c1f1a3234cc41d",
+      "quality_gate_id": "qg_682b5bf736aee009",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_61bee026892e0daf",
+        "investigation_id": "inv_55e8fc6d3e707769",
+        "candidate_fingerprint": "ab54104ef29bafc71e1768d87312635462a13521b6a68000f4c1f1a3234cc41d",
+        "title": "Calp celebra el Día del Xiquet Fester por el 50 aniversario de Moros i Cristians",
+        "subtitle": "La jornada familiar se desarrollará el domingo 11 de octubre en el Parc de la Creativitat, con talleres, juegos y actuaciones musicales.",
+        "summary": "El Parc de la Creativitat de Calp acogerá el domingo 11 de octubre el Día del Xiquet Fester, una jornada familiar organizada con motivo del 50 aniversario de las fiestas de Moros i Cristians. El programa incluye actividades infantiles y propuestas musicales.",
+        "body": "Calp celebrará este domingo, 11 de octubre, el Día del Xiquet Fester, una actividad vinculada al 50 aniversario de las fiestas de Moros i Cristians. La jornada tendrá lugar en el Parc de la Creativitat y está planteada como una propuesta familiar.\n\nLa programación municipal contempla talleres tematizados, sesiones de pintacaras e hinchables para el público infantil. El programa se completa con actuaciones musicales y sesiones de DJ, según la agenda oficial del Ayuntamiento de Calp.\n\nLa actividad forma parte de los actos conmemorativos del medio siglo de las fiestas de Moros i Cristians. La agenda municipal consultada sitúa la jornada entre las 16:00 y las 23:30.\n\nLa misma programación incluye, no obstante, una actuación anunciada a las 00:15. Por este motivo, la hora debe consultarse en el cartel o en la ficha individual del evento para determinar si corresponde ya a la madrugada del 12 de octubre o si se trata de un error en la agenda general.\n\nEl Día del Xiquet Fester reunirá así actividades de ocio infantil y propuestas musicales dentro del calendario de celebración del aniversario. La información disponible confirma el lugar, la fecha y los contenidos generales, pero mantiene esa duda sobre el encaje horario de la actuación anunciada después de medianoche.",
+        "category": "CULTURA",
+        "slug": "dia-xiquet-fester-calp-50-aniversario-moros-cristians",
+        "seo_title": "Día del Xiquet Fester en Calp por el 50 aniversario",
+        "meta_description": "El Parc de la Creativitat acoge el 11 de octubre el Día del Xiquet Fester, con talleres, hinchables, música y actividades infantiles.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_682b5bf736aee009",
+        "editorial_notes": [
+          "Conviene revisar el cartel o la ficha individual antes de publicar el horario completo: la agenda municipal indica un tramo de 16:00 a 23:30, pero incluye una actuación a las 00:15."
+        ],
+        "sources": [
+          {
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica, versión en español",
+            "url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 2,
+          "caveats": [
+            "La página municipal consultada muestra un tramo horario de 16:00 a 23:30, pero incluye una actuación anunciada a las 00:15; conviene revisar el cartel o la ficha individual para aclarar si esa hora corresponde ya a la madrugada del 12 de octubre."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_682b5bf736aee009",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-09T16:16:04.272Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_61bee026892e0daf",
+        "title": "Calp celebra el Día del Xiquet Fester por el 50 aniversario de Moros i Cristians",
+        "slug": "dia-xiquet-fester-calp-50-aniversario-moros-cristians",
+        "summary": "El Parc de la Creativitat de Calp acogerá el domingo 11 de octubre el Día del Xiquet Fester, una jornada familiar organizada con motivo del 50 aniversario de las fiestas de Moros i Cristians. El programa incluye actividades infantiles y propuestas musicales.",
+        "body": "Calp celebrará este domingo, 11 de octubre, el Día del Xiquet Fester, una actividad vinculada al 50 aniversario de las fiestas de Moros i Cristians. La jornada tendrá lugar en el Parc de la Creativitat y está planteada como una propuesta familiar.\n\nLa programación municipal contempla talleres tematizados, sesiones de pintacaras e hinchables para el público infantil. El programa se completa con actuaciones musicales y sesiones de DJ, según la agenda oficial del Ayuntamiento de Calp.\n\nLa actividad forma parte de los actos conmemorativos del medio siglo de las fiestas de Moros i Cristians. La agenda municipal consultada sitúa la jornada entre las 16:00 y las 23:30.\n\nLa misma programación incluye, no obstante, una actuación anunciada a las 00:15. Por este motivo, la hora debe consultarse en el cartel o en la ficha individual del evento para determinar si corresponde ya a la madrugada del 12 de octubre o si se trata de un error en la agenda general.\n\nEl Día del Xiquet Fester reunirá así actividades de ocio infantil y propuestas musicales dentro del calendario de celebración del aniversario. La información disponible confirma el lugar, la fecha y los contenidos generales, pero mantiene esa duda sobre el encaje horario de la actuación anunciada después de medianoche.",
+        "category": "CULTURA",
+        "seo_title": "Día del Xiquet Fester en Calp por el 50 aniversario",
+        "meta_description": "El Parc de la Creativitat acoge el 11 de octubre el Día del Xiquet Fester, con talleres, hinchables, música y actividades infantiles.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_682b5bf736aee009",
+        "published_at": null,
+        "source_urls": [
+          "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F"
+        ],
+        "sources": [
+          {
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica, versión en español",
+            "url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_55e8fc6d3e707769",
+        "candidate_fingerprint": "ab54104ef29bafc71e1768d87312635462a13521b6a68000f4c1f1a3234cc41d",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 2,
+          "caveats": [
+            "La página municipal consultada muestra un tramo horario de 16:00 a 23:30, pero incluye una actuación anunciada a las 00:15; conviene revisar el cartel o la ficha individual para aclarar si esa hora corresponde ya a la madrugada del 12 de octubre."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_682b5bf736aee009",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_8d80dd3ae92d22b9",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-09T16:16:22.327Z",
+      "source_draft_id": "drf_fd2142cd181e9da7",
+      "source_investigation_id": "inv_cfcd29146250a381",
+      "candidate_fingerprint": "f94b2a6c05d741948e5b5ce2e1f6c09bf619b2ada444a198aac10f85250c6b24",
+      "quality_gate_id": "qg_18d1bf5ad68bd823",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_fd2142cd181e9da7",
+        "investigation_id": "inv_cfcd29146250a381",
+        "candidate_fingerprint": "f94b2a6c05d741948e5b5ce2e1f6c09bf619b2ada444a198aac10f85250c6b24",
+        "title": "Calp acogerá el Campeonato de España de Cruceros con 18 tripulaciones",
+        "subtitle": "La competición nacional se disputará del 16 al 18 de octubre en el Real Club Náutico de Calpe y reunirá a equipos de 13 federaciones autonómicas.",
+        "summary": "El Real Club Náutico de Calpe será la sede del Campeonato de España de Cruceros Loterías con el Deporte 2026, que se celebrará del 16 al 18 de octubre. La competición contará con 18 tripulaciones procedentes de 13 federaciones autonómicas.",
+        "body": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre el Campeonato de España de Cruceros Loterías con el Deporte 2026. La prueba está organizada por la Real Federación Española de Vela en colaboración con el club calpino.\n\nLa competición reunirá a 18 tripulaciones clasificadas para disputar la final nacional. Según la información de la entidad organizadora, los equipos proceden de 13 federaciones autonómicas.\n\nEl campeonato coincidirá además con el 50 aniversario del Real Club Náutico de Calpe. La celebración deportiva se desarrollará durante tres jornadas en las instalaciones del club, que ha confirmado tanto las fechas como la relación de equipos participantes.\n\nLa Real Federación Española de Vela ha publicado la documentación oficial correspondiente al campeonato, incluidos los documentos de inscritos y el anuncio de regatas. El Real Club Náutico de Calpe también ha difundido la composición de la flota que competirá por el título nacional.\n\nLa presencia de 18 tripulaciones convierte a Calp en el escenario de esta cita estatal de cruceros durante el fin de semana del 16 al 18 de octubre. Las fuentes oficiales acreditan que se trata de los equipos clasificados para la final nacional; no permiten afirmar, sin una valoración adicional, que sean objetivamente los mejores equipos del país.",
+        "category": "DEPORTES",
+        "slug": "calp-campeonato-espana-cruceros-2026",
+        "seo_title": "Calp acoge el Campeonato de España de Cruceros 2026",
+        "meta_description": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre el Campeonato de España de Cruceros, con 18 tripulaciones de 13 federaciones.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_18d1bf5ad68bd823",
+        "editorial_notes": [
+          "Evitar la expresión 'los mejores equipos nacionales': las fuentes acreditan que son las tripulaciones clasificadas para la final estatal, no una valoración independiente de su nivel."
+        ],
+        "sources": [
+          {
+            "name": "Real Club Náutico de Calpe",
+            "url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Real Club Náutico de Calpe",
+            "url": "https://www.rcnc.es/los-18-equipos-que-lucharan-por-el-campeonato-de-espana-de-cruceros-ya-tienen-nombre/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Real Federación Española de Vela",
+            "url": "https://rfev.es/campeonato-de-espana-de-cruceros-loterias-con-el-deporte/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Mundo Deportivo",
+            "url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+          "https://www.rcnc.es/los-18-equipos-que-lucharan-por-el-campeonato-de-espana-de-cruceros-ya-tienen-nombre/",
+          "https://rfev.es/campeonato-de-espana-de-cruceros-loterias-con-el-deporte/",
+          "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La expresión 'los mejores equipos nacionales' es una formulación periodística; las fuentes oficiales acreditan que son los equipos clasificados para la final nacional, no una valoración independiente de que sean objetivamente los mejores del país."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_18d1bf5ad68bd823",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-09T16:16:04.272Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_fd2142cd181e9da7",
+        "title": "Calp acogerá el Campeonato de España de Cruceros con 18 tripulaciones",
+        "slug": "calp-campeonato-espana-cruceros-2026",
+        "summary": "El Real Club Náutico de Calpe será la sede del Campeonato de España de Cruceros Loterías con el Deporte 2026, que se celebrará del 16 al 18 de octubre. La competición contará con 18 tripulaciones procedentes de 13 federaciones autonómicas.",
+        "body": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre el Campeonato de España de Cruceros Loterías con el Deporte 2026. La prueba está organizada por la Real Federación Española de Vela en colaboración con el club calpino.\n\nLa competición reunirá a 18 tripulaciones clasificadas para disputar la final nacional. Según la información de la entidad organizadora, los equipos proceden de 13 federaciones autonómicas.\n\nEl campeonato coincidirá además con el 50 aniversario del Real Club Náutico de Calpe. La celebración deportiva se desarrollará durante tres jornadas en las instalaciones del club, que ha confirmado tanto las fechas como la relación de equipos participantes.\n\nLa Real Federación Española de Vela ha publicado la documentación oficial correspondiente al campeonato, incluidos los documentos de inscritos y el anuncio de regatas. El Real Club Náutico de Calpe también ha difundido la composición de la flota que competirá por el título nacional.\n\nLa presencia de 18 tripulaciones convierte a Calp en el escenario de esta cita estatal de cruceros durante el fin de semana del 16 al 18 de octubre. Las fuentes oficiales acreditan que se trata de los equipos clasificados para la final nacional; no permiten afirmar, sin una valoración adicional, que sean objetivamente los mejores equipos del país.",
+        "category": "DEPORTES",
+        "seo_title": "Calp acoge el Campeonato de España de Cruceros 2026",
+        "meta_description": "El Real Club Náutico de Calpe acogerá del 16 al 18 de octubre el Campeonato de España de Cruceros, con 18 tripulaciones de 13 federaciones.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_18d1bf5ad68bd823",
+        "published_at": null,
+        "source_urls": [
+          "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+          "https://www.rcnc.es/los-18-equipos-que-lucharan-por-el-campeonato-de-espana-de-cruceros-ya-tienen-nombre/",
+          "https://rfev.es/campeonato-de-espana-de-cruceros-loterias-con-el-deporte/",
+          "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html"
+        ],
+        "sources": [
+          {
+            "name": "Real Club Náutico de Calpe",
+            "url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Real Club Náutico de Calpe",
+            "url": "https://www.rcnc.es/los-18-equipos-que-lucharan-por-el-campeonato-de-espana-de-cruceros-ya-tienen-nombre/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Real Federación Española de Vela",
+            "url": "https://rfev.es/campeonato-de-espana-de-cruceros-loterias-con-el-deporte/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Mundo Deportivo",
+            "url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_cfcd29146250a381",
+        "candidate_fingerprint": "f94b2a6c05d741948e5b5ce2e1f6c09bf619b2ada444a198aac10f85250c6b24",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La expresión 'los mejores equipos nacionales' es una formulación periodística; las fuentes oficiales acreditan que son los equipos clasificados para la final nacional, no una valoración independiente de que sean objetivamente los mejores del país."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_18d1bf5ad68bd823",
+          "quality_gate_evaluated_at": "2026-10-09T16:16:22.167Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

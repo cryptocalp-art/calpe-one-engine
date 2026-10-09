@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-09T09:08:00.702Z",
+  "generated_at": "2026-10-09T16:16:36.684Z",
   "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-09T09:08:00.534Z",
+  "last_activity": "2026-10-09T16:16:36.477Z",
   "newspaper": {
-    "archive_total": 74,
-    "published_today": 2,
-    "published_last_7_days": 26,
+    "archive_total": 76,
+    "published_today": 4,
+    "published_last_7_days": 27,
     "categories": {
+      "CULTURA": 6,
       "ECONOMIA": 10,
       "SOCIEDAD": 12,
       "POLITICA": 4,
@@ -17,10 +18,23 @@
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
       "TURISMO": 8,
-      "DEPORTES": 3,
-      "CULTURA": 4
+      "DEPORTES": 3
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_b3ac4d6c71cc7f9b",
+        "title": "La Rondalla de Calp y la Mandolinenorchester de Weiterode conmemoran 25 años de hermanamiento",
+        "category": "CULTURA",
+        "slug": "concierto-calp-weiterode-25-anos-hermanamiento",
+        "published_at": "2026-10-09T16:16:04.272Z"
+      },
+      {
+        "archive_id": "arc_2e4cec5b15995273",
+        "title": "Calp celebra el Día del Xiquet Fester por el 50 aniversario de Moros i Cristians",
+        "category": "CULTURA",
+        "slug": "dia-xiquet-fester-calp-50-aniversario-moros-cristians",
+        "published_at": "2026-10-09T16:16:04.272Z"
+      },
       {
         "archive_id": "arc_93016c4679341a86",
         "title": "Convocada una huelga general de 24 horas para el 11 de noviembre por la vivienda y los salarios",
@@ -62,30 +76,16 @@
         "category": "SUCESOS",
         "slug": "cuatro-detenidos-dos-robos-naves-altea",
         "published_at": "2026-10-07T22:00:44.580Z"
-      },
-      {
-        "archive_id": "arc_81d72ae8acd2f20e",
-        "title": "Calp convoca un concurso para definir la reurbanización de la avenida Europa, la plaza Colón y varias calles",
-        "category": "LOCAL",
-        "slug": "calp-concurso-reurbanizacion-avenida-europa-plaza-colon",
-        "published_at": "2026-10-07T16:32:17.406Z"
-      },
-      {
-        "archive_id": "arc_d4850eda1da87bfc",
-        "title": "Calp alcanza un 29,35% en el último análisis de indicadores de transparencia de Dyntra",
-        "category": "POLITICA",
-        "slug": "dyntra-transparencia-ayuntamiento-calp-2935-por-ciento",
-        "published_at": "2026-10-07T16:32:17.406Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 3,
+    "eligible": 3,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,

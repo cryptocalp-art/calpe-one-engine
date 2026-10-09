@@ -1,8 +1,238 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-09T09:07:53.691Z",
+  "generated_at": "2026-10-09T16:15:19.168Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 4,
+  "investigations": [
+    {
+      "candidate_fingerprint": "9a2e8c157a24787c3c5aace5f411df8d9c01b2d54b45f424adf9803208c9ad66",
+      "title": "La Rondalla de Calp y la Mandolinenorchester de Weiterode celebran 25 años de hermanamiento con un concierto",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La convocatoria está corroborada por el Ayuntamiento de Calp y por una fuente independiente de agenda cultural. El concierto conjunto está previsto para el sábado 10 de octubre de 2026 en la parroquia Virgen de las Nieves, dentro del proyecto WANDERLUST, con entrada libre. La documentación de contratación municipal identifica una delegación alemana de 48 personas, compatible con la referencia a cerca de medio centenar de músicos y acompañantes.",
+      "claims": [
+        {
+          "claim": "La Mandolinenorchester de Weiterode y la Rondalla de Calp celebran 25 años de hermanamiento musical.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El concierto conjunto se celebra el sábado 10 de octubre de 2026 en la parroquia Virgen de las Nieves.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actividad forma parte del proyecto europeo WANDERLUST entre Calp y Bebra, financiado mediante el programa CERV.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La visita reúne a cerca de medio centenar de músicos y acompañantes alemanes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El concierto es gratuito.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/?lang=en",
+          "evidence": "La web municipal anuncia la recepción de la Mandolinenorchester de Weiterode, confirma los 25 años de hermanamiento y fija el concierto conjunto del sábado 10 de octubre a las 20:00, con entrada libre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica, agenda municipal",
+          "source_url": "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/5/?tribe-bar-date=2026-06-01",
+          "evidence": "La agenda oficial sitúa el concierto el 10 de octubre en la Parroquia Virgen de las Nieves y lo vincula al proyecto WANDERLUST entre Calp y Bebra.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Sophia, plataforma de contratación pública",
+          "source_url": "https://www.sophia-anphis.es/licitaciones/ser-61%2F2026_ass-servicio-de-agencia-de-viaje-en-el-marco-del-encuentro-de-hermanamiento-cerv-2024-rondalla-weiterode-%28bebra-alemania%29-rondalla-de-cal-26b9c67f",
+          "evidence": "La ficha de contratación municipal describe el encuentro WANDERLUST, con entrada de la delegación alemana en octubre de 2026, y cifra en 48 personas la delegación alemana.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ocio Alicante",
+          "source_url": "https://ocioalicante.net/evento/calpe/parroquia-nuestra-senora-nieves/conciertos/concierto-rondalla-calp-mandolinenorchester-weiterode/?id=165862",
+          "evidence": "La agenda cultural independiente confirma el concierto conjunto del 10 de octubre de 2026 en la Parroquia Virgen de las Nieves, después de la misa, y su relación con WANDERLUST.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [],
+      "id": "inv_74993974b74d4ccf",
+      "investigated_at": "2026-10-09T16:15:19.168Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e",
+      "title": "Calp será uno de los epicentros de las III Jornadas Internacionales SAVE 2026",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La celebración de las III Jornadas SAVE y la acción ambiental en Calp están corroboradas por la Universidad de Alicante, fuente organizadora. Sin embargo, existe una discrepancia sobre el periodo general: la noticia indica del 15 al 22 de octubre, mientras que el programa oficial consultado comienza el 16 de octubre y sitúa la acción de Calp el 17. El núcleo de la información está respaldado, pero conviene corregir o verificar la fecha de inicio antes de publicar.",
+      "claims": [
+        {
+          "claim": "Las III Jornadas Internacionales SAVE 2026 se celebran en octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Calp participa como una de las sedes de las jornadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El 17 de octubre está prevista una acción en el entorno del Penyal d’Ifac o Cala del Racó.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La acción incluye voluntariado, limpieza o extracción y caracterización de residuos marinos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El conjunto de actividades se desarrolla del 15 al 22 de octubre.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Universidad de Alicante, Oficina Ecocampus",
+          "source_url": "https://web.ua.es/es/ecocampus/jornadas-ambientales/iii-jornadas-save.html",
+          "evidence": "La página oficial de la UA anuncia las III Jornadas SAVE, incluye una actividad el 17 de octubre en Cala del Racó, Calpe, y otra el 21 de octubre para limpieza y caracterización de residuos en el litoral. El programa general publicado comienza el 16 de octubre y termina el 22.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, dosier de prensa",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-1-de-octubre-2",
+          "evidence": "El Ayuntamiento recoge entre sus contenidos informativos la celebración de las III Jornadas Internacionales SAVE 2026 en Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12341/calp-jornadas-save-2026-penon-ifach-sostenibilidad",
+          "evidence": "La noticia sitúa las jornadas entre el 15 y el 22 de octubre y describe una intervención colaborativa en el entorno del Peñón de Ifach para extraer y caracterizar residuos marinos, además de actividades de ciencia y voluntariado.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "El programa oficial de la Universidad de Alicante consultado no confirma el 15 de octubre como inicio; señala actividades del 16 al 22 de octubre.",
+        "La acción oficial aparece situada en Cala del Racó, Calpe, mientras que la noticia utiliza también la referencia general al entorno del Penyal d’Ifac."
+      ],
+      "id": "inv_6a089cd312f10cd9",
+      "investigated_at": "2026-10-09T16:15:19.168Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "ab54104ef29bafc71e1768d87312635462a13521b6a68000f4c1f1a3234cc41d",
+      "title": "Calp organiza el Día del Xiquet Fester por el 50 aniversario de los Moros y Cristianos",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La agenda oficial del Ayuntamiento de Calp confirma el evento del domingo 11 de octubre de 2026 en el Parc de la Creativitat, vinculado al 50 aniversario de Moros i Cristians. También detalla talleres infantiles, pintacaras, hinchables y actuaciones musicales.",
+      "claims": [
+        {
+          "claim": "El Día del Xiquet Fester se celebra el domingo 11 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El evento tiene lugar en el Parc de la Creativitat de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actividad conmemora el 50 aniversario de las fiestas de Moros i Cristians.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye talleres tematizados, pintacaras e hinchables.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye actuaciones musicales y sesiones de DJ.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+          "evidence": "La agenda oficial fija el Día del Xiquet Fester el 11 de octubre en el Parc de la Creativitat, con motivo del 50 aniversario de Moros i Cristians, y enumera talleres, pintacaras, hinchables, música, actuaciones y DJs.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica, versión en español",
+          "source_url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val%2F",
+          "evidence": "La versión municipal de la agenda describe la jornada familiar, su ubicación, la conmemoración del aniversario y los horarios de las actuaciones.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La página municipal consultada muestra un tramo horario de 16:00 a 23:30, pero incluye una actuación anunciada a las 00:15; conviene revisar el cartel o la ficha individual para aclarar si esa hora corresponde ya a la madrugada del 12 de octubre."
+      ],
+      "id": "inv_55e8fc6d3e707769",
+      "investigated_at": "2026-10-09T16:15:19.168Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "f94b2a6c05d741948e5b5ce2e1f6c09bf619b2ada444a198aac10f85250c6b24",
+      "title": "Calp reúne a 18 de los mejores equipos nacionales en el Campeonato de España de Cruceros",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La sede organizadora, el Real Club Náutico de Calpe, y la Real Federación Española de Vela corroboran que el Campeonato de España de Cruceros Loterías con el Deporte 2026 se disputará en Calpe del 16 al 18 de octubre. Ambas fuentes confirman 18 tripulaciones procedentes de 13 federaciones autonómicas y la coincidencia con el 50 aniversario del club.",
+      "claims": [
+        {
+          "claim": "El Real Club Náutico de Calpe acoge el Campeonato de España de Cruceros Loterías con el Deporte 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La competición se celebra del 16 al 18 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participan 18 equipos o tripulaciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las tripulaciones proceden de 13 federaciones autonómicas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El evento coincide con el 50 aniversario del Real Club Náutico de Calpe.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Real Club Náutico de Calpe",
+          "source_url": "https://www.rcnc.es/campeonato-espana-cruceros-2026-rcn-calpe/",
+          "evidence": "El club confirma que será sede del Campeonato de España de Cruceros-Trofeo Loterías con el Deporte 2026 del 16 al 18 de octubre, coincidiendo con su 50 aniversario, y que la organización corresponde a la RFEV en colaboración con el club.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Real Club Náutico de Calpe",
+          "source_url": "https://www.rcnc.es/los-18-equipos-que-lucharan-por-el-campeonato-de-espana-de-cruceros-ya-tienen-nombre/",
+          "evidence": "La entidad organizadora confirma que 18 tripulaciones de 13 federaciones autonómicas competirán del 16 al 18 de octubre en Calpe por el título nacional.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Real Federación Española de Vela",
+          "source_url": "https://rfev.es/campeonato-de-espana-de-cruceros-loterias-con-el-deporte/",
+          "evidence": "La web federativa identifica el Campeonato de España de Cruceros Loterías con el Deporte 2026 y publica documentación oficial de inscritos y del anuncio de regatas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Mundo Deportivo",
+          "source_url": "https://www.mundodeportivo.com/vela/20260930/1004232899/definidos-18-equipos-disputaran-campeonato-espana-cruceros.html",
+          "evidence": "La información independiente confirma la presencia de 18 equipos de 13 federaciones autonómicas del 16 al 18 de octubre en el Real Club Náutico de Calpe.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La expresión 'los mejores equipos nacionales' es una formulación periodística; las fuentes oficiales acreditan que son los equipos clasificados para la final nacional, no una valoración independiente de que sean objetivamente los mejores del país."
+      ],
+      "id": "inv_cfcd29146250a381",
+      "investigated_at": "2026-10-09T16:15:19.168Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
