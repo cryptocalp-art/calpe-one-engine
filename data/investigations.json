@@ -1,77 +1,8 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-10T00:53:49.496Z",
+  "generated_at": "2026-10-10T07:11:17.487Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
-  "investigations": [
-    {
-      "candidate_fingerprint": "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e",
-      "title": "Calp será uno de los epicentros de las III Jornadas Internacionales SAVE 2026",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información queda suficientemente corroborada por dos fuentes primarias: la Universidad de Alicante y la web oficial de Movimiento SAVE. Ambas confirman que las III Jornadas Internacionales SAVE se celebran en octubre de 2026, incluyen actividades en Alicante y Calp, y tienen programadas para el 17 de octubre acciones de extracción, limpieza y caracterización de residuos marinos en el entorno del Penyal d’Ifac. La fuente oficial de Movimiento SAVE también confirma la proyección internacional hacia Chile, Bolivia y Brasil.",
-      "claims": [
-        {
-          "claim": "Las III Jornadas Internacionales SAVE 2026 se desarrollan en octubre de 2026 con actividades en Alicante y Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El 17 de octubre de 2026 se celebrará en Calp una acción marina en el entorno del Penyal d’Ifac.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La acción incluye extracción colaborativa de residuos marinos de mayor volumen.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "También habrá extracción ligera y caracterización de residuos con alumnado del Grado en Ciencias del Mar de la Universidad de Alicante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación tiene una dimensión internacional con actividades previstas en Chile, Bolivia y Brasil.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las jornadas se celebrarán exactamente del 15 al 22 de octubre en Alicante y Calp.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Movimiento SAVE — página oficial de las III Jornadas Internacionales SAVE",
-          "source_url": "https://movimientosave.com/jornadas/",
-          "evidence": "La web oficial presenta las III Jornadas Internacionales SAVE y sitúa el programa español en octubre de 2026, en Alicante y Calp. Incluye el 17 de octubre las actividades “SAVE Action: Shared Seas”, en Calp y el Penyal d’Ifac, para la extracción colaborativa de residuos marinos de mayor volumen, y “SAVE Action: Aula Marina Inmersiva”, con extracción ligera y caracterización de residuos junto a alumnado del Grado en Ciencias del Mar de la UA. También anuncia actividades internacionales en Chile, Bolivia y Brasil.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Universidad de Alicante — Oficina Ecocampus",
-          "source_url": "https://web.ua.es/es/ecocampus/jornadas-ambientales/iii-jornadas-save.html",
-          "evidence": "La página oficial de la Universidad de Alicante confirma las III Jornadas SAVE y programa para el 17 de octubre de 2026, de 9:30 a 14:00, una actividad en Cala del Racó, Calpe, descrita como limpieza de costa o replantación de posidonia. La misma página recoge actividades en Alicante los días 16, 21 y 22 de octubre y fue actualizada el 8 de octubre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — Dosier de prensa del 1 de octubre de 2026",
-          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-1-de-octubre-2",
-          "evidence": "El Ayuntamiento de Calp incluyó en su dosier de prensa del 1 de octubre de 2026 la noticia de Calp Digital sobre la participación de Calp en las III Jornadas Internacionales SAVE 2026. Esto confirma que la información fue difundida institucionalmente, aunque el dosier reproduce una referencia de prensa y no constituye por sí solo una corroboración independiente completa.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12341/calp-jornadas-save-2026-penon-ifach-sostenibilidad",
-          "evidence": "La noticia candidata afirma que el 17 de octubre el entorno marino del Peñón de Ifach acogerá acciones de voluntariado, extracción y caracterización de residuos, y que las jornadas se desarrollarán del 15 al 22 de octubre en Alicante y Calp. Estas afirmaciones coinciden sustancialmente con el programa oficial de Movimiento SAVE y con la agenda de la Universidad de Alicante.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La Universidad de Alicante denomina el emplazamiento del 17 de octubre “Cala del Racó, Calpe”, mientras que Movimiento SAVE especifica “Penyal d’Ifac”; ambas referencias corresponden al entorno litoral de Calp, pero la fuente de la UA no reproduce todos los nombres de las acciones descritos por Calp Digital.",
-        "La frase “uno de los epicentros” es una valoración periodística, no un hecho medible; sí está respaldada en sentido general por la concentración de varias actividades oficiales en Calp.",
-        "La fuente oficial de la UA describe el calendario español como cuatro días de actividad y enumera fechas 16, 17, 21 y 22 de octubre; la web oficial de Movimiento SAVE añade una actividad de encuentro el 15 y otra internacional el 22. La horquilla del 15 al 22 de octubre está expresamente recogida por Movimiento SAVE."
-      ],
-      "id": "inv_6a089cd312f10cd9",
-      "investigated_at": "2026-10-10T00:53:49.496Z",
-      "model": "gpt-5.6-luna"
-    }
-  ]
+  "count": 0,
+  "investigations": []
 }
