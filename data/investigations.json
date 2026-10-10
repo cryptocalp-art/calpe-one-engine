@@ -1,8 +1,204 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-10T13:45:08.010Z",
+  "generated_at": "2026-10-10T18:38:17.468Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 3,
+  "investigations": [
+    {
+      "candidate_fingerprint": "10e5199e20535efe156e75826f241a62e32d7364e9486368f9ecaff81c70113d",
+      "title": "Más de 30.000 vecinos de la Marina Alta podrían beneficiarse de las nuevas medidas estatales para el alquiler",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Las medidas estatales sobre alquileres sí están respaldadas por normas oficiales, pero no se ha localizado una fuente primaria independiente que permita verificar directamente el cálculo comarcal de más de 30.000 personas potencialmente beneficiarias. La propia información periodística advierte de que se trata de un universo potencial y no de una cifra real de beneficiarios.",
+      "claims": [
+        {
+          "claim": "El Gobierno aprobó una deducción estatal del 10% del alquiler habitual para contribuyentes con base imponible inferior a 33.007,20 euros, con un máximo potencial de 1.163 euros anuales en determinados casos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El paquete contempla prórrogas extraordinarias de contratos de vivienda habitual de hasta dos años.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se establecen límites extraordinarios a determinadas actualizaciones de renta, incluido el límite del 2% cuando no exista acuerdo entre las partes en los supuestos previstos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La normativa introduce controles y consecuencias jurídicas para determinados alquileres temporales o por habitaciones sin causa temporal acreditada.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Marina Alta cuenta con al menos 30.930 residentes en viviendas alquiladas y 13.388 hogares arrendados.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Más de 30.000 vecinos de la comarca podrían beneficiarse de las medidas.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Moncloa",
+          "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2026/decreto-vivienda-medidas.aspx?mode=Light",
+          "evidence": "La nota oficial confirma la deducción estatal del 10% para contribuyentes con renta inferior a 33.007,20 euros y la posibilidad de solicitar una prórroga extraordinaria de hasta dos años para determinados contratos de alquiler.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Boletín Oficial del Estado",
+          "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-20266&p=20260930&tn=1",
+          "evidence": "El Real Decreto-ley 26/2026 regula la conversión en contrato habitual de determinados alquileres temporales o por habitaciones sin causa temporal acreditada y establece medidas extraordinarias sobre prórrogas y actualización de rentas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/10/mas-30-000-vecinos-marina-alta-beneficiarios-medidas-gobierno-alquileres/",
+          "evidence": "El artículo calcula 30.930 residentes en viviendas alquiladas y 13.388 hogares arrendados a partir del Censo de Población y Viviendas 2021 del INE, pero reconoce que la cifra de posibles beneficiarios no puede determinarse porque no se conocen todos los requisitos fiscales y contractuales.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2024/04/25/la-carestia-de-la-vivienda-y-las-rentas-bajas-incrementan-el-numero-de-familias-que-vive-de-alquiler-en-la-marina-alta/",
+          "evidence": "Una información anterior del mismo medio reproduce la cifra de 13.388 hogares de alquiler y el total de 74.960 viviendas principales en la Marina Alta para 2021. No aporta una verificación independiente del recuento de 30.930 personas.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra de 30.930 personas procede de una explotación periodística del censo y no se ha localizado durante esta comprobación una tabla oficial del INE que permita reproducir directamente la suma comarcal.",
+        "La expresión 'podrían beneficiarse' debe mantenerse como estimación potencial; no equivale al número de personas que cumplen los requisitos legales.",
+        "Las medidas están sujetas al contenido y a la entrada en vigor de las normas citadas, así como, en algunos casos, a su convalidación parlamentaria."
+      ],
+      "id": "inv_7fc0b77afc3ad14a",
+      "investigated_at": "2026-10-10T18:38:17.468Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c350f395a4e37b7b86e515bd3d37265d73973b63c5822a80f19341a3cc88638e",
+      "title": "El Real Club Náutico de Calpe y Lola Llinares protagonizan los premios del 9 d’Octubre",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La noticia está suficientemente respaldada por fuentes oficiales del Ayuntamiento de Calp y por la cobertura periodística del acto. El Ayuntamiento anunció y aprobó el reconocimiento del Real Club Náutico de Calpe y el nombramiento de Lola Llinares como Hija Predilecta; la agenda municipal confirmó la celebración del acto institucional el 9 de octubre y la exposición del 50 aniversario del club.",
+      "claims": [
+        {
+          "claim": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El reconocimiento al club coincidió con su 50 aniversario.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento celebró el acto institucional de entrega de premios y Medallas de la Villa el 9 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El acto incluyó reconocimientos en ámbitos sociales, deportivos, culturales, turísticos y empresariales.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "evidence": "La Junta de Gobierno del Ayuntamiento de Calp acordó nombrar a la pintora calpina Lola Llinares Hija Predilecta de la Villa de Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "evidence": "El Consejo Asesor de Condecoraciones acordó proponer al Pleno municipal el otorgamiento del Premi Jaume Pastor i Fluixà 9 d’Octubre al Real Club Náutico de Calpe y otras distinciones honoríficas con motivo del acto institucional.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/en/aggregator",
+          "evidence": "La agenda municipal fijó para el 9 de octubre el acto institucional de entrega del Premi Jaume Pastor i Fluixà y las Medallas de la Villa, y anunció una exposición fotográfica por el 50 aniversario del Real Club Náutico de Calpe.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares",
+          "evidence": "La crónica del acto afirma que el Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà, que Lola Llinares fue nombrada Hija Predilecta y que la ceremonia incluyó diversas Medallas de la Villa.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fuente municipal localizada inicialmente documenta los acuerdos y la programación; la confirmación de la entrega efectiva de todos los galardones procede de la crónica periodística del acto.",
+        "Los detalles biográficos adicionales de los premiados no son necesarios para validar el núcleo de la candidatura y deberían comprobarse por separado si se publican."
+      ],
+      "id": "inv_9d8461ddb8e6ce85",
+      "investigated_at": "2026-10-10T18:38:17.468Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "8f5c0384ef3adf6080c82ab5a6fdeead888638f1bc63fcaa7753d349403f905",
+      "title": "Las III Jornadas Internacionales SAVE ampliarán su programación desde Calp a Latinoamérica",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La Universidad de Alicante confirma oficialmente la celebración de las III Jornadas Internacionales SAVE del 15 al 22 de octubre de 2026, con participación de universidades, administraciones, empresas, organizaciones sociales y ciudadanía, y con actividades en Alicante y Calp. Sin embargo, no se ha encontrado en la fuente oficial consultada una confirmación suficiente de la ampliación de la edición de 2026 a Chile, Bolivia y Brasil, ni de todos los contenidos descritos en la candidatura.",
+      "claims": [
+        {
+          "claim": "Las III Jornadas Internacionales SAVE se celebrarán del 15 al 22 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La programación tendrá actividades en Alicante y Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participarán universidades, centros de investigación, administraciones públicas, empresas, organizaciones sociales y ciudadanía.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La edición de 2026 ampliará su programación a Chile, Bolivia y Brasil.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Las jornadas abordarán resiliencia costera, ecosistemas marinos, gestión del riesgo y voluntariado ambiental.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Universidad de Alicante, Sede Universitaria de Calp",
+          "source_url": "https://web.ua.es/en/seus/calp/sede-universitaria-calp_noticias.html",
+          "evidence": "La página oficial anuncia las III Jornadas Internacionales SAVE del 15 al 22 de octubre y señala que reunirán en Alicante y Calp a universidades y centros de investigación, administraciones públicas, empresas, organizaciones sociales y ciudadanía para la acción socioambiental.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Universidad de Alicante, Agenda UA",
+          "source_url": "https://cvnet.cpd.ua.es/AgendaUA/?agenda=61381&idioma=es",
+          "evidence": "La agenda institucional de la Universidad de Alicante registra las III Jornadas Internacionales SAVE con fechas del 15 al 22 de octubre de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Fundeun, Fundación Empresa Universidad de Alicante",
+          "source_url": "https://fundeun.es/evento/iii-jornadas-save/",
+          "evidence": "Fundeun confirma una actividad de las III Jornadas SAVE, SAVE Conecta, programada para el 20 de octubre de 2026 en el Parque Científico de Alicante y centrada en sostenibilidad, innovación y colaboración entre universidad y empresas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12341/calp-jornadas-save-2026-penon-ifach-sostenibilidad",
+          "evidence": "La información periodística afirma que la edición de 2026 tendrá actividades en Alicante y Calp y que ampliará su programación a Chile, Bolivia y Brasil, pero esos tres destinos no aparecen confirmados en la página oficial de la UA consultada.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La programación se desarrolla entre el 15 y el 22 de octubre de 2026, por lo que algunas actividades futuras todavía podrían no estar completamente documentadas.",
+        "La dimensión latinoamericana y la mención específica de Chile, Bolivia y Brasil requieren un programa oficial completo o confirmación directa de la organización.",
+        "No debe publicarse como hecho confirmado la ampliación a esos países hasta localizar evidencia primaria suficiente."
+      ],
+      "id": "inv_4133fe0af651a448",
+      "investigated_at": "2026-10-10T18:38:17.468Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }

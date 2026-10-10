@@ -3,12 +3,154 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-10T13:45:08.456Z",
+  "generated_at": "2026-10-10T18:39:07.898Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_7910defe169432d2",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-10T18:39:07.898Z",
+      "source_draft_id": "drf_30f3e76c924b34ac",
+      "source_investigation_id": "inv_9d8461ddb8e6ce85",
+      "candidate_fingerprint": "c350f395a4e37b7b86e515bd3d37265d73973b63c5822a80f19341a3cc88638e",
+      "quality_gate_id": "qg_612fd97ae0dc676b",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_30f3e76c924b34ac",
+        "investigation_id": "inv_9d8461ddb8e6ce85",
+        "candidate_fingerprint": "c350f395a4e37b7b86e515bd3d37265d73973b63c5822a80f19341a3cc88638e",
+        "title": "El Real Club Náutico de Calpe recibe el Premi Jaume Pastor i Fluixà y Lola Llinares es nombrada Hija Predilecta",
+        "subtitle": "El acto institucional del 9 d’Octubre incluyó también la entrega de las Medallas de la Villa y otros reconocimientos municipales.",
+        "summary": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre durante el acto institucional celebrado el 9 de octubre de 2026 por el Ayuntamiento de Calp. En la misma ceremonia, la pintora calpina Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp.",
+        "body": "El Ayuntamiento de Calp celebró el 9 de octubre el acto institucional de entrega del Premi Jaume Pastor i Fluixà y de las Medallas de la Villa, dentro de la programación del 9 d’Octubre. La ceremonia reunió reconocimientos en los ámbitos social, deportivo, cultural, turístico y empresarial.\n\nUno de los principales reconocimientos correspondió al Real Club Náutico de Calpe, distinguido con el Premi Jaume Pastor i Fluixà 9 d’Octubre. El galardón coincidió con el 50 aniversario de la entidad. La agenda municipal vinculó además la celebración a una exposición fotográfica dedicada a esa trayectoria.\n\nLa otra distinción destacada fue el nombramiento de Lola Llinares como Hija Predilecta de la Villa de Calp. La Junta de Gobierno del Ayuntamiento había acordado previamente este reconocimiento a la pintora calpina.\n\nLa propuesta de conceder el premio al Real Club Náutico de Calpe fue acordada por el Consejo Asesor de Condecoraciones para su traslado al Pleno municipal, junto con otras distinciones honoríficas. Posteriormente, la crónica del acto confirmó la entrega del galardón al club y el nombramiento de Llinares.\n\nLa ceremonia incluyó también diversas Medallas de la Villa, en un acto institucional que concentró reconocimientos municipales de distintos ámbitos. Este borrador recoge únicamente los datos acreditados sobre los premios principales y no incorpora detalles biográficos adicionales sobre las personas o entidades reconocidas.",
+        "category": "CULTURA",
+        "slug": "real-club-nautico-calpe-premi-9-octubre-lola-llinares",
+        "seo_title": "El Náutico recibe el Premi 9 d’Octubre y Llinares, Hija Predilecta",
+        "meta_description": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà y Lola Llinares fue nombrada Hija Predilecta el 9 de octubre de 2026.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_612fd97ae0dc676b",
+        "editorial_notes": [
+          "La confirmación de la entrega efectiva de los galardones procede de la crónica periodística del acto, mientras que las fuentes municipales documentan los acuerdos y la programación.",
+          "No se han añadido detalles biográficos sobre Lola Llinares ni sobre el Real Club Náutico de Calpe, ya que no son necesarios para validar el núcleo de la información."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "https://www.calp.es/en/aggregator",
+          "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La fuente municipal localizada inicialmente documenta los acuerdos y la programación; la confirmación de la entrega efectiva de todos los galardones procede de la crónica periodística del acto.",
+            "Los detalles biográficos adicionales de los premiados no son necesarios para validar el núcleo de la candidatura y deberían comprobarse por separado si se publican."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_612fd97ae0dc676b",
+          "quality_gate_evaluated_at": "2026-10-10T18:39:07.759Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-10T18:38:57.776Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_30f3e76c924b34ac",
+        "title": "El Real Club Náutico de Calpe recibe el Premi Jaume Pastor i Fluixà y Lola Llinares es nombrada Hija Predilecta",
+        "slug": "real-club-nautico-calpe-premi-9-octubre-lola-llinares",
+        "summary": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre durante el acto institucional celebrado el 9 de octubre de 2026 por el Ayuntamiento de Calp. En la misma ceremonia, la pintora calpina Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp.",
+        "body": "El Ayuntamiento de Calp celebró el 9 de octubre el acto institucional de entrega del Premi Jaume Pastor i Fluixà y de las Medallas de la Villa, dentro de la programación del 9 d’Octubre. La ceremonia reunió reconocimientos en los ámbitos social, deportivo, cultural, turístico y empresarial.\n\nUno de los principales reconocimientos correspondió al Real Club Náutico de Calpe, distinguido con el Premi Jaume Pastor i Fluixà 9 d’Octubre. El galardón coincidió con el 50 aniversario de la entidad. La agenda municipal vinculó además la celebración a una exposición fotográfica dedicada a esa trayectoria.\n\nLa otra distinción destacada fue el nombramiento de Lola Llinares como Hija Predilecta de la Villa de Calp. La Junta de Gobierno del Ayuntamiento había acordado previamente este reconocimiento a la pintora calpina.\n\nLa propuesta de conceder el premio al Real Club Náutico de Calpe fue acordada por el Consejo Asesor de Condecoraciones para su traslado al Pleno municipal, junto con otras distinciones honoríficas. Posteriormente, la crónica del acto confirmó la entrega del galardón al club y el nombramiento de Llinares.\n\nLa ceremonia incluyó también diversas Medallas de la Villa, en un acto institucional que concentró reconocimientos municipales de distintos ámbitos. Este borrador recoge únicamente los datos acreditados sobre los premios principales y no incorpora detalles biográficos adicionales sobre las personas o entidades reconocidas.",
+        "category": "CULTURA",
+        "seo_title": "El Náutico recibe el Premi 9 d’Octubre y Llinares, Hija Predilecta",
+        "meta_description": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà y Lola Llinares fue nombrada Hija Predilecta el 9 de octubre de 2026.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_612fd97ae0dc676b",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "https://www.calp.es/en/aggregator",
+          "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_9d8461ddb8e6ce85",
+        "candidate_fingerprint": "c350f395a4e37b7b86e515bd3d37265d73973b63c5822a80f19341a3cc88638e",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La fuente municipal localizada inicialmente documenta los acuerdos y la programación; la confirmación de la entrega efectiva de todos los galardones procede de la crónica periodística del acto.",
+            "Los detalles biográficos adicionales de los premiados no son necesarios para validar el núcleo de la candidatura y deberían comprobarse por separado si se publican."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_612fd97ae0dc676b",
+          "quality_gate_evaluated_at": "2026-10-10T18:39:07.759Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }
