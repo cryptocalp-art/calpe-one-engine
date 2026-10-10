@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-09T20:59:31.260Z",
+  "generated_at": "2026-10-10T00:54:14.505Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_36d477d0c046d858",
-      "draft_id": "drf_a645546d028f9586",
-      "investigation_id": "inv_5430b0b81ef4e184",
-      "candidate_fingerprint": "699ce63754e236c25e75ef69d0eb86fb31812ea0e3395fb84bd964a78a6dd663",
-      "slug": "punt-nautic-dia-blau-calp-noviembre",
-      "category": "ECONOMIA",
+      "gate_id": "qg_d495db081a7c5a0e",
+      "draft_id": "drf_cad3782565cc516a",
+      "investigation_id": "inv_6a089cd312f10cd9",
+      "candidate_fingerprint": "675c169419b5d7f200f8d4245d86a5a3500fc66af78bfd89c178ca7a2a28ab4e",
+      "slug": "jornadas-save-acciones-ambientales-calp-17-octubre",
+      "category": "MEDIO_AMBIENTE",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -41,14 +41,14 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 4,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
-        "evidence_count": 3,
+        "evidence_count": 4,
         "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 2,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 4,
+        "distinct_evidence_hosts": 4,
         "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 249
+        "body_word_count": 294
       },
-      "evaluated_at": "2026-10-09T20:59:31.260Z",
+      "evaluated_at": "2026-10-10T00:54:14.505Z",
       "engine_version": "quality-gate-v1"
     }
   ]
