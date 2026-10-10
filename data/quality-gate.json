@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-10T18:39:07.759Z",
+  "generated_at": "2026-10-10T22:35:00.905Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_612fd97ae0dc676b",
-      "draft_id": "drf_30f3e76c924b34ac",
-      "investigation_id": "inv_9d8461ddb8e6ce85",
-      "candidate_fingerprint": "c350f395a4e37b7b86e515bd3d37265d73973b63c5822a80f19341a3cc88638e",
-      "slug": "real-club-nautico-calpe-premi-9-octubre-lola-llinares",
-      "category": "CULTURA",
+      "gate_id": "qg_a5ff900767344a30",
+      "draft_id": "drf_1d6cb58821450b5b",
+      "investigation_id": "inv_564f12ec0aebb3e7",
+      "candidate_fingerprint": "620bb654c7d1ae4c3762fd6b2a999c49fde4ac100e0e821c40ce5dfe48239a84",
+      "slug": "voto-por-correo-calp-elecciones-generales-29-noviembre",
+      "category": "POLITICA",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -41,14 +41,14 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 5,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
         "evidence_count": 4,
         "primary_evidence_count": 3,
         "secondary_evidence_count": 1,
         "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 3,
+        "distinct_evidence_hosts": 4,
         "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 218
+        "body_word_count": 190
       },
-      "evaluated_at": "2026-10-10T18:39:07.759Z",
+      "evaluated_at": "2026-10-10T22:35:00.905Z",
       "engine_version": "quality-gate-v1"
     }
   ]

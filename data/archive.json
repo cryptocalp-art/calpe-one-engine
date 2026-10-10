@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-10T18:39:08.029Z",
-  "count": 76,
+  "updated_at": "2026-10-10T22:35:01.260Z",
+  "count": 77,
   "articles": [
+    {
+      "archive_id": "arc_01b525c4c2dc86ef",
+      "external_id": "drf_1d6cb58821450b5b",
+      "investigation_id": "inv_564f12ec0aebb3e7",
+      "candidate_fingerprints": [
+        "620bb654c7d1ae4c3762fd6b2a999c49fde4ac100e0e821c40ce5dfe48239a84"
+      ],
+      "title": "El voto por correo ya puede solicitarse para las elecciones generales del 29 de noviembre",
+      "slug": "voto-por-correo-calp-elecciones-generales-29-noviembre",
+      "summary": "Los electores de Calp ya pueden solicitar el voto por correo para las elecciones generales convocadas el domingo 29 de noviembre de 2026. La petición puede realizarse por internet o de forma presencial en una oficina de Correos, con plazo hasta el 19 de noviembre.",
+      "body": "Los electores de Calp ya pueden solicitar el voto por correo para las elecciones generales del domingo 29 de noviembre de 2026. El trámite está abierto desde la convocatoria electoral y puede completarse por internet o presencialmente en cualquier oficina de Correos.\n\nEl plazo para presentar la solicitud termina el 19 de noviembre de 2026. Una vez solicitado el voto, la documentación debe remitirse por correo certificado dentro del periodo establecido. Correos fija el 25 de noviembre como último día para depositar el voto.\n\nEl procedimiento se dirige a los electores residentes en España y resulta aplicable a las personas de Calp inscritas en el censo electoral correspondiente. La gestión del voto por correo corresponde a la Oficina del Censo Electoral, el Ministerio del Interior y Correos.\n\nLa información oficial también establece que quienes soliciten el voto por correo no podrán votar presencialmente el día de las elecciones. Por ello, la solicitud implica optar por esta modalidad para participar en los comicios.\n\nLas elecciones al Congreso y al Senado fueron convocadas mediante el Real Decreto 806/2026, publicado el 6 de octubre. La jornada electoral se celebrará el 29 de noviembre.",
+      "category": "POLITICA",
+      "seo_title": "Voto por correo en Calp para las elecciones del 29N",
+      "meta_description": "Los electores de Calp ya pueden solicitar el voto por correo para las elecciones del 29 de noviembre hasta el 19 de noviembre.",
+      "sources": [
+        {
+          "name": "Correos",
+          "url": "https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo.",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Boletín Oficial del Estado",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Ministerio del Interior - Infoelectoral",
+          "url": "https://infoelectoral.interior.gob.es/es/proceso-electoral/preguntas-frecuentes/como-votar/voto-por-correo-desde-espana/index.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12379/calp-voto-correo-online-elecciones-generales-29n",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo.",
+        "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+        "https://infoelectoral.interior.gob.es/es/proceso-electoral/preguntas-frecuentes/como-votar/voto-por-correo-desde-espana/index.html",
+        "https://calpdigital.es/art/12379/calp-voto-correo-online-elecciones-generales-29n"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 4,
+        "caveats": [
+          "No se ha localizado un comunicado específico del Ayuntamiento de Calp sobre este trámite; la aplicabilidad a los electores de Calp se sustenta en el procedimiento estatal, que se aplica a los electores residentes en España y censados en la circunscripción correspondiente.",
+          "El plazo del 25 de noviembre es el plazo oficial vigente consultado en Correos; la expresión «inicialmente» de la noticia no altera el dato verificado."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_a5ff900767344a30",
+        "quality_gate_evaluated_at": "2026-10-10T22:35:00.905Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La aplicabilidad a los electores de Calp se basa en el procedimiento estatal para residentes en España y censados en la circunscripción correspondiente; no consta un comunicado específico del Ayuntamiento de Calp.",
+        "Mantener como fecha vigente el 25 de noviembre para depositar el voto, sin añadir la expresión «inicialmente»."
+      ],
+      "published_at": "2026-10-10T22:34:54.715Z",
+      "updated_at": "2026-10-10T22:35:01.260Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_b3ac4d6c71cc7f9b",
       "external_id": "drf_8b739853aae84d89",

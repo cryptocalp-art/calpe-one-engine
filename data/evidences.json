@@ -1,101 +1,37 @@
 {
-  "generated_at": "2026-10-10T18:38:17.468Z",
-  "count": 12,
+  "generated_at": "2026-10-10T22:34:36.459Z",
+  "count": 4,
   "evidences": [
     {
-      "id": "evd_b107ab4c27511212",
-      "investigation_id": "inv_7fc0b77afc3ad14a",
-      "source_name": "La Moncloa",
-      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/vivienda-agenda-urbana/Paginas/2026/decreto-vivienda-medidas.aspx?mode=Light",
-      "evidence": "La nota oficial confirma la deducción estatal del 10% para contribuyentes con renta inferior a 33.007,20 euros y la posibilidad de solicitar una prórroga extraordinaria de hasta dos años para determinados contratos de alquiler.",
+      "id": "evd_c9f1172708b86c87",
+      "investigation_id": "inv_564f12ec0aebb3e7",
+      "source_name": "Correos",
+      "source_url": "https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo.",
+      "evidence": "La página oficial de Correos identifica las elecciones como las del 29 de noviembre de 2026, permite solicitar el voto por internet o en cualquier oficina, fija el plazo de solicitud hasta el 19 de noviembre de 2026 y el depósito del voto hasta el 25 de noviembre de 2026. También indica que la aplicación electrónica se dirige a electores residentes en España. ([correos.es](https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo.))",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_6c69854bfa8a79df",
-      "investigation_id": "inv_7fc0b77afc3ad14a",
+      "id": "evd_3e3d552f22bf9156",
+      "investigation_id": "inv_564f12ec0aebb3e7",
       "source_name": "Boletín Oficial del Estado",
-      "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-20266&p=20260930&tn=1",
-      "evidence": "El Real Decreto-ley 26/2026 regula la conversión en contrato habitual de determinados alquileres temporales o por habitaciones sin causa temporal acreditada y establece medidas extraordinarias sobre prórrogas y actualización de rentas.",
+      "source_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+      "evidence": "El Real Decreto 806/2026, publicado el 6 de octubre de 2026, convoca elecciones al Congreso y al Senado para el domingo 29 de noviembre de 2026 y entra en vigor el mismo día de su publicación. ([boe.es](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742))",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_87e5a180c1f40a47",
-      "investigation_id": "inv_7fc0b77afc3ad14a",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/10/mas-30-000-vecinos-marina-alta-beneficiarios-medidas-gobierno-alquileres/",
-      "evidence": "El artículo calcula 30.930 residentes en viviendas alquiladas y 13.388 hogares arrendados a partir del Censo de Población y Viviendas 2021 del INE, pero reconoce que la cifra de posibles beneficiarios no puede determinarse porque no se conocen todos los requisitos fiscales y contractuales.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_76b20caad63d83ad",
-      "investigation_id": "inv_7fc0b77afc3ad14a",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2024/04/25/la-carestia-de-la-vivienda-y-las-rentas-bajas-incrementan-el-numero-de-familias-que-vive-de-alquiler-en-la-marina-alta/",
-      "evidence": "Una información anterior del mismo medio reproduce la cifra de 13.388 hogares de alquiler y el total de 74.960 viviendas principales en la Marina Alta para 2021. No aporta una verificación independiente del recuento de 30.930 personas.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_d98182d1dfaddc76",
-      "investigation_id": "inv_9d8461ddb8e6ce85",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
-      "evidence": "La Junta de Gobierno del Ayuntamiento de Calp acordó nombrar a la pintora calpina Lola Llinares Hija Predilecta de la Villa de Calp.",
+      "id": "evd_11a5e56eb5b5ef97",
+      "investigation_id": "inv_564f12ec0aebb3e7",
+      "source_name": "Ministerio del Interior - Infoelectoral",
+      "source_url": "https://infoelectoral.interior.gob.es/es/proceso-electoral/preguntas-frecuentes/como-votar/voto-por-correo-desde-espana/index.html",
+      "evidence": "La información oficial explica que el voto por correo se remite certificado antes del tercer día previo a las elecciones, que la gestión corresponde a la Oficina del Censo Electoral, el Ministerio del Interior y Correos, y que quien solicita el voto por correo no puede votar presencialmente. ([infoelectoral.interior.gob.es](https://infoelectoral.interior.gob.es/es/proceso-electoral/preguntas-frecuentes/como-votar/voto-por-correo-desde-espana/index.html))",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_844e8e7872db8d32",
-      "investigation_id": "inv_9d8461ddb8e6ce85",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/inici?p=3721&page=17",
-      "evidence": "El Consejo Asesor de Condecoraciones acordó proponer al Pleno municipal el otorgamiento del Premi Jaume Pastor i Fluixà 9 d’Octubre al Real Club Náutico de Calpe y otras distinciones honoríficas con motivo del acto institucional.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_44f2cdcd462043aa",
-      "investigation_id": "inv_9d8461ddb8e6ce85",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://www.calp.es/en/aggregator",
-      "evidence": "La agenda municipal fijó para el 9 de octubre el acto institucional de entrega del Premi Jaume Pastor i Fluixà y las Medallas de la Villa, y anunció una exposición fotográfica por el 50 aniversario del Real Club Náutico de Calpe.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_6d8d4cc462a6d68d",
-      "investigation_id": "inv_9d8461ddb8e6ce85",
+      "id": "evd_de04ca5026f0173e",
+      "investigation_id": "inv_564f12ec0aebb3e7",
       "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12386/calp-premios-9-octubre-2026-real-club-nautico-lola-llinares",
-      "evidence": "La crónica del acto afirma que el Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà, que Lola Llinares fue nombrada Hija Predilecta y que la ceremonia incluyó diversas Medallas de la Villa.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_114c6a08e6fc5501",
-      "investigation_id": "inv_4133fe0af651a448",
-      "source_name": "Universidad de Alicante, Sede Universitaria de Calp",
-      "source_url": "https://web.ua.es/en/seus/calp/sede-universitaria-calp_noticias.html",
-      "evidence": "La página oficial anuncia las III Jornadas Internacionales SAVE del 15 al 22 de octubre y señala que reunirán en Alicante y Calp a universidades y centros de investigación, administraciones públicas, empresas, organizaciones sociales y ciudadanía para la acción socioambiental.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_6e7106d334bf310a",
-      "investigation_id": "inv_4133fe0af651a448",
-      "source_name": "Universidad de Alicante, Agenda UA",
-      "source_url": "https://cvnet.cpd.ua.es/AgendaUA/?agenda=61381&idioma=es",
-      "evidence": "La agenda institucional de la Universidad de Alicante registra las III Jornadas Internacionales SAVE con fechas del 15 al 22 de octubre de 2026.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_7a3e954d3d07a07e",
-      "investigation_id": "inv_4133fe0af651a448",
-      "source_name": "Fundeun, Fundación Empresa Universidad de Alicante",
-      "source_url": "https://fundeun.es/evento/iii-jornadas-save/",
-      "evidence": "Fundeun confirma una actividad de las III Jornadas SAVE, SAVE Conecta, programada para el 20 de octubre de 2026 en el Parque Científico de Alicante y centrada en sostenibilidad, innovación y colaboración entre universidad y empresas.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_e34dc72768ab9696",
-      "investigation_id": "inv_4133fe0af651a448",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12341/calp-jornadas-save-2026-penon-ifach-sostenibilidad",
-      "evidence": "La información periodística afirma que la edición de 2026 tendrá actividades en Alicante y Calp y que ampliará su programación a Chile, Bolivia y Brasil, pero esos tres destinos no aparecen confirmados en la página oficial de la UA consultada.",
+      "source_url": "https://calpdigital.es/art/12379/calp-voto-correo-online-elecciones-generales-29n",
+      "evidence": "La noticia original afirma que los electores de Calp pueden solicitar el voto por correo, recoge los plazos del 19 y 25 de noviembre y menciona las vías telemática y presencial. Su contenido coincide con la información oficial de Correos. ([calpdigital.es](https://calpdigital.es/art/12379/calp-voto-correo-online-elecciones-generales-29n))",
       "source_type": "SECONDARY"
     }
   ]
