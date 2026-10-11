@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-11T15:44:18.297Z",
-  "overall_status": "OPERATIVO CON AVISOS",
-  "last_activity": "2026-10-11T15:44:18.108Z",
+  "generated_at": "2026-10-11T20:20:21.277Z",
+  "overall_status": "OPERATIVO",
+  "last_activity": "2026-10-11T20:20:21.086Z",
   "newspaper": {
-    "archive_total": 77,
-    "published_today": 1,
+    "archive_total": 78,
+    "published_today": 2,
     "published_last_7_days": 20,
     "categories": {
+      "SUCESOS": 8,
       "POLITICA": 5,
       "CULTURA": 6,
       "ECONOMIA": 10,
       "SOCIEDAD": 12,
-      "SUCESOS": 7,
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
       "TURISMO": 8,
       "DEPORTES": 3
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_a2fc9d6c8ef32efa",
+        "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
+        "category": "SUCESOS",
+        "slug": "rescatan-escalador-herido-penon-ifach",
+        "published_at": "2026-10-11T20:20:01.093Z"
+      },
       {
         "archive_id": "arc_01b525c4c2dc86ef",
         "title": "El voto por correo ya puede solicitarse para las elecciones generales del 29 de noviembre",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "punt-nautic-orientara-mas-de-1000-estudiantes-marina-alta",
         "published_at": "2026-10-08T16:31:52.453Z"
-      },
-      {
-        "archive_id": "arc_8991dbbdef12f0d8",
-        "title": "La Marina Alta programa en Calp una representación sobre salud mental",
-        "category": "SOCIEDAD",
-        "slug": "calp-programa-obra-salud-mental-octubre",
-        "published_at": "2026-10-08T01:58:22.601Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 2,
+    "drafts": 1,
     "eligible": 1,
-    "quarantined": 1,
-    "archive_added": 0
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -102,15 +102,5 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_a05b375ea113bb2d",
-      "slug": "rescate-helicoptero-caida-penon-ifach",
-      "category": "SUCESOS",
-      "reasons": [
-        "BODY_TOO_SHORT_FOR_AUTOMATED_PUBLICATION"
-      ],
-      "evaluated_at": "2026-10-11T15:44:09.190Z"
-    }
-  ]
+  "quarantine": []
 }

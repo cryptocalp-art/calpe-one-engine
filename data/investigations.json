@@ -1,121 +1,128 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-11T15:43:31.248Z",
+  "generated_at": "2026-10-11T20:19:29.244Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "bb19f3626caa346953d25f43449f56b696d768f2d663104bbb0b8af78e23e4df",
-      "title": "Rescatan en helicóptero a un senderista tras sufrir una caída en el Peñón de Ifach",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La noticia queda suficientemente respaldada por Europa Press, que atribuye la información al Consorcio Provincial de Bomberos de Alicante, y por una imagen remitida por el propio Consorcio. Los hechos esenciales —caída durante el ascenso al Peñón de Ifach, fractura abierta en una pierna y extracción en helicóptero— están documentados. No se ha localizado una publicación independiente adicional del Consorcio, por lo que la confianza no se eleva a alta.",
-      "claims": [
-        {
-          "claim": "Una persona sufrió una caída durante el ascenso al Peñón de Ifach, en Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La persona herida presentaba una fractura abierta en una pierna.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Fue rescatada o evacuada mediante helicóptero por efectivos de bomberos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El herido era específicamente un senderista.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La intervención se desarrolló el 11 de octubre de 2026 entre las 12:35 y las 14:00 horas.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
-          "evidence": "La agencia informa de que bomberos rescataron en helicóptero el 11 de octubre de 2026 a un escalador que sufrió una caída durante el ascenso al Peñón de Ifach, en Calp, y que presentaba una fractura abierta en una pierna. Indica que la intervención tuvo lugar entre las 12:35 y las 14:00 horas y que la información procede del Consorcio Provincial de Bomberos de Alicante.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Consorcio Provincial de Bomberos de Alicante, mediante imagen remitida a medios",
-          "source_url": "https://fotos.europapress.es/fotonoticia/f7838138",
-          "evidence": "La ficha fotográfica está fechada el 11 de octubre de 2026, sitúa el suceso en Calp y describe el rescate de un escalador que sufrió una caída durante el ascenso al Peñón de Ifach y una fractura abierta en la pierna. La imagen figura como remitida por el Consorcio de Bomberos de Alicante.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "Las fuentes localizadas utilizan principalmente el término «escalador», no «senderista».",
-        "La información primaria localizada es una imagen y el relato de Europa Press atribuido al Consorcio; no se ha encontrado un comunicado oficial independiente con más detalles sobre la identidad o el traslado sanitario."
-      ],
-      "id": "inv_79d7e81fcc0683e7",
-      "investigated_at": "2026-10-11T15:43:31.248Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
-      "title": "El Real Club Náutico de Calpe y Lola Llinares protagonizan los premios del 9 d’Octubre",
+      "candidate_fingerprint": "259ef6209f06286568374980ca1ae8c23574afe52f760d7940c5e2b817cc8057",
+      "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia está corroborada por una fuente oficial del Ayuntamiento de Calp, que anunció los reconocimientos y el acto institucional, y por una crónica independiente de Calp Digital publicada después de la ceremonia. El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà coincidiendo con su 50 aniversario y Lola Llinares fue nombrada Hija Predilecta de la Villa.",
+      "summary": "Los hechos esenciales están corroborados por varias informaciones independientes publicadas el 11 de octubre de 2026, todas atribuidas al Consorcio Provincial de Bomberos de Alicante: un escalador sufrió una caída durante el ascenso al Peñón de Ifach, padeció una fractura abierta en una pierna y fue evacuado por el Grupo de Rescate y el helicóptero MV9 hasta los servicios sanitarios. El aviso se recibió a las 12:35 y la intervención finalizó alrededor de las 14:00.",
       "claims": [
         {
-          "claim": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre.",
+          "claim": "Un escalador sufrió una caída durante el ascenso al Peñón de Ifach, en Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El reconocimiento coincidió con el 50 aniversario del Real Club Náutico de Calpe.",
+          "claim": "El herido presentaba una fractura abierta en una pierna.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp.",
+          "claim": "Intervinieron el Grupo de Rescate y el helicóptero de rescate MV9 del Consorcio Provincial de Bomberos de Alicante.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los reconocimientos se entregaron en el acto institucional del 9 d’Octubre de 2026.",
+          "claim": "El herido fue evacuado y trasladado a los servicios sanitarios.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ceremonia se celebró el viernes 9 de octubre de 2026 en la plaza Mayor de Calp.",
+          "claim": "El aviso se recibió a las 12:35 y la intervención terminó aproximadamente a las 14:00.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
-          "evidence": "El Ayuntamiento informa de que la Junta de Gobierno acordó nombrar a Lola Llinares Hija Predilecta de la Villa y que el reconocimiento se haría efectivo en la gala del 9 de octubre de 2026.",
+          "source_name": "Consorcio Provincial de Bomberos de Alicante, citado por Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
+          "evidence": "Europa Press informa, atribuyéndolo al Consorcio Provincial de Bomberos de Alicante, de la caída de un escalador en el Peñón de Ifach, la fractura abierta en una pierna, la activación del grupo de rescate y del helicóptero, el traslado a los servicios sanitarios y el operativo entre las 12:35 y las 14:00.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/inici?p=3721&page=17",
-          "evidence": "La web municipal recoge la propuesta del Consejo Asesor de Condecoraciones para conceder al Real Club Náutico de Calpe el Premio Jaume Pastor i Fluixà 9 d’Octubre con motivo del acto institucional del 9 d’Octubre.",
-          "source_type": "PRIMARY"
+          "source_name": "Cadena SER / EFE",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/11/rescatan-a-un-escalador-con-una-fractura-abierta-en-una-pierna-en-el-penon-de-ifach-de-calpe-radio-alicante/",
+          "evidence": "La información de EFE publicada por Cadena SER confirma la caída durante el ascenso, la fractura abierta, la movilización inicial de bomberos de Dénia, la intervención del Grupo de Rescate y del helicóptero MV9, y el traslado del herido a los servicios sanitarios.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://calp.es/en/aggregator",
-          "evidence": "La agenda municipal del fin de semana del 9 al 11 de octubre anuncia para el viernes 9 de octubre a las 20:00 horas el acto institucional del Día de la Comunitat Valenciana, con la entrega del Premi Jaume Pastor i Fluixà y las medallas de la Villa, además de una exposición por el 50 aniversario del Real Club Náutico de Calpe.",
-          "source_type": "PRIMARY"
+          "source_name": "La Marina Alta / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/11/rescatado-en-helicoptero-un-escalador-tras-sufrir-una-caida-en-el-penon-de-ifach/",
+          "evidence": "La publicación confirma el accidente en el Peñón de Ifach, la fractura abierta, la dificultad del terreno, la activación del Grupo de Rescate y del helicóptero MV9, la extracción aérea y la finalización de la intervención alrededor de las 14:00.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12386/readletter",
-          "evidence": "La crónica publicada el 10 de octubre informa de que el acto ya celebrado entregó el Premi Jaume Pastor i Fluixà al Real Club Náutico de Calpe por su 50 aniversario y nombró Hija Predilecta de la Villa a la pintora Lola Llinares.",
+          "source_name": "Diario de Alicante",
+          "source_url": "https://diariodealicante.net/rescatan-a-un-escalador-con-una-fractura-abierta-en-el-penon-de-ifach-en-calp/",
+          "evidence": "La noticia recoge que el escalador sufrió una fractura abierta tras una caída, que el aviso llegó a las 12:35, que fueron activados el Grupo de Rescate y el helicóptero MV9, y que el herido fue trasladado a los servicios sanitarios.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente oficial localizada acredita el anuncio y la programación del acto; la confirmación de que la ceremonia se celebró y de los galardones finalmente entregados procede de Calp Digital."
+        "Las informaciones periodísticas atribuyen los datos al Consorcio Provincial de Bomberos; no se localizó durante la búsqueda una página oficial directamente accesible del Consorcio con el comunicado original.",
+        "Algunas fuentes utilizan indistintamente los términos escalador y senderista, pero coinciden en los hechos esenciales del rescate."
       ],
-      "id": "inv_2f1b4d214e0aea30",
-      "investigated_at": "2026-10-11T15:43:31.248Z",
+      "id": "inv_5437c48d1716a144",
+      "investigated_at": "2026-10-11T20:19:29.244Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "5a0a026de9d35b216bef08158a8cc497cada09a4b91579a5f775687635180416",
+      "title": "Seis acusados afrontan juicio por una trama que cultivaba marihuana en Calp para abastecer al Reino Unido",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La existencia del señalamiento judicial y el contenido general de la acusación aparecen recogidos por Canfali y Calp Digital: seis personas serían juzgadas el 13 de octubre de 2026 por una presunta organización dedicada al cultivo y distribución de marihuana y hachís hacia el Reino Unido, con plantaciones interiores situadas por la Fiscalía en Calp y Benissa y peticiones de pena de hasta 15 años. Sin embargo, no se localizó una fuente primaria oficial de la Audiencia Provincial, del Consejo General del Poder Judicial o de la Fiscalía que permita corroborar de forma independiente el señalamiento, el número de acusados y el detalle de las penas. Las dos informaciones locales podrían proceder del mismo material de acusación o de una comunicación común.",
+      "claims": [
+        {
+          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 13 de octubre de 2026 un juicio contra seis personas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía acusa a los seis procesados de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís con destino al Reino Unido.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía sitúa plantaciones interiores en Calp y Benissa, relacionadas con hechos de 2016.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La droga habría sido camuflada en botes de tomate enviados como productos alimenticios.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía solicita penas de entre ocho y 15 años de prisión, con 15 años para un acusado y ocho para cada uno de los otros cinco.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La acusación y el señalamiento han sido corroborados por una fuente primaria u otra fuente independiente no vinculada al mismo material periodístico.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+          "evidence": "Canfali informa de un juicio señalado para el 13 de octubre de 2026 contra seis personas en la Audiencia Provincial de Alicante. Atribuye a la Fiscalía la acusación de cultivo y distribución de marihuana y hachís hacia el Reino Unido, la existencia de plantaciones interiores en Benissa y Calp, el uso de botes de tomate y peticiones de ocho y 15 años de prisión.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12389/juicio-trafico-droga-calp-marihuana-reino-unido",
+          "evidence": "Calp Digital recoge que seis personas serían juzgadas el 13 de octubre en la Audiencia Provincial de Alicante. Según su resumen de la acusación fiscal, el grupo habría operado con plantaciones interiores en Calp y Benissa, enviado marihuana y hachís al Reino Unido y ocultado la droga en botes de tomate; también señala peticiones de ocho a 15 años de prisión.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "No se encontró una resolución, agenda oficial de vistas, nota de la Fiscalía ni comunicación del CGPJ que confirme directamente el señalamiento y sus detalles.",
+        "Las dos fuentes localizadas son medios locales y presentan una estructura y unos datos muy similares; no puede descartarse que se basen en la misma documentación o comunicación.",
+        "Se trata de acusaciones pendientes de juicio, no de hechos judicialmente probados. La redacción publicable debe mantener en todo momento el carácter presunto de los hechos.",
+        "El juicio estaba anunciado para el 13 de octubre de 2026, fecha posterior a la fecha de investigación: 11 de octubre de 2026."
+      ],
+      "id": "inv_ee0b6fd26c58d21d",
+      "investigated_at": "2026-10-11T20:19:29.244Z",
       "model": "gpt-5.6-luna"
     }
   ]

@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-11T15:44:09.528Z",
-  "count": 77,
+  "updated_at": "2026-10-11T20:20:09.853Z",
+  "count": 78,
   "articles": [
+    {
+      "archive_id": "arc_a2fc9d6c8ef32efa",
+      "external_id": "drf_1f3a09f478d7aceb",
+      "investigation_id": "inv_5437c48d1716a144",
+      "candidate_fingerprints": [
+        "259ef6209f06286568374980ca1ae8c23574afe52f760d7940c5e2b817cc8057"
+      ],
+      "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
+      "slug": "rescatan-escalador-herido-penon-ifach",
+      "summary": "Un escalador sufrió una caída durante el ascenso al Peñón de Ifach, en Calp, y resultó herido con una fractura abierta en una pierna. El Grupo de Rescate y el helicóptero MV9 del Consorcio Provincial de Bomberos de Alicante participaron en la evacuación.",
+      "body": "Un escalador fue rescatado tras sufrir una caída durante el ascenso al Peñón de Ifach, en Calp. Como consecuencia del accidente, presentaba una fractura abierta en una pierna, según las informaciones difundidas con atribución al Consorcio Provincial de Bomberos de Alicante.\n\nEl aviso se recibió a las 12:35. Ante la situación, intervinieron el Grupo de Rescate y el helicóptero de rescate MV9 del Consorcio. El operativo permitió evacuar al herido del entorno del Peñón de Ifach y trasladarlo a los servicios sanitarios.\n\nLas informaciones disponibles sitúan el final de la intervención alrededor de las 14:00. La actuación incluyó la extracción aérea del escalador, de acuerdo con los datos publicados sobre el rescate.\n\nEl Consorcio Provincial de Bomberos de Alicante es la fuente a la que atribuyen estos datos las informaciones periodísticas consultadas. No consta en el expediente una página oficial directamente accesible del Consorcio con el comunicado original. Algunas publicaciones emplean los términos «escalador» y «senderista» para referirse a la persona herida, aunque coinciden en los elementos esenciales del suceso: la caída durante el ascenso, la fractura abierta en una pierna, la intervención del Grupo de Rescate y del helicóptero MV9, y el traslado a los servicios sanitarios.",
+      "category": "SUCESOS",
+      "seo_title": "Rescatan a un escalador herido en el Peñón de Ifach",
+      "meta_description": "Un escalador sufrió una caída y una fractura abierta en una pierna durante el ascenso al Peñón de Ifach. Fue evacuado por el helicóptero MV9.",
+      "sources": [
+        {
+          "name": "Consorcio Provincial de Bomberos de Alicante, citado por Europa Press",
+          "url": "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Cadena SER / EFE",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/11/rescatan-a-un-escalador-con-una-fractura-abierta-en-una-pierna-en-el-penon-de-ifach-de-calpe-radio-alicante/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Alta / elDiario.es",
+          "url": "https://lamarina.eldiario.es/2026/10/11/rescatado-en-helicoptero-un-escalador-tras-sufrir-una-caida-en-el-penon-de-ifach/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Diario de Alicante",
+          "url": "https://diariodealicante.net/rescatan-a-un-escalador-con-una-fractura-abierta-en-el-penon-de-ifach-en-calp/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/11/rescatan-a-un-escalador-con-una-fractura-abierta-en-una-pierna-en-el-penon-de-ifach-de-calpe-radio-alicante",
+        "https://lamarina.eldiario.es/2026/10/11/rescatado-en-helicoptero-un-escalador-tras-sufrir-una-caida-en-el-penon-de-ifach",
+        "https://diariodealicante.net/rescatan-a-un-escalador-con-una-fractura-abierta-en-el-penon-de-ifach-en-calp"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "Las informaciones periodísticas atribuyen los datos al Consorcio Provincial de Bomberos; no se localizó durante la búsqueda una página oficial directamente accesible del Consorcio con el comunicado original.",
+          "Algunas fuentes utilizan indistintamente los términos escalador y senderista, pero coinciden en los hechos esenciales del rescate."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_12935e76948961f3",
+        "quality_gate_evaluated_at": "2026-10-11T20:20:09.529Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Los datos proceden de informaciones periodísticas que los atribuyen al Consorcio Provincial de Bomberos de Alicante; no consta el comunicado oficial directamente accesible.",
+        "Existe una diferencia terminológica entre fuentes, que hablan de escalador o senderista."
+      ],
+      "published_at": "2026-10-11T20:20:01.093Z",
+      "updated_at": "2026-10-11T20:20:09.853Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_01b525c4c2dc86ef",
       "external_id": "drf_1d6cb58821450b5b",
