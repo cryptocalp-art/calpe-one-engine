@@ -1,8 +1,103 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-11T08:54:47.820Z",
+  "generated_at": "2026-10-11T15:43:57.460Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 2,
+  "drafts": [
+    {
+      "id": "drf_a05b375ea113bb2d",
+      "investigation_id": "inv_79d7e81fcc0683e7",
+      "candidate_fingerprint": "bb19f3626caa346953d25f43449f56b696d768f2d663104bbb0b8af78e23e4df",
+      "category": "SUCESOS",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-11T15:43:57.460Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Rescatan en helicóptero a una persona herida tras una caída en el Peñón de Ifach",
+      "subheadline": "La víctima sufrió una fractura abierta en una pierna durante el ascenso, según la información atribuida al Consorcio Provincial de Bomberos de Alicante",
+      "lead": "Una persona sufrió una caída durante el ascenso al Peñón de Ifach, en Calp, y tuvo que ser rescatada o evacuada mediante helicóptero por efectivos de bomberos. La víctima presentaba una fractura abierta en una pierna.",
+      "body_markdown": "Una persona resultó herida este domingo durante el ascenso al Peñón de Ifach, en Calp, tras sufrir una caída. La víctima presentaba una fractura abierta en una pierna, según la información difundida por Europa Press y atribuida al Consorcio Provincial de Bomberos de Alicante.\n\nLa intervención se desarrolló el 11 de octubre de 2026 entre las 12:35 y las 14:00 horas. Efectivos de bomberos participaron en el rescate y la extracción se realizó mediante helicóptero.\n\nLa información primaria localizada corresponde a una imagen remitida por el Consorcio Provincial de Bomberos de Alicante. No constan en las fuentes consultadas datos sobre la identidad de la persona herida ni detalles adicionales sobre su traslado sanitario.",
+      "seo_title": "Rescate en helicóptero tras una caída en el Peñón de Ifach",
+      "meta_description": "Una persona sufrió una caída y una fractura abierta en una pierna durante el ascenso al Peñón de Ifach y fue evacuada en helicóptero.",
+      "slug": "rescate-helicoptero-caida-penon-ifach",
+      "editorial_notes": [
+        "Evitar denominar a la persona «senderista»: las fuentes localizadas utilizan principalmente el término «escalador» y el expediente no verifica esa identificación.",
+        "Mantener la atribución al Consorcio Provincial de Bomberos de Alicante y no añadir datos sobre identidad o traslado sanitario."
+      ],
+      "sources": [
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Consorcio Provincial de Bomberos de Alicante, mediante imagen remitida a medios",
+          "source_url": "https://fotos.europapress.es/fotonoticia/f7838138",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 2,
+        "caveats": [
+          "Las fuentes localizadas utilizan principalmente el término «escalador», no «senderista».",
+          "La información primaria localizada es una imagen y el relato de Europa Press atribuido al Consorcio; no se ha encontrado un comunicado oficial independiente con más detalles sobre la identidad o el traslado sanitario."
+        ]
+      }
+    },
+    {
+      "id": "drf_fd1d991f5d1a89de",
+      "investigation_id": "inv_2f1b4d214e0aea30",
+      "candidate_fingerprint": "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-11T15:43:57.460Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El Real Club Náutico de Calpe y Lola Llinares reciben los reconocimientos del 9 d’Octubre",
+      "subheadline": "El club fue distinguido con el Premi Jaume Pastor i Fluixà por su 50 aniversario y la pintora fue nombrada Hija Predilecta de la Villa",
+      "lead": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre y Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp durante el acto institucional celebrado el viernes 9 de octubre en la plaza Mayor.",
+      "body_markdown": "El acto institucional del 9 d’Octubre celebrado en Calp reconoció al Real Club Náutico de Calpe y a la pintora Lola Llinares. La ceremonia tuvo lugar el viernes 9 de octubre de 2026 en la plaza Mayor de la localidad.\n\nEl Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre. El reconocimiento coincidió con el 50 aniversario de la entidad, según la información difundida por el Ayuntamiento de Calp sobre la programación y los galardones del acto.\n\nDurante la misma ceremonia, Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp. El Ayuntamiento había informado previamente de este nombramiento y de su entrega en la gala del 9 de octubre.\n\nLa agenda municipal anunciaba para las 20:00 horas el acto institucional del Día de la Comunitat Valenciana, con la entrega del premio y de las medallas de la Villa, además de una exposición vinculada al 50 aniversario del Real Club Náutico de Calpe.\n\nLa confirmación de que la ceremonia se celebró y de que ambos reconocimientos fueron entregados procede de una crónica publicada por Calp Digital el 10 de octubre. La información municipal localizada acredita el anuncio de los nombramientos y la programación del acto.",
+      "seo_title": "Calp entrega los reconocimientos del 9 d’Octubre",
+      "meta_description": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà y Lola Llinares fue nombrada Hija Predilecta de Calp.",
+      "slug": "calp-reconocimientos-9-doctubre-real-club-nautico-lola-llinares",
+      "editorial_notes": [
+        "Distinguir la información municipal previa, que anunció los reconocimientos y el acto, de la confirmación posterior de la ceremonia y las entregas, atribuida a Calp Digital."
+      ],
+      "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/en/aggregator",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12386/readletter",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La fuente oficial localizada acredita el anuncio y la programación del acto; la confirmación de que la ceremonia se celebró y de los galardones finalmente entregados procede de Calp Digital."
+        ]
+      }
+    }
+  ]
 }

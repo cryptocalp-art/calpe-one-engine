@@ -3,12 +3,165 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-11T08:54:48.135Z",
+  "generated_at": "2026-10-11T15:44:09.357Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
-  "quarantined_count": 0,
-  "ready": [],
-  "quarantined": []
+  "drafts_seen": 2,
+  "ready_count": 1,
+  "quarantined_count": 1,
+  "ready": [
+    {
+      "export_id": "exp_9f8da21bf9745c35",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-11T15:44:09.357Z",
+      "source_draft_id": "drf_fd1d991f5d1a89de",
+      "source_investigation_id": "inv_2f1b4d214e0aea30",
+      "candidate_fingerprint": "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
+      "quality_gate_id": "qg_50dc981b1ced765b",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_fd1d991f5d1a89de",
+        "investigation_id": "inv_2f1b4d214e0aea30",
+        "candidate_fingerprint": "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
+        "title": "El Real Club Náutico de Calpe y Lola Llinares reciben los reconocimientos del 9 d’Octubre",
+        "subtitle": "El club fue distinguido con el Premi Jaume Pastor i Fluixà por su 50 aniversario y la pintora fue nombrada Hija Predilecta de la Villa",
+        "summary": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre y Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp durante el acto institucional celebrado el viernes 9 de octubre en la plaza Mayor.",
+        "body": "El acto institucional del 9 d’Octubre celebrado en Calp reconoció al Real Club Náutico de Calpe y a la pintora Lola Llinares. La ceremonia tuvo lugar el viernes 9 de octubre de 2026 en la plaza Mayor de la localidad.\n\nEl Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre. El reconocimiento coincidió con el 50 aniversario de la entidad, según la información difundida por el Ayuntamiento de Calp sobre la programación y los galardones del acto.\n\nDurante la misma ceremonia, Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp. El Ayuntamiento había informado previamente de este nombramiento y de su entrega en la gala del 9 de octubre.\n\nLa agenda municipal anunciaba para las 20:00 horas el acto institucional del Día de la Comunitat Valenciana, con la entrega del premio y de las medallas de la Villa, además de una exposición vinculada al 50 aniversario del Real Club Náutico de Calpe.\n\nLa confirmación de que la ceremonia se celebró y de que ambos reconocimientos fueron entregados procede de una crónica publicada por Calp Digital el 10 de octubre. La información municipal localizada acredita el anuncio de los nombramientos y la programación del acto.",
+        "category": "SOCIEDAD",
+        "slug": "calp-reconocimientos-9-doctubre-real-club-nautico-lola-llinares",
+        "seo_title": "Calp entrega los reconocimientos del 9 d’Octubre",
+        "meta_description": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà y Lola Llinares fue nombrada Hija Predilecta de Calp.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_50dc981b1ced765b",
+        "editorial_notes": [
+          "Distinguir la información municipal previa, que anunció los reconocimientos y el acto, de la confirmación posterior de la ceremonia y las entregas, atribuida a Calp Digital."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12386/readletter",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "https://calp.es/en/aggregator",
+          "https://calpdigital.es/art/12386/readletter"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La fuente oficial localizada acredita el anuncio y la programación del acto; la confirmación de que la ceremonia se celebró y de los galardones finalmente entregados procede de Calp Digital."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_50dc981b1ced765b",
+          "quality_gate_evaluated_at": "2026-10-11T15:44:09.190Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-11T15:43:57.460Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_fd1d991f5d1a89de",
+        "title": "El Real Club Náutico de Calpe y Lola Llinares reciben los reconocimientos del 9 d’Octubre",
+        "slug": "calp-reconocimientos-9-doctubre-real-club-nautico-lola-llinares",
+        "summary": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre y Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp durante el acto institucional celebrado el viernes 9 de octubre en la plaza Mayor.",
+        "body": "El acto institucional del 9 d’Octubre celebrado en Calp reconoció al Real Club Náutico de Calpe y a la pintora Lola Llinares. La ceremonia tuvo lugar el viernes 9 de octubre de 2026 en la plaza Mayor de la localidad.\n\nEl Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà 9 d’Octubre. El reconocimiento coincidió con el 50 aniversario de la entidad, según la información difundida por el Ayuntamiento de Calp sobre la programación y los galardones del acto.\n\nDurante la misma ceremonia, Lola Llinares fue nombrada Hija Predilecta de la Villa de Calp. El Ayuntamiento había informado previamente de este nombramiento y de su entrega en la gala del 9 de octubre.\n\nLa agenda municipal anunciaba para las 20:00 horas el acto institucional del Día de la Comunitat Valenciana, con la entrega del premio y de las medallas de la Villa, además de una exposición vinculada al 50 aniversario del Real Club Náutico de Calpe.\n\nLa confirmación de que la ceremonia se celebró y de que ambos reconocimientos fueron entregados procede de una crónica publicada por Calp Digital el 10 de octubre. La información municipal localizada acredita el anuncio de los nombramientos y la programación del acto.",
+        "category": "SOCIEDAD",
+        "seo_title": "Calp entrega los reconocimientos del 9 d’Octubre",
+        "meta_description": "El Real Club Náutico de Calpe recibió el Premi Jaume Pastor i Fluixà y Lola Llinares fue nombrada Hija Predilecta de Calp.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_50dc981b1ced765b",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+          "https://noticias.calp.es/es/inici?p=3721&page=17",
+          "https://calp.es/en/aggregator",
+          "https://calpdigital.es/art/12386/readletter"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-pintora-lola-llinares-ser%C3%A1-nombrada-hija-predilecta-de-calp",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/inici?p=3721&page=17",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12386/readletter",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_2f1b4d214e0aea30",
+        "candidate_fingerprint": "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La fuente oficial localizada acredita el anuncio y la programación del acto; la confirmación de que la ceremonia se celebró y de los galardones finalmente entregados procede de Calp Digital."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_50dc981b1ced765b",
+          "quality_gate_evaluated_at": "2026-10-11T15:44:09.190Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
+  "quarantined": [
+    {
+      "export_id": "exp_549ed5383af58d1c",
+      "draft_id": "drf_a05b375ea113bb2d",
+      "investigation_id": "inv_79d7e81fcc0683e7",
+      "slug": "rescate-helicoptero-caida-penon-ifach",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "BODY_TOO_SHORT_FOR_AUTOMATED_PUBLICATION"
+      ]
+    }
+  ]
 }
