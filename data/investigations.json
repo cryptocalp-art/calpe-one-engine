@@ -1,137 +1,83 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-12T00:34:15.658Z",
+  "generated_at": "2026-10-12T07:23:35.873Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "0fccbc8f7742e8ad20a83c3d7a0d4292d5ddb637be95a95106977a2031cc3e5d",
-      "title": "La criminalidad cae un 11,7% en Calp durante el primer semestre de 2026",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "El Balance de Criminalidad del Ministerio del Interior para enero-junio de 2026 confirma que Calp registró 847 infracciones penales, frente a 959 en el mismo periodo de 2025, lo que supone una reducción del 11,7%. La fuente oficial también desglosa la evolución por tipos delictivos. La comparación periodística con Dénia y Xàbia es coherente con los datos oficiales, aunque la afirmación de que Calp fue el municipio alicantino con mayor descenso no queda demostrada de forma exhaustiva para todos los municipios de la provincia en las fuentes consultadas.",
-      "claims": [
-        {
-          "claim": "Calp registró 847 infracciones penales entre enero y junio de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Calp registró 959 infracciones penales entre enero y junio de 2025.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La variación interanual fue del -11,7%.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La criminalidad convencional bajó de 820 a 743 infracciones y la cibercriminalidad de 139 a 104.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Calp fue el municipio de Alicante que más redujo la criminalidad entre las localidades analizadas.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Dénia bajó un 3,8% y Xàbia subió un 7,3% en el mismo periodo.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ministerio del Interior",
-          "source_url": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/Balance-de-Criminalidad-Segundo-Trimestre-2026.pdf",
-          "evidence": "El Balance oficial, en la ficha de Calp correspondiente al acumulado enero-junio, registra 959 infracciones penales en 2025 y 847 en 2026, con una variación del -11,7%. También recoge 820 y 743 infracciones de criminalidad convencional, y 139 y 104 de cibercriminalidad, respectivamente.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Times",
-          "source_url": "https://lamarinatimes.com/es/sucesos/la-criminalidad-baja-en-calp-y-denia-y-sube-en-xabia-en-el-primer-semestre-de-2026",
-          "evidence": "La publicación reproduce la comparación entre Calp, Dénia y Xàbia y atribuye los datos al Balance de Criminalidad del Ministerio del Interior. Señala para Calp 847 infracciones frente a 959, un descenso del 11,7%; para Dénia, un descenso del 3,8%; y para Xàbia, un aumento del 7,3%.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "Las cifras oficiales tienen carácter provisional y están pendientes de consolidación, según el propio Ministerio del Interior.",
-        "La afirmación de liderazgo de Calp frente a todas las localidades alicantinas no ha sido comprobada mediante una comparación completa de todos los municipios de la provincia.",
-        "La reducción de infracciones registradas no equivale necesariamente a una reducción idéntica de la delincuencia real, ya que depende de denuncias y actividad policial."
-      ],
-      "id": "inv_2724a09f41c2247a",
-      "investigated_at": "2026-10-12T00:34:15.658Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "7bdc2093631aa86f4ed69d4a74ea60fa27eec72871283e5dad9215bbd371071c",
-      "title": "La Audiencia de Alicante juzga a seis personas por una red de marihuana con plantaciones en Calp y Benissa",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "bbfd7a0ac277d24668a7b6768c8d270823acbf61616610fbb89be00a56656904",
+      "title": "Seis acusados afrontan desde el martes un juicio por una presunta red de marihuana entre Calp y Benissa",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La celebración del juicio contra seis personas en la Audiencia Provincial de Alicante y el contenido esencial de la acusación fiscal están corroborados por varias publicaciones locales independientes entre sí. Las fuentes coinciden en que la Fiscalía atribuye a los procesados una organización dedicada al cultivo o adquisición de marihuana y hachís en plantaciones interiores de Calp y Benissa, con presuntos envíos al Reino Unido ocultos en botes de tomate o conserva. También coinciden en la petición de 15 años para el supuesto líder y ocho años para cada uno de los otros cinco acusados. Se trata de alegaciones sometidas a juicio, no de hechos judicialmente probados.",
+      "publishable": false,
+      "summary": "La información queda parcialmente corroborada por varias publicaciones locales fechadas el 11 de octubre de 2026, que coinciden en el número de acusados, la fecha y hora previstas del juicio, la ubicación de las plantaciones, el destino británico de la droga y las penas solicitadas por la Fiscalía. Sin embargo, las dos corroboraciones más completas están firmadas por la misma autora, Carolina Mota, y no se ha localizado una nota oficial del CGPJ, la Audiencia Provincial de Alicante o la Fiscalía que confirme directamente el señalamiento y el escrito de acusación. Por ello, no puede considerarse corroboración independiente suficiente.",
       "claims": [
         {
-          "claim": "La Audiencia Provincial de Alicante juzga a seis personas.",
+          "claim": "La Audiencia Provincial de Alicante tenía previsto iniciar el 13 de octubre de 2026 un juicio contra seis personas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía acusa a los procesados de integrar una organización dedicada al tráfico de marihuana y hachís.",
+          "claim": "La vista estaba señalada para las 9:30 horas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La acusación sitúa plantaciones interiores en Calp y Benissa.",
+          "claim": "La Fiscalía acusa a los seis procesados de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís con destino al Reino Unido.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La droga habría sido enviada al Reino Unido oculta en botes de tomate o conserva presentados como alimentos.",
+          "claim": "Los hechos investigados se remontan a 2016.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía solicita 15 años de prisión para el supuesto líder.",
+          "claim": "La acusación sitúa varias plantaciones de cultivo interior en los municipios de Calp y Benissa.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía solicita ocho años de prisión para cada uno de los otros cinco procesados.",
+          "claim": "La droga habría sido ocultada en botes de tomate o conserva para enviarla al Reino Unido como mercancía alimentaria.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los hechos ya han sido probados judicialmente.",
-          "status": "CONTRADICTED"
+          "claim": "La Fiscalía solicita 15 años de prisión para el presunto líder de la organización.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía solicita ocho años de prisión para cada uno de los otros cinco acusados.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las personas mencionadas son acusadas, no condenadas, y la responsabilidad debía determinarse en el juicio.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12389/juicio-trafico-droga-calp-marihuana-reino-unido",
-          "evidence": "Informa de que seis personas serán juzgadas en la Audiencia Provincial de Alicante por su presunta participación en una organización dedicada al tráfico de marihuana y hachís hacia el Reino Unido. Sitúa plantaciones interiores en Calp y Benissa, describe el presunto ocultamiento en botes de tomate y recoge peticiones fiscales de entre ocho y 15 años.",
+          "source_name": "La Marina - elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+          "evidence": "Publica el 11 de octubre de 2026 que la Audiencia Provincial juzgaría a seis personas por una presunta organización dedicada al cultivo y distribución de marihuana y hachís desde la Marina Alta al Reino Unido. Sitúa en 2016 las plantaciones interiores de Calp y Benissa, describe el ocultamiento en botes de tomate y recoge las peticiones fiscales de 15 años para el presunto líder y ocho años para cada uno de los otros cinco acusados.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Canfali",
           "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
-          "evidence": "Informa de un juicio iniciado o señalado para el 13 de octubre de 2026 contra seis personas. Resume la acusación fiscal sobre plantaciones de interior en Benissa y Calp, el supuesto envío de droga al Reino Unido en botes de tomate y las penas solicitadas: 15 años para uno de los acusados y ocho para cada uno de los otros cinco.",
+          "evidence": "Informa el 11 de octubre de 2026 de un juicio previsto para el martes 13 de octubre en la Audiencia Provincial de Alicante contra seis personas. Señala que el señalamiento comenzaría a las 9:30 horas, que la acusación sitúa en 2016 plantaciones interiores en Benissa y Calp, que la droga habría sido introducida en botes de tomate y que la Fiscalía pide 15 años para un acusado y ocho años para cada uno de los otros cinco.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Benissa Digital",
-          "source_url": "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
-          "evidence": "Coincide en el número de acusados, la intervención de la Fiscalía, la localización de plantaciones en Benissa y Calp, el uso presunto de botes de tomate para ocultar la droga y las penas solicitadas de 15 y ocho años.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa",
-          "evidence": "La noticia original describe el juicio contra seis personas, la acusación por cultivo y compra de marihuana y hachís, las plantaciones interiores en Calp y Benissa, el ocultamiento en botes de tomate en conserva y las penas solicitadas por la Fiscalía.",
+          "source_name": "Ràdio Litoral",
+          "source_url": "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/",
+          "evidence": "Publica el 11 de octubre de 2026, bajo la firma de Carolina Mota Ramos, que seis personas afrontaban un juicio el 13 de octubre a las 9:30 horas. Reproduce los elementos esenciales de la acusación: hechos de 2016, plantaciones interiores en Benissa y Calp, envío al Reino Unido oculto en botes de tomate y peticiones de 15 años para el presunto líder y ocho años para los otros cinco procesados.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se localizó una nota oficial del Tribunal Superior de Justicia de la Comunitat Valenciana, de la Fiscalía o de la Audiencia Provincial que reproduzca íntegramente estos detalles.",
-        "Todas las informaciones se refieren a la versión de la Fiscalía y a un juicio en curso; la responsabilidad penal de los acusados no está establecida.",
-        "La fecha de los hechos se sitúa en 2016, aunque el juicio se celebra en octubre de 2026.",
-        "La corroboración disponible procede de medios locales que podrían haber utilizado la misma agenda judicial o el mismo escrito de acusación; por tanto, la independencia de las fuentes no es absoluta."
+        "No se ha localizado una comunicación oficial del CGPJ, de la Audiencia Provincial de Alicante o de la Fiscalía que confirme el señalamiento, el número de procedimiento o las penas solicitadas.",
+        "Canfali y Ràdio Litoral atribuyen sus textos a la misma autora, Carolina Mota Ramos; por tanto, no deben tratarse como dos corroboraciones plenamente independientes.",
+        "Las fuentes describen alegaciones de la Fiscalía y hechos presuntos, no una sentencia ni hechos probados.",
+        "La fuente original facilitada por el candidato, lamarinatimes.com, no fue recuperada directamente durante la búsqueda; se localizó una publicación coincidente de La Marina - elDiario.es."
       ],
-      "id": "inv_e01f113c85355d95",
-      "investigated_at": "2026-10-12T00:34:15.658Z",
+      "id": "inv_a63d69f665e35817",
+      "investigated_at": "2026-10-12T07:23:35.873Z",
       "model": "gpt-5.6-luna"
     }
   ]
