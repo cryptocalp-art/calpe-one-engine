@@ -1,83 +1,77 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-12T07:23:35.873Z",
+  "generated_at": "2026-10-12T17:57:53.320Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "bbfd7a0ac277d24668a7b6768c8d270823acbf61616610fbb89be00a56656904",
-      "title": "Seis acusados afrontan desde el martes un juicio por una presunta red de marihuana entre Calp y Benissa",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "274e996ef46abbf720a9f713969d7f654bb7b6497a7f608624f10c85be744e7a",
+      "title": "Seis acusados afrontan en Alicante un juicio por una trama que cultivaba marihuana en Calp para enviarla al Reino Unido",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información queda parcialmente corroborada por varias publicaciones locales fechadas el 11 de octubre de 2026, que coinciden en el número de acusados, la fecha y hora previstas del juicio, la ubicación de las plantaciones, el destino británico de la droga y las penas solicitadas por la Fiscalía. Sin embargo, las dos corroboraciones más completas están firmadas por la misma autora, Carolina Mota, y no se ha localizado una nota oficial del CGPJ, la Audiencia Provincial de Alicante o la Fiscalía que confirme directamente el señalamiento y el escrito de acusación. Por ello, no puede considerarse corroboración independiente suficiente.",
+      "publishable": true,
+      "summary": "La información queda corroborada por varias publicaciones locales que coinciden en los elementos esenciales: la Audiencia Provincial de Alicante tenía señalado para el 13 de octubre de 2026 un juicio contra seis personas, a las que la Fiscalía atribuye una organización dedicada al cultivo y distribución de marihuana y hachís desde plantaciones interiores ubicadas en Calp y Benissa, con destino al Reino Unido. Las fuentes también coinciden en las penas solicitadas: 15 años para el presunto líder y ocho años para cada uno de los otros cinco acusados. No se ha localizado durante la búsqueda una comunicación oficial accesible del Poder Judicial o de la Fiscalía que confirme el señalamiento o el escrito de acusación.",
       "claims": [
         {
           "claim": "La Audiencia Provincial de Alicante tenía previsto iniciar el 13 de octubre de 2026 un juicio contra seis personas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La vista estaba señalada para las 9:30 horas.",
+          "claim": "La Fiscalía acusa a los seis procesados de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía acusa a los seis procesados de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís con destino al Reino Unido.",
+          "claim": "El escrito de acusación sitúa plantaciones de cultivo interior en Calp y Benissa y ubica los hechos en torno al año 2016.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los hechos investigados se remontan a 2016.",
+          "claim": "La acusación sostiene que la droga era preparada y ocultada en botes de tomate en conserva para enviarla al Reino Unido.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La acusación sitúa varias plantaciones de cultivo interior en los municipios de Calp y Benissa.",
+          "claim": "La Fiscalía solicita 15 años de prisión para el presunto líder y ocho años para cada uno de los otros cinco acusados.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La droga habría sido ocultada en botes de tomate o conserva para enviarla al Reino Unido como mercancía alimentaria.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía solicita 15 años de prisión para el presunto líder de la organización.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía solicita ocho años de prisión para cada uno de los otros cinco acusados.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las personas mencionadas son acusadas, no condenadas, y la responsabilidad debía determinarse en el juicio.",
-          "status": "SUPPORTED"
+          "claim": "Los acusados son culpables o que los hechos hayan quedado probados.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Marina - elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
-          "evidence": "Publica el 11 de octubre de 2026 que la Audiencia Provincial juzgaría a seis personas por una presunta organización dedicada al cultivo y distribución de marihuana y hachís desde la Marina Alta al Reino Unido. Sitúa en 2016 las plantaciones interiores de Calp y Benissa, describe el ocultamiento en botes de tomate y recoge las peticiones fiscales de 15 años para el presunto líder y ocho años para cada uno de los otros cinco acusados.",
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+          "evidence": "Publica el 11 de octubre de 2026 que seis personas serían juzgadas desde el 13 de octubre en la Audiencia Provincial de Alicante. Atribuye a la Fiscalía la acusación de cultivo y distribución de marihuana y hachís, sitúa plantaciones interiores en Calp y Benissa y señala que la droga habría sido ocultada en botes de tomate para enviarla al Reino Unido. También recoge la petición fiscal de 15 años para un acusado y ocho años para cada uno de los otros cinco.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
-          "evidence": "Informa el 11 de octubre de 2026 de un juicio previsto para el martes 13 de octubre en la Audiencia Provincial de Alicante contra seis personas. Señala que el señalamiento comenzaría a las 9:30 horas, que la acusación sitúa en 2016 plantaciones interiores en Benissa y Calp, que la droga habría sido introducida en botes de tomate y que la Fiscalía pide 15 años para un acusado y ocho años para cada uno de los otros cinco.",
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+          "evidence": "Informa el 11 de octubre de 2026 de un juicio contra seis personas acusadas por la Fiscalía de integrar una organización criminal dedicada al cultivo y adquisición de marihuana y hachís en la Marina Alta para su distribución en el Reino Unido. Sitúa las plantaciones de interior en Calp y Benissa, describe el uso presunto de botes de tomate y recoge las penas solicitadas de 15 años para el supuesto líder y ocho años para cada uno de los otros cinco procesados.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Benissa Digital",
+          "source_url": "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+          "evidence": "Publica el 11 de octubre de 2026 que la Audiencia Provincial de Alicante iba a sentar el 13 de octubre a seis personas acusadas de tráfico de drogas entre España y el Reino Unido. Según la Fiscalía, el grupo explotaba en 2016 plantaciones interiores en Benissa y Calp y ocultaba la droga en botes de tomate enviados como productos alimenticios. Recoge la petición de 15 años para el presunto líder y ocho años para cada uno de los otros cinco acusados.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Ràdio Litoral",
           "source_url": "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/",
-          "evidence": "Publica el 11 de octubre de 2026, bajo la firma de Carolina Mota Ramos, que seis personas afrontaban un juicio el 13 de octubre a las 9:30 horas. Reproduce los elementos esenciales de la acusación: hechos de 2016, plantaciones interiores en Benissa y Calp, envío al Reino Unido oculto en botes de tomate y peticiones de 15 años para el presunto líder y ocho años para los otros cinco procesados.",
+          "evidence": "Coincide en que la Audiencia Provincial de Alicante debía juzgar el 13 de octubre de 2026 a seis personas, con una sesión prevista a las 9:30 horas. Atribuye al Ministerio Fiscal la acusación de una organización dedicada al cultivo y distribución de marihuana y hachís desde plantaciones interiores en Benissa y Calp con destino al Reino Unido.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha localizado una comunicación oficial del CGPJ, de la Audiencia Provincial de Alicante o de la Fiscalía que confirme el señalamiento, el número de procedimiento o las penas solicitadas.",
-        "Canfali y Ràdio Litoral atribuyen sus textos a la misma autora, Carolina Mota Ramos; por tanto, no deben tratarse como dos corroboraciones plenamente independientes.",
-        "Las fuentes describen alegaciones de la Fiscalía y hechos presuntos, no una sentencia ni hechos probados.",
-        "La fuente original facilitada por el candidato, lamarinatimes.com, no fue recuperada directamente durante la búsqueda; se localizó una publicación coincidente de La Marina - elDiario.es."
+        "La información describe acusaciones y un juicio pendiente; no acredita culpabilidad ni que los hechos hayan sido probados judicialmente.",
+        "No se ha localizado una fuente primaria oficial accesible —como una nota del CGPJ, un señalamiento oficial identificable o el escrito de acusación— que permita verificar directamente todos los detalles.",
+        "Varias publicaciones presentan coincidencias muy estrechas en redacción y datos, por lo que podrían proceder total o parcialmente de la misma información de Fiscalía o de una agencia; la corroboración es suficiente para los hechos esenciales del señalamiento, pero no plenamente independiente para cada detalle.",
+        "La fecha de referencia de la investigación es el 12 de octubre de 2026; el juicio estaba anunciado para el día siguiente, 13 de octubre de 2026."
       ],
-      "id": "inv_a63d69f665e35817",
-      "investigated_at": "2026-10-12T07:23:35.873Z",
+      "id": "inv_105cae23907cd1a4",
+      "investigated_at": "2026-10-12T17:57:53.320Z",
       "model": "gpt-5.6-luna"
     }
   ]

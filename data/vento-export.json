@@ -3,12 +3,163 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-12T07:24:00.572Z",
+  "generated_at": "2026-10-12T17:58:19.435Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
-  "ready": [],
+  "ready": [
+    {
+      "export_id": "exp_cde774d162ab7812",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-12T17:58:19.435Z",
+      "source_draft_id": "drf_791b93093b2326eb",
+      "source_investigation_id": "inv_105cae23907cd1a4",
+      "candidate_fingerprint": "274e996ef46abbf720a9f713969d7f654bb7b6497a7f608624f10c85be744e7a",
+      "quality_gate_id": "qg_73b023e512544a89",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_791b93093b2326eb",
+        "investigation_id": "inv_105cae23907cd1a4",
+        "candidate_fingerprint": "274e996ef46abbf720a9f713969d7f654bb7b6497a7f608624f10c85be744e7a",
+        "title": "Seis acusados afrontan mañana en Alicante un juicio por una presunta red de marihuana vinculada a Calp y Benissa",
+        "subtitle": "La Fiscalía solicita 15 años de prisión para quien considera el líder y ocho años para cada uno de los otros cinco procesados",
+        "summary": "La Audiencia Provincial de Alicante tiene previsto iniciar mañana, 13 de octubre, un juicio contra seis personas a las que la Fiscalía acusa de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís. Según el escrito de acusación recogido por varias publicaciones locales, la actividad habría incluido plantaciones interiores en Calp y Benissa y el envío de la droga al Reino Unido.",
+        "body": "La Audiencia Provincial de Alicante tiene previsto iniciar este martes, 13 de octubre de 2026, un juicio contra seis personas acusadas por la Fiscalía de formar parte de una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís. El señalamiento sitúa el inicio de la vista en Alicante y recoge una sesión prevista a las 9:30 horas, según una de las informaciones publicadas sobre el caso.\n\nLa acusación sostiene que los hechos se produjeron en torno a 2016 y que el grupo explotaba plantaciones de cultivo interior ubicadas en Calp y Benissa. Según la Fiscalía, la droga se preparaba y ocultaba en botes de tomate en conserva que se enviaban al Reino Unido como productos alimenticios.\n\nEl Ministerio Fiscal solicita 15 años de prisión para el considerado presunto líder de la organización y ocho años para cada uno de los otros cinco acusados. Las peticiones corresponden a la acusación y deberán ser examinadas durante el procedimiento judicial.\n\nEl caso se encuentra pendiente de juicio. Por tanto, la información describe las acusaciones formuladas por la Fiscalía y no permite afirmar que los procesados sean culpables ni que los hechos hayan quedado probados judicialmente.\n\nLas publicaciones que han recogido el señalamiento coinciden en los elementos esenciales del caso, aunque no se ha localizado una comunicación oficial accesible del Poder Judicial o de la Fiscalía que confirme directamente todos los detalles del juicio y del escrito de acusación.",
+        "category": "SUCESOS",
+        "slug": "juicio-seis-acusados-red-droga-calp-benissa",
+        "seo_title": "Juicio a seis acusados por una red de droga en Calp y Benissa",
+        "meta_description": "La Audiencia de Alicante juzga a seis acusados por una presunta red de cultivo y envío de marihuana desde Calp y Benissa al Reino Unido.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_73b023e512544a89",
+        "editorial_notes": [
+          "La información procede de publicaciones secundarias y no se ha localizado una fuente primaria oficial accesible que confirme directamente todos los detalles.",
+          "Debe mantenerse en todo momento el carácter atribuido de las acusaciones: el juicio está pendiente y no puede presentarse a los procesados como culpables.",
+          "La vista estaba anunciada para el 13 de octubre de 2026, el día posterior a la fecha de redacción; conviene actualizar el texto si se publica después del señalamiento."
+        ],
+        "sources": [
+          {
+            "name": "Canfali",
+            "url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Benissa Digital",
+            "url": "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ràdio Litoral",
+            "url": "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+          "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+          "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+          "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La información describe acusaciones y un juicio pendiente; no acredita culpabilidad ni que los hechos hayan sido probados judicialmente.",
+            "No se ha localizado una fuente primaria oficial accesible —como una nota del CGPJ, un señalamiento oficial identificable o el escrito de acusación— que permita verificar directamente todos los detalles.",
+            "Varias publicaciones presentan coincidencias muy estrechas en redacción y datos, por lo que podrían proceder total o parcialmente de la misma información de Fiscalía o de una agencia; la corroboración es suficiente para los hechos esenciales del señalamiento, pero no plenamente independiente para cada detalle.",
+            "La fecha de referencia de la investigación es el 12 de octubre de 2026; el juicio estaba anunciado para el día siguiente, 13 de octubre de 2026."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_73b023e512544a89",
+          "quality_gate_evaluated_at": "2026-10-12T17:58:19.225Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "created_at": "2026-10-12T17:58:10.386Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_791b93093b2326eb",
+        "title": "Seis acusados afrontan mañana en Alicante un juicio por una presunta red de marihuana vinculada a Calp y Benissa",
+        "slug": "juicio-seis-acusados-red-droga-calp-benissa",
+        "summary": "La Audiencia Provincial de Alicante tiene previsto iniciar mañana, 13 de octubre, un juicio contra seis personas a las que la Fiscalía acusa de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís. Según el escrito de acusación recogido por varias publicaciones locales, la actividad habría incluido plantaciones interiores en Calp y Benissa y el envío de la droga al Reino Unido.",
+        "body": "La Audiencia Provincial de Alicante tiene previsto iniciar este martes, 13 de octubre de 2026, un juicio contra seis personas acusadas por la Fiscalía de formar parte de una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís. El señalamiento sitúa el inicio de la vista en Alicante y recoge una sesión prevista a las 9:30 horas, según una de las informaciones publicadas sobre el caso.\n\nLa acusación sostiene que los hechos se produjeron en torno a 2016 y que el grupo explotaba plantaciones de cultivo interior ubicadas en Calp y Benissa. Según la Fiscalía, la droga se preparaba y ocultaba en botes de tomate en conserva que se enviaban al Reino Unido como productos alimenticios.\n\nEl Ministerio Fiscal solicita 15 años de prisión para el considerado presunto líder de la organización y ocho años para cada uno de los otros cinco acusados. Las peticiones corresponden a la acusación y deberán ser examinadas durante el procedimiento judicial.\n\nEl caso se encuentra pendiente de juicio. Por tanto, la información describe las acusaciones formuladas por la Fiscalía y no permite afirmar que los procesados sean culpables ni que los hechos hayan quedado probados judicialmente.\n\nLas publicaciones que han recogido el señalamiento coinciden en los elementos esenciales del caso, aunque no se ha localizado una comunicación oficial accesible del Poder Judicial o de la Fiscalía que confirme directamente todos los detalles del juicio y del escrito de acusación.",
+        "category": "SUCESOS",
+        "seo_title": "Juicio a seis acusados por una red de droga en Calp y Benissa",
+        "meta_description": "La Audiencia de Alicante juzga a seis acusados por una presunta red de cultivo y envío de marihuana desde Calp y Benissa al Reino Unido.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_73b023e512544a89",
+        "published_at": null,
+        "source_urls": [
+          "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+          "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+          "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+          "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/"
+        ],
+        "sources": [
+          {
+            "name": "Canfali",
+            "url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Benissa Digital",
+            "url": "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ràdio Litoral",
+            "url": "https://radiolitoral.com/ca/2026/10/transit-droga-benissa-calp-judici-regne-unit/",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_105cae23907cd1a4",
+        "candidate_fingerprint": "274e996ef46abbf720a9f713969d7f654bb7b6497a7f608624f10c85be744e7a",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La información describe acusaciones y un juicio pendiente; no acredita culpabilidad ni que los hechos hayan sido probados judicialmente.",
+            "No se ha localizado una fuente primaria oficial accesible —como una nota del CGPJ, un señalamiento oficial identificable o el escrito de acusación— que permita verificar directamente todos los detalles.",
+            "Varias publicaciones presentan coincidencias muy estrechas en redacción y datos, por lo que podrían proceder total o parcialmente de la misma información de Fiscalía o de una agencia; la corroboración es suficiente para los hechos esenciales del señalamiento, pero no plenamente independiente para cada detalle.",
+            "La fecha de referencia de la investigación es el 12 de octubre de 2026; el juicio estaba anunciado para el día siguiente, 13 de octubre de 2026."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_73b023e512544a89",
+          "quality_gate_evaluated_at": "2026-10-12T17:58:19.225Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
   "quarantined": []
 }

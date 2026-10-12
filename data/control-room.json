@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-12T07:24:08.939Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-12T07:24:08.741Z",
+  "generated_at": "2026-10-12T17:58:32.381Z",
+  "overall_status": "ATENCIÓN",
+  "last_activity": "2026-10-12T17:58:32.142Z",
   "newspaper": {
-    "archive_total": 79,
-    "published_today": 1,
+    "archive_total": 80,
+    "published_today": 2,
     "published_last_7_days": 21,
     "categories": {
-      "SUCESOS": 9,
+      "SUCESOS": 10,
       "POLITICA": 5,
       "CULTURA": 6,
       "ECONOMIA": 10,
@@ -21,6 +21,13 @@
       "DEPORTES": 3
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_cf055a5217e5a2e6",
+        "title": "Seis acusados afrontan mañana en Alicante un juicio por una presunta red de marihuana vinculada a Calp y Benissa",
+        "category": "SUCESOS",
+        "slug": "juicio-seis-acusados-red-droga-calp-benissa",
+        "published_at": "2026-10-12T17:58:10.386Z"
+      },
       {
         "archive_id": "arc_650888f6fc686a9a",
         "title": "La criminalidad registrada baja un 11,7% en Calp durante el primer semestre de 2026",
@@ -69,23 +76,16 @@
         "category": "SOCIEDAD",
         "slug": "calp-programa-diez-talleres-sasem-control-estres",
         "published_at": "2026-10-08T22:06:32.622Z"
-      },
-      {
-        "archive_id": "arc_dfd6f5008faaf56a",
-        "title": "César Sánchez dirigirá la campaña del PPCV para las elecciones generales del 29 de noviembre",
-        "category": "POLITICA",
-        "slug": "cesar-sanchez-dirigira-campana-ppcv-elecciones-generales-29-noviembre",
-        "published_at": "2026-10-08T16:31:52.453Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -97,9 +97,11 @@
     "send_backlog": false
   },
   "safety": {
-    "status": "PASS",
-    "blocking_issues": [],
-    "npm_high": 0,
+    "status": "FAIL",
+    "blocking_issues": [
+      "HIGH_OR_CRITICAL_NPM_VULNERABILITY"
+    ],
+    "npm_high": 1,
     "npm_critical": 0
   },
   "quarantine": []
