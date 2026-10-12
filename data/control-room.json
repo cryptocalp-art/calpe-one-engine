@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-11T20:20:21.277Z",
-  "overall_status": "OPERATIVO",
-  "last_activity": "2026-10-11T20:20:21.086Z",
+  "generated_at": "2026-10-12T00:35:17.439Z",
+  "overall_status": "OPERATIVO CON AVISOS",
+  "last_activity": "2026-10-12T00:35:17.301Z",
   "newspaper": {
-    "archive_total": 78,
-    "published_today": 2,
-    "published_last_7_days": 20,
+    "archive_total": 79,
+    "published_today": 1,
+    "published_last_7_days": 21,
     "categories": {
-      "SUCESOS": 8,
+      "SUCESOS": 9,
       "POLITICA": 5,
       "CULTURA": 6,
       "ECONOMIA": 10,
@@ -21,6 +21,13 @@
       "DEPORTES": 3
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_650888f6fc686a9a",
+        "title": "La criminalidad registrada baja un 11,7% en Calp durante el primer semestre de 2026",
+        "category": "SUCESOS",
+        "slug": "criminalidad-baja-calp-primer-semestre-2026",
+        "published_at": "2026-10-12T00:34:57.618Z"
+      },
       {
         "archive_id": "arc_a2fc9d6c8ef32efa",
         "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
@@ -69,22 +76,15 @@
         "category": "POLITICA",
         "slug": "cesar-sanchez-dirigira-campana-ppcv-elecciones-generales-29-noviembre",
         "published_at": "2026-10-08T16:31:52.453Z"
-      },
-      {
-        "archive_id": "arc_e8bf3d26807d458c",
-        "title": "El programa Punt Nàutic orientará a más de 1.000 estudiantes de la Marina Alta",
-        "category": "ECONOMIA",
-        "slug": "punt-nautic-orientara-mas-de-1000-estudiantes-marina-alta",
-        "published_at": "2026-10-08T16:31:52.453Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 1,
+    "drafts": 2,
     "eligible": 1,
-    "quarantined": 0,
+    "quarantined": 1,
     "archive_added": 1
   },
   "delivery": {
@@ -102,5 +102,15 @@
     "npm_high": 0,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_dfd587724e906882",
+      "slug": "juicio-seis-acusados-red-droga-calp-benissa",
+      "category": "SUCESOS",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-12T00:35:10.596Z"
+    }
+  ]
 }

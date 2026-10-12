@@ -1,128 +1,137 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-11T20:19:29.244Z",
+  "generated_at": "2026-10-12T00:34:15.658Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "259ef6209f06286568374980ca1ae8c23574afe52f760d7940c5e2b817cc8057",
-      "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
+      "candidate_fingerprint": "0fccbc8f7742e8ad20a83c3d7a0d4292d5ddb637be95a95106977a2031cc3e5d",
+      "title": "La criminalidad cae un 11,7% en Calp durante el primer semestre de 2026",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "Los hechos esenciales están corroborados por varias informaciones independientes publicadas el 11 de octubre de 2026, todas atribuidas al Consorcio Provincial de Bomberos de Alicante: un escalador sufrió una caída durante el ascenso al Peñón de Ifach, padeció una fractura abierta en una pierna y fue evacuado por el Grupo de Rescate y el helicóptero MV9 hasta los servicios sanitarios. El aviso se recibió a las 12:35 y la intervención finalizó alrededor de las 14:00.",
+      "summary": "El Balance de Criminalidad del Ministerio del Interior para enero-junio de 2026 confirma que Calp registró 847 infracciones penales, frente a 959 en el mismo periodo de 2025, lo que supone una reducción del 11,7%. La fuente oficial también desglosa la evolución por tipos delictivos. La comparación periodística con Dénia y Xàbia es coherente con los datos oficiales, aunque la afirmación de que Calp fue el municipio alicantino con mayor descenso no queda demostrada de forma exhaustiva para todos los municipios de la provincia en las fuentes consultadas.",
       "claims": [
         {
-          "claim": "Un escalador sufrió una caída durante el ascenso al Peñón de Ifach, en Calp.",
+          "claim": "Calp registró 847 infracciones penales entre enero y junio de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El herido presentaba una fractura abierta en una pierna.",
+          "claim": "Calp registró 959 infracciones penales entre enero y junio de 2025.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Intervinieron el Grupo de Rescate y el helicóptero de rescate MV9 del Consorcio Provincial de Bomberos de Alicante.",
+          "claim": "La variación interanual fue del -11,7%.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El herido fue evacuado y trasladado a los servicios sanitarios.",
+          "claim": "La criminalidad convencional bajó de 820 a 743 infracciones y la cibercriminalidad de 139 a 104.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El aviso se recibió a las 12:35 y la intervención terminó aproximadamente a las 14:00.",
+          "claim": "Calp fue el municipio de Alicante que más redujo la criminalidad entre las localidades analizadas.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Dénia bajó un 3,8% y Xàbia subió un 7,3% en el mismo periodo.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Consorcio Provincial de Bomberos de Alicante, citado por Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-rescatan-helicoptero-senderista-caer-ascenso-penon-ifach-calp-20261011162123.html",
-          "evidence": "Europa Press informa, atribuyéndolo al Consorcio Provincial de Bomberos de Alicante, de la caída de un escalador en el Peñón de Ifach, la fractura abierta en una pierna, la activación del grupo de rescate y del helicóptero, el traslado a los servicios sanitarios y el operativo entre las 12:35 y las 14:00.",
+          "source_name": "Ministerio del Interior",
+          "source_url": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/Balance-de-Criminalidad-Segundo-Trimestre-2026.pdf",
+          "evidence": "El Balance oficial, en la ficha de Calp correspondiente al acumulado enero-junio, registra 959 infracciones penales en 2025 y 847 en 2026, con una variación del -11,7%. También recoge 820 y 743 infracciones de criminalidad convencional, y 139 y 104 de cibercriminalidad, respectivamente.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Cadena SER / EFE",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/11/rescatan-a-un-escalador-con-una-fractura-abierta-en-una-pierna-en-el-penon-de-ifach-de-calpe-radio-alicante/",
-          "evidence": "La información de EFE publicada por Cadena SER confirma la caída durante el ascenso, la fractura abierta, la movilización inicial de bomberos de Dénia, la intervención del Grupo de Rescate y del helicóptero MV9, y el traslado del herido a los servicios sanitarios.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Alta / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/11/rescatado-en-helicoptero-un-escalador-tras-sufrir-una-caida-en-el-penon-de-ifach/",
-          "evidence": "La publicación confirma el accidente en el Peñón de Ifach, la fractura abierta, la dificultad del terreno, la activación del Grupo de Rescate y del helicóptero MV9, la extracción aérea y la finalización de la intervención alrededor de las 14:00.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Diario de Alicante",
-          "source_url": "https://diariodealicante.net/rescatan-a-un-escalador-con-una-fractura-abierta-en-el-penon-de-ifach-en-calp/",
-          "evidence": "La noticia recoge que el escalador sufrió una fractura abierta tras una caída, que el aviso llegó a las 12:35, que fueron activados el Grupo de Rescate y el helicóptero MV9, y que el herido fue trasladado a los servicios sanitarios.",
+          "source_name": "La Marina Times",
+          "source_url": "https://lamarinatimes.com/es/sucesos/la-criminalidad-baja-en-calp-y-denia-y-sube-en-xabia-en-el-primer-semestre-de-2026",
+          "evidence": "La publicación reproduce la comparación entre Calp, Dénia y Xàbia y atribuye los datos al Balance de Criminalidad del Ministerio del Interior. Señala para Calp 847 infracciones frente a 959, un descenso del 11,7%; para Dénia, un descenso del 3,8%; y para Xàbia, un aumento del 7,3%.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las informaciones periodísticas atribuyen los datos al Consorcio Provincial de Bomberos; no se localizó durante la búsqueda una página oficial directamente accesible del Consorcio con el comunicado original.",
-        "Algunas fuentes utilizan indistintamente los términos escalador y senderista, pero coinciden en los hechos esenciales del rescate."
+        "Las cifras oficiales tienen carácter provisional y están pendientes de consolidación, según el propio Ministerio del Interior.",
+        "La afirmación de liderazgo de Calp frente a todas las localidades alicantinas no ha sido comprobada mediante una comparación completa de todos los municipios de la provincia.",
+        "La reducción de infracciones registradas no equivale necesariamente a una reducción idéntica de la delincuencia real, ya que depende de denuncias y actividad policial."
       ],
-      "id": "inv_5437c48d1716a144",
-      "investigated_at": "2026-10-11T20:19:29.244Z",
+      "id": "inv_2724a09f41c2247a",
+      "investigated_at": "2026-10-12T00:34:15.658Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "5a0a026de9d35b216bef08158a8cc497cada09a4b91579a5f775687635180416",
-      "title": "Seis acusados afrontan juicio por una trama que cultivaba marihuana en Calp para abastecer al Reino Unido",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "7bdc2093631aa86f4ed69d4a74ea60fa27eec72871283e5dad9215bbd371071c",
+      "title": "La Audiencia de Alicante juzga a seis personas por una red de marihuana con plantaciones en Calp y Benissa",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La existencia del señalamiento judicial y el contenido general de la acusación aparecen recogidos por Canfali y Calp Digital: seis personas serían juzgadas el 13 de octubre de 2026 por una presunta organización dedicada al cultivo y distribución de marihuana y hachís hacia el Reino Unido, con plantaciones interiores situadas por la Fiscalía en Calp y Benissa y peticiones de pena de hasta 15 años. Sin embargo, no se localizó una fuente primaria oficial de la Audiencia Provincial, del Consejo General del Poder Judicial o de la Fiscalía que permita corroborar de forma independiente el señalamiento, el número de acusados y el detalle de las penas. Las dos informaciones locales podrían proceder del mismo material de acusación o de una comunicación común.",
+      "publishable": true,
+      "summary": "La celebración del juicio contra seis personas en la Audiencia Provincial de Alicante y el contenido esencial de la acusación fiscal están corroborados por varias publicaciones locales independientes entre sí. Las fuentes coinciden en que la Fiscalía atribuye a los procesados una organización dedicada al cultivo o adquisición de marihuana y hachís en plantaciones interiores de Calp y Benissa, con presuntos envíos al Reino Unido ocultos en botes de tomate o conserva. También coinciden en la petición de 15 años para el supuesto líder y ocho años para cada uno de los otros cinco acusados. Se trata de alegaciones sometidas a juicio, no de hechos judicialmente probados.",
       "claims": [
         {
-          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 13 de octubre de 2026 un juicio contra seis personas.",
+          "claim": "La Audiencia Provincial de Alicante juzga a seis personas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía acusa a los seis procesados de integrar una organización dedicada al cultivo, adquisición y distribución de marihuana y hachís con destino al Reino Unido.",
+          "claim": "La Fiscalía acusa a los procesados de integrar una organización dedicada al tráfico de marihuana y hachís.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía sitúa plantaciones interiores en Calp y Benissa, relacionadas con hechos de 2016.",
+          "claim": "La acusación sitúa plantaciones interiores en Calp y Benissa.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La droga habría sido camuflada en botes de tomate enviados como productos alimenticios.",
+          "claim": "La droga habría sido enviada al Reino Unido oculta en botes de tomate o conserva presentados como alimentos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía solicita penas de entre ocho y 15 años de prisión, con 15 años para un acusado y ocho para cada uno de los otros cinco.",
+          "claim": "La Fiscalía solicita 15 años de prisión para el supuesto líder.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La acusación y el señalamiento han sido corroborados por una fuente primaria u otra fuente independiente no vinculada al mismo material periodístico.",
-          "status": "UNVERIFIED"
+          "claim": "La Fiscalía solicita ocho años de prisión para cada uno de los otros cinco procesados.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los hechos ya han sido probados judicialmente.",
+          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
-          "evidence": "Canfali informa de un juicio señalado para el 13 de octubre de 2026 contra seis personas en la Audiencia Provincial de Alicante. Atribuye a la Fiscalía la acusación de cultivo y distribución de marihuana y hachís hacia el Reino Unido, la existencia de plantaciones interiores en Benissa y Calp, el uso de botes de tomate y peticiones de ocho y 15 años de prisión.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12389/juicio-trafico-droga-calp-marihuana-reino-unido",
+          "evidence": "Informa de que seis personas serán juzgadas en la Audiencia Provincial de Alicante por su presunta participación en una organización dedicada al tráfico de marihuana y hachís hacia el Reino Unido. Sitúa plantaciones interiores en Calp y Benissa, describe el presunto ocultamiento en botes de tomate y recoge peticiones fiscales de entre ocho y 15 años.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12389/juicio-trafico-droga-calp-marihuana-reino-unido",
-          "evidence": "Calp Digital recoge que seis personas serían juzgadas el 13 de octubre en la Audiencia Provincial de Alicante. Según su resumen de la acusación fiscal, el grupo habría operado con plantaciones interiores en Calp y Benissa, enviado marihuana y hachís al Reino Unido y ocultado la droga en botes de tomate; también señala peticiones de ocho a 15 años de prisión.",
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/benissa-calp-juicio-envio-droga-reino-unido/",
+          "evidence": "Informa de un juicio iniciado o señalado para el 13 de octubre de 2026 contra seis personas. Resume la acusación fiscal sobre plantaciones de interior en Benissa y Calp, el supuesto envío de droga al Reino Unido en botes de tomate y las penas solicitadas: 15 años para uno de los acusados y ocho para cada uno de los otros cinco.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Benissa Digital",
+          "source_url": "https://benissadigital.es/art/15174/juicio-red-droga-benissa-reino-unido-botes-tomate",
+          "evidence": "Coincide en el número de acusados, la intervención de la Fiscalía, la localización de plantaciones en Benissa y Calp, el uso presunto de botes de tomate para ocultar la droga y las penas solicitadas de 15 y ocho años.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/11/juzgan-banda-enviaban-droga-reino-unido-botes-tomates-plantados-calp-benissa",
+          "evidence": "La noticia original describe el juicio contra seis personas, la acusación por cultivo y compra de marihuana y hachís, las plantaciones interiores en Calp y Benissa, el ocultamiento en botes de tomate en conserva y las penas solicitadas por la Fiscalía.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se encontró una resolución, agenda oficial de vistas, nota de la Fiscalía ni comunicación del CGPJ que confirme directamente el señalamiento y sus detalles.",
-        "Las dos fuentes localizadas son medios locales y presentan una estructura y unos datos muy similares; no puede descartarse que se basen en la misma documentación o comunicación.",
-        "Se trata de acusaciones pendientes de juicio, no de hechos judicialmente probados. La redacción publicable debe mantener en todo momento el carácter presunto de los hechos.",
-        "El juicio estaba anunciado para el 13 de octubre de 2026, fecha posterior a la fecha de investigación: 11 de octubre de 2026."
+        "No se localizó una nota oficial del Tribunal Superior de Justicia de la Comunitat Valenciana, de la Fiscalía o de la Audiencia Provincial que reproduzca íntegramente estos detalles.",
+        "Todas las informaciones se refieren a la versión de la Fiscalía y a un juicio en curso; la responsabilidad penal de los acusados no está establecida.",
+        "La fecha de los hechos se sitúa en 2016, aunque el juicio se celebra en octubre de 2026.",
+        "La corroboración disponible procede de medios locales que podrían haber utilizado la misma agenda judicial o el mismo escrito de acusación; por tanto, la independencia de las fuentes no es absoluta."
       ],
-      "id": "inv_ee0b6fd26c58d21d",
-      "investigated_at": "2026-10-11T20:19:29.244Z",
+      "id": "inv_e01f113c85355d95",
+      "investigated_at": "2026-10-12T00:34:15.658Z",
       "model": "gpt-5.6-luna"
     }
   ]

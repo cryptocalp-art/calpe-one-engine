@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-11T20:20:09.529Z",
+  "generated_at": "2026-10-12T00:35:10.596Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,20 +21,22 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
+  "drafts_seen": 2,
   "eligible_count": 1,
-  "quarantined_count": 0,
+  "quarantined_count": 1,
   "decisions": [
     {
-      "gate_id": "qg_12935e76948961f3",
-      "draft_id": "drf_1f3a09f478d7aceb",
-      "investigation_id": "inv_5437c48d1716a144",
-      "candidate_fingerprint": "259ef6209f06286568374980ca1ae8c23574afe52f760d7940c5e2b817cc8057",
-      "slug": "rescatan-escalador-herido-penon-ifach",
+      "gate_id": "qg_fa237a9ea5db2d20",
+      "draft_id": "drf_7e52891d47b7eb42",
+      "investigation_id": "inv_2724a09f41c2247a",
+      "candidate_fingerprint": "0fccbc8f7742e8ad20a83c3d7a0d4292d5ddb637be95a95106977a2031cc3e5d",
+      "slug": "criminalidad-baja-calp-primer-semestre-2026",
       "category": "SUCESOS",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
@@ -43,10 +45,51 @@
         "confidence_sufficient": true,
         "supported_claim_count": 5,
         "contradicted_claim_count": 0,
+        "unverified_claim_count": 1,
+        "evidence_count": 2,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 1,
+        "distinct_evidence_urls": 2,
+        "distinct_evidence_hosts": 2,
+        "institutional_or_political": false,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 219
+      },
+      "evaluated_at": "2026-10-12T00:35:10.596Z",
+      "engine_version": "quality-gate-v1"
+    },
+    {
+      "gate_id": "qg_532fb7a55c5a140a",
+      "draft_id": "drf_dfd587724e906882",
+      "investigation_id": "inv_e01f113c85355d95",
+      "candidate_fingerprint": "7bdc2093631aa86f4ed69d4a74ea60fa27eec72871283e5dad9215bbd371071c",
+      "slug": "juicio-seis-acusados-red-droga-calp-benissa",
+      "category": "SUCESOS",
+      "status": "QUARANTINED",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "warnings": [],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 6,
+        "contradicted_claim_count": 1,
         "unverified_claim_count": 0,
         "evidence_count": 4,
-        "primary_evidence_count": 1,
-        "secondary_evidence_count": 3,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 4,
         "distinct_evidence_urls": 4,
         "distinct_evidence_hosts": 4,
         "institutional_or_political": false,
@@ -59,9 +102,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 198
+        "body_word_count": 239
       },
-      "evaluated_at": "2026-10-11T20:20:09.529Z",
+      "evaluated_at": "2026-10-12T00:35:10.596Z",
       "engine_version": "quality-gate-v1"
     }
   ]

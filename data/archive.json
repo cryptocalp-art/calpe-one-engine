@@ -3,9 +3,67 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-11T20:20:09.853Z",
-  "count": 78,
+  "updated_at": "2026-10-12T00:35:10.826Z",
+  "count": 79,
   "articles": [
+    {
+      "archive_id": "arc_650888f6fc686a9a",
+      "external_id": "drf_7e52891d47b7eb42",
+      "investigation_id": "inv_2724a09f41c2247a",
+      "candidate_fingerprints": [
+        "0fccbc8f7742e8ad20a83c3d7a0d4292d5ddb637be95a95106977a2031cc3e5d"
+      ],
+      "title": "La criminalidad registrada baja un 11,7% en Calp durante el primer semestre de 2026",
+      "slug": "criminalidad-baja-calp-primer-semestre-2026",
+      "summary": "Calp registró 847 infracciones penales entre enero y junio de 2026, frente a las 959 contabilizadas en el mismo periodo de 2025. La cifra supone una variación interanual del -11,7%, de acuerdo con el Balance de Criminalidad del Ministerio del Interior.",
+      "body": "Calp registró 847 infracciones penales durante el primer semestre de 2026, según los datos acumulados entre enero y junio incluidos en el Balance de Criminalidad del Ministerio del Interior. En el mismo periodo de 2025 se habían contabilizado 959 infracciones, por lo que la variación interanual fue del -11,7%.\n\nEl balance también diferencia entre criminalidad convencional y cibercriminalidad. En el primer caso, los registros pasaron de 820 infracciones en 2025 a 743 en 2026. En cuanto a los delitos relacionados con la cibercriminalidad, la cifra descendió de 139 a 104.\n\nLa evolución de Calp contrasta con la registrada en otros dos municipios de la Marina Alta incluidos en la comparación. Dénia anotó un descenso del 3,8%, mientras que Xàbia registró un aumento del 7,3% durante el mismo periodo.\n\nLas cifras publicadas por el Ministerio tienen carácter provisional y están pendientes de consolidación. Además, el descenso de las infracciones registradas no equivale necesariamente a una reducción idéntica de la delincuencia real, ya que los datos dependen, entre otros factores, de las denuncias presentadas y de la actividad policial.\n\nEl balance permite conocer la evolución de los hechos registrados, pero los datos disponibles no acreditan que Calp sea el municipio de la provincia de Alicante con una mayor reducción, al no haberse realizado una comparación completa con todas las localidades alicantinas.",
+      "category": "SUCESOS",
+      "seo_title": "La criminalidad baja un 11,7% en Calp en 2026",
+      "meta_description": "Calp registró 847 infracciones penales entre enero y junio de 2026, un 11,7% menos que en el mismo periodo de 2025, según Interior.",
+      "sources": [
+        {
+          "name": "Ministerio del Interior",
+          "url": "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/Balance-de-Criminalidad-Segundo-Trimestre-2026.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Times",
+          "url": "https://lamarinatimes.com/es/sucesos/la-criminalidad-baja-en-calp-y-denia-y-sube-en-xabia-en-el-primer-semestre-de-2026",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.interior.gob.es/opencms/export/sites/default/.galleries/galeria-de-prensa/documentos-y-multimedia/balances-e-informes/2026/Balance-de-Criminalidad-Segundo-Trimestre-2026.pdf",
+        "https://lamarinatimes.com/es/sucesos/la-criminalidad-baja-en-calp-y-denia-y-sube-en-xabia-en-el-primer-semestre-de-2026"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 2,
+        "caveats": [
+          "Las cifras oficiales tienen carácter provisional y están pendientes de consolidación, según el propio Ministerio del Interior.",
+          "La afirmación de liderazgo de Calp frente a todas las localidades alicantinas no ha sido comprobada mediante una comparación completa de todos los municipios de la provincia.",
+          "La reducción de infracciones registradas no equivale necesariamente a una reducción idéntica de la delincuencia real, ya que depende de denuncias y actividad policial."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_fa237a9ea5db2d20",
+        "quality_gate_evaluated_at": "2026-10-12T00:35:10.596Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "Las cifras del Ministerio del Interior son provisionales y están pendientes de consolidación.",
+        "No afirmar que Calp lidera la reducción en la provincia de Alicante: esa comparación no está acreditada de forma exhaustiva.",
+        "Mantener la precisión de que se trata de infracciones registradas y no de una medición directa de la delincuencia real."
+      ],
+      "published_at": "2026-10-12T00:34:57.618Z",
+      "updated_at": "2026-10-12T00:35:10.826Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_a2fc9d6c8ef32efa",
       "external_id": "drf_1f3a09f478d7aceb",
