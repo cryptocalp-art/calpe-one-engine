@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "PRODUCTION_SAFETY",
   "version": "production-safety-v1",
-  "generated_at": "2026-10-05T11:45:44.948Z",
-  "status": "PASS",
-  "ready_for_meta_activation": true,
+  "generated_at": "2026-10-12T12:22:47.932Z",
+  "status": "FAIL",
+  "ready_for_meta_activation": false,
   "policy": {
     "blocks_high_or_critical_dependency_vulnerabilities": true,
     "minimum_sharp_version": "0.35.4",
@@ -15,7 +15,9 @@
     "requires_no_tracked_env_files": true,
     "activates_meta_automatically": false
   },
-  "blocking_issues": [],
+  "blocking_issues": [
+    "HIGH_OR_CRITICAL_NPM_VULNERABILITY"
+  ],
   "checks": {
     "package_private": true,
     "package_lock_present": true,
@@ -25,17 +27,25 @@
     "sharp_declared_safe": true,
     "sharp_locked_safe": true,
     "npm_audit": {
-      "ok": true,
-      "exit_code": 0,
+      "ok": false,
+      "exit_code": 1,
       "counts": {
         "info": 0,
         "low": 0,
         "moderate": 0,
-        "high": 0,
+        "high": 1,
         "critical": 0,
-        "total": 0
+        "total": 1
       },
-      "blocking_vulnerabilities": []
+      "blocking_vulnerabilities": [
+        {
+          "name": "sharp",
+          "severity": "high",
+          "direct": true,
+          "range": "<0.35.5",
+          "fix_available": true
+        }
+      ]
     },
     "no_tracked_environment_files": {
       "ok": true,
