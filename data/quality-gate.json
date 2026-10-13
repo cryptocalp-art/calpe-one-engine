@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-13T00:43:25.602Z",
+  "generated_at": "2026-10-13T07:45:20.550Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,8 +21,48 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 0,
-  "eligible_count": 0,
+  "drafts_seen": 1,
+  "eligible_count": 1,
   "quarantined_count": 0,
-  "decisions": []
+  "decisions": [
+    {
+      "gate_id": "qg_8dcfd7c3dfc307b9",
+      "draft_id": "drf_ae5205f85d6ba3dc",
+      "investigation_id": "inv_27c623989d24421c",
+      "candidate_fingerprint": "da9c62fb9d7fb818da0b8e797b6389e2b76311580c4fff1fad8e7e5121c94f93",
+      "slug": "jeffertje-3-real-club-nautico-calpe-gana-jornadas-nauticas-pitiusas",
+      "category": "DEPORTES",
+      "status": "ELIGIBLE",
+      "reasons": [],
+      "warnings": [],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 8,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 0,
+        "evidence_count": 3,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 3,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": false,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 256
+      },
+      "evaluated_at": "2026-10-13T07:45:20.550Z",
+      "engine_version": "quality-gate-v1"
+    }
+  ]
 }

@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-13T00:43:30.981Z",
+  "generated_at": "2026-10-13T07:45:29.487Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-13T00:43:30.852Z",
+  "last_activity": "2026-10-13T07:45:29.328Z",
   "newspaper": {
-    "archive_total": 80,
-    "published_today": 0,
-    "published_last_7_days": 20,
+    "archive_total": 81,
+    "published_today": 1,
+    "published_last_7_days": 19,
     "categories": {
+      "DEPORTES": 4,
       "SUCESOS": 10,
       "POLITICA": 5,
       "CULTURA": 6,
@@ -17,10 +18,16 @@
       "SOCIEDAD": 12,
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
-      "TURISMO": 8,
-      "DEPORTES": 3
+      "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_2be734e4f3841aab",
+        "title": "El Jeffertje 3 del Real Club Náutico Calpe gana las XXXVII Jornadas Náuticas Pitiusas",
+        "category": "DEPORTES",
+        "slug": "jeffertje-3-real-club-nautico-calpe-gana-jornadas-nauticas-pitiusas",
+        "published_at": "2026-10-13T07:45:09.971Z"
+      },
       {
         "archive_id": "arc_cf055a5217e5a2e6",
         "title": "Seis acusados afrontan mañana en Alicante un juicio por una presunta red de marihuana vinculada a Calp y Benissa",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "huelga-general-11-noviembre-vivienda-salarios-marina-alta",
         "published_at": "2026-10-09T02:12:43.339Z"
-      },
-      {
-        "archive_id": "arc_2c3ad78781155e4e",
-        "title": "Calp programa diez sesiones para abordar el control del estrés desde el SASEM",
-        "category": "SOCIEDAD",
-        "slug": "calp-programa-diez-talleres-sasem-control-estres",
-        "published_at": "2026-10-08T22:06:32.622Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

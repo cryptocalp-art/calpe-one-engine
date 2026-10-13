@@ -3,9 +3,70 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-12T17:58:19.632Z",
-  "count": 80,
+  "updated_at": "2026-10-13T07:45:20.807Z",
+  "count": 81,
   "articles": [
+    {
+      "archive_id": "arc_2be734e4f3841aab",
+      "external_id": "drf_ae5205f85d6ba3dc",
+      "investigation_id": "inv_27c623989d24421c",
+      "candidate_fingerprints": [
+        "da9c62fb9d7fb818da0b8e797b6389e2b76311580c4fff1fad8e7e5121c94f93"
+      ],
+      "title": "El Jeffertje 3 del Real Club Náutico Calpe gana las XXXVII Jornadas Náuticas Pitiusas",
+      "slug": "jeffertje-3-real-club-nautico-calpe-gana-jornadas-nauticas-pitiusas",
+      "summary": "El Jeffertje 3, embarcación del Real Club Náutico Calpe, se proclamó vencedor de la clasificación absoluta de las XXXVII Jornadas Náuticas Pitiusas, disputadas en aguas de Ibiza y Formentera. El barco, un Swan 45 patroneado por Carl Bal, finalizó con 8 puntos, empatado con el KIM, pero ocupó la primera posición tras aplicar el sistema de desempate.",
+      "body": "El Jeffertje 3, del Real Club Náutico Calpe, logró la victoria absoluta en las XXXVII Jornadas Náuticas Pitiusas, una competición organizada por el Club Náutico Ibiza y disputada en aguas de Ibiza y Formentera. El barco calpino terminó la regata con 8 puntos, los mismos que el KIM, aunque quedó por delante en la clasificación final gracias al sistema de desempate.\n\nLa embarcación es un Swan 45 y estuvo patroneada por Carl Bal. Además de la primera posición absoluta, el Jeffertje 3 ganó el Grupo A, según las informaciones publicadas por Periódico de Ibiza y Formentera y Noudiari.\n\nLa regata reunió a 31 embarcaciones. La competición concluyó con tres pruebas puntuables después de que una de las jornadas tuviera que suspenderse por la falta de viento. La clasificación absoluta se resolvió, por tanto, con esas tres pruebas disputadas.\n\nLa victoria del barco del Real Club Náutico Calpe fue comunicada por dos medios locales, que coinciden en los principales datos del resultado: el triunfo absoluto, los 8 puntos, el empate con el KIM, la victoria en el Grupo A y la participación de 31 embarcaciones. La posición por delante del KIM responde al desempate aplicado entre ambos barcos.\n\nNo consta en el expediente una clasificación final publicada directamente por el Club Náutico Ibiza, el Real Club Náutico Calpe, la Real Federación Española de Vela o la autoridad federativa correspondiente. Además, las informaciones periodísticas consultadas presentan una redacción muy similar, por lo que la corroboración disponible es coincidente entre medios, pero no equivale a una confirmación primaria independiente.",
+      "category": "DEPORTES",
+      "seo_title": "El Jeffertje 3 del RC Náutico Calpe gana en Ibiza",
+      "meta_description": "El Jeffertje 3 del Real Club Náutico Calpe gana las XXXVII Jornadas Náuticas Pitiusas con 8 puntos y vence también en el Grupo A.",
+      "sources": [
+        {
+          "name": "Periódico de Ibiza y Formentera",
+          "url": "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/10/13/2727529/jeffertje-proclama-vencedor-absoluto-xxxvii-jornadas-nauticas-pitiusas.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Noudiari",
+          "url": "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/jeffertje-3-gana-la-regata-jornadas-nauticas-pitiusas/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12392/jeffertje-3-real-club-nautico-calpe-gana-jornadas-nauticas-pitiusas",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/10/13/2727529/jeffertje-proclama-vencedor-absoluto-xxxvii-jornadas-nauticas-pitiusas.html",
+        "https://www.noudiari.es/noticias-ibiza-formentera-sidebar/jeffertje-3-gana-la-regata-jornadas-nauticas-pitiusas",
+        "https://calpdigital.es/art/12392/jeffertje-3-real-club-nautico-calpe-gana-jornadas-nauticas-pitiusas"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 8,
+        "evidence_count": 3,
+        "caveats": [
+          "No se ha encontrado durante la búsqueda una clasificación final o comunicado directamente publicado por el Club Náutico Ibiza, el Real Club Náutico Calpe, la Real Federación Española de Vela o la autoridad federativa correspondiente.",
+          "Las informaciones de Periódico de Ibiza y Noudiari presentan una redacción muy similar y podrían proceder de una misma nota informativa; por ello se consideran corroboración periodística coincidente, pero no una confirmación primaria independiente.",
+          "La posición absoluta frente al KIM se explica por el desempate, ya que ambas embarcaciones terminaron con 8 puntos."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_8dcfd7c3dfc307b9",
+        "quality_gate_evaluated_at": "2026-10-13T07:45:20.550Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La información tiene confianza MEDIA: no se ha localizado una clasificación final o comunicado de un organismo náutico oficial.",
+        "Las dos informaciones periodísticas disponibles podrían proceder de una misma nota informativa; conviene mantener la atribución y evitar presentar la comprobación como confirmación primaria independiente."
+      ],
+      "published_at": "2026-10-13T07:45:09.971Z",
+      "updated_at": "2026-10-13T07:45:20.807Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_cf055a5217e5a2e6",
       "external_id": "drf_791b93093b2326eb",
