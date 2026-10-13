@@ -3,9 +3,67 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-13T07:45:20.807Z",
-  "count": 81,
+  "updated_at": "2026-10-13T16:02:42.935Z",
+  "count": 82,
   "articles": [
+    {
+      "archive_id": "arc_baa762cc08d80b44",
+      "external_id": "drf_30fa0e5f4d8a6272",
+      "investigation_id": "inv_c768b12ae4044bc7",
+      "candidate_fingerprints": [
+        "6dce28f41cb2b821e3591c614c6b8912ba7fead410f2f06b38ab6f1cb7ba723c"
+      ],
+      "title": "Los electores de Calp pueden consultar el censo para las elecciones del 29 de noviembre",
+      "slug": "consultar-censo-electoral-calp-elecciones-29-noviembre-2026",
+      "summary": "Los electores pueden consultar desde el 12 y hasta el 19 de octubre de 2026, ambos inclusive, sus datos de inscripción en el censo electoral de cara a las elecciones generales del 29 de noviembre. El trámite puede realizarse en los ayuntamientos y en las delegaciones de la Oficina del Censo Electoral, así como por vía telemática a través de la sede electrónica del Instituto Nacional de Estadística.",
+      "body": "El Instituto Nacional de Estadística ha establecido del 12 al 19 de octubre de 2026, ambos días incluidos, el periodo de consulta del censo electoral para las elecciones a Cortes Generales del 29 de noviembre.\n\nDurante este plazo, los electores pueden comprobar sus datos de inscripción y presentar reclamaciones si detectan errores relacionados con su inclusión o exclusión del censo. La consulta presencial está prevista en los ayuntamientos y en las delegaciones de la Oficina del Censo Electoral.\n\nTambién es posible realizar el trámite por internet mediante la sede electrónica del INE. Para acceder a la consulta telemática es necesario acreditar la identidad mediante Cl@ve u otro sistema de identificación admitido.\n\nEl calendario electoral oficial fija tanto el periodo de consulta como el plazo para formular reclamaciones entre el 12 y el 19 de octubre. Las elecciones generales se celebrarán posteriormente, el domingo 29 de noviembre de 2026.\n\nEn el caso de la consulta presencial, la disponibilidad concreta depende de los servicios habilitados por el Ayuntamiento y por la Oficina del Censo Electoral. La información oficial confirma el procedimiento general, pero no detalla horarios específicos para Calp.",
+      "category": "POLITICA",
+      "seo_title": "Consultar el censo electoral en Calp para el 29 de noviembre",
+      "meta_description": "El censo electoral puede consultarse y reclamarse en Calp del 12 al 19 de octubre ante las elecciones generales del 29 de noviembre.",
+      "sources": [
+        {
+          "name": "Instituto Nacional de Estadística",
+          "url": "https://ine.es/dyngs/Prensa/EG2026.htm",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Instituto Nacional de Estadística, calendario electoral",
+          "url": "https://ine.es/dyngs/CEL/es/index.htm?cid=1702",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12396/los-vecinos-de-calp-ya-pueden-comprobar-sus-datos-para-las-elecciones-generales",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://ine.es/dyngs/Prensa/EG2026.htm",
+        "https://ine.es/dyngs/CEL/es/index.htm?cid=1702",
+        "https://calpdigital.es/art/12396/los-vecinos-de-calp-ya-pueden-comprobar-sus-datos-para-las-elecciones-generales"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La consulta presencial depende de los servicios habilitados por el Ayuntamiento y la Oficina del Censo Electoral; la fuente del INE confirma el procedimiento general, no horarios específicos de Calp."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_0a3ceb1226d812a1",
+        "quality_gate_evaluated_at": "2026-10-13T16:02:42.604Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La fuente oficial no detalla horarios concretos de atención presencial en Calp; conviene comprobar la disponibilidad de los servicios habilitados."
+      ],
+      "published_at": "2026-10-13T16:02:27.868Z",
+      "updated_at": "2026-10-13T16:02:42.935Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_2be734e4f3841aab",
       "external_id": "drf_ae5205f85d6ba3dc",
@@ -2451,7 +2509,8 @@
       "investigation_id": "inv_01cc4fa738242e19",
       "candidate_fingerprints": [
         "909fb7abeb19965112ca8114bee5c574feb67a1488ea0ab7e619eafb74ec955b7",
-        "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1"
+        "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1",
+        "dad33010dbf4cdb48bf91a7a8458a517e121138f82b562211d3880a3dc7425d9"
       ],
       "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
       "slug": "moros-cristianos-calp-reconocimiento-internacional",
@@ -2483,7 +2542,10 @@
         "https://cadenaser.com/comunitat-valenciana/2026/10/01/calp-mira-ya-al-reconocimiento-internacional-de-sus-moros-y-cristianos-tras-lograr-el-distintivo-nacional-radio-denia",
         "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026",
         "https://www.europapress.es/comunitat-valenciana/noticia-ayuntamiento-calp-convoca-concurso-elegir-cartel-anunciador-fiestas-moros-cristianos-20260608124807.html",
-        "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp"
+        "https://morosycristianos.calpe.es/el-miracle-el-corazon-de-la-fiesta-de-moros-y-cristianos-que-cumple-50-anos-en-calp",
+        "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
+        "https://morosycristianos.calpe.es/va",
+        "https://lamarina.eldiario.es/2026/10/13/programacion-fiestas-moros-cristianos-calp-2026-desembarco-entradas"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -2507,7 +2569,7 @@
         "No incluir referencias a visitantes franceses ni a un supuesto pico turístico de octubre, al no estar verificadas."
       ],
       "published_at": "2026-10-01T13:20:30.915Z",
-      "updated_at": "2026-10-07T01:35:12.378Z",
+      "updated_at": "2026-10-13T16:02:42.935Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

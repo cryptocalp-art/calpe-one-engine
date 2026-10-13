@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-13T07:45:29.487Z",
+  "generated_at": "2026-10-13T16:02:52.686Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-13T07:45:29.328Z",
+  "last_activity": "2026-10-13T16:02:52.469Z",
   "newspaper": {
-    "archive_total": 81,
-    "published_today": 1,
+    "archive_total": 82,
+    "published_today": 2,
     "published_last_7_days": 19,
     "categories": {
+      "POLITICA": 6,
       "DEPORTES": 4,
       "SUCESOS": 10,
-      "POLITICA": 5,
       "CULTURA": 6,
       "ECONOMIA": 10,
       "SOCIEDAD": 12,
@@ -21,6 +21,13 @@
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_baa762cc08d80b44",
+        "title": "Los electores de Calp pueden consultar el censo para las elecciones del 29 de noviembre",
+        "category": "POLITICA",
+        "slug": "consultar-censo-electoral-calp-elecciones-29-noviembre-2026",
+        "published_at": "2026-10-13T16:02:27.868Z"
+      },
       {
         "archive_id": "arc_2be734e4f3841aab",
         "title": "El Jeffertje 3 del Real Club Náutico Calpe gana las XXXVII Jornadas Náuticas Pitiusas",
@@ -69,21 +76,14 @@
         "category": "CULTURA",
         "slug": "dia-xiquet-fester-calp-50-aniversario-moros-cristians",
         "published_at": "2026-10-09T16:16:04.272Z"
-      },
-      {
-        "archive_id": "arc_93016c4679341a86",
-        "title": "Convocada una huelga general de 24 horas para el 11 de noviembre por la vivienda y los salarios",
-        "category": "ECONOMIA",
-        "slug": "huelga-general-11-noviembre-vivienda-salarios-marina-alta",
-        "published_at": "2026-10-09T02:12:43.339Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
     "archive_added": 1
   },
