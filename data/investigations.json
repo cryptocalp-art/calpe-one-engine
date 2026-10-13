@@ -1,136 +1,36 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-13T16:01:41.702Z",
+  "generated_at": "2026-10-13T21:17:07.023Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "cdb99801529fa45070be55851af4ffe29f6bd7e8f85cde1a0db7ac1b828b8756",
-      "title": "Calp prepara una rebaja del impuesto de vehículos y de la tasa de basura para 2027",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está respaldada por Calp Digital, que atribuye las medidas al Gobierno local y señala que serán debatidas en el pleno del 13 de octubre de 2026. No se ha localizado una publicación municipal independiente que confirme los porcentajes, el número exacto de vehículos afectados y la aplicación automática de la bonificación. Además, las medidas todavía estaban condicionadas a su aprobación y tramitación posterior.",
-      "claims": [
-        {
-          "claim": "El Gobierno local propone reducir un 25% el impuesto de circulación para 20.310 vehículos.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La tasa de residuos de las viviendas residenciales se reduciría aproximadamente un 18%.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La bonificación del 95% en la plusvalía por herencias se aplicaría de oficio, manteniéndose la obligación de presentar la declaración tributaria.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Las medidas serán debatidas y su aplicación dependerá de la aprobación plenaria y de la tramitación posterior de las ordenanzas.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12394/calp-rebaja-impuesto-vehiculos-tasa-basura-2027",
-          "evidence": "Informa de una propuesta del Gobierno local para modificar el IVTM, la tasa de residuos y la bonificación de plusvalía por herencias. Detalla una reducción del 25% para 20.310 vehículos, una reducción del 18,08% para viviendas residenciales y la aplicación de oficio de una bonificación del 95%. También indica que las medidas debían someterse al pleno y, cuando procediera, a exposición pública y aprobación definitiva.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp, Portal de transparencia",
-          "source_url": "https://calp.es/es/portal-de-transparencia/institucional/ordenes-del-dia-y-actas-plenarias",
-          "evidence": "El Ayuntamiento confirma que publica las órdenes del día y las actas plenarias en su sede electrónica, pero la página consultada no expone el contenido concreto de las modificaciones fiscales anunciadas.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "No se ha localizado una ordenanza modificada, acta plenaria, anuncio de exposición pública o documento municipal que confirme los importes y porcentajes concretos.",
-        "La fuente principal localizada es la misma pieza periodística candidata; la página municipal consultada solo acredita el canal oficial de publicación, no el contenido de estas medidas."
-      ],
-      "id": "inv_50501af2e95b1ce2",
-      "investigated_at": "2026-10-13T16:01:41.702Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "47e083b7e33c08f0a181dc8c57ca7022e48666102dbdcee94eafeb83f72b7b3a",
-      "title": "Calp intenta por tercera vez construir su nueva oficina de turismo, con un coste de 1,3 millones de euros",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La pieza de La Marina Plaza documenta la propuesta de añadir 337.000 euros, el coste estimado de 1,3 millones, las dos licitaciones desiertas y la conservación de la fachada de la calle Llibertat. Fuentes municipales anteriores confirman la existencia del proyecto, su ubicación, la demolición parcial y la conservación de la fachada, pero no corroboran de forma independiente la actualización presupuestaria de 2026 ni la tercera licitación.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento intenta por tercera vez licitar la oficina de turismo inteligente del casco histórico.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El pleno estudiará una modificación de créditos de 337.000 euros para actualizar el proyecto.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El coste total previsto asciende aproximadamente a 1,3 millones de euros.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El proyecto conserva la fachada tradicional de la calle Llibertat y contempla la demolición parcial del inmueble existente.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La planta superior se destinará también a servicios municipales de promoción económica.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-          "evidence": "La noticia afirma que el Ayuntamiento pretende aprobar 337.000 euros adicionales, que el proyecto alcanza 1,3 millones, que dos licitaciones anteriores quedaron desiertas y que se conservará la fachada tradicional de la calle Llibertat. También describe el uso turístico de la planta inferior y la previsión de ubicar servicios municipales de promoción económica en la superior.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp, Agenda Urbana-Calp",
-          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
-          "evidence": "El documento municipal identifica el proyecto de una oficina turística del siglo XXI en el casco histórico, contempla la demolición parcial de una edificación y establece la conservación de la fachada de la calle Llibertat. El documento consultado recoge un presupuesto de 860.000 euros y un proyecto básico y de ejecución aprobado en mayo de 2024, no la cifra actual de 1,3 millones.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp, Portal de transparencia",
-          "source_url": "https://calp.es/es/portal-de-transparencia/institucional/ordenes-del-dia-y-actas-plenarias",
-          "evidence": "El Ayuntamiento señala que las órdenes del día y actas plenarias se publican en su sede electrónica, pero la página consultada no permite verificar el expediente concreto de la modificación de créditos de 337.000 euros.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "Existe una diferencia entre el presupuesto de 860.000 euros recogido en el documento municipal de planificación y los 1,3 millones citados por La Marina Plaza; la actualización presupuestaria no ha sido localizada en una fuente primaria.",
-        "La conservación de la fachada sí está documentada oficialmente, pero el número de licitaciones fallidas, la modificación de créditos y el destino exacto de las plantas requieren el expediente municipal o el acta del pleno."
-      ],
-      "id": "inv_511ca4bc5731000f",
-      "investigated_at": "2026-10-13T16:01:41.702Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "dad33010dbf4cdb48bf91a7a8458a517e121138f82b562211d3880a3dc7425d9",
-      "title": "Calp celebrará sus Fiestas de Moros y Cristianos del 21 al 26 de octubre",
+      "candidate_fingerprint": "f6412cbbe5f470ae77fce51527c6ec6bfc634c5e45c62bf1ebf8f0bfc661abbe",
+      "title": "Calp presenta el programa completo de los Moros y Cristianos 2026, del 21 al 26 de octubre",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La programación del 21 al 26 de octubre de 2026 está confirmada por la agenda oficial de Turismo de Calp y por el portal de la asociación festera. La declaración como Fiesta de Interés Turístico Nacional está acreditada por el BOE. La programación detallada publicada por La Marina Plaza coincide sustancialmente con las fuentes oficiales.",
+      "summary": "La información queda suficientemente corroborada. La programación principal de los Moros y Cristianos de Calp está fijada del 21 al 26 de octubre de 2026. La agenda incorpora un acto previo el viernes 16 de octubre, con la presentación del Libro de Fiestas y un concierto de música festera. También están confirmados oficialmente el 50 aniversario de la fiesta, cuya conmemoración se extiende entre 2026 y 2027, y la declaración como Fiesta de Interés Turístico Nacional.",
       "claims": [
         {
-          "claim": "Las Fiestas de Moros y Cristianos de Calp se celebrarán del 21 al 26 de octubre de 2026.",
+          "claim": "Los actos principales de los Moros y Cristianos de Calp se celebrarán del 21 al 26 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La edición de 2026 conmemora el 50 aniversario de la fiesta.",
+          "claim": "La programación incluye actos previos desde el viernes 16 de octubre, entre ellos la presentación del Libro de Fiestas y un concierto de música festera.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La celebración fue declarada Fiesta de Interés Turístico Nacional en septiembre de 2026.",
+          "claim": "La edición de 2026 coincide con la conmemoración del 50 aniversario de los Moros y Cristianos de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El programa incluye pregón, entradas, desembarco y batallas, entre otros actos.",
+          "claim": "Las fiestas fueron declaradas Fiesta de Interés Turístico Nacional en 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La programación reúne actos tradicionales como las Entradas, el Desembarco y El Miracle.",
           "status": "SUPPORTED"
         }
       ],
@@ -138,86 +38,46 @@
         {
           "source_name": "Tourist Info Calpe / Ayuntamiento de Calp",
           "source_url": "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
-          "evidence": "La agenda oficial fija la programación entre el miércoles 21 y el lunes 26 de octubre de 2026 y atribuye la organización al Ayuntamiento de Calpe, la Asociación de Moros y Cristianos, UNDEF y el 50 aniversario de la fiesta.",
+          "evidence": "La agenda municipal identifica la programación de Moros y Cristianos de octubre de 2026 y fija sus fechas del miércoles 21 al lunes 26 de octubre. Señala como organizadores al Ayuntamiento de Calpe, la Asociación de Moros y Cristianos, UNDEF y el 50 aniversario de la fiesta.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+          "evidence": "La agenda de próximos eventos del Ayuntamiento incluye para el viernes 16 de octubre la presentación del Libro de Fiestas de Moros y Cristianos 2026 y un concierto de música festera de la Unió Musical Calp-Ifach. La misma publicación confirma como actos característicos El Miracle, el Desembarco y las Entradas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/node/35513",
+          "evidence": "El Ayuntamiento informa de la constitución de la Comisión Conmemorativa del 50 aniversario y especifica que el programa especial se desarrollará a lo largo de 2026 y 2027.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://www.boe.es/boe/dias/2026/09/21/pdfs/BOE-A-2026-19610.pdf",
-          "evidence": "La Resolución de 22 de agosto de 2026, publicada el 21 de septiembre de 2026, concede a la Fiesta de Moros y Cristianos de Calp el título de Fiesta de Interés Turístico Nacional.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Portal de la Asociación de Moros y Cristianos de Calp",
-          "source_url": "https://morosycristianos.calpe.es/va/",
-          "evidence": "El portal festero muestra la edición 2026 del 21 al 26 de octubre y describe actos como la Entrada de Bandas, la Gran Desfilada, el Desembarcament y El Miracle.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/13/programacion-fiestas-moros-cristianos-calp-2026-desembarco-entradas/",
-          "evidence": "Publica el programa detallado con pregón, misa, procesión, desfile infantil, entradas mora y cristiana, desembarco en la playa del Arenal-Bol y segunda batalla.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La programación oficial advierte que la asociación puede modificar o suspender actos sin previo aviso.",
-        "La afirmación de que es la primera edición tras la declaración nacional es una caracterización temporal razonable, pero no aparece formulada literalmente en la resolución del BOE."
-      ],
-      "id": "inv_f71fb124a132a6d6",
-      "investigated_at": "2026-10-13T16:01:41.702Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "6dce28f41cb2b821e3591c614c6b8912ba7fead410f2f06b38ab6f1cb7ba723c",
-      "title": "Los vecinos de Calp ya pueden comprobar sus datos para las elecciones generales del 29 de noviembre",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información está confirmada por el Instituto Nacional de Estadística, autoridad competente para el censo electoral. El INE establece que las elecciones generales serán el 29 de noviembre de 2026 y que el censo podrá consultarse y reclamarse del 12 al 19 de octubre, ambos inclusive, en ayuntamientos, delegaciones de la Oficina del Censo Electoral y mediante la sede electrónica con identificación.",
-      "claims": [
-        {
-          "claim": "Las elecciones generales se celebrarán el 29 de noviembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El censo electoral puede consultarse del 12 al 19 de octubre de 2026, ambos inclusive.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los electores pueden comprobar sus datos de inscripción y presentar reclamaciones dentro de ese plazo.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La consulta telemática se realiza a través de la sede electrónica del INE con identificación electrónica.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Instituto Nacional de Estadística",
-          "source_url": "https://ine.es/dyngs/Prensa/EG2026.htm",
-          "evidence": "La nota oficial del INE confirma las elecciones a Cortes Generales del 29 de noviembre de 2026 y establece que el censo de residentes en España puede consultarse del 12 al 19 de octubre en ayuntamientos y delegaciones de la Oficina del Censo Electoral. También indica que la consulta telemática está disponible en la sede electrónica del INE previa acreditación mediante Cl@ve u otro sistema admitido.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Instituto Nacional de Estadística, calendario electoral",
-          "source_url": "https://ine.es/dyngs/CEL/es/index.htm?cid=1702",
-          "evidence": "El calendario oficial fija del 12 al 19 de octubre el servicio de consulta del censo electoral y el plazo para presentar reclamaciones de inclusión o exclusión.",
+          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
+          "evidence": "La Resolución de 22 de agosto de 2026, publicada en el BOE el 21 de septiembre de 2026, concede oficialmente a la Fiesta de Moros y Cristianos de Calp el título de Fiesta de Interés Turístico Nacional.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12396/los-vecinos-de-calp-ya-pueden-comprobar-sus-datos-para-las-elecciones-generales",
-          "evidence": "La información local traslada a los vecinos de Calp las fechas oficiales de consulta, la fecha de las elecciones y la posibilidad de revisar los datos y reclamar errores.",
+          "source_url": "https://calpdigital.es/art/12393/moros-cristianos-calp-2026-interes-turistico-nacional",
+          "evidence": "La información independiente confirma que la fiesta se celebrará del 21 al 26 de octubre, que la programación tendrá un primer avance el viernes 16 con la presentación del Libro de Fiestas y un concierto, y que la edición coincide con el 50 aniversario y el reconocimiento nacional.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Asociación de Moros y Cristianos de Calp",
+          "source_url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+          "evidence": "La asociación organizadora confirma las fechas del 21 al 26 de octubre de 2026 y vincula la edición al reciente reconocimiento como Fiesta de Interés Turístico Nacional. También identifica como actos de la celebración las Entradas, el Desembarco y El Miracle.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La consulta presencial depende de los servicios habilitados por el Ayuntamiento y la Oficina del Censo Electoral; la fuente del INE confirma el procedimiento general, no horarios específicos de Calp."
+        "La página de agenda municipal consultada confirma las fechas y la organización, pero no muestra en texto todo el detalle horario del programa completo.",
+        "La afirmación sobre que los principales actos se concentran entre el 21 y el 26 de octubre está respaldada por la agenda oficial y por la corroboración periodística, mientras que el acto del 16 de octubre funciona como avance previo de la programación."
       ],
-      "id": "inv_c768b12ae4044bc7",
-      "investigated_at": "2026-10-13T16:01:41.702Z",
+      "id": "inv_80a91e5e014d9eb2",
+      "investigated_at": "2026-10-13T21:17:07.023Z",
       "model": "gpt-5.6-luna"
     }
   ]
