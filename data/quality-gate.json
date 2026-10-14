@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-14T11:57:33.211Z",
+  "generated_at": "2026-10-14T17:13:45.104Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,11 +26,11 @@
   "quarantined_count": 2,
   "decisions": [
     {
-      "gate_id": "qg_839ad5e60b317d60",
-      "draft_id": "drf_15753f3bf2b70cee",
+      "gate_id": "qg_9a9df802ca8f64d3",
+      "draft_id": "drf_02bf288c51c6d57e",
       "investigation_id": "inv_c9e1d6bba5cb3547",
       "candidate_fingerprint": "85d17190acd91a35196b59dcff9a71a43073f6007943e707385a6142ad518ed8",
-      "slug": "calp-estudia-crear-aula-universitaria-uned",
+      "slug": "calp-estudia-aula-universitaria-uned",
       "category": "SOCIEDAD",
       "status": "QUARANTINED",
       "reasons": [
@@ -43,7 +43,7 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 3,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 1,
         "unverified_claim_count": 0,
         "evidence_count": 2,
@@ -61,23 +61,25 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 231
+        "body_word_count": 226
       },
-      "evaluated_at": "2026-10-14T11:57:33.211Z",
+      "evaluated_at": "2026-10-14T17:13:45.104Z",
       "engine_version": "quality-gate-v1"
     },
     {
-      "gate_id": "qg_deb0a340af9acd92",
-      "draft_id": "drf_896a474913a245ed",
+      "gate_id": "qg_d3ede118a6856fe6",
+      "draft_id": "drf_3124877db0643404",
       "investigation_id": "inv_525441d0b15c51ef",
       "candidate_fingerprint": "07706109cb403c2d45a93129a0b33235dce6275361da05f24953441d4355e320",
-      "slug": "calp-aprueba-inicialmente-plan-cambio-climatico",
+      "slug": "calp-aprueba-inicialmente-plan-climatico",
       "category": "MEDIO_AMBIENTE",
       "status": "QUARANTINED",
       "reasons": [
         "CONTRADICTED_CLAIM_PRESENT"
       ],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
@@ -86,12 +88,12 @@
         "confidence_sufficient": true,
         "supported_claim_count": 4,
         "contradicted_claim_count": 1,
-        "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 2,
+        "unverified_claim_count": 1,
+        "evidence_count": 4,
+        "primary_evidence_count": 3,
         "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
+        "distinct_evidence_urls": 4,
+        "distinct_evidence_hosts": 4,
         "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -102,9 +104,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 273
+        "body_word_count": 191
       },
-      "evaluated_at": "2026-10-14T11:57:33.211Z",
+      "evaluated_at": "2026-10-14T17:13:45.104Z",
       "engine_version": "quality-gate-v1"
     }
   ]

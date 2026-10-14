@@ -1,9 +1,9 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-14T11:56:20.023Z",
+  "generated_at": "2026-10-14T17:13:05.548Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 2,
   "investigations": [
     {
       "candidate_fingerprint": "85d17190acd91a35196b59dcff9a71a43073f6007943e707385a6142ad518ed8",
@@ -11,45 +11,49 @@
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La información está corroborada por una publicación oficial del Ayuntamiento de Calp y por la noticia de Calp Digital. El pleno del 13 de octubre de 2026 declaró de interés municipal estudiar, junto con la UNED, la creación de un aula universitaria en Calp. La posibilidad de impartir uno o dos grados sigue siendo hipotética: no hay titulaciones ni calendario aprobados.",
+      "summary": "La información queda corroborada por una fuente municipal oficial y por una fuente periodística independiente. El Pleno de Calp declaró de interés municipal iniciar el estudio de viabilidad de un Aula Universitaria vinculada a la UNED y a su centro asociado de Dénia. La posibilidad de impartir uno o dos grados en la Casa Nova aparece como objetivo planteado, no como decisión definitiva ni como oferta académica aprobada.",
       "claims": [
         {
-          "claim": "El pleno de Calp declaró de interés municipal estudiar la creación de un Aula Universitaria de la UNED en el municipio.",
+          "claim": "El Pleno de Calp declaró de interés municipal iniciar los estudios para crear un Aula Universitaria de la UNED en el municipio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La iniciativa estaría vinculada a la UNED de Dénia y se plantea como un paso previo para analizar su viabilidad.",
+          "claim": "El proyecto estaría vinculado a la UNED y a su centro asociado de Dénia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Podrían implantarse uno o dos grados universitarios, todavía sin titulaciones concretas ni calendario de puesta en marcha.",
+          "claim": "La Casa Nova podría albergar uno o dos grados universitarios de la UNED.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación equivale ya a la creación efectiva del aula o de los grados.",
+          "claim": "La implantación de los grados está aprobada o garantizada.",
           "status": "CONTRADICTED"
+        },
+        {
+          "claim": "El proyecto se encuentra en una fase inicial y requiere estudiar su viabilidad con la universidad.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
+          "source_name": "Ayuntamiento de Calp — Noticias oficiales",
           "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
-          "evidence": "La información oficial del Ayuntamiento señala que el último punto del pleno consistió en declarar de interés municipal dar los primeros pasos para estudiar junto a la UNED la viabilidad de crear un Aula Universitaria en Calp. La concejala de Educación lo describió como el paso previo para tener uno o dos grados en Casa Nova.",
+          "evidence": "La noticia oficial informa de que el Pleno declaró de interés municipal dar los primeros pasos para estudiar con la UNED la viabilidad de crear un Aula Universitaria en Calp. También recoge la declaración de la concejala de Educación según la cual sería el paso previo para tener en Casa Nova uno o dos grados de la UNED.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
-          "evidence": "La noticia detalla que el pleno aprobó por unanimidad la declaración de interés municipal, vinculada al centro asociado de Dénia, y que se estudia la posibilidad de uno o dos grados. También aclara que aún no se han definido las titulaciones, no existe calendario y la aprobación no supone la creación inmediata de una sede universitaria.",
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova/",
+          "evidence": "La información periodística independiente describe el acuerdo del Pleno para declarar de interés municipal el inicio del estudio de viabilidad junto a la UNED y su centro asociado de Dénia. También señala que la Casa Nova podría albergar el aula y que uno o dos grados son una posibilidad planteada por el Ayuntamiento.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La unanimidad aparece expresamente en Calp Digital, pero no en el resumen de la publicación oficial consultada.",
-        "No existe confirmación de la UNED sobre titulaciones, autorización definitiva, financiación o fechas de inicio."
+        "La aprobación afecta al estudio de viabilidad, no a la creación definitiva del aula ni a la implantación efectiva de grados.",
+        "No se ha encontrado evidencia de que la UNED haya aprobado ya una oferta concreta de grados o un calendario de apertura."
       ],
       "id": "inv_c9e1d6bba5cb3547",
-      "investigated_at": "2026-10-14T11:56:20.023Z",
+      "investigated_at": "2026-10-14T17:13:05.548Z",
       "model": "gpt-5.6-luna"
     },
     {
@@ -58,120 +62,66 @@
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La aprobación inicial del PACES está respaldada por una fuente oficial del Ayuntamiento y por Calp Digital. El documento queda sometido a exposición pública y todavía no constituye la ejecución inmediata de todas las medidas previstas.",
+      "summary": "La aprobación inicial del PACES está respaldada por una fuente municipal oficial y por una fuente periodística independiente. El plan fue aprobado por el Pleno y queda sometido a exposición pública antes de su aprobación definitiva. Las fuentes oficiales y periodísticas coinciden en que contiene 66 medidas de mitigación y 111 de adaptación. La noticia debe presentarlo como instrumento de planificación, no como ejecución inmediata de todas las medidas.",
       "claims": [
         {
-          "claim": "El pleno de Calp aprobó inicialmente el Plan de Acción para el Clima y la Energía Sostenible (PACES).",
+          "claim": "El Pleno de Calp aprobó inicialmente y por unanimidad el Plan de Acción para el Clima y la Energía Sostenible (PACES).",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación fue por unanimidad.",
+          "claim": "El documento debe someterse a exposición pública durante 30 días antes de su aprobación definitiva.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan deberá someterse a exposición pública durante 30 días antes de completar su tramitación.",
+          "claim": "El PACES contiene 66 medidas de mitigación y 111 medidas de adaptación.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El PACES orientará medidas de reducción de emisiones, eficiencia energética y adaptación climática, incluyendo riesgos como lluvias intensas, sequías y temperaturas extremas.",
+          "claim": "El plan pretende reducir emisiones, mejorar la eficiencia energética y adaptar el municipio a los efectos del cambio climático.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación inicial implica que las inversiones y medidas del plan ya están ejecutándose.",
-          "status": "CONTRADICTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
-          "evidence": "La publicación oficial informa de que el pleno aprobó el PACES redactado por Azigrene Consultores y que el documento permanecerá en exposición pública durante 30 días. También recoge que incluye medidas de mitigación y adaptación climática.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
-          "evidence": "La noticia afirma que la aprobación fue inicial y por unanimidad, que el plan deberá pasar por exposición pública y que contempla reducción de emisiones, eficiencia energética, análisis de riesgos y vulnerabilidades y adaptación ante lluvias intensas, temperaturas extremas, sequías y efectos sobre el litoral.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ajuntament de Calp",
-          "source_url": "https://www.calp.es/va/node/10904",
-          "evidence": "El Ayuntamiento había abierto en junio de 2026 un proceso de participación para recoger propuestas destinadas a la elaboración del PACES, en el marco del Pacto de las Alcaldías por el Clima y la Energía.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La fuente oficial consultada confirma la aprobación y la exposición pública, pero no reproduce el detalle completo de las 66 medidas de mitigación y 111 de adaptación citado por Calp Digital.",
-        "La aprobación inicial no equivale a aprobación definitiva ni garantiza financiación o ejecución inmediata."
-      ],
-      "id": "inv_525441d0b15c51ef",
-      "investigated_at": "2026-10-14T11:56:20.023Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "c2d67babc7e0345cfae5bdb4e51fd0056696111a58178ac3592fd3658d6a391a",
-      "title": "El Consorci Mare liquida 2,25 millones en instalaciones para recuperar más residuos de Calp y la comarca",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "El importe, las tres actuaciones y la referencia a los 52 municipios aparecen en varias informaciones publicadas el 13 de octubre de 2026. Sin embargo, las fuentes secundarias reproducen esencialmente el mismo comunicado y no se ha localizado una resolución, acta o publicación oficial del Consorci Mare o de la Diputación que documente directamente la operación de 2,25 millones. La instalación de voluminosos y su servicio a 52 municipios sí están confirmados por la Diputación.",
-      "claims": [
-        {
-          "claim": "El Consorci Mare aprobó destinar 2.250.000 euros a completar pagos pendientes de inversiones ya ejecutadas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La operación incluye la planta de tratamiento de voluminosos, el equipo SORAIN de compostaje y la ampliación e informatización de la red de ecoparques.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La operación fue aprobada por unanimidad por la Junta de Gobierno y ratificada por el pleno de la Diputación de Alicante.",
+          "claim": "El plan establece medidas específicas frente a lluvias intensas, sequías, temperaturas extremas y riesgos costeros.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "El Consorci Mare presta servicio a Calp y a otros 51 municipios.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La operación ya implica una reducción aprobada del canon de tratamiento.",
+          "claim": "La aprobación implica que las 177 medidas se ejecutarán de forma inmediata.",
           "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Onda Cero Marina Baixa",
-          "source_url": "https://www.ondacero.es/emisoras/comunidad-valenciana/marina-baixa/noticias/consorcio-mare-destina-225-millones-euros-pagar-obras-ecoparques-voluminosos-ejecutadas_202610136acdf4446e8df445afc777.html",
-          "evidence": "Informa de una asignación de 2.250.000 euros para la planta de voluminosos, el equipo SORAIN y la ampliación e informatización de ecoparques. También atribuye la aprobación a la Junta de Gobierno y señala una posterior ratificación por la Diputación.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicante Plaza",
-          "source_url": "https://alicanteplaza.es/alicanteplaza/sostenibilidad2/el-consorcio-mare-usa-sus-ahorros-para-pagar-225-millones-en-mejoras-de-la-gestion-de-residuos",
-          "evidence": "Publica el mismo importe y el reparto entre las tres actuaciones, además de indicar que los fondos proceden del remanente de tesorería. Señala que la posible reducción del canon solo queda abierta a estudio.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Diputación de Alicante",
-          "source_url": "https://www.diputacionalicante.es/ca/noticias/toni-perez-resalta-la-aportacion-del-nuevo-centro-de-tratamientos-de-voluminosos-del-consorci-mare-a-la-sostenibilidad-ambiental-economica-y-social/",
-          "evidence": "La Diputación confirma oficialmente la puesta en marcha del centro de tratamiento de voluminosos del Consorci Mare en El Campello, su capacidad prevista de 30.000 toneladas anuales y que la instalación da servicio a 52 municipios.",
+          "source_name": "Ayuntamiento de Calp — Noticias oficiales",
+          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
+          "evidence": "La comunicación municipal informa de que el Pleno aprobó el PACES, redactado por Azigrene Consultores, y que el documento permanecerá en exposición pública durante 30 días. También cifra su contenido en 66 medidas de mitigación y 111 de adaptación, orientadas a reducir emisiones, mejorar la eficiencia energética y adaptar el municipio al cambio climático.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
-          "evidence": "La noticia local atribuye al Consorci Mare la aprobación de 2.250.000 euros para liquidar las cantidades pendientes de la planta de voluminosos, el equipo SORAIN y la red de ecoparques, y precisa que no se ha aprobado todavía ninguna rebaja del canon.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+          "evidence": "La información independiente confirma la aprobación del PACES y cifra el plan en 177 medidas: 66 de mitigación y 111 de adaptación. Explica que el documento es una herramienta de planificación a largo plazo y que su aprobación no supone la ejecución inmediata de todas las medidas; también recoge la exposición pública durante 30 días.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — proceso participativo del PACES",
+          "source_url": "https://www.calp.es/va/node/10904",
+          "evidence": "La página municipal acredita que Calp había abierto en junio de 2026 un proceso participativo para recoger propuestas y prioridades de mitigación y adaptación que se incorporarían al PACES.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Plataforma de Contratación del Sector Público — pliego del PACES",
+          "source_url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=0FcFvftTDKz4BhoDKzootlTPAe84zsJ%2Ftu6LAp9zCYjinbW6DA6To%2BeYvKGAxAsSIxLEL0uAWVUEmpYmY0t3MKohXFXS%2BRoNubUkhX3Ikqpt%2Fo8fNevwsujgRzaBbugn&cifrado=QUC6GjXXSiLkydRHJBmbpw%3D%3D",
+          "evidence": "El pliego municipal acredita el encargo de redactar el PACES de Calp y señala que el Ayuntamiento se había comprometido a elaborar una estrategia de mitigación y adaptación tras adherirse al Pacto de las Alcaldías sobre el Clima y la Energía.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "No se ha encontrado en la búsqueda una resolución, acta o nota oficial del Consorci Mare o de la Diputación que documente directamente la operación económica de 2.250.000 euros.",
-        "Onda Cero, Alicante Plaza y Calp Digital presentan cifras y desglose prácticamente idénticos, por lo que podrían estar reproduciendo una misma nota de prensa; no deben contarse como corroboraciones plenamente independientes.",
-        "La vinculación concreta de la inversión con Calp es indirecta: Calp forma parte del ámbito de servicio del Consorci Mare, pero no consta una inversión exclusiva en el municipio.",
-        "La eventual reducción del canon aparece únicamente como posibilidad de estudio, no como decisión aprobada."
+        "La afirmación sobre lluvias intensas, sequías, temperaturas extremas y riesgos costeros aparece en la noticia candidata, pero no queda corroborada con ese mismo nivel de detalle por la fuente independiente consultada.",
+        "La aprobación es inicial: el plan todavía debe completar la exposición pública y la tramitación administrativa correspondiente.",
+        "Las cifras de 66 medidas de mitigación y 111 de adaptación sí están corroboradas; no deben interpretarse como actuaciones ya ejecutadas."
       ],
-      "id": "inv_82c64d423c07474e",
-      "investigated_at": "2026-10-14T11:56:20.023Z",
+      "id": "inv_525441d0b15c51ef",
+      "investigated_at": "2026-10-14T17:13:05.548Z",
       "model": "gpt-5.6-luna"
     }
   ]

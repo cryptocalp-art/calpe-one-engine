@@ -3,7 +3,7 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-14T11:57:33.391Z",
+  "generated_at": "2026-10-14T17:13:45.275Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 2,
@@ -12,10 +12,10 @@
   "ready": [],
   "quarantined": [
     {
-      "export_id": "exp_8ade5aceba73c1bc",
-      "draft_id": "drf_15753f3bf2b70cee",
+      "export_id": "exp_4c0f2b29ecd5942d",
+      "draft_id": "drf_02bf288c51c6d57e",
       "investigation_id": "inv_c9e1d6bba5cb3547",
-      "slug": "calp-estudia-crear-aula-universitaria-uned",
+      "slug": "calp-estudia-aula-universitaria-uned",
       "reasons": [
         "quality_gate_not_eligible"
       ],
@@ -25,10 +25,10 @@
       ]
     },
     {
-      "export_id": "exp_60f15d54d35599f4",
-      "draft_id": "drf_896a474913a245ed",
+      "export_id": "exp_8e1c9a4eaa881398",
+      "draft_id": "drf_3124877db0643404",
       "investigation_id": "inv_525441d0b15c51ef",
-      "slug": "calp-aprueba-inicialmente-plan-cambio-climatico",
+      "slug": "calp-aprueba-inicialmente-plan-climatico",
       "reasons": [
         "quality_gate_not_eligible"
       ],
