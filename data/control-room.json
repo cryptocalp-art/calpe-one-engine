@@ -2,25 +2,39 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-14T17:13:53.978Z",
+  "generated_at": "2026-10-14T20:45:46.398Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-14T17:13:53.775Z",
+  "last_activity": "2026-10-14T20:45:46.207Z",
   "newspaper": {
-    "archive_total": 84,
-    "published_today": 2,
-    "published_last_7_days": 16,
+    "archive_total": 86,
+    "published_today": 4,
+    "published_last_7_days": 18,
     "categories": {
+      "SUCESOS": 11,
+      "LOCAL": 12,
       "POLITICA": 7,
       "ECONOMIA": 11,
       "DEPORTES": 4,
-      "SUCESOS": 10,
       "CULTURA": 6,
       "SOCIEDAD": 12,
-      "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_1a8b7981cd1242fd",
+        "title": "Localizada en buen estado Radia, la menor desaparecida en Calp en septiembre de 2025",
+        "category": "SUCESOS",
+        "slug": "localizada-buen-estado-radia-desaparecida-calp",
+        "published_at": "2026-10-14T20:45:11.397Z"
+      },
+      {
+        "archive_id": "arc_f6313ef85f555b27",
+        "title": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1,76 millones",
+        "category": "LOCAL",
+        "slug": "calp-modificacion-credito-176-millones-18-partidas",
+        "published_at": "2026-10-14T20:45:11.397Z"
+      },
       {
         "archive_id": "arc_233a0fd61119bd42",
         "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
@@ -62,30 +76,16 @@
         "category": "SUCESOS",
         "slug": "criminalidad-baja-calp-primer-semestre-2026",
         "published_at": "2026-10-12T00:34:57.618Z"
-      },
-      {
-        "archive_id": "arc_a2fc9d6c8ef32efa",
-        "title": "Rescatan a un escalador con una fractura abierta en el Peñón de Ifach",
-        "category": "SUCESOS",
-        "slug": "rescatan-escalador-herido-penon-ifach",
-        "published_at": "2026-10-11T20:20:01.093Z"
-      },
-      {
-        "archive_id": "arc_01b525c4c2dc86ef",
-        "title": "El voto por correo ya puede solicitarse para las elecciones generales del 29 de noviembre",
-        "category": "POLITICA",
-        "slug": "voto-por-correo-calp-elecciones-generales-29-noviembre",
-        "published_at": "2026-10-10T22:34:54.715Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 0,
-    "quarantined": 2,
-    "archive_added": 0
+    "drafts": 5,
+    "eligible": 5,
+    "quarantined": 0,
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,24 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_02bf288c51c6d57e",
-      "slug": "calp-estudia-aula-universitaria-uned",
-      "category": "SOCIEDAD",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-14T17:13:45.104Z"
-    },
-    {
-      "draft_id": "drf_3124877db0643404",
-      "slug": "calp-aprueba-inicialmente-plan-climatico",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-14T17:13:45.104Z"
-    }
-  ]
+  "quarantine": []
 }
