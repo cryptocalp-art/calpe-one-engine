@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-13T21:17:38.225Z",
+  "generated_at": "2026-10-14T00:22:50.380Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_33d00db0e06b11ba",
-      "draft_id": "drf_ebf44a372ca5594e",
-      "investigation_id": "inv_80a91e5e014d9eb2",
-      "candidate_fingerprint": "f6412cbbe5f470ae77fce51527c6ec6bfc634c5e45c62bf1ebf8f0bfc661abbe",
-      "slug": "moros-y-cristianos-calp-2026-fechas-programa",
-      "category": "TURISMO",
+      "gate_id": "qg_8c780d3a723878ce",
+      "draft_id": "drf_bec53d3a38a971b0",
+      "investigation_id": "inv_a18eeed6227d65ca",
+      "candidate_fingerprint": "7fc4018e83e8993b821316020af6f38e6f3546778e70c73b0113fc48c47a2dd7",
+      "slug": "calp-decimo-encuentro-empresarial-turistico-pactema",
+      "category": "ECONOMIA",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -44,11 +44,11 @@
         "supported_claim_count": 5,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
-        "evidence_count": 6,
-        "primary_evidence_count": 5,
+        "evidence_count": 2,
+        "primary_evidence_count": 1,
         "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 6,
-        "distinct_evidence_hosts": 5,
+        "distinct_evidence_urls": 2,
+        "distinct_evidence_hosts": 2,
         "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 295
+        "body_word_count": 197
       },
-      "evaluated_at": "2026-10-13T21:17:38.225Z",
+      "evaluated_at": "2026-10-14T00:22:50.380Z",
       "engine_version": "quality-gate-v1"
     }
   ]

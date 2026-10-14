@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-13T21:17:46.909Z",
+  "generated_at": "2026-10-14T00:22:59.776Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-13T21:17:46.713Z",
+  "last_activity": "2026-10-14T00:22:59.589Z",
   "newspaper": {
-    "archive_total": 82,
-    "published_today": 2,
-    "published_last_7_days": 19,
+    "archive_total": 83,
+    "published_today": 1,
+    "published_last_7_days": 20,
     "categories": {
+      "ECONOMIA": 11,
       "POLITICA": 6,
       "DEPORTES": 4,
       "SUCESOS": 10,
       "CULTURA": 6,
-      "ECONOMIA": 10,
       "SOCIEDAD": 12,
       "LOCAL": 11,
       "MEDIO_AMBIENTE": 15,
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_b53156c2da63524e",
+        "title": "Calp acogerá el 28 de octubre el décimo encuentro empresarial turístico PACTE’MA",
+        "category": "ECONOMIA",
+        "slug": "calp-decimo-encuentro-empresarial-turistico-pactema",
+        "published_at": "2026-10-14T00:22:43.578Z"
+      },
       {
         "archive_id": "arc_baa762cc08d80b44",
         "title": "Los electores de Calp pueden consultar el censo para las elecciones del 29 de noviembre",
@@ -69,23 +76,16 @@
         "category": "CULTURA",
         "slug": "concierto-calp-weiterode-25-anos-hermanamiento",
         "published_at": "2026-10-09T16:16:04.272Z"
-      },
-      {
-        "archive_id": "arc_2e4cec5b15995273",
-        "title": "Calp celebra el Día del Xiquet Fester por el 50 aniversario de Moros i Cristians",
-        "category": "CULTURA",
-        "slug": "dia-xiquet-fester-calp-50-aniversario-moros-cristians",
-        "published_at": "2026-10-09T16:16:04.272Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 4,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
