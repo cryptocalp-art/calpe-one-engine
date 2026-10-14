@@ -1,232 +1,107 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-14T20:45:11.397Z",
+  "generated_at": "2026-10-14T23:57:14.253Z",
   "model": "gpt-5.6-luna",
-  "count": 5,
+  "count": 2,
   "drafts": [
     {
-      "id": "drf_a24115704cceb2ab",
-      "investigation_id": "inv_1bf8b442ea95c7ed",
-      "candidate_fingerprint": "9ea323aa1ff72bea0967f058c73039a46f7ab2434973093322a8ca01b3dde911",
-      "category": "SUCESOS",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-14T20:45:11.397Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Localizada en buen estado Radia, la menor desaparecida en Calp en septiembre de 2025",
-      "subheadline": "El Centro Nacional de Personas Desaparecidas confirmó la localización, en la que intervinieron la Policía Nacional y la Guardia Civil.",
-      "lead": "Radia, la menor cuya desaparición fue denunciada en Calp el 10 de septiembre de 2025, ha sido localizada en buen estado este 14 de octubre de 2026, según la confirmación atribuida al Centro Nacional de Personas Desaparecidas.",
-      "body_markdown": "Radia ha sido localizada en buen estado este miércoles, 14 de octubre de 2026, después de que desapareciera en Calp el 10 de septiembre de 2025. Entre ambas fechas transcurrieron 399 días.\n\nLa confirmación de la localización procede, según las informaciones consultadas, del Centro Nacional de Personas Desaparecidas. En la intervención participaron la Policía Nacional y la Guardia Civil.\n\nLa información disponible permite confirmar el desenlace de la búsqueda y el estado de la menor, pero no aporta detalles oficiales adicionales sobre el lugar en el que fue localizada ni sobre las circunstancias del hallazgo.\n\nLa desaparición se produjo en Calp y se prolongó durante más de un año hasta la comunicación de su localización. Las fuentes consultadas no detallan otros aspectos del caso ni las actuaciones desarrolladas durante ese periodo.",
-      "seo_title": "Localizada en buen estado Radia, desaparecida en Calp",
-      "meta_description": "Radia ha sido localizada en buen estado tras desaparecer en Calp el 10 de septiembre de 2025. Intervinieron Policía Nacional y Guardia Civil.",
-      "slug": "localizada-buen-estado-radia-desaparecida-calp",
-      "editorial_notes": [
-        "No publicar detalles sobre el lugar o las circunstancias de la localización: no constan en las fuentes consultadas.",
-        "La confirmación se atribuye al Centro Nacional de Personas Desaparecidas, aunque no se ha localizado una nota pública directamente accesible del organismo, la Policía Nacional o la Guardia Civil sobre este caso concreto."
-      ],
-      "sources": [
-        {
-          "source_name": "20minutos",
-          "source_url": "https://www.20minutos.es/comunidad-valenciana/alicante/localizan-radia-buen-estado-menor-desaparecida-calpe-alicante-hace-mas-un-ano_7048701_0.html",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/14/localitzen-en-bon-estat-radia-la-menor-desapareguda-a-calp-fa-mes-dun-any",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "MEDIUM",
-        "supported_claim_count": 5,
-        "evidence_count": 2,
-        "caveats": [
-          "No se ha localizado durante la búsqueda una nota pública directamente accesible del CNDES, Policía Nacional o Guardia Civil con el caso concreto.",
-          "No deben añadirse detalles sobre el lugar ni las circunstancias de la localización, que no constan en las fuentes consultadas."
-        ]
-      }
-    },
-    {
-      "id": "drf_fc1717ff8d619af3",
-      "investigation_id": "inv_a7a429d051c275d1",
-      "candidate_fingerprint": "6c1c86fbf5bf815b7571302b40065a1a941e1d245ce7ddddba393a5b0fe807dd",
-      "category": "LOCAL",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-14T20:45:11.397Z",
-      "model": "gpt-5.6-luna",
-      "headline": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1,76 millones",
-      "subheadline": "El expediente reúne 18 partidas para actuaciones como el estacionamiento del rastro, la Oficina de Turismo, residuos, limpieza viaria y el soporte vital básico.",
-      "lead": "El pleno municipal de Calp aprobó inicialmente una modificación de crédito por importe de 1.760.369,80 euros, distribuida en 18 partidas con distintos destinos municipales.",
-      "body_markdown": "El pleno municipal de Calp aprobó inicialmente una modificación de crédito de 1.760.369,80 euros. El expediente comprende 18 partidas destinadas a distintas actuaciones y servicios municipales.\n\nEntre los importes recogidos figuran 659.132 euros para el estacionamiento del rastro y 337.287 euros para la Oficina de Turismo del siglo XXI. La modificación también contempla 285.164 euros para el servicio de recogida de residuos y 90.901 euros para limpieza viaria.\n\nAdemás, se incluyen 72.600 euros para las instalaciones del soporte vital básico. La documentación municipal recoge asimismo una partida de 91.806 euros para la mejora de caminos tradicionales.\n\nLa aprobación comunicada es inicial. Por tanto, el acuerdo no equivale a una aprobación definitiva del gasto. La nota oficial presenta las partidas diferenciadas, por lo que la cantidad destinada a caminos tradicionales no debe confundirse con la correspondiente a limpieza viaria.\n\nLa modificación de crédito fue presentada por el Ayuntamiento como un expediente que afecta a 18 actuaciones. La información disponible detalla los principales importes, pero este borrador no incorpora otras partidas no especificadas en las fuentes consultadas.",
-      "seo_title": "Calp aprueba inicialmente una modificación de 1,76 millones",
-      "meta_description": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1.760.369,80 euros, distribuida en 18 partidas municipales.",
-      "slug": "calp-modificacion-credito-176-millones-18-partidas",
-      "editorial_notes": [
-        "Debe mantenerse el término 'aprobación inicial': las fuentes no acreditan la aprobación definitiva del gasto.",
-        "La partida de 91.806 euros corresponde a la mejora de caminos tradicionales y es distinta de los 90.901 euros de limpieza viaria."
-      ],
-      "sources": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/page/4/",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 7,
-        "evidence_count": 2,
-        "caveats": [
-          "La fuente oficial cifra en 91.806 euros la mejora de caminos tradicionales, mientras el resumen candidato indica 90.901 euros para limpieza viaria; ambas partidas aparecen separadas en la nota oficial.",
-          "La aprobación indicada es inicial, no la aprobación definitiva del gasto."
-        ]
-      }
-    },
-    {
-      "id": "drf_f463b83d73b0e491",
-      "investigation_id": "inv_18627efccc2b4b71",
-      "candidate_fingerprint": "83adfbdd0ad9affff461626f6bcc7782b0898eaaf316a53ea0cb4499a32477c6",
+      "id": "drf_542a038734d987fd",
+      "investigation_id": "inv_ecc8da85e177ca4d",
+      "candidate_fingerprint": "352f7b487849bf47f5e6e46b603547fdade44cf0be03581f3d7e9f6eab2d0d6e",
       "category": "SOCIEDAD",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-10-14T20:45:11.397Z",
+      "created_at": "2026-10-14T23:57:14.253Z",
       "model": "gpt-5.6-luna",
-      "headline": "Calp inicia el estudio de un aula universitaria de la UNED vinculada al centro de Dénia",
-      "subheadline": "El pleno plantea analizar la posibilidad de impartir uno o dos grados en la Casa Nova, aunque todavía no hay titulaciones ni calendario definidos.",
-      "lead": "El pleno de Calp declaró de interés municipal estudiar, junto con la UNED de Dénia, la posible creación de un aula universitaria en el municipio.",
-      "body_markdown": "El pleno de Calp ha dado los primeros pasos para estudiar la creación de un aula universitaria vinculada al centro asociado de la UNED de Dénia. El acuerdo declara de interés municipal analizar la viabilidad de esta iniciativa.\n\nLa propuesta contempla estudiar la posibilidad de impartir uno o dos grados en Calp. La Casa Nova aparece como ubicación planteada para esta actividad, aunque el proyecto se encuentra todavía en una fase exploratoria.\n\nPor el momento, no se han definido las titulaciones que podrían ofrecerse ni existe un calendario de puesta en marcha. El acuerdo plenario no supone, por tanto, que la localidad cuente ya con una sede universitaria ni con una oferta académica confirmada.\n\nLa iniciativa queda pendiente del estudio con la UNED de Dénia y de la definición de sus condiciones. Las fuentes consultadas no concretan qué grados se analizarán ni cuándo podría comenzar la actividad.\n\nEl pleno ha expresado así su interés en avanzar en el análisis de esta posibilidad, pero la información disponible no permite presentar el aula como un proyecto aprobado para su implantación efectiva.",
-      "seo_title": "Calp estudiará un aula universitaria de la UNED",
-      "meta_description": "El pleno de Calp estudiará con la UNED de Dénia un aula universitaria con uno o dos grados posibles, sin titulaciones ni calendario definidos.",
-      "slug": "calp-estudiara-aula-universitaria-uned",
+      "headline": "Calp inicia con la UNED el estudio para crear un aula universitaria en Casa Nova",
+      "subheadline": "La propuesta contempla analizar la posibilidad de ofrecer uno o dos grados vinculados al centro asociado de Dénia, pero todavía no hay titulaciones ni calendario definidos",
+      "lead": "El pleno municipal de Calp ha declarado de interés municipal iniciar, junto con la UNED, los trabajos para estudiar la viabilidad de crear un Aula Universitaria en el municipio. La iniciativa sitúa Casa Nova como ubicación prevista y plantea analizar la posibilidad de ofrecer uno o dos grados universitarios.",
+      "body_markdown": "El Ayuntamiento de Calp ha dado los primeros pasos para estudiar la creación de un Aula Universitaria de la UNED en el municipio. La decisión fue adoptada por el pleno municipal, que declaró de interés municipal iniciar los trabajos de análisis junto con la institución universitaria.\n\nLa propuesta contempla Casa Nova como ubicación prevista para el aula. Según la documentación municipal, este paso permitiría estudiar la posibilidad de contar en el futuro con uno o dos grados universitarios vinculados a la UNED. La iniciativa estaría relacionada con el centro asociado de la UNED de Dénia.\n\nLa propuesta se encuentra todavía en una fase inicial. El acuerdo no supone la implantación efectiva del aula ni la aprobación de titulaciones concretas. Tampoco existe por ahora un calendario oficial para la puesta en marcha de los grados.\n\nLa documentación disponible define el proceso como un estudio de viabilidad. Por tanto, antes de concretar la oferta formativa deberán analizarse las condiciones necesarias para desarrollar el proyecto y la colaboración con la UNED.\n\nCalp ya mantiene una relación formativa con la UNED de Dénia a través de cursos de UNED Sénior impartidos en Casa Nova durante el curso 2026-2027. Este vínculo acredita una colaboración educativa previa, aunque no confirma por sí mismo la futura implantación de estudios universitarios reglados.\n\nEl siguiente recorrido del proyecto dependerá de las conclusiones del estudio y de los pasos que se adopten posteriormente con la UNED. Por el momento, el acuerdo plenario permite iniciar ese análisis, pero no concreta qué grados podrían ofrecerse ni cuándo comenzarían las clases.",
+      "seo_title": "Calp estudiará con la UNED un aula universitaria en Casa Nova",
+      "meta_description": "El pleno de Calp inicia con la UNED un estudio de viabilidad para crear un aula en Casa Nova con uno o dos grados, aún sin titulaciones ni calendario.",
+      "slug": "calp-estudiara-con-la-uned-un-aula-universitaria-en-casa-nova",
       "editorial_notes": [
-        "No presentar la iniciativa como una sede universitaria creada ni como una oferta de grados confirmada.",
-        "La información procede del mismo acuerdo plenario a través de una fuente municipal y otra periodística; no son dos corroboraciones independientes en sentido estricto."
+        "Presentar la iniciativa como un estudio de viabilidad y no como una creación aprobada del aula.",
+        "No afirmar que los grados estén aprobados, ni mencionar titulaciones o fechas de apertura no concretadas.",
+        "La vinculación con el centro asociado de la UNED de Dénia está desarrollada con mayor detalle en una fuente secundaria; la fuente municipal respalda directamente la referencia a Casa Nova y a uno o dos grados."
       ],
       "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp, dossier de prensa / agregador municipal",
+          "source_url": "https://calp.es/en/aggregator",
+          "source_type": "PRIMARY"
+        },
         {
           "source_name": "Calp Digital",
           "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://calp.es/en/aggregator",
+          "source_name": "Centro Asociado UNED Dénia",
+          "source_url": "https://www.uneddenia.es/component/k2/item/3748",
           "source_type": "PRIMARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "MEDIUM",
-        "supported_claim_count": 5,
-        "evidence_count": 2,
-        "caveats": [
-          "La fuente oficial y la fuente periodística proceden del mismo acuerdo plenario; no constituyen dos corroboraciones independientes en sentido estricto.",
-          "No debe publicarse como creación ya aprobada de una sede o como oferta universitaria confirmada."
-        ]
-      }
-    },
-    {
-      "id": "drf_ac5f46788aec2d14",
-      "investigation_id": "inv_e55a4c4179507030",
-      "candidate_fingerprint": "9e5e1d785997b2aa225a87d78426d0860b969f70207492a0569098f455e00c1a",
-      "category": "MEDIO_AMBIENTE",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-14T20:45:11.397Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Calp aprueba inicialmente el plan de acción para el clima y la energía sostenible",
-      "subheadline": "El PACES reúne 66 medidas de mitigación y 111 de adaptación, y queda sometido a exposición pública durante 30 días.",
-      "lead": "El pleno de Calp aprobó inicialmente y por unanimidad el Plan de Acción para el Clima y la Energía Sostenible (PACES), que ahora queda sometido a exposición pública durante 30 días.",
-      "body_markdown": "El Ayuntamiento de Calp ha aprobado inicialmente el Plan de Acción para el Clima y la Energía Sostenible (PACES). El acuerdo salió adelante por unanimidad y abre un periodo de exposición pública de 30 días.\n\nEl documento incluye 66 medidas de mitigación y 111 medidas de adaptación. Según la información municipal y la cobertura consultada, el plan aborda cuestiones relacionadas con las emisiones y la eficiencia energética, así como riesgos vinculados a lluvias intensas, sequías, temperaturas extremas y fenómenos costeros.\n\nLa exposición pública permitirá tramitar el documento antes de su aprobación definitiva. La aprobación inicial no equivale, por tanto, a la aprobación definitiva del PACES ni implica que sus medidas se ejecuten de forma inmediata.\n\nEl plan combina actuaciones orientadas a reducir emisiones con otras destinadas a adaptar el municipio a distintos riesgos climáticos. Las fuentes consultadas no detallan en esta información el calendario de ejecución de cada medida ni las actuaciones concretas asociadas a cada una de las 177 medidas incluidas.\n\nEl expediente se encuentra así en una fase previa a su aprobación definitiva, a la espera del desarrollo del periodo de exposición pública previsto.",
-      "seo_title": "Calp aprueba inicialmente su plan de acción climática",
-      "meta_description": "El pleno de Calp aprueba inicialmente y por unanimidad el PACES, con 66 medidas de mitigación y 111 de adaptación.",
-      "slug": "calp-aprueba-inicialmente-plan-accion-clima-energia",
-      "editorial_notes": [
-        "Debe indicarse que la aprobación es inicial y que el documento queda en exposición pública durante 30 días.",
-        "No atribuir ejecución inmediata a las medidas ni presentar el PACES como definitivamente aprobado."
-      ],
-      "sources": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 5,
-        "evidence_count": 2,
-        "caveats": [
-          "La aprobación es inicial; no equivale a aprobación definitiva ni a ejecución inmediata de las medidas.",
-          "El título candidato usa 'contra el cambio climático', mientras la denominación oficial es Plan de Acción para el Clima y la Energía Sostenible."
-        ]
-      }
-    },
-    {
-      "id": "drf_4592f493828330cc",
-      "investigation_id": "inv_7a14287e671a366f",
-      "candidate_fingerprint": "ec4de79bf0bb92b6c1642c4e7154e0b6461a7448756db706fe6d39d68348cc4d",
-      "category": "TURISMO",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-14T20:45:11.397Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Los Moros y Cristianos de Calp celebrarán su 50 aniversario del 21 al 26 de octubre",
-      "subheadline": "La edición de 2026 cuenta con una programación oficial de actos festivos, religiosos y musicales y tiene la declaración de Fiesta de Interés Turístico Nacional.",
-      "lead": "Las fiestas de Moros y Cristianos de Calp se celebrarán del 21 al 26 de octubre de 2026, según el programa oficial publicado para una edición que conmemora el 50 aniversario.",
-      "body_markdown": "Calp celebrará sus fiestas de Moros y Cristianos del 21 al 26 de octubre de 2026. La edición conmemorará el 50 aniversario de la celebración y cuenta con un programa oficial de actos festivos, religiosos y musicales.\n\nLas fiestas tienen además la declaración de Fiesta de Interés Turístico Nacional, reconocimiento confirmado por el portal oficial de la celebración y por la información difundida sobre esta edición.\n\nLa programación ha sido publicada por los canales oficiales vinculados al Ayuntamiento de Calp y a la asociación festera. Las fuentes consultadas confirman las fechas generales y la existencia del programa, pero este texto no reproduce el calendario detallado de cada acto.\n\nLa celebración está prevista para los días comprendidos entre el 21 y el 26 de octubre. Al tratarse de fechas posteriores a la investigación, la información disponible acredita la programación anunciada, no la celebración efectiva de los actos.\n\nEl aniversario y el reconocimiento turístico forman parte del marco de esta edición, junto con las actividades festivas, religiosas y musicales incluidas en el programa oficial.",
-      "seo_title": "Moros y Cristianos de Calp: programa del 21 al 26 de octubre",
-      "meta_description": "Calp celebrará los Moros y Cristianos del 21 al 26 de octubre de 2026, en el 50 aniversario y con declaración de Interés Turístico Nacional.",
-      "slug": "moros-cristianos-calp-21-26-octubre-2026",
-      "editorial_notes": [
-        "Las fechas y el programa corresponden a actos futuros respecto al 14 de octubre de 2026; no afirmar que ya se han celebrado.",
-        "Evitar la expresión valorativa 'programa especial'; lo acreditado es la existencia de una programación oficial vinculada al 50 aniversario y al reconocimiento turístico."
-      ],
-      "sources": [
-        {
-          "source_name": "Tourist Info Calpe / Ayuntamiento de Calp",
-          "source_url": "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Portal oficial de Moros y Cristianos de Calp",
-          "source_url": "https://morosycristianos.calpe.es/actualidad/",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/09/10/los-moros-y-cristianos-de-calp-conquistan-el-reconocimiento-de-fiesta-de-interes-turistico-nacional-radio-denia/",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/13/calp-celebrara-les-festes-de-moros-i-cristians-del-21-al-26-doctubre-tota-la-programacio",
-          "source_type": "SECONDARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
         "confidence": "HIGH",
         "supported_claim_count": 4,
-        "evidence_count": 4,
+        "evidence_count": 3,
         "caveats": [
-          "Las fiestas son futuras respecto a la fecha de investigación, 14 de octubre de 2026; las fuentes verifican la programación anunciada, no la celebración efectiva de los actos.",
-          "La expresión 'programa especial' es valorativa; lo verificable es que existe una programación oficial y que coincide con el 50 aniversario y el nuevo reconocimiento turístico."
+          "La noticia describe una declaración de interés y un estudio de viabilidad, no la creación efectiva del aula ni la implantación definitiva de grados.",
+          "No se han localizado titulaciones concretas, convenio definitivo con la UNED ni calendario oficial de apertura.",
+          "La fuente primaria municipal respalda directamente la referencia a Casa Nova y a uno o dos grados; la vinculación con el centro asociado de Dénia está desarrollada con mayor detalle por la fuente secundaria."
+        ]
+      }
+    },
+    {
+      "id": "drf_af6ed3cf769d0f9a",
+      "investigation_id": "inv_c3e64a3606ca74e9",
+      "candidate_fingerprint": "0e4be387a42ec0c1d733e8958f99d713ba264d514476b8a591df3265fc256c6b",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-14T23:57:14.253Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp aprueba inicialmente y por unanimidad su plan de acción frente al cambio climático",
+      "subheadline": "El PACES reúne 177 medidas de mitigación y adaptación y deberá someterse a exposición pública antes de su aprobación definitiva",
+      "lead": "El pleno municipal de Calp ha aprobado inicialmente y por unanimidad el Plan de Acción por el Clima y la Energía Sostenible (PACES). El documento reúne 66 medidas de mitigación y 111 de adaptación, pero todavía debe pasar por un periodo de exposición pública antes de su aprobación definitiva.",
+      "body_markdown": "El pleno municipal de Calp ha aprobado inicialmente el Plan de Acción por el Clima y la Energía Sostenible (PACES). La aprobación salió adelante por unanimidad, según la información municipal disponible.\n\nEl documento contiene 66 medidas de mitigación y 111 medidas de adaptación, lo que suma 177 actuaciones previstas en el plan. Las primeras están orientadas a reducir las emisiones y mejorar la eficiencia energética, mientras que las medidas de adaptación buscan preparar el municipio ante los efectos del cambio climático.\n\nLa aprobación adoptada por el pleno no es todavía definitiva. El PACES deberá someterse a un periodo de exposición pública de 30 días antes de completar su tramitación y poder recibir, en su caso, la aprobación definitiva.\n\nEl plan recoge actuaciones relacionadas con la reducción de emisiones de CO₂, el uso más eficiente de la energía y la adaptación del municipio al cambio climático. La aprobación inicial establece así el marco documental para continuar el procedimiento, pero no significa que las medidas estén ya ejecutadas.\n\nTampoco consta que exista financiación concedida para cada una de las actuaciones incluidas en el documento. La aprobación del PACES, por tanto, debe diferenciarse de la puesta en marcha efectiva de sus medidas.\n\nEl Ayuntamiento había abierto previamente un proceso de participación para la elaboración del plan, con el objetivo de priorizar y proponer medidas de mitigación y adaptación. Tras el acuerdo plenario, el expediente afronta ahora la fase de exposición pública prevista antes de su eventual aprobación definitiva.",
+      "seo_title": "Calp aprueba inicialmente su plan contra el cambio climático",
+      "meta_description": "El pleno de Calp aprueba por unanimidad el PACES, con 177 medidas de mitigación y adaptación. El plan aún debe superar la exposición pública.",
+      "slug": "calp-aprueba-inicialmente-plan-accion-cambio-climatico",
+      "editorial_notes": [
+        "Usar siempre la fórmula aprobación inicial; el PACES todavía no tiene aprobación definitiva.",
+        "Las cifras verificadas son 66 medidas de mitigación y 111 de adaptación, 177 en total.",
+        "No presentar las medidas como ejecutadas ni afirmar que cuentan con financiación concedida."
+      ],
+      "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp, dossier de prensa / agregador municipal",
+          "source_url": "https://calp.es/en/aggregator",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, encuesta preparatoria del PACES",
+          "source_url": "https://www.calp.es/va/node/10904",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La formulación correcta es aprobación inicial, no aprobación definitiva.",
+          "Las cifras verificadas son 66 medidas de mitigación y 111 de adaptación, 177 en total.",
+          "La aprobación del plan no implica que todas las actuaciones estén ejecutadas ni que exista financiación concedida para cada medida."
         ]
       }
     }
