@@ -3,297 +3,39 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-14T06:12:08.438Z",
+  "generated_at": "2026-10-14T11:57:33.391Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 2,
-  "ready_count": 2,
-  "quarantined_count": 0,
-  "ready": [
+  "ready_count": 0,
+  "quarantined_count": 2,
+  "ready": [],
+  "quarantined": [
     {
-      "export_id": "exp_cd57e6a70c8b8809",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-14T06:12:08.438Z",
-      "source_draft_id": "drf_064f6d192c8825cd",
-      "source_investigation_id": "inv_d041be6fab473f80",
-      "candidate_fingerprint": "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
-      "quality_gate_id": "qg_f237188b42e6c272",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_064f6d192c8825cd",
-        "investigation_id": "inv_d041be6fab473f80",
-        "candidate_fingerprint": "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
-        "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
-        "subtitle": "La modificación reduce la tasa para viviendas habituales y beneficia a más de 20.000 vehículos; también prevé aplicar de oficio una bonificación del 95% en herencias",
-        "summary": "El pleno del Ayuntamiento de Calp aprobó el 13 de octubre modificaciones de las ordenanzas fiscales con efectos previstos para 2027. El paquete incluye una reducción de la tasa de residuos para las viviendas habituales, una rebaja del impuesto de vehículos para la mayoría del parque móvil y cambios en la aplicación de la bonificación del 95% de la plusvalía en las transmisiones hereditarias.",
-        "body": "La modificación fiscal aprobada por el pleno contempla una reducción de la tasa de basura para las viviendas habituales. La medida se integra en el conjunto de cambios previsto para 2027 y no supone, según la información disponible, una aplicación inmediata durante 2026.\n\nEl impuesto de vehículos también bajará para una parte mayoritaria del parque móvil de Calp. La rebaja alcanzará a 20.310 de los 22.004 vehículos incluidos en la información facilitada. Para los vehículos de hasta 16 caballos fiscales, la reducción será de aproximadamente el 25%.\n\nEl acuerdo incorpora además una modificación relacionada con la bonificación del 95% de la plusvalía en las herencias. Esta bonificación se aplicará de oficio cuando se cumplan los requisitos establecidos, en lugar de quedar condicionada a una solicitud en esos casos.\n\nLa aprobación salió adelante en la sesión plenaria del 13 de octubre con los votos de Somos Calpe, PSPV y Compromís, según la información publicada sobre el pleno. El contenido aprobado afecta a las ordenanzas fiscales para el ejercicio 2027.\n\nLa aplicación efectiva de estas medidas queda pendiente de los trámites previstos legalmente para las ordenanzas, incluida su publicación y el periodo de exposición pública. Por tanto, las rebajas anunciadas corresponden al marco fiscal aprobado para 2027, pero todavía deben completarse esos procedimientos antes de su entrada en vigor.",
-        "category": "POLITICA",
-        "slug": "calp-aprueba-rebajas-fiscales-2027",
-        "seo_title": "Calp aprueba rebajas fiscales para 2027",
-        "meta_description": "El pleno de Calp aprueba para 2027 rebajas en basura y vehículos, además de aplicar de oficio el 95% de bonificación en herencias.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_f237188b42e6c272",
-        "editorial_notes": [
-          "La aprobación y entrada en vigor de las ordenanzas quedan pendientes de publicación y exposición pública conforme a los trámites legales.",
-          "Las medidas corresponden a 2027 y no implican una aplicación inmediata en 2026.",
-          "Mantener la referencia a los apoyos plenarios como dato atribuido a la información disponible, sin valorar el acuerdo ni a los grupos políticos."
-        ],
-        "sources": [
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Times",
-            "url": "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-            "type": "PRIMARY"
-          }
-        ],
-        "source_urls": [
-          "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
-          "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
-          "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 4,
-          "caveats": [
-            "La aprobación definitiva y entrada en vigor de las ordenanzas deben seguir los trámites de publicación y exposición pública previstos legalmente.",
-            "La afirmación se refiere a las medidas aprobadas para 2027, no a una aplicación inmediata en 2026."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_f237188b42e6c272",
-          "quality_gate_evaluated_at": "2026-10-14T06:12:08.273Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-10-14T06:11:55.187Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_064f6d192c8825cd",
-        "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
-        "slug": "calp-aprueba-rebajas-fiscales-2027",
-        "summary": "El pleno del Ayuntamiento de Calp aprobó el 13 de octubre modificaciones de las ordenanzas fiscales con efectos previstos para 2027. El paquete incluye una reducción de la tasa de residuos para las viviendas habituales, una rebaja del impuesto de vehículos para la mayoría del parque móvil y cambios en la aplicación de la bonificación del 95% de la plusvalía en las transmisiones hereditarias.",
-        "body": "La modificación fiscal aprobada por el pleno contempla una reducción de la tasa de basura para las viviendas habituales. La medida se integra en el conjunto de cambios previsto para 2027 y no supone, según la información disponible, una aplicación inmediata durante 2026.\n\nEl impuesto de vehículos también bajará para una parte mayoritaria del parque móvil de Calp. La rebaja alcanzará a 20.310 de los 22.004 vehículos incluidos en la información facilitada. Para los vehículos de hasta 16 caballos fiscales, la reducción será de aproximadamente el 25%.\n\nEl acuerdo incorpora además una modificación relacionada con la bonificación del 95% de la plusvalía en las herencias. Esta bonificación se aplicará de oficio cuando se cumplan los requisitos establecidos, en lugar de quedar condicionada a una solicitud en esos casos.\n\nLa aprobación salió adelante en la sesión plenaria del 13 de octubre con los votos de Somos Calpe, PSPV y Compromís, según la información publicada sobre el pleno. El contenido aprobado afecta a las ordenanzas fiscales para el ejercicio 2027.\n\nLa aplicación efectiva de estas medidas queda pendiente de los trámites previstos legalmente para las ordenanzas, incluida su publicación y el periodo de exposición pública. Por tanto, las rebajas anunciadas corresponden al marco fiscal aprobado para 2027, pero todavía deben completarse esos procedimientos antes de su entrada en vigor.",
-        "category": "POLITICA",
-        "seo_title": "Calp aprueba rebajas fiscales para 2027",
-        "meta_description": "El pleno de Calp aprueba para 2027 rebajas en basura y vehículos, además de aplicar de oficio el 95% de bonificación en herencias.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_f237188b42e6c272",
-        "published_at": null,
-        "source_urls": [
-          "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
-          "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
-          "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en"
-        ],
-        "sources": [
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "La Marina Times",
-            "url": "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-            "type": "PRIMARY"
-          }
-        ],
-        "investigation_id": "inv_d041be6fab473f80",
-        "candidate_fingerprint": "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 4,
-          "caveats": [
-            "La aprobación definitiva y entrada en vigor de las ordenanzas deben seguir los trámites de publicación y exposición pública previstos legalmente.",
-            "La afirmación se refiere a las medidas aprobadas para 2027, no a una aplicación inmediata en 2026."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_f237188b42e6c272",
-          "quality_gate_evaluated_at": "2026-10-14T06:12:08.273Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
+      "export_id": "exp_8ade5aceba73c1bc",
+      "draft_id": "drf_15753f3bf2b70cee",
+      "investigation_id": "inv_c9e1d6bba5cb3547",
+      "slug": "calp-estudia-crear-aula-universitaria-uned",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ]
     },
     {
-      "export_id": "exp_01d2bcaf1a836bd5",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-14T06:12:08.438Z",
-      "source_draft_id": "drf_12ebcbfe3a7bf292",
-      "source_investigation_id": "inv_0d0b53af0b09a653",
-      "candidate_fingerprint": "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
-      "quality_gate_id": "qg_05efed0bda7d11cc",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_12ebcbfe3a7bf292",
-        "investigation_id": "inv_0d0b53af0b09a653",
-        "candidate_fingerprint": "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
-        "title": "Calp eleva a unos 1,3 millones el presupuesto de su futura Oficina de Turismo",
-        "subtitle": "El Ayuntamiento prepara un tercer intento de licitación tras quedar desiertos los dos anteriores e incorpora 337.000 euros al proyecto",
-        "summary": "El Ayuntamiento de Calp prepara un tercer intento para sacar adelante la Oficina de Turismo inteligente del casco histórico, después de que las dos licitaciones anteriores quedaran desiertas. La actualización del proyecto incorpora 337.000 euros adicionales y sitúa su presupuesto total en aproximadamente 1,3 millones de euros.",
-        "body": "La nueva Oficina de Turismo del siglo XXI forma parte de las actuaciones previstas por el Ayuntamiento de Calp. Tras dos licitaciones desiertas, el proyecto afronta ahora un nuevo procedimiento con una valoración económica actualizada.\n\nLa modificación incorpora 337.000 euros adicionales. Esa cantidad completa una financiación previa cercana al millón de euros y eleva el presupuesto total estimado hasta unos 1,3 millones. La cifra depende de la aprobación de la modificación presupuestaria y de la posterior licitación, por lo que no significa que las obras estén adjudicadas.\n\nEl proyecto prevé conservar una fachada tradicional del inmueble situada en la calle Llibertat. La planta inferior tendrá usos vinculados a la actividad turística, mientras que la planta superior se destinará a funciones de promoción económica, atención a empresas y reuniones.\n\nLa actuación ya figuraba entre las previstas en la planificación municipal de 2026 y tiene carácter plurianual dentro de esa programación. El proyecto había salido a licitación en 2023 e incluía tecnología avanzada y rutas virtuales relacionadas con los atractivos de Calp.\n\nLa referencia a las dos licitaciones desiertas corresponde al proyecto de la Oficina de Turismo. Con la nueva actualización económica, el Ayuntamiento intenta volver a poner en marcha la contratación, aunque el expediente todavía debe superar los trámites presupuestarios y de licitación correspondientes.",
-        "category": "TURISMO",
-        "slug": "calp-oficina-turismo-presupuesto-13-millones",
-        "seo_title": "Calp eleva a 1,3 millones su Oficina de Turismo",
-        "meta_description": "Calp prepara un tercer intento para licitar su Oficina de Turismo tras dos concursos desiertos y añade 337.000 euros al presupuesto.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_05efed0bda7d11cc",
-        "editorial_notes": [
-          "El presupuesto aproximado de 1,3 millones depende de la aprobación de la modificación presupuestaria y de la posterior licitación.",
-          "No afirmar que las obras están adjudicadas o iniciadas.",
-          "La mención a dos licitaciones desiertas se refiere al proyecto de la Oficina de Turismo y no necesariamente a procedimientos idénticos."
-        ],
-        "sources": [
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-          "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-          "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 6,
-          "evidence_count": 4,
-          "caveats": [
-            "El importe de 1,3 millones depende de la aprobación y posterior licitación de la modificación presupuestaria; no implica que las obras estén adjudicadas.",
-            "La expresión «dos licitaciones desiertas» se refiere al proyecto de la oficina, no necesariamente a dos procedimientos idénticos con el mismo presupuesto."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_05efed0bda7d11cc",
-          "quality_gate_evaluated_at": "2026-10-14T06:12:08.273Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-10-14T06:11:55.187Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_12ebcbfe3a7bf292",
-        "title": "Calp eleva a unos 1,3 millones el presupuesto de su futura Oficina de Turismo",
-        "slug": "calp-oficina-turismo-presupuesto-13-millones",
-        "summary": "El Ayuntamiento de Calp prepara un tercer intento para sacar adelante la Oficina de Turismo inteligente del casco histórico, después de que las dos licitaciones anteriores quedaran desiertas. La actualización del proyecto incorpora 337.000 euros adicionales y sitúa su presupuesto total en aproximadamente 1,3 millones de euros.",
-        "body": "La nueva Oficina de Turismo del siglo XXI forma parte de las actuaciones previstas por el Ayuntamiento de Calp. Tras dos licitaciones desiertas, el proyecto afronta ahora un nuevo procedimiento con una valoración económica actualizada.\n\nLa modificación incorpora 337.000 euros adicionales. Esa cantidad completa una financiación previa cercana al millón de euros y eleva el presupuesto total estimado hasta unos 1,3 millones. La cifra depende de la aprobación de la modificación presupuestaria y de la posterior licitación, por lo que no significa que las obras estén adjudicadas.\n\nEl proyecto prevé conservar una fachada tradicional del inmueble situada en la calle Llibertat. La planta inferior tendrá usos vinculados a la actividad turística, mientras que la planta superior se destinará a funciones de promoción económica, atención a empresas y reuniones.\n\nLa actuación ya figuraba entre las previstas en la planificación municipal de 2026 y tiene carácter plurianual dentro de esa programación. El proyecto había salido a licitación en 2023 e incluía tecnología avanzada y rutas virtuales relacionadas con los atractivos de Calp.\n\nLa referencia a las dos licitaciones desiertas corresponde al proyecto de la Oficina de Turismo. Con la nueva actualización económica, el Ayuntamiento intenta volver a poner en marcha la contratación, aunque el expediente todavía debe superar los trámites presupuestarios y de licitación correspondientes.",
-        "category": "TURISMO",
-        "seo_title": "Calp eleva a 1,3 millones su Oficina de Turismo",
-        "meta_description": "Calp prepara un tercer intento para licitar su Oficina de Turismo tras dos concursos desiertos y añade 337.000 euros al presupuesto.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_05efed0bda7d11cc",
-        "published_at": null,
-        "source_urls": [
-          "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-          "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-          "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja/"
-        ],
-        "sources": [
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Plaza",
-            "url": "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_0d0b53af0b09a653",
-        "candidate_fingerprint": "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 6,
-          "evidence_count": 4,
-          "caveats": [
-            "El importe de 1,3 millones depende de la aprobación y posterior licitación de la modificación presupuestaria; no implica que las obras estén adjudicadas.",
-            "La expresión «dos licitaciones desiertas» se refiere al proyecto de la oficina, no necesariamente a dos procedimientos idénticos con el mismo presupuesto."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_05efed0bda7d11cc",
-          "quality_gate_evaluated_at": "2026-10-14T06:12:08.273Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
+      "export_id": "exp_60f15d54d35599f4",
+      "draft_id": "drf_896a474913a245ed",
+      "investigation_id": "inv_525441d0b15c51ef",
+      "slug": "calp-aprueba-inicialmente-plan-cambio-climatico",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ]
     }
-  ],
-  "quarantined": []
+  ]
 }
