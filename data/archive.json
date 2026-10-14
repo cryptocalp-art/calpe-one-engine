@@ -3,9 +3,80 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-14T00:22:50.709Z",
-  "count": 83,
+  "updated_at": "2026-10-14T06:12:08.596Z",
+  "count": 84,
   "articles": [
+    {
+      "archive_id": "arc_233a0fd61119bd42",
+      "external_id": "drf_064f6d192c8825cd",
+      "investigation_id": "inv_d041be6fab473f80",
+      "candidate_fingerprints": [
+        "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
+        "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff"
+      ],
+      "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
+      "slug": "calp-aprueba-rebajas-fiscales-2027",
+      "summary": "El pleno del Ayuntamiento de Calp aprobó el 13 de octubre modificaciones de las ordenanzas fiscales con efectos previstos para 2027. El paquete incluye una reducción de la tasa de residuos para las viviendas habituales, una rebaja del impuesto de vehículos para la mayoría del parque móvil y cambios en la aplicación de la bonificación del 95% de la plusvalía en las transmisiones hereditarias.",
+      "body": "La modificación fiscal aprobada por el pleno contempla una reducción de la tasa de basura para las viviendas habituales. La medida se integra en el conjunto de cambios previsto para 2027 y no supone, según la información disponible, una aplicación inmediata durante 2026.\n\nEl impuesto de vehículos también bajará para una parte mayoritaria del parque móvil de Calp. La rebaja alcanzará a 20.310 de los 22.004 vehículos incluidos en la información facilitada. Para los vehículos de hasta 16 caballos fiscales, la reducción será de aproximadamente el 25%.\n\nEl acuerdo incorpora además una modificación relacionada con la bonificación del 95% de la plusvalía en las herencias. Esta bonificación se aplicará de oficio cuando se cumplan los requisitos establecidos, en lugar de quedar condicionada a una solicitud en esos casos.\n\nLa aprobación salió adelante en la sesión plenaria del 13 de octubre con los votos de Somos Calpe, PSPV y Compromís, según la información publicada sobre el pleno. El contenido aprobado afecta a las ordenanzas fiscales para el ejercicio 2027.\n\nLa aplicación efectiva de estas medidas queda pendiente de los trámites previstos legalmente para las ordenanzas, incluida su publicación y el periodo de exposición pública. Por tanto, las rebajas anunciadas corresponden al marco fiscal aprobado para 2027, pero todavía deben completarse esos procedimientos antes de su entrada en vigor.",
+      "category": "POLITICA",
+      "seo_title": "Calp aprueba rebajas fiscales para 2027",
+      "meta_description": "El pleno de Calp aprueba para 2027 rebajas en basura y vehículos, además de aplicar de oficio el 95% de bonificación en herencias.",
+      "sources": [
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Times",
+          "url": "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal",
+        "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos",
+        "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
+        "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
+        "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada",
+        "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
+        "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "La aprobación definitiva y entrada en vigor de las ordenanzas deben seguir los trámites de publicación y exposición pública previstos legalmente.",
+          "La afirmación se refiere a las medidas aprobadas para 2027, no a una aplicación inmediata en 2026."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_f237188b42e6c272",
+        "quality_gate_evaluated_at": "2026-10-14T06:12:08.273Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La aprobación y entrada en vigor de las ordenanzas quedan pendientes de publicación y exposición pública conforme a los trámites legales.",
+        "Las medidas corresponden a 2027 y no implican una aplicación inmediata en 2026.",
+        "Mantener la referencia a los apoyos plenarios como dato atribuido a la información disponible, sin valorar el acuerdo ni a los grupos políticos."
+      ],
+      "published_at": "2026-10-14T06:11:55.187Z",
+      "updated_at": "2026-10-14T06:12:08.596Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_b53156c2da63524e",
       "external_id": "drf_bec53d3a38a971b0",

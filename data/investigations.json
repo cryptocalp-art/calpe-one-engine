@@ -1,170 +1,323 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-14T00:22:06.362Z",
+  "generated_at": "2026-10-14T06:10:57.406Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 5,
   "investigations": [
     {
-      "candidate_fingerprint": "0314aae526556555fb84c375343d33f7ab5853f5b3826949f0e95ce036abcef0",
-      "title": "Calp rebajará en 2027 la tasa de basuras residencial y el impuesto de circulación",
+      "candidate_fingerprint": "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
+      "title": "Calp aprueba una rebaja del impuesto de vehículos y de la tasa de basura para 2027",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información está corroborada por dos medios independientes. El pleno de Calp aprobó el 13 de octubre de 2026 modificaciones fiscales para 2027 que reducen la tasa de residuos para viviendas habituales y el impuesto de vehículos para la mayoría del parque móvil, además de modificar la aplicación de la bonificación del 95% de la plusvalía en herencias. La cifra de vehículos beneficiados y los importes concretos también aparecen respaldados.",
+      "claims": [
+        {
+          "claim": "El pleno aprobó modificaciones fiscales con efectos en 2027.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La tasa de basura se reduce para las viviendas habituales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El impuesto de vehículos baja para más de 20.000 vehículos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La bonificación del 95% en la plusvalía por herencias se aplicará de oficio cuando se cumplan los requisitos.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/una-nueva-ausencia-de-cesar-sanchez-pp-permite-al-gobierno-de-calp-sacar-adelante-su-revolucion-fiscal/",
+          "evidence": "Informa de que los votos de Somos Calpe, PSPV y Compromís aprobaron la modificación de las ordenanzas fiscales en el pleno del 13 de octubre de 2026.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
+          "evidence": "Detalla la reducción de la tasa para viviendas habituales, la rebaja aproximada del 25% del impuesto de circulación para vehículos de hasta 16 caballos fiscales, el beneficio para 20.310 de 22.004 vehículos y la modificación para aplicar de oficio la bonificación del 95% de la plusvalía en herencias.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Times",
+          "source_url": "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
+          "evidence": "Corrobora el contenido esencial del paquete fiscal: reducción de basura y circulación para viviendas y aplicación de oficio de la bonificación del 95% en herencias.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
+          "evidence": "La información municipal confirma que Calp ya mantenía una bonificación del 95% en transmisiones hereditarias, aunque no acredita por sí sola la modificación aprobada en octubre de 2026.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La aprobación definitiva y entrada en vigor de las ordenanzas deben seguir los trámites de publicación y exposición pública previstos legalmente.",
+        "La afirmación se refiere a las medidas aprobadas para 2027, no a una aplicación inmediata en 2026."
+      ],
+      "id": "inv_d041be6fab473f80",
+      "investigated_at": "2026-10-14T06:10:57.406Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d3450728fe0a751c83b7a8beacd239be839ba5fffcc85dac92f05c7628642fb6",
+      "title": "Calp moviliza 1,76 millones de euros para aparcamiento, turismo, residuos y servicios municipales",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La existencia de una propuesta municipal para modificar en 2027 la tasa de residuos y el IVTM está corroborada por dos medios locales independientes. Sin embargo, no se ha localizado una fuente primaria que confirme la aprobación definitiva en el pleno del 13 de octubre de 2026. La evidencia disponible respalda que se trataba de una propuesta sometida a consideración, no necesariamente de una medida ya aprobada.",
+      "summary": "La modificación de crédito de 1.760.000 euros y sus principales partidas están corroboradas por Calp Digital y La Marina Plaza. Sin embargo, las fuentes independientes consultadas describen la operación como una propuesta que se llevaba al pleno o que se pretendía aprobar, sin acreditar de forma concluyente el resultado de la votación del 13 de octubre. Por ello no puede darse por verificado el verbo esencial «ha aprobado».",
       "claims": [
         {
-          "claim": "El Ayuntamiento planteó para 2027 reducir entre un 18% y un 20% la tasa de residuos de las viviendas residenciales.",
+          "claim": "El pleno aprobó una modificación de crédito por 1.760.000 euros.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La modificación se distribuye en 18 partidas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El coeficiente del impuesto de vehículos se planteó bajar de 1,8 a 1,35, equivalente a una reducción del 25%.",
+          "claim": "Incluye 659.000 euros para adaptar o reubicar el aparcamiento del vial Felipe VI.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las viviendas turísticas pagarían 40 euros adicionales por plaza y los comercios tendrían un incremento del 5% en la tasa de basuras.",
+          "claim": "Incluye 337.000 euros para la futura Oficina de Turismo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La rebaja quedó aprobada definitivamente por el pleno municipal del 13 de octubre de 2026.",
+          "claim": "Incluye cerca de 400.000 euros para residuos y limpieza viaria.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Incluye 72.600 euros para rehabilitar la base de ambulancias de soporte vital básico.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "evidence": "Describe una modificación de crédito de aproximadamente 1,7 millones y enumera 659.000 euros para el aparcamiento, 337.000 para la oficina de turismo, 400.000 para residuos y 72.600 para la base de ambulancias. La noticia indica que la operación iba a someterse al pleno, no que su aprobación estuviera confirmada.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Times",
+          "source_url": "https://lamarinatimes.com/es/politica/calp-aprueba-una-inyeccion-de-176-millones-de-euros-para-aparcamiento-turismo-y-residuos",
+          "evidence": "Corrobora el importe de 1.760.000 euros, las 18 partidas y las principales asignaciones, pero presenta la modificación como un asunto que el pleno estudiaba ese martes.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
+          "evidence": "Expone la propuesta municipal de 1.760.000 euros para 18 partidas y detalla las cantidades destinadas al aparcamiento, la Oficina de Turismo, residuos y la base de ambulancias.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/portal-de-transparencia/economica-financiera-y-presupuestaria/modificaciones-presupuestarias",
+          "evidence": "Confirma que las modificaciones presupuestarias son competencia del pleno, pero la página consultada no muestra el expediente específico de octubre de 2026 ni su resultado.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "Falta localizar el acta, videoacta o publicación oficial del pleno del 13 de octubre de 2026 que confirme la votación y el acuerdo definitivo.",
+        "Las cantidades están suficientemente corroboradas como propuesta, pero no necesariamente como crédito ya aprobado o ejecutable."
+      ],
+      "id": "inv_1fb0ccba9a274c8a",
+      "investigated_at": "2026-10-14T06:10:57.406Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "b9aa0753cde0659c7ae5cd414101b3b1c93d5e534f0b5e81a76f74846d1ec20e",
+      "title": "Calp aprueba inicialmente su plan contra el cambio climático",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Calp Digital informa de una aprobación inicial y unánime del PACES en el pleno de octubre de 2026. La documentación oficial confirma que el Ayuntamiento estaba elaborando el plan, que abrió una encuesta pública en junio de 2026 y que contrató servicios para redactarlo, pero no se ha localizado el acuerdo plenario específico que confirme la aprobación inicial y su exposición pública. El hecho esencial requiere verificación primaria.",
+      "claims": [
+        {
+          "claim": "El pleno aprobó inicialmente el PACES de Calp.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La aprobación fue unánime.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El plan debe orientar medidas de reducción de emisiones, eficiencia energética y adaptación climática.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El documento queda sometido a exposición pública antes de su aprobación definitiva.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12394/calp-rebaja-impuesto-vehiculos-tasa-basura-2027",
-          "evidence": "Describe las modificaciones fiscales que el Ayuntamiento llevaría al pleno: una reducción cercana al 18% para viviendas residenciales, la rebaja del impuesto de circulación para 20.310 vehículos y la aplicación de nuevas cargas a determinados usos. La pieza presenta las medidas como propuestas para 2027, no como aprobación definitiva.",
+          "source_url": "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
+          "evidence": "Afirma que el pleno ordinario de octubre aprobó inicialmente y por unanimidad el PACES y que el documento pasará por exposición pública.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Times",
-          "source_url": "https://lamarinatimes.com/es/politica/calp-llevara-al-pleno-modificaciones-fiscales-que-bajan-basuras-y-circulacion-en-2027",
-          "evidence": "Informa de un paquete de modificaciones fiscales que el Ayuntamiento sometería al pleno del 13 de octubre de 2026. Detalla reducciones del 18% al 20% para viviendas, 40 euros adicionales por plaza turística, aumento del 5% para comercios y bajada del coeficiente del IVTM de 1,8 a 1,35.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/node/10904",
+          "evidence": "La página municipal acredita que en junio de 2026 el Ayuntamiento abrió una encuesta para elaborar el PACES y que el plan aborda mitigación, adaptación, eficiencia energética y energías renovables.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Alicitar",
+          "source_url": "https://www.alicitar.es/licitacion/7743/servicios-de-redaccion-del-plan-de-accion-para-el-clima-y-la-energia-sostenible",
+          "evidence": "Registra la contratación de servicios de redacción del PACES del municipio de Calp, lo que corrobora que el documento estaba en proceso de elaboración.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina de l'eldiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/13/la-revolucion-fiscal-de-2027-en-calp-bajan-la-basura-en-las-casas-y-el-impuesto-de-vehiculos-por-primera-vez-en-23-anos/",
-          "evidence": "Corrobora que el Ayuntamiento anunció para 2027 una reducción de la tasa de basura residencial y del impuesto de vehículos. No se ha podido verificar mediante esta fuente el resultado de la votación plenaria ni la aprobación definitiva.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/portal-de-transparencia/institucional/ordenes-del-dia-y-actas-plenarias",
+          "evidence": "El portal municipal identifica las actas y videoactas como la fuente oficial para comprobar acuerdos, debates y votaciones del pleno, pero la página consultada no contiene el acuerdo específico de octubre de 2026.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La formulación del candidato afirma que Calp rebajará los tributos, mientras que las fuentes localizadas describen principalmente una propuesta que debía tramitarse o aprobarse en pleno.",
-        "No se ha encontrado en la búsqueda una ordenanza fiscal definitiva, publicación oficial o acta del pleno de octubre de 2026 que confirme la entrada en vigor de todas las medidas y sus porcentajes exactos."
+        "No se localizó el acta, videoacta o anuncio oficial de exposición pública correspondiente al PACES aprobado en octubre.",
+        "La evidencia oficial disponible demuestra la preparación del plan, no por sí sola su aprobación inicial."
       ],
-      "id": "inv_7cb1bfe93b00377c",
-      "investigated_at": "2026-10-14T00:22:06.362Z",
+      "id": "inv_7c43f001ca3f8844",
+      "investigated_at": "2026-10-14T06:10:57.406Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "52a2646560a18aadb9619b0baf1e1344deffc234685a6d5652702d13cd637b4b",
-      "title": "Calp aprueba una modificación de crédito de 1,76 millones para aparcamiento, turismo y servicios municipales",
+      "candidate_fingerprint": "c7e186025838f70f25118be1b9961ab904e2a807b4f90d4df23500f6bfc1e0bf",
+      "title": "Calp da el primer paso para ofrecer hasta dos grados universitarios vinculados a la UNED",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La modificación de crédito por 1,76 millones de euros y sus principales destinos aparecen corroborados por La Marina Times y La Marina de l'eldiario.es. No obstante, las fuentes consultadas describen una propuesta que iba a ser llevada al pleno o que el gobierno intentaba aprobar, no una aprobación plenaria inequívocamente acreditada. Por ello, el verbo del titular no queda suficientemente probado.",
+      "summary": "Calp Digital aporta una versión detallada de la declaración de interés municipal para estudiar un aula universitaria vinculada a la UNED de Dénia, con posibilidad de uno o dos grados y sin creación inmediata de una sede. La información oficial consultada confirma la colaboración de Calp con la UNED Sénior y la existencia de actividad universitaria en el municipio, pero no acredita el acuerdo plenario específico sobre grados oficiales. Falta corroboración independiente del hecho esencial.",
       "claims": [
         {
-          "claim": "El Ayuntamiento planteó una modificación de crédito de 1.760.000 euros distribuida en 18 partidas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se reservaron 659.000 euros para adaptar o trasladar el aparcamiento situado junto al vial Felipe VI por su ubicación en zona de flujo preferente.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se contemplaron 337.000 euros adicionales para la futura Oficina de Turismo del casco histórico.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La modificación incluía cerca de 400.000 euros para el contrato de residuos y limpieza viaria, unos 91.000-92.000 euros para caminos y 72.600 euros para la base del Soporte Vital Básico.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El pleno municipal aprobó definitivamente la modificación de crédito el 13 de octubre de 2026.",
+          "claim": "El pleno declaró de interés municipal estudiar la creación de un aula universitaria vinculada a la UNED de Dénia.",
           "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La iniciativa contempla estudiar uno o dos grados universitarios.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La aprobación fue unánime.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La decisión no crea todavía una sede universitaria ni fija titulaciones o calendario.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El siguiente paso sería trasladar formalmente el interés municipal a la UNED y estudiar las condiciones del proyecto.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Marina Times",
-          "source_url": "https://lamarinatimes.com/es/politica/calp-aprueba-una-inyeccion-de-176-millones-de-euros-para-aparcamiento-turismo-y-residuos",
-          "evidence": "Detalla una modificación de crédito de 1.760.000 euros repartida en 18 partidas, con 659.000 euros para el aparcamiento del vial Felipe VI, 337.000 euros para la Oficina de Turismo, cerca de 400.000 euros para residuos y limpieza, fondos para caminos y 72.600 euros para la base del Soporte Vital Básico. El texto indica que la modificación se llevaba al pleno, pero no aporta una resolución oficial de aprobación definitiva.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
+          "evidence": "Informa de una declaración de interés municipal aprobada por unanimidad para estudiar un aula dependiente del centro asociado de la UNED de Dénia, con posibilidad de uno o dos grados, y aclara que aún no hay sede, titulaciones ni calendario.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina de l'eldiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
-          "evidence": "Corrobora que el gobierno local intentaba aprobar una modificación que incluía 337.000 euros adicionales para la Oficina de Turismo y 659.000 euros para adaptar el aparcamiento del vial Felipe VI por riesgo de inundación. La fuente respalda el contenido de las partidas, pero no confirma por sí sola la aprobación final del expediente.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/eventos/month/?lang=va-val",
+          "evidence": "Acredita que Calp ofrece cursos de UNED Sénior durante el curso 2026/2027, pero no menciona la aprobación de grados universitarios oficiales ni el aula universitaria descrita en la candidatura.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp, actas y vídeoactas del pleno",
-          "source_url": "https://smartisw.es/calp/visorv.aspx?id=98",
-          "evidence": "El portal municipal de vídeoactas muestra que el Ayuntamiento publica documentación de sesiones y expedientes de modificaciones de crédito. La página localizada corresponde al pleno ordinario del 15 de mayo de 2026 y no acredita la votación del expediente de 1,76 millones del 13 de octubre de 2026.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+          "evidence": "Acredita la existencia de una Sede Universitaria de Calp y actividades vinculadas a la Universidad de Alicante, pero no confirma el acuerdo sobre grados de la UNED.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/es/portal-de-transparencia/institucional/ordenes-del-dia-y-actas-plenarias",
+          "evidence": "Señala que las actas y videoactas son la fuente oficial para comprobar acuerdos plenarios, pero no se ha localizado en la consulta realizada el acta específica de octubre de 2026.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La búsqueda no localizó el acta, acuerdo plenario o publicación presupuestaria oficial correspondiente al 13 de octubre de 2026.",
-        "El titular afirma que la modificación fue aprobada, mientras que las fuentes periodísticas encontradas la presentan como un asunto que se sometía o intentaba someter a aprobación.",
-        "La cifra global y los destinos principales sí están corroborados, pero el estado administrativo final permanece abierto."
+        "La colaboración con UNED Sénior no equivale a ofrecer grados universitarios oficiales.",
+        "Debe localizarse el acta o videoacta del pleno y, preferiblemente, una comunicación de la UNED de Dénia o de la UNED central."
       ],
-      "id": "inv_fbafe56e54d61926",
-      "investigated_at": "2026-10-14T00:22:06.362Z",
+      "id": "inv_f5dd57c973f4f0ef",
+      "investigated_at": "2026-10-14T06:10:57.406Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "7fc4018e83e8993b821316020af6f38e6f3546778e70c73b0113fc48c47a2dd7",
-      "title": "Calp acogerá el 28 de octubre el décimo encuentro empresarial turístico PACTE’MA",
+      "candidate_fingerprint": "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
+      "title": "La futura Oficina de Turismo de Calp eleva su presupuesto hasta 1,3 millones tras dos licitaciones desiertas",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "CREAMA, entidad promotora del proyecto, confirma oficialmente que la décima edición de los Encuentros de Empresas Turísticas PACTE’MA se celebrará el 28 de octubre de 2026 en Calp. La fuente primaria también respalda el lugar, horario, objetivos, contenidos sobre ayudas, prácticas formativas y Formación Profesional, así como la colaboración del Ayuntamiento de Calp.",
+      "summary": "La noticia está suficientemente corroborada. La Marina Plaza documenta las dos licitaciones desiertas, el incremento de 337.000 euros y el presupuesto total aproximado de 1,3 millones, además de la conservación de la fachada tradicional y la distribución funcional del edificio. Calp Digital corrobora la partida adicional y la actualización del presupuesto, mientras que la información municipal acredita que la nueva oficina de turismo era una actuación prevista en la planificación presupuestaria de 2026.",
       "claims": [
         {
-          "claim": "Calp acogerá el 28 de octubre de 2026 la décima edición de los encuentros empresariales turísticos PACTE’MA.",
+          "claim": "El Ayuntamiento intenta sacar adelante por tercera vez la Oficina de Turismo inteligente del casco histórico.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El encuentro se celebrará en el Campus de Excelencia Empresarial Casanova de Calp, de 09:30 a 12:30 horas.",
+          "claim": "Las dos licitaciones anteriores quedaron desiertas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La jornada busca conectar empresas y profesionales turísticos de la Marina Alta y facilitar nuevas colaboraciones.",
+          "claim": "El proyecto incorpora 337.000 euros adicionales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El programa incluye información sobre ayudas y subvenciones, alumnado en prácticas formativas y oferta de Formación Profesional.",
+          "claim": "El presupuesto total se sitúa en aproximadamente 1,3 millones de euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento de Calp colabora en la organización y la inscripción previa es obligatoria.",
+          "claim": "Se conservará una fachada tradicional del inmueble.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La planta superior tendrá usos vinculados a promoción económica, atención a empresas y reuniones.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "CREAMA",
-          "source_url": "https://creama.org/passaport-marina-alta-llega-a-la-decima-edicion-de-los-encuentros-de-empresas-turisticas-pactema/",
-          "evidence": "La entidad promotora confirma que el X Encuentro de Empresas Turísticas PACTE’MA tendrá lugar el 28 de octubre de 2026 en Calp, en el Campus de Excelencia Empresarial Casanova, de 09:30 a 12:30. Detalla los contenidos sobre conexiones empresariales, ayudas y subvenciones, prácticas formativas y Formación Profesional, e indica la colaboración del Ayuntamiento y la obligatoriedad de inscripción previa.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "evidence": "Detalla que el Ayuntamiento afronta un tercer intento tras dos licitaciones desiertas, añade 337.000 euros, sitúa el coste en 1,3 millones y explica que se conservará la fachada tradicional de la calle Llibertat. También describe el uso turístico de la planta inferior y los usos de promoción económica y atención empresarial de la superior.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
+          "evidence": "Corrobora la incorporación de 337.000 euros para la Oficina de Turismo del siglo XXI y señala que la cantidad completa una financiación previa cercana al millón de euros tras actualizarse la valoración económica del proyecto.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
+          "evidence": "Incluye la nueva Oficina de Turismo del siglo XXI entre las actuaciones previstas en la planificación municipal de 2026 y confirma el carácter plurianual de algunos proyectos.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Times",
-          "source_url": "https://lamarinatimes.com/es/economia/calp-albergara-en-octubre-de-2026-la-decima-edicion-del-encuentro-empresarial-pactema",
-          "evidence": "Corrobora la fecha, el lugar, el horario, la décima edición, la finalidad de conectar empresas turísticas de la Marina Alta y los contenidos sobre ayudas, prácticas y Formación Profesional.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja/",
+          "evidence": "Acredita que el proyecto de la Oficina de Turismo del siglo XXI ya había salido a licitación en 2023 y que contemplaba tecnología avanzada y rutas virtuales vinculadas a los atractivos de Calp.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La evidencia confirma la convocatoria prevista para el 28 de octubre, no que el encuentro ya se haya celebrado.",
-        "La fuente primaria identifica a CREAMA y PACTE’MA como impulsores y al Ayuntamiento de Calp como colaborador; no atribuye al Ayuntamiento la organización exclusiva del evento."
+        "El importe de 1,3 millones depende de la aprobación y posterior licitación de la modificación presupuestaria; no implica que las obras estén adjudicadas.",
+        "La expresión «dos licitaciones desiertas» se refiere al proyecto de la oficina, no necesariamente a dos procedimientos idénticos con el mismo presupuesto."
       ],
-      "id": "inv_a18eeed6227d65ca",
-      "investigated_at": "2026-10-14T00:22:06.362Z",
+      "id": "inv_0d0b53af0b09a653",
+      "investigated_at": "2026-10-14T06:10:57.406Z",
       "model": "gpt-5.6-luna"
     }
   ]

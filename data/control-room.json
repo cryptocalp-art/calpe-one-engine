@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-14T00:22:59.776Z",
+  "generated_at": "2026-10-14T06:12:22.220Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-14T00:22:59.589Z",
+  "last_activity": "2026-10-14T06:12:22.029Z",
   "newspaper": {
-    "archive_total": 83,
-    "published_today": 1,
+    "archive_total": 84,
+    "published_today": 2,
     "published_last_7_days": 20,
     "categories": {
+      "POLITICA": 7,
       "ECONOMIA": 11,
-      "POLITICA": 6,
       "DEPORTES": 4,
       "SUCESOS": 10,
       "CULTURA": 6,
@@ -21,6 +21,13 @@
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_233a0fd61119bd42",
+        "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
+        "category": "POLITICA",
+        "slug": "calp-aprueba-rebajas-fiscales-2027",
+        "published_at": "2026-10-14T06:11:55.187Z"
+      },
       {
         "archive_id": "arc_b53156c2da63524e",
         "title": "Calp acogerá el 28 de octubre el décimo encuentro empresarial turístico PACTE’MA",
@@ -69,21 +76,14 @@
         "category": "POLITICA",
         "slug": "voto-por-correo-calp-elecciones-generales-29-noviembre",
         "published_at": "2026-10-10T22:34:54.715Z"
-      },
-      {
-        "archive_id": "arc_b3ac4d6c71cc7f9b",
-        "title": "La Rondalla de Calp y la Mandolinenorchester de Weiterode conmemoran 25 años de hermanamiento",
-        "category": "CULTURA",
-        "slug": "concierto-calp-weiterode-25-anos-hermanamiento",
-        "published_at": "2026-10-09T16:16:04.272Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
     "archive_added": 1
   },
