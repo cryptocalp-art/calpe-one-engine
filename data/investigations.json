@@ -1,128 +1,236 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-14T23:56:44.566Z",
+  "generated_at": "2026-10-15T04:42:52.884Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 4,
   "investigations": [
     {
-      "candidate_fingerprint": "352f7b487849bf47f5e6e46b603547fdade44cf0be03581f3d7e9f6eab2d0d6e",
-      "title": "Calp pide crear un aula universitaria de la UNED con uno o dos grados en la Casa Nova",
+      "candidate_fingerprint": "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed",
+      "title": "Calp eleva a 1,3 millones el proyecto de la Oficina de Turismo del Siglo XXI en el tercer intento para construirla",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "El pleno municipal de Calp declaró de interés municipal iniciar los trabajos, junto con la UNED, para estudiar la viabilidad de crear un Aula Universitaria en el municipio. La documentación municipal identifica Casa Nova como ubicación prevista y señala que el paso previo permitiría plantear uno o dos grados universitarios vinculados a la UNED. La propuesta todavía es un estudio de viabilidad: no hay grados concretos ni calendario de implantación aprobados.",
+      "summary": "La noticia queda corroborada por una segunda fuente periodística independiente y por antecedentes oficiales del Ayuntamiento. El pleno de octubre de 2026 aprobó inicialmente una modificación de crédito que incorpora 337.000 euros para el proyecto, elevando la dotación aproximada hasta 1,337 millones. También está corroborado que las dos licitaciones anteriores quedaron desiertas, que se conserva la fachada del inmueble de la calle Llibertat y que el edificio tendrá funciones turísticas y de promoción económica.",
       "claims": [
         {
-          "claim": "El pleno de Calp aprobó iniciar los primeros pasos para estudiar con la UNED la creación de un Aula Universitaria en Calp.",
+          "claim": "El Ayuntamiento incorpora 337.000 euros adicionales y eleva la dotación aproximada del proyecto hasta 1,3 millones de euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La iniciativa se plantea en la Casa Nova.",
+          "claim": "La actuación afronta el tercer intento de licitación después de dos procedimientos anteriores desiertos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La previsión inicial es estudiar la posibilidad de ofrecer uno o dos grados universitarios.",
+          "claim": "El proyecto mantiene la fachada tradicional del inmueble de la calle Llibertat.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El aula estaría vinculada al centro asociado de la UNED de Dénia.",
+          "claim": "El edificio integrará servicios turísticos y dependencias municipales de promoción económica.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "La implantación de los grados ya está aprobada o tiene calendario definido.",
-          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp, dossier de prensa / agregador municipal",
-          "source_url": "https://calp.es/en/aggregator",
-          "evidence": "El Ayuntamiento informa de que el pleno declaró de interés municipal dar los primeros pasos para estudiar, junto con la UNED, la viabilidad de crear un Aula Universitaria de la UNED en Calp. El mismo texto indica que es el paso previo para tener en Casa Nova uno o dos grados universitarios de la UNED. ([calp.es](https://calp.es/en/aggregator?utm_source=openai))",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "evidence": "Informa de que el Ayuntamiento pretende aprobar 337.000 euros adicionales, que las dos licitaciones anteriores quedaron desiertas, que el coste alcanzaría 1,3 millones y que se conservará la fachada tradicional de la calle Llibertat. También describe el uso turístico de la planta inferior y la concentración de servicios de promoción económica en la superior.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+          "evidence": "Confirma el origen oficial del proyecto, su ubicación en un inmueble de 282 metros cuadrados de la calle Llibertat, su integración en la estrategia EDUSI Revitaliza Calp y la adjudicación en 2022 de la redacción y dirección de obra.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
-          "evidence": "Informa de que el pleno aprobó por unanimidad estudiar la creación de un aula vinculada al centro asociado de Dénia, con posibilidad de impartir uno o dos grados. Precisa que las titulaciones aún no están definidas y que no existe calendario para su puesta en marcha. ([calpdigital.es](https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria?utm_source=openai))",
+          "source_url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+          "evidence": "Detalla la modificación de crédito de 1.760.000 euros, la aportación adicional de 337.000 euros, las dos licitaciones desiertas, la conservación de la fachada y los usos turísticos y de promoción económica previstos.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Centro Asociado UNED Dénia",
-          "source_url": "https://www.uneddenia.es/component/k2/item/3748",
-          "evidence": "Confirma la colaboración formativa ya existente entre la UNED de Dénia y Calp mediante cursos UNED Sénior impartidos en Casa Nova durante el curso 2026-2027. Esta fuente acredita el vínculo educativo previo, pero no confirma por sí sola la futura implantación de grados. ([uneddenia.es](https://www.uneddenia.es/component/k2/item/3748?utm_source=openai))",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La noticia describe una declaración de interés y un estudio de viabilidad, no la creación efectiva del aula ni la implantación definitiva de grados.",
-        "No se han localizado titulaciones concretas, convenio definitivo con la UNED ni calendario oficial de apertura.",
-        "La fuente primaria municipal respalda directamente la referencia a Casa Nova y a uno o dos grados; la vinculación con el centro asociado de Dénia está desarrollada con mayor detalle por la fuente secundaria."
+        "La licitación definitiva todavía no consta como adjudicada; la noticia se refiere a la financiación y al próximo intento de contratación.",
+        "La cifra de 1,3 millones es aproximada; la información publicada la concreta en torno a 1,337 millones."
       ],
-      "id": "inv_ecc8da85e177ca4d",
-      "investigated_at": "2026-10-14T23:56:44.566Z",
+      "id": "inv_911028783e98f0cd",
+      "investigated_at": "2026-10-15T04:42:52.884Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "0e4be387a42ec0c1d733e8958f99d713ba264d514476b8a591df3265fc256c6b",
-      "title": "Calp aprueba su Plan de Acción por el Clima y la Energía Sostenible",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "El pleno de Calp aprobó el PACES en aprobación inicial y por unanimidad. El documento contiene 66 medidas de mitigación y 111 de adaptación climática, un total de 177 medidas. Tras la aprobación inicial debe someterse a exposición pública antes de su aprobación definitiva.",
+      "candidate_fingerprint": "c2d67babc7e0345cfae5bdb4e51fd0056696111a58178ac3592fd3658d6a391a",
+      "title": "El Consorci Mare liquida 2,25 millones en instalaciones para recuperar más residuos de Calp y la comarca",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La existencia del Consorci Mare, su ámbito de 52 municipios y varias de las instalaciones citadas están corroborados por fuentes del propio consorcio. Sin embargo, no se ha localizado una fuente primaria accesible que confirme específicamente el acuerdo de destinar 2,25 millones de euros a liquidar las tres actuaciones, ni una corroboración independiente suficientemente diferenciada de la nota periodística original.",
       "claims": [
         {
-          "claim": "El pleno municipal de Calp aprobó el Plan de Acción por el Clima y la Energía Sostenible (PACES).",
+          "claim": "El Consorci Mare aprobó destinar 2,25 millones de euros a completar pagos de inversiones en residuos.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El gasto se refiere a una planta de tratamiento de voluminosos, un equipo de compostaje y mejoras o informatización de la red de ecoparques.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La aprobación fue inicial y por unanimidad.",
+          "claim": "El Consorci Mare presta servicio a Calp y a otros 51 municipios.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El PACES contiene 66 medidas de mitigación.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El PACES contiene 111 medidas de adaptación.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plan contempla actuaciones para reducir emisiones, mejorar la eficiencia energética y adaptar el municipio al cambio climático.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plan ya tiene aprobación definitiva.",
-          "status": "CONTRADICTED"
+          "claim": "Las actuaciones citadas ya estaban ejecutadas y se liquidan cantidades pendientes.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp, dossier de prensa / agregador municipal",
-          "source_url": "https://calp.es/en/aggregator",
-          "evidence": "El Ayuntamiento señala que el pleno aprobó el PACES, redactado por Azigrene Consultores, y que el documento consta de 66 medidas de mitigación y 111 medidas de adaptación para reducir emisiones de CO₂, mejorar la eficiencia energética y adaptar el municipio al cambio climático. También indica que se someterá a exposición pública durante 30 días. ([calp.es](https://calp.es/en/aggregator?utm_source=openai))",
+          "source_name": "Consorci Mare",
+          "source_url": "https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana/",
+          "evidence": "Confirma que el Consorci Mare trata los residuos de 52 municipios y que existe una planta de tratamiento de voluminosos, financiada mediante una subvención ampliada de la Generalitat. La fuente no confirma el acuerdo posterior de 2,25 millones ni el pago conjunto de las tres actuaciones.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
-          "evidence": "Describe la aprobación inicial y por unanimidad del PACES en el pleno ordinario de octubre. Explica que el plan pretende reducir emisiones, mejorar la eficiencia energética y preparar al municipio ante los efectos del cambio climático, y que todavía debe pasar por exposición pública antes de su aprobación definitiva. ([calpdigital.es](https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces))",
+          "source_name": "Consorci Mare",
+          "source_url": "https://consorciomare.es/noticias/",
+          "evidence": "La página oficial recoge actuaciones del consorcio relacionadas con la ampliación de la red de ecoparques y la construcción de plantas de tratamiento de voluminosos y podas, pero no permite verificar directamente el importe de 2,25 millones atribuido al acuerdo de octubre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://fotos.europapress.es/fotonoticia/f7842397",
+          "evidence": "Su titular confirma que el Consorci Mare destinaría 2,25 millones de euros a obras de ecoparques y voluminosos ya ejecutadas. No se ha podido verificar en el resultado disponible el detalle completo de las tres actuaciones ni si la información procede de la misma nota institucional.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp, encuesta preparatoria del PACES",
-          "source_url": "https://www.calp.es/va/node/10904",
-          "evidence": "Acredita que el Ayuntamiento había abierto en junio de 2026 un proceso de participación para priorizar y proponer medidas de mitigación y adaptación destinadas a la elaboración del PACES. ([calp.es](https://www.calp.es/va/node/10904))",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
+          "evidence": "Afirma que se aprobaron 2.250.000 euros para completar el pago de la planta de voluminosos, el equipo SORAIN de compostaje y la ampliación e informatización de la red de ecoparques.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fuente de Europa Press podría reproducir la misma comunicación institucional que la noticia de Calp Digital; no se considera corroboración plenamente independiente sin acceso al contenido completo.",
+        "Falta localizar el acta, acuerdo de junta o comunicado oficial del Consorci Mare que confirme expresamente el importe y el estado de ejecución de las tres actuaciones."
+      ],
+      "id": "inv_82c64d423c07474e",
+      "investigated_at": "2026-10-15T04:42:52.884Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074",
+      "title": "Calp pide una extensión de la UNED para contar con grados universitarios en la Casa Nova",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información está respaldada por una comunicación oficial del Ayuntamiento y por una segunda cobertura periodística independiente. El pleno declaró de interés municipal iniciar el estudio de viabilidad junto con la UNED para crear un aula universitaria vinculada al centro asociado de Dénia. La posibilidad de impartir uno o dos grados aparece como objetivo municipal, no como decisión definitiva de implantación.",
+      "claims": [
+        {
+          "claim": "El pleno de Calp aprobó iniciar contactos o estudiar con la UNED la viabilidad de crear un aula universitaria en el municipio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto estaría vinculado al centro asociado de la UNED de Dénia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Casa Nova es el espacio previsto para el aula universitaria.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El objetivo municipal contempla la posibilidad de impartir uno o dos grados universitarios.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "Resume los acuerdos del pleno de 14 de octubre de 2026 y señala que el Ayuntamiento estudiará junto a la UNED la viabilidad de crear un Aula Universitaria en Calp para ampliar la oferta de estudios superiores.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://calp.es/en/aggregator",
+          "evidence": "Indica que el pleno declaró de interés municipal dar los primeros pasos para estudiar con la UNED la viabilidad del aula y recoge la explicación de la concejala de Educación de que sería el paso previo para tener uno o dos grados de la UNED en Casa Nova.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+          "evidence": "Corrobora que el pleno aprobó estudiar con la UNED la creación de un aula universitaria en Casa Nova, vinculada al centro asociado de Dénia, y que la iniciativa podría permitir la implantación de estudios universitarios oficiales.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "UNED Dénia",
+          "source_url": "https://www.uneddenia.es/component/k2/item/3748",
+          "evidence": "Confirma la existencia de actividades de UNED Sénior en el Centro Casa Nova de Calp durante el curso 2026/2027. No confirma todavía la implantación de grados oficiales.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La formulación correcta es aprobación inicial, no aprobación definitiva.",
-        "Las cifras verificadas son 66 medidas de mitigación y 111 de adaptación, 177 en total.",
-        "La aprobación del plan no implica que todas las actuaciones estén ejecutadas ni que exista financiación concedida para cada medida."
+        "La creación del aula y la impartición de grados no están aprobadas de forma definitiva; se ha aprobado iniciar un estudio de viabilidad.",
+        "No se ha localizado una confirmación de la UNED sobre qué titulaciones, calendario o condiciones de implantación."
       ],
-      "id": "inv_c3e64a3606ca74e9",
-      "investigated_at": "2026-10-14T23:56:44.566Z",
+      "id": "inv_540c7918219edd4c",
+      "investigated_at": "2026-10-15T04:42:52.884Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d83f4f3d99c1054325520c8f0e2321d37931788b5d086733dda8335c089e1d76",
+      "title": "La Marina Alta suma 233 desempleados pero mantiene su máximo histórico de afiliados",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "Las cifras esenciales están corroboradas por el Observatori Marina Alta de CREAMA y PACTE’MA, fuente institucional que analiza los datos de empleo de septiembre de 2026. La comarca registró 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más. La interpretación sobre el ajuste estacional y la concentración en sectores turísticos resulta compatible con el contexto descrito por la fuente, aunque la concentración exacta por actividad debe atribuirse al informe completo si se publica con ese desglose.",
+      "claims": [
+        {
+          "claim": "La Marina Alta cerró septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La comarca perdió 1.497 afiliaciones respecto a agosto.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El número de personas desempleadas aumentó en 233 durante septiembre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra de afiliación fue un máximo histórico para un mes de septiembre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El ajuste se relacionó con el final de la temporada estival y afectó especialmente a actividades como hostelería y comercio.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "CREAMA – Observatori Marina Alta",
+          "source_url": "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+          "evidence": "Publica que septiembre dejó 1.497 afiliaciones menos y 233 personas desempleadas más. Sitúa las afiliaciones en 68.745, un 2,13 % menos que en agosto, y afirma que la comarca alcanzó un récord de empleo para ese mes. Atribuye la evolución al ajuste habitual del final de la temporada estival.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Portada de València",
+          "source_url": "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+          "evidence": "Reproduce las cifras de 68.745 afiliaciones, la caída mensual de 1.497 y el aumento de 233 personas desempleadas, identificando como fuente el informe de CREAMA.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados",
+          "evidence": "Presenta las mismas cifras y la interpretación del ajuste posterior a la temporada turística, incluida la incidencia en hostelería y comercio.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La expresión 'máximo histórico de afiliados' debe entenderse, según la fuente institucional, como récord para un mes de septiembre, no necesariamente como récord absoluto de todos los meses.",
+        "El desglose sectorial de la noticia candidata debería contrastarse con la tabla o informe completo de CREAMA si se quiere publicar con precisión cuantitativa por sectores."
+      ],
+      "id": "inv_460504b5dc8a5c3a",
+      "investigated_at": "2026-10-15T04:42:52.884Z",
       "model": "gpt-5.6-luna"
     }
   ]

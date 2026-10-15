@@ -3,39 +3,412 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-14T23:57:28.825Z",
+  "generated_at": "2026-10-15T04:43:51.279Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 0,
-  "quarantined_count": 2,
-  "ready": [],
-  "quarantined": [
+  "drafts_seen": 3,
+  "ready_count": 3,
+  "quarantined_count": 0,
+  "ready": [
     {
-      "export_id": "exp_d918ff74fd148a9c",
-      "draft_id": "drf_542a038734d987fd",
-      "investigation_id": "inv_ecc8da85e177ca4d",
-      "slug": "calp-estudiara-con-la-uned-un-aula-universitaria-en-casa-nova",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
+      "export_id": "exp_6a28453e39626946",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-15T04:43:51.279Z",
+      "source_draft_id": "drf_52d966c2b65b9053",
+      "source_investigation_id": "inv_911028783e98f0cd",
+      "candidate_fingerprint": "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed",
+      "quality_gate_id": "qg_6083a0244144455d",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_52d966c2b65b9053",
+        "investigation_id": "inv_911028783e98f0cd",
+        "candidate_fingerprint": "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed",
+        "title": "Calp eleva a 1,3 millones la dotación para su Oficina de Turismo del Siglo XXI",
+        "subtitle": "El Ayuntamiento incorpora 337.000 euros al proyecto, que afrontará un tercer intento de licitación tras quedar desiertos los dos anteriores",
+        "summary": "El Ayuntamiento de Calp ha incorporado 337.000 euros adicionales al proyecto de la Oficina de Turismo del Siglo XXI, con lo que la dotación prevista asciende aproximadamente a 1,3 millones de euros. La actuación se prepara para un tercer intento de contratación después de que las dos licitaciones anteriores quedaran desiertas.",
+        "body": "El pleno de Calp ha aprobado inicialmente una modificación de crédito que incorpora 337.000 euros al proyecto de la futura Oficina de Turismo del Siglo XXI. Con esta ampliación, la financiación prevista para la actuación se sitúa en torno a 1,337 millones de euros, según la información difundida sobre el acuerdo municipal.\n\nLa iniciativa afrontará ahora un tercer intento de licitación. Los dos procedimientos anteriores no llegaron a adjudicarse al quedar desiertos. La nueva dotación pretende respaldar el proyecto en el próximo proceso de contratación, aunque por el momento no consta que la obra haya sido adjudicada.\n\nLa actuación se plantea en un inmueble situado en la calle Llibertat y mantiene la fachada tradicional del edificio. El proyecto contempla conservar ese elemento del inmueble e incorporar en su interior los usos vinculados a la nueva oficina.\n\nEl edificio reunirá servicios turísticos y dependencias municipales relacionadas con la promoción económica. De acuerdo con la información publicada, la planta inferior estará destinada a funciones turísticas, mientras que la superior concentrará servicios de promoción económica.\n\nEl proyecto tiene su origen en una actuación municipal para transformar el inmueble de la calle Llibertat en un espacio dedicado a la atención turística y a la promoción económica. La redacción y la dirección de obra fueron adjudicadas en 2022, según los antecedentes oficiales del Ayuntamiento.\n\nLa modificación de crédito supone, por tanto, un refuerzo económico del proyecto antes de iniciar el tercer procedimiento de contratación. La cifra comunicada debe entenderse como aproximada: la información disponible sitúa el coste en torno a 1,3 millones y lo concreta en aproximadamente 1,337 millones de euros.",
+        "category": "TURISMO",
+        "slug": "calp-eleva-dotacion-oficina-turismo-siglo-xxi",
+        "seo_title": "Calp eleva a 1,3 millones su Oficina de Turismo",
+        "meta_description": "Calp incorpora 337.000 euros al proyecto de la Oficina de Turismo del Siglo XXI, que afrontará una tercera licitación tras dos intentos desiertos.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_6083a0244144455d",
+        "editorial_notes": [
+          "La licitación definitiva todavía no consta como adjudicada.",
+          "Presentar los 1,3 millones como una cifra aproximada, concretada en torno a 1,337 millones de euros."
+        ],
+        "sources": [
+          {
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+          "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La licitación definitiva todavía no consta como adjudicada; la noticia se refiere a la financiación y al próximo intento de contratación.",
+            "La cifra de 1,3 millones es aproximada; la información publicada la concreta en torno a 1,337 millones."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_6083a0244144455d",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-15T04:43:31.436Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_52d966c2b65b9053",
+        "title": "Calp eleva a 1,3 millones la dotación para su Oficina de Turismo del Siglo XXI",
+        "slug": "calp-eleva-dotacion-oficina-turismo-siglo-xxi",
+        "summary": "El Ayuntamiento de Calp ha incorporado 337.000 euros adicionales al proyecto de la Oficina de Turismo del Siglo XXI, con lo que la dotación prevista asciende aproximadamente a 1,3 millones de euros. La actuación se prepara para un tercer intento de contratación después de que las dos licitaciones anteriores quedaran desiertas.",
+        "body": "El pleno de Calp ha aprobado inicialmente una modificación de crédito que incorpora 337.000 euros al proyecto de la futura Oficina de Turismo del Siglo XXI. Con esta ampliación, la financiación prevista para la actuación se sitúa en torno a 1,337 millones de euros, según la información difundida sobre el acuerdo municipal.\n\nLa iniciativa afrontará ahora un tercer intento de licitación. Los dos procedimientos anteriores no llegaron a adjudicarse al quedar desiertos. La nueva dotación pretende respaldar el proyecto en el próximo proceso de contratación, aunque por el momento no consta que la obra haya sido adjudicada.\n\nLa actuación se plantea en un inmueble situado en la calle Llibertat y mantiene la fachada tradicional del edificio. El proyecto contempla conservar ese elemento del inmueble e incorporar en su interior los usos vinculados a la nueva oficina.\n\nEl edificio reunirá servicios turísticos y dependencias municipales relacionadas con la promoción económica. De acuerdo con la información publicada, la planta inferior estará destinada a funciones turísticas, mientras que la superior concentrará servicios de promoción económica.\n\nEl proyecto tiene su origen en una actuación municipal para transformar el inmueble de la calle Llibertat en un espacio dedicado a la atención turística y a la promoción económica. La redacción y la dirección de obra fueron adjudicadas en 2022, según los antecedentes oficiales del Ayuntamiento.\n\nLa modificación de crédito supone, por tanto, un refuerzo económico del proyecto antes de iniciar el tercer procedimiento de contratación. La cifra comunicada debe entenderse como aproximada: la información disponible sitúa el coste en torno a 1,3 millones y lo concreta en aproximadamente 1,337 millones de euros.",
+        "category": "TURISMO",
+        "seo_title": "Calp eleva a 1,3 millones su Oficina de Turismo",
+        "meta_description": "Calp incorpora 337.000 euros al proyecto de la Oficina de Turismo del Siglo XXI, que afrontará una tercera licitación tras dos intentos desiertos.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_6083a0244144455d",
+        "published_at": null,
+        "source_urls": [
+          "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+          "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion"
+        ],
+        "sources": [
+          {
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_911028783e98f0cd",
+        "candidate_fingerprint": "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La licitación definitiva todavía no consta como adjudicada; la noticia se refiere a la financiación y al próximo intento de contratación.",
+            "La cifra de 1,3 millones es aproximada; la información publicada la concreta en torno a 1,337 millones."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_6083a0244144455d",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     },
     {
-      "export_id": "exp_e6e5f4972dd24a96",
-      "draft_id": "drf_af6ed3cf769d0f9a",
-      "investigation_id": "inv_c3e64a3606ca74e9",
-      "slug": "calp-aprueba-inicialmente-plan-accion-cambio-climatico",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
+      "export_id": "exp_afab8591d4311dd6",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-15T04:43:51.279Z",
+      "source_draft_id": "drf_ab3b3f410c000e63",
+      "source_investigation_id": "inv_540c7918219edd4c",
+      "candidate_fingerprint": "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074",
+      "quality_gate_id": "qg_cfe2c45cde6ebe49",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_ab3b3f410c000e63",
+        "investigation_id": "inv_540c7918219edd4c",
+        "candidate_fingerprint": "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074",
+        "title": "Calp estudiará con la UNED la creación de un aula universitaria en Casa Nova",
+        "subtitle": "La iniciativa municipal contempla la posibilidad de impartir uno o dos grados vinculados al centro asociado de Dénia",
+        "summary": "El pleno de Calp ha aprobado iniciar con la UNED un estudio de viabilidad para crear un aula universitaria en el municipio. El espacio previsto es la Casa Nova y el proyecto estaría vinculado al centro asociado de la UNED de Dénia.",
+        "body": "El Ayuntamiento de Calp dará los primeros pasos para estudiar junto a la UNED la posible creación de un aula universitaria en el municipio. El pleno ha declarado de interés municipal iniciar este análisis de viabilidad, una fase previa antes de determinar si el proyecto puede llegar a implantarse.\n\nEl espacio previsto para acoger el aula es la Casa Nova. La iniciativa estaría vinculada al centro asociado de la UNED de Dénia y tiene como objetivo municipal explorar la posibilidad de ampliar en Calp la oferta de estudios superiores.\n\nEntre las metas planteadas figura la eventual impartición de uno o dos grados universitarios. No obstante, esta posibilidad forma parte del objetivo del Ayuntamiento y no constituye todavía una decisión definitiva sobre la implantación de titulaciones oficiales.\n\nEl acuerdo aprobado por el pleno se limita a poner en marcha el estudio y los contactos necesarios con la UNED. En esta fase no se han concretado qué grados podrían ofrecerse, cuándo comenzarían las clases ni cuáles serían las condiciones para la creación del aula.\n\nLa documentación disponible confirma también la existencia de actividades de UNED Sénior en el Centro Casa Nova durante el curso 2026/2027. Esa actividad no acredita por sí misma la implantación de grados universitarios oficiales en el municipio.\n\nLa propuesta queda, por tanto, pendiente de los siguientes pasos de análisis y de la posición de la UNED. La eventual apertura del aula y la oferta de titulaciones dependerán de la viabilidad del proyecto y de los acuerdos que puedan alcanzarse entre las instituciones implicadas.",
+        "category": "LOCAL",
+        "slug": "calp-estudiara-con-la-uned-aula-universitaria-casa-nova",
+        "seo_title": "Calp estudiará con la UNED un aula universitaria",
+        "meta_description": "El pleno de Calp estudiará con la UNED la viabilidad de crear un aula universitaria en Casa Nova, con uno o dos grados como objetivo municipal.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cfe2c45cde6ebe49",
+        "editorial_notes": [
+          "La creación del aula y la impartición de grados no están aprobadas definitivamente; solo se ha iniciado un estudio de viabilidad.",
+          "No hay confirmación localizada de la UNED sobre titulaciones, calendario o condiciones de implantación."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/page/4/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "UNED Dénia",
+            "url": "https://www.uneddenia.es/component/k2/item/3748",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpcomunica.calp.es/page/4/",
+          "https://calp.es/en/aggregator",
+          "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+          "https://www.uneddenia.es/component/k2/item/3748"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "La creación del aula y la impartición de grados no están aprobadas de forma definitiva; se ha aprobado iniciar un estudio de viabilidad.",
+            "No se ha localizado una confirmación de la UNED sobre qué titulaciones, calendario o condiciones de implantación."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cfe2c45cde6ebe49",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-15T04:43:31.436Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_ab3b3f410c000e63",
+        "title": "Calp estudiará con la UNED la creación de un aula universitaria en Casa Nova",
+        "slug": "calp-estudiara-con-la-uned-aula-universitaria-casa-nova",
+        "summary": "El pleno de Calp ha aprobado iniciar con la UNED un estudio de viabilidad para crear un aula universitaria en el municipio. El espacio previsto es la Casa Nova y el proyecto estaría vinculado al centro asociado de la UNED de Dénia.",
+        "body": "El Ayuntamiento de Calp dará los primeros pasos para estudiar junto a la UNED la posible creación de un aula universitaria en el municipio. El pleno ha declarado de interés municipal iniciar este análisis de viabilidad, una fase previa antes de determinar si el proyecto puede llegar a implantarse.\n\nEl espacio previsto para acoger el aula es la Casa Nova. La iniciativa estaría vinculada al centro asociado de la UNED de Dénia y tiene como objetivo municipal explorar la posibilidad de ampliar en Calp la oferta de estudios superiores.\n\nEntre las metas planteadas figura la eventual impartición de uno o dos grados universitarios. No obstante, esta posibilidad forma parte del objetivo del Ayuntamiento y no constituye todavía una decisión definitiva sobre la implantación de titulaciones oficiales.\n\nEl acuerdo aprobado por el pleno se limita a poner en marcha el estudio y los contactos necesarios con la UNED. En esta fase no se han concretado qué grados podrían ofrecerse, cuándo comenzarían las clases ni cuáles serían las condiciones para la creación del aula.\n\nLa documentación disponible confirma también la existencia de actividades de UNED Sénior en el Centro Casa Nova durante el curso 2026/2027. Esa actividad no acredita por sí misma la implantación de grados universitarios oficiales en el municipio.\n\nLa propuesta queda, por tanto, pendiente de los siguientes pasos de análisis y de la posición de la UNED. La eventual apertura del aula y la oferta de titulaciones dependerán de la viabilidad del proyecto y de los acuerdos que puedan alcanzarse entre las instituciones implicadas.",
+        "category": "LOCAL",
+        "seo_title": "Calp estudiará con la UNED un aula universitaria",
+        "meta_description": "El pleno de Calp estudiará con la UNED la viabilidad de crear un aula universitaria en Casa Nova, con uno o dos grados como objetivo municipal.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cfe2c45cde6ebe49",
+        "published_at": null,
+        "source_urls": [
+          "https://calpcomunica.calp.es/page/4/",
+          "https://calp.es/en/aggregator",
+          "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+          "https://www.uneddenia.es/component/k2/item/3748"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/page/4/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://calp.es/en/aggregator",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "UNED Dénia",
+            "url": "https://www.uneddenia.es/component/k2/item/3748",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_540c7918219edd4c",
+        "candidate_fingerprint": "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "La creación del aula y la impartición de grados no están aprobadas de forma definitiva; se ha aprobado iniciar un estudio de viabilidad.",
+            "No se ha localizado una confirmación de la UNED sobre qué titulaciones, calendario o condiciones de implantación."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cfe2c45cde6ebe49",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_0c0e3eae54353182",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-15T04:43:51.279Z",
+      "source_draft_id": "drf_eeb9cf5706376a4c",
+      "source_investigation_id": "inv_460504b5dc8a5c3a",
+      "candidate_fingerprint": "d83f4f3d99c1054325520c8f0e2321d37931788b5d086733dda8335c089e1d76",
+      "quality_gate_id": "qg_f65818c0f846d598",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_eeb9cf5706376a4c",
+        "investigation_id": "inv_460504b5dc8a5c3a",
+        "candidate_fingerprint": "d83f4f3d99c1054325520c8f0e2321d37931788b5d086733dda8335c089e1d76",
+        "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre, pero marca un récord para ese mes",
+        "subtitle": "El desempleo aumentó en 233 personas al cierre de la temporada estival, según los datos analizados por CREAMA y PACTE’MA",
+        "summary": "La Marina Alta cerró septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social, 1.497 menos que en agosto. La comarca registró además 233 personas desempleadas más, en un ajuste que el informe relaciona con el final de la temporada estival.",
+        "body": "La Marina Alta terminó septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social. La cifra supone una reducción de 1.497 afiliaciones respecto al mes anterior, según el análisis del Observatori Marina Alta de CREAMA y PACTE’MA sobre la evolución del empleo comarcal.\n\nPese al descenso mensual, el número de afiliaciones alcanzó el máximo registrado para un mes de septiembre. La referencia corresponde, por tanto, a la comparación con otros meses de septiembre y no implica necesariamente que se trate del récord absoluto de afiliación en todos los meses del año.\n\nEl mercado laboral comarcal también contabilizó 233 personas desempleadas más durante septiembre. El informe atribuye esta evolución al ajuste habitual que se produce tras el final de la temporada estival, cuando disminuye la actividad asociada a los meses de mayor afluencia turística.\n\nLa incidencia se concentró especialmente en actividades como la hostelería y el comercio, de acuerdo con la interpretación difundida sobre los datos. El comportamiento de septiembre combina así una pérdida de afiliaciones en términos mensuales con una cifra de empleo que se mantiene en niveles máximos para ese periodo concreto del año.\n\nLos datos ofrecen una fotografía comarcal del cierre de la temporada de verano. La caída de afiliaciones y el aumento del desempleo se registran al mismo tiempo que el conjunto de afiliaciones supera las referencias de septiembre de años anteriores, según el informe institucional.\n\nEl desglose sectorial debe consultarse en el informe completo de CREAMA si se pretende precisar la evolución cuantitativa de cada actividad. Las cifras generales comunicadas son 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más en septiembre.",
+        "category": "ECONOMIA",
+        "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
+        "seo_title": "La Marina Alta pierde 1.497 afiliaciones en septiembre",
+        "meta_description": "La Marina Alta cerró septiembre con 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más tras el verano.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_f65818c0f846d598",
+        "editorial_notes": [
+          "Precisar que el máximo histórico se refiere a un mes de septiembre, no necesariamente al récord absoluto de todos los meses.",
+          "Si se incorpora un desglose por sectores, contrastarlo con la tabla o el informe completo de CREAMA."
+        ],
+        "sources": [
+          {
+            "name": "CREAMA – Observatori Marina Alta",
+            "url": "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Portada de València",
+            "url": "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+          "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+          "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La expresión 'máximo histórico de afiliados' debe entenderse, según la fuente institucional, como récord para un mes de septiembre, no necesariamente como récord absoluto de todos los meses.",
+            "El desglose sectorial de la noticia candidata debería contrastarse con la tabla o informe completo de CREAMA si se quiere publicar con precisión cuantitativa por sectores."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_f65818c0f846d598",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-15T04:43:31.436Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_eeb9cf5706376a4c",
+        "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre, pero marca un récord para ese mes",
+        "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
+        "summary": "La Marina Alta cerró septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social, 1.497 menos que en agosto. La comarca registró además 233 personas desempleadas más, en un ajuste que el informe relaciona con el final de la temporada estival.",
+        "body": "La Marina Alta terminó septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social. La cifra supone una reducción de 1.497 afiliaciones respecto al mes anterior, según el análisis del Observatori Marina Alta de CREAMA y PACTE’MA sobre la evolución del empleo comarcal.\n\nPese al descenso mensual, el número de afiliaciones alcanzó el máximo registrado para un mes de septiembre. La referencia corresponde, por tanto, a la comparación con otros meses de septiembre y no implica necesariamente que se trate del récord absoluto de afiliación en todos los meses del año.\n\nEl mercado laboral comarcal también contabilizó 233 personas desempleadas más durante septiembre. El informe atribuye esta evolución al ajuste habitual que se produce tras el final de la temporada estival, cuando disminuye la actividad asociada a los meses de mayor afluencia turística.\n\nLa incidencia se concentró especialmente en actividades como la hostelería y el comercio, de acuerdo con la interpretación difundida sobre los datos. El comportamiento de septiembre combina así una pérdida de afiliaciones en términos mensuales con una cifra de empleo que se mantiene en niveles máximos para ese periodo concreto del año.\n\nLos datos ofrecen una fotografía comarcal del cierre de la temporada de verano. La caída de afiliaciones y el aumento del desempleo se registran al mismo tiempo que el conjunto de afiliaciones supera las referencias de septiembre de años anteriores, según el informe institucional.\n\nEl desglose sectorial debe consultarse en el informe completo de CREAMA si se pretende precisar la evolución cuantitativa de cada actividad. Las cifras generales comunicadas son 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más en septiembre.",
+        "category": "ECONOMIA",
+        "seo_title": "La Marina Alta pierde 1.497 afiliaciones en septiembre",
+        "meta_description": "La Marina Alta cerró septiembre con 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más tras el verano.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_f65818c0f846d598",
+        "published_at": null,
+        "source_urls": [
+          "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+          "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+          "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados"
+        ],
+        "sources": [
+          {
+            "name": "CREAMA – Observatori Marina Alta",
+            "url": "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Portada de València",
+            "url": "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza",
+            "url": "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_460504b5dc8a5c3a",
+        "candidate_fingerprint": "d83f4f3d99c1054325520c8f0e2321d37931788b5d086733dda8335c089e1d76",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La expresión 'máximo histórico de afiliados' debe entenderse, según la fuente institucional, como récord para un mes de septiembre, no necesariamente como récord absoluto de todos los meses.",
+            "El desglose sectorial de la noticia candidata debería contrastarse con la tabla o informe completo de CREAMA si se quiere publicar con precisión cuantitativa por sectores."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_f65818c0f846d598",
+          "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     }
-  ]
+  ],
+  "quarantined": []
 }

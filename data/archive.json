@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-14T20:45:33.890Z",
-  "count": 86,
+  "updated_at": "2026-10-15T04:43:51.440Z",
+  "count": 87,
   "articles": [
+    {
+      "archive_id": "arc_68bda56f067bc967",
+      "external_id": "drf_eeb9cf5706376a4c",
+      "investigation_id": "inv_460504b5dc8a5c3a",
+      "candidate_fingerprints": [
+        "d83f4f3d99c1054325520c8f0e2321d37931788b5d086733dda8335c089e1d76"
+      ],
+      "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre, pero marca un récord para ese mes",
+      "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
+      "summary": "La Marina Alta cerró septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social, 1.497 menos que en agosto. La comarca registró además 233 personas desempleadas más, en un ajuste que el informe relaciona con el final de la temporada estival.",
+      "body": "La Marina Alta terminó septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social. La cifra supone una reducción de 1.497 afiliaciones respecto al mes anterior, según el análisis del Observatori Marina Alta de CREAMA y PACTE’MA sobre la evolución del empleo comarcal.\n\nPese al descenso mensual, el número de afiliaciones alcanzó el máximo registrado para un mes de septiembre. La referencia corresponde, por tanto, a la comparación con otros meses de septiembre y no implica necesariamente que se trate del récord absoluto de afiliación en todos los meses del año.\n\nEl mercado laboral comarcal también contabilizó 233 personas desempleadas más durante septiembre. El informe atribuye esta evolución al ajuste habitual que se produce tras el final de la temporada estival, cuando disminuye la actividad asociada a los meses de mayor afluencia turística.\n\nLa incidencia se concentró especialmente en actividades como la hostelería y el comercio, de acuerdo con la interpretación difundida sobre los datos. El comportamiento de septiembre combina así una pérdida de afiliaciones en términos mensuales con una cifra de empleo que se mantiene en niveles máximos para ese periodo concreto del año.\n\nLos datos ofrecen una fotografía comarcal del cierre de la temporada de verano. La caída de afiliaciones y el aumento del desempleo se registran al mismo tiempo que el conjunto de afiliaciones supera las referencias de septiembre de años anteriores, según el informe institucional.\n\nEl desglose sectorial debe consultarse en el informe completo de CREAMA si se pretende precisar la evolución cuantitativa de cada actividad. Las cifras generales comunicadas son 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más en septiembre.",
+      "category": "ECONOMIA",
+      "seo_title": "La Marina Alta pierde 1.497 afiliaciones en septiembre",
+      "meta_description": "La Marina Alta cerró septiembre con 68.745 afiliaciones, 1.497 menos que en agosto, y 233 personas desempleadas más tras el verano.",
+      "sources": [
+        {
+          "name": "CREAMA – Observatori Marina Alta",
+          "url": "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Portada de València",
+          "url": "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://creama.org/creama-por-medio-del-observatori-analiza-los-datos-de-empleo-del-mes-de-septiembre-2026",
+        "https://portadavalencia.com/en/la-marina-alta/general/marina-alta-ends-september-with-record-affiliations-and-historically-low-unemployment",
+        "https://lamarina.eldiario.es/2026/10/14/la-marina-alta-suma-233-desempleados-pero-mantiene-su-maximo-historico-de-afiliados"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La expresión 'máximo histórico de afiliados' debe entenderse, según la fuente institucional, como récord para un mes de septiembre, no necesariamente como récord absoluto de todos los meses.",
+          "El desglose sectorial de la noticia candidata debería contrastarse con la tabla o informe completo de CREAMA si se quiere publicar con precisión cuantitativa por sectores."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_f65818c0f846d598",
+        "quality_gate_evaluated_at": "2026-10-15T04:43:51.107Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Precisar que el máximo histórico se refiere a un mes de septiembre, no necesariamente al récord absoluto de todos los meses.",
+        "Si se incorpora un desglose por sectores, contrastarlo con la tabla o el informe completo de CREAMA."
+      ],
+      "published_at": "2026-10-15T04:43:31.436Z",
+      "updated_at": "2026-10-15T04:43:51.440Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_1a8b7981cd1242fd",
       "external_id": "drf_a24115704cceb2ab",
@@ -66,7 +126,8 @@
       "investigation_id": "inv_a7a429d051c275d1",
       "candidate_fingerprints": [
         "6c1c86fbf5bf815b7571302b40065a1a941e1d245ce7ddddba393a5b0fe807dd",
-        "9e5e1d785997b2aa225a87d78426d0860b969f70207492a0569098f455e00c1a"
+        "9e5e1d785997b2aa225a87d78426d0860b969f70207492a0569098f455e00c1a",
+        "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074"
       ],
       "title": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1,76 millones",
       "slug": "calp-modificacion-credito-176-millones-18-partidas",
@@ -90,7 +151,10 @@
       "source_urls": [
         "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
         "https://calpcomunica.calp.es/page/4",
-        "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces"
+        "https://calpdigital.es/art/12398/calp-aprueba-plan-cambio-climatico-paces",
+        "https://calp.es/en/aggregator",
+        "https://lamarinaalta.com/calp-quiere-ofrecer-carreras-universitarias-en-casa-nova-y-prepara-177-medidas-contra-el-cambio-climatico",
+        "https://www.uneddenia.es/component/k2/item/3748"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -112,7 +176,7 @@
         "La partida de 91.806 euros corresponde a la mejora de caminos tradicionales y es distinta de los 90.901 euros de limpieza viaria."
       ],
       "published_at": "2026-10-14T20:45:11.397Z",
-      "updated_at": "2026-10-14T20:45:33.890Z",
+      "updated_at": "2026-10-15T04:43:51.440Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
@@ -122,7 +186,8 @@
       "investigation_id": "inv_d041be6fab473f80",
       "candidate_fingerprints": [
         "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
-        "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff"
+        "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
+        "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed"
       ],
       "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
       "slug": "calp-aprueba-rebajas-fiscales-2027",
@@ -160,7 +225,9 @@
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-un-presupuesto-2026-equilibrado-realista-y-centrado-en",
         "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada",
         "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
-        "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja"
+        "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja",
+        "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
+        "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -183,7 +250,7 @@
         "Mantener la referencia a los apoyos plenarios como dato atribuido a la información disponible, sin valorar el acuerdo ni a los grupos políticos."
       ],
       "published_at": "2026-10-14T06:11:55.187Z",
-      "updated_at": "2026-10-14T06:12:08.596Z",
+      "updated_at": "2026-10-15T04:43:51.440Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

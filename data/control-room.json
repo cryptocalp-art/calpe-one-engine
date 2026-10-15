@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-14T23:57:38.125Z",
+  "generated_at": "2026-10-15T04:44:04.283Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-14T23:57:37.927Z",
+  "last_activity": "2026-10-15T04:44:04.088Z",
   "newspaper": {
-    "archive_total": 86,
-    "published_today": 0,
+    "archive_total": 87,
+    "published_today": 1,
     "published_last_7_days": 17,
     "categories": {
+      "ECONOMIA": 12,
       "SUCESOS": 11,
       "LOCAL": 12,
       "POLITICA": 7,
-      "ECONOMIA": 11,
       "DEPORTES": 4,
       "CULTURA": 6,
       "SOCIEDAD": 12,
@@ -21,6 +21,13 @@
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_68bda56f067bc967",
+        "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre, pero marca un récord para ese mes",
+        "category": "ECONOMIA",
+        "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
+        "published_at": "2026-10-15T04:43:31.436Z"
+      },
       {
         "archive_id": "arc_1a8b7981cd1242fd",
         "title": "Localizada en buen estado Radia, la menor desaparecida en Calp en septiembre de 2025",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "juicio-seis-acusados-red-droga-calp-benissa",
         "published_at": "2026-10-12T17:58:10.386Z"
-      },
-      {
-        "archive_id": "arc_650888f6fc686a9a",
-        "title": "La criminalidad registrada baja un 11,7% en Calp durante el primer semestre de 2026",
-        "category": "SUCESOS",
-        "slug": "criminalidad-baja-calp-primer-semestre-2026",
-        "published_at": "2026-10-12T00:34:57.618Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 0,
-    "quarantined": 2,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 3,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,24 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_542a038734d987fd",
-      "slug": "calp-estudiara-con-la-uned-un-aula-universitaria-en-casa-nova",
-      "category": "SOCIEDAD",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-14T23:57:28.664Z"
-    },
-    {
-      "draft_id": "drf_af6ed3cf769d0f9a",
-      "slug": "calp-aprueba-inicialmente-plan-accion-cambio-climatico",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-14T23:57:28.664Z"
-    }
-  ]
+  "quarantine": []
 }
