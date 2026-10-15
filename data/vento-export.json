@@ -3,12 +3,273 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-15T09:58:33.538Z",
+  "generated_at": "2026-10-15T15:04:43.385Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
-  "quarantined_count": 0,
-  "ready": [],
-  "quarantined": []
+  "drafts_seen": 3,
+  "ready_count": 2,
+  "quarantined_count": 1,
+  "ready": [
+    {
+      "export_id": "exp_ff38a4a47c95e537",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-15T15:04:43.385Z",
+      "source_draft_id": "drf_26c89f996ddf3ed8",
+      "source_investigation_id": "inv_71d41582cc1aa4d3",
+      "candidate_fingerprint": "f765e420575e181109a7fee108076c07f7eab91bdd578415d92ae4cb99ebfbb9",
+      "quality_gate_id": "qg_fb2df5c2e5daaeee",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_26c89f996ddf3ed8",
+        "investigation_id": "inv_71d41582cc1aa4d3",
+        "candidate_fingerprint": "f765e420575e181109a7fee108076c07f7eab91bdd578415d92ae4cb99ebfbb9",
+        "title": "Hospitalizada una mujer de 80 años tras ser rescatada del mar en la playa del Arenal de Calp",
+        "subtitle": "La mujer fue localizada con síntomas de ahogamiento y trasladada al Hospital de Dénia tras recibir asistencia sanitaria",
+        "summary": "Una mujer de 80 años fue atendida este miércoles tras ser localizada con síntomas de ahogamiento en la playa del Arenal de Calp. En el dispositivo intervinieron una unidad del SAMU y otra de Soporte Vital Básico, que trasladaron posteriormente a la mujer al Hospital de Dénia.",
+        "body": "Según la información difundida a partir de fuentes del Centro de Información y Coordinación de Urgencias (CICU), la mujer fue asistida en la playa del Arenal después de presentar síntomas compatibles con un ahogamiento. El operativo sanitario movilizó una unidad SAMU y una unidad de Soporte Vital Básico.\n\nLa mujer fue trasladada al Hospital de Dénia para recibir atención médica. La información disponible confirma la hospitalización, pero no aporta datos sobre su evolución posterior ni permite precisar su estado clínico actual.\n\nLos detalles sobre el rescate difundidos por Telecinco señalan que dos bañistas la vieron flotando boca abajo a unos 20 metros de la orilla. Uno de ellos se acercó hasta la mujer y la llevó hacia la playa con la ayuda de otro hombre.\n\nPosteriormente, los servicios sanitarios prestaron asistencia en el lugar antes del traslado hospitalario. La intervención de los bañistas forma parte de la reconstrucción periodística del suceso, mientras que la movilización del SAMU y de la unidad de Soporte Vital Básico consta en la información atribuida al CICU.",
+        "category": "SUCESOS",
+        "slug": "mujer-80-anos-rescatada-mar-playa-arenal-calp",
+        "seo_title": "Rescatada una mujer de 80 años en la playa del Arenal",
+        "meta_description": "Una mujer de 80 años fue rescatada con síntomas de ahogamiento en el Arenal de Calp y trasladada al Hospital de Dénia tras ser atendida por el SAMU.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_fb2df5c2e5daaeee",
+        "editorial_notes": [
+          "No afirmar cuál es el estado clínico posterior de la mujer: la información disponible solo confirma la asistencia y el traslado hospitalario.",
+          "Presentar la intervención concreta de los dos bañistas como un detalle procedente de una reconstrucción periodística, no de una nota oficial localizada directamente."
+        ],
+        "sources": [
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-asisten-anciana-80-anos-sintomas-ahogamiento-playa-arenal-calp-20261015105048.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Telecinco",
+            "url": "https://www.telecinco.es/noticias/valencia/20261015/gabriel-heroe-jubilado-morir-salva-mujer-ahogada-calpe_18_020440831.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://www.europapress.es/comunitat-valenciana/noticia-asisten-anciana-80-anos-sintomas-ahogamiento-playa-arenal-calp-20261015105048.html",
+          "https://www.telecinco.es/noticias/valencia/20261015/gabriel-heroe-jubilado-morir-salva-mujer-ahogada-calpe_18_020440831.html"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 2,
+          "caveats": [
+            "La información disponible confirma síntomas de ahogamiento y hospitalización, pero no permite afirmar el estado clínico posterior de la mujer.",
+            "Los detalles sobre los bañistas proceden de una reconstrucción periodística y no de una nota oficial localizada directamente."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_fb2df5c2e5daaeee",
+          "quality_gate_evaluated_at": "2026-10-15T15:04:43.222Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-15T15:04:24.473Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_26c89f996ddf3ed8",
+        "title": "Hospitalizada una mujer de 80 años tras ser rescatada del mar en la playa del Arenal de Calp",
+        "slug": "mujer-80-anos-rescatada-mar-playa-arenal-calp",
+        "summary": "Una mujer de 80 años fue atendida este miércoles tras ser localizada con síntomas de ahogamiento en la playa del Arenal de Calp. En el dispositivo intervinieron una unidad del SAMU y otra de Soporte Vital Básico, que trasladaron posteriormente a la mujer al Hospital de Dénia.",
+        "body": "Según la información difundida a partir de fuentes del Centro de Información y Coordinación de Urgencias (CICU), la mujer fue asistida en la playa del Arenal después de presentar síntomas compatibles con un ahogamiento. El operativo sanitario movilizó una unidad SAMU y una unidad de Soporte Vital Básico.\n\nLa mujer fue trasladada al Hospital de Dénia para recibir atención médica. La información disponible confirma la hospitalización, pero no aporta datos sobre su evolución posterior ni permite precisar su estado clínico actual.\n\nLos detalles sobre el rescate difundidos por Telecinco señalan que dos bañistas la vieron flotando boca abajo a unos 20 metros de la orilla. Uno de ellos se acercó hasta la mujer y la llevó hacia la playa con la ayuda de otro hombre.\n\nPosteriormente, los servicios sanitarios prestaron asistencia en el lugar antes del traslado hospitalario. La intervención de los bañistas forma parte de la reconstrucción periodística del suceso, mientras que la movilización del SAMU y de la unidad de Soporte Vital Básico consta en la información atribuida al CICU.",
+        "category": "SUCESOS",
+        "seo_title": "Rescatada una mujer de 80 años en la playa del Arenal",
+        "meta_description": "Una mujer de 80 años fue rescatada con síntomas de ahogamiento en el Arenal de Calp y trasladada al Hospital de Dénia tras ser atendida por el SAMU.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_fb2df5c2e5daaeee",
+        "published_at": null,
+        "source_urls": [
+          "https://www.europapress.es/comunitat-valenciana/noticia-asisten-anciana-80-anos-sintomas-ahogamiento-playa-arenal-calp-20261015105048.html",
+          "https://www.telecinco.es/noticias/valencia/20261015/gabriel-heroe-jubilado-morir-salva-mujer-ahogada-calpe_18_020440831.html"
+        ],
+        "sources": [
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-asisten-anciana-80-anos-sintomas-ahogamiento-playa-arenal-calp-20261015105048.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Telecinco",
+            "url": "https://www.telecinco.es/noticias/valencia/20261015/gabriel-heroe-jubilado-morir-salva-mujer-ahogada-calpe_18_020440831.html",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_71d41582cc1aa4d3",
+        "candidate_fingerprint": "f765e420575e181109a7fee108076c07f7eab91bdd578415d92ae4cb99ebfbb9",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 2,
+          "caveats": [
+            "La información disponible confirma síntomas de ahogamiento y hospitalización, pero no permite afirmar el estado clínico posterior de la mujer.",
+            "Los detalles sobre los bañistas proceden de una reconstrucción periodística y no de una nota oficial localizada directamente."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_fb2df5c2e5daaeee",
+          "quality_gate_evaluated_at": "2026-10-15T15:04:43.222Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_e9c54e434aeaa09e",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-15T15:04:43.385Z",
+      "source_draft_id": "drf_f1bb41c542728ee0",
+      "source_investigation_id": "inv_5e2156b9a2b3b77b",
+      "candidate_fingerprint": "3a6d619277853a15ba6ff6c23ec91b6aa0c64913315e1d063e3f056d570cbc91",
+      "quality_gate_id": "qg_cad995310e9c82eb",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_f1bb41c542728ee0",
+        "investigation_id": "inv_5e2156b9a2b3b77b",
+        "candidate_fingerprint": "3a6d619277853a15ba6ff6c23ec91b6aa0c64913315e1d063e3f056d570cbc91",
+        "title": "La Marina Alta podría registrar lluvias intensas este fin de semana, según las previsiones",
+        "subtitle": "Protección Civil y AEMET apuntan a un posible episodio desde el sábado 17, con mayor probabilidad de precipitaciones persistentes el domingo 18",
+        "summary": "Protección Civil, conforme a las previsiones de AEMET, contempla un posible episodio de lluvias intensas desde el sábado 17 de octubre, con una mayor probabilidad de precipitaciones significativas y persistentes el domingo 18 en litorales y prelitorales mediterráneos. La Marina Alta figura entre las zonas potencialmente afectadas según la información local consultada.",
+        "body": "Las previsiones apuntan a un cambio de tiempo durante el fin de semana, aunque la distribución exacta y la intensidad de las lluvias todavía presentan incertidumbre. La información disponible sitúa el inicio posible del episodio el sábado 17 y señala el domingo 18 como la jornada con mayor probabilidad de lluvias intensas y persistentes en áreas del litoral y prelitoral mediterráneo.\n\nLa Marina Alta aparece entre las zonas que podrían verse afectadas, de acuerdo con la información local difundida sobre las previsiones de AEMET y los avisos de los organismos autonómicos. No obstante, la fuente oficial consultada no confirma una afectación concreta de Calp ni una DANA plenamente formada.\n\nProtección Civil recomienda seguir las actualizaciones oficiales y extremar la precaución en zonas inundables. La evolución del episodio puede cambiar antes del fin de semana, por lo que cualquier aviso operativo deberá comprobarse con la información oficial más reciente.\n\nPor ahora, se trata de una previsión meteorológica sujeta a cambios y no de una confirmación de lluvias intensas específicamente en Calp. La situación deberá revisarse conforme se actualicen los pronósticos y, en su caso, los avisos de las autoridades.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "posibles-lluvias-intensas-marina-alta-fin-de-semana",
+        "seo_title": "Posibles lluvias intensas en la Marina Alta este fin de semana",
+        "meta_description": "Protección Civil y AEMET prevén posibles lluvias intensas desde el sábado 17, especialmente el domingo 18, en zonas del litoral mediterráneo.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cad995310e9c82eb",
+        "editorial_notes": [
+          "Presentar el episodio como una previsión sujeta a cambios, no como una alerta confirmada específicamente para Calp.",
+          "Actualizar la información antes de publicar cualquier aviso operativo, ya que la intensidad y la distribución del episodio pueden variar."
+        ],
+        "sources": [
+          {
+            "name": "Ministerio del Interior, Protección Civil y Emergencias",
+            "url": "https://www.interior.gob.es/opencms/gl/detalle/articulo/Proteccion-Civil-y-Emergencias-alerta-por-precipitaciones-intensas-en-el-area-de-Baleares-y-litorales-mediterraneos/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "La Marina Times",
+            "url": "https://lamarinatimes.com/es/tiempo/la-generalitat-avisa-de-riesgo-de-lluvias-intensas-en-la-marina-alta-por-una-posible-dana-este-fin",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/aviso-especial-radio-gandia/",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://www.interior.gob.es/opencms/gl/detalle/articulo/Proteccion-Civil-y-Emergencias-alerta-por-precipitaciones-intensas-en-el-area-de-Baleares-y-litorales-mediterraneos/",
+          "https://lamarinatimes.com/es/tiempo/la-generalitat-avisa-de-riesgo-de-lluvias-intensas-en-la-marina-alta-por-una-posible-dana-este-fin",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/15/aviso-especial-radio-gandia/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La fuente oficial consultada no confirma una afectación concreta de Calp ni una DANA plenamente formada.",
+            "La evolución y la intensidad del episodio podían cambiar antes del fin de semana; conviene actualizar la información antes de publicar una alerta operativa."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cad995310e9c82eb",
+          "quality_gate_evaluated_at": "2026-10-15T15:04:43.222Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-15T15:04:24.473Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_f1bb41c542728ee0",
+        "title": "La Marina Alta podría registrar lluvias intensas este fin de semana, según las previsiones",
+        "slug": "posibles-lluvias-intensas-marina-alta-fin-de-semana",
+        "summary": "Protección Civil, conforme a las previsiones de AEMET, contempla un posible episodio de lluvias intensas desde el sábado 17 de octubre, con una mayor probabilidad de precipitaciones significativas y persistentes el domingo 18 en litorales y prelitorales mediterráneos. La Marina Alta figura entre las zonas potencialmente afectadas según la información local consultada.",
+        "body": "Las previsiones apuntan a un cambio de tiempo durante el fin de semana, aunque la distribución exacta y la intensidad de las lluvias todavía presentan incertidumbre. La información disponible sitúa el inicio posible del episodio el sábado 17 y señala el domingo 18 como la jornada con mayor probabilidad de lluvias intensas y persistentes en áreas del litoral y prelitoral mediterráneo.\n\nLa Marina Alta aparece entre las zonas que podrían verse afectadas, de acuerdo con la información local difundida sobre las previsiones de AEMET y los avisos de los organismos autonómicos. No obstante, la fuente oficial consultada no confirma una afectación concreta de Calp ni una DANA plenamente formada.\n\nProtección Civil recomienda seguir las actualizaciones oficiales y extremar la precaución en zonas inundables. La evolución del episodio puede cambiar antes del fin de semana, por lo que cualquier aviso operativo deberá comprobarse con la información oficial más reciente.\n\nPor ahora, se trata de una previsión meteorológica sujeta a cambios y no de una confirmación de lluvias intensas específicamente en Calp. La situación deberá revisarse conforme se actualicen los pronósticos y, en su caso, los avisos de las autoridades.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Posibles lluvias intensas en la Marina Alta este fin de semana",
+        "meta_description": "Protección Civil y AEMET prevén posibles lluvias intensas desde el sábado 17, especialmente el domingo 18, en zonas del litoral mediterráneo.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_cad995310e9c82eb",
+        "published_at": null,
+        "source_urls": [
+          "https://www.interior.gob.es/opencms/gl/detalle/articulo/Proteccion-Civil-y-Emergencias-alerta-por-precipitaciones-intensas-en-el-area-de-Baleares-y-litorales-mediterraneos/",
+          "https://lamarinatimes.com/es/tiempo/la-generalitat-avisa-de-riesgo-de-lluvias-intensas-en-la-marina-alta-por-una-posible-dana-este-fin",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/15/aviso-especial-radio-gandia/"
+        ],
+        "sources": [
+          {
+            "name": "Ministerio del Interior, Protección Civil y Emergencias",
+            "url": "https://www.interior.gob.es/opencms/gl/detalle/articulo/Proteccion-Civil-y-Emergencias-alerta-por-precipitaciones-intensas-en-el-area-de-Baleares-y-litorales-mediterraneos/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "La Marina Times",
+            "url": "https://lamarinatimes.com/es/tiempo/la-generalitat-avisa-de-riesgo-de-lluvias-intensas-en-la-marina-alta-por-una-posible-dana-este-fin",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/aviso-especial-radio-gandia/",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_5e2156b9a2b3b77b",
+        "candidate_fingerprint": "3a6d619277853a15ba6ff6c23ec91b6aa0c64913315e1d063e3f056d570cbc91",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La fuente oficial consultada no confirma una afectación concreta de Calp ni una DANA plenamente formada.",
+            "La evolución y la intensidad del episodio podían cambiar antes del fin de semana; conviene actualizar la información antes de publicar una alerta operativa."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_cad995310e9c82eb",
+          "quality_gate_evaluated_at": "2026-10-15T15:04:43.222Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
+  "quarantined": [
+    {
+      "export_id": "exp_30d6e50df5da9dde",
+      "draft_id": "drf_d9540d19cd31e3ec",
+      "investigation_id": "inv_53133445fabb04cf",
+      "slug": "condena-juan-rosello-caso-red-aguas-calp",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
+    }
+  ]
 }

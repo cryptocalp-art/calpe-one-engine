@@ -1,54 +1,110 @@
 {
-  "generated_at": "2026-10-15T09:58:00.081Z",
-  "count": 6,
+  "generated_at": "2026-10-15T15:03:36.512Z",
+  "count": 13,
   "evidences": [
     {
-      "id": "evd_c4422a1d172af14f",
-      "investigation_id": "inv_82c64d423c07474e",
+      "id": "evd_f837e44a7af60ec8",
+      "investigation_id": "inv_53133445fabb04cf",
+      "source_name": "Cadena SER",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante",
+      "evidence": "Informa de que la Sección Segunda de la Audiencia de Alicante condenó a Juan Roselló a 11 meses por prevaricación en concurso con fraude a la Administración por las obras de renovación de la red hidráulica de Calp. También recoge los sobrecostes, la subcontratación a una empresa vinculada a su cuñado, la indemnización solidaria de 430.000 euros y la posibilidad de recurrir en casación.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_fa189b2bb22c7384",
+      "investigation_id": "inv_53133445fabb04cf",
+      "source_name": "Actualidad Valencia",
+      "source_url": "https://actualidadvalencia.com/condena-once-meses-fraude-aguas-calpe/",
+      "evidence": "Publica una información coincidente sobre la condena de 11 meses, el sobrecoste de un millón de euros, la participación de Aguas de Calpe, la subcontratación a Obras Hidráulicas de Levante y el carácter recurrible de la sentencia.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_7cc854d207643964",
+      "investigation_id": "inv_53133445fabb04cf",
       "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/13/el-consorci-mare-destina-225-millones-de-euros-para-pagar-las-obras-de-ecoparques-y-voluminosos-ya-ejecutadas/",
-      "evidence": "Publica el 13 de octubre de 2026 que el Consorci Mare destinará 2.250.000 euros a pagar actuaciones de la planta de voluminosos, el equipo SORAIN y la ampliación e informatización de ecoparques. También reproduce los importes de 1.438.739,56 euros, 253.183,39 euros y 558.077,05 euros, así como la referencia al remanente de tesorería, la aprobación unánime y la ratificación por la Diputación. La información coincide sustancialmente con la candidata, pero no permite determinar por sí sola si procede de una fuente independiente o de la misma comunicación institucional. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/13/el-consorci-mare-destina-225-millones-de-euros-para-pagar-las-obras-de-ecoparques-y-voluminosos-ya-ejecutadas/?utm_source=openai))",
+      "source_url": "https://lamarina.eldiario.es/2025/12/09/borracheras-yates-y-hombres-de-paja-los-presuntos-tiempos-felices-del-cunadisimo-de-calp/",
+      "evidence": "Aporta contexto previo e independiente sobre el juicio del caso Aguas de Calpe, los hechos investigados de 2004-2005, Juan Roselló, Francisco Artacho y los sobrecostes superiores al millón de euros en la renovación de la red de agua.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_d97fc6684a75fb88",
-      "investigation_id": "inv_82c64d423c07474e",
-      "source_name": "Consorcio MARE",
-      "source_url": "https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana/",
-      "evidence": "La fuente oficial confirma que la Planta de Tratamiento de Voluminosos se financiaba con una subvención de la Generalitat ampliada en 255.075,75 euros y que la instalación presta servicio a los 52 municipios consorciados. Corrobora el contexto de la planta y su financiación previa, pero no el acuerdo de 2.250.000 euros de octubre de 2026. ([consorciomare.es](https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_6a2106f81d53f097",
-      "investigation_id": "inv_82c64d423c07474e",
-      "source_name": "Diputación de Alicante",
-      "source_url": "https://www.diputacionalicante.es/ca/noticias/toni-perez-resalta-la-aportacion-del-nuevo-centro-de-tratamientos-de-voluminosos-del-consorci-mare-a-la-sostenibilidad-ambiental-economica-y-social/",
-      "evidence": "La Diputación informa el 15 de junio de 2026 de la puesta en marcha del nuevo centro de tratamiento de voluminosos en El Campello, con capacidad para tratar 30.000 toneladas anuales, una inversión superior a 5,6 millones de euros y financiación mediante fondos Next Generation gestionados por la Generalitat. No confirma el pago posterior de 1.438.739,56 euros ni la ratificación del expediente de octubre. ([diputacionalicante.es](https://www.diputacionalicante.es/ca/noticias/toni-perez-resalta-la-aportacion-del-nuevo-centro-de-tratamientos-de-voluminosos-del-consorci-mare-a-la-sostenibilidad-ambiental-economica-y-social/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_244a0980fca60855",
-      "investigation_id": "inv_82c64d423c07474e",
-      "source_name": "Consorcio MARE",
-      "source_url": "https://consorciomare.es/2026/01/21/el-consorci-mare-logra-tres-subvenciones-de-mas-de-2-millones-de-euros-de-la-generalitat-valenciana-para-la-mejora-de-la-red-de-ecoparques/",
-      "evidence": "La entidad oficial informa de ayudas por 2.067.299,89 euros para mejoras de la red de ecoparques y señala que las actuaciones incluían nuevos ecomóviles, adecuación de ecoparques fijos e informatización. Esto respalda el contexto de las inversiones citadas, pero no confirma el importe de 558.077,05 euros liquidado en octubre. ([consorciomare.es](https://consorciomare.es/2026/01/21/el-consorci-mare-logra-tres-subvenciones-de-mas-de-2-millones-de-euros-de-la-generalitat-valenciana-para-la-mejora-de-la-red-de-ecoparques/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_568f5dd9d5f6ba31",
-      "investigation_id": "inv_82c64d423c07474e",
-      "source_name": "Consorcio MARE",
-      "source_url": "https://consorciomare.es/2026/06/23/el-consorci-mare-dara-una-segunda-vida-a-mas-38-200-kilos-de-ropa-usada-de-su-red-de-contenedores/",
-      "evidence": "La fuente oficial confirma que el Consorci dispone de una línea de tratamiento de materia orgánica en el Complejo Ambiental de El Campello y que recibió una subvención de 2.531.833,88 euros para costear parte de esa línea, obra recepcionada en 2024. No confirma específicamente el pago pendiente de 253.183,39 euros del equipo SORAIN. ([consorciomare.es](https://consorciomare.es/2026/06/23/el-consorci-mare-dara-una-segunda-vida-a-mas-38-200-kilos-de-ropa-usada-de-su-red-de-contenedores/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_9777739f3f7d8574",
-      "investigation_id": "inv_82c64d423c07474e",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
-      "evidence": "Es la fuente candidata y afirma todos los elementos principales: importe total, tres actuaciones, desglose económico, uso del remanente, aprobación unánime, ratificación por la Diputación y posible reducción futura del canon. Al ser la fuente objeto de verificación, no constituye corroboración independiente por sí misma. ([calpdigital.es](https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques?utm_source=openai))",
+      "id": "evd_6e8cc730d0f934cb",
+      "investigation_id": "inv_71d41582cc1aa4d3",
+      "source_name": "Europa Press",
+      "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-asisten-anciana-80-anos-sintomas-ahogamiento-playa-arenal-calp-20261015105048.html",
+      "evidence": "Según fuentes del CICU, una mujer de 80 años fue asistida en la playa del Arenal de Calp con síntomas de ahogamiento. El operativo movilizó una unidad SAMU y otra SVB, y la mujer fue trasladada al Hospital de Dénia.",
       "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_9c3aace1430258ec",
+      "investigation_id": "inv_71d41582cc1aa4d3",
+      "source_name": "Telecinco",
+      "source_url": "https://www.telecinco.es/noticias/valencia/20261015/gabriel-heroe-jubilado-morir-salva-mujer-ahogada-calpe_18_020440831.html",
+      "evidence": "Relata que la mujer fue vista flotando boca abajo a unos 20 metros de la orilla, que un bañista la alcanzó y la llevó hacia la playa con ayuda de otro hombre, y que posteriormente recibió asistencia del SAMU y fue trasladada al Hospital de Dénia.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_d58576e4df902c07",
+      "investigation_id": "inv_5e2156b9a2b3b77b",
+      "source_name": "Ministerio del Interior, Protección Civil y Emergencias",
+      "source_url": "https://www.interior.gob.es/opencms/gl/detalle/articulo/Proteccion-Civil-y-Emergencias-alerta-por-precipitaciones-intensas-en-el-area-de-Baleares-y-litorales-mediterraneos/",
+      "evidence": "La Secretaría General de Protección Civil, conforme a las previsiones de AEMET, informa de un posible episodio de precipitaciones intensas desde el sábado 17 de octubre, con mayor probabilidad de lluvias significativas y persistentes en litorales y prelitorales mediterráneos el domingo 18. También destaca la incertidumbre sobre la distribución exacta del episodio.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_eb0631f377057671",
+      "investigation_id": "inv_5e2156b9a2b3b77b",
+      "source_name": "La Marina Times",
+      "source_url": "https://lamarinatimes.com/es/tiempo/la-generalitat-avisa-de-riesgo-de-lluvias-intensas-en-la-marina-alta-por-una-posible-dana-este-fin",
+      "evidence": "Sitúa a la Marina Alta y al litoral mediterráneo entre las zonas que podrían recibir lluvias intensas y persistentes durante el sábado 17 y el domingo 18, y atribuye la previsión a AEMET y a la Generalitat.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_f3583cc49dd075fc",
+      "investigation_id": "inv_5e2156b9a2b3b77b",
+      "source_name": "Cadena SER",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/aviso-especial-radio-gandia/",
+      "evidence": "Informa de un aviso especial del 112 de la Generalitat por un episodio de precipitaciones intensas que podría comenzar el sábado 17 y afectar especialmente a litorales y prelitorales mediterráneos el domingo 18.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_f598db34eb4f784f",
+      "investigation_id": "inv_1346df4ab426eee6",
+      "source_name": "Datosmacro",
+      "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/calp",
+      "evidence": "Muestra para agosto de 2026 una tasa de paro registrado del 6,68% y 787 personas desempleadas en Calp. La misma tabla recoge series anteriores, pero no demuestra por sí sola que sea el mínimo de veinte años ni el mejor dato provincial.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_f27d92e1df1247ec",
+      "investigation_id": "inv_1346df4ab426eee6",
+      "source_name": "Ministerio de Trabajo y Economía Social, La Moncloa",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/trabajo14/Paginas/2026/021026-paro-registrado-septiembre.aspx?mode=Dark",
+      "evidence": "Confirma la publicación de datos nacionales de paro registrado de septiembre de 2026, pero no aporta el desglose municipal de Calp ni valida las afirmaciones de la candidatura.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_fefbd7f82fba879e",
+      "investigation_id": "inv_17a4b1dcaf9e73fc",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova",
+      "evidence": "Informa de que el pleno celebrado en Calp declaró de interés municipal dar los primeros pasos para estudiar con la UNED y su centro asociado de Dénia la creación de un Aula Universitaria en Casa Nova, con la posibilidad de uno o dos grados. También recoge la aprobación inicial del PACES y sus medidas climáticas.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_df7b19cd5af51678",
+      "investigation_id": "inv_17a4b1dcaf9e73fc",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://www.calp.es/es/casanova/seu/info",
+      "evidence": "Confirma que Casa Nova ya alberga la Sede Universitaria de Calp vinculada a la Universidad de Alicante mediante un convenio de extensión universitaria. Esta fuente acredita el contexto institucional del edificio, pero no confirma el nuevo acuerdo con la UNED.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_d1fea4e3a5a623f8",
+      "investigation_id": "inv_17a4b1dcaf9e73fc",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+      "evidence": "Muestra actividades universitarias programadas en Casa Nova durante 2026, incluida la referencia a la sede universitaria municipal. No acredita por sí sola la aprobación del proyecto de Aula Universitaria de la UNED.",
+      "source_type": "PRIMARY"
     }
   ]
 }
