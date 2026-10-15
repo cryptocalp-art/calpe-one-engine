@@ -1,139 +1,76 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-15T19:10:56.995Z",
+  "generated_at": "2026-10-15T22:21:44.075Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "500715e00252e78c1d68da4315e4ef8c3eff2e4d71868fd8bc68c566110242ca",
-      "title": "Condenado a 11 meses de cárcel el exdiputado provincial Juan Roselló por sobrecostes en la red de aguas de Calp",
+      "candidate_fingerprint": "0cb23c8f3bb733480a35859d128a2a310536d06571f6ccc363002bb0b6639312",
+      "title": "Calp acogerá la presentación del nuevo Plan de Movilidad No Motorizada de la Marina Alta",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda corroborada por Cadena SER y por una segunda fuente periodística independiente, La Marina Plaza–elDiario.es. Ambas sitúan la condena en la Audiencia de Alicante, identifican a Juan Roselló como exdiputado provincial del PP y exconcejal de Calp, describen los sobrecostes aproximados de un millón de euros y la pena de once meses. Cadena SER aporta además la indemnización conjunta de 430.000 euros. No se ha localizado en la búsqueda una copia pública de la sentencia judicial, por lo que los detalles más técnicos se atribuyen a las informaciones basadas en el fallo.",
+      "summary": "La actividad está confirmada para el lunes 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà de Calp. La convocatoria está respaldada por el Ayuntamiento de Calp y la MACMA, y existe corroboración en medios locales independientes. La presentación corresponde al primer borrador del plan comarcal, no a un plan definitivamente aprobado.",
       "claims": [
         {
-          "claim": "La Audiencia de Alicante condenó a Juan Roselló a once meses de prisión.",
+          "claim": "El Ayuntamiento de Calp, la Xarxa Esportiva y la MACMA organizan o impulsan la presentación.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Roselló fue exdiputado provincial del PP y exconcejal de Calp.",
+          "claim": "La presentación tendrá lugar en Calp el 19 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La condena está relacionada con sobrecostes de aproximadamente un millón de euros en obras de renovación de la red hidráulica de Calp aprobadas en 2004.",
+          "claim": "El acto comenzará a las 18:30 horas y se celebrará en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El caso afecta a la contratación y subcontratación de las obras de renovación de la red de aguas municipales.",
+          "claim": "La sesión incluirá una presentación o charla y un debate abierto con la ciudadanía y el equipo responsable.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los cinco condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros.",
+          "claim": "El acto presenta el Plan de Movilidad No Motorizada de la Marina Alta.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La condena fue dictada por la Sección Segunda de la Audiencia de Alicante y puede recurrirse en casación.",
-          "status": "SUPPORTED"
+          "claim": "El plan presentado es un documento definitivamente aprobado.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER / Europa Press",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante",
-          "evidence": "Informa de una condena de once meses de prisión para Juan Roselló por sobrecostes de un millón de euros en obras de renovación de la red hidráulica de Calp. Identifica los delitos, describe la subcontratación vinculada a su cuñado y señala que los cinco condenados deben indemnizar al Ayuntamiento con 430.000 euros. Indica también que cabe recurso de casación.",
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
+          "evidence": "La convocatoria oficial anuncia una charla de presentación del Plan de Movilidad No Motorizada de la Marina Alta organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA. Fija la fecha del 19 de octubre de 2026, las 18:30 horas, el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà y una sesión con charla y debate.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "MACMA",
+          "source_url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
+          "evidence": "La Mancomunitat Comarcal de la Marina Alta confirma que ha completado el primer borrador del plan y que ha programado un ciclo de charlas informativas y de debate durante octubre. Identifica a Paco Tortosa y Nico Vives como integrantes del equipo director y describe el objetivo de presentar la propuesta de red, resolver dudas y recoger aportaciones.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
+          "evidence": "El medio informa de que la MACMA ha organizado un ciclo de presentaciones durante octubre y sitúa la sesión de Calp el lunes 19 de octubre a las 18:30 horas en el Saló Blau. También describe el acto como una presentación y debate ciudadano sobre el borrador del plan.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/15/la-audiencia-condena-a-un-exedil-del-pp-y-a-su-cunado-por-la-corrupcion-de-aguas-de-calp-pero-solo-a-11-meses-de-prision/",
-          "evidence": "Corrobora que la Audiencia de Alicante condenó a Juan Roselló y a otros implicados por el caso Aguas de Calp. Describe como hechos probados la adjudicación directa a una empresa vinculada al cuñado de Roselló y un sobrecoste aproximado de un millón de euros. También confirma la pena de once meses para Roselló y otros condenados.",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres/",
+          "evidence": "La información publicada confirma que la MACMA ha completado el primer borrador del plan y que ha organizado un ciclo de charlas informativas y de debate para presentar los itinerarios comarcales y recoger comentarios de vecinos, asociaciones y representantes municipales.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ajuntament de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-15-de-octubre-2",
-          "evidence": "El dosier de prensa municipal del 15 de octubre de 2026 recoge como asunto informativo la condena de un exedil del PP y su cuñado por el caso de corrupción de Aguas de Calpe.",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "No se ha localizado durante la búsqueda una copia pública directa de la sentencia de la Audiencia de Alicante.",
-        "La confirmación de la cuantía exacta de 430.000 euros procede de Cadena SER; la segunda fuente consultada corrobora el núcleo de la condena, pero no reproduce esa cifra en el fragmento localizado."
+        "La evidencia oficial describe el documento como primer borrador, por lo que conviene evitar presentar el plan como definitivamente aprobado.",
+        "La referencia a movilidad accesible, segura y respetuosa con el medio ambiente aparece en la convocatoria oficial como objetivo de la iniciativa; no implica que esas actuaciones estén ya ejecutadas.",
+        "La corroboración periodística coincide sustancialmente con la información institucional; el respaldo principal procede de las fuentes oficiales del Ayuntamiento de Calp y la MACMA."
       ],
-      "id": "inv_6b70a5a8930b7933",
-      "investigated_at": "2026-10-15T19:10:56.995Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "ca99cb0a381b92ab43e8ff84cff46d9f04acee810d97745c905b169256ec47f3",
-      "title": "El Consorci Mare liquida 2,25 millones en instalaciones para mejorar la recuperación de residuos de Calp y la comarca",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La existencia del Consorci Mare, su ámbito de 52 municipios y las instalaciones de tratamiento de voluminosos están respaldados por fuentes oficiales anteriores. Sin embargo, la afirmación central —la liquidación o aprobación de 2,25 millones de euros el 13-14 de octubre de 2026 y su desglose exacto— aparece principalmente en varias publicaciones locales que parecen reproducir la misma comunicación. No se ha encontrado en la búsqueda un acta, acuerdo de la Junta de Gobierno, certificación contable o comunicado oficial del Consorci Mare o de la Diputación de Alicante que confirme directamente esa operación.",
-      "claims": [
-        {
-          "claim": "El Consorci Mare gestiona los residuos domésticos de Calp y de otros 51 municipios, un total de 52 municipios.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Consorci Mare aprobó o destinó 2,25 millones de euros para completar inversiones en instalaciones de residuos.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La operación incluye pagos pendientes de una planta de tratamiento de voluminosos, un equipo de compostaje y mejoras o informatización de la red de ecoparques.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La planta de voluminosos presta servicio al ámbito consorciado y tiene una capacidad aproximada de 30.000 toneladas anuales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La operación fue aprobada por unanimidad por la Junta de Gobierno y posteriormente ratificada por el pleno de la Diputación de Alicante.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
-          "evidence": "Publica que el Consorci Mare habría aprobado destinar 2.250.000 euros a completar el pago de una planta de voluminosos, un equipo de compostaje y actuaciones en ecoparques. También afirma que la decisión fue aprobada por unanimidad por la Junta de Gobierno y ratificada por el pleno de la Diputación de Alicante. Es la fuente originaria aportada para el candidato y no basta por sí sola para considerar acreditado el acuerdo administrativo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Dénia Digital",
-          "source_url": "https://deniadigital.es/sec/medio-ambiente",
-          "evidence": "Recoge una información del 14 de octubre de 2026 que atribuye al Consorci Mare una inversión de 2,25 millones para completar actuaciones en ecoparques, tratamiento de residuos voluminosos y compostaje. El contenido coincide sustancialmente con la noticia de Calp Digital y no permite determinar si existe una corroboración independiente o una reproducción de la misma comunicación.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Marina Baixa Digital",
-          "source_url": "https://marinabaixadigital.es/sec/noticias-medio-ambiente/",
-          "evidence": "Resume una noticia del 14 de octubre de 2026 según la cual el Consorci Mare destina 2,25 millones a completar obras de la planta de voluminosos y ecoparques, incluyendo compostaje. La coincidencia temática y temporal con las otras publicaciones sugiere posible reproducción de una nota común, no una verificación independiente del acuerdo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Consorcio MARE",
-          "source_url": "https://consorciomare.es/2026/01/29/avanzan-las-obras-de-la-futura-planta-de-tratamiento-de-voluminosos-del-consorci-mare/",
-          "evidence": "Fuente oficial del Consorci Mare que identifica a la entidad como responsable del tratamiento de residuos de 52 municipios y describe la planta de voluminosos de El Campello, con capacidad de tratamiento de 30.000 toneladas anuales. No confirma la operación de 2,25 millones de octubre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Diputación de Alicante",
-          "source_url": "https://www.diputacionalicante.es/noticias/toni-perez-resalta-la-aportacion-del-nuevo-centro-de-tratamientos-de-voluminosos-del-consorci-mare-a-la-sostenibilidad-ambiental-economica-y-social/",
-          "evidence": "Confirma oficialmente la puesta en marcha del centro de tratamiento de voluminosos del Consorci Mare en El Campello y su capacidad para tratar hasta 30.000 toneladas anuales. No confirma el acuerdo financiero de 2,25 millones de octubre de 2026.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "Las tres publicaciones periodísticas localizadas sobre los 2,25 millones presentan una coincidencia sustancial de cifras, actuaciones y formulación, por lo que podrían proceder de una misma nota de prensa.",
-        "Falta localizar el acta o resolución oficial que pruebe la aprobación, el desglose presupuestario y la ratificación por la Diputación de Alicante.",
-        "La referencia a Calp dentro del ámbito del Consorci Mare sí queda respaldada por la pertenencia de la entidad a un total de 52 municipios, pero no se ha localizado en esta búsqueda un documento oficial de octubre de 2026 que relacione expresamente a Calp con esa operación concreta."
-      ],
-      "id": "inv_b184bdf28d2b3ffc",
-      "investigated_at": "2026-10-15T19:10:56.995Z",
+      "id": "inv_3d05b3b51fe1aa8c",
+      "investigated_at": "2026-10-15T22:21:44.075Z",
       "model": "gpt-5.6-luna"
     }
   ]

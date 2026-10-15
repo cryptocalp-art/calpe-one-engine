@@ -1,70 +1,38 @@
 {
-  "generated_at": "2026-10-15T19:10:56.995Z",
-  "count": 8,
+  "generated_at": "2026-10-15T22:21:44.075Z",
+  "count": 4,
   "evidences": [
     {
-      "id": "evd_4cb926efa77ae14f",
-      "investigation_id": "inv_6b70a5a8930b7933",
-      "source_name": "Cadena SER / Europa Press",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante",
-      "evidence": "Informa de una condena de once meses de prisión para Juan Roselló por sobrecostes de un millón de euros en obras de renovación de la red hidráulica de Calp. Identifica los delitos, describe la subcontratación vinculada a su cuñado y señala que los cinco condenados deben indemnizar al Ayuntamiento con 430.000 euros. Indica también que cabe recurso de casación.",
+      "id": "evd_469fc76a723ce6b6",
+      "investigation_id": "inv_3d05b3b51fe1aa8c",
+      "source_name": "Calp Comunica / Ayuntamiento de Calp",
+      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
+      "evidence": "La convocatoria oficial anuncia una charla de presentación del Plan de Movilidad No Motorizada de la Marina Alta organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA. Fija la fecha del 19 de octubre de 2026, las 18:30 horas, el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà y una sesión con charla y debate.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_193dc9fbae68295b",
+      "investigation_id": "inv_3d05b3b51fe1aa8c",
+      "source_name": "MACMA",
+      "source_url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
+      "evidence": "La Mancomunitat Comarcal de la Marina Alta confirma que ha completado el primer borrador del plan y que ha programado un ciclo de charlas informativas y de debate durante octubre. Identifica a Paco Tortosa y Nico Vives como integrantes del equipo director y describe el objetivo de presentar la propuesta de red, resolver dudas y recoger aportaciones.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_22ded47332579012",
+      "investigation_id": "inv_3d05b3b51fe1aa8c",
+      "source_name": "La Marina Alta",
+      "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
+      "evidence": "El medio informa de que la MACMA ha organizado un ciclo de presentaciones durante octubre y sitúa la sesión de Calp el lunes 19 de octubre a las 18:30 horas en el Saló Blau. También describe el acto como una presentación y debate ciudadano sobre el borrador del plan.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_b7598e0deaecb246",
-      "investigation_id": "inv_6b70a5a8930b7933",
+      "id": "evd_d34787b17fb03418",
+      "investigation_id": "inv_3d05b3b51fe1aa8c",
       "source_name": "La Marina Plaza / elDiario.es",
-      "source_url": "https://lamarina.eldiario.es/2026/10/15/la-audiencia-condena-a-un-exedil-del-pp-y-a-su-cunado-por-la-corrupcion-de-aguas-de-calp-pero-solo-a-11-meses-de-prision/",
-      "evidence": "Corrobora que la Audiencia de Alicante condenó a Juan Roselló y a otros implicados por el caso Aguas de Calp. Describe como hechos probados la adjudicación directa a una empresa vinculada al cuñado de Roselló y un sobrecoste aproximado de un millón de euros. También confirma la pena de once meses para Roselló y otros condenados.",
+      "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres/",
+      "evidence": "La información publicada confirma que la MACMA ha completado el primer borrador del plan y que ha organizado un ciclo de charlas informativas y de debate para presentar los itinerarios comarcales y recoger comentarios de vecinos, asociaciones y representantes municipales.",
       "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_157b1a3e8cece5ec",
-      "investigation_id": "inv_6b70a5a8930b7933",
-      "source_name": "Ajuntament de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-15-de-octubre-2",
-      "evidence": "El dosier de prensa municipal del 15 de octubre de 2026 recoge como asunto informativo la condena de un exedil del PP y su cuñado por el caso de corrupción de Aguas de Calpe.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_c57147fc483127fa",
-      "investigation_id": "inv_b184bdf28d2b3ffc",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
-      "evidence": "Publica que el Consorci Mare habría aprobado destinar 2.250.000 euros a completar el pago de una planta de voluminosos, un equipo de compostaje y actuaciones en ecoparques. También afirma que la decisión fue aprobada por unanimidad por la Junta de Gobierno y ratificada por el pleno de la Diputación de Alicante. Es la fuente originaria aportada para el candidato y no basta por sí sola para considerar acreditado el acuerdo administrativo.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_98bfd85a01ba4366",
-      "investigation_id": "inv_b184bdf28d2b3ffc",
-      "source_name": "Dénia Digital",
-      "source_url": "https://deniadigital.es/sec/medio-ambiente",
-      "evidence": "Recoge una información del 14 de octubre de 2026 que atribuye al Consorci Mare una inversión de 2,25 millones para completar actuaciones en ecoparques, tratamiento de residuos voluminosos y compostaje. El contenido coincide sustancialmente con la noticia de Calp Digital y no permite determinar si existe una corroboración independiente o una reproducción de la misma comunicación.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_acf990b97c756141",
-      "investigation_id": "inv_b184bdf28d2b3ffc",
-      "source_name": "Marina Baixa Digital",
-      "source_url": "https://marinabaixadigital.es/sec/noticias-medio-ambiente/",
-      "evidence": "Resume una noticia del 14 de octubre de 2026 según la cual el Consorci Mare destina 2,25 millones a completar obras de la planta de voluminosos y ecoparques, incluyendo compostaje. La coincidencia temática y temporal con las otras publicaciones sugiere posible reproducción de una nota común, no una verificación independiente del acuerdo.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_34fdb0410ce88d98",
-      "investigation_id": "inv_b184bdf28d2b3ffc",
-      "source_name": "Consorcio MARE",
-      "source_url": "https://consorciomare.es/2026/01/29/avanzan-las-obras-de-la-futura-planta-de-tratamiento-de-voluminosos-del-consorci-mare/",
-      "evidence": "Fuente oficial del Consorci Mare que identifica a la entidad como responsable del tratamiento de residuos de 52 municipios y describe la planta de voluminosos de El Campello, con capacidad de tratamiento de 30.000 toneladas anuales. No confirma la operación de 2,25 millones de octubre de 2026.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_b86f5c6d9a6b30e6",
-      "investigation_id": "inv_b184bdf28d2b3ffc",
-      "source_name": "Diputación de Alicante",
-      "source_url": "https://www.diputacionalicante.es/noticias/toni-perez-resalta-la-aportacion-del-nuevo-centro-de-tratamientos-de-voluminosos-del-consorci-mare-a-la-sostenibilidad-ambiental-economica-y-social/",
-      "evidence": "Confirma oficialmente la puesta en marcha del centro de tratamiento de voluminosos del Consorci Mare en El Campello y su capacidad para tratar hasta 30.000 toneladas anuales. No confirma el acuerdo financiero de 2,25 millones de octubre de 2026.",
-      "source_type": "PRIMARY"
     }
   ]
 }
