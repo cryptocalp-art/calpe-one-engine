@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-15T15:04:43.547Z",
-  "count": 89,
+  "updated_at": "2026-10-15T19:12:02.429Z",
+  "count": 90,
   "articles": [
+    {
+      "archive_id": "arc_c6ede3a43c7d664c",
+      "external_id": "drf_debe9769410e39c0",
+      "investigation_id": "inv_6b70a5a8930b7933",
+      "candidate_fingerprints": [
+        "500715e00252e78c1d68da4315e4ef8c3eff2e4d71868fd8bc68c566110242ca"
+      ],
+      "title": "La Audiencia de Alicante condena a once meses al exedil de Calp Juan Roselló por el caso de las aguas",
+      "slug": "condenan-juan-rosello-caso-aguas-calp",
+      "summary": "La Sección Segunda de la Audiencia de Alicante ha condenado a once meses de prisión a Juan Roselló, exdiputado provincial del PP y exconcejal de Calp, por hechos relacionados con la contratación y subcontratación de unas obras de renovación de la red de aguas municipales. Los sobrecostes asociados a las actuaciones se sitúan en aproximadamente un millón de euros, según las informaciones periodísticas que han dado cuenta de la resolución.",
+      "body": "La Sección Segunda de la Audiencia de Alicante ha condenado a Juan Roselló a once meses de prisión por el caso relacionado con las obras de renovación de la red hidráulica de Calp aprobadas en 2004. Roselló fue diputado provincial del PP y concejal del municipio.\n\nSegún las informaciones publicadas sobre la resolución judicial, el procedimiento analiza la contratación y posterior subcontratación de los trabajos de renovación de la red de aguas municipales. El caso incluye unos sobrecostes aproximados de un millón de euros.\n\nLas mismas informaciones señalan que la adjudicación directa de los trabajos estuvo vinculada a una empresa relacionada con el cuñado de Roselló. La condena afecta a cinco personas, que deberán indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros.\n\nLa pena impuesta a Roselló es de once meses de prisión. La resolución ha sido dictada por la Audiencia de Alicante y puede ser recurrida en casación.\n\nLa información sobre la condena y sus principales elementos ha sido corroborada por dos medios de comunicación. No se ha localizado una copia pública directa de la sentencia, por lo que los detalles técnicos del fallo y la cuantía de la indemnización se atribuyen a las informaciones periodísticas consultadas. La cifra de 430.000 euros consta en una de esas fuentes, mientras que la segunda confirma el núcleo de la condena y el sobrecoste aproximado.",
+      "category": "POLITICA",
+      "seo_title": "Condenan a Juan Roselló por el caso de las aguas de Calp",
+      "meta_description": "La Audiencia de Alicante condena a once meses al exedil de Calp Juan Roselló por un caso de sobrecostes en la red municipal de aguas.",
+      "sources": [
+        {
+          "name": "Cadena SER / Europa Press",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza / elDiario.es",
+          "url": "https://lamarina.eldiario.es/2026/10/15/la-audiencia-condena-a-un-exedil-del-pp-y-a-su-cunado-por-la-corrupcion-de-aguas-de-calp-pero-solo-a-11-meses-de-prision/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ajuntament de Calp",
+          "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-15-de-octubre-2",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante",
+        "https://lamarina.eldiario.es/2026/10/15/la-audiencia-condena-a-un-exedil-del-pp-y-a-su-cunado-por-la-corrupcion-de-aguas-de-calp-pero-solo-a-11-meses-de-prision",
+        "https://noticias.calp.es/es/noticia/dosier-de-prensa-15-de-octubre-2"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 3,
+        "caveats": [
+          "No se ha localizado durante la búsqueda una copia pública directa de la sentencia de la Audiencia de Alicante.",
+          "La confirmación de la cuantía exacta de 430.000 euros procede de Cadena SER; la segunda fuente consultada corrobora el núcleo de la condena, pero no reproduce esa cifra en el fragmento localizado."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_7d82d23bd4a3b21b",
+        "quality_gate_evaluated_at": "2026-10-15T19:12:02.104Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No se ha localizado una copia pública directa de la sentencia; conviene mantener atribuidos a las fuentes los detalles técnicos del fallo.",
+        "La indemnización conjunta de 430.000 euros procede de una de las fuentes consultadas; la segunda corrobora el núcleo de la condena, pero no reproduce esa cifra en el fragmento disponible."
+      ],
+      "published_at": "2026-10-15T19:11:32.752Z",
+      "updated_at": "2026-10-15T19:12:02.429Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_c45da523cb27a247",
       "external_id": "drf_26c89f996ddf3ed8",

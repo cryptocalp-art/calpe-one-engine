@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-15T15:04:54.985Z",
+  "generated_at": "2026-10-15T19:12:12.462Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-15T15:04:54.796Z",
+  "last_activity": "2026-10-15T19:12:12.262Z",
   "newspaper": {
-    "archive_total": 89,
-    "published_today": 3,
-    "published_last_7_days": 19,
+    "archive_total": 90,
+    "published_today": 4,
+    "published_last_7_days": 18,
     "categories": {
+      "POLITICA": 8,
       "SUCESOS": 12,
       "MEDIO_AMBIENTE": 16,
       "ECONOMIA": 12,
       "LOCAL": 12,
-      "POLITICA": 7,
       "DEPORTES": 4,
       "CULTURA": 6,
       "SOCIEDAD": 12,
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_c6ede3a43c7d664c",
+        "title": "La Audiencia de Alicante condena a once meses al exedil de Calp Juan Roselló por el caso de las aguas",
+        "category": "POLITICA",
+        "slug": "condenan-juan-rosello-caso-aguas-calp",
+        "published_at": "2026-10-15T19:11:32.752Z"
+      },
       {
         "archive_id": "arc_c45da523cb27a247",
         "title": "Hospitalizada una mujer de 80 años tras ser rescatada del mar en la playa del Arenal de Calp",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "calp-decimo-encuentro-empresarial-turistico-pactema",
         "published_at": "2026-10-14T00:22:43.578Z"
-      },
-      {
-        "archive_id": "arc_baa762cc08d80b44",
-        "title": "Los electores de Calp pueden consultar el censo para las elecciones del 29 de noviembre",
-        "category": "POLITICA",
-        "slug": "consultar-censo-electoral-calp-elecciones-29-noviembre-2026",
-        "published_at": "2026-10-13T16:02:27.868Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 2
+    "drafts": 1,
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_d9540d19cd31e3ec",
-      "slug": "condena-juan-rosello-caso-red-aguas-calp",
-      "category": "POLITICA",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-15T15:04:43.222Z"
-    }
-  ]
+  "quarantine": []
 }
