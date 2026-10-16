@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-16T07:13:29.352Z",
+  "generated_at": "2026-10-16T12:28:38.739Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-16T07:13:29.196Z",
+  "last_activity": "2026-10-16T12:28:38.528Z",
   "newspaper": {
     "archive_total": 91,
     "published_today": 1,
@@ -82,10 +82,10 @@
   "editorial_cycle": {
     "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
-    "quarantined": 0,
-    "archive_added": 1
+    "drafts": 1,
+    "eligible": 0,
+    "quarantined": 1,
+    "archive_added": 0
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_765219066d18a910",
+      "slug": "orobianco-pone-fin-etapa-calp-barcelona",
+      "category": "ECONOMIA",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-16T12:28:29.164Z"
+    }
+  ]
 }
