@@ -1,173 +1,84 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-16T17:26:13.654Z",
+  "generated_at": "2026-10-16T21:12:04.372Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
-      "title": "Calp recibe una subvención de 998,40 euros para reforzar Protección Civil",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La concesión está respaldada por una resolución de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias publicada en el DOGV el 14 de octubre de 2026. La comunicación del Ayuntamiento de Calp identifica a Calp como beneficiario y fija la ayuda en 998,40 euros para gastos de equipamiento y seguros del voluntariado de Protección Civil.",
-      "claims": [
-        {
-          "claim": "La Agencia Valenciana de Seguridad y Respuesta a las Emergencias concedió en 2026 subvenciones para equipamiento y seguros del personal voluntario de Protección Civil.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La resolución de concesión es de 18 de septiembre de 2026 y fue publicada en el DOGV el 14 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento de Calp recibió una ayuda de 998,40 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ayuda está destinada a financiar equipamiento y seguros del personal voluntario de Protección Civil.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Diari Oficial de la Generalitat Valenciana / Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
-          "source_url": "https://dogv.gva.es/",
-          "evidence": "La resolución de 18 de septiembre de 2026 concede subvenciones para financiar gastos de equipamiento y seguros del personal voluntario de agrupaciones locales de Protección Civil y entidades colaboradoras. La publicación oficial figura fechada el 14 de octubre de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp / Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
-          "evidence": "La comunicación municipal anuncia que el Ayuntamiento de Calp recibe una subvención de 998,40 euros procedente de la resolución autonómica para financiar equipamiento y seguros del personal voluntario de Protección Civil.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp – canal oficial de Telegram",
-          "source_url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-          "evidence": "El canal oficial reproduce la identificación de la ayuda: 998,40 euros, resolución de 18 de septiembre de 2026 y finalidad de financiar gastos de equipamiento y seguros de las agrupaciones locales de voluntariado de Protección Civil.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La resolución oficial localizada confirma el programa de ayudas y su finalidad, pero la ficha consultable no muestra en el extracto indexado la línea individual correspondiente a Calp; el importe y la condición de beneficiario proceden de la comunicación oficial municipal."
-      ],
-      "id": "inv_82ddb49b0428e5b4",
-      "investigated_at": "2026-10-16T17:26:13.654Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "a655845ce9350a55ff79b23955f0f29d99773899bdc332446fdd75ba13451206",
-      "title": "Calp registra una de las tasas de paro más bajas de las últimas dos décadas, aunque el desempleo repunta en septiembre",
+      "candidate_fingerprint": "f4116809d4412ec868f774764d537e662e257d62b6a4d0de1c2f6e363e212fa2",
+      "title": "El restaurante con estrella Michelin Orobianco cierra en Calp y traslada su proyecto a Barcelona",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "Los datos de septiembre de 2026 localizados en Calp Digital y en la serie municipal de Datosmacro coinciden: 832 personas desempleadas y una tasa de paro registrado del 6,98%. También está respaldado el repunte mensual desde los 787 desempleados y el 6,68% de agosto. La comparación histórica y provincial sostiene que se trata de uno de los niveles más bajos de la serie reciente.",
+      "summary": "La información está suficientemente corroborada por la web oficial de Orobianco y por fuentes periodísticas independientes. El grupo comunica el final de la etapa de Orobianco como restaurante de alta cocina en Calp, concentra su actividad gastronómica en Barcelona mediante Osteria Condal y mantiene O·B Rooftop como proyecto separado en Calp para la próxima temporada.",
       "claims": [
         {
-          "claim": "Calp cerró septiembre de 2026 con 832 personas desempleadas.",
+          "claim": "Orobianco pone fin a su etapa como restaurante de alta cocina en Calp tras más de una década.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La tasa de paro registrado de Calp en septiembre de 2026 fue del 6,98%.",
+          "claim": "El grupo Orobianco concentra su nueva fase gastronómica y empresarial en Barcelona, con el proyecto Osteria Condal en el Paral·lel.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El desempleo aumentó respecto a agosto de 2026, cuando había 787 personas desempleadas y una tasa del 6,68%.",
+          "claim": "Orobianco contaba con una estrella Michelin y un Sol Repsol durante su etapa en Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El 6,98% se encuentra entre las tasas más bajas de los últimos años y sitúa a Calp entre los municipios valencianos de más de 10.000 habitantes con menor paro.",
+          "claim": "O·B Rooftop mantiene continuidad en Calp bajo la misma propiedad durante la próxima temporada.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El repunte de septiembre tiene carácter estacional y coincide con el final de la temporada turística.",
+          "claim": "El cierre del restaurante de alta cocina implica el traslado íntegro de toda la actividad del grupo a Barcelona.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
-          "evidence": "Publica que Calp terminó septiembre de 2026 con 832 personas inscritas como desempleadas y una tasa del 6,98%, frente a 787 desempleados y el 6,68% en agosto. También recoge la evolución histórica desde 2006 y el repunte mensual de 45 personas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Datosmacro / Expansión",
-          "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
-          "evidence": "La serie municipal de septiembre de 2026 muestra para Calp una tasa de paro del 6,98% y 832 personas desempleadas. En su clasificación de municipios alicantinos de entre 10.000 y 40.000 habitantes, Calp aparece entre los municipios con menor tasa.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "elperiodic.com",
-          "source_url": "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750",
-          "evidence": "Elabora una clasificación independiente de municipios valencianos de más de 10.000 habitantes a partir de la serie de Datosmacro de septiembre de 2026 y sitúa a Calp con 6,98% y 832 personas en paro.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La expresión 'tasa de paro' se refiere aquí al indicador de paro registrado utilizado por las fuentes, no a la tasa de desempleo de la Encuesta de Población Activa.",
-        "La explicación concreta de que el aumento se deba a la bajada de la temporada turística procede de Calp Digital y no queda demostrada de forma independiente con una fuente estadística adicional."
-      ],
-      "id": "inv_46fa848c4442d7b4",
-      "investigated_at": "2026-10-16T17:26:13.654Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "372d5480a63f7278408306acd5b2dc2b005b0faed06e03971cdd7c827a7922de",
-      "title": "Calp aclara las condiciones para participar en el concurso de reurbanización de cuatro espacios urbanos",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La convocatoria municipal y una información independiente de Cadena SER corroboran el concurso de proyectos, la dotación total de 50.000 euros, el plazo del 11 de noviembre de 2026 a las 10:00 horas y la evaluación anónima. Calp Digital añade que las propuestas deben presentarse presencialmente y en sobre cerrado.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp ha convocado un concurso de proyectos para reurbanizar la avenida Europa, la calle Portalet, la calle La Niña y la plaza Colón, incluyendo además un tramo de la avenida Puerto de Santa María.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El concurso se divide en tres lotes y contempla una dotación total de 50.000 euros en premios.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de presentación termina el 11 de noviembre de 2026 a las 10:00 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las propuestas se presentan presencialmente ante el Departamento de Contratación del Ayuntamiento.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La documentación técnica se presenta de forma anónima y las propuestas deben entregarse en sobre cerrado.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp / Noticias del Ayuntamiento",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
-          "evidence": "La convocatoria oficial describe tres lotes para la avenida Europa; la calle Portalet y un tramo de la avenida Puerto de Santa María; y la calle La Niña y la plaza Colón. Fija premios de 20.000, 10.000 y 20.000 euros, respectivamente, con un total de 50.000 euros. También establece el plazo hasta el 11 de noviembre de 2026 a las 10:00 horas, la entrega en el Departamento de Contratación y la evaluación anónima.",
+          "source_name": "Orobianco, web oficial",
+          "source_url": "https://orobianco.es/",
+          "evidence": "La página oficial afirma que, tras más de una década de trayectoria, Orobianco concluye su etapa como restaurante de alta cocina en Calpe. También diferencia el restaurante Orobianco de O·B Rooftop como líneas separadas del grupo. ([orobianco.es](https://orobianco.es/?utm_source=openai))",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
-          "evidence": "Detalla que las propuestas deben entregarse presencialmente, en sobre cerrado y bajo un lema que preserve el anonimato. Confirma la dotación de 50.000 euros y el plazo hasta el 11 de noviembre de 2026 a las 10:00 horas.",
+          "source_name": "Orobianco, página oficial de reservas",
+          "source_url": "https://orobianco.es/reservas",
+          "evidence": "La web oficial identifica a Orobianco como restaurante gastronómico con 1 estrella Michelin y 1 Sol Repsol, lo muestra cerrado por temporada y mantiene una ficha diferenciada para O·B Rooftop. ([orobianco.es](https://orobianco.es/reservas))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/",
+          "evidence": "La información publicada el 15 de octubre de 2026 señala que Orobianco finaliza su etapa en Calp después de más de una década, que el grupo fija Barcelona como principal foco de negocio mediante Osteria Condal y que O·B Rooftop continuará la próxima temporada. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/?utm_source=openai))",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
-          "evidence": "Informa de la convocatoria municipal, de los tres lotes, de los 50.000 euros en premios, de la presentación mediante paneles DIN-A1 y del plazo de entrega del 11 de noviembre de 2026 a las 10:00 horas.",
+          "source_name": "Pagos de Familia",
+          "source_url": "https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html",
+          "evidence": "El artículo del 16 de octubre de 2026 informa del cese de actividad de Orobianco en Calp tras una década, del traslado del foco del grupo a Barcelona con Osteria Condal y de la continuidad de O·B Rooftop en Calp durante la próxima temporada. La pieza reproduce declaraciones atribuidas a Inna Skriabina y Paolo Casagrande. ([pagosdefamilia.es](https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html))",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Time Out Barcelona",
+          "source_url": "https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226",
+          "evidence": "La publicación confirma que Osteria Condal es el nuevo proyecto barcelonés de Paolo Casagrande y que ocupa el espacio del antiguo Teatro Kitchen Bar en el Paral·lel. ([timeout.es](https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226?utm_source=openai))",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Osteria Condal, aviso legal oficial",
+          "source_url": "https://osteriacondal.es/en/aviso-legal/",
+          "evidence": "La web oficial de Osteria Condal identifica a Grupo Orobianco, S.L. como titular del proyecto y sitúa la nueva actividad en Barcelona, corroborando la vinculación empresarial entre ambos establecimientos. ([osteriacondal.es](https://osteriacondal.es/en/aviso-legal/?utm_source=openai))",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "El titular candidato resume la actuación como referida a cuatro espacios urbanos, pero la convocatoria oficial precisa también un tramo de la avenida Puerto de Santa María y organiza el concurso en tres lotes."
+        "La formulación «traslada su proyecto a Barcelona» debe entenderse como un traslado del foco gastronómico y empresarial, no como el traslado físico del restaurante de Calp ni necesariamente de toda la actividad del grupo.",
+        "Una nota de prensa oficial de octubre de 2025 indicaba que Orobianco reabriría en Calp en 2026; esa previsión fue posteriormente modificada por la comunicación oficial de octubre de 2026 que anuncia el final de la etapa de alta cocina en Calp. ([grupoorobianco.es](https://grupoorobianco.es/documents/Paolo_Casagrande_al_frente_de_Orobianco_Barcelona_2.pdf))",
+        "La web oficial consultada muestra tanto Orobianco como O·B Rooftop cerrados por temporada; la continuidad futura de O·B Rooftop procede de la comunicación del grupo reproducida por La Marina Plaza y Pagos de Familia, no de un calendario de reservas actualmente abierto."
       ],
-      "id": "inv_f6d653331eab1f9f",
-      "investigated_at": "2026-10-16T17:26:13.654Z",
+      "id": "inv_af8262f91f1e3110",
+      "investigated_at": "2026-10-16T21:12:04.372Z",
       "model": "gpt-5.6-luna"
     }
   ]

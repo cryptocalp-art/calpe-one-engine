@@ -3,9 +3,91 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-16T17:27:09.328Z",
-  "count": 93,
+  "updated_at": "2026-10-16T21:12:42.151Z",
+  "count": 94,
   "articles": [
+    {
+      "archive_id": "arc_3944a19fbf8e6fed",
+      "external_id": "drf_d6ecb40ee38459a4",
+      "investigation_id": "inv_af8262f91f1e3110",
+      "candidate_fingerprints": [
+        "f4116809d4412ec868f774764d537e662e257d62b6a4d0de1c2f6e363e212fa2"
+      ],
+      "title": "Orobianco cierra su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona",
+      "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
+      "summary": "Orobianco pone fin a su etapa como restaurante de alta cocina en Calp después de más de una década de trayectoria. El grupo concentra ahora su nueva fase gastronómica y empresarial en Barcelona, donde desarrolla Osteria Condal, aunque mantiene O·B Rooftop como un proyecto separado en Calp para la próxima temporada.",
+      "body": "El restaurante Orobianco concluye su etapa como establecimiento de alta cocina en Calp tras más de una década de actividad. El grupo ha comunicado el cierre de esta fase y el traslado de su foco gastronómico y empresarial a Barcelona, donde impulsa Osteria Condal, situado en el Paral·lel.\n\nDurante su trayectoria en Calp, Orobianco contó con una estrella Michelin y un Sol Repsol. La web oficial del grupo diferencia este restaurante de O·B Rooftop, otra de sus líneas de actividad en el municipio.\n\nLa nueva etapa del grupo se articula en torno a Osteria Condal, un proyecto vinculado empresarialmente a Grupo Orobianco, S.L. La información disponible identifica este establecimiento como la nueva iniciativa barcelonesa y sitúa su espacio en el Paral·lel.\n\nEl cierre de Orobianco como restaurante de alta cocina no supone, según la comunicación difundida por el grupo, el final de toda su actividad en Calp. O·B Rooftop mantiene su continuidad bajo la misma propiedad durante la próxima temporada. No obstante, la web oficial consultada muestra ambos establecimientos cerrados por temporada y no ofrece actualmente un calendario de reservas abierto para confirmar fechas concretas de reapertura.\n\nLa decisión modifica la presencia gastronómica de Orobianco en Calp después de una etapa de más de diez años, pero no permite afirmar que toda la actividad del grupo se traslade a Barcelona. La continuidad anunciada para O·B Rooftop mantiene una parte diferenciada del proyecto en el municipio.",
+      "category": "ECONOMIA",
+      "seo_title": "Orobianco cierra su etapa de alta cocina en Calp",
+      "meta_description": "Orobianco finaliza su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona con Osteria Condal. O·B Rooftop continuará en Calp.",
+      "sources": [
+        {
+          "name": "Orobianco, web oficial",
+          "url": "https://orobianco.es/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Orobianco, página oficial de reservas",
+          "url": "https://orobianco.es/reservas",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Pagos de Familia",
+          "url": "https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Time Out Barcelona",
+          "url": "https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Osteria Condal, aviso legal oficial",
+          "url": "https://osteriacondal.es/en/aviso-legal/",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://orobianco.es",
+        "https://orobianco.es/reservas",
+        "https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona",
+        "https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html",
+        "https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226",
+        "https://osteriacondal.es/en/aviso-legal"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 6,
+        "caveats": [
+          "La formulación «traslada su proyecto a Barcelona» debe entenderse como un traslado del foco gastronómico y empresarial, no como el traslado físico del restaurante de Calp ni necesariamente de toda la actividad del grupo.",
+          "Una nota de prensa oficial de octubre de 2025 indicaba que Orobianco reabriría en Calp en 2026; esa previsión fue posteriormente modificada por la comunicación oficial de octubre de 2026 que anuncia el final de la etapa de alta cocina en Calp. ([grupoorobianco.es](https://grupoorobianco.es/documents/Paolo_Casagrande_al_frente_de_Orobianco_Barcelona_2.pdf))",
+          "La web oficial consultada muestra tanto Orobianco como O·B Rooftop cerrados por temporada; la continuidad futura de O·B Rooftop procede de la comunicación del grupo reproducida por La Marina Plaza y Pagos de Familia, no de un calendario de reservas actualmente abierto."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_11aaa1dd5c344173",
+        "quality_gate_evaluated_at": "2026-10-16T21:12:41.781Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "Diferenciar el cierre de Orobianco como restaurante de alta cocina del traslado del foco gastronómico y empresarial del grupo; no afirmar que toda su actividad se traslada a Barcelona.",
+        "La continuidad de O·B Rooftop durante la próxima temporada procede de la comunicación del grupo reproducida por medios; la web oficial consultada muestra el establecimiento cerrado por temporada y no confirma fechas concretas de reapertura.",
+        "La previsión difundida en 2025 sobre una reapertura de Orobianco en Calp en 2026 quedó modificada por la comunicación de octubre de 2026 que anuncia el final de su etapa de alta cocina."
+      ],
+      "published_at": "2026-10-16T21:12:32.848Z",
+      "updated_at": "2026-10-16T21:12:42.151Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_eb2186a347853adf",
       "external_id": "drf_84a6ee1a7288a780",

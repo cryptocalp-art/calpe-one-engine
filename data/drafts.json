@@ -1,147 +1,72 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-16T17:26:53.799Z",
+  "generated_at": "2026-10-16T21:12:32.848Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "drafts": [
     {
-      "id": "drf_84a6ee1a7288a780",
-      "investigation_id": "inv_82ddb49b0428e5b4",
-      "candidate_fingerprint": "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
-      "category": "SUCESOS",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-16T17:26:53.799Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
-      "subheadline": "La ayuda procede de una convocatoria de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias cuya resolución se publicó en el DOGV el 14 de octubre",
-      "lead": "El Ayuntamiento de Calp ha recibido una subvención de 998,40 euros destinada a financiar gastos de equipamiento y seguros del personal voluntario de Protección Civil. La ayuda figura en la comunicación municipal sobre la resolución de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias.",
-      "body_markdown": "El Ayuntamiento de Calp ha sido identificado como beneficiario de una ayuda de 998,40 euros concedida por la Agencia Valenciana de Seguridad y Respuesta a las Emergencias. La subvención está destinada a cubrir gastos relacionados con el equipamiento y los seguros del personal voluntario de Protección Civil.\n\nLa concesión se enmarca en la resolución autonómica de 18 de septiembre de 2026, que establece subvenciones para financiar este tipo de gastos de las agrupaciones locales de Protección Civil y de las entidades colaboradoras. La resolución fue publicada en el Diari Oficial de la Generalitat Valenciana el 14 de octubre de 2026.\n\nLa comunicación del Ayuntamiento de Calp concreta el importe asignado al municipio y señala que los fondos se dirigirán al equipamiento y a los seguros del voluntariado de Protección Civil. El canal oficial municipal también recoge esa cuantía, la fecha de la resolución y la finalidad de la ayuda.\n\nLa resolución oficial consultada confirma el programa de subvenciones y su objetivo general. No obstante, el extracto disponible de esa publicación no muestra de forma individualizada la línea correspondiente a Calp. La condición de beneficiario y el importe proceden de la comunicación oficial del Ayuntamiento.",
-      "seo_title": "Calp recibe 998,40 euros para Protección Civil",
-      "meta_description": "El Ayuntamiento de Calp recibe una ayuda de 998,40 euros para financiar equipamiento y seguros del voluntariado de Protección Civil.",
-      "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
-      "editorial_notes": [
-        "La resolución oficial consultada confirma el programa y su finalidad, pero el extracto disponible no muestra la línea individual de Calp. El importe y la condición de beneficiario proceden de la comunicación municipal."
-      ],
-      "sources": [
-        {
-          "source_name": "Diari Oficial de la Generalitat Valenciana / Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
-          "source_url": "https://dogv.gva.es/",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp / Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp – canal oficial de Telegram",
-          "source_url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "MEDIUM",
-        "supported_claim_count": 4,
-        "evidence_count": 3,
-        "caveats": [
-          "La resolución oficial localizada confirma el programa de ayudas y su finalidad, pero la ficha consultable no muestra en el extracto indexado la línea individual correspondiente a Calp; el importe y la condición de beneficiario proceden de la comunicación oficial municipal."
-        ]
-      }
-    },
-    {
-      "id": "drf_d83b40469d8332d8",
-      "investigation_id": "inv_46fa848c4442d7b4",
-      "candidate_fingerprint": "a655845ce9350a55ff79b23955f0f29d99773899bdc332446fdd75ba13451206",
+      "id": "drf_d6ecb40ee38459a4",
+      "investigation_id": "inv_af8262f91f1e3110",
+      "candidate_fingerprint": "f4116809d4412ec868f774764d537e662e257d62b6a4d0de1c2f6e363e212fa2",
       "category": "ECONOMIA",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-10-16T17:26:53.799Z",
+      "created_at": "2026-10-16T21:12:32.848Z",
       "model": "gpt-5.6-luna",
-      "headline": "Calp cierra septiembre con 832 personas desempleadas y una tasa de paro registrado del 6,98%",
-      "subheadline": "El indicador repunta frente a agosto, cuando se contabilizaron 787 personas desempleadas y una tasa del 6,68%",
-      "lead": "Calp terminó septiembre de 2026 con 832 personas inscritas como desempleadas y una tasa de paro registrado del 6,98%, según los datos recogidos por las fuentes consultadas. El registro supone un aumento mensual de 45 personas respecto a agosto.",
-      "body_markdown": "Calp cerró septiembre de 2026 con 832 personas desempleadas y una tasa de paro registrado del 6,98%. Los datos coinciden en la información publicada por Calp Digital y en la serie municipal de Datosmacro, que también recoge la posición del municipio en las comparativas de localidades valencianas.\n\nEn agosto, el registro contabilizaba 787 personas desempleadas y una tasa del 6,68%. La evolución mensual refleja, por tanto, un incremento de 45 personas y una subida de tres décimas en el indicador de paro registrado.\n\nEl 6,98% se sitúa entre las tasas más bajas de los últimos años y coloca a Calp entre los municipios valencianos de más de 10.000 habitantes con menor paro, de acuerdo con las clasificaciones y comparativas recogidas en las fuentes consultadas.\n\nLa denominación utilizada en esta información corresponde al indicador de paro registrado. No equivale a la tasa de desempleo que mide la Encuesta de Población Activa. Las fuentes citadas constatan el repunte mensual, pero la explicación concreta de que esté relacionado con el final de la temporada turística no queda demostrada de forma independiente y no se incorpora como conclusión.",
-      "seo_title": "Calp alcanza un 6,98% de paro registrado en septiembre",
-      "meta_description": "Calp cerró septiembre de 2026 con 832 personas desempleadas y un 6,98% de paro registrado, frente al 6,68% de agosto.",
-      "slug": "calp-paro-registrado-septiembre-2026",
+      "headline": "Orobianco cierra su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona",
+      "subheadline": "El grupo sitúa su nueva fase gastronómica en Osteria Condal, mientras O·B Rooftop mantiene su continuidad en Calp durante la próxima temporada.",
+      "lead": "Orobianco pone fin a su etapa como restaurante de alta cocina en Calp después de más de una década de trayectoria. El grupo concentra ahora su nueva fase gastronómica y empresarial en Barcelona, donde desarrolla Osteria Condal, aunque mantiene O·B Rooftop como un proyecto separado en Calp para la próxima temporada.",
+      "body_markdown": "El restaurante Orobianco concluye su etapa como establecimiento de alta cocina en Calp tras más de una década de actividad. El grupo ha comunicado el cierre de esta fase y el traslado de su foco gastronómico y empresarial a Barcelona, donde impulsa Osteria Condal, situado en el Paral·lel.\n\nDurante su trayectoria en Calp, Orobianco contó con una estrella Michelin y un Sol Repsol. La web oficial del grupo diferencia este restaurante de O·B Rooftop, otra de sus líneas de actividad en el municipio.\n\nLa nueva etapa del grupo se articula en torno a Osteria Condal, un proyecto vinculado empresarialmente a Grupo Orobianco, S.L. La información disponible identifica este establecimiento como la nueva iniciativa barcelonesa y sitúa su espacio en el Paral·lel.\n\nEl cierre de Orobianco como restaurante de alta cocina no supone, según la comunicación difundida por el grupo, el final de toda su actividad en Calp. O·B Rooftop mantiene su continuidad bajo la misma propiedad durante la próxima temporada. No obstante, la web oficial consultada muestra ambos establecimientos cerrados por temporada y no ofrece actualmente un calendario de reservas abierto para confirmar fechas concretas de reapertura.\n\nLa decisión modifica la presencia gastronómica de Orobianco en Calp después de una etapa de más de diez años, pero no permite afirmar que toda la actividad del grupo se traslade a Barcelona. La continuidad anunciada para O·B Rooftop mantiene una parte diferenciada del proyecto en el municipio.",
+      "seo_title": "Orobianco cierra su etapa de alta cocina en Calp",
+      "meta_description": "Orobianco finaliza su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona con Osteria Condal. O·B Rooftop continuará en Calp.",
+      "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
       "editorial_notes": [
-        "Usar siempre la expresión 'paro registrado' para evitar confundir este indicador con la tasa de desempleo de la EPA.",
-        "No atribuir el repunte de septiembre al final de la temporada turística: esa explicación no está verificada de forma independiente."
+        "Diferenciar el cierre de Orobianco como restaurante de alta cocina del traslado del foco gastronómico y empresarial del grupo; no afirmar que toda su actividad se traslada a Barcelona.",
+        "La continuidad de O·B Rooftop durante la próxima temporada procede de la comunicación del grupo reproducida por medios; la web oficial consultada muestra el establecimiento cerrado por temporada y no confirma fechas concretas de reapertura.",
+        "La previsión difundida en 2025 sobre una reapertura de Orobianco en Calp en 2026 quedó modificada por la comunicación de octubre de 2026 que anuncia el final de su etapa de alta cocina."
       ],
       "sources": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
+          "source_name": "Orobianco, web oficial",
+          "source_url": "https://orobianco.es/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Orobianco, página oficial de reservas",
+          "source_url": "https://orobianco.es/reservas",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Datosmacro / Expansión",
-          "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
+          "source_name": "Pagos de Familia",
+          "source_url": "https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "elperiodic.com",
-          "source_url": "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750",
+          "source_name": "Time Out Barcelona",
+          "source_url": "https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Osteria Condal, aviso legal oficial",
+          "source_url": "https://osteriacondal.es/en/aviso-legal/",
+          "source_type": "PRIMARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
         "confidence": "HIGH",
         "supported_claim_count": 4,
-        "evidence_count": 3,
+        "evidence_count": 6,
         "caveats": [
-          "La expresión 'tasa de paro' se refiere aquí al indicador de paro registrado utilizado por las fuentes, no a la tasa de desempleo de la Encuesta de Población Activa.",
-          "La explicación concreta de que el aumento se deba a la bajada de la temporada turística procede de Calp Digital y no queda demostrada de forma independiente con una fuente estadística adicional."
-        ]
-      }
-    },
-    {
-      "id": "drf_6b3e51a6f551e911",
-      "investigation_id": "inv_f6d653331eab1f9f",
-      "candidate_fingerprint": "372d5480a63f7278408306acd5b2dc2b005b0faed06e03971cdd7c827a7922de",
-      "category": "MEDIO_AMBIENTE",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-16T17:26:53.799Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Calp fija las condiciones para presentar proyectos de reurbanización en cinco ámbitos urbanos",
-      "subheadline": "El concurso se divide en tres lotes, ofrece 50.000 euros en premios y admite propuestas hasta el 11 de noviembre a las 10:00 horas",
-      "lead": "El Ayuntamiento de Calp ha convocado un concurso de proyectos para definir la futura reurbanización de la avenida Europa, la calle Portalet, un tramo de la avenida Puerto de Santa María, la calle La Niña y la plaza Colón. La convocatoria establece tres lotes y una dotación total de 50.000 euros en premios.",
-      "body_markdown": "El Ayuntamiento de Calp ha abierto un concurso de proyectos para plantear la reurbanización de varios espacios urbanos del municipio. La convocatoria incluye la avenida Europa; la calle Portalet junto con un tramo de la avenida Puerto de Santa María; y la calle La Niña y la plaza Colón.\n\nEl procedimiento se organiza en tres lotes. La distribución de los premios contempla 20.000 euros para el lote de la avenida Europa, 10.000 euros para el correspondiente a la calle Portalet y el tramo de la avenida Puerto de Santa María, y otros 20.000 euros para el lote de la calle La Niña y la plaza Colón. En total, la dotación asciende a 50.000 euros.\n\nLas propuestas deberán presentarse presencialmente ante el Departamento de Contratación del Ayuntamiento. El plazo de entrega finaliza el 11 de noviembre de 2026 a las 10:00 horas.\n\nLa documentación técnica se presentará de forma anónima y las propuestas deberán entregarse en un sobre cerrado, bajo un lema que preserve esa identificación. La evaluación también se realizará de manera anónima, según las condiciones recogidas en la convocatoria municipal.\n\nLa convocatoria afecta, por tanto, a tres lotes y a cinco ámbitos mencionados en su descripción: cuatro calles o plazas y un tramo de la avenida Puerto de Santa María. La referencia a cuatro espacios urbanos no incluye por separado ese tramo, que forma parte del segundo lote.",
-      "seo_title": "Calp convoca un concurso para reurbanizar cinco ámbitos urbanos",
-      "meta_description": "El concurso de Calp se divide en tres lotes, ofrece 50.000 euros en premios y finaliza el 11 de noviembre de 2026 a las 10:00 horas.",
-      "slug": "calp-concurso-proyectos-reurbanizacion-espacios-urbanos",
-      "editorial_notes": [
-        "Precisar que la convocatoria se divide en tres lotes e incluye un tramo de la avenida Puerto de Santa María, además de la avenida Europa, la calle Portalet, la calle La Niña y la plaza Colón."
-      ],
-      "sources": [
-        {
-          "source_name": "Ayuntamiento de Calp / Noticias del Ayuntamiento",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 5,
-        "evidence_count": 3,
-        "caveats": [
-          "El titular candidato resume la actuación como referida a cuatro espacios urbanos, pero la convocatoria oficial precisa también un tramo de la avenida Puerto de Santa María y organiza el concurso en tres lotes."
+          "La formulación «traslada su proyecto a Barcelona» debe entenderse como un traslado del foco gastronómico y empresarial, no como el traslado físico del restaurante de Calp ni necesariamente de toda la actividad del grupo.",
+          "Una nota de prensa oficial de octubre de 2025 indicaba que Orobianco reabriría en Calp en 2026; esa previsión fue posteriormente modificada por la comunicación oficial de octubre de 2026 que anuncia el final de la etapa de alta cocina en Calp. ([grupoorobianco.es](https://grupoorobianco.es/documents/Paolo_Casagrande_al_frente_de_Orobianco_Barcelona_2.pdf))",
+          "La web oficial consultada muestra tanto Orobianco como O·B Rooftop cerrados por temporada; la continuidad futura de O·B Rooftop procede de la comunicación del grupo reproducida por La Marina Plaza y Pagos de Familia, no de un calendario de reservas actualmente abierto."
         ]
       }
     }

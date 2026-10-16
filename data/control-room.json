@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-16T17:27:31.572Z",
+  "generated_at": "2026-10-16T21:12:53.060Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-16T17:27:31.362Z",
+  "last_activity": "2026-10-16T21:12:52.909Z",
   "newspaper": {
-    "archive_total": 93,
-    "published_today": 3,
-    "published_last_7_days": 17,
+    "archive_total": 94,
+    "published_today": 4,
+    "published_last_7_days": 18,
     "categories": {
+      "ECONOMIA": 14,
       "SUCESOS": 13,
-      "ECONOMIA": 13,
       "MEDIO_AMBIENTE": 17,
       "POLITICA": 8,
       "LOCAL": 12,
@@ -21,6 +21,13 @@
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_3944a19fbf8e6fed",
+        "title": "Orobianco cierra su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona",
+        "category": "ECONOMIA",
+        "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
+        "published_at": "2026-10-16T21:12:32.848Z"
+      },
       {
         "archive_id": "arc_eb2186a347853adf",
         "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
         "published_at": "2026-10-15T04:43:31.436Z"
-      },
-      {
-        "archive_id": "arc_1a8b7981cd1242fd",
-        "title": "Localizada en buen estado Radia, la menor desaparecida en Calp en septiembre de 2025",
-        "category": "SUCESOS",
-        "slug": "localizada-buen-estado-radia-desaparecida-calp",
-        "published_at": "2026-10-14T20:45:11.397Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 3,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 2
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
