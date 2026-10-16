@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-16T12:28:38.739Z",
+  "generated_at": "2026-10-16T17:27:31.572Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-16T12:28:38.528Z",
+  "last_activity": "2026-10-16T17:27:31.362Z",
   "newspaper": {
-    "archive_total": 91,
-    "published_today": 1,
+    "archive_total": 93,
+    "published_today": 3,
     "published_last_7_days": 17,
     "categories": {
+      "SUCESOS": 13,
+      "ECONOMIA": 13,
       "MEDIO_AMBIENTE": 17,
       "POLITICA": 8,
-      "SUCESOS": 12,
-      "ECONOMIA": 12,
       "LOCAL": 12,
       "DEPORTES": 4,
       "CULTURA": 6,
@@ -21,6 +21,20 @@
       "TURISMO": 8
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_eb2186a347853adf",
+        "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
+        "category": "SUCESOS",
+        "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
+        "published_at": "2026-10-16T17:26:53.799Z"
+      },
+      {
+        "archive_id": "arc_78ae5cb192bfe19e",
+        "title": "Calp cierra septiembre con 832 personas desempleadas y una tasa de paro registrado del 6,98%",
+        "category": "ECONOMIA",
+        "slug": "calp-paro-registrado-septiembre-2026",
+        "published_at": "2026-10-16T17:26:53.799Z"
+      },
       {
         "archive_id": "arc_f1b5e21761013a26",
         "title": "El Consorci Mare destina 2,25 millones a mejorar la gestión de residuos en Calp y la comarca",
@@ -62,30 +76,16 @@
         "category": "SUCESOS",
         "slug": "localizada-buen-estado-radia-desaparecida-calp",
         "published_at": "2026-10-14T20:45:11.397Z"
-      },
-      {
-        "archive_id": "arc_f6313ef85f555b27",
-        "title": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1,76 millones",
-        "category": "LOCAL",
-        "slug": "calp-modificacion-credito-176-millones-18-partidas",
-        "published_at": "2026-10-14T20:45:11.397Z"
-      },
-      {
-        "archive_id": "arc_233a0fd61119bd42",
-        "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
-        "category": "POLITICA",
-        "slug": "calp-aprueba-rebajas-fiscales-2027",
-        "published_at": "2026-10-14T06:11:55.187Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 0,
-    "quarantined": 1,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 3,
+    "quarantined": 0,
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_765219066d18a910",
-      "slug": "orobianco-pone-fin-etapa-calp-barcelona",
-      "category": "ECONOMIA",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-16T12:28:29.164Z"
-    }
-  ]
+  "quarantine": []
 }

@@ -3,26 +3,398 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-16T12:28:29.323Z",
+  "generated_at": "2026-10-16T17:27:09.171Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
-  "ready_count": 0,
-  "quarantined_count": 1,
-  "ready": [],
-  "quarantined": [
+  "drafts_seen": 3,
+  "ready_count": 3,
+  "quarantined_count": 0,
+  "ready": [
     {
-      "export_id": "exp_c69b04619ef05a81",
-      "draft_id": "drf_765219066d18a910",
-      "investigation_id": "inv_5743274332a78285",
-      "slug": "orobianco-pone-fin-etapa-calp-barcelona",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
+      "export_id": "exp_3fef3b6e5155f717",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-16T17:27:09.171Z",
+      "source_draft_id": "drf_84a6ee1a7288a780",
+      "source_investigation_id": "inv_82ddb49b0428e5b4",
+      "candidate_fingerprint": "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
+      "quality_gate_id": "qg_c15c457ecb8d0d07",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_84a6ee1a7288a780",
+        "investigation_id": "inv_82ddb49b0428e5b4",
+        "candidate_fingerprint": "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
+        "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
+        "subtitle": "La ayuda procede de una convocatoria de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias cuya resolución se publicó en el DOGV el 14 de octubre",
+        "summary": "El Ayuntamiento de Calp ha recibido una subvención de 998,40 euros destinada a financiar gastos de equipamiento y seguros del personal voluntario de Protección Civil. La ayuda figura en la comunicación municipal sobre la resolución de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias.",
+        "body": "El Ayuntamiento de Calp ha sido identificado como beneficiario de una ayuda de 998,40 euros concedida por la Agencia Valenciana de Seguridad y Respuesta a las Emergencias. La subvención está destinada a cubrir gastos relacionados con el equipamiento y los seguros del personal voluntario de Protección Civil.\n\nLa concesión se enmarca en la resolución autonómica de 18 de septiembre de 2026, que establece subvenciones para financiar este tipo de gastos de las agrupaciones locales de Protección Civil y de las entidades colaboradoras. La resolución fue publicada en el Diari Oficial de la Generalitat Valenciana el 14 de octubre de 2026.\n\nLa comunicación del Ayuntamiento de Calp concreta el importe asignado al municipio y señala que los fondos se dirigirán al equipamiento y a los seguros del voluntariado de Protección Civil. El canal oficial municipal también recoge esa cuantía, la fecha de la resolución y la finalidad de la ayuda.\n\nLa resolución oficial consultada confirma el programa de subvenciones y su objetivo general. No obstante, el extracto disponible de esa publicación no muestra de forma individualizada la línea correspondiente a Calp. La condición de beneficiario y el importe proceden de la comunicación oficial del Ayuntamiento.",
+        "category": "SUCESOS",
+        "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
+        "seo_title": "Calp recibe 998,40 euros para Protección Civil",
+        "meta_description": "El Ayuntamiento de Calp recibe una ayuda de 998,40 euros para financiar equipamiento y seguros del voluntariado de Protección Civil.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_c15c457ecb8d0d07",
+        "editorial_notes": [
+          "La resolución oficial consultada confirma el programa y su finalidad, pero el extracto disponible no muestra la línea individual de Calp. El importe y la condición de beneficiario proceden de la comunicación municipal."
+        ],
+        "sources": [
+          {
+            "name": "Diari Oficial de la Generalitat Valenciana / Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
+            "url": "https://dogv.gva.es/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp / Calp Comunica",
+            "url": "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp – canal oficial de Telegram",
+            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://dogv.gva.es/",
+          "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
+          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La resolución oficial localizada confirma el programa de ayudas y su finalidad, pero la ficha consultable no muestra en el extracto indexado la línea individual correspondiente a Calp; el importe y la condición de beneficiario proceden de la comunicación oficial municipal."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_c15c457ecb8d0d07",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-16T17:26:53.799Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_84a6ee1a7288a780",
+        "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
+        "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
+        "summary": "El Ayuntamiento de Calp ha recibido una subvención de 998,40 euros destinada a financiar gastos de equipamiento y seguros del personal voluntario de Protección Civil. La ayuda figura en la comunicación municipal sobre la resolución de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias.",
+        "body": "El Ayuntamiento de Calp ha sido identificado como beneficiario de una ayuda de 998,40 euros concedida por la Agencia Valenciana de Seguridad y Respuesta a las Emergencias. La subvención está destinada a cubrir gastos relacionados con el equipamiento y los seguros del personal voluntario de Protección Civil.\n\nLa concesión se enmarca en la resolución autonómica de 18 de septiembre de 2026, que establece subvenciones para financiar este tipo de gastos de las agrupaciones locales de Protección Civil y de las entidades colaboradoras. La resolución fue publicada en el Diari Oficial de la Generalitat Valenciana el 14 de octubre de 2026.\n\nLa comunicación del Ayuntamiento de Calp concreta el importe asignado al municipio y señala que los fondos se dirigirán al equipamiento y a los seguros del voluntariado de Protección Civil. El canal oficial municipal también recoge esa cuantía, la fecha de la resolución y la finalidad de la ayuda.\n\nLa resolución oficial consultada confirma el programa de subvenciones y su objetivo general. No obstante, el extracto disponible de esa publicación no muestra de forma individualizada la línea correspondiente a Calp. La condición de beneficiario y el importe proceden de la comunicación oficial del Ayuntamiento.",
+        "category": "SUCESOS",
+        "seo_title": "Calp recibe 998,40 euros para Protección Civil",
+        "meta_description": "El Ayuntamiento de Calp recibe una ayuda de 998,40 euros para financiar equipamiento y seguros del voluntariado de Protección Civil.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_c15c457ecb8d0d07",
+        "published_at": null,
+        "source_urls": [
+          "https://dogv.gva.es/",
+          "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
+          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades"
+        ],
+        "sources": [
+          {
+            "name": "Diari Oficial de la Generalitat Valenciana / Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
+            "url": "https://dogv.gva.es/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp / Calp Comunica",
+            "url": "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp – canal oficial de Telegram",
+            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_82ddb49b0428e5b4",
+        "candidate_fingerprint": "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La resolución oficial localizada confirma el programa de ayudas y su finalidad, pero la ficha consultable no muestra en el extracto indexado la línea individual correspondiente a Calp; el importe y la condición de beneficiario proceden de la comunicación oficial municipal."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_c15c457ecb8d0d07",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_d9cd48a4945eb14c",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-16T17:27:09.171Z",
+      "source_draft_id": "drf_d83b40469d8332d8",
+      "source_investigation_id": "inv_46fa848c4442d7b4",
+      "candidate_fingerprint": "a655845ce9350a55ff79b23955f0f29d99773899bdc332446fdd75ba13451206",
+      "quality_gate_id": "qg_e5c2ab9bb95ae01b",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_d83b40469d8332d8",
+        "investigation_id": "inv_46fa848c4442d7b4",
+        "candidate_fingerprint": "a655845ce9350a55ff79b23955f0f29d99773899bdc332446fdd75ba13451206",
+        "title": "Calp cierra septiembre con 832 personas desempleadas y una tasa de paro registrado del 6,98%",
+        "subtitle": "El indicador repunta frente a agosto, cuando se contabilizaron 787 personas desempleadas y una tasa del 6,68%",
+        "summary": "Calp terminó septiembre de 2026 con 832 personas inscritas como desempleadas y una tasa de paro registrado del 6,98%, según los datos recogidos por las fuentes consultadas. El registro supone un aumento mensual de 45 personas respecto a agosto.",
+        "body": "Calp cerró septiembre de 2026 con 832 personas desempleadas y una tasa de paro registrado del 6,98%. Los datos coinciden en la información publicada por Calp Digital y en la serie municipal de Datosmacro, que también recoge la posición del municipio en las comparativas de localidades valencianas.\n\nEn agosto, el registro contabilizaba 787 personas desempleadas y una tasa del 6,68%. La evolución mensual refleja, por tanto, un incremento de 45 personas y una subida de tres décimas en el indicador de paro registrado.\n\nEl 6,98% se sitúa entre las tasas más bajas de los últimos años y coloca a Calp entre los municipios valencianos de más de 10.000 habitantes con menor paro, de acuerdo con las clasificaciones y comparativas recogidas en las fuentes consultadas.\n\nLa denominación utilizada en esta información corresponde al indicador de paro registrado. No equivale a la tasa de desempleo que mide la Encuesta de Población Activa. Las fuentes citadas constatan el repunte mensual, pero la explicación concreta de que esté relacionado con el final de la temporada turística no queda demostrada de forma independiente y no se incorpora como conclusión.",
+        "category": "ECONOMIA",
+        "slug": "calp-paro-registrado-septiembre-2026",
+        "seo_title": "Calp alcanza un 6,98% de paro registrado en septiembre",
+        "meta_description": "Calp cerró septiembre de 2026 con 832 personas desempleadas y un 6,98% de paro registrado, frente al 6,68% de agosto.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e5c2ab9bb95ae01b",
+        "editorial_notes": [
+          "Usar siempre la expresión 'paro registrado' para evitar confundir este indicador con la tasa de desempleo de la EPA.",
+          "No atribuir el repunte de septiembre al final de la temporada turística: esa explicación no está verificada de forma independiente."
+        ],
+        "sources": [
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Datosmacro / Expansión",
+            "url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "elperiodic.com",
+            "url": "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
+          "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
+          "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La expresión 'tasa de paro' se refiere aquí al indicador de paro registrado utilizado por las fuentes, no a la tasa de desempleo de la Encuesta de Población Activa.",
+            "La explicación concreta de que el aumento se deba a la bajada de la temporada turística procede de Calp Digital y no queda demostrada de forma independiente con una fuente estadística adicional."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e5c2ab9bb95ae01b",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "created_at": "2026-10-16T17:26:53.799Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_d83b40469d8332d8",
+        "title": "Calp cierra septiembre con 832 personas desempleadas y una tasa de paro registrado del 6,98%",
+        "slug": "calp-paro-registrado-septiembre-2026",
+        "summary": "Calp terminó septiembre de 2026 con 832 personas inscritas como desempleadas y una tasa de paro registrado del 6,98%, según los datos recogidos por las fuentes consultadas. El registro supone un aumento mensual de 45 personas respecto a agosto.",
+        "body": "Calp cerró septiembre de 2026 con 832 personas desempleadas y una tasa de paro registrado del 6,98%. Los datos coinciden en la información publicada por Calp Digital y en la serie municipal de Datosmacro, que también recoge la posición del municipio en las comparativas de localidades valencianas.\n\nEn agosto, el registro contabilizaba 787 personas desempleadas y una tasa del 6,68%. La evolución mensual refleja, por tanto, un incremento de 45 personas y una subida de tres décimas en el indicador de paro registrado.\n\nEl 6,98% se sitúa entre las tasas más bajas de los últimos años y coloca a Calp entre los municipios valencianos de más de 10.000 habitantes con menor paro, de acuerdo con las clasificaciones y comparativas recogidas en las fuentes consultadas.\n\nLa denominación utilizada en esta información corresponde al indicador de paro registrado. No equivale a la tasa de desempleo que mide la Encuesta de Población Activa. Las fuentes citadas constatan el repunte mensual, pero la explicación concreta de que esté relacionado con el final de la temporada turística no queda demostrada de forma independiente y no se incorpora como conclusión.",
+        "category": "ECONOMIA",
+        "seo_title": "Calp alcanza un 6,98% de paro registrado en septiembre",
+        "meta_description": "Calp cerró septiembre de 2026 con 832 personas desempleadas y un 6,98% de paro registrado, frente al 6,68% de agosto.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e5c2ab9bb95ae01b",
+        "published_at": null,
+        "source_urls": [
+          "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
+          "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
+          "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750"
+        ],
+        "sources": [
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12409/calp-paro-septiembre-2026-tasa-desempleo",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Datosmacro / Expansión",
+            "url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/agres",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "elperiodic.com",
+            "url": "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_46fa848c4442d7b4",
+        "candidate_fingerprint": "a655845ce9350a55ff79b23955f0f29d99773899bdc332446fdd75ba13451206",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La expresión 'tasa de paro' se refiere aquí al indicador de paro registrado utilizado por las fuentes, no a la tasa de desempleo de la Encuesta de Población Activa.",
+            "La explicación concreta de que el aumento se deba a la bajada de la temporada turística procede de Calp Digital y no queda demostrada de forma independiente con una fuente estadística adicional."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e5c2ab9bb95ae01b",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_095ec9ed0ef51e48",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-16T17:27:09.171Z",
+      "source_draft_id": "drf_6b3e51a6f551e911",
+      "source_investigation_id": "inv_f6d653331eab1f9f",
+      "candidate_fingerprint": "372d5480a63f7278408306acd5b2dc2b005b0faed06e03971cdd7c827a7922de",
+      "quality_gate_id": "qg_a1fd48f57003880e",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_6b3e51a6f551e911",
+        "investigation_id": "inv_f6d653331eab1f9f",
+        "candidate_fingerprint": "372d5480a63f7278408306acd5b2dc2b005b0faed06e03971cdd7c827a7922de",
+        "title": "Calp fija las condiciones para presentar proyectos de reurbanización en cinco ámbitos urbanos",
+        "subtitle": "El concurso se divide en tres lotes, ofrece 50.000 euros en premios y admite propuestas hasta el 11 de noviembre a las 10:00 horas",
+        "summary": "El Ayuntamiento de Calp ha convocado un concurso de proyectos para definir la futura reurbanización de la avenida Europa, la calle Portalet, un tramo de la avenida Puerto de Santa María, la calle La Niña y la plaza Colón. La convocatoria establece tres lotes y una dotación total de 50.000 euros en premios.",
+        "body": "El Ayuntamiento de Calp ha abierto un concurso de proyectos para plantear la reurbanización de varios espacios urbanos del municipio. La convocatoria incluye la avenida Europa; la calle Portalet junto con un tramo de la avenida Puerto de Santa María; y la calle La Niña y la plaza Colón.\n\nEl procedimiento se organiza en tres lotes. La distribución de los premios contempla 20.000 euros para el lote de la avenida Europa, 10.000 euros para el correspondiente a la calle Portalet y el tramo de la avenida Puerto de Santa María, y otros 20.000 euros para el lote de la calle La Niña y la plaza Colón. En total, la dotación asciende a 50.000 euros.\n\nLas propuestas deberán presentarse presencialmente ante el Departamento de Contratación del Ayuntamiento. El plazo de entrega finaliza el 11 de noviembre de 2026 a las 10:00 horas.\n\nLa documentación técnica se presentará de forma anónima y las propuestas deberán entregarse en un sobre cerrado, bajo un lema que preserve esa identificación. La evaluación también se realizará de manera anónima, según las condiciones recogidas en la convocatoria municipal.\n\nLa convocatoria afecta, por tanto, a tres lotes y a cinco ámbitos mencionados en su descripción: cuatro calles o plazas y un tramo de la avenida Puerto de Santa María. La referencia a cuatro espacios urbanos no incluye por separado ese tramo, que forma parte del segundo lote.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-concurso-proyectos-reurbanizacion-espacios-urbanos",
+        "seo_title": "Calp convoca un concurso para reurbanizar cinco ámbitos urbanos",
+        "meta_description": "El concurso de Calp se divide en tres lotes, ofrece 50.000 euros en premios y finaliza el 11 de noviembre de 2026 a las 10:00 horas.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_a1fd48f57003880e",
+        "editorial_notes": [
+          "Precisar que la convocatoria se divide en tres lotes e incluye un tramo de la avenida Puerto de Santa María, además de la avenida Europa, la calle Portalet, la calle La Niña y la plaza Colón."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp / Noticias del Ayuntamiento",
+            "url": "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
+          "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "El titular candidato resume la actuación como referida a cuatro espacios urbanos, pero la convocatoria oficial precisa también un tramo de la avenida Puerto de Santa María y organiza el concurso en tres lotes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_a1fd48f57003880e",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-16T17:26:53.799Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_6b3e51a6f551e911",
+        "title": "Calp fija las condiciones para presentar proyectos de reurbanización en cinco ámbitos urbanos",
+        "slug": "calp-concurso-proyectos-reurbanizacion-espacios-urbanos",
+        "summary": "El Ayuntamiento de Calp ha convocado un concurso de proyectos para definir la futura reurbanización de la avenida Europa, la calle Portalet, un tramo de la avenida Puerto de Santa María, la calle La Niña y la plaza Colón. La convocatoria establece tres lotes y una dotación total de 50.000 euros en premios.",
+        "body": "El Ayuntamiento de Calp ha abierto un concurso de proyectos para plantear la reurbanización de varios espacios urbanos del municipio. La convocatoria incluye la avenida Europa; la calle Portalet junto con un tramo de la avenida Puerto de Santa María; y la calle La Niña y la plaza Colón.\n\nEl procedimiento se organiza en tres lotes. La distribución de los premios contempla 20.000 euros para el lote de la avenida Europa, 10.000 euros para el correspondiente a la calle Portalet y el tramo de la avenida Puerto de Santa María, y otros 20.000 euros para el lote de la calle La Niña y la plaza Colón. En total, la dotación asciende a 50.000 euros.\n\nLas propuestas deberán presentarse presencialmente ante el Departamento de Contratación del Ayuntamiento. El plazo de entrega finaliza el 11 de noviembre de 2026 a las 10:00 horas.\n\nLa documentación técnica se presentará de forma anónima y las propuestas deberán entregarse en un sobre cerrado, bajo un lema que preserve esa identificación. La evaluación también se realizará de manera anónima, según las condiciones recogidas en la convocatoria municipal.\n\nLa convocatoria afecta, por tanto, a tres lotes y a cinco ámbitos mencionados en su descripción: cuatro calles o plazas y un tramo de la avenida Puerto de Santa María. La referencia a cuatro espacios urbanos no incluye por separado ese tramo, que forma parte del segundo lote.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp convoca un concurso para reurbanizar cinco ámbitos urbanos",
+        "meta_description": "El concurso de Calp se divide en tres lotes, ofrece 50.000 euros en premios y finaliza el 11 de noviembre de 2026 a las 10:00 horas.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_a1fd48f57003880e",
+        "published_at": null,
+        "source_urls": [
+          "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
+          "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp / Noticias del Ayuntamiento",
+            "url": "https://noticias.calp.es/es/noticia/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizaci%C3%B3n-de-la-avenida",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12405/calp-como-participar-concurso-ideas-reurbanizacion",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_f6d653331eab1f9f",
+        "candidate_fingerprint": "372d5480a63f7278408306acd5b2dc2b005b0faed06e03971cdd7c827a7922de",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "El titular candidato resume la actuación como referida a cuatro espacios urbanos, pero la convocatoria oficial precisa también un tramo de la avenida Puerto de Santa María y organiza el concurso en tres lotes."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_a1fd48f57003880e",
+          "quality_gate_evaluated_at": "2026-10-16T17:27:09.004Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     }
-  ]
+  ],
+  "quarantined": []
 }
