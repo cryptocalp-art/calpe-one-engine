@@ -1,8 +1,204 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-16T01:23:07.501Z",
+  "generated_at": "2026-10-16T07:12:19.050Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 3,
+  "investigations": [
+    {
+      "candidate_fingerprint": "3258b2a2093242cef6231d75ceccae6207694449a8eb219156afdb1a57f6f3c5",
+      "title": "Calp registra un 6,68% de paro, su cifra más baja en veinte años y el mejor dato de toda la provincia",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "El dato central de 787 personas desempleadas y una tasa del 6,68% en agosto de 2026 está corroborado por una fuente estadística independiente. También existe respaldo para que sea el mínimo de la serie municipal disponible desde 2006. Sin embargo, no se ha encontrado una fuente oficial o independiente que confirme de forma suficiente que Calp tiene el mejor dato de toda la provincia de Alicante.",
+      "claims": [
+        {
+          "claim": "Calp registró una tasa de paro del 6,68% en agosto de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El municipio contabilizó 787 personas desempleadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra constituye el mínimo de la serie histórica municipal disponible desde 2006.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Es la cifra más baja de las últimas dos décadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Calp tiene el mejor dato de paro de toda la provincia de Alicante.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Datosmacro, evolución del paro por municipios",
+          "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/calp",
+          "evidence": "La tabla sitúa a Calp en agosto de 2026 con una tasa de paro registrado del 6,68% y 787 personas desempleadas. La serie publicada desde 2006 no muestra un porcentaje inferior; el valor de 2026 queda por debajo del 8,48% registrado en 2006.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Comarcal CV",
+          "source_url": "https://comarcalcv.com/denia/el-paro-sube-en-la-marina-alta-en-agosto-impulsado-por-el-repunte-en-denia-pego-y-ondara/",
+          "evidence": "La información señala que Calp terminó agosto con 787 personas desempleadas, cinco menos que el mes anterior y 73 menos que en agosto de 2025.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/inici?p=4001&page=7",
+          "evidence": "El Ayuntamiento comunicó que en junio de 2026 Calp tenía 815 personas desempleadas y una tasa del 6,97%, el mínimo de la serie histórica municipal disponible hasta ese momento, elaborada con datos del SEPE.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/calp-registra-un-668-de-paro-su-cifra-mas-baja-en-veinte-anos-y-el-mejor-dato-de-toda-la-provincia/",
+          "evidence": "La noticia afirma que Calp alcanzó el 6,68% de paro y 787 personas desempleadas, y atribuye al dato el carácter de mínimo de más de veinte años y de mejor registro provincial.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado una clasificación provincial oficial o una comparación independiente de todos los municipios de Alicante que permita confirmar el superlativo «mejor dato de toda la provincia».",
+        "La fuente municipal localizada confirma el dato de junio, no el de agosto; la cifra de agosto procede de fuentes estadísticas secundarias que atribuyen los datos al SEPE."
+      ],
+      "id": "inv_f535c0cd5250d421",
+      "investigated_at": "2026-10-16T07:12:19.050Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c2d67babc7e0345cfae5bdb4e51fd0056696111a58178ac3592fd3658d6a391a",
+      "title": "El Consorci Mare liquida 2,25 millones en instalaciones para recuperar más residuos de Calp y la comarca",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La inversión de 2.250.000 euros y su destino a tres actuaciones —planta de voluminosos, equipo SORAIN de compostaje y ampliación e informatización de ecoparques— está respaldada por dos medios independientes. Las fuentes oficiales del Consorci Mare corroboran el ámbito de actuación, la red de ecoparques y la existencia de las inversiones, aunque no se ha localizado en la web del Consorcio el acuerdo de octubre con el desglose exacto de 2,25 millones.",
+      "claims": [
+        {
+          "claim": "El Consorci Mare aprobó destinar 2.250.000 euros a actuaciones ya ejecutadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El importe se destina a la planta de tratamiento de residuos voluminosos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El importe incluye el equipo SORAIN para compostaje de residuos orgánicos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El importe incluye la ampliación e informatización de la red de ecoparques fijos y móviles.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Consorci Mare presta servicio a Calp y a otros 51 municipios.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Alicante Plaza",
+          "source_url": "https://alicanteplaza.es/alicanteplaza/sostenibilidad2/el-consorcio-mare-usa-sus-ahorros-para-pagar-225-millones-en-mejoras-de-la-gestion-de-residuos",
+          "evidence": "La información cifra en 2.250.000 euros el acuerdo para pagar actuaciones en la planta de voluminosos, el equipo SORAIN de compostaje y la ampliación e informatización de ecoparques. También ofrece un desglose de 1.438.739,56 euros, 253.183,39 euros y 558.077,05 euros, respectivamente.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
+          "evidence": "La noticia informa de que el Consorci Mare aprobó 2.250.000 euros para completar el pago de tres actuaciones ya ejecutadas: la planta de tratamiento de voluminosos, el equipo SORAIN de compostaje y la ampliación e informatización de la red de ecoparques.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Consorcio MARE",
+          "source_url": "https://consorciomare.es/2026/02/11/el-consorci-mare-aprueba-en-junta-de-gobierno-los-mas-de-2-millones-de-euros-concedidos-en-subvenciones-por-la-generalitat-valenciana/",
+          "evidence": "El Consorcio identifica su ámbito como 52 municipios de la Marina Alta, la Marina Baixa y El Campello, y confirma inversiones y subvenciones relacionadas con la red de ecoparques, la planta de voluminosos y la recogida separada de materia orgánica.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Consorcio MARE",
+          "source_url": "https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana/",
+          "evidence": "El Consorcio confirma la construcción de una planta de tratamiento de voluminosos para los 52 municipios y describe su capacidad prevista de valorización de 30.000 toneladas anuales.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "Alicante Plaza y Calp Digital podrían haber utilizado una misma comunicación del Consorci Mare; por ello, la corroboración mediática no debe interpretarse como dos investigaciones totalmente independientes.",
+        "No se ha localizado el acta o acuerdo oficial de la Junta de Gobierno o de la Diputación con el desglose exacto de los 2.250.000 euros."
+      ],
+      "id": "inv_82c64d423c07474e",
+      "investigated_at": "2026-10-16T07:12:19.050Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "632fc9927c70bfc6b494eee1e1c7f74260fbde14d7bfad5c9f938f1d112cd89c",
+      "title": "Programa completo de los Moros y Cristianos de Calp 2026",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La programación básica está corroborada por fuentes oficiales municipales y de la Asociación de Moros y Cristianos. El acto de presentación del libro figura para el 16 de octubre y las fiestas están programadas del 21 al 26 de octubre de 2026. Las fuentes oficiales también identifican como actos centrales las Entradas, el Desembarco, El Miracle y los actos religiosos. La etiqueta «programa completo» debe entenderse con cautela si la noticia incluye horarios o detalles no reproducidos en las fuentes consultadas.",
+      "claims": [
+        {
+          "claim": "La presentación del Libro de Fiestas está prevista para el 16 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las fiestas se celebran del 21 al 26 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye entradas de bandas y desfiles.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye actos religiosos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye el Desembarco, batallas y El Miracle.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp, agenda Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/7/?tribe-bar-date=2026-04-01",
+          "evidence": "La agenda municipal anuncia para el viernes 16 de octubre la presentación del Libro de Fiestas de Moros y Cristianos 2026, seguida de un concierto de música festera. La misma página anuncia que las fiestas se celebrarán del 21 al 26 de octubre y que incluirán actos festeros, religiosos y musicales.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Tourist Info Calpe / Ayuntamiento de Calp",
+          "source_url": "https://calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
+          "evidence": "La agenda oficial fija la programación de Moros y Cristianos entre el miércoles 21 y el lunes 26 de octubre de 2026 y atribuye la organización al Ayuntamiento, la Asociación de Moros y Cristianos y UNDEF.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Asociación de Moros y Cristianos de Calp",
+          "source_url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
+          "evidence": "El portal oficial de la asociación confirma las fechas del 21 al 26 de octubre de 2026 y menciona las Entradas de Moros y Cristianos, el Desembarco, El Miracle y el resto de actos tradicionales.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Asociación de Moros y Cristianos de Calp",
+          "source_url": "https://morosycristianos.calpe.es/",
+          "evidence": "El portal oficial identifica el desfile inaugural, el gran desfile, el Desembarco y El Miracle como elementos de la programación de las fiestas de Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/10/13/calp-celebrara-les-festes-de-moros-i-cristians-del-21-al-26-doctubre-tota-la-programacio/",
+          "evidence": "La cobertura periodística independiente sitúa las fiestas del 21 al 26 de octubre de 2026 y enumera entre los actos el pregón, la entrada, el desembarco, las batallas y los parlamentos.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fuente municipal consultada confirma el acto del 16 de octubre, pero muestra una hora de inicio de las 20:00 en el texto y una franja de agenda de 20:30 a 22:00; conviene verificar la hora definitiva antes de publicar.",
+        "Los horarios concretos de cada acto no se han reproducido íntegramente en las fuentes oficiales consultadas; deben contrastarse con el programa oficial descargable si la noticia pretende ser una guía completa."
+      ],
+      "id": "inv_75405340cd60b843",
+      "investigated_at": "2026-10-16T07:12:19.050Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }

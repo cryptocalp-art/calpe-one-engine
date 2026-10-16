@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-15T22:22:10.971Z",
-  "count": 90,
+  "updated_at": "2026-10-16T07:13:18.586Z",
+  "count": 91,
   "articles": [
+    {
+      "archive_id": "arc_f1b5e21761013a26",
+      "external_id": "drf_486bc7cc9525df0c",
+      "investigation_id": "inv_82c64d423c07474e",
+      "candidate_fingerprints": [
+        "c2d67babc7e0345cfae5bdb4e51fd0056696111a58178ac3592fd3658d6a391a"
+      ],
+      "title": "El Consorci Mare destina 2,25 millones a mejorar la gestión de residuos en Calp y la comarca",
+      "slug": "consorci-mare-inversion-residuos-calp-comarca",
+      "summary": "El Consorci Mare ha aprobado destinar 2.250.000 euros al pago de tres actuaciones ya ejecutadas para mejorar la gestión de residuos en el ámbito de Calp y otros municipios de la comarca. La inversión se dirige a una planta de tratamiento de residuos voluminosos, un equipo SORAIN de compostaje y la ampliación e informatización de la red de ecoparques fijos y móviles.",
+      "body": "El Consorci Mare ha aprobado una partida de 2.250.000 euros para completar el pago de tres actuaciones relacionadas con la gestión de residuos. Las inversiones afectan a la planta de tratamiento de residuos voluminosos, al equipo SORAIN para el compostaje de residuos orgánicos y a la ampliación e informatización de la red de ecoparques fijos y móviles.\n\nEl consorcio presta servicio a Calp y a otros 51 municipios, con un ámbito que incluye localidades de la Marina Alta, la Marina Baixa y El Campello. Según la información disponible, las actuaciones a las que se destina el importe ya han sido ejecutadas.\n\nLa planta de voluminosos forma parte de las infraestructuras previstas para el conjunto de los 52 municipios del Consorci Mare. La entidad también ha confirmado inversiones vinculadas a la red de ecoparques y a la recogida separada de materia orgánica.\n\nLas informaciones consultadas ofrecen además un desglose de la cantidad total entre las tres actuaciones: 1.438.739,56 euros para la planta de voluminosos, 253.183,39 euros para el equipo SORAIN y 558.077,05 euros para la ampliación e informatización de los ecoparques. No obstante, no se ha localizado el acta o acuerdo oficial que permita verificar directamente ese reparto exacto.\n\nEl Consorci Mare ha informado asimismo de que la planta de tratamiento de voluminosos tiene una capacidad prevista de valorización de 30.000 toneladas anuales. Esta cifra corresponde a la capacidad prevista de la instalación y no al volumen de residuos tratado en el marco de esta inversión.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "El Consorci Mare invierte 2,25 millones en residuos",
+      "meta_description": "El Consorci Mare destina 2,25 millones a una planta de voluminosos, compostaje y mejoras en los ecoparques de Calp y otros 51 municipios.",
+      "sources": [
+        {
+          "name": "Alicante Plaza",
+          "url": "https://alicanteplaza.es/alicanteplaza/sostenibilidad2/el-consorcio-mare-usa-sus-ahorros-para-pagar-225-millones-en-mejoras-de-la-gestion-de-residuos",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Consorcio MARE",
+          "url": "https://consorciomare.es/2026/02/11/el-consorci-mare-aprueba-en-junta-de-gobierno-los-mas-de-2-millones-de-euros-concedidos-en-subvenciones-por-la-generalitat-valenciana/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Consorcio MARE",
+          "url": "https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana/",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://alicanteplaza.es/alicanteplaza/sostenibilidad2/el-consorcio-mare-usa-sus-ahorros-para-pagar-225-millones-en-mejoras-de-la-gestion-de-residuos",
+        "https://calpdigital.es/art/12400/consorci-mare-225-millones-residuos-calp-ecoparques",
+        "https://consorciomare.es/2026/02/11/el-consorci-mare-aprueba-en-junta-de-gobierno-los-mas-de-2-millones-de-euros-concedidos-en-subvenciones-por-la-generalitat-valenciana",
+        "https://consorciomare.es/2026/04/09/subvencion-generalitat-valenciana"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "Alicante Plaza y Calp Digital podrían haber utilizado una misma comunicación del Consorci Mare; por ello, la corroboración mediática no debe interpretarse como dos investigaciones totalmente independientes.",
+          "No se ha localizado el acta o acuerdo oficial de la Junta de Gobierno o de la Diputación con el desglose exacto de los 2.250.000 euros."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_763f0be609b90a18",
+        "quality_gate_evaluated_at": "2026-10-16T07:13:18.316Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La cifra total está respaldada por varias fuentes, pero no se ha localizado el acuerdo oficial con el desglose exacto de los 2.250.000 euros.",
+        "Las dos informaciones periodísticas podrían proceder de una misma comunicación del Consorci Mare; no deben presentarse como investigaciones completamente independientes."
+      ],
+      "published_at": "2026-10-16T07:13:05.977Z",
+      "updated_at": "2026-10-16T07:13:18.586Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_c6ede3a43c7d664c",
       "external_id": "drf_debe9769410e39c0",
@@ -2988,7 +3054,8 @@
         "0c94d0b8861f0ecd669e156993c0f532d3290950657d864f735bb744a56015a1",
         "dad33010dbf4cdb48bf91a7a8458a517e121138f82b562211d3880a3dc7425d9",
         "f6412cbbe5f470ae77fce51527c6ec6bfc634c5e45c62bf1ebf8f0bfc661abbe",
-        "ec4de79bf0bb92b6c1642c4e7154e0b6461a7448756db706fe6d39d68348cc4d"
+        "ec4de79bf0bb92b6c1642c4e7154e0b6461a7448756db706fe6d39d68348cc4d",
+        "632fc9927c70bfc6b494eee1e1c7f74260fbde14d7bfad5c9f938f1d112cd89c"
       ],
       "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
       "slug": "moros-cristianos-calp-reconocimiento-internacional",
@@ -3029,7 +3096,10 @@
         "https://calpdigital.es/art/12393/moros-cristianos-calp-2026-interes-turistico-nacional",
         "https://morosycristianos.calpe.es/actualidad",
         "https://cadenaser.com/comunitat-valenciana/2026/09/10/los-moros-y-cristianos-de-calp-conquistan-el-reconocimiento-de-fiesta-de-interes-turistico-nacional-radio-denia",
-        "https://lamarina.eldiario.es/ca/2026/10/13/calp-celebrara-les-festes-de-moros-i-cristians-del-21-al-26-doctubre-tota-la-programacio"
+        "https://lamarina.eldiario.es/ca/2026/10/13/calp-celebrara-les-festes-de-moros-i-cristians-del-21-al-26-doctubre-tota-la-programacio",
+        "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/7/?tribe-bar-date=2026-04-01",
+        "https://calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
+        "https://morosycristianos.calpe.es"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -3053,7 +3123,7 @@
         "No incluir referencias a visitantes franceses ni a un supuesto pico turístico de octubre, al no estar verificadas."
       ],
       "published_at": "2026-10-01T13:20:30.915Z",
-      "updated_at": "2026-10-14T20:45:33.890Z",
+      "updated_at": "2026-10-16T07:13:18.586Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
