@@ -1,84 +1,87 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-16T21:12:04.372Z",
+  "generated_at": "2026-10-16T23:37:48.437Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "f4116809d4412ec868f774764d537e662e257d62b6a4d0de1c2f6e363e212fa2",
-      "title": "El restaurante con estrella Michelin Orobianco cierra en Calp y traslada su proyecto a Barcelona",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información está suficientemente corroborada por la web oficial de Orobianco y por fuentes periodísticas independientes. El grupo comunica el final de la etapa de Orobianco como restaurante de alta cocina en Calp, concentra su actividad gastronómica en Barcelona mediante Osteria Condal y mantiene O·B Rooftop como proyecto separado en Calp para la próxima temporada.",
+      "candidate_fingerprint": "b5e64282be38fbc3b134035278098f4e6c8a704a5bd5756e7d56339c56d20841",
+      "title": "Los ediles socialistas de Calp llevan a la Fiscalía una campaña de publicaciones ultraderechistas contra personas migrantes acogidas en el municipio",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está publicada por La Marina Plaza el 16 de octubre de 2026 y describe una supuesta puesta en conocimiento de la Fiscalía Provincial de Alicante por parte del grupo municipal socialista de Calp. La existencia de una denuncia o comunicación formal del PSOE no ha podido corroborarse mediante un documento de Fiscalía, un registro oficial, un comunicado del grupo socialista o una fuente independiente que informe específicamente del mismo hecho. Sí existe corroboración independiente de un contexto previo: la cuenta Fiscaliza Calpe fue objeto de acciones legales por parte de la alcaldesa Ana Sala y de denuncias públicas por publicaciones consideradas injuriosas o difamatorias. No es suficiente para verificar el hecho central de la nueva actuación del PSOE.",
       "claims": [
         {
-          "claim": "Orobianco pone fin a su etapa como restaurante de alta cocina en Calp tras más de una década.",
+          "claim": "La Marina Plaza publicó el 16 de octubre de 2026 una información sobre una actuación del grupo municipal socialista de Calp ante la Fiscalía.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El grupo Orobianco concentra su nueva fase gastronómica y empresarial en Barcelona, con el proyecto Osteria Condal en el Paral·lel.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Orobianco contaba con una estrella Michelin y un Sol Repsol durante su etapa en Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "O·B Rooftop mantiene continuidad en Calp bajo la misma propiedad durante la próxima temporada.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El cierre del restaurante de alta cocina implica el traslado íntegro de toda la actividad del grupo a Barcelona.",
+          "claim": "Los concejales socialistas de Calp pusieron en conocimiento de la Fiscalía Provincial de Alicante, en su sección especializada en delitos de odio y discriminación, determinadas publicaciones difundidas en redes sociales.",
           "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La documentación aportada incluiría mensajes que atribuyen conductas delictivas de forma generalizada a personas migrantes acogidas, cuestionan su vulnerabilidad y presentan la atención humanitaria como un privilegio.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La cuenta anónima Fiscaliza Calpe habría difundido publicaciones sobre cargos públicos y personas migrantes, y el grupo socialista considera que podrían tener relevancia penal.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La noticia afirma que el acoso vinculado a Fiscaliza Calpe habría trascendido a un incidente en la vía pública relacionado con Ximo Perles.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La cuenta Fiscaliza Calpe fue objeto de acciones legales previas por parte de la alcaldesa de Calp, Ana Sala, por publicaciones que consideró falsas, difamatorias o lesivas para su honor.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La presentación de la actuación ante Fiscalía no acredita por sí misma la existencia de un delito ni la responsabilidad de ninguna persona.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Orobianco, web oficial",
-          "source_url": "https://orobianco.es/",
-          "evidence": "La página oficial afirma que, tras más de una década de trayectoria, Orobianco concluye su etapa como restaurante de alta cocina en Calpe. También diferencia el restaurante Orobianco de O·B Rooftop como líneas separadas del grupo. ([orobianco.es](https://orobianco.es/?utm_source=openai))",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio",
+          "evidence": "Publica el 16 de octubre de 2026 que los concejales del grupo municipal socialista de Calp habrían puesto en conocimiento de la Fiscalía Provincial de Alicante una serie de publicaciones difundidas en redes sociales. Describe el contenido atribuido a esas publicaciones, la solicitud de investigación y la referencia a un incidente en la vía pública relacionado con Ximo Perles. Es la única fuente localizada que informa directamente de la supuesta actuación del PSOE ante Fiscalía.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2?page=4",
+          "evidence": "El agregador oficial municipal recoge una información sobre la querella presentada por la alcaldesa Ana Sala contra el perfil Fiscaliza Calpe por acusaciones difundidas en redes sociales. Corrobora la existencia de un conflicto previo y de acciones legales contra esa cuenta, pero no acredita la posterior actuación del grupo socialista ante Fiscalía por publicaciones sobre personas migrantes.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Orobianco, página oficial de reservas",
-          "source_url": "https://orobianco.es/reservas",
-          "evidence": "La web oficial identifica a Orobianco como restaurante gastronómico con 1 estrella Michelin y 1 Sol Repsol, lo muestra cerrado por temporada y mantiene una ficha diferenciada para O·B Rooftop. ([orobianco.es](https://orobianco.es/reservas))",
-          "source_type": "PRIMARY"
+          "source_name": "El Periòdic",
+          "source_url": "https://www.elperiodic.com/calpe/sala-presenta-querella-publicaciones-difundidas-fiscaliza-calpe-falsas-gravemente-lesivas-para-nuestro-honor_1088649",
+          "evidence": "Informa el 14 de agosto de 2026 de la querella de Ana Sala contra Fiscaliza Calpe. Según la noticia, la querella solicita identificar a la persona responsable de la cuenta, conservar los contenidos y cancelar cautelarmente el perfil. Corrobora el contexto de litigios y denuncias previas asociados a la cuenta, no la denuncia socialista descrita en el candidato.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/08/14/la-alcaldesa-de-calpe-se-querella-contra-fiscaliza-calpe-por-presuntas-calumnias-e-injurias-en-facebook/",
+          "evidence": "Informa de la querella de Ana Sala contra Fiscaliza Calpe por presuntas calumnias e injurias y de la posición de Somos Calpe sobre los límites de la crítica política. Corrobora de forma independiente el conflicto previo alrededor de la cuenta, pero no confirma que el PSOE haya acudido a Fiscalía por publicaciones contra personas migrantes.",
+          "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/",
-          "evidence": "La información publicada el 15 de octubre de 2026 señala que Orobianco finaliza su etapa en Calp después de más de una década, que el grupo fija Barcelona como principal foco de negocio mediante Osteria Condal y que O·B Rooftop continuará la próxima temporada. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/15/el-restaurante-con-estrella-michelin-que-cierra-en-calp-para-marcharse-a-barcelona/?utm_source=openai))",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/08/19/el-compte-critic-i-anonim-fiscaliza-calpe-desapareix-de-les-xarxes-despres-de-la-querella-de-lalcaldessa/",
+          "evidence": "Informa de la desaparición de Fiscaliza Calpe de Facebook e Instagram después de la querella de la alcaldesa y describe la relevancia que la cuenta había adquirido en el debate político local. Aporta contexto sobre la existencia y actividad pública del perfil, pero no verifica la nueva denuncia del PSOE.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Pagos de Familia",
-          "source_url": "https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html",
-          "evidence": "El artículo del 16 de octubre de 2026 informa del cese de actividad de Orobianco en Calp tras una década, del traslado del foco del grupo a Barcelona con Osteria Condal y de la continuidad de O·B Rooftop en Calp durante la próxima temporada. La pieza reproduce declaraciones atribuidas a Inna Skriabina y Paolo Casagrande. ([pagosdefamilia.es](https://pagosdefamilia.es/actualidad/orobianco-cierra-su-estrella-michelin-en-calpe-para-concentrarse-en-barcelona_28608_102.html))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Time Out Barcelona",
-          "source_url": "https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226",
-          "evidence": "La publicación confirma que Osteria Condal es el nuevo proyecto barcelonés de Paolo Casagrande y que ocupa el espacio del antiguo Teatro Kitchen Bar en el Paral·lel. ([timeout.es](https://www.timeout.es/barcelona/es/noticias/un-chef-con-tres-michelin-abre-restaurante-en-barcelona-y-te-hace-el-15-de-descuento-si-eres-menor-de-30-100226?utm_source=openai))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Osteria Condal, aviso legal oficial",
-          "source_url": "https://osteriacondal.es/en/aviso-legal/",
-          "evidence": "La web oficial de Osteria Condal identifica a Grupo Orobianco, S.L. como titular del proyecto y sitúa la nueva actividad en Barcelona, corroborando la vinculación empresarial entre ambos establecimientos. ([osteriacondal.es](https://osteriacondal.es/en/aviso-legal/?utm_source=openai))",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La formulación «traslada su proyecto a Barcelona» debe entenderse como un traslado del foco gastronómico y empresarial, no como el traslado físico del restaurante de Calp ni necesariamente de toda la actividad del grupo.",
-        "Una nota de prensa oficial de octubre de 2025 indicaba que Orobianco reabriría en Calp en 2026; esa previsión fue posteriormente modificada por la comunicación oficial de octubre de 2026 que anuncia el final de la etapa de alta cocina en Calp. ([grupoorobianco.es](https://grupoorobianco.es/documents/Paolo_Casagrande_al_frente_de_Orobianco_Barcelona_2.pdf))",
-        "La web oficial consultada muestra tanto Orobianco como O·B Rooftop cerrados por temporada; la continuidad futura de O·B Rooftop procede de la comunicación del grupo reproducida por La Marina Plaza y Pagos de Familia, no de un calendario de reservas actualmente abierto."
+        "No se ha localizado un escrito de denuncia, justificante de presentación, número de diligencias, comunicado oficial de la Fiscalía Provincial de Alicante ni declaración directa verificable del grupo municipal socialista que confirme la actuación central.",
+        "Las informaciones sobre la querella previa de Ana Sala y la desaparición de Fiscaliza Calpe no constituyen corroboración independiente de la supuesta denuncia socialista del 16 de octubre de 2026.",
+        "La calificación de las publicaciones como ultraderechistas, falsas, injuriosas o constitutivas de delito procede de las partes o de la caracterización periodística; no consta en las fuentes localizadas una resolución judicial o fiscal que establezca esos extremos.",
+        "La existencia de una puesta en conocimiento ante Fiscalía no implica que se hayan abierto diligencias ni que Fiscalía haya apreciado indicios de delito."
       ],
-      "id": "inv_af8262f91f1e3110",
-      "investigated_at": "2026-10-16T21:12:04.372Z",
+      "id": "inv_ef6f9907b8495aaf",
+      "investigated_at": "2026-10-16T23:37:48.437Z",
       "model": "gpt-5.6-luna"
     }
   ]

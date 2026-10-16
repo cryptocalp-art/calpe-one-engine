@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-16T21:12:41.781Z",
+  "generated_at": "2026-10-16T23:38:13.618Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,50 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_11aaa1dd5c344173",
-      "draft_id": "drf_d6ecb40ee38459a4",
-      "investigation_id": "inv_af8262f91f1e3110",
-      "candidate_fingerprint": "f4116809d4412ec868f774764d537e662e257d62b6a4d0de1c2f6e363e212fa2",
-      "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
-      "category": "ECONOMIA",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 4,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 6,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 6,
-        "distinct_evidence_hosts": 5,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 235
-      },
-      "evaluated_at": "2026-10-16T21:12:41.781Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
