@@ -1,77 +1,8 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-15T22:21:44.075Z",
+  "generated_at": "2026-10-16T01:23:07.501Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
-  "investigations": [
-    {
-      "candidate_fingerprint": "0cb23c8f3bb733480a35859d128a2a310536d06571f6ccc363002bb0b6639312",
-      "title": "Calp acogerá la presentación del nuevo Plan de Movilidad No Motorizada de la Marina Alta",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La actividad está confirmada para el lunes 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà de Calp. La convocatoria está respaldada por el Ayuntamiento de Calp y la MACMA, y existe corroboración en medios locales independientes. La presentación corresponde al primer borrador del plan comarcal, no a un plan definitivamente aprobado.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp, la Xarxa Esportiva y la MACMA organizan o impulsan la presentación.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La presentación tendrá lugar en Calp el 19 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El acto comenzará a las 18:30 horas y se celebrará en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La sesión incluirá una presentación o charla y un debate abierto con la ciudadanía y el equipo responsable.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El acto presenta el Plan de Movilidad No Motorizada de la Marina Alta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plan presentado es un documento definitivamente aprobado.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "evidence": "La convocatoria oficial anuncia una charla de presentación del Plan de Movilidad No Motorizada de la Marina Alta organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA. Fija la fecha del 19 de octubre de 2026, las 18:30 horas, el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà y una sesión con charla y debate.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "MACMA",
-          "source_url": "https://www.macma.org/joventut/actualitat/la-macma-presenta-el-primer-esborrany-del-pla-de-mobilitat-no-motoritzada-valorat-en-123-milions-deuros-i-77-trams-per-a-vertebrar-la-comarca",
-          "evidence": "La Mancomunitat Comarcal de la Marina Alta confirma que ha completado el primer borrador del plan y que ha programado un ciclo de charlas informativas y de debate durante octubre. Identifica a Paco Tortosa y Nico Vives como integrantes del equipo director y describe el objetivo de presentar la propuesta de red, resolver dudas y recoger aportaciones.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "evidence": "El medio informa de que la MACMA ha organizado un ciclo de presentaciones durante octubre y sitúa la sesión de Calp el lunes 19 de octubre a las 18:30 horas en el Saló Blau. También describe el acto como una presentación y debate ciudadano sobre el borrador del plan.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/09/25/el-pla-per-a-moures-per-la-marina-alta-sense-vehicle-privat-inversions-de-123-milions-en-mes-de-390-quilometres/",
-          "evidence": "La información publicada confirma que la MACMA ha completado el primer borrador del plan y que ha organizado un ciclo de charlas informativas y de debate para presentar los itinerarios comarcales y recoger comentarios de vecinos, asociaciones y representantes municipales.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La evidencia oficial describe el documento como primer borrador, por lo que conviene evitar presentar el plan como definitivamente aprobado.",
-        "La referencia a movilidad accesible, segura y respetuosa con el medio ambiente aparece en la convocatoria oficial como objetivo de la iniciativa; no implica que esas actuaciones estén ya ejecutadas.",
-        "La corroboración periodística coincide sustancialmente con la información institucional; el respaldo principal procede de las fuentes oficiales del Ayuntamiento de Calp y la MACMA."
-      ],
-      "id": "inv_3d05b3b51fe1aa8c",
-      "investigated_at": "2026-10-15T22:21:44.075Z",
-      "model": "gpt-5.6-luna"
-    }
-  ]
+  "count": 0,
+  "investigations": []
 }
