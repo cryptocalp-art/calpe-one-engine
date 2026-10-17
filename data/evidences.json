@@ -1,53 +1,61 @@
 {
-  "generated_at": "2026-10-17T13:45:10.234Z",
-  "count": 6,
+  "generated_at": "2026-10-17T17:12:49.593Z",
+  "count": 7,
   "evidences": [
     {
-      "id": "evd_a2834a5f31178c09",
-      "investigation_id": "inv_89931528a78639eb",
-      "source_name": "AEMET",
-      "source_url": "https://www.aemet.es/en/rss_info/avisos/val",
-      "evidence": "La página oficial de AEMET identifica el litoral norte de Alicante como una zona específica de avisos meteorológicos y ofrece el acceso oficial a la información actualizada de dichos avisos. Es la fuente primaria del sistema de alertas, aunque la página consultada funciona como portal de acceso y no conserva en el texto visible el parte concreto del 17 de octubre.",
+      "id": "evd_0e1121eb07fdfd7a",
+      "investigation_id": "inv_70df1f847065109a",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio",
+      "evidence": "Informa de que los concejales socialistas de Calp afirman haber puesto en conocimiento de la Fiscalía Provincial de Alicante, en su sección especializada en delitos de odio y discriminación, varias publicaciones de la cuenta «Fiscaliza Calpe». Describe contenidos que, según los denunciantes, generalizaban acusaciones delictivas contra personas acogidas, cuestionaban su vulnerabilidad y las señalaban por sus rasgos étnicos. También relata un episodio en la calle relacionado con el concejal Ximo Perles. La fuente no aporta un documento público de Fiscalía ni una confirmación institucional independiente de la presentación.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_debcf4f3c64d2cb1",
+      "investigation_id": "inv_70df1f847065109a",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/08/19/la-cuenta-critica-y-anonima-fiscaliza-calpe-desaparece-de-las-redes-tras-la-querella-de-la-alcaldesa",
+      "evidence": "Aporta contexto previo sobre la existencia de la cuenta anónima «Fiscaliza Calpe» y sobre una querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra ese perfil por publicaciones que consideró difamatorias. No confirma la nueva presentación del Grupo Municipal Socialista ante la Fiscalía por publicaciones contra personas migrantes.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_69443cbd76dc8a62",
+      "investigation_id": "inv_70df1f847065109a",
+      "source_name": "Cadena SER Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/08/14/la-alcaldesa-de-calpe-se-querella-contra-fiscaliza-calpe-por-presuntas-calumnias-e-injurias-en-facebook-radio-denia/",
+      "evidence": "Confirma de forma independiente que Ana Sala presentó en agosto una querella contra el perfil «Fiscaliza Calpe» por presuntas calumnias e injurias. La información se refiere a la actuación de la alcaldesa y no verifica la posterior denuncia socialista ante Fiscalía ni el contenido relativo a las personas migrantes.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_dc18106694a15a35",
+      "investigation_id": "inv_2925d89dffef5dff",
+      "source_name": "Observatori Marina Alta — Creama y Pacte’MA",
+      "source_url": "https://observatorimarinaalta.org/informes-sectoriales-socioeconomicos-trabajo-laboral-marinaalta/",
+      "evidence": "El Observatori Marina Alta identifica esta página como el espacio de sus informes socioeconómicos y laborales, y señala que analiza los datos de empleo de septiembre de 2026 en la comarca. La página fue localizada, aunque el acceso directo sufrió un error de tiempo de espera durante la comprobación. La publicación independiente consultada atribuye expresamente los datos al Observatori Marina Alta de Creama y Pacte’MA.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_92778f82931a5028",
-      "investigation_id": "inv_89931528a78639eb",
-      "source_name": "Agencia EFE",
-      "source_url": "https://efe.com/comunidad-valenciana/2026-10-17/aemet-eleva-a-rojo-el-aviso-este-domingo-en-el-litoral-sur-de-valencia-y-norte-de-alicante/",
-      "evidence": "EFE informó el 17 de octubre de que AEMET elevó a rojo el aviso en el litoral norte de Alicante para el domingo, con 200 l/m² en 12 horas y 300 l/m² en 24 horas en algunos puntos. También indicó que el aviso rojo continuaba el lunes 19 entre las 00:00 y las 10:00 y que había previsión de viento del nordeste de 50-60 km/h, fuerza 7, y fenómenos costeros.",
+      "id": "evd_5ba0657e19a47218",
+      "investigation_id": "inv_2925d89dffef5dff",
+      "source_name": "Xàbia al Día",
+      "source_url": "https://xabiaaldia.com/art/160066/marina-alta-record-empleo-septiembre-2026-paro-juvenil/",
+      "evidence": "Publica que la Marina Alta cerró septiembre con 68.745 afiliaciones y 7.515 personas desempleadas. Detalla que el paro juvenil aumentó en 124 personas, un 45,59%, hasta 396, y que el sector servicios concentró prácticamente todo el incremento neto. También relaciona el ajuste con el final de la temporada estival y describe las afiliaciones de septiembre como récord para ese mes.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_2babb54a1e948d2c",
-      "investigation_id": "inv_89931528a78639eb",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/la-aemet-eleva-a-rojo-el-aviso-por-lluvias-en-la-marina-alta",
-      "evidence": "La información local sitúa a la Marina Alta dentro del litoral norte de Alicante, fija el inicio del aviso rojo el domingo 18 a las 10:00, recoge el umbral de 200 l/m² en 12 horas y la posibilidad de 300 l/m² en 24 horas, y señala rachas de viento de hasta 70 km/h.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_a1acb8b6cf854c16",
-      "investigation_id": "inv_ae9d76e4cce0657f",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos/",
-      "evidence": "El medio afirma que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante publicaciones contra personas migrantes acogidas y que solicitó investigar los mensajes, su difusión y el señalamiento público. También recoge la versión del grupo sobre supuestos episodios de acoso y el abordaje grabado al concejal Ximo Perles.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_d6bf7a3a1242688b",
-      "investigation_id": "inv_ae9d76e4cce0657f",
+      "id": "evd_7fe2be2ee4f5810b",
+      "investigation_id": "inv_2925d89dffef5dff",
       "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
-      "evidence": "El medio publicó que los concejales socialistas de Calp pusieron en conocimiento de la Fiscalía una serie de publicaciones difundidas en redes y que pidieron examinar su contenido, alcance y posibles responsabilidades. La pieza atribuye los detalles al grupo denunciante y no aporta confirmación pública de la Fiscalía sobre la recepción o apertura de diligencias.",
+      "source_url": "https://lamarina.eldiario.es/ca/2026/10/17/lestacionalitat-castiga-els-jovens-de-la-marina-alta-latur-es-dispara-un-46-despres-de-lestiu-en-menors-de-25-anys",
+      "evidence": "Es la publicación candidata y sitúa el aumento del paro juvenil en 124 personas, hasta 396, con una subida aproximada del 46%, dentro del balance laboral de septiembre de la Marina Alta. La noticia coincide en las cifras esenciales con la información independiente de Xàbia al Día y con la referencia institucional del Observatori Marina Alta.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_a41cc00f3cdbf71e",
-      "investigation_id": "inv_ae9d76e4cce0657f",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-20-de-agosto-2",
-      "evidence": "El Ayuntamiento de Calp documenta oficialmente un antecedente distinto: la querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra la cuenta Fiscaliza Calpe. Esta fuente corrobora el contexto previo de conflicto y acciones legales, pero no confirma la nueva comunicación del grupo socialista de octubre.",
+      "id": "evd_7af7e9081c6b5e24",
+      "investigation_id": "inv_2925d89dffef5dff",
+      "source_name": "Servicio Público de Empleo Estatal",
+      "source_url": "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-estadisticos/municipios.html",
+      "evidence": "El SEPE mantiene la serie oficial de datos estadísticos de paro registrado y contratos por municipios para 2026, incluida la estructura de consulta mensual. La página localizada no mostraba todavía en el momento de la comprobación el archivo de septiembre de 2026, por lo que no se utiliza para confirmar directamente las cifras comarcales de la noticia.",
       "source_type": "PRIMARY"
     }
   ]

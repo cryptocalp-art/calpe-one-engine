@@ -1,132 +1,139 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-17T13:45:10.234Z",
+  "generated_at": "2026-10-17T17:12:49.593Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "5394d7b387ecfcac54053a5387f15cb8e9c734a9111b235711dd91d8ea1336c3",
-      "title": "AEMET eleva a rojo el aviso por lluvias en la Marina Alta para el domingo 18 y el lunes 19 de octubre",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "Los hechos esenciales están corroborados por la Agencia Estatal de Meteorología mediante su sistema oficial de avisos y por una información independiente de la Agencia EFE. El litoral norte de Alicante, donde se encuadra la Marina Alta, tuvo aviso rojo por lluvias para el domingo 18 de octubre, prolongado hasta las 10:00 del lunes 19, con acumulaciones previstas de 200 l/m² en 12 horas y hasta 300 l/m² en 24 horas en algunos puntos. También se confirmaron avisos por viento y rachas fuertes en la zona.",
-      "claims": [
-        {
-          "claim": "AEMET activó el aviso rojo por lluvias en el litoral norte de Alicante para el domingo 18 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El aviso rojo se mantuvo durante las primeras horas del lunes 19 de octubre.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se previeron acumulaciones de 200 l/m² en 12 horas y hasta 300 l/m² en 24 horas en algunos puntos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La zona afectada incluye la demarcación meteorológica en la que se encuentra la Marina Alta y, por extensión territorial, Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se previeron rachas de viento de hasta 70 km/h.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "AEMET",
-          "source_url": "https://www.aemet.es/en/rss_info/avisos/val",
-          "evidence": "La página oficial de AEMET identifica el litoral norte de Alicante como una zona específica de avisos meteorológicos y ofrece el acceso oficial a la información actualizada de dichos avisos. Es la fuente primaria del sistema de alertas, aunque la página consultada funciona como portal de acceso y no conserva en el texto visible el parte concreto del 17 de octubre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Agencia EFE",
-          "source_url": "https://efe.com/comunidad-valenciana/2026-10-17/aemet-eleva-a-rojo-el-aviso-este-domingo-en-el-litoral-sur-de-valencia-y-norte-de-alicante/",
-          "evidence": "EFE informó el 17 de octubre de que AEMET elevó a rojo el aviso en el litoral norte de Alicante para el domingo, con 200 l/m² en 12 horas y 300 l/m² en 24 horas en algunos puntos. También indicó que el aviso rojo continuaba el lunes 19 entre las 00:00 y las 10:00 y que había previsión de viento del nordeste de 50-60 km/h, fuerza 7, y fenómenos costeros.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-aemet-eleva-a-rojo-el-aviso-por-lluvias-en-la-marina-alta",
-          "evidence": "La información local sitúa a la Marina Alta dentro del litoral norte de Alicante, fija el inicio del aviso rojo el domingo 18 a las 10:00, recoge el umbral de 200 l/m² en 12 horas y la posibilidad de 300 l/m² en 24 horas, y señala rachas de viento de hasta 70 km/h.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "El aviso meteorológico es una previsión y no acredita que esas cantidades de lluvia llegaran finalmente a registrarse.",
-        "La fuente oficial consultada confirma el canal y la zona de avisos de AEMET; los detalles horarios y pluviométricos se contrastaron con EFE y la información local."
-      ],
-      "id": "inv_89931528a78639eb",
-      "investigated_at": "2026-10-17T13:45:10.234Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "6faa06245e0fbfc01bab71d29d1631310860c57d7632db823fdc16657df4705c",
-      "title": "El Grupo Municipal Socialista de Calp lleva a la Fiscalía una campaña de odio contra migrantes y acoso a cargos públicos",
+      "candidate_fingerprint": "4c7f37d9932bc48f634a5b3c704f74e7260855415ab9219c8ad4164e9f3d580b",
+      "title": "Los ediles socialistas de Calp llevan a la Fiscalía una campaña de publicaciones contra personas migrantes acogidas en el municipio",
       "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
+      "confidence": "LOW",
       "publishable": false,
-      "summary": "Dos medios locales publicaron la misma información sobre una comunicación del Grupo Municipal Socialista de Calp a la Fiscalía Provincial de Alicante. Sin embargo, no se ha localizado un escrito de registro, comunicado oficial del grupo socialista, confirmación de la Fiscalía ni otra fuente primaria que acredite la presentación. Los episodios de acoso y el contenido de las publicaciones se describen principalmente a partir del relato y del dossier de los denunciantes, por lo que la noticia no alcanza el nivel de verificación exigido para su publicación como hecho plenamente confirmado.",
+      "summary": "La información está respaldada por una publicación de La Marina Plaza, que afirma que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante una serie de publicaciones de la cuenta anónima «Fiscaliza Calpe». El artículo también describe acusaciones de señalamiento por origen o rasgos étnicos y un supuesto traslado del acoso de las redes al espacio público. No se ha localizado una confirmación independiente de la presentación ante Fiscalía ni un documento oficial, registro, comunicado del PSOE de Calp o pronunciamiento de la Fiscalía que permita corroborar materialmente esos extremos.",
       "claims": [
         {
-          "claim": "El Grupo Municipal Socialista de Calp comunicó a la Fiscalía Provincial de Alicante publicaciones difundidas contra personas migrantes acogidas en el municipio.",
+          "claim": "El Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante publicaciones difundidas en redes sociales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La comunicación se dirigió a la sección especializada en delitos de odio y discriminación.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El grupo solicitó investigar el contenido, alcance e identidad de las personas responsables.",
+          "claim": "La denuncia se habría dirigido a la sección de la Fiscalía especializada en delitos de odio y discriminación.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las publicaciones denunciadas presentaban de forma generalizada a personas migrantes como vinculadas a conductas delictivas o cuestionaban su situación de protección y acogida.",
-          "status": "UNVERIFIED"
+          "claim": "Las publicaciones señalaban o estigmatizaban a personas migrantes acogidas en Calp y les atribuían de forma generalizada conductas delictivas.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "Concejales y funcionarios sufrieron episodios de acoso que pasaron del ámbito digital a encuentros en la vía pública.",
-          "status": "UNVERIFIED"
+          "claim": "El expediente presentado incluiría fotografías y referencias a un enfrentamiento en la vía pública con el concejal Ximo Perles.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "Entre los episodios se encuentra un abordaje y grabación del concejal Ximo Perles.",
-          "status": "UNVERIFIED"
+          "claim": "El supuesto acoso relacionado con la cuenta «Fiscaliza Calpe» habría pasado del ámbito digital al espacio público.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La Fiscalía ha iniciado una investigación o ha adoptado diligencias sobre los hechos.",
-          "status": "CONTRADICTED"
+          "claim": "La presentación ante Fiscalía y los hechos descritos cuentan con corroboración independiente u oficial.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos/",
-          "evidence": "El medio afirma que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante publicaciones contra personas migrantes acogidas y que solicitó investigar los mensajes, su difusión y el señalamiento público. También recoge la versión del grupo sobre supuestos episodios de acoso y el abordaje grabado al concejal Ximo Perles.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio",
+          "evidence": "Informa de que los concejales socialistas de Calp afirman haber puesto en conocimiento de la Fiscalía Provincial de Alicante, en su sección especializada en delitos de odio y discriminación, varias publicaciones de la cuenta «Fiscaliza Calpe». Describe contenidos que, según los denunciantes, generalizaban acusaciones delictivas contra personas acogidas, cuestionaban su vulnerabilidad y las señalaban por sus rasgos étnicos. También relata un episodio en la calle relacionado con el concejal Ximo Perles. La fuente no aporta un documento público de Fiscalía ni una confirmación institucional independiente de la presentación.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
-          "evidence": "El medio publicó que los concejales socialistas de Calp pusieron en conocimiento de la Fiscalía una serie de publicaciones difundidas en redes y que pidieron examinar su contenido, alcance y posibles responsabilidades. La pieza atribuye los detalles al grupo denunciante y no aporta confirmación pública de la Fiscalía sobre la recepción o apertura de diligencias.",
+          "source_url": "https://lamarina.eldiario.es/2026/08/19/la-cuenta-critica-y-anonima-fiscaliza-calpe-desaparece-de-las-redes-tras-la-querella-de-la-alcaldesa",
+          "evidence": "Aporta contexto previo sobre la existencia de la cuenta anónima «Fiscaliza Calpe» y sobre una querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra ese perfil por publicaciones que consideró difamatorias. No confirma la nueva presentación del Grupo Municipal Socialista ante la Fiscalía por publicaciones contra personas migrantes.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-20-de-agosto-2",
-          "evidence": "El Ayuntamiento de Calp documenta oficialmente un antecedente distinto: la querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra la cuenta Fiscaliza Calpe. Esta fuente corrobora el contexto previo de conflicto y acciones legales, pero no confirma la nueva comunicación del grupo socialista de octubre.",
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/08/14/la-alcaldesa-de-calpe-se-querella-contra-fiscaliza-calpe-por-presuntas-calumnias-e-injurias-en-facebook-radio-denia/",
+          "evidence": "Confirma de forma independiente que Ana Sala presentó en agosto una querella contra el perfil «Fiscaliza Calpe» por presuntas calumnias e injurias. La información se refiere a la actuación de la alcaldesa y no verifica la posterior denuncia socialista ante Fiscalía ni el contenido relativo a las personas migrantes.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La única fuente localizada que respalda directamente la noticia del 16 de octubre es La Marina Plaza; las demás referencias encontradas tratan antecedentes distintos.",
+        "No se ha localizado el escrito presentado ante Fiscalía, un número de diligencias, una nota del Grupo Municipal Socialista de Calp ni una confirmación de la Fiscalía Provincial de Alicante.",
+        "Las acusaciones sobre posibles delitos de odio o discriminación son la posición de los denunciantes y no equivalen a la existencia acreditada de un delito.",
+        "La existencia de publicaciones, su autoría, su alcance y la identidad de las personas responsables no han sido verificadas de forma independiente."
+      ],
+      "id": "inv_70df1f847065109a",
+      "investigated_at": "2026-10-17T17:12:49.593Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "cacb8df3e1d10eb5c0fd96284d075b5cbb09dbc2509cec96e11f8e0bfc767d07",
+      "title": "La estacionalidad dispara un 46% el paro juvenil en la Marina Alta tras el verano",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "Los datos esenciales están corroborados por una segunda publicación independiente y por el Observatori Marina Alta, organismo socioeconómico de Creama y Pacte’MA. En septiembre de 2026 el desempleo de menores de 25 años aumentó en 124 personas, un 45,59%, hasta 396. El aumento se concentró principalmente en los servicios y coincidió con el final de la temporada estival. La comarca registró además 68.745 afiliaciones a la Seguridad Social, cifra presentada como récord para un mes de septiembre.",
+      "claims": [
+        {
+          "claim": "El paro registrado entre los menores de 25 años en la Marina Alta aumentó en 124 personas durante septiembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El aumento del paro juvenil fue del 45,59%, aproximadamente un 46%.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El número de menores de 25 años desempleados alcanzó las 396 personas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El repunte se produjo en el contexto del final de la temporada turística y afectó especialmente al sector servicios.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Marina Alta alcanzó un máximo histórico de afiliación para un mes de septiembre, con 68.745 afiliaciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra de afiliación fue un 7,26% superior a la de septiembre de 2025.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Observatori Marina Alta — Creama y Pacte’MA",
+          "source_url": "https://observatorimarinaalta.org/informes-sectoriales-socioeconomicos-trabajo-laboral-marinaalta/",
+          "evidence": "El Observatori Marina Alta identifica esta página como el espacio de sus informes socioeconómicos y laborales, y señala que analiza los datos de empleo de septiembre de 2026 en la comarca. La página fue localizada, aunque el acceso directo sufrió un error de tiempo de espera durante la comprobación. La publicación independiente consultada atribuye expresamente los datos al Observatori Marina Alta de Creama y Pacte’MA.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Xàbia al Día",
+          "source_url": "https://xabiaaldia.com/art/160066/marina-alta-record-empleo-septiembre-2026-paro-juvenil/",
+          "evidence": "Publica que la Marina Alta cerró septiembre con 68.745 afiliaciones y 7.515 personas desempleadas. Detalla que el paro juvenil aumentó en 124 personas, un 45,59%, hasta 396, y que el sector servicios concentró prácticamente todo el incremento neto. También relaciona el ajuste con el final de la temporada estival y describe las afiliaciones de septiembre como récord para ese mes.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/10/17/lestacionalitat-castiga-els-jovens-de-la-marina-alta-latur-es-dispara-un-46-despres-de-lestiu-en-menors-de-25-anys",
+          "evidence": "Es la publicación candidata y sitúa el aumento del paro juvenil en 124 personas, hasta 396, con una subida aproximada del 46%, dentro del balance laboral de septiembre de la Marina Alta. La noticia coincide en las cifras esenciales con la información independiente de Xàbia al Día y con la referencia institucional del Observatori Marina Alta.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Servicio Público de Empleo Estatal",
+          "source_url": "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-estadisticos/municipios.html",
+          "evidence": "El SEPE mantiene la serie oficial de datos estadísticos de paro registrado y contratos por municipios para 2026, incluida la estructura de consulta mensual. La página localizada no mostraba todavía en el momento de la comprobación el archivo de septiembre de 2026, por lo que no se utiliza para confirmar directamente las cifras comarcales de la noticia.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La corroboración periodística disponible puede proceder de la misma comunicación o nota del grupo socialista; no debe tratarse como confirmación independiente del registro ante Fiscalía.",
-        "No se localizó confirmación primaria de la Fiscalía Provincial de Alicante ni un documento público que acredite la presentación de la comunicación.",
-        "La noticia describe posibles delitos o campaña de odio, pero no existe confirmación de que la Fiscalía haya concluido que se cometió delito ni de que haya abierto diligencias.",
-        "Para elevar el estado a VERIFIED sería necesario obtener el escrito registrado, una declaración oficial del Grupo Municipal Socialista o una confirmación de la Fiscalía sobre la recepción del expediente."
+        "La confirmación numérica directa procede de una fuente periodística independiente que atribuye los datos al Observatori Marina Alta; el documento institucional detallado no pudo abrirse por un error de tiempo de espera.",
+        "La expresión «récord histórico de afiliación» debe entenderse como récord para un mes de septiembre, no necesariamente como máximo absoluto de todos los meses del año.",
+        "La cifra del 46% es un redondeo de la variación calculada del 45,59%."
       ],
-      "id": "inv_ae9d76e4cce0657f",
-      "investigated_at": "2026-10-17T13:45:10.234Z",
+      "id": "inv_2925d89dffef5dff",
+      "investigated_at": "2026-10-17T17:12:49.593Z",
       "model": "gpt-5.6-luna"
     }
   ]

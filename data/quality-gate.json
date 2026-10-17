@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-17T13:45:48.062Z",
+  "generated_at": "2026-10-17T17:13:26.635Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_d13fc790b2356900",
-      "draft_id": "drf_ea451f057489d1a6",
-      "investigation_id": "inv_89931528a78639eb",
-      "candidate_fingerprint": "5394d7b387ecfcac54053a5387f15cb8e9c734a9111b235711dd91d8ea1336c3",
-      "slug": "aviso-rojo-lluvias-calp-marina-alta-domingo-18-octubre",
-      "category": "MEDIO_AMBIENTE",
+      "gate_id": "qg_2f69b0801e2c0e34",
+      "draft_id": "drf_48865cad75baac8b",
+      "investigation_id": "inv_2925d89dffef5dff",
+      "candidate_fingerprint": "cacb8df3e1d10eb5c0fd96284d075b5cbb09dbc2509cec96e11f8e0bfc767d07",
+      "slug": "paro-juvenil-aumenta-marina-alta-septiembre-2026",
+      "category": "ECONOMIA",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -41,16 +41,16 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 5,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 1,
+        "evidence_count": 4,
+        "primary_evidence_count": 2,
         "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
+        "distinct_evidence_urls": 4,
+        "distinct_evidence_hosts": 4,
         "institutional_or_political": false,
-        "material_caveat": true,
+        "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
         "headline_not_sensational": true,
@@ -59,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 213
+        "body_word_count": 292
       },
-      "evaluated_at": "2026-10-17T13:45:48.062Z",
+      "evaluated_at": "2026-10-17T17:13:26.635Z",
       "engine_version": "quality-gate-v1"
     }
   ]

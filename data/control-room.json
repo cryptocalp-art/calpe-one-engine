@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-17T13:45:58.686Z",
+  "generated_at": "2026-10-17T17:13:39.324Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-17T13:45:58.483Z",
+  "last_activity": "2026-10-17T17:13:39.147Z",
   "newspaper": {
-    "archive_total": 96,
-    "published_today": 2,
-    "published_last_7_days": 20,
+    "archive_total": 97,
+    "published_today": 3,
+    "published_last_7_days": 21,
     "categories": {
+      "ECONOMIA": 15,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
-      "ECONOMIA": 14,
       "SUCESOS": 13,
       "POLITICA": 8,
       "LOCAL": 12,
@@ -21,6 +21,13 @@
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_d643cf6e67506801",
+        "title": "El paro juvenil aumenta un 45,59% en la Marina Alta tras el verano",
+        "category": "ECONOMIA",
+        "slug": "paro-juvenil-aumenta-marina-alta-septiembre-2026",
+        "published_at": "2026-10-17T17:13:20.309Z"
+      },
       {
         "archive_id": "arc_f854c211de29b218",
         "title": "AEMET activa el aviso rojo por lluvias en el litoral norte de Alicante para el domingo",
@@ -69,18 +76,11 @@
         "category": "POLITICA",
         "slug": "condenan-juan-rosello-caso-aguas-calp",
         "published_at": "2026-10-15T19:11:32.752Z"
-      },
-      {
-        "archive_id": "arc_c45da523cb27a247",
-        "title": "Hospitalizada una mujer de 80 años tras ser rescatada del mar en la playa del Arenal de Calp",
-        "category": "SUCESOS",
-        "slug": "mujer-80-anos-rescatada-mar-playa-arenal-calp",
-        "published_at": "2026-10-15T15:04:24.473Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 6,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

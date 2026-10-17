@@ -3,9 +3,77 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-17T13:45:48.376Z",
-  "count": 96,
+  "updated_at": "2026-10-17T17:13:26.910Z",
+  "count": 97,
   "articles": [
+    {
+      "archive_id": "arc_d643cf6e67506801",
+      "external_id": "drf_48865cad75baac8b",
+      "investigation_id": "inv_2925d89dffef5dff",
+      "candidate_fingerprints": [
+        "cacb8df3e1d10eb5c0fd96284d075b5cbb09dbc2509cec96e11f8e0bfc767d07"
+      ],
+      "title": "El paro juvenil aumenta un 45,59% en la Marina Alta tras el verano",
+      "slug": "paro-juvenil-aumenta-marina-alta-septiembre-2026",
+      "summary": "El paro registrado entre los menores de 25 años aumentó en 124 personas en la Marina Alta durante septiembre de 2026, hasta alcanzar un total de 396 desempleados. El incremento, del 45,59%, se produjo coincidiendo con el final de la temporada estival y afectó especialmente al sector servicios.",
+      "body": "El desempleo juvenil registró en septiembre un repunte del 45,59% en la Marina Alta, según los datos atribuidos al Observatori Marina Alta, organismo socioeconómico de Creama y Pacte’MA. En términos absolutos, el número de personas menores de 25 años inscritas como desempleadas aumentó en 124 y se situó en 396.\n\nEl incremento se produjo en el contexto del final de la temporada turística y tuvo una incidencia especialmente destacada en el sector servicios. La evolución refleja el ajuste registrado en el mercado laboral comarcal una vez concluido el periodo estival, de acuerdo con el balance de los datos de septiembre.\n\nEl comportamiento del paro juvenil convivió con una cifra elevada de afiliación a la Seguridad Social. La Marina Alta cerró el mes con 68.745 afiliaciones, un 7,26% más que en septiembre de 2025. Esta cifra fue presentada como un máximo histórico para un mes de septiembre.\n\nLa comparación debe interpretarse dentro de ese marco mensual: el dato de 68.745 afiliaciones se refiere al máximo registrado en un mes de septiembre y no implica necesariamente que sea el mayor de todos los meses del año.\n\nLa confirmación numérica directa de las cifras procede de una publicación periodística independiente que atribuye los datos al Observatori Marina Alta. La página de informes del organismo fue localizada, aunque el acceso directo al documento detallado sufrió un error de tiempo de espera durante la comprobación. Por su parte, la serie estadística municipal del Servicio Público de Empleo Estatal todavía no mostraba en ese momento el archivo correspondiente a septiembre de 2026 para confirmar directamente las cifras comarcales.\n\nEn conjunto, los datos disponibles muestran un aumento del desempleo entre los jóvenes tras el verano, junto a un nivel de afiliación que alcanza el máximo registrado para un septiembre.",
+      "category": "ECONOMIA",
+      "seo_title": "El paro juvenil sube un 45,59% en la Marina Alta",
+      "meta_description": "El paro entre menores de 25 años aumenta en 124 personas en septiembre en la Marina Alta, hasta 396, tras el final de la temporada estival.",
+      "sources": [
+        {
+          "name": "Observatori Marina Alta — Creama y Pacte’MA",
+          "url": "https://observatorimarinaalta.org/informes-sectoriales-socioeconomicos-trabajo-laboral-marinaalta/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Xàbia al Día",
+          "url": "https://xabiaaldia.com/art/160066/marina-alta-record-empleo-septiembre-2026-paro-juvenil/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/ca/2026/10/17/lestacionalitat-castiga-els-jovens-de-la-marina-alta-latur-es-dispara-un-46-despres-de-lestiu-en-menors-de-25-anys",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Servicio Público de Empleo Estatal",
+          "url": "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-estadisticos/municipios.html",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://observatorimarinaalta.org/informes-sectoriales-socioeconomicos-trabajo-laboral-marinaalta",
+        "https://xabiaaldia.com/art/160066/marina-alta-record-empleo-septiembre-2026-paro-juvenil",
+        "https://lamarina.eldiario.es/ca/2026/10/17/lestacionalitat-castiga-els-jovens-de-la-marina-alta-latur-es-dispara-un-46-despres-de-lestiu-en-menors-de-25-anys",
+        "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-estadisticos/municipios.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 4,
+        "caveats": [
+          "La confirmación numérica directa procede de una fuente periodística independiente que atribuye los datos al Observatori Marina Alta; el documento institucional detallado no pudo abrirse por un error de tiempo de espera.",
+          "La expresión «récord histórico de afiliación» debe entenderse como récord para un mes de septiembre, no necesariamente como máximo absoluto de todos los meses del año.",
+          "La cifra del 46% es un redondeo de la variación calculada del 45,59%."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_2f69b0801e2c0e34",
+        "quality_gate_evaluated_at": "2026-10-17T17:13:26.635Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La confirmación numérica directa procede de una fuente periodística independiente que atribuye los datos al Observatori Marina Alta; el documento institucional detallado no pudo abrirse por un error de tiempo de espera.",
+        "La expresión «máximo histórico» se limita al registro de afiliación para un mes de septiembre, no al conjunto de todos los meses.",
+        "El 45,59% debe mantenerse como cifra exacta; cualquier referencia a un 46% es un redondeo."
+      ],
+      "published_at": "2026-10-17T17:13:20.309Z",
+      "updated_at": "2026-10-17T17:13:26.910Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_f854c211de29b218",
       "external_id": "drf_ea451f057489d1a6",
