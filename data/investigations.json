@@ -1,139 +1,184 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-17T17:12:49.593Z",
+  "generated_at": "2026-10-17T19:26:17.119Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "4c7f37d9932bc48f634a5b3c704f74e7260855415ab9219c8ad4164e9f3d580b",
-      "title": "Los ediles socialistas de Calp llevan a la Fiscalía una campaña de publicaciones contra personas migrantes acogidas en el municipio",
+      "candidate_fingerprint": "3d18352167ad3a200bdadd1b5631bddea48cd4e48ce979b0ae6072f6e6310b87",
+      "title": "Calp lleva a la Fiscalía una campaña de publicaciones contra personas migrantes acogidas en el municipio",
       "status": "NEEDS_RESEARCH",
-      "confidence": "LOW",
+      "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La información está respaldada por una publicación de La Marina Plaza, que afirma que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante una serie de publicaciones de la cuenta anónima «Fiscaliza Calpe». El artículo también describe acusaciones de señalamiento por origen o rasgos étnicos y un supuesto traslado del acoso de las redes al espacio público. No se ha localizado una confirmación independiente de la presentación ante Fiscalía ni un documento oficial, registro, comunicado del PSOE de Calp o pronunciamiento de la Fiscalía que permita corroborar materialmente esos extremos.",
+      "summary": "La noticia está respaldada por una información de La Marina Plaza que atribuye al Grupo Municipal Socialista de Calp la presentación ante la Fiscalía Provincial de Alicante de documentación sobre publicaciones de la cuenta Fiscaliza Calpe. Hay corroboración independiente de que la cuenta existía y de que la alcaldesa Ana Sala presentó en agosto de 2026 otra querella contra ese perfil, pero no se ha localizado una confirmación oficial de la Fiscalía ni un comunicado público del PSOE que permita verificar de forma independiente la presentación concreta del 16 de octubre, el contenido íntegro del dossier o sus métricas de alcance.",
       "claims": [
         {
-          "claim": "El Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante publicaciones difundidas en redes sociales.",
+          "claim": "Los concejales del Grupo Municipal Socialista de Calp pusieron en conocimiento de la Fiscalía Provincial de Alicante publicaciones difundidas en redes sociales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La denuncia se habría dirigido a la sección de la Fiscalía especializada en delitos de odio y discriminación.",
+          "claim": "La denuncia se refiere a posibles mensajes de odio, estigmatización y señalamientos de personas migrantes acogidas o solicitantes de protección internacional.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las publicaciones señalaban o estigmatizaban a personas migrantes acogidas en Calp y les atribuían de forma generalizada conductas delictivas.",
+          "claim": "La documentación incluye referencias a un supuesto acoso a cargos públicos y particulares, incluido Ximo Perles.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El expediente presentado incluiría fotografías y referencias a un enfrentamiento en la vía pública con el concejal Ximo Perles.",
-          "status": "SUPPORTED"
+          "claim": "Las publicaciones superaron las 151.500 reproducciones acumuladas.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "El supuesto acoso relacionado con la cuenta «Fiscaliza Calpe» habría pasado del ámbito digital al espacio público.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La presentación ante Fiscalía y los hechos descritos cuentan con corroboración independiente u oficial.",
+          "claim": "La Fiscalía ha abierto diligencias o ha apreciado indicios de delito.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio",
-          "evidence": "Informa de que los concejales socialistas de Calp afirman haber puesto en conocimiento de la Fiscalía Provincial de Alicante, en su sección especializada en delitos de odio y discriminación, varias publicaciones de la cuenta «Fiscaliza Calpe». Describe contenidos que, según los denunciantes, generalizaban acusaciones delictivas contra personas acogidas, cuestionaban su vulnerabilidad y las señalaban por sus rasgos étnicos. También relata un episodio en la calle relacionado con el concejal Ximo Perles. La fuente no aporta un documento público de Fiscalía ni una confirmación institucional independiente de la presentación.",
+          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+          "evidence": "Informa de que los concejales socialistas de Calp entregaron a la Fiscalía Provincial de Alicante documentación sobre publicaciones de la cuenta Fiscaliza Calpe. Describe alegaciones sobre generalización de conductas delictivas, cuestionamiento de la vulnerabilidad de personas acogidas y señalamiento público, e indica que los denunciantes pidieron investigar los hechos y preservar pruebas digitales. La propia información aclara que la denuncia no prejuzga la existencia de delito ni la responsabilidad de ninguna persona.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/08/19/la-cuenta-critica-y-anonima-fiscaliza-calpe-desaparece-de-las-redes-tras-la-querella-de-la-alcaldesa",
-          "evidence": "Aporta contexto previo sobre la existencia de la cuenta anónima «Fiscaliza Calpe» y sobre una querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra ese perfil por publicaciones que consideró difamatorias. No confirma la nueva presentación del Grupo Municipal Socialista ante la Fiscalía por publicaciones contra personas migrantes.",
+          "source_url": "https://lamarina.eldiario.es/2026/08/19/la-cuenta-critica-y-anonima-fiscaliza-calpe-desaparece-de-las-redes-tras-la-querella-de-la-alcaldesa/",
+          "evidence": "Informa de que Fiscaliza Calpe era un perfil anónimo activo en Facebook e Instagram y de que la alcaldesa Ana Sala anunció en agosto una querella por presuntas injurias y calumnias contra la cuenta. Corrobora el contexto previo del perfil y de acciones legales relacionadas, pero no confirma la denuncia socialista de octubre.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/08/14/la-alcaldesa-de-calpe-se-querella-contra-fiscaliza-calpe-por-presuntas-calumnias-e-injurias-en-facebook-radio-denia/",
-          "evidence": "Confirma de forma independiente que Ana Sala presentó en agosto una querella contra el perfil «Fiscaliza Calpe» por presuntas calumnias e injurias. La información se refiere a la actuación de la alcaldesa y no verifica la posterior denuncia socialista ante Fiscalía ni el contenido relativo a las personas migrantes.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/sec/noticias-politica",
+          "evidence": "La sección política recoge una información de agosto de 2026 sobre la querella presentada por Ana Sala contra Fiscaliza Calpe por publicaciones que consideraba difamatorias. Sirve como corroboración independiente del contexto previo, no de la presentación concreta ante la Fiscalía atribuida al PSOE el 16 de octubre.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La única fuente localizada que respalda directamente la noticia del 16 de octubre es La Marina Plaza; las demás referencias encontradas tratan antecedentes distintos.",
-        "No se ha localizado el escrito presentado ante Fiscalía, un número de diligencias, una nota del Grupo Municipal Socialista de Calp ni una confirmación de la Fiscalía Provincial de Alicante.",
-        "Las acusaciones sobre posibles delitos de odio o discriminación son la posición de los denunciantes y no equivalen a la existencia acreditada de un delito.",
-        "La existencia de publicaciones, su autoría, su alcance y la identidad de las personas responsables no han sido verificadas de forma independiente."
+        "No se ha localizado en la búsqueda una nota oficial de la Fiscalía Provincial de Alicante, un escrito de registro o un comunicado verificable del Grupo Municipal Socialista que confirme la presentación concreta.",
+        "Las afirmaciones sobre el carácter ultraderechista de la cuenta, la identidad del presunto administrador, las 151.500 reproducciones y la relevancia penal son alegaciones de los denunciantes o del medio, no hechos judicialmente establecidos."
       ],
-      "id": "inv_70df1f847065109a",
-      "investigated_at": "2026-10-17T17:12:49.593Z",
+      "id": "inv_302837e0f6558906",
+      "investigated_at": "2026-10-17T19:26:17.119Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "cacb8df3e1d10eb5c0fd96284d075b5cbb09dbc2509cec96e11f8e0bfc767d07",
-      "title": "La estacionalidad dispara un 46% el paro juvenil en la Marina Alta tras el verano",
+      "candidate_fingerprint": "2c038f4efe4900c6a795763c78a432fd98dcb33e1aab9a95e37df5643699d417",
+      "title": "Calp pide a la UNED estudiar la creación de un aula universitaria con posibles grados en Casa Nova",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "Los datos esenciales están corroborados por una segunda publicación independiente y por el Observatori Marina Alta, organismo socioeconómico de Creama y Pacte’MA. En septiembre de 2026 el desempleo de menores de 25 años aumentó en 124 personas, un 45,59%, hasta 396. El aumento se concentró principalmente en los servicios y coincidió con el final de la temporada estival. La comarca registró además 68.745 afiliaciones a la Seguridad Social, cifra presentada como récord para un mes de septiembre.",
+      "summary": "El Ayuntamiento de Calp confirma oficialmente que el pleno del 13 de octubre de 2026 declaró de interés municipal iniciar los primeros pasos para estudiar con la UNED la viabilidad de un aula universitaria en Calp. La comunicación municipal indica que Casa Nova podría acoger uno o dos grados, aunque el proyecto todavía está en fase de estudio y no existe una oferta académica aprobada. La UNED de Dénia confirma por separado la actividad formativa que ya se desarrolla en Casa Nova, pero no la creación futura de grados.",
       "claims": [
         {
-          "claim": "El paro registrado entre los menores de 25 años en la Marina Alta aumentó en 124 personas durante septiembre de 2026.",
+          "claim": "El pleno de Calp declaró de interés municipal estudiar la creación de un Aula Universitaria vinculada a la UNED.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El aumento del paro juvenil fue del 45,59%, aproximadamente un 46%.",
+          "claim": "El estudio se plantea junto al centro asociado de la UNED de Dénia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El número de menores de 25 años desempleados alcanzó las 396 personas.",
+          "claim": "Casa Nova es el emplazamiento previsto para la iniciativa.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El repunte se produjo en el contexto del final de la temporada turística y afectó especialmente al sector servicios.",
+          "claim": "Se contempla la posibilidad de impartir uno o dos grados universitarios.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Marina Alta alcanzó un máximo histórico de afiliación para un mes de septiembre, con 68.745 afiliaciones.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La cifra de afiliación fue un 7,26% superior a la de septiembre de 2025.",
+          "claim": "Los grados, titulaciones y calendario todavía no están definidos y la iniciativa no equivale a la creación efectiva de una sede universitaria.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Observatori Marina Alta — Creama y Pacte’MA",
-          "source_url": "https://observatorimarinaalta.org/informes-sectoriales-socioeconomicos-trabajo-laboral-marinaalta/",
-          "evidence": "El Observatori Marina Alta identifica esta página como el espacio de sus informes socioeconómicos y laborales, y señala que analiza los datos de empleo de septiembre de 2026 en la comarca. La página fue localizada, aunque el acceso directo sufrió un error de tiempo de espera durante la comprobación. La publicación independiente consultada atribuye expresamente los datos al Observatori Marina Alta de Creama y Pacte’MA.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
+          "evidence": "La nota oficial, publicada el 14 de octubre de 2026, informa de que el pleno declaró de interés municipal dar los primeros pasos para estudiar con la UNED la viabilidad de crear un Aula Universitaria en Calp. Añade que la concejala de Educación lo describió como el paso previo para estudiar uno o dos grados de la UNED en Casa Nova.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Xàbia al Día",
-          "source_url": "https://xabiaaldia.com/art/160066/marina-alta-record-empleo-septiembre-2026-paro-juvenil/",
-          "evidence": "Publica que la Marina Alta cerró septiembre con 68.745 afiliaciones y 7.515 personas desempleadas. Detalla que el paro juvenil aumentó en 124 personas, un 45,59%, hasta 396, y que el sector servicios concentró prácticamente todo el incremento neto. También relaciona el ajuste con el final de la temporada estival y describe las afiliaciones de septiembre como récord para ese mes.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
+          "evidence": "Describe la aprobación unánime del pleno para estudiar un aula universitaria dependiente del centro asociado de Dénia, con posibilidad de uno o dos grados. Precisa que todavía no se han definido las titulaciones ni existe calendario de puesta en marcha.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/17/lestacionalitat-castiga-els-jovens-de-la-marina-alta-latur-es-dispara-un-46-despres-de-lestiu-en-menors-de-25-anys",
-          "evidence": "Es la publicación candidata y sitúa el aumento del paro juvenil en 124 personas, hasta 396, con una subida aproximada del 46%, dentro del balance laboral de septiembre de la Marina Alta. La noticia coincide en las cifras esenciales con la información independiente de Xàbia al Día y con la referencia institucional del Observatori Marina Alta.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Servicio Público de Empleo Estatal",
-          "source_url": "https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-estadisticos/municipios.html",
-          "evidence": "El SEPE mantiene la serie oficial de datos estadísticos de paro registrado y contratos por municipios para 2026, incluida la estructura de consulta mensual. La página localizada no mostraba todavía en el momento de la comprobación el archivo de septiembre de 2026, por lo que no se utiliza para confirmar directamente las cifras comarcales de la noticia.",
+          "source_name": "UNED Dénia",
+          "source_url": "https://www.uneddenia.es/component/k2/item/3748",
+          "evidence": "Confirma oficialmente que Casa Nova Calp acoge cursos UNED Sénior durante el curso 2026-2027, con actividades programadas desde el 14 de octubre de 2026 y el 17 de febrero de 2027. Esta fuente acredita la colaboración formativa existente, no la aprobación de grados oficiales.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La confirmación numérica directa procede de una fuente periodística independiente que atribuye los datos al Observatori Marina Alta; el documento institucional detallado no pudo abrirse por un error de tiempo de espera.",
-        "La expresión «récord histórico de afiliación» debe entenderse como récord para un mes de septiembre, no necesariamente como máximo absoluto de todos los meses del año.",
-        "La cifra del 46% es un redondeo de la variación calculada del 45,59%."
+        "La noticia describe un estudio de viabilidad y una declaración de interés municipal, no la apertura efectiva de grados universitarios.",
+        "La fuente municipal utiliza la expresión Aula Universitaria y no acredita que la UNED haya aprobado todavía la futura sede o sus titulaciones."
       ],
-      "id": "inv_2925d89dffef5dff",
-      "investigated_at": "2026-10-17T17:12:49.593Z",
+      "id": "inv_a6bad372ef0da2b4",
+      "investigated_at": "2026-10-17T19:26:17.119Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c07e6ecffa1a045aa6413af47d40774ef86e1c846f3fb4ddf28cf1a24fcf2466",
+      "title": "El plan climático de Calp contempla 177 medidas de mitigación y adaptación hasta 2100",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información está confirmada por una nota oficial del Ayuntamiento de Calp publicada el 14 de octubre de 2026. El pleno aprobó el PACES municipal, basado en escenarios climáticos hasta 2100, con 66 medidas de mitigación y 111 de adaptación, que suman 177. La nota también indica que el documento quedaría en exposición pública durante 30 días. No se ha localizado en la búsqueda el texto íntegro del PACES, por lo que el detalle individual de las 177 medidas no está verificado.",
+      "claims": [
+        {
+          "claim": "El pleno de Calp aprobó el PACES municipal.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plan se basa en escenarios climáticos hasta el año 2100.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El PACES contiene 66 medidas de mitigación y 111 medidas de adaptación.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El total de medidas asciende a 177.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las medidas pretenden reducir emisiones de CO2, mejorar la eficiencia energética y adaptar el municipio al cambio climático.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El documento quedó sujeto a exposición pública durante 30 días.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-pleno-municipal-baja-el-impuesto-de-veh%C3%ADculos-y-la-tasa-de-basura-las-casas",
+          "evidence": "La nota oficial informa de que el pleno aprobó el PACES redactado por Azigrene Consultores. Señala que el documento se basa en escenarios climáticos hasta 2100, contiene 66 medidas de mitigación y 111 de adaptación, y quedaría en exposición pública durante 30 días.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova",
+          "evidence": "La URL facilitada corresponde a la información sobre el pleno de octubre de 2026. Los resultados de búsqueda y referencias relacionadas sitúan en esa sesión la aprobación del PACES y la cifra de 177 medidas, pero la nota municipal es la fuente primaria utilizada para verificar las cantidades.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Periódico de Valencia",
+          "source_url": "https://periodico.top/valencia/calp-reduce-la-basura-domestica-y-cobra-40-euros-por-plaza-turistica",
+          "evidence": "Resume que el pleno de Calp aprobó un plan de acción climático con 66 medidas de mitigación y 111 de adaptación. La información coincide con la nota oficial, aunque no aporta el documento técnico del PACES ni un desglose adicional.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La suma 66 + 111 = 177 es una comprobación aritmética de las cifras comunicadas por el Ayuntamiento.",
+        "No se ha localizado el texto íntegro, anexos o expediente técnico del PACES; por tanto, no están verificadas individualmente las medidas ni su metodología.",
+        "La noticia original denomina el plan PACES y el título habla de medidas hasta 2100; la aprobación y las cifras sí están respaldadas, pero los efectos futuros son previsiones del documento, no resultados ya observados."
+      ],
+      "id": "inv_9a367c24928c16f4",
+      "investigated_at": "2026-10-17T19:26:17.119Z",
       "model": "gpt-5.6-luna"
     }
   ]
