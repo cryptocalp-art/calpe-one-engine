@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-17T09:24:43.734Z",
+  "generated_at": "2026-10-17T13:45:48.062Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,32 +26,30 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_f06a113602758b95",
-      "draft_id": "drf_b00d11ea1fbae0b3",
-      "investigation_id": "inv_a78b97d8316fa91d",
-      "candidate_fingerprint": "6a31f200def49879192b72006506fe397eea575d683edde4fff390de7992a873",
-      "slug": "calp-jornadas-recreacion-historica-banys-de-la-reina",
-      "category": "TURISMO",
+      "gate_id": "qg_d13fc790b2356900",
+      "draft_id": "drf_ea451f057489d1a6",
+      "investigation_id": "inv_89931528a78639eb",
+      "candidate_fingerprint": "5394d7b387ecfcac54053a5387f15cb8e9c734a9111b235711dd91d8ea1336c3",
+      "slug": "aviso-rojo-lluvias-calp-marina-alta-domingo-18-octubre",
+      "category": "MEDIO_AMBIENTE",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
+      "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 6,
+        "supported_claim_count": 5,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 4,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": true,
+        "unverified_claim_count": 0,
+        "evidence_count": 3,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": false,
         "material_caveat": true,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -61,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 293
+        "body_word_count": 213
       },
-      "evaluated_at": "2026-10-17T09:24:43.734Z",
+      "evaluated_at": "2026-10-17T13:45:48.062Z",
       "engine_version": "quality-gate-v1"
     }
   ]

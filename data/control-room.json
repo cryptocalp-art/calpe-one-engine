@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-17T09:24:52.104Z",
+  "generated_at": "2026-10-17T13:45:58.686Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-17T09:24:51.975Z",
+  "last_activity": "2026-10-17T13:45:58.483Z",
   "newspaper": {
-    "archive_total": 95,
-    "published_today": 1,
-    "published_last_7_days": 19,
+    "archive_total": 96,
+    "published_today": 2,
+    "published_last_7_days": 20,
     "categories": {
+      "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
       "ECONOMIA": 14,
       "SUCESOS": 13,
-      "MEDIO_AMBIENTE": 17,
       "POLITICA": 8,
       "LOCAL": 12,
       "DEPORTES": 4,
@@ -21,6 +21,13 @@
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_f854c211de29b218",
+        "title": "AEMET activa el aviso rojo por lluvias en el litoral norte de Alicante para el domingo",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "aviso-rojo-lluvias-calp-marina-alta-domingo-18-octubre",
+        "published_at": "2026-10-17T13:45:41.534Z"
+      },
       {
         "archive_id": "arc_22704a4857308a44",
         "title": "Calp abre las II Jornadas de Recreación Histórica de los Banys de la Reina",
@@ -69,18 +76,11 @@
         "category": "SUCESOS",
         "slug": "mujer-80-anos-rescatada-mar-playa-arenal-calp",
         "published_at": "2026-10-15T15:04:24.473Z"
-      },
-      {
-        "archive_id": "arc_3b15be9fb6ceddc5",
-        "title": "La Marina Alta podría registrar lluvias intensas este fin de semana, según las previsiones",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "posibles-lluvias-intensas-marina-alta-fin-de-semana",
-        "published_at": "2026-10-15T15:04:24.473Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 5,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

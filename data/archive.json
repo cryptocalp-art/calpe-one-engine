@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-17T09:24:43.978Z",
-  "count": 95,
+  "updated_at": "2026-10-17T13:45:48.376Z",
+  "count": 96,
   "articles": [
+    {
+      "archive_id": "arc_f854c211de29b218",
+      "external_id": "drf_ea451f057489d1a6",
+      "investigation_id": "inv_89931528a78639eb",
+      "candidate_fingerprints": [
+        "5394d7b387ecfcac54053a5387f15cb8e9c734a9111b235711dd91d8ea1336c3"
+      ],
+      "title": "AEMET activa el aviso rojo por lluvias en el litoral norte de Alicante para el domingo",
+      "slug": "aviso-rojo-lluvias-calp-marina-alta-domingo-18-octubre",
+      "summary": "La Agencia Estatal de Meteorología (AEMET) ha activado el aviso rojo por lluvias para el litoral norte de Alicante, demarcación meteorológica en la que se encuentra la Marina Alta y, por extensión territorial, Calp. La alerta está prevista para el domingo 18 de octubre y se mantendrá durante las primeras horas del lunes 19.",
+      "body": "La Agencia Estatal de Meteorología (AEMET) ha establecido el aviso rojo por lluvias en el litoral norte de Alicante para el domingo 18 de octubre de 2026. La demarcación meteorológica incluye la Marina Alta y, por extensión territorial, Calp.\n\nSegún la previsión difundida, el episodio contempla acumulaciones de **200 litros por metro cuadrado en 12 horas** y de hasta **300 litros por metro cuadrado en 24 horas** en algunos puntos. El aviso rojo continuará activo durante la madrugada y las primeras horas del lunes 19, hasta las 10:00.\n\nLa situación prevista también incluye viento del nordeste con velocidades de entre 50 y 60 kilómetros por hora, fuerza 7, además de rachas que podrían alcanzar los 70 kilómetros por hora. Asimismo, se han señalado fenómenos costeros en la zona.\n\nEl aviso afecta al litoral norte de Alicante dentro del sistema de alertas meteorológicas de AEMET. La información sobre los horarios y las cantidades previstas ha sido contrastada con datos difundidos por la Agencia EFE y con información local referida a la Marina Alta.\n\nEl aviso meteorológico es una previsión: las cantidades indicadas corresponden a acumulaciones esperadas y no acreditan que finalmente lleguen a registrarse. La evolución del episodio dependerá de las condiciones que se produzcan durante el domingo y las primeras horas del lunes.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Aviso rojo por lluvias en Calp y la Marina Alta el domingo",
+      "meta_description": "AEMET activa el aviso rojo por lluvias en el litoral norte de Alicante, incluida la Marina Alta y Calp, con hasta 300 l/m² previstos.",
+      "sources": [
+        {
+          "name": "AEMET",
+          "url": "https://www.aemet.es/en/rss_info/avisos/val",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Agencia EFE",
+          "url": "https://efe.com/comunidad-valenciana/2026-10-17/aemet-eleva-a-rojo-el-aviso-este-domingo-en-el-litoral-sur-de-valencia-y-norte-de-alicante/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "LaMarinaAlta.com",
+          "url": "https://lamarinaalta.com/la-aemet-eleva-a-rojo-el-aviso-por-lluvias-en-la-marina-alta",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.aemet.es/en/rss_info/avisos/val",
+        "https://efe.com/comunidad-valenciana/2026-10-17/aemet-eleva-a-rojo-el-aviso-este-domingo-en-el-litoral-sur-de-valencia-y-norte-de-alicante",
+        "https://lamarinaalta.com/la-aemet-eleva-a-rojo-el-aviso-por-lluvias-en-la-marina-alta"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "El aviso meteorológico es una previsión y no acredita que esas cantidades de lluvia llegaran finalmente a registrarse.",
+          "La fuente oficial consultada confirma el canal y la zona de avisos de AEMET; los detalles horarios y pluviométricos se contrastaron con EFE y la información local."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_d13fc790b2356900",
+        "quality_gate_evaluated_at": "2026-10-17T13:45:48.062Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "El aviso meteorológico es una previsión y no confirma que las cantidades de lluvia previstas lleguen a registrarse.",
+        "Los detalles horarios y pluviométricos proceden de la información contrastada con EFE y una fuente local; la página oficial consultada de AEMET funciona como portal de avisos y no conserva en el texto visible el parte concreto del 17 de octubre."
+      ],
+      "published_at": "2026-10-17T13:45:41.534Z",
+      "updated_at": "2026-10-17T13:45:48.376Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_22704a4857308a44",
       "external_id": "drf_b00d11ea1fbae0b3",

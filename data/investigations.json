@@ -1,80 +1,132 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-17T09:24:11.737Z",
+  "generated_at": "2026-10-17T13:45:10.234Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "6a31f200def49879192b72006506fe397eea575d683edde4fff390de7992a873",
-      "title": "Calp celebra las II Jornadas de Recreación Histórica de los Banys de la Reina",
+      "candidate_fingerprint": "5394d7b387ecfcac54053a5387f15cb8e9c734a9111b235711dd91d8ea1336c3",
+      "title": "AEMET eleva a rojo el aviso por lluvias en la Marina Alta para el domingo 18 y el lunes 19 de octubre",
       "status": "VERIFIED",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "publishable": true,
-      "summary": "La actividad está confirmada para los días 17 y 18 de octubre de 2026 en el yacimiento de Banys de la Reina, con acceso abierto y temática centrada en la muerte y el mundo ibérico. La programación figura en varias agendas oficiales municipales y también en una agenda cultural independiente. La evidencia disponible confirma la convocatoria, aunque no permite verificar todavía que el evento se haya celebrado íntegramente, dado que la investigación se realiza el 17 de octubre de 2026.",
+      "summary": "Los hechos esenciales están corroborados por la Agencia Estatal de Meteorología mediante su sistema oficial de avisos y por una información independiente de la Agencia EFE. El litoral norte de Alicante, donde se encuadra la Marina Alta, tuvo aviso rojo por lluvias para el domingo 18 de octubre, prolongado hasta las 10:00 del lunes 19, con acumulaciones previstas de 200 l/m² en 12 horas y hasta 300 l/m² en 24 horas en algunos puntos. También se confirmaron avisos por viento y rachas fuertes en la zona.",
       "claims": [
         {
-          "claim": "Las II Jornadas de Recreación Histórica de Banys de la Reina están programadas para el 17 y 18 de octubre de 2026.",
+          "claim": "AEMET activó el aviso rojo por lluvias en el litoral norte de Alicante para el domingo 18 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El evento se celebra en el yacimiento de Banys de la Reina, en Calp.",
+          "claim": "El aviso rojo se mantuvo durante las primeras horas del lunes 19 de octubre.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La programación está dedicada a la muerte en el mundo ibérico.",
+          "claim": "Se previeron acumulaciones de 200 l/m² en 12 horas y hasta 300 l/m² en 24 horas en algunos puntos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se trata de unas jornadas de puertas abiertas.",
+          "claim": "La zona afectada incluye la demarcación meteorológica en la que se encuentra la Marina Alta y, por extensión territorial, Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actividad incluye recreación histórica y un programa de charlas, talleres o representaciones vinculadas al mundo funerario ibérico y romano.",
+          "claim": "Se previeron rachas de viento de hasta 70 km/h.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "El evento está organizado por la Concejalía de Cultura del Ayuntamiento de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las jornadas ya se han celebrado íntegramente.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — Noticias municipales",
-          "source_url": "https://noticias.calp.es/es/eventos/ii-jornadas-de-recreaci%C3%B3n-hist%C3%B3rica-banys-de-la-reina",
-          "evidence": "La página oficial anuncia las II Jornadas para el sábado 17 de octubre de 2026, de 17:00 a 21:30, y el domingo 18 de octubre, de 10:00 a 14:00. Indica como lugar el yacimiento Banys de la Reina, informa de que son jornadas de puertas abiertas, identifica como tema «la muerte en el mundo ibérico» y señala como organizadora a la Concejalía de Cultura.",
+          "source_name": "AEMET",
+          "source_url": "https://www.aemet.es/en/rss_info/avisos/val",
+          "evidence": "La página oficial de AEMET identifica el litoral norte de Alicante como una zona específica de avisos meteorológicos y ofrece el acceso oficial a la información actualizada de dichos avisos. Es la fuente primaria del sistema de alertas, aunque la página consultada funciona como portal de acceso y no conserva en el texto visible el parte concreto del 17 de octubre.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Tourist Info Calpe — Agenda oficial",
-          "source_url": "https://calpe.es/es/eventos/ii-jornadas-de-recreacion-historica-banys-de-la-reina",
-          "evidence": "La agenda turística oficial del municipio confirma las fechas del 17 y 18 de octubre de 2026, los horarios de ambas jornadas, el carácter abierto y gratuito de la actividad, el lugar en el yacimiento Banys de la Reina y la temática de la muerte en el mundo ibérico.",
-          "source_type": "PRIMARY"
+          "source_name": "Agencia EFE",
+          "source_url": "https://efe.com/comunidad-valenciana/2026-10-17/aemet-eleva-a-rojo-el-aviso-este-domingo-en-el-litoral-sur-de-valencia-y-norte-de-alicante/",
+          "evidence": "EFE informó el 17 de octubre de que AEMET elevó a rojo el aviso en el litoral norte de Alicante para el domingo, con 200 l/m² en 12 horas y 300 l/m² en 24 horas en algunos puntos. También indicó que el aviso rojo continuaba el lunes 19 entre las 00:00 y las 10:00 y que había previsión de viento del nordeste de 50-60 km/h, fuerza 7, y fenómenos costeros.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Casa de Cultura Jaume Pastor i Fluixà — Agenda cultural municipal",
-          "source_url": "https://cultura.calp.es/es/eventos/ii-jornadas-de-recreaci%C3%B3n-hist%C3%B3rica-banys-de-la-reina",
-          "evidence": "La agenda de la Casa de Cultura de Calp vuelve a registrar el evento para el 17 y 18 de octubre de 2026, lo clasifica como jornadas de puertas abiertas, sitúa la actividad en el yacimiento Banys de la Reina y atribuye su organización a la Concejalía de Cultura.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ocio Alicante — Agenda cultural independiente",
-          "source_url": "https://ocioalicante.net/evento/calpe/yacimiento-banos-reina/teatro/jornadas-recreacion-historica-banys-reina-2026-2028/?id=165894",
-          "evidence": "La agenda independiente anuncia las jornadas en las mismas fechas y lugar, y describe un programa de charlas, actividades infantiles, explicaciones sobre rituales funerarios ibéricos y una representación de un entierro ibérico y combate ritual. La fuente remite además a la agenda oficial de Calp para ampliar información.",
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/la-aemet-eleva-a-rojo-el-aviso-por-lluvias-en-la-marina-alta",
+          "evidence": "La información local sitúa a la Marina Alta dentro del litoral norte de Alicante, fija el inicio del aviso rojo el domingo 18 a las 10:00, recoge el umbral de 200 l/m² en 12 horas y la posibilidad de 300 l/m² en 24 horas, y señala rachas de viento de hasta 70 km/h.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La corroboración principal procede de distintos portales institucionales del Ayuntamiento de Calp, por lo que no debe considerarse completamente independiente entre sí.",
-        "La fuente secundaria independiente confirma la convocatoria y detalla actividades, pero reproduce o enlaza parte de la información oficial.",
-        "A fecha de 17 de octubre de 2026, la evidencia confirma que el evento está programado y en curso; no acredita por sí sola que las dos jornadas hayan concluido ni la asistencia real."
+        "El aviso meteorológico es una previsión y no acredita que esas cantidades de lluvia llegaran finalmente a registrarse.",
+        "La fuente oficial consultada confirma el canal y la zona de avisos de AEMET; los detalles horarios y pluviométricos se contrastaron con EFE y la información local."
       ],
-      "id": "inv_a78b97d8316fa91d",
-      "investigated_at": "2026-10-17T09:24:11.737Z",
+      "id": "inv_89931528a78639eb",
+      "investigated_at": "2026-10-17T13:45:10.234Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "6faa06245e0fbfc01bab71d29d1631310860c57d7632db823fdc16657df4705c",
+      "title": "El Grupo Municipal Socialista de Calp lleva a la Fiscalía una campaña de odio contra migrantes y acoso a cargos públicos",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Dos medios locales publicaron la misma información sobre una comunicación del Grupo Municipal Socialista de Calp a la Fiscalía Provincial de Alicante. Sin embargo, no se ha localizado un escrito de registro, comunicado oficial del grupo socialista, confirmación de la Fiscalía ni otra fuente primaria que acredite la presentación. Los episodios de acoso y el contenido de las publicaciones se describen principalmente a partir del relato y del dossier de los denunciantes, por lo que la noticia no alcanza el nivel de verificación exigido para su publicación como hecho plenamente confirmado.",
+      "claims": [
+        {
+          "claim": "El Grupo Municipal Socialista de Calp comunicó a la Fiscalía Provincial de Alicante publicaciones difundidas contra personas migrantes acogidas en el municipio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La comunicación se dirigió a la sección especializada en delitos de odio y discriminación.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El grupo solicitó investigar el contenido, alcance e identidad de las personas responsables.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las publicaciones denunciadas presentaban de forma generalizada a personas migrantes como vinculadas a conductas delictivas o cuestionaban su situación de protección y acogida.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Concejales y funcionarios sufrieron episodios de acoso que pasaron del ámbito digital a encuentros en la vía pública.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Entre los episodios se encuentra un abordaje y grabación del concejal Ximo Perles.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La Fiscalía ha iniciado una investigación o ha adoptado diligencias sobre los hechos.",
+          "status": "CONTRADICTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos/",
+          "evidence": "El medio afirma que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante publicaciones contra personas migrantes acogidas y que solicitó investigar los mensajes, su difusión y el señalamiento público. También recoge la versión del grupo sobre supuestos episodios de acoso y el abordaje grabado al concejal Ximo Perles.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+          "evidence": "El medio publicó que los concejales socialistas de Calp pusieron en conocimiento de la Fiscalía una serie de publicaciones difundidas en redes y que pidieron examinar su contenido, alcance y posibles responsabilidades. La pieza atribuye los detalles al grupo denunciante y no aporta confirmación pública de la Fiscalía sobre la recepción o apertura de diligencias.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-20-de-agosto-2",
+          "evidence": "El Ayuntamiento de Calp documenta oficialmente un antecedente distinto: la querella presentada en agosto de 2026 por la alcaldesa Ana Sala contra la cuenta Fiscaliza Calpe. Esta fuente corrobora el contexto previo de conflicto y acciones legales, pero no confirma la nueva comunicación del grupo socialista de octubre.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración periodística disponible puede proceder de la misma comunicación o nota del grupo socialista; no debe tratarse como confirmación independiente del registro ante Fiscalía.",
+        "No se localizó confirmación primaria de la Fiscalía Provincial de Alicante ni un documento público que acredite la presentación de la comunicación.",
+        "La noticia describe posibles delitos o campaña de odio, pero no existe confirmación de que la Fiscalía haya concluido que se cometió delito ni de que haya abierto diligencias.",
+        "Para elevar el estado a VERIFIED sería necesario obtener el escrito registrado, una declaración oficial del Grupo Municipal Socialista o una confirmación de la Fiscalía sobre la recepción del expediente."
+      ],
+      "id": "inv_ae9d76e4cce0657f",
+      "investigated_at": "2026-10-17T13:45:10.234Z",
       "model": "gpt-5.6-luna"
     }
   ]
