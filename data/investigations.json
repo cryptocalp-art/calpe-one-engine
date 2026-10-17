@@ -1,70 +1,80 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-17T04:29:55.809Z",
+  "generated_at": "2026-10-17T09:24:11.737Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "6da6a2f1119a72020b3d918279cffbd024966ced4f805d68d6191ab6f4f080f4",
-      "title": "Calp concede 4.000 euros en subvenciones a las AMPA de los colegios Mediterrani y Gabriel Miró",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "6a31f200def49879192b72006506fe397eea575d683edde4fff390de7992a873",
+      "title": "Calp celebra las II Jornadas de Recreación Histórica de los Banys de la Reina",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está respaldada por una publicación oficial de Calp Comunica, fechada el 14 de octubre de 2026, que identifica a las dos AMPA beneficiarias y asigna 2.000 euros a cada una. La suma de ambas cantidades es de 4.000 euros. No se ha localizado una corroboración independiente —como un acuerdo municipal, convenio íntegro, anuncio en la BDNS o publicación oficial distinta de la nota institucional— que permita verificar documentalmente la concesión más allá de la comunicación del Ayuntamiento.",
+      "publishable": true,
+      "summary": "La actividad está confirmada para los días 17 y 18 de octubre de 2026 en el yacimiento de Banys de la Reina, con acceso abierto y temática centrada en la muerte y el mundo ibérico. La programación figura en varias agendas oficiales municipales y también en una agenda cultural independiente. La evidencia disponible confirma la convocatoria, aunque no permite verificar todavía que el evento se haya celebrado íntegramente, dado que la investigación se realiza el 17 de octubre de 2026.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp firmó convenios de subvenciones nominativas con asociaciones de madres y padres de alumnos.",
+          "claim": "Las II Jornadas de Recreación Histórica de Banys de la Reina están programadas para el 17 y 18 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La AMPA del CEIP Mediterrani de Calp recibió o tiene asignada una subvención nominativa de 2.000 euros.",
+          "claim": "El evento se celebra en el yacimiento de Banys de la Reina, en Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La AMPA del CEIP Gabriel Miró de Calp recibió o tiene asignada una subvención nominativa de 2.000 euros.",
+          "claim": "La programación está dedicada a la muerte en el mundo ibérico.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El importe conjunto de las dos subvenciones asciende a 4.000 euros.",
+          "claim": "Se trata de unas jornadas de puertas abiertas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ayudas respaldan la labor de las AMPA en apoyo de la comunidad educativa.",
+          "claim": "La actividad incluye recreación histórica y un programa de charlas, talleres o representaciones vinculadas al mundo funerario ibérico y romano.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La concesión está corroborada por una fuente independiente de la comunicación municipal.",
+          "claim": "El evento está organizado por la Concejalía de Cultura del Ayuntamiento de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las jornadas ya se han celebrado íntegramente.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Comunica — Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%A4%A4%A1-el-ayuntamiento-de-calp-firma-convenios-de-subvenciones-nominativas-con-las-ampa-del-municipio",
-          "evidence": "La publicación oficial, fechada el 14 de octubre de 2026, indica que el Ayuntamiento continúa firmando convenios de subvenciones nominativas con las AMPA de los centros educativos. Identifica como beneficiarias a la AMPA del CEIP Mediterrani, con 2.000 euros, y a la AMPA del CEIP Gabriel Miró, también con 2.000 euros.",
+          "source_name": "Ayuntamiento de Calp — Noticias municipales",
+          "source_url": "https://noticias.calp.es/es/eventos/ii-jornadas-de-recreaci%C3%B3n-hist%C3%B3rica-banys-de-la-reina",
+          "evidence": "La página oficial anuncia las II Jornadas para el sábado 17 de octubre de 2026, de 17:00 a 21:30, y el domingo 18 de octubre, de 10:00 a 14:00. Indica como lugar el yacimiento Banys de la Reina, informa de que son jornadas de puertas abiertas, identifica como tema «la muerte en el mundo ibérico» y señala como organizadora a la Concejalía de Cultura.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp — Centros educativos",
-          "source_url": "https://calp.es/es/educacion/centros-educativos",
-          "evidence": "La página oficial del Ayuntamiento confirma la existencia en Calp del CEIP Gabriel Miró y del CEIP Mediterrani. No contiene información sobre las subvenciones de octubre de 2026 ni sobre los importes indicados.",
+          "source_name": "Tourist Info Calpe — Agenda oficial",
+          "source_url": "https://calpe.es/es/eventos/ii-jornadas-de-recreacion-historica-banys-de-la-reina",
+          "evidence": "La agenda turística oficial del municipio confirma las fechas del 17 y 18 de octubre de 2026, los horarios de ambas jornadas, el carácter abierto y gratuito de la actividad, el lugar en el yacimiento Banys de la Reina y la temática de la muerte en el mundo ibérico.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp — Subvención a las AMPA para material educativo y telemático",
-          "source_url": "https://noticias.calp.es/en/noticia/city-council-grants-grant-1000-euros-ampa-calp-educational-and-telematic-material",
-          "evidence": "Una noticia municipal de octubre de 2020 documenta que el Ayuntamiento de Calp concedía ayudas a las asociaciones de padres y madres de los centros locales, incluidos Gabriel Miró y Mediterrani. Sirve como antecedente de la existencia de líneas municipales de apoyo a las AMPA, pero no acredita las cantidades ni la concesión de 2026.",
+          "source_name": "Casa de Cultura Jaume Pastor i Fluixà — Agenda cultural municipal",
+          "source_url": "https://cultura.calp.es/es/eventos/ii-jornadas-de-recreaci%C3%B3n-hist%C3%B3rica-banys-de-la-reina",
+          "evidence": "La agenda de la Casa de Cultura de Calp vuelve a registrar el evento para el 17 y 18 de octubre de 2026, lo clasifica como jornadas de puertas abiertas, sitúa la actividad en el yacimiento Banys de la Reina y atribuye su organización a la Concejalía de Cultura.",
           "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ocio Alicante — Agenda cultural independiente",
+          "source_url": "https://ocioalicante.net/evento/calpe/yacimiento-banos-reina/teatro/jornadas-recreacion-historica-banys-reina-2026-2028/?id=165894",
+          "evidence": "La agenda independiente anuncia las jornadas en las mismas fechas y lugar, y describe un programa de charlas, actividades infantiles, explicaciones sobre rituales funerarios ibéricos y una representación de un entierro ibérico y combate ritual. La fuente remite además a la agenda oficial de Calp para ampliar información.",
+          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las versiones en castellano, valenciano e inglés de Calp Comunica son reproducciones de la misma comunicación institucional y no constituyen corroboración independiente.",
-        "La fuente principal utiliza la fórmula 'firma de convenios correspondientes a subvenciones nominativas'; la afirmación de que el dinero ya fue efectivamente abonado no queda acreditada por la publicación.",
-        "No se ha encontrado durante la búsqueda el texto íntegro de los convenios, un acuerdo de la Junta de Gobierno, el expediente presupuestario o una inscripción específica en la BDNS que confirme de forma documental e independiente los importes de 2.000 euros por entidad."
+        "La corroboración principal procede de distintos portales institucionales del Ayuntamiento de Calp, por lo que no debe considerarse completamente independiente entre sí.",
+        "La fuente secundaria independiente confirma la convocatoria y detalla actividades, pero reproduce o enlaza parte de la información oficial.",
+        "A fecha de 17 de octubre de 2026, la evidencia confirma que el evento está programado y en curso; no acredita por sí sola que las dos jornadas hayan concluido ni la asistencia real."
       ],
-      "id": "inv_fafbc2f4fd813a49",
-      "investigated_at": "2026-10-17T04:29:55.809Z",
+      "id": "inv_a78b97d8316fa91d",
+      "investigated_at": "2026-10-17T09:24:11.737Z",
       "model": "gpt-5.6-luna"
     }
   ]

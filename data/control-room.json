@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-17T04:30:17.234Z",
+  "generated_at": "2026-10-17T09:24:52.104Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-17T04:30:17.097Z",
+  "last_activity": "2026-10-17T09:24:51.975Z",
   "newspaper": {
-    "archive_total": 94,
-    "published_today": 0,
-    "published_last_7_days": 18,
+    "archive_total": 95,
+    "published_today": 1,
+    "published_last_7_days": 19,
     "categories": {
+      "TURISMO": 9,
       "ECONOMIA": 14,
       "SUCESOS": 13,
       "MEDIO_AMBIENTE": 17,
@@ -17,10 +18,16 @@
       "LOCAL": 12,
       "DEPORTES": 4,
       "CULTURA": 6,
-      "SOCIEDAD": 12,
-      "TURISMO": 8
+      "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_22704a4857308a44",
+        "title": "Calp abre las II Jornadas de Recreación Histórica de los Banys de la Reina",
+        "category": "TURISMO",
+        "slug": "calp-jornadas-recreacion-historica-banys-de-la-reina",
+        "published_at": "2026-10-17T09:24:34.412Z"
+      },
       {
         "archive_id": "arc_3944a19fbf8e6fed",
         "title": "Orobianco cierra su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "posibles-lluvias-intensas-marina-alta-fin-de-semana",
         "published_at": "2026-10-15T15:04:24.473Z"
-      },
-      {
-        "archive_id": "arc_68bda56f067bc967",
-        "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre, pero marca un récord para ese mes",
-        "category": "ECONOMIA",
-        "slug": "marina-alta-pierde-afiliaciones-septiembre-2026",
-        "published_at": "2026-10-15T04:43:31.436Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
