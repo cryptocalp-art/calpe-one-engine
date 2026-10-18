@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-18T01:05:13.090Z",
+  "generated_at": "2026-10-18T05:57:10.622Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,8 +21,93 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 0,
-  "eligible_count": 0,
-  "quarantined_count": 0,
-  "decisions": []
+  "drafts_seen": 2,
+  "eligible_count": 1,
+  "quarantined_count": 1,
+  "decisions": [
+    {
+      "gate_id": "qg_fd81b0af03e45021",
+      "draft_id": "drf_ec6d6094aece0b26",
+      "investigation_id": "inv_6280740dcb3f3575",
+      "candidate_fingerprint": "2dfa1ff3fd5b9b836d729cde5ccca0a129b0758cfa0cac3a7f7c69d0b42656fa",
+      "slug": "audiencia-alicante-condena-caso-aguas-calp",
+      "category": "POLITICA",
+      "status": "QUARANTINED",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 4,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 1,
+        "evidence_count": 3,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 3,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": true,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 229
+      },
+      "evaluated_at": "2026-10-18T05:57:10.622Z",
+      "engine_version": "quality-gate-v1"
+    },
+    {
+      "gate_id": "qg_f96c9f4b8e2b0f49",
+      "draft_id": "drf_057aedb0b47dedaa",
+      "investigation_id": "inv_77b93a94747fade1",
+      "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
+      "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
+      "category": "POLITICA",
+      "status": "ELIGIBLE",
+      "reasons": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 4,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 2,
+        "evidence_count": 3,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": true,
+        "material_caveat": true,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 255
+      },
+      "evaluated_at": "2026-10-18T05:57:10.622Z",
+      "engine_version": "quality-gate-v1"
+    }
+  ]
 }

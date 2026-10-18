@@ -1,8 +1,111 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-18T01:05:12.925Z",
+  "generated_at": "2026-10-18T05:56:59.592Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 2,
+  "drafts": [
+    {
+      "id": "drf_ec6d6094aece0b26",
+      "investigation_id": "inv_6280740dcb3f3575",
+      "candidate_fingerprint": "2dfa1ff3fd5b9b836d729cde5ccca0a129b0758cfa0cac3a7f7c69d0b42656fa",
+      "category": "POLITICA",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-18T05:56:59.592Z",
+      "model": "gpt-5.6-luna",
+      "headline": "La Audiencia de Alicante condena a cinco personas por el caso Aguas de Calp",
+      "subheadline": "La resolución establece una indemnización conjunta y solidaria al Ayuntamiento por una cantidad aproximada de 430.000 euros, aunque no es firme",
+      "lead": "La Sección Segunda de la Audiencia Provincial de Alicante ha condenado a cinco personas por delitos relacionados con la adjudicación de las obras de renovación de la red de agua de Calp. La sentencia fija una indemnización conjunta y solidaria al Ayuntamiento por una cantidad aproximada de 430.000 euros, vinculada a sobrecostes o perjuicios económicos derivados de los trabajos.",
+      "body_markdown": "La Sección Segunda de la Audiencia Provincial de Alicante dictó el 15 de octubre de 2026 una sentencia sobre el denominado caso Aguas de Calp. Según la información consultada, la resolución condena a cinco personas por delitos de prevaricación administrativa y fraude en la contratación relacionados con la adjudicación de las obras de renovación de la red de agua del municipio.\n\nEl fallo establece que los condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con una cantidad aproximada de 430.000 euros. La indemnización se relaciona con sobrecostes o perjuicios económicos derivados de las obras, según las informaciones difundidas sobre la resolución.\n\nLa responsabilidad conjunta y solidaria implica que la obligación indemnizatoria se atribuye al conjunto de las personas condenadas en los términos fijados por la sentencia. No obstante, las fuentes consultadas no incluyen el texto íntegro del fallo ni una resolución oficial directamente enlazada por el órgano judicial.\n\nTampoco existe plena coincidencia en la cuantía exacta mencionada en las informaciones publicadas. Mientras unas referencias sitúan la indemnización en 430.000 euros, otras recogen cantidades concretas de 430.052 y 440.052 euros. Por este motivo, la cifra se mantiene en términos aproximados hasta disponer del contenido íntegro de la sentencia.\n\nLa resolución no es firme. La información disponible señala que puede recurrirse en casación ante el Tribunal Supremo, por lo que el procedimiento todavía puede ser revisado en esa vía.",
+      "seo_title": "Condena por el caso Aguas de Calp e indemnización al Ayuntamiento",
+      "meta_description": "La Audiencia de Alicante condena a cinco personas por el caso Aguas de Calp y fija una indemnización aproximada de 430.000 euros al Ayuntamiento.",
+      "slug": "audiencia-alicante-condena-caso-aguas-calp",
+      "editorial_notes": [
+        "Mantener la cuantía como aproximada: las fuentes consultadas discrepan entre 430.000, 430.052 y 440.052 euros.",
+        "La sentencia no es firme y puede recurrirse en casación.",
+        "No publicar una cifra exacta ni atribuir detalles adicionales sin consultar el fallo íntegro."
+      ],
+      "sources": [
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-audiencia-alicante-impone-once-meses-carcel-exconcejal-pp-cunado-caso-aguas-calp-20261015180956.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Vanguardia",
+          "source_url": "https://www.lavanguardia.com/local/valencia/20261015/11659878/audiencia-alicante-condena-exdiputado-pp-caso-aguas-calp.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — dosier de prensa",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-octubre-1",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La información consultada no aporta el texto íntegro de la sentencia ni una resolución oficial directamente enlazada por el órgano judicial.",
+          "Hay discrepancias menores en las fuentes sobre la cuantía exacta: se mencionan 430.000 euros, 430.052 euros y 440.052 euros. El titular debe mantener la cifra redondeada salvo consulta del fallo original.",
+          "La sentencia no es firme y puede ser recurrida en casación ante el Tribunal Supremo."
+        ]
+      }
+    },
+    {
+      "id": "drf_057aedb0b47dedaa",
+      "investigation_id": "inv_77b93a94747fade1",
+      "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
+      "category": "POLITICA",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-18T05:56:59.592Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
+      "subheadline": "El grupo municipal solicita que se examinen los mensajes, su difusión y la identidad de los responsables de las cuentas",
+      "lead": "El Grupo Municipal Socialista de Calp ha comunicado que trasladó a la Fiscalía Provincial de Alicante documentación sobre publicaciones difundidas en redes sociales contra personas migrantes acogidas en el municipio. La iniciativa también incluye la petición de examinar episodios de acoso o grabaciones de cargos públicos en la vía pública.",
+      "body_markdown": "El Grupo Municipal Socialista de Calp ha trasladado a la Fiscalía Provincial de Alicante documentación sobre una serie de publicaciones difundidas en redes sociales. Según la información facilitada por el grupo y recogida por medios locales, los mensajes se referían a personas migrantes acogidas en el municipio e incluían señalamientos públicos por rasgos étnicos.\n\nLos concejales socialistas solicitaron que se analizara el contenido de las publicaciones, su difusión y la identidad de las personas responsables de las cuentas implicadas. La documentación fue comunicada a la Fiscalía en su ámbito especializado en delitos de odio y discriminación, según las informaciones consultadas.\n\nLa actuación también se relaciona con episodios de acoso o con la realización de grabaciones a cargos públicos y funcionarios en la vía pública. El grupo municipal pidió que se examinara el posible alcance de estos hechos junto con el contenido de los mensajes difundidos en redes sociales.\n\nLa presentación ante la Fiscalía está respaldada por dos publicaciones de medios locales. Sin embargo, no consta en las fuentes consultadas la existencia de un acuse de recibo, de un escrito de denuncia publicado o de un comunicado oficial de la Fiscalía. Tampoco consta que el ministerio público haya abierto diligencias, identificado a los responsables o establecido una calificación jurídica de las publicaciones.\n\nPor tanto, la expresión «campaña de odio» debe entenderse como la valoración realizada por el PSOE y por las informaciones periodísticas sobre los hechos comunicados, no como una conclusión judicial o fiscal. La documentación queda pendiente de la valoración que pueda realizar la Fiscalía.",
+      "seo_title": "El PSOE de Calp lleva a Fiscalía publicaciones sobre migrantes",
+      "meta_description": "El PSOE de Calp comunica a la Fiscalía publicaciones sobre personas migrantes y episodios de acoso a cargos públicos. No consta que haya diligencias abiertas.",
+      "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
+      "editorial_notes": [
+        "Atribuir al PSOE y a las informaciones periodísticas la expresión «campaña de odio».",
+        "No afirmar que existe un delito de odio ni que la Fiscalía haya abierto diligencias.",
+        "No incluir cifras de alcance de las publicaciones: no han sido verificadas de forma independiente.",
+        "La presentación ante la Fiscalía está respaldada por medios locales, pero no consta acuse de recibo ni documento oficial publicado."
+      ],
+      "sources": [
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — información y composición del Pleno",
+          "source_url": "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La existencia de la presentación ante Fiscalía está respaldada por dos medios locales, pero no se ha localizado un acuse de recibo, escrito de denuncia o comunicado oficial de la Fiscalía.",
+          "La expresión «campaña de odio» describe la valoración del PSOE y de las informaciones periodísticas; no debe presentarse como una conclusión judicial o fiscal.",
+          "No consta en las fuentes consultadas que la Fiscalía haya abierto diligencias ni que haya identificado a los responsables de las publicaciones.",
+          "Las métricas de alcance de las publicaciones —más de 151.500 reproducciones— proceden del dossier aportado por los denunciantes y no han sido verificadas independientemente."
+        ]
+      }
+    }
+  ]
 }

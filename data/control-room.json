@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-18T01:05:23.101Z",
+  "generated_at": "2026-10-18T05:57:22.706Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-18T01:05:22.905Z",
+  "last_activity": "2026-10-18T05:57:22.509Z",
   "newspaper": {
-    "archive_total": 97,
-    "published_today": 0,
-    "published_last_7_days": 20,
+    "archive_total": 98,
+    "published_today": 1,
+    "published_last_7_days": 21,
     "categories": {
+      "POLITICA": 9,
       "ECONOMIA": 15,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
       "SUCESOS": 13,
-      "POLITICA": 8,
       "LOCAL": 12,
       "DEPORTES": 4,
       "CULTURA": 6,
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_822454da51121b36",
+        "title": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
+        "category": "POLITICA",
+        "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
+        "published_at": "2026-10-18T05:56:59.592Z"
+      },
       {
         "archive_id": "arc_d643cf6e67506801",
         "title": "El paro juvenil aumenta un 45,59% en la Marina Alta tras el verano",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "consorci-mare-inversion-residuos-calp-comarca",
         "published_at": "2026-10-16T07:13:05.977Z"
-      },
-      {
-        "archive_id": "arc_c6ede3a43c7d664c",
-        "title": "La Audiencia de Alicante condena a once meses al exedil de Calp Juan Roselló por el caso de las aguas",
-        "category": "POLITICA",
-        "slug": "condenan-juan-rosello-caso-aguas-calp",
-        "published_at": "2026-10-15T19:11:32.752Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 2,
+    "eligible": 1,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_ec6d6094aece0b26",
+      "slug": "audiencia-alicante-condena-caso-aguas-calp",
+      "category": "POLITICA",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-10-18T05:57:10.622Z"
+    }
+  ]
 }

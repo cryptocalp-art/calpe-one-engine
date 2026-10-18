@@ -3,12 +3,166 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-18T01:05:13.268Z",
+  "generated_at": "2026-10-18T05:57:10.786Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
-  "quarantined_count": 0,
-  "ready": [],
-  "quarantined": []
+  "drafts_seen": 2,
+  "ready_count": 1,
+  "quarantined_count": 1,
+  "ready": [
+    {
+      "export_id": "exp_f8e9f058feae5421",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-18T05:57:10.786Z",
+      "source_draft_id": "drf_057aedb0b47dedaa",
+      "source_investigation_id": "inv_77b93a94747fade1",
+      "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
+      "quality_gate_id": "qg_f96c9f4b8e2b0f49",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_057aedb0b47dedaa",
+        "investigation_id": "inv_77b93a94747fade1",
+        "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
+        "title": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
+        "subtitle": "El grupo municipal solicita que se examinen los mensajes, su difusión y la identidad de los responsables de las cuentas",
+        "summary": "El Grupo Municipal Socialista de Calp ha comunicado que trasladó a la Fiscalía Provincial de Alicante documentación sobre publicaciones difundidas en redes sociales contra personas migrantes acogidas en el municipio. La iniciativa también incluye la petición de examinar episodios de acoso o grabaciones de cargos públicos en la vía pública.",
+        "body": "El Grupo Municipal Socialista de Calp ha trasladado a la Fiscalía Provincial de Alicante documentación sobre una serie de publicaciones difundidas en redes sociales. Según la información facilitada por el grupo y recogida por medios locales, los mensajes se referían a personas migrantes acogidas en el municipio e incluían señalamientos públicos por rasgos étnicos.\n\nLos concejales socialistas solicitaron que se analizara el contenido de las publicaciones, su difusión y la identidad de las personas responsables de las cuentas implicadas. La documentación fue comunicada a la Fiscalía en su ámbito especializado en delitos de odio y discriminación, según las informaciones consultadas.\n\nLa actuación también se relaciona con episodios de acoso o con la realización de grabaciones a cargos públicos y funcionarios en la vía pública. El grupo municipal pidió que se examinara el posible alcance de estos hechos junto con el contenido de los mensajes difundidos en redes sociales.\n\nLa presentación ante la Fiscalía está respaldada por dos publicaciones de medios locales. Sin embargo, no consta en las fuentes consultadas la existencia de un acuse de recibo, de un escrito de denuncia publicado o de un comunicado oficial de la Fiscalía. Tampoco consta que el ministerio público haya abierto diligencias, identificado a los responsables o establecido una calificación jurídica de las publicaciones.\n\nPor tanto, la expresión «campaña de odio» debe entenderse como la valoración realizada por el PSOE y por las informaciones periodísticas sobre los hechos comunicados, no como una conclusión judicial o fiscal. La documentación queda pendiente de la valoración que pueda realizar la Fiscalía.",
+        "category": "POLITICA",
+        "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
+        "seo_title": "El PSOE de Calp lleva a Fiscalía publicaciones sobre migrantes",
+        "meta_description": "El PSOE de Calp comunica a la Fiscalía publicaciones sobre personas migrantes y episodios de acoso a cargos públicos. No consta que haya diligencias abiertas.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_f96c9f4b8e2b0f49",
+        "editorial_notes": [
+          "Atribuir al PSOE y a las informaciones periodísticas la expresión «campaña de odio».",
+          "No afirmar que existe un delito de odio ni que la Fiscalía haya abierto diligencias.",
+          "No incluir cifras de alcance de las publicaciones: no han sido verificadas de forma independiente.",
+          "La presentación ante la Fiscalía está respaldada por medios locales, pero no consta acuse de recibo ni documento oficial publicado."
+        ],
+        "sources": [
+          {
+            "name": "LaMarinaAlta.com",
+            "url": "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — información y composición del Pleno",
+            "url": "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
+          "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+          "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La existencia de la presentación ante Fiscalía está respaldada por dos medios locales, pero no se ha localizado un acuse de recibo, escrito de denuncia o comunicado oficial de la Fiscalía.",
+            "La expresión «campaña de odio» describe la valoración del PSOE y de las informaciones periodísticas; no debe presentarse como una conclusión judicial o fiscal.",
+            "No consta en las fuentes consultadas que la Fiscalía haya abierto diligencias ni que haya identificado a los responsables de las publicaciones.",
+            "Las métricas de alcance de las publicaciones —más de 151.500 reproducciones— proceden del dossier aportado por los denunciantes y no han sido verificadas independientemente."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_f96c9f4b8e2b0f49",
+          "quality_gate_evaluated_at": "2026-10-18T05:57:10.622Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "created_at": "2026-10-18T05:56:59.592Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_057aedb0b47dedaa",
+        "title": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
+        "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
+        "summary": "El Grupo Municipal Socialista de Calp ha comunicado que trasladó a la Fiscalía Provincial de Alicante documentación sobre publicaciones difundidas en redes sociales contra personas migrantes acogidas en el municipio. La iniciativa también incluye la petición de examinar episodios de acoso o grabaciones de cargos públicos en la vía pública.",
+        "body": "El Grupo Municipal Socialista de Calp ha trasladado a la Fiscalía Provincial de Alicante documentación sobre una serie de publicaciones difundidas en redes sociales. Según la información facilitada por el grupo y recogida por medios locales, los mensajes se referían a personas migrantes acogidas en el municipio e incluían señalamientos públicos por rasgos étnicos.\n\nLos concejales socialistas solicitaron que se analizara el contenido de las publicaciones, su difusión y la identidad de las personas responsables de las cuentas implicadas. La documentación fue comunicada a la Fiscalía en su ámbito especializado en delitos de odio y discriminación, según las informaciones consultadas.\n\nLa actuación también se relaciona con episodios de acoso o con la realización de grabaciones a cargos públicos y funcionarios en la vía pública. El grupo municipal pidió que se examinara el posible alcance de estos hechos junto con el contenido de los mensajes difundidos en redes sociales.\n\nLa presentación ante la Fiscalía está respaldada por dos publicaciones de medios locales. Sin embargo, no consta en las fuentes consultadas la existencia de un acuse de recibo, de un escrito de denuncia publicado o de un comunicado oficial de la Fiscalía. Tampoco consta que el ministerio público haya abierto diligencias, identificado a los responsables o establecido una calificación jurídica de las publicaciones.\n\nPor tanto, la expresión «campaña de odio» debe entenderse como la valoración realizada por el PSOE y por las informaciones periodísticas sobre los hechos comunicados, no como una conclusión judicial o fiscal. La documentación queda pendiente de la valoración que pueda realizar la Fiscalía.",
+        "category": "POLITICA",
+        "seo_title": "El PSOE de Calp lleva a Fiscalía publicaciones sobre migrantes",
+        "meta_description": "El PSOE de Calp comunica a la Fiscalía publicaciones sobre personas migrantes y episodios de acoso a cargos públicos. No consta que haya diligencias abiertas.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_f96c9f4b8e2b0f49",
+        "published_at": null,
+        "source_urls": [
+          "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
+          "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+          "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno"
+        ],
+        "sources": [
+          {
+            "name": "LaMarinaAlta.com",
+            "url": "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "La Marina Plaza / elDiario.es",
+            "url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — información y composición del Pleno",
+            "url": "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_77b93a94747fade1",
+        "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La existencia de la presentación ante Fiscalía está respaldada por dos medios locales, pero no se ha localizado un acuse de recibo, escrito de denuncia o comunicado oficial de la Fiscalía.",
+            "La expresión «campaña de odio» describe la valoración del PSOE y de las informaciones periodísticas; no debe presentarse como una conclusión judicial o fiscal.",
+            "No consta en las fuentes consultadas que la Fiscalía haya abierto diligencias ni que haya identificado a los responsables de las publicaciones.",
+            "Las métricas de alcance de las publicaciones —más de 151.500 reproducciones— proceden del dossier aportado por los denunciantes y no han sido verificadas independientemente."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_f96c9f4b8e2b0f49",
+          "quality_gate_evaluated_at": "2026-10-18T05:57:10.622Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
+  "quarantined": [
+    {
+      "export_id": "exp_d3add75c11de9262",
+      "draft_id": "drf_ec6d6094aece0b26",
+      "investigation_id": "inv_6280740dcb3f3575",
+      "slug": "audiencia-alicante-condena-caso-aguas-calp",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
+    }
+  ]
 }
