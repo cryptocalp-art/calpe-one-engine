@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-18T18:08:27.334Z",
+  "generated_at": "2026-10-18T20:47:09.932Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-18T18:08:27.141Z",
+  "last_activity": "2026-10-18T20:47:09.734Z",
   "newspaper": {
     "archive_total": 99,
     "published_today": 2,
-    "published_last_7_days": 22,
+    "published_last_7_days": 21,
     "categories": {
       "LOCAL": 13,
       "POLITICA": 9,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 4,
     "investigated": 0,
     "drafts": 1,
-    "eligible": 0,
-    "quarantined": 1,
+    "eligible": 1,
+    "quarantined": 0,
     "archive_added": 0
   },
   "delivery": {
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_cdb84b2a670cd7e2",
-      "slug": "calp-registra-convocatoria-proyectos-interes-social-2026",
-      "category": "SOCIEDAD",
-      "reasons": [
-        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
-      ],
-      "evaluated_at": "2026-10-18T18:08:17.190Z"
-    }
-  ]
+  "quarantine": []
 }
