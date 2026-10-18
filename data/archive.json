@@ -3,9 +3,66 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-18T05:57:10.953Z",
-  "count": 98,
+  "updated_at": "2026-10-18T11:09:43.675Z",
+  "count": 99,
   "articles": [
+    {
+      "archive_id": "arc_d77130a164b47e0e",
+      "external_id": "drf_a67bfc8f3c38ba66",
+      "investigation_id": "inv_b55d30ca24ba3fd8",
+      "candidate_fingerprints": [
+        "7df108764f54a4e83a04e301b82fb0bcefbf2789658db1c9538204a3cdaf1e31",
+        "9d58b75514461b5031224e4ad093f9f0dfc2dceea04fe4013b0b5a0ef8445ac5"
+      ],
+      "title": "Calp cierra las instalaciones deportivas municipales por la alerta roja",
+      "slug": "calp-cierra-instalaciones-deportivas-alerta-roja",
+      "summary": "El Ayuntamiento de Calp ha cerrado todas las instalaciones deportivas municipales durante el episodio de lluvias asociado al aviso rojo de AEMET. La medida incluye la piscina municipal y está vigente desde las 10:00 del domingo 18 de octubre hasta las 9:59 del lunes 19.",
+      "body": "El Ayuntamiento de Calp ha dispuesto el cierre temporal de todas sus instalaciones deportivas municipales ante la situación meteorológica adversa prevista para este domingo. La medida afecta también a la piscina municipal y se aplica desde las 10:00 horas del 18 de octubre de 2026 hasta las 9:59 horas del lunes 19 de octubre.\n\nEl aviso fue publicado el sábado 17 de octubre por Esports Calp, el canal oficial de la Concejalía de Deportes. Según esa comunicación, la decisión responde a la alerta roja meteorológica por lluvias torrenciales.\n\nAEMET había señalado que el domingo 18 y el lunes 19 serían las jornadas más adversas del episodio en el litoral y prelitoral mediterráneo. Su aviso especial contemplaba chubascos muy fuertes o torrenciales y acumulaciones potenciales de hasta 200 milímetros en 12 horas en el entorno del cabo de La Nao.\n\nEl aviso municipal citado en la comunicación deportiva mencionaba, por su parte, la posibilidad de acumulados de hasta 300 milímetros en 24 horas. Esta cifra forma parte de la previsión incluida en el anuncio de Esports Calp, mientras que el aviso especial de AEMET localizado expresa principalmente el riesgo de hasta 200 milímetros en 12 horas para el entorno del cabo de La Nao.\n\nLa información disponible confirma específicamente el cierre de las instalaciones deportivas de Calp a través del canal oficial de Esports Calp. No se ha localizado una segunda fuente independiente que confirme de forma específica esta clausura. La medida queda, por tanto, vinculada a la comunicación municipal y al episodio meteorológico adverso advertido por AEMET.",
+      "category": "LOCAL",
+      "seo_title": "Calp cierra sus instalaciones deportivas por alerta roja",
+      "meta_description": "Calp cierra todas las instalaciones deportivas, incluida la piscina, desde el domingo 18 a las 10:00 hasta el lunes 19 a las 9:59.",
+      "sources": [
+        {
+          "name": "Esports Calp / Ayuntamiento de Calp",
+          "url": "https://social.resasports.com/es/centro/esports-calp/noticias/35396",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Agencia Estatal de Meteorología (AEMET)",
+          "url": "https://www.aemet.es/va/eltiempo/prediccion/destacados/p5_t?embed=true&tipo=p52tesp1",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://social.resasports.com/es/centro/esports-calp/noticias/35396",
+        "https://www.aemet.es/va/eltiempo/prediccion/destacados/p5_t?embed=true&tipo=p52tesp1",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia",
+        "https://www.aemet.es/es/eltiempo/prediccion/maritima?area=val1&opc1=0&opc2=marvto&opc3=1"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 2,
+        "caveats": [
+          "La fuente que confirma el cierre es el canal oficial de Esports Calp alojado en Resasports; no se ha encontrado una publicación independiente que confirme específicamente la clausura de las instalaciones de Calp.",
+          "La cifra de 300 mm en 24 horas procede del aviso municipal/deportivo; el aviso especial de AEMET localizado expresa principalmente previsiones de hasta 200 mm en 12 horas para el entorno del cabo de La Nao."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_002730697f050993",
+        "quality_gate_evaluated_at": "2026-10-18T11:09:43.373Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La confirmación específica del cierre procede del canal oficial de Esports Calp; no consta una segunda fuente independiente.",
+        "Diferenciar las previsiones: el aviso municipal menciona hasta 300 mm en 24 horas, mientras que AEMET recoge hasta 200 mm en 12 horas en el entorno del cabo de La Nao."
+      ],
+      "published_at": "2026-10-18T11:09:31.068Z",
+      "updated_at": "2026-10-18T11:09:43.675Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_822454da51121b36",
       "external_id": "drf_057aedb0b47dedaa",

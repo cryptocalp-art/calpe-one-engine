@@ -1,129 +1,121 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-18T05:56:28.788Z",
+  "generated_at": "2026-10-18T11:09:04.279Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "2dfa1ff3fd5b9b836d729cde5ccca0a129b0758cfa0cac3a7f7c69d0b42656fa",
-      "title": "La sentencia del caso Aguas de Calp obliga a indemnizar al Ayuntamiento con 430.000 euros",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La Sección Segunda de la Audiencia Provincial de Alicante condenó el 15 de octubre de 2026 a cinco personas por delitos de prevaricación administrativa y fraude en la contratación de las obras de renovación de la red de agua de Calp. La sentencia establece una indemnización conjunta y solidaria al Ayuntamiento de aproximadamente 430.000 euros. La cifra aparece redondeada en el candidato; una de las informaciones consultadas recoge una cuantía exacta de 430.052 euros, mientras otra reproduce 440.052 euros, por lo que conviene consultar el fallo íntegro antes de publicar una cantidad exacta.",
-      "claims": [
-        {
-          "claim": "La Audiencia Provincial de Alicante dictó una sentencia sobre el caso Aguas de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La sentencia condena a cinco personas por delitos relacionados con la adjudicación de las obras de renovación de la red de agua.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con una cantidad aproximada de 430.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La indemnización se relaciona con sobrecostes o perjuicios económicos derivados de las obras.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La cuantía exacta es 430.000 euros.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-audiencia-alicante-impone-once-meses-carcel-exconcejal-pp-cunado-caso-aguas-calp-20261015180956.html",
-          "evidence": "Informa de que la Sección Segunda de la Audiencia Provincial de Alicante condenó a cinco personas por prevaricación administrativa y fraude, y de que los condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros. También indica que la sentencia puede recurrirse en casación.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Vanguardia",
-          "source_url": "https://www.lavanguardia.com/local/valencia/20261015/11659878/audiencia-alicante-condena-exdiputado-pp-caso-aguas-calp.html",
-          "evidence": "Confirma la condena dictada por la Audiencia de Alicante y señala que los cinco condenados deben indemnizar conjuntamente al Ayuntamiento con 430.000 euros, equivalentes al 40% de las pérdidas atribuidas a Aguas de Calpe.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — dosier de prensa",
-          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-16-de-octubre-1",
-          "evidence": "El dosier municipal recoge la información publicada sobre la sentencia de Aguas de Calp y la obligación de indemnizar al Ayuntamiento por aproximadamente 430.000 euros.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La información consultada no aporta el texto íntegro de la sentencia ni una resolución oficial directamente enlazada por el órgano judicial.",
-        "Hay discrepancias menores en las fuentes sobre la cuantía exacta: se mencionan 430.000 euros, 430.052 euros y 440.052 euros. El titular debe mantener la cifra redondeada salvo consulta del fallo original.",
-        "La sentencia no es firme y puede ser recurrida en casación ante el Tribunal Supremo."
-      ],
-      "id": "inv_6280740dcb3f3575",
-      "investigated_at": "2026-10-18T05:56:28.788Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "ecf160206ed94a6e9c01196ec5755590c99eef595a36ac7d56cd49a5f8c975a6",
-      "title": "El PSOE de Calp denuncia ante la Fiscalía una campaña de odio contra personas migrantes y cargos públicos",
+      "candidate_fingerprint": "7df108764f54a4e83a04e301b82fb0bcefbf2789658db1c9538204a3cdaf1e31",
+      "title": "Calp cierra todas las instalaciones deportivas municipales este domingo por la alerta roja",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "El Grupo Municipal Socialista de Calp comunicó que trasladó a la Fiscalía Provincial de Alicante documentación sobre publicaciones difundidas en redes sociales contra personas migrantes acogidas en el municipio y solicitó que se investigaran los mensajes, su difusión, el señalamiento por rasgos étnicos y la identidad de los responsables. La actuación fue corroborada por otra publicación local. No consta, en las fuentes consultadas, que la Fiscalía haya abierto formalmente diligencias ni que exista una calificación judicial de los contenidos como delito de odio.",
+      "summary": "El aviso publicado por Esports Calp, canal oficial de la Concejalía de Deportes, confirma el cierre de todas las instalaciones deportivas municipales de Calp, incluida la piscina, entre las 10:00 del domingo 18 de octubre y las 9:59 del lunes 19 de octubre de 2026. AEMET corroboró la existencia de un episodio meteorológico adverso en el área mediterránea, con especial impacto previsto en el entorno del cabo de La Nao y acumulaciones potenciales de hasta 200 mm en 12 horas. No se ha localizado una segunda fuente independiente que confirme específicamente el cierre de las instalaciones de Calp.",
       "claims": [
         {
-          "claim": "El Grupo Municipal Socialista de Calp trasladó a la Fiscalía Provincial de Alicante documentación sobre publicaciones difundidas en redes sociales.",
+          "claim": "El Ayuntamiento de Calp cerró todas las instalaciones deportivas municipales el domingo 18 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La documentación se refiere a mensajes contra personas migrantes acogidas en Calp y al señalamiento público por rasgos étnicos.",
+          "claim": "El cierre incluyó la piscina municipal.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El PSOE solicitó investigar el contenido, la difusión y la identidad de los responsables de las cuentas implicadas.",
+          "claim": "El cierre estuvo vigente desde las 10:00 del domingo 18 hasta las 9:59 del lunes 19 de octubre.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La denuncia también se relaciona con episodios de acoso o grabaciones de cargos públicos en la vía pública.",
+          "claim": "La medida se adoptó debido a un aviso rojo de AEMET por lluvias torrenciales.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Existe objetivamente una campaña de odio constitutiva de delito.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La Fiscalía ha abierto una investigación formal sobre los hechos.",
-          "status": "UNVERIFIED"
+          "claim": "El episodio meteorológico podía dejar acumulados de hasta 300 mm en 24 horas.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://ca.lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
-          "evidence": "Publica el 16 de octubre de 2026 que el Grupo Municipal Socialista de Calp puso en conocimiento de la Fiscalía Provincial de Alicante una serie de publicaciones contra personas migrantes acogidas en el municipio. Detalla que los concejales pidieron investigar los mensajes, su difusión, el señalamiento por rasgos étnicos y la identidad de los responsables, y que la documentación quedó pendiente de valoración por la Fiscalía.",
-          "source_type": "SECONDARY"
+          "source_name": "Esports Calp / Ayuntamiento de Calp",
+          "source_url": "https://social.resasports.com/es/centro/esports-calp/noticias/35396",
+          "evidence": "Aviso publicado el 17 de octubre de 2026 a las 13:52. Informa del cierre de todas las instalaciones deportivas municipales de Calp, incluida la piscina municipal, desde las 10:00 del domingo 18 hasta las 9:59 del lunes 19, atribuyéndolo a la alerta roja meteorológica y mencionando acumulados de hasta 300 mm en 24 horas.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio/",
-          "evidence": "Corrobora que los concejales del Grupo Municipal Socialista de Calp comunicaron a la Fiscalía Provincial de Alicante, en su sección especializada en delitos de odio y discriminación, publicaciones difundidas en redes sociales sobre personas migrantes acogidas. También recoge que solicitaron examinar el posible alcance penal de los mensajes y que cargos públicos y funcionarios denunciaban episodios de acoso.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — información y composición del Pleno",
-          "source_url": "https://www.calp.es/es/portal-de-transparencia/institucional/informacion-y-composicion-del-pleno",
-          "evidence": "La página institucional del Ayuntamiento confirma la existencia del Grupo Municipal PSOE y sus integrantes en el mandato municipal 2023-2027.",
+          "source_name": "Agencia Estatal de Meteorología (AEMET)",
+          "source_url": "https://www.aemet.es/va/eltiempo/prediccion/destacados/p5_t?embed=true&tipo=p52tesp1",
+          "evidence": "Aviso especial elaborado el 17 de octubre de 2026. AEMET prevé que el domingo 18 y el lunes 19 sean los días más adversos del episodio, con chubascos muy fuertes o torrenciales en zonas litorales mediterráneas y hasta 200 mm en 12 horas en el entorno del cabo de La Nao.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La existencia de la presentación ante Fiscalía está respaldada por dos medios locales, pero no se ha localizado un acuse de recibo, escrito de denuncia o comunicado oficial de la Fiscalía.",
-        "La expresión «campaña de odio» describe la valoración del PSOE y de las informaciones periodísticas; no debe presentarse como una conclusión judicial o fiscal.",
-        "No consta en las fuentes consultadas que la Fiscalía haya abierto diligencias ni que haya identificado a los responsables de las publicaciones.",
-        "Las métricas de alcance de las publicaciones —más de 151.500 reproducciones— proceden del dossier aportado por los denunciantes y no han sido verificadas independientemente."
+        "La fuente que confirma el cierre es el canal oficial de Esports Calp alojado en Resasports; no se ha encontrado una publicación independiente que confirme específicamente la clausura de las instalaciones de Calp.",
+        "La cifra de 300 mm en 24 horas procede del aviso municipal/deportivo; el aviso especial de AEMET localizado expresa principalmente previsiones de hasta 200 mm en 12 horas para el entorno del cabo de La Nao."
       ],
-      "id": "inv_77b93a94747fade1",
-      "investigated_at": "2026-10-18T05:56:28.788Z",
+      "id": "inv_b55d30ca24ba3fd8",
+      "investigated_at": "2026-10-18T11:09:04.279Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "9d58b75514461b5031224e4ad093f9f0dfc2dceea04fe4013b0b5a0ef8445ac5",
+      "title": "La alerta roja deja cerca de 100 litros en la Marina Alta y obliga a cortar calles y suspender actividades",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "Cadena SER documenta un episodio de lluvias intensas en la Marina Alta durante el domingo 18 de octubre de 2026, con registros de 99 litros por metro cuadrado en Xàbia, 82,4 en Gata de Gorgos y 65,8 en Dénia hasta las 9:00. También detalla cortes de vías y suspensión de actividades en Dénia, además de medidas preventivas en Xàbia y Teulada-Moraira. Para Calp, la pieza confirma que las autoridades municipales habían advertido del riesgo por lluvias, tormentas y viento, pero no atribuye a Calp los cortes viarios ni todas las suspensiones descritas en el titular general.",
+      "claims": [
+        {
+          "claim": "La Marina Alta registró acumulaciones próximas a 100 litros por metro cuadrado durante el episodio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "AEMET activó el aviso rojo por precipitaciones en la zona el domingo 18 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La lluvia obligó a cortar calles y accesos en municipios de la Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se suspendieron actividades municipales y deportivas en algunos municipios de la comarca.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Calp figuró entre los municipios advertidos por riesgo de lluvias, tormentas y viento.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los cortes de calles y suspensiones mencionados en el titular se produjeron específicamente en Calp.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
+          "evidence": "Artículo publicado el 18 de octubre de 2026. Señala que AEMET activó a las 10:00 el aviso rojo, recoge 99 litros por metro cuadrado en Xàbia, 82,4 en Gata de Gorgos y 65,8 en Dénia hasta las 9:00, y describe cortes de seis vías y suspensión de actividades en Dénia. También indica que en Calp las autoridades municipales advirtieron del riesgo asociado a lluvias, tormentas y viento.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Agencia Estatal de Meteorología (AEMET)",
+          "source_url": "https://www.aemet.es/va/eltiempo/prediccion/destacados/p5_t?embed=true&tipo=p52tesp1",
+          "evidence": "Aviso especial del 17 de octubre de 2026 que prevé un episodio de chubascos y tormentas muy fuertes y persistentes hasta el lunes 19, con especial incidencia en el litoral y prelitoral mediterráneo y acumulaciones potenciales de hasta 200 mm en 12 horas en el entorno del cabo de La Nao.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "AEMET, predicción marítima Costa de Valencia y Murcia",
+          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/maritima?area=val1&opc1=0&opc2=marvto&opc3=1",
+          "evidence": "Predicción válida hasta el domingo 18 de octubre de 2026 que advierte de aguaceros muy fuertes acompañados de tormenta y condiciones de aviso en las costas de Alicante, Valencia y Castellón.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "El titular agrupa hechos de varios municipios; la información localizada no demuestra que los cortes de calles y todas las suspensiones se produjeran en Calp.",
+        "Los datos de lluvia citados proceden de Cadena SER y no se ha localizado en esta búsqueda un parte oficial independiente que reproduzca exactamente esos tres registros.",
+        "La referencia a Calp queda limitada a una advertencia municipal sobre el riesgo meteorológico; no se detalla en la fuente una medida concreta adoptada por Calp."
+      ],
+      "id": "inv_d8dc39352e592965",
+      "investigated_at": "2026-10-18T11:09:04.279Z",
       "model": "gpt-5.6-luna"
     }
   ]

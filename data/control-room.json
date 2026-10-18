@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-18T05:57:22.706Z",
+  "generated_at": "2026-10-18T11:09:55.743Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-18T05:57:22.509Z",
+  "last_activity": "2026-10-18T11:09:55.575Z",
   "newspaper": {
-    "archive_total": 98,
-    "published_today": 1,
-    "published_last_7_days": 21,
+    "archive_total": 99,
+    "published_today": 2,
+    "published_last_7_days": 22,
     "categories": {
+      "LOCAL": 13,
       "POLITICA": 9,
       "ECONOMIA": 15,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
       "SUCESOS": 13,
-      "LOCAL": 12,
       "DEPORTES": 4,
       "CULTURA": 6,
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_d77130a164b47e0e",
+        "title": "Calp cierra las instalaciones deportivas municipales por la alerta roja",
+        "category": "LOCAL",
+        "slug": "calp-cierra-instalaciones-deportivas-alerta-roja",
+        "published_at": "2026-10-18T11:09:31.068Z"
+      },
       {
         "archive_id": "arc_822454da51121b36",
         "title": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
@@ -69,22 +76,15 @@
         "category": "ECONOMIA",
         "slug": "calp-paro-registrado-septiembre-2026",
         "published_at": "2026-10-16T17:26:53.799Z"
-      },
-      {
-        "archive_id": "arc_f1b5e21761013a26",
-        "title": "El Consorci Mare destina 2,25 millones a mejorar la gestión de residuos en Calp y la comarca",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "consorci-mare-inversion-residuos-calp-comarca",
-        "published_at": "2026-10-16T07:13:05.977Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 8,
     "investigated": 0,
     "drafts": 2,
-    "eligible": 1,
-    "quarantined": 1,
+    "eligible": 2,
+    "quarantined": 0,
     "archive_added": 1
   },
   "delivery": {
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_ec6d6094aece0b26",
-      "slug": "audiencia-alicante-condena-caso-aguas-calp",
-      "category": "POLITICA",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-18T05:57:10.622Z"
-    }
-  ]
+  "quarantine": []
 }
