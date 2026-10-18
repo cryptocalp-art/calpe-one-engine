@@ -1,47 +1,59 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-10-17T22:20:30.978Z",
+  "generated_at": "2026-10-18T01:04:04.426Z",
   "model": "gpt-5.6-luna",
   "archive_count": 97,
-  "duplicates_filtered": 2,
-  "count": 3,
+  "duplicates_filtered": 3,
+  "count": 4,
   "candidates": [
     {
-      "title": "El PSOE de Calp traslada a la Fiscalía una denuncia por una supuesta campaña de odio contra migrantes",
-      "summary": "El Grupo Municipal Socialista ha comunicado a la Fiscalía Provincial de Alicante publicaciones difundidas en redes sociales contra personas migrantes acogidas en Calp y episodios de presunto acoso a cargos públicos. La Fiscalía deberá valorar si procede abrir diligencias.",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/el-grupo-municipal-socialista-de-calp-denuncia-ante-la-fiscalia-una-campana-de-odio-contra-migrantes-y-acoso-a-cargos-publicos",
-      "published_at": "2026-10-16T17:40:00+02:00",
-      "category": "POLITICA",
-      "relevance": 82,
-      "reason": "La denuncia afecta a la convivencia, la seguridad y el debate político local, con posible recorrido judicial en Calp.",
-      "detected_at": "2026-10-17T22:20:30.978Z",
-      "fingerprint": "a96066b6927c0996a81955a69705e5829cde7b55846cbfa0f2ad9a421e39940d"
+      "title": "Los ediles socialistas de Calp llevan a la Fiscalía una campaña de publicaciones contra personas migrantes acogidas",
+      "summary": "El Grupo Municipal Socialista de Calp ha puesto en conocimiento de la Fiscalía Provincial de Alicante una serie de publicaciones difundidas en redes que, según denuncia, generalizan delitos, cuestionan la situación de personas migrantes acogidas y señalan públicamente a cargos y particulares. La iniciativa solicita investigar el alcance y la posible relevancia penal de los mensajes.",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/10/16/los-ediles-socialistas-de-calp-llevan-a-la-fiscalia-una-campana-de-publicaciones-ultraderechistas-contra-personas-migrantes-acogidas-en-el-municipio",
+      "published_at": "2026-10-16",
+      "category": "SOCIEDAD",
+      "relevance": 86,
+      "reason": "Afecta directamente a la convivencia, la política municipal y la seguridad social en Calp; además, implica a concejales y funcionarios del Ayuntamiento y puede generar actuaciones de la Fiscalía.",
+      "detected_at": "2026-10-18T01:04:04.426Z",
+      "fingerprint": "f5494f2a8c22a0efdaa19934be45334756828ba3bd5312be3c7b1ba5988b7818"
     },
     {
-      "title": "Calp acogerá el X Encuentro de Comunicación Innovadora para empresas y emprendedores",
-      "summary": "Creama Calp y el Ayuntamiento organizarán el 13 de noviembre una jornada gratuita sobre estrategia de comunicación, diferenciación empresarial e innovación, con Marga Cabrera y Josep Caballero como ponentes. Será necesaria inscripción previa.",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/calp-acogera-el-x-encuentro-de-comunicacion-innovadora-con-marga-cabrera-y-josep-caballero",
-      "published_at": "2026-10-16T00:00:00+02:00",
+      "title": "Más de 400 personas se inscriben en los talleres del Centro Cívico de Calp",
+      "summary": "La programación municipal de septiembre a diciembre reúne a 413 personas inscritas y 1.065 matrículas en una veintena de talleres de cultura, idiomas, memoria, bienestar, informática, música y actividades sociales. La mayoría de participantes son mujeres y personas nacidas en las décadas de 1950 y 1960.",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/m%C3%A1s-de-400-personas-se-inscriben-en-los-talleres-del-centro-c%C3%ADvico-del-ayuntamiento-de-calp",
+      "published_at": "2026-10-14T13:00:00+02:00",
+      "category": "SOCIEDAD",
+      "relevance": 75,
+      "reason": "Refleja el alcance de los servicios municipales de envejecimiento activo, bienestar, formación y participación social, con una elevada demanda ciudadana.",
+      "detected_at": "2026-10-18T01:04:04.426Z",
+      "fingerprint": "7b0ecbddabe1b14d773f5aa7de7e4dac1cdca2efb101372d2629dc2bb3d47d15"
+    },
+    {
+      "title": "Calp recupera las retransmisiones gratuitas de ópera y ballet desde el Covent Garden",
+      "summary": "La Concejalía de Cultura repetirá el ciclo de retransmisiones en directo desde la Royal Opera House de Londres. La temporada comenzará el 27 de octubre con Manon e incluirá nueve obras, cinco de ballet y cuatro de ópera, hasta mayo de 2027.",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-ofrecer%C3%A1-de-nuevo-de-forma-gratuita-la-temporada-del-ballet-%C3%B3pera-de",
+      "published_at": "2026-10-15T13:00:00+02:00",
+      "category": "CULTURA",
+      "relevance": 72,
+      "reason": "Es una programación cultural municipal gratuita y de continuidad que amplía la oferta de la Casa de Cultura y puede atraer público de Calp y de la Marina Alta.",
+      "detected_at": "2026-10-18T01:04:04.426Z",
+      "fingerprint": "6db7bb2c983a3af51aa7720b8ca2c135f2a7566855c86a8360b44c9e1b649eaa"
+    },
+    {
+      "title": "Calp celebrará el X Encuentro de Comunicación Innovadora para empresas y emprendedores",
+      "summary": "Creama Calp y el Ayuntamiento organizarán el 13 de noviembre la décima edición del encuentro, con Marga Cabrera y Josep Caballero como ponentes. La jornada abordará la estrategia de comunicación, la diferenciación empresarial y la adaptación de negocios a nuevos retos.",
+      "source_name": "CREAMA",
+      "source_url": "https://creama.org/eventos/x-encuentro-comunicacion-innovadora",
+      "published_at": "2026-10-16",
       "category": "ECONOMIA",
-      "relevance": 68,
-      "reason": "Es una actividad municipal dirigida al tejido empresarial de Calp y puede aportar formación útil para pymes, autónomos y proyectos emprendedores.",
-      "detected_at": "2026-10-17T22:20:30.978Z",
-      "fingerprint": "9dbecd4d466ba6ec622135ff6d0d91a0fa92d1615d6cfe014aac6beaec8cee32"
-    },
-    {
-      "title": "El Club Les Marines de Calp clasifica a sus cinco conjuntos para la fase autonómica",
-      "summary": "El club calpino logró cuatro podios en la fase provincial del Nacional Base de Conjuntos y consiguió que sus cinco equipos obtuvieran el pase directo a la competición autonómica.",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/el-club-les-marines-de-calp-clasifica-a-cinco-conjuntos-de-gimnastas-para-el-autonomico",
-      "published_at": "2026-10-06T11:34:00+02:00",
-      "category": "DEPORTES",
-      "relevance": 64,
-      "reason": "Es un resultado deportivo destacado de una entidad local y refuerza la visibilidad de Calp en la gimnasia rítmica provincial y autonómica.",
-      "detected_at": "2026-10-17T22:20:30.978Z",
-      "fingerprint": "3f1c64bff9af651fb31db20a82e9a8c14df3d11d4673f308d7df1bfe35763ca3"
+      "relevance": 78,
+      "reason": "La actividad está orientada a empresas, autónomos y emprendedores de Calp y contribuye a la competitividad, la digitalización y la promoción del tejido económico local.",
+      "detected_at": "2026-10-18T01:04:04.426Z",
+      "fingerprint": "37deb4090f066af521520562d67fa53c2deb643fd984cbaafa41527fb0acf65e"
     }
   ]
 }
