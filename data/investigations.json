@@ -1,62 +1,8 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-18T20:46:35.134Z",
+  "generated_at": "2026-10-18T23:15:21.106Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
-  "investigations": [
-    {
-      "candidate_fingerprint": "bd2f214f77a606bc1031491365912557284f9c203ca70e27a4f5c18a0cc45907",
-      "title": "Calp suspende las clases del lunes y mantiene cerrados hasta las 10:00 algunos servicios municipales por la alerta roja",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información queda verificada. El Ayuntamiento de Calp publicó el 18 de octubre de 2026 que el lunes 19 se suspendían las clases en todos los colegios e institutos del municipio y que las instalaciones deportivas y el Centro Cívico permanecerían cerrados hasta las 10:00. La suspensión educativa fue corroborada independientemente por Cadena SER, que incluyó a Calp entre los municipios de la Marina Alta que cancelaron las clases ante la alerta roja por lluvias. AEMET confirmó la previsión de un episodio de lluvias y tormentas muy fuertes y persistentes en el área mediterránea, con especial incidencia en Alicante, durante el 18 y el 19 de octubre.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp suspendió las clases del lunes 19 de octubre de 2026 en todos los colegios e institutos del municipio.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las instalaciones deportivas municipales y el Centro Cívico de Calp permanecerían cerrados hasta las 10:00 del lunes 19 de octubre.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La medida se adoptó ante un aviso rojo por fuertes lluvias y tormentas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La suspensión de las clases en Calp fue corroborada por una fuente independiente del Ayuntamiento.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica — Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales",
-          "evidence": "La comunicación municipal fechada el 18 de octubre de 2026 indica que, ante el aviso rojo por fuertes lluvias y tormentas, el lunes 19 de octubre se suspenden las clases en todos los colegios e institutos de Calp. También especifica que las instalaciones deportivas y el Centro Cívico permanecerán cerrados hasta las 10:00.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER — Radio Dénia / Comunitat Valenciana",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
-          "evidence": "La información publicada el 18 de octubre de 2026 incluye a Calp entre los municipios de la Marina Alta que anunciaron la suspensión de las clases del lunes 19 de octubre debido a la continuidad de la alerta roja por lluvias.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "AEMET — Aviso especial de fenómenos adversos número 36/2026",
-          "source_url": "https://www.aemet.es/va/eltiempo/prediccion/destacados/p5_t?embed=true&tipo=p52tesp1",
-          "evidence": "AEMET informó el 17 de octubre de 2026 de un episodio de chubascos y tormentas muy fuertes y persistentes, con los días 18 y 19 como los más adversos, y señaló que en las áreas litorales y prelitorales de Alicante podían alcanzarse acumulaciones de 80 a 100 milímetros en 12 horas.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración independiente localizada confirma expresamente la suspensión de las clases en Calp, pero no detalla por separado el cierre del Centro Cívico ni el horario de las instalaciones deportivas; esos extremos están respaldados por la comunicación primaria del Ayuntamiento.",
-        "La noticia se refiere a una decisión preventiva anunciada el 18 de octubre para el lunes 19 de octubre de 2026; la verificación no acredita por sí sola si las medidas fueron posteriormente ampliadas, prorrogadas o levantadas."
-      ],
-      "id": "inv_b3f78234328da116",
-      "investigated_at": "2026-10-18T20:46:35.134Z",
-      "model": "gpt-5.6-luna"
-    }
-  ]
+  "count": 0,
+  "investigations": []
 }

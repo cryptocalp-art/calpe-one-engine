@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-18T20:46:59.601Z",
+  "generated_at": "2026-10-18T23:15:21.530Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_95e8984ac19b48f1",
-      "draft_id": "drf_ea1df43558c6b4e8",
-      "investigation_id": "inv_b3f78234328da116",
-      "candidate_fingerprint": "bd2f214f77a606bc1031491365912557284f9c203ca70e27a4f5c18a0cc45907",
-      "slug": "calp-suspende-clases-lunes-alerta-roja-lluvias",
-      "category": "LOCAL",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 4,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
-        "institutional_or_political": true,
-        "material_caveat": true,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 223
-      },
-      "evaluated_at": "2026-10-18T20:46:59.601Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
