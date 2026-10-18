@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-18T14:36:55.973Z",
+  "generated_at": "2026-10-18T18:08:17.190Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,8 +21,52 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 0,
+  "drafts_seen": 1,
   "eligible_count": 0,
-  "quarantined_count": 0,
-  "decisions": []
+  "quarantined_count": 1,
+  "decisions": [
+    {
+      "gate_id": "qg_888c932acbd9d08d",
+      "draft_id": "drf_cdb84b2a670cd7e2",
+      "investigation_id": "inv_f023e5a0a1d5e697",
+      "candidate_fingerprint": "02028b3cc2bbfd18bbfd6cd1a3721067f97e78359715f5b46e8ce783f1e64453",
+      "slug": "calp-registra-convocatoria-proyectos-interes-social-2026",
+      "category": "SOCIEDAD",
+      "status": "QUARANTINED",
+      "reasons": [
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
+      ],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 4,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 1,
+        "evidence_count": 2,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 0,
+        "distinct_evidence_urls": 2,
+        "distinct_evidence_hosts": 2,
+        "institutional_or_political": true,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 264
+      },
+      "evaluated_at": "2026-10-18T18:08:17.190Z",
+      "engine_version": "quality-gate-v1"
+    }
+  ]
 }

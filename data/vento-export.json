@@ -3,12 +3,26 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-18T14:36:56.078Z",
+  "generated_at": "2026-10-18T18:08:17.356Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
+  "drafts_seen": 1,
   "ready_count": 0,
-  "quarantined_count": 0,
+  "quarantined_count": 1,
   "ready": [],
-  "quarantined": []
+  "quarantined": [
+    {
+      "export_id": "exp_3455c6a56d64ed9d",
+      "draft_id": "drf_cdb84b2a670cd7e2",
+      "investigation_id": "inv_f023e5a0a1d5e697",
+      "slug": "calp-registra-convocatoria-proyectos-interes-social-2026",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
+      ]
+    }
+  ]
 }

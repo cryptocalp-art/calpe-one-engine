@@ -1,8 +1,54 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-18T14:36:55.861Z",
+  "generated_at": "2026-10-18T18:08:08.112Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_cdb84b2a670cd7e2",
+      "investigation_id": "inv_f023e5a0a1d5e697",
+      "candidate_fingerprint": "02028b3cc2bbfd18bbfd6cd1a3721067f97e78359715f5b46e8ce783f1e64453",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-18T18:08:08.112Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El Ayuntamiento de Calp registra una convocatoria de 38.187,54 euros para proyectos de interés social",
+      "subheadline": "La ficha oficial corresponde a la anualidad 2026 y señala que la convocatoria se tramitará en régimen de concurrencia competitiva",
+      "lead": "El Ayuntamiento de Calp ha registrado una convocatoria de subvenciones destinadas a proyectos de interés social para la anualidad 2026, con una dotación total de 38.187,54 euros, según la ficha publicada en la Base de Datos Nacional de Subvenciones y Ayudas Públicas (BDNS).",
+      "body_markdown": "El Ayuntamiento de Calp ha registrado una convocatoria de subvenciones destinadas a proyectos de interés social para la anualidad 2026, con un presupuesto total de 38.187,54 euros. La inscripción en la Base de Datos Nacional de Subvenciones y Ayudas Públicas (BDNS) se efectuó el 15 de octubre de 2026.\n\nLa ficha oficial identifica al Ayuntamiento como órgano convocante y señala que el procedimiento se tramitará en régimen de concurrencia competitiva. Este sistema implica que las solicitudes deberán valorarse dentro de un procedimiento comparativo, de acuerdo con las bases que correspondan, aunque la información consultada no incluye todavía detalles adicionales sobre los criterios de valoración o el plazo de presentación.\n\nLa convocatoria figura con el título oficial de «Convocatoria para la concesión de subvenciones destinadas a proyectos de interés social, anualidad 2026». La ficha también recoge como beneficiarias elegibles a personas jurídicas que no desarrollan actividad económica. No obstante, esta formulación no equivale necesariamente a identificar a las destinatarias como entidades sin ánimo de lucro, por lo que no se utiliza esa denominación.\n\nLa propia información de la BDNS advierte de que la convocatoria no será válida hasta la publicación de su extracto en el diario oficial. En la consulta realizada no aparecía todavía ningún extracto asociado. Por tanto, el registro acredita la existencia de la convocatoria y la dotación prevista, pero no permite afirmar que el plazo de solicitudes esté abierto ni que se hayan concedido ya las ayudas.\n\nEl portal municipal de Transparencia remite a la BDNS y a la sede electrónica del Ayuntamiento como fuentes oficiales de consulta sobre subvenciones y ayudas.",
+      "seo_title": "Calp registra 38.187 euros para proyectos de interés social",
+      "meta_description": "El Ayuntamiento de Calp registra una convocatoria de 38.187,54 euros para proyectos de interés social en 2026, pendiente del extracto oficial.",
+      "slug": "calp-registra-convocatoria-proyectos-interes-social-2026",
+      "editorial_notes": [
+        "La ficha de la BDNS indica que la convocatoria no es válida hasta que se publique su extracto en el diario oficial; no debe presentarse como abierta.",
+        "La información acredita el registro y la dotación prevista, pero no la concesión efectiva de ayudas ni la apertura del plazo de solicitudes.",
+        "No denominar a las beneficiarias como entidades sin ánimo de lucro: esa condición no figura literalmente en la ficha consultada."
+      ],
+      "sources": [
+        {
+          "source_name": "Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas (BDNS)",
+          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, Portal de Transparencia",
+          "source_url": "https://www.calp.es/es/portal-de-transparencia/ayudas-y-subvenciones/subvenciones-y-ayudas-concedidas",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 2,
+        "caveats": [
+          "La ficha de la BDNS indica que la convocatoria no será válida mientras no se publique su extracto en el diario oficial; en la consulta realizada no aparecía todavía ningún extracto asociado.",
+          "La expresión 'entidades sin ánimo de lucro' no figura literalmente en la ficha consultada; esta recoge como beneficiarias a personas jurídicas que no desarrollan actividad económica.",
+          "La evidencia acredita la convocatoria y su presupuesto, no la concesión efectiva de ayudas ni la apertura efectiva del plazo de solicitudes."
+        ]
+      }
+    }
+  ]
 }
