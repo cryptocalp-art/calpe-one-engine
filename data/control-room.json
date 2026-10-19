@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-19T01:22:20.154Z",
+  "generated_at": "2026-10-19T07:51:01.271Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-19T01:22:19.974Z",
+  "last_activity": "2026-10-19T07:51:01.105Z",
   "newspaper": {
-    "archive_total": 100,
-    "published_today": 1,
-    "published_last_7_days": 21,
+    "archive_total": 101,
+    "published_today": 2,
+    "published_last_7_days": 22,
     "categories": {
+      "LOCAL": 14,
       "ECONOMIA": 16,
-      "LOCAL": 13,
       "POLITICA": 9,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
@@ -21,6 +21,13 @@
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_75d7baff8e68f094",
+        "title": "El temporal deja registros próximos a 650 litros por metro cuadrado en la Marina Alta",
+        "category": "LOCAL",
+        "slug": "temporal-casi-650-litros-marina-alta-calp",
+        "published_at": "2026-10-19T07:50:35.536Z"
+      },
       {
         "archive_id": "arc_ed14de15ae558308",
         "title": "La restauración concentra la mayor afiliación de Calp con 1.768 personas al cierre de 2025",
@@ -69,22 +76,15 @@
         "category": "ECONOMIA",
         "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
         "published_at": "2026-10-16T21:12:32.848Z"
-      },
-      {
-        "archive_id": "arc_eb2186a347853adf",
-        "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
-        "category": "SUCESOS",
-        "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
-        "published_at": "2026-10-16T17:26:53.799Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 4,
+    "drafts": 3,
     "eligible": 3,
-    "quarantined": 1,
+    "quarantined": 0,
     "archive_added": 1
   },
   "delivery": {
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_95506b15ff4da9ef",
-      "slug": "calp-suspende-clases-aviso-rojo-lluvias",
-      "category": "LOCAL",
-      "reasons": [
-        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
-      ],
-      "evaluated_at": "2026-10-19T01:22:07.304Z"
-    }
-  ]
+  "quarantine": []
 }

@@ -3,9 +3,72 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-19T01:22:07.612Z",
-  "count": 100,
+  "updated_at": "2026-10-19T07:50:51.399Z",
+  "count": 101,
   "articles": [
+    {
+      "archive_id": "arc_75d7baff8e68f094",
+      "external_id": "drf_6e4dc11e60474f74",
+      "investigation_id": "inv_79ce084d0522d3df",
+      "candidate_fingerprints": [
+        "037be1a06b7b6d19894c3aff4bdcf3666e0e16be96fdc0a5ac9de0817c",
+        "2d7577d05e598236f76799797a435b9129c6cdc67586d854b73bfaa5ab5c64fb"
+      ],
+      "title": "El temporal deja registros próximos a 650 litros por metro cuadrado en la Marina Alta",
+      "slug": "temporal-casi-650-litros-marina-alta-calp",
+      "summary": "El episodio de lluvias ha dejado acumulaciones próximas a los 650 litros por metro cuadrado en puntos de la Marina Alta. Según los datos atribuidos a la red AVAMET, la estación de les Verdales, en Pego, registró 649,9 litros y la de Forna, en l’Atzúbia, 648,6. En Calp se contabilizaron 30,8 litros por metro cuadrado.",
+      "body": "El temporal de lluvias ha dejado registros muy elevados en varios puntos de la Marina Alta. La estación de les Verdales, en Pego, alcanzó los 649,9 litros por metro cuadrado en las últimas 24 horas, mientras que la de Forna, en l’Atzúbia, registró 648,6 litros, según datos atribuidos a la red AVAMET.\n\nEn Calp, la medición recogida en la misma información fue de 30,8 litros por metro cuadrado. La comarca también registró inundaciones y cortes de caminos durante el episodio.\n\nEl Consorcio Provincial de Bomberos realizó 27 intervenciones en municipios de la Marina Alta. Una de ellas se produjo en Calp, de acuerdo con la información disponible sobre la actuación del operativo durante las lluvias.\n\nLa alerta y las medidas preventivas permanecían activas este lunes 19 de octubre. La evolución de la situación podía modificar tanto las condiciones meteorológicas como las restricciones adoptadas durante la jornada.\n\nLos registros concretos de Pego, l’Atzúbia y Calp proceden de una publicación periodística que cita a AVAMET. La corroboración independiente localizada confirma la magnitud del episodio y acumulaciones de entre 600 y 700 litros por metro cuadrado en distintos puntos de la comarca, pero no reproduce todos esos valores exactos.",
+      "category": "LOCAL",
+      "seo_title": "El temporal deja casi 650 litros en puntos de la Marina Alta",
+      "meta_description": "Pego y l’Atzúbia rozan los 650 litros por metro cuadrado y Calp registra 30,8 durante un temporal con inundaciones y 27 intervenciones.",
+      "sources": [
+        {
+          "name": "MarinaAlta.es - Dénia FM",
+          "url": "https://marinaalta.es/2026/10/el-temporal-deja-casi-650-litros-en-pego-y-latzubia-y-mantiene-en-alerta-a-la-marina-alta/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "El Debate",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Alicante Al Día",
+          "url": "https://alicantealdia.es/las-fuertes-lluvias-ponen-en-jaque-a-la-marina-alta-con-27-intervenciones-de-los-bomberos/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://marinaalta.es/2026/10/el-temporal-deja-casi-650-litros-en-pego-y-latzubia-y-mantiene-en-alerta-a-la-marina-alta",
+        "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
+        "https://alicantealdia.es/las-fuertes-lluvias-ponen-en-jaque-a-la-marina-alta-con-27-intervenciones-de-los-bomberos",
+        "https://marinaalta.es/2026/10/alerta-en-el-verger-y-els-poblets-por-el-riesgo-inminente-de-desbordamiento-del-rio-girona",
+        "https://lamarina.eldiario.es/2026/10/19/una-historica-tromba-de-500-mm-desborda-el-rio-girona-y-convierte-las-calles-en-rios-con-coches-flotando-en-verger-y-els-poblets-y-aisla-pego"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "Los registros pluviométricos exactos proceden de una única publicación periodística que cita a AVAMET; la corroboración independiente confirma la magnitud del episodio, pero no todos los valores concretos.",
+          "La situación meteorológica y las medidas preventivas podían cambiar durante el 19 de octubre."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_f9f47f7c2466c174",
+        "quality_gate_evaluated_at": "2026-10-19T07:50:51.113Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Los registros exactos de lluvia se atribuyen a AVAMET a través de una publicación periodística; la corroboración independiente no reproduce todos los valores.",
+        "La alerta y las medidas preventivas podían cambiar durante el 19 de octubre."
+      ],
+      "published_at": "2026-10-19T07:50:35.536Z",
+      "updated_at": "2026-10-19T07:50:51.399Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_ed14de15ae558308",
       "external_id": "drf_1007baf3fe19431f",
@@ -68,7 +131,8 @@
       "candidate_fingerprints": [
         "7df108764f54a4e83a04e301b82fb0bcefbf2789658db1c9538204a3cdaf1e31",
         "9d58b75514461b5031224e4ad093f9f0dfc2dceea04fe4013b0b5a0ef8445ac5",
-        "bd2f214f77a606bc1031491365912557284f9c203ca70e27a4f5c18a0cc45907"
+        "bd2f214f77a606bc1031491365912557284f9c203ca70e27a4f5c18a0cc45907",
+        "dccd81e543e916ccf6d7c4a7827458f184d06e31090279352d197514514539c0"
       ],
       "title": "Calp cierra las instalaciones deportivas municipales por la alerta roja",
       "slug": "calp-cierra-instalaciones-deportivas-alerta-roja",
@@ -116,7 +180,7 @@
         "Diferenciar las previsiones: el aviso municipal menciona hasta 300 mm en 24 horas, mientras que AEMET recoge hasta 200 mm en 12 horas en el entorno del cabo de La Nao."
       ],
       "published_at": "2026-10-18T11:09:31.068Z",
-      "updated_at": "2026-10-18T20:46:59.933Z",
+      "updated_at": "2026-10-19T07:50:51.399Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

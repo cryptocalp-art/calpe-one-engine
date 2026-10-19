@@ -1,39 +1,37 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-19T01:21:42.445Z",
+  "generated_at": "2026-10-19T07:50:35.536Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 3,
   "drafts": [
     {
-      "id": "drf_95506b15ff4da9ef",
-      "investigation_id": "inv_8e1cb4c931247dd9",
-      "candidate_fingerprint": "414e7bc96bb3ef180e9915c28ee696a43b519bc8a1219dc0130d910b6341f88c",
+      "id": "drf_39f2a08b040f0336",
+      "investigation_id": "inv_96ddbae89731285d",
+      "candidate_fingerprint": "dccd81e543e916ccf6d7c4a7827458f184d06e31090279352d197514514539c0",
       "category": "LOCAL",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-10-19T01:21:42.445Z",
+      "created_at": "2026-10-19T07:50:35.536Z",
       "model": "gpt-5.6-luna",
       "headline": "Calp suspende las clases este lunes y cierra instalaciones municipales hasta las 10:00",
-      "subheadline": "La medida afecta a todos los colegios e institutos y se adopta ante el aviso rojo por lluvias y tormentas.",
-      "lead": "El Ayuntamiento de Calp ha suspendido las clases de este lunes 19 de octubre de 2026 en todos los colegios e institutos del municipio. La decisión se ha tomado ante un aviso rojo por lluvias y tormentas, en un episodio en el que la predicción oficial contempla peligro extraordinario durante la madrugada y la mañana.",
-      "body_markdown": "El Ayuntamiento de Calp ha anunciado la suspensión de las clases correspondientes al lunes 19 de octubre en todos los colegios e institutos del municipio. La medida afecta a la actividad lectiva de la jornada y se enmarca en el aviso rojo por lluvias y tormentas comunicado ante las condiciones meteorológicas adversas previstas.\n\nAdemás, el aviso municipal establece el cierre de las instalaciones deportivas y del Centro Cívico hasta las 10:00 horas. Se trata de una medida preventiva vinculada al episodio meteorológico y a las previsiones de peligro extraordinario para Calp durante la madrugada y la mañana del lunes.\n\nLa predicción oficial de AEMET recoge lluvia y tormentas previstas para esas franjas y señala un nivel de peligro extraordinario en el municipio. Con esta información, el Ayuntamiento ha adoptado tanto la suspensión de las clases como la interrupción temporal de la actividad en los espacios municipales incluidos en el aviso.\n\nEl comunicado municipal confirma que las instalaciones deportivas y el Centro Cívico permanecerían cerrados hasta las 10:00 horas. No obstante, la información disponible acredita que ese horario estaba previsto, pero no permite confirmar posteriormente si la reapertura se produjo exactamente a esa hora.\n\nLa suspensión afecta a todos los colegios e institutos de Calp durante el lunes 19 de octubre. El resto de medidas comunicadas se refiere a las instalaciones deportivas municipales y al Centro Cívico, cuyo cierre temporal se fijó hasta la hora indicada en el aviso.",
-      "seo_title": "Calp suspende las clases por el aviso rojo de lluvias",
-      "meta_description": "Calp suspende las clases del 19 de octubre y cierra instalaciones deportivas y el Centro Cívico hasta las 10:00 por el aviso rojo.",
-      "slug": "calp-suspende-clases-aviso-rojo-lluvias",
-      "editorial_notes": [
-        "El cierre hasta las 10:00 está confirmado como previsión municipal; no consta acreditada la reapertura efectiva exactamente a esa hora."
-      ],
+      "subheadline": "La medida afecta a todos los colegios e institutos del municipio y se adopta ante el aviso rojo por lluvias y tormentas.",
+      "lead": "El Ayuntamiento de Calp ha suspendido las clases este lunes 19 de octubre de 2026 en todos los colegios e institutos del municipio. Además, las instalaciones deportivas municipales y el Centro Cívico permanecen cerrados hasta las 10:00, según el aviso difundido por el consistorio ante la situación meteorológica adversa.",
+      "body_markdown": "El Ayuntamiento de Calp ha anunciado la suspensión de las clases durante este lunes 19 de octubre en todos los colegios e institutos del municipio. La decisión se enmarca en el aviso rojo por fuertes lluvias y tormentas activo en la zona.\n\nJunto a la interrupción de la actividad lectiva, el consistorio ha establecido el cierre de las instalaciones deportivas municipales y del Centro Cívico hasta las 10:00. La medida fue comunicada el domingo 18 de octubre a través del canal oficial municipal.\n\nLa suspensión de las clases en Calp también fue recogida entre las medidas adoptadas en distintos municipios de la Marina Alta durante este episodio de lluvias. En el caso de Calp, el aviso municipal concreta que la decisión afecta a todos los colegios e institutos del término municipal.\n\nPor el momento, la información facilitada se refiere a la jornada del lunes 19 de octubre y al cierre temporal de las instalaciones indicado hasta las 10:00. No se detallan en el aviso otras modificaciones posteriores de horarios o actividades.",
+      "seo_title": "Calp suspende las clases y cierra instalaciones hasta las 10:00",
+      "meta_description": "Calp suspende las clases este lunes 19 de octubre y mantiene cerrados colegios, instalaciones deportivas y el Centro Cívico hasta las 10:00.",
+      "slug": "calp-suspende-clases-cierra-instalaciones-hasta-diez",
+      "editorial_notes": [],
       "sources": [
         {
-          "source_name": "Ayuntamiento de Calp — Calp Comunica",
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
           "source_url": "https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales/",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "AEMET",
-          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/calp-id03047",
-          "source_type": "PRIMARY"
+          "source_name": "Cadena SER / Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
+          "source_type": "SECONDARY"
         }
       ],
       "provenance": {
@@ -41,146 +39,102 @@
         "confidence": "HIGH",
         "supported_claim_count": 3,
         "evidence_count": 2,
+        "caveats": []
+      }
+    },
+    {
+      "id": "drf_6e4dc11e60474f74",
+      "investigation_id": "inv_79ce084d0522d3df",
+      "candidate_fingerprint": "037be1a06b7b6d19894c3aff4bdcf3666e0e16be96fdc0a5ac9de0817c",
+      "category": "LOCAL",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-19T07:50:35.536Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El temporal deja registros próximos a 650 litros por metro cuadrado en la Marina Alta",
+      "subheadline": "Las mediciones atribuidas a AVAMET sitúan los valores más altos en Pego y l’Atzúbia; en Calp se registraron 30,8 litros por metro cuadrado.",
+      "lead": "El episodio de lluvias ha dejado acumulaciones próximas a los 650 litros por metro cuadrado en puntos de la Marina Alta. Según los datos atribuidos a la red AVAMET, la estación de les Verdales, en Pego, registró 649,9 litros y la de Forna, en l’Atzúbia, 648,6. En Calp se contabilizaron 30,8 litros por metro cuadrado.",
+      "body_markdown": "El temporal de lluvias ha dejado registros muy elevados en varios puntos de la Marina Alta. La estación de les Verdales, en Pego, alcanzó los 649,9 litros por metro cuadrado en las últimas 24 horas, mientras que la de Forna, en l’Atzúbia, registró 648,6 litros, según datos atribuidos a la red AVAMET.\n\nEn Calp, la medición recogida en la misma información fue de 30,8 litros por metro cuadrado. La comarca también registró inundaciones y cortes de caminos durante el episodio.\n\nEl Consorcio Provincial de Bomberos realizó 27 intervenciones en municipios de la Marina Alta. Una de ellas se produjo en Calp, de acuerdo con la información disponible sobre la actuación del operativo durante las lluvias.\n\nLa alerta y las medidas preventivas permanecían activas este lunes 19 de octubre. La evolución de la situación podía modificar tanto las condiciones meteorológicas como las restricciones adoptadas durante la jornada.\n\nLos registros concretos de Pego, l’Atzúbia y Calp proceden de una publicación periodística que cita a AVAMET. La corroboración independiente localizada confirma la magnitud del episodio y acumulaciones de entre 600 y 700 litros por metro cuadrado en distintos puntos de la comarca, pero no reproduce todos esos valores exactos.",
+      "seo_title": "El temporal deja casi 650 litros en puntos de la Marina Alta",
+      "meta_description": "Pego y l’Atzúbia rozan los 650 litros por metro cuadrado y Calp registra 30,8 durante un temporal con inundaciones y 27 intervenciones.",
+      "slug": "temporal-casi-650-litros-marina-alta-calp",
+      "editorial_notes": [
+        "Los registros exactos de lluvia se atribuyen a AVAMET a través de una publicación periodística; la corroboración independiente no reproduce todos los valores.",
+        "La alerta y las medidas preventivas podían cambiar durante el 19 de octubre."
+      ],
+      "sources": [
+        {
+          "source_name": "MarinaAlta.es - Dénia FM",
+          "source_url": "https://marinaalta.es/2026/10/el-temporal-deja-casi-650-litros-en-pego-y-latzubia-y-mantiene-en-alerta-a-la-marina-alta/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Debate",
+          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Alicante Al Día",
+          "source_url": "https://alicantealdia.es/las-fuertes-lluvias-ponen-en-jaque-a-la-marina-alta-con-27-intervenciones-de-los-bomberos/",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
         "caveats": [
-          "La fuente municipal confirma la suspensión y los cierres preventivos, pero no acredita posteriormente si las instalaciones reabrieron exactamente a las 10:00 horas; acredita que el cierre estaba previsto hasta esa hora."
+          "Los registros pluviométricos exactos proceden de una única publicación periodística que cita a AVAMET; la corroboración independiente confirma la magnitud del episodio, pero no todos los valores concretos.",
+          "La situación meteorológica y las medidas preventivas podían cambiar durante el 19 de octubre."
         ]
       }
     },
     {
-      "id": "drf_d91997445a086309",
-      "investigation_id": "inv_7dfe5bda00afee2d",
-      "candidate_fingerprint": "4041dc44773fb2c074880b3fa0d0e6b9207c35a4a57c65bb199fb4989a8c18c2",
-      "category": "TURISMO",
+      "id": "drf_4add9587cc531887",
+      "investigation_id": "inv_a6e181aa71362d42",
+      "candidate_fingerprint": "2d7577d05e598236f76799797a435b9129c6cdc67586d854b73bfaa5ab5c64fb",
+      "category": "SUCESOS",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-10-19T01:21:42.445Z",
+      "created_at": "2026-10-19T07:50:35.536Z",
       "model": "gpt-5.6-luna",
-      "headline": "Calp incorpora 337.287 euros al proyecto de la Oficina de Turismo del siglo XXI",
-      "subheadline": "La modificación de crédito eleva la dotación aproximada hasta 1,3 millones y prepara un tercer intento tras dos licitaciones desiertas.",
-      "lead": "El pleno de Calp ha aprobado inicialmente una modificación de crédito que incorpora 337.287 euros para completar el proyecto de la Oficina de Turismo del siglo XXI. Con esta partida, la dotación acumulada se sitúa aproximadamente en 1,3 millones de euros, según la información municipal y las fuentes que han detallado la iniciativa.",
-      "body_markdown": "La modificación de crédito aprobada inicialmente por el pleno municipal incluye una partida de 337.287 euros destinada a completar las obras de la Oficina de Turismo del siglo XXI. La incorporación de estos fondos eleva la dotación del proyecto hasta una cifra aproximada de 1,3 millones de euros.\n\nLa actuación afronta ahora un tercer intento de licitación después de que dos procedimientos anteriores quedaran desiertos. La información disponible identifica la nueva asignación económica y el recorrido previo del proyecto, pero no acredita todavía la adjudicación de las obras.\n\nLa cuantía total se expresa de forma aproximada. La fuente municipal concreta la partida adicional en 337.287 euros, mientras que las informaciones publicadas sitúan la dotación global en torno a 1,3 millones o 1,337 millones de euros. Por ello, la cifra debe interpretarse como una estimación redondeada de la inversión acumulada.\n\nEl acuerdo plenario localizado tiene carácter inicial. La convocatoria de una nueva licitación quedaba vinculada a la aprobación definitiva del crédito, por lo que el expediente todavía debe completar ese trámite antes de que pueda confirmarse el inicio de un nuevo procedimiento de contratación.\n\nLa modificación de crédito municipal tiene un importe inicial de 1.760.369,80 euros e incluye, además de otras partidas, la cantidad destinada a la Oficina de Turismo. En el caso de este proyecto, la información confirma la incorporación de los 337.287 euros y la intención de afrontar un tercer proceso, pero no permite afirmar que la obra haya sido adjudicada ni que vaya a comenzar de forma inmediata.",
-      "seo_title": "Calp suma 337.287 euros a su Oficina de Turismo",
-      "meta_description": "El pleno de Calp aprueba inicialmente 337.287 euros adicionales para la Oficina de Turismo, con una inversión aproximada de 1,3 millones.",
-      "slug": "calp-suma-337287-euros-oficina-turismo",
+      "headline": "El desbordamiento del río Girona inunda zonas de Els Poblets y El Verger",
+      "subheadline": "Las autoridades recomiendan permanecer en casa y evitar las zonas inundables y los desplazamientos innecesarios.",
+      "lead": "El río Girona se desbordó durante el episodio de lluvias y provocó inundaciones en zonas próximas al cauce de Els Poblets y El Verger. Las autoridades recomendaron a la población permanecer en casa, no acercarse a las áreas inundables y evitar los desplazamientos que no fueran necesarios.",
+      "body_markdown": "El río Girona se desbordó durante el episodio de lluvias intensas y afectó a zonas próximas al cauce en Els Poblets y El Verger. Las inundaciones también alcanzaron calles y otros espacios de ambos municipios, según las informaciones difundidas durante la mañana del 19 de octubre.\n\nLa situación generó cortes o dificultades de circulación en carreteras y caminos. Ante este escenario, las autoridades pidieron a la población permanecer en casa y evitar tanto las zonas inundables como los desplazamientos innecesarios.\n\nTambién se recomendó no acercarse al cauce del río y no cruzar calles o caminos afectados por el agua, ni a pie ni en vehículo. Estos avisos se produjeron después de que el río hubiera alcanzado un nivel próximo a su capacidad y se confirmara posteriormente el desbordamiento.\n\nLa información disponible describe la afectación en Els Poblets y El Verger durante este episodio concreto de lluvias. No se dispone en el expediente de un parte oficial único que detalle todos los cortes de carretera y caminos registrados en la zona.",
+      "seo_title": "El río Girona se desborda e inunda Els Poblets y El Verger",
+      "meta_description": "El desbordamiento del río Girona provoca inundaciones en Els Poblets y El Verger, donde se pide evitar zonas inundables y desplazamientos.",
+      "slug": "rio-girona-desborda-inunda-els-poblets-el-verger",
       "editorial_notes": [
-        "La aprobación es inicial y la nueva licitación dependía de la aprobación definitiva del crédito.",
-        "La cifra total de 1,3 millones debe presentarse como aproximada."
+        "La confirmación del desbordamiento procede de informaciones posteriores a la primera alerta de riesgo inminente.",
+        "No hay un parte oficial único que detalle todos los cortes de carreteras y caminos mencionados."
       ],
       "sources": [
         {
-          "source_name": "Ayuntamiento de Calp — CalpeNoticias",
-          "source_url": "https://www.calp.es/es/aggregator/sources/2",
-          "source_type": "PRIMARY"
+          "source_name": "MarinaAlta.es - Dénia FM",
+          "source_url": "https://marinaalta.es/2026/10/alerta-en-el-verger-y-els-poblets-por-el-riesgo-inminente-de-desbordamiento-del-rio-girona",
+          "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "source_url": "https://lamarina.eldiario.es/2026/10/19/una-historica-tromba-de-500-mm-desborda-el-rio-girona-y-convierte-las-calles-en-rios-con-coches-flotando-en-verger-y-els-poblets-y-aisla-pego/",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+          "source_name": "El Debate",
+          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
           "source_type": "SECONDARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
+        "confidence": "MEDIUM",
         "supported_claim_count": 4,
         "evidence_count": 3,
         "caveats": [
-          "La cifra de 1,3 millones es aproximada; la fuente municipal identifica una partida de 337.287 euros, mientras que la suma divulgada en las noticias se redondea a 1,3 millones o 1,337 millones.",
-          "La aprobación localizada es inicial; la convocatoria de una nueva licitación dependía de la aprobación definitiva del crédito."
-        ]
-      }
-    },
-    {
-      "id": "drf_3ee5b29bd4513669",
-      "investigation_id": "inv_980c244169d0f316",
-      "candidate_fingerprint": "f0e77af33f914bc64cba660dd99f8c913895ccdb7c4d1f6707445098d758a7dc",
-      "category": "SOCIEDAD",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-19T01:21:42.445Z",
-      "model": "gpt-5.6-luna",
-      "headline": "Calp estudiará crear un aula universitaria vinculada a la UNED de Dénia",
-      "subheadline": "El pleno aprobó por unanimidad analizar la posibilidad de ofrecer uno o dos grados en Casa Nova, sin implantar todavía titulaciones.",
-      "lead": "El pleno municipal de Calp ha aprobado por unanimidad declarar de interés municipal el estudio de un aula universitaria vinculada al centro asociado de la UNED de Dénia. La propuesta contempla analizar la posibilidad de ofrecer uno o dos grados en Casa Nova, pero no supone todavía la creación efectiva de la sede ni la aprobación de titulaciones concretas.",
-      "body_markdown": "El pleno municipal de Calp ha dado luz verde por unanimidad a estudiar la creación de un aula universitaria de la UNED en el municipio. El proyecto estaría vinculado al centro asociado de la UNED de Dénia y se encuentra todavía en una fase preliminar de análisis.\n\nEl acuerdo plantea estudiar la viabilidad de disponer de un aula universitaria en Casa Nova y valorar la posibilidad de impartir uno o dos grados. La elección de las titulaciones quedaría relacionada con la demanda formativa y laboral, según la información del expediente.\n\nLa aprobación municipal no crea por sí misma una sede universitaria. Tampoco implica que se hayan aprobado ya grados concretos, ni fija un calendario de implantación. Antes de avanzar deberán analizarse la viabilidad del proyecto, las titulaciones que podrían ofrecerse y los pasos necesarios con la UNED.\n\nLa declaración de interés municipal constituye, por tanto, el inicio de un estudio y no la puesta en marcha de una oferta universitaria. El objetivo expresado es explorar una posible colaboración con el centro asociado de Dénia para determinar si Calp puede acoger un aula y qué formación tendría encaje en el municipio.\n\nLa propuesta sitúa Casa Nova como el espacio previsto para esa posible actividad. Sin embargo, la documentación disponible no confirma que el aula vaya a abrirse ni que los grados lleguen a implantarse. Ambos aspectos quedan sujetos al resultado de los análisis posteriores y a las decisiones que se adopten en el marco del proyecto.",
-      "seo_title": "Calp estudiará un aula universitaria de la UNED",
-      "meta_description": "El pleno de Calp aprueba por unanimidad estudiar un aula de la UNED de Dénia en Casa Nova, con uno o dos grados posibles.",
-      "slug": "calp-estudiara-aula-universitaria-uned-denia",
-      "editorial_notes": [
-        "Mantener en todo el texto el carácter prospectivo del acuerdo: no se ha creado todavía el aula ni se han aprobado titulaciones concretas."
-      ],
-      "sources": [
-        {
-          "source_name": "Ayuntamiento de Calp — dossier de prensa",
-          "source_url": "https://calp.es/en/aggregator",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova/",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 4,
-        "evidence_count": 3,
-        "caveats": [
-          "La formulación publicable debe mantener el carácter prospectivo: no se ha creado todavía una sede universitaria ni se han aprobado titulaciones concretas."
-        ]
-      }
-    },
-    {
-      "id": "drf_1007baf3fe19431f",
-      "investigation_id": "inv_f7423c1aca514a95",
-      "candidate_fingerprint": "1513c1fbf3dba1450822b255bb82ad44bb373e6fcc5ffe477b7ab3c202ca5057",
-      "category": "ECONOMIA",
-      "status": "PENDING_GATE",
-      "quality_gate_required": true,
-      "created_at": "2026-10-19T01:21:42.445Z",
-      "model": "gpt-5.6-luna",
-      "headline": "La restauración concentra la mayor afiliación de Calp con 1.768 personas al cierre de 2025",
-      "subheadline": "Los contratos de alojamiento crecieron un 22,80%, mientras que los de comidas y bebidas bajaron un 9,35%, según el SEPE.",
-      "lead": "Los servicios de comidas y bebidas fueron la actividad con más personas afiliadas en Calp al cierre de 2025, con 1.768 registros, según el boletín municipal del mercado de trabajo del SEPE. En contratación, el alojamiento sumó 1.201 contratos y creció un 22,80%, mientras que comidas y bebidas registró 2.143 contratos, un 9,35% menos que el año anterior.",
-      "body_markdown": "Los servicios de comidas y bebidas fueron la actividad con más personas afiliadas en Calp al cierre de 2025, con un total de 1.768, de acuerdo con las estadísticas del Servicio Público de Empleo Estatal (SEPE). El dato corresponde a la clasificación de actividades analizada en el boletín municipal del mercado de trabajo.\n\nLa contratación presenta una evolución diferente según el ámbito. Los servicios de alojamiento alcanzaron 1.201 contratos durante 2025, lo que supone un aumento interanual del 22,80%. En los servicios de comidas y bebidas se contabilizaron 2.143 contratos, con una variación interanual negativa del 9,35%.\n\nLas cifras distinguen entre afiliación y contratación. Las 1.768 personas afiliadas reflejan el número registrado en esa actividad al cierre del año, mientras que los 2.143 y 1.201 contratos corresponden a contratos acumulados durante 2025. Por tanto, el número de contratos no equivale directamente al número de empleos existentes, ni permite por sí solo medir la plantilla estable de cada actividad.\n\nEl boletín del SEPE identifica los datos para el municipio de Calpe/Calp y ofrece la referencia anual correspondiente a 2025. La información no describe la situación laboral en octubre de 2026 ni una evolución mensual posterior.\n\nEn conjunto, los datos sitúan a comidas y bebidas como la principal actividad por número de afiliados dentro de la clasificación utilizada, mientras que el alojamiento muestra el crecimiento interanual señalado en la contratación. Ambas magnitudes deben leerse por separado para evitar equiparar afiliación, contratos registrados y empleo existente.",
-      "seo_title": "La restauración lidera la afiliación en Calp con 1.768 personas",
-      "meta_description": "Los servicios de comidas y bebidas sumaron 1.768 afiliados en Calp al cierre de 2025. El alojamiento creció un 22,80% en contratos.",
-      "slug": "restauracion-lidera-afiliacion-calp-2025",
-      "editorial_notes": [
-        "Precisar que el liderazgo se refiere al número de personas afiliadas dentro de la clasificación analizada.",
-        "Los datos corresponden a 2025: no deben presentarse como una fotografía del mercado laboral en octubre de 2026.",
-        "Distinguir siempre entre afiliación y contratos acumulados."
-      ],
-      "sources": [
-        {
-          "source_name": "Servicio Público de Empleo Estatal (SEPE)",
-          "source_url": "https://www.sepe.es/dctm/informes:09019af480269850/RElTRVdFQg==/4622-1.pdf",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12413/readpic",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "provenance": {
-        "investigation_status": "VERIFIED",
-        "confidence": "HIGH",
-        "supported_claim_count": 4,
-        "evidence_count": 2,
-        "caveats": [
-          "La expresión 'lidera el empleo' debe entenderse como liderazgo por número de personas afiliadas en la clasificación de actividades analizada, no como una medición completa de todos los puestos de trabajo ni de la evolución mensual de 2026.",
-          "Los datos corresponden al cierre de 2025 y a contratos acumulados durante 2025, no a una situación laboral en octubre de 2026."
+          "La publicación candidata fue redactada cuando el desbordamiento todavía se describía como inminente; la confirmación del desbordamiento procede de informaciones posteriores del mismo episodio.",
+          "La evidencia localizada confirma de forma explícita el desbordamiento en Els Poblets y la afectación de El Verger, pero no aporta un parte oficial único con el detalle de todos los cortes de carretera mencionados."
         ]
       }
     }
