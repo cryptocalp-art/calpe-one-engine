@@ -1,8 +1,203 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-18T23:15:21.106Z",
+  "generated_at": "2026-10-19T01:20:55.438Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 4,
+  "investigations": [
+    {
+      "candidate_fingerprint": "414e7bc96bb3ef180e9915c28ee696a43b519bc8a1219dc0130d910b6341f88c",
+      "title": "Calp suspende las clases este lunes y mantiene cierres preventivos de instalaciones municipales",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La suspensión de las clases del lunes 19 de octubre de 2026 y el cierre temporal de instalaciones municipales están confirmados por el Ayuntamiento de Calp. AEMET también documenta condiciones meteorológicas adversas y peligro extraordinario en Calp durante la madrugada y la mañana del 19 de octubre.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento suspendió las clases el lunes 19 de octubre de 2026 en todos los colegios e institutos de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las instalaciones deportivas y el Centro Cívico permanecieron cerrados hasta las 10:00 horas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La medida se adoptó por un aviso rojo de lluvias y tormentas.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp — Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales/",
+          "evidence": "El aviso municipal fechado el 18 de octubre de 2026 anuncia la suspensión de las clases del lunes 19 de octubre en todos los colegios e institutos de Calp y el cierre de las instalaciones deportivas y del Centro Cívico hasta las 10:00 horas. ([calpcomunica.calp.es](https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales/?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "AEMET",
+          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/calp-id03047",
+          "evidence": "La predicción oficial para Calp muestra peligro extraordinario durante la madrugada y la mañana del lunes 19 de octubre, con lluvia y tormentas previstas. ([aemet.es](https://www.aemet.es/es/eltiempo/prediccion/municipios/horas/tabla/calp-id03047?utm_source=openai))",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La fuente municipal confirma la suspensión y los cierres preventivos, pero no acredita posteriormente si las instalaciones reabrieron exactamente a las 10:00 horas; acredita que el cierre estaba previsto hasta esa hora."
+      ],
+      "id": "inv_8e1cb4c931247dd9",
+      "investigated_at": "2026-10-19T01:20:55.438Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "4041dc44773fb2c074880b3fa0d0e6b9207c35a4a57c65bb199fb4989a8c18c2",
+      "title": "Calp eleva a 1,3 millones de euros el proyecto de la Oficina de Turismo del Siglo XXI",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El pleno de Calp aprobó inicialmente una modificación de crédito que incluye 337.287 euros para completar la Oficina de Turismo del siglo XXI. La partida eleva la dotación acumulada aproximadamente a 1,337 millones de euros. Fuentes oficiales y una fuente independiente confirman que se trata del tercer intento tras dos licitaciones desiertas.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento incorporó aproximadamente 337.000 euros al proyecto.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La dotación total del proyecto asciende aproximadamente a 1,3 millones de euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto afronta un tercer intento después de dos licitaciones desiertas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La aprobación se produjo mediante una modificación de crédito municipal.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp — CalpeNoticias",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2",
+          "evidence": "La información municipal sobre el pleno recoge una modificación de crédito inicial de 1.760.369,80 euros e incluye 337.287 euros para completar las obras de la Oficina de Turismo del siglo XXI. ([calp.es](https://www.calp.es/es/aggregator/sources/2?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/",
+          "evidence": "La información independiente describe el tercer intento municipal, las dos licitaciones anteriores desiertas, la incorporación de 337.000 euros y un coste aproximado de 1,3 millones si el pleno aprueba la modificación. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/13/calp-intenta-por-tercera-vez-alzar-su-oficina-de-turismo-del-siglo-xxi-su-coste-se-dispara-a-13-millones-y-respetara-una-antigua-fachada/?utm_source=openai))",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+          "evidence": "La noticia detalla que la partida adicional de 337.000 euros se suma al millón consignado previamente y sitúa la dotación aproximada en 1.337.000 euros. ([calpdigital.es](https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion?utm_source=openai))",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra de 1,3 millones es aproximada; la fuente municipal identifica una partida de 337.287 euros, mientras que la suma divulgada en las noticias se redondea a 1,3 millones o 1,337 millones.",
+        "La aprobación localizada es inicial; la convocatoria de una nueva licitación dependía de la aprobación definitiva del crédito."
+      ],
+      "id": "inv_7dfe5bda00afee2d",
+      "investigated_at": "2026-10-19T01:20:55.438Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "f0e77af33f914bc64cba660dd99f8c913895ccdb7c4d1f6707445098d758a7dc",
+      "title": "Calp estudia ofrecer hasta dos grados universitarios vinculados a la UNED",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El pleno de Calp aprobó por unanimidad declarar de interés municipal el estudio de un aula universitaria vinculada a la UNED de Dénia. El acuerdo contempla estudiar la posibilidad de ofrecer uno o dos grados, pero no crea todavía la sede ni garantiza la implantación de titulaciones.",
+      "claims": [
+        {
+          "claim": "El pleno municipal aprobó por unanimidad estudiar la creación de un aula universitaria de la UNED en Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto estaría vinculado al centro asociado de la UNED de Dénia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se estudia ofrecer uno o dos grados adaptados a la demanda formativa y laboral.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La aprobación no implica todavía la creación efectiva del aula ni la implantación de grados.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp — dossier de prensa",
+          "source_url": "https://calp.es/en/aggregator",
+          "evidence": "El Ayuntamiento informa de que el pleno declaró de interés municipal dar los primeros pasos para estudiar con la UNED la viabilidad de crear un Aula Universitaria en Calp y recoge que sería el paso previo para disponer de uno o dos grados en Casa Nova. ([calp.es](https://calp.es/en/aggregator?utm_source=openai))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova/",
+          "evidence": "La fuente independiente confirma que el pleno impulsó el estudio de un aula universitaria de la UNED en Calp y que el objetivo es analizar la posibilidad de impartir uno o dos grados en Casa Nova. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/14/calp-pide-una-extension-de-la-uned-para-contar-con-grados-universitarios-en-la-casa-nova/?utm_source=openai))",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
+          "evidence": "La noticia identifica la aprobación unánime, la vinculación con la UNED de Dénia y el carácter preliminar del acuerdo: todavía deben estudiarse la viabilidad, las titulaciones y el calendario. ([calpdigital.es](https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria?utm_source=openai))",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La formulación publicable debe mantener el carácter prospectivo: no se ha creado todavía una sede universitaria ni se han aprobado titulaciones concretas."
+      ],
+      "id": "inv_980c244169d0f316",
+      "investigated_at": "2026-10-19T01:20:55.438Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "1513c1fbf3dba1450822b255bb82ad44bb373e6fcc5ffe477b7ab3c202ca5057",
+      "title": "La restauración lidera el empleo en Calp con 1.768 afiliados y crece la contratación hotelera",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Boletín anual del mercado de trabajo municipal del SEPE, con datos de 2025, confirma que los servicios de comidas y bebidas fueron la actividad con más personas afiliadas en Calp, con 1.768. También confirma 2.143 contratos en comidas y bebidas, un descenso interanual del 9,35%, y 1.201 contratos en alojamiento, con un aumento del 22,80%.",
+      "claims": [
+        {
+          "claim": "Los servicios de comidas y bebidas fueron la actividad con más afiliados de Calp, con 1.768 personas al cierre de 2025.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los contratos en servicios de alojamiento aumentaron un 22,80% durante 2025 y alcanzaron 1.201.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los contratos en servicios de comidas y bebidas descendieron un 9,35% y sumaron 2.143.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La información procede de estadísticas oficiales del SEPE correspondientes a 2025.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Servicio Público de Empleo Estatal (SEPE)",
+          "source_url": "https://www.sepe.es/dctm/informes:09019af480269850/RElTRVdFQg==/4622-1.pdf",
+          "evidence": "El boletín oficial identifica el municipio 3047, Calpe/Calp. En afiliación registra 1.768 personas en servicios de comidas y bebidas. En contratación registra 2.143 contratos en comidas y bebidas, con una variación interanual del -9,35%, y 1.201 contratos en servicios de alojamiento, con una variación del 22,80%. ([sepe.es](https://www.sepe.es/dctm/informes%3A09019af480269850/RElTRVdFQg%3D%3D/4622-1.pdf))",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12413/readpic",
+          "evidence": "La publicación interpreta los datos del SEPE y presenta la restauración como la principal actividad por afiliación, además de distinguir entre afiliación y contratación para evitar equiparar contratos registrados con empleo existente. ([calpdigital.es](https://calpdigital.es/art/12413/readpic?utm_source=openai))",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La expresión 'lidera el empleo' debe entenderse como liderazgo por número de personas afiliadas en la clasificación de actividades analizada, no como una medición completa de todos los puestos de trabajo ni de la evolución mensual de 2026.",
+        "Los datos corresponden al cierre de 2025 y a contratos acumulados durante 2025, no a una situación laboral en octubre de 2026."
+      ],
+      "id": "inv_f7423c1aca514a95",
+      "investigated_at": "2026-10-19T01:20:55.438Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }

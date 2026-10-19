@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-18T23:15:32.019Z",
+  "generated_at": "2026-10-19T01:22:20.154Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-18T23:15:31.791Z",
+  "last_activity": "2026-10-19T01:22:19.974Z",
   "newspaper": {
-    "archive_total": 99,
-    "published_today": 0,
+    "archive_total": 100,
+    "published_today": 1,
     "published_last_7_days": 21,
     "categories": {
+      "ECONOMIA": 16,
       "LOCAL": 13,
       "POLITICA": 9,
-      "ECONOMIA": 15,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
       "SUCESOS": 13,
@@ -21,6 +21,13 @@
       "SOCIEDAD": 12
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_ed14de15ae558308",
+        "title": "La restauración concentra la mayor afiliación de Calp con 1.768 personas al cierre de 2025",
+        "category": "ECONOMIA",
+        "slug": "restauracion-lidera-afiliacion-calp-2025",
+        "published_at": "2026-10-19T01:21:42.445Z"
+      },
       {
         "archive_id": "arc_d77130a164b47e0e",
         "title": "Calp cierra las instalaciones deportivas municipales por la alerta roja",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
         "published_at": "2026-10-16T17:26:53.799Z"
-      },
-      {
-        "archive_id": "arc_78ae5cb192bfe19e",
-        "title": "Calp cierra septiembre con 832 personas desempleadas y una tasa de paro registrado del 6,98%",
-        "category": "ECONOMIA",
-        "slug": "calp-paro-registrado-septiembre-2026",
-        "published_at": "2026-10-16T17:26:53.799Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 4,
+    "eligible": 3,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_95506b15ff4da9ef",
+      "slug": "calp-suspende-clases-aviso-rojo-lluvias",
+      "category": "LOCAL",
+      "reasons": [
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
+      ],
+      "evaluated_at": "2026-10-19T01:22:07.304Z"
+    }
+  ]
 }

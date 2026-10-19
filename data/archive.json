@@ -3,9 +3,64 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-18T20:46:59.933Z",
-  "count": 99,
+  "updated_at": "2026-10-19T01:22:07.612Z",
+  "count": 100,
   "articles": [
+    {
+      "archive_id": "arc_ed14de15ae558308",
+      "external_id": "drf_1007baf3fe19431f",
+      "investigation_id": "inv_f7423c1aca514a95",
+      "candidate_fingerprints": [
+        "1513c1fbf3dba1450822b255bb82ad44bb373e6fcc5ffe477b7ab3c202ca5057"
+      ],
+      "title": "La restauración concentra la mayor afiliación de Calp con 1.768 personas al cierre de 2025",
+      "slug": "restauracion-lidera-afiliacion-calp-2025",
+      "summary": "Los servicios de comidas y bebidas fueron la actividad con más personas afiliadas en Calp al cierre de 2025, con 1.768 registros, según el boletín municipal del mercado de trabajo del SEPE. En contratación, el alojamiento sumó 1.201 contratos y creció un 22,80%, mientras que comidas y bebidas registró 2.143 contratos, un 9,35% menos que el año anterior.",
+      "body": "Los servicios de comidas y bebidas fueron la actividad con más personas afiliadas en Calp al cierre de 2025, con un total de 1.768, de acuerdo con las estadísticas del Servicio Público de Empleo Estatal (SEPE). El dato corresponde a la clasificación de actividades analizada en el boletín municipal del mercado de trabajo.\n\nLa contratación presenta una evolución diferente según el ámbito. Los servicios de alojamiento alcanzaron 1.201 contratos durante 2025, lo que supone un aumento interanual del 22,80%. En los servicios de comidas y bebidas se contabilizaron 2.143 contratos, con una variación interanual negativa del 9,35%.\n\nLas cifras distinguen entre afiliación y contratación. Las 1.768 personas afiliadas reflejan el número registrado en esa actividad al cierre del año, mientras que los 2.143 y 1.201 contratos corresponden a contratos acumulados durante 2025. Por tanto, el número de contratos no equivale directamente al número de empleos existentes, ni permite por sí solo medir la plantilla estable de cada actividad.\n\nEl boletín del SEPE identifica los datos para el municipio de Calpe/Calp y ofrece la referencia anual correspondiente a 2025. La información no describe la situación laboral en octubre de 2026 ni una evolución mensual posterior.\n\nEn conjunto, los datos sitúan a comidas y bebidas como la principal actividad por número de afiliados dentro de la clasificación utilizada, mientras que el alojamiento muestra el crecimiento interanual señalado en la contratación. Ambas magnitudes deben leerse por separado para evitar equiparar afiliación, contratos registrados y empleo existente.",
+      "category": "ECONOMIA",
+      "seo_title": "La restauración lidera la afiliación en Calp con 1.768 personas",
+      "meta_description": "Los servicios de comidas y bebidas sumaron 1.768 afiliados en Calp al cierre de 2025. El alojamiento creció un 22,80% en contratos.",
+      "sources": [
+        {
+          "name": "Servicio Público de Empleo Estatal (SEPE)",
+          "url": "https://www.sepe.es/dctm/informes:09019af480269850/RElTRVdFQg==/4622-1.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12413/readpic",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.sepe.es/dctm/informes:09019af480269850/RElTRVdFQg==/4622-1.pdf",
+        "https://calpdigital.es/art/12413/readpic"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 2,
+        "caveats": [
+          "La expresión 'lidera el empleo' debe entenderse como liderazgo por número de personas afiliadas en la clasificación de actividades analizada, no como una medición completa de todos los puestos de trabajo ni de la evolución mensual de 2026.",
+          "Los datos corresponden al cierre de 2025 y a contratos acumulados durante 2025, no a una situación laboral en octubre de 2026."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_88f4e10e868d45a7",
+        "quality_gate_evaluated_at": "2026-10-19T01:22:07.304Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Precisar que el liderazgo se refiere al número de personas afiliadas dentro de la clasificación analizada.",
+        "Los datos corresponden a 2025: no deben presentarse como una fotografía del mercado laboral en octubre de 2026.",
+        "Distinguir siempre entre afiliación y contratos acumulados."
+      ],
+      "published_at": "2026-10-19T01:21:42.445Z",
+      "updated_at": "2026-10-19T01:22:07.612Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_d77130a164b47e0e",
       "external_id": "drf_a67bfc8f3c38ba66",
@@ -893,7 +948,8 @@
         "9e5e1d785997b2aa225a87d78426d0860b969f70207492a0569098f455e00c1a",
         "8e696e7b16196a6291af5bd19f7b080ef70b4f49ea68b7cbfc06fd663b7e074",
         "2c038f4efe4900c6a795763c78a432fd98dcb33e1aab9a95e37df5643699d417",
-        "c07e6ecffa1a045aa6413af47d40774ef86e1c846f3fb4ddf28cf1a24fcf2466"
+        "c07e6ecffa1a045aa6413af47d40774ef86e1c846f3fb4ddf28cf1a24fcf2466",
+        "f0e77af33f914bc64cba660dd99f8c913895ccdb7c4d1f6707445098d758a7dc"
       ],
       "title": "El pleno de Calp aprueba inicialmente una modificación de crédito de 1,76 millones",
       "slug": "calp-modificacion-credito-176-millones-18-partidas",
@@ -945,7 +1001,7 @@
         "La partida de 91.806 euros corresponde a la mejora de caminos tradicionales y es distinta de los 90.901 euros de limpieza viaria."
       ],
       "published_at": "2026-10-14T20:45:11.397Z",
-      "updated_at": "2026-10-17T19:27:03.517Z",
+      "updated_at": "2026-10-19T01:22:07.612Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
@@ -956,7 +1012,8 @@
       "candidate_fingerprints": [
         "04e0dd521f2fd36f03660c1fed567bfd6d13ce0e5189c20242ba4bb4f3833ec7",
         "bb9f318deee003a141546eeda05bf1e8c91584f4158fd851f976e1aee4e4caff",
-        "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed"
+        "1edf3116d34576d2deffcc89cee78719d9423e7d581638b94ce3251bb3b484ed",
+        "4041dc44773fb2c074880b3fa0d0e6b9207c35a4a57c65bb199fb4989a8c18c2"
       ],
       "title": "El pleno de Calp aprueba rebajas fiscales para 2027 en basura y vehículos",
       "slug": "calp-aprueba-rebajas-fiscales-2027",
@@ -996,7 +1053,8 @@
         "https://calpdigital.es/art/12395/calp-176-millones-proyectos-pendientes-gastos-municipales",
         "https://lamarina.eldiario.es/2023/09/19/oficina-turismo-calpe-muralla-roja",
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-adjudica-la-redacci%C3%B3n-y-direcci%C3%B3n-de-obra-de-la-oficina-de-turismo",
-        "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion"
+        "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+        "https://www.calp.es/es/aggregator/sources/2"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -1019,7 +1077,7 @@
         "Mantener la referencia a los apoyos plenarios como dato atribuido a la información disponible, sin valorar el acuerdo ni a los grupos políticos."
       ],
       "published_at": "2026-10-14T06:11:55.187Z",
-      "updated_at": "2026-10-15T04:43:51.440Z",
+      "updated_at": "2026-10-19T01:22:07.612Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
