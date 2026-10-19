@@ -3,9 +3,71 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-19T15:39:52.266Z",
-  "count": 104,
+  "updated_at": "2026-10-19T21:05:52.422Z",
+  "count": 105,
   "articles": [
+    {
+      "archive_id": "arc_646b43f9e41f947e",
+      "external_id": "drf_e2d80186a624b69f",
+      "investigation_id": "inv_b251c50d1fcaeea3",
+      "candidate_fingerprints": [
+        "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7"
+      ],
+      "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
+      "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
+      "summary": "Un total de 17 carreteras presentaban algún tramo cortado y 25 tramos viarios estaban afectados en la Comunitat Valenciana durante la mañana del 19 de octubre, según datos atribuidos a la administración autonómica. La Marina Alta concentraba varias de las incidencias, con accesos afectados en Pego, la Vall de Gallinera y Xàbia.",
+      "body": "El balance difundido durante la mañana del 19 de octubre situaba en 17 el número de carreteras con algún tramo cortado en la Comunitat Valenciana. En total, se contabilizaban 25 tramos viarios afectados por inundaciones, desprendimientos y acumulaciones de agua.\n\nLa Marina Alta era una de las zonas con más incidencias. Entre las vías afectadas figuraban la 7420, la 7421, la CV-700, la CV-723, la CV-727 y la CV-747, esta última a la altura de Xàbia. También seguían afectados accesos o carreteras de Pego y la Vall de Gallinera.\n\nLa cifra correspondía a una actualización de la mañana, con datos de la Conselleria de Infraestructuras de las 08.59 horas. Un balance anterior, elaborado con información del Centro de Coordinación de Emergencias de las 08.00 horas, había registrado 15 carreteras cortadas y 23 tramos afectados, lo que refleja la evolución de las incidencias durante la jornada.\n\nPor la tarde, la Generalitat informó de trabajos para restituir la circulación en carreteras de la Safor y la Marina Alta. En esa actualización se señalaban acumulaciones de agua en la CV-700 y la CV-715, además de desprendimientos en la CV-720.\n\nEl número de vías afectadas podía variar a lo largo del día a medida que se reabrían tramos o aparecían nuevas incidencias. Por ello, el dato de 17 carreteras y 25 tramos debe entenderse como un balance de la mañana del 19 de octubre y no como una situación permanente.",
+      "category": "TURISMO",
+      "seo_title": "17 carreteras cortadas por inundaciones en la Marina Alta",
+      "meta_description": "La Comunitat Valenciana registraba 17 carreteras cortadas y 25 tramos afectados por inundaciones, desprendimientos y acumulaciones de agua.",
+      "sources": [
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "El Debate",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+        "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+        "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La cifra de 17 vías y 25 tramos corresponde a una actualización de la mañana del 19 de octubre y no debe presentarse como un balance permanente.",
+          "El candidato clasifica la noticia en TURISMO, pero el contenido corresponde principalmente a SUCESOS, MOVILIDAD o INFRAESTRUCTURAS.",
+          "No se localizó en la búsqueda una nota primaria accesible de la Generalitat con el listado completo; la cifra está corroborada por Europa Press y El Debate mediante datos atribuidos a la administración autonómica."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_0da3aae15ef15c5d",
+        "quality_gate_evaluated_at": "2026-10-19T21:05:52.096Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La cifra corresponde a una actualización de la mañana del 19 de octubre de 2026 y podía cambiar durante la jornada.",
+        "La información procede de fuentes secundarias que atribuyen los datos a la administración autonómica; no se localizó una nota primaria accesible con el listado completo.",
+        "Aunque el expediente está clasificado en TURISMO, el contenido es principalmente de movilidad, infraestructuras y sucesos."
+      ],
+      "published_at": "2026-10-19T21:05:45.057Z",
+      "updated_at": "2026-10-19T21:05:52.422Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_847f5f15231fa341",
       "external_id": "drf_43b1e4fb82e8afc6",

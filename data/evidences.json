@@ -1,125 +1,61 @@
 {
-  "generated_at": "2026-10-19T15:38:34.686Z",
-  "count": 15,
+  "generated_at": "2026-10-19T21:05:07.871Z",
+  "count": 7,
   "evidences": [
     {
-      "id": "evd_d38ec20685dd245a",
-      "investigation_id": "inv_00d9a4e3f8e4efe9",
-      "source_name": "RTVE",
-      "source_url": "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
-      "evidence": "Informa de que la Generalitat Valenciana decretó el confinamiento en la Safor y la Marina Alta durante la DANA Adam, en un contexto de inundaciones graves y rescates masivos.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_2dc4e27c1386d1d6",
-      "investigation_id": "inv_00d9a4e3f8e4efe9",
+      "id": "evd_63521c6f49c081a4",
+      "investigation_id": "inv_dff4739d630b37f5",
       "source_name": "Cadena SER",
-      "source_url": "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
-      "evidence": "Recoge la elevación a situación 2 del plan de inundaciones en la Marina Alta y la Safor, el envío de dos ES-Alert y la petición de confinamiento domiciliario; también informa de carreteras cortadas.",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/la-generalitat-mantiene-ocho-municipios-confinados-por-la-dana-adam-y-lo-levanta-en-mas-de-100-pueblos-radio-valencia/",
+      "evidence": "Informó de que, durante la tarde del 19 de octubre, el confinamiento se había reducido a ocho municipios después de levantar las restricciones en más de un centenar de localidades. La información identificó entre los municipios afectados a Xàbia, Pego y Els Poblets.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_c8ff17c1dfa1b336",
-      "investigation_id": "inv_00d9a4e3f8e4efe9",
-      "source_name": "EFE reproducida por Infobae",
-      "source_url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
-      "evidence": "Resume que la Comunidad Valenciana confinó 145 municipios de Valencia y Alicante por las lluvias de la DANA Adam.",
+      "id": "evd_59859f5601e70fb7",
+      "investigation_id": "inv_dff4739d630b37f5",
+      "source_name": "El País",
+      "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
+      "evidence": "Describió la orden inicial para 145 municipios y la reducción posterior del confinamiento a ocho: Bellreguard, Daimús, Miramar, Oliva, Piles, Xàbia, Pego y Els Poblets. También situó la emergencia en nivel 2 durante la fase más crítica.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_255b9563ca22c035",
-      "investigation_id": "inv_00d9a4e3f8e4efe9",
-      "source_name": "Protección Civil y Emergencias",
-      "source_url": "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias",
-      "evidence": "Fuente oficial que había mantenido la alerta por la DANA Adam y advertía de lluvias torrenciales, inundaciones locales y crecidas repentinas en el litoral mediterráneo hasta el 19 de octubre.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_c1a0390bc57b57a5",
-      "investigation_id": "inv_3560461508c3919a",
-      "source_name": "Redacción Médica",
-      "source_url": "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
-      "evidence": "Informa de que la Conselleria de Sanidad reprogramaría las citas de pacientes de municipios incluidos en la orden de confinamiento y que los afectados recibirían un SMS. También describe la continuidad de la atención primaria en el departamento de Dénia, la ampliación de urgencias en PAC y el mantenimiento de la actividad hospitalaria.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_89fdd1afbb317fe0",
-      "investigation_id": "inv_3560461508c3919a",
-      "source_name": "Gaceta Médica",
-      "source_url": "https://gacetamedica.com/seccion-politica/",
-      "evidence": "Incluye la comunicación sobre la reprogramación de citas de pacientes de municipios afectados por la orden de confinamiento por la DANA Adam.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_04d65f763deb4c23",
-      "investigation_id": "inv_3560461508c3919a",
-      "source_name": "ConSalud",
-      "source_url": "https://www.consalud.es/salud35/",
-      "evidence": "Resume que la Conselleria garantizó la atención urgente hospitalaria y de atención primaria, reorganizó la asistencia en Gandia y Dénia, mantuvo tratamientos esenciales y avisó por SMS de las nuevas citas.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_80e5a7e9b8fb3b70",
-      "investigation_id": "inv_1b84e1ffa50ab213",
-      "source_name": "MarinaAlta.es / Dénia FM",
-      "source_url": "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
-      "evidence": "Informa, citando a la Comandancia de Alicante, del despliegue de GEAS, unidades de seguridad ciudadana y un helicóptero del Servicio Aéreo para rescatar afectados y atender incidencias en Pego, Dénia y El Verger.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_67f749a77f4c38d5",
-      "investigation_id": "inv_1b84e1ffa50ab213",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
-      "evidence": "Confirma la participación de las patrullas de la Compañía Territorial de Calpe en el dispositivo de emergencia, junto con especialistas en rescates acuáticos, unidades de seguridad ciudadana y un helicóptero, coordinados con bomberos y policías locales.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_ff677f571a98e483",
-      "investigation_id": "inv_1b84e1ffa50ab213",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
-      "evidence": "Describe la actuación de GEAS, USECIC, el helicóptero del Servicio Aéreo y patrullas de Calpe, además de labores de auxilio a ciudadanos atrapados y comprobación de vehículos arrastrados por el torrente.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_43e1f5350a9f033b",
-      "investigation_id": "inv_1b84e1ffa50ab213",
-      "source_name": "Ministerio del Interior",
-      "source_url": "https://www.interior.gob.es/opencms/es/prensa",
-      "evidence": "Página oficial de prensa del Ministerio del Interior consultada como referencia institucional; la búsqueda no recuperó una nota específica con el detalle completo del operativo de la Marina Alta.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_64fc79ce2c7bbf01",
-      "investigation_id": "inv_3de690b7932a46a2",
-      "source_name": "Europa Press reproducida por Noticias de Navarra",
-      "source_url": "https://www.noticiasdenavarra.com/sociedad/2026/10/19/bomberos-alicante-rescatan-personas-tejados-11664128.html",
-      "evidence": "Informa de casi 400 llamadas de asistencia, más de 50 efectivos movilizados, prioridad en rescates de personas atrapadas y mayor concentración de intervenciones en Pego. También aporta 65 intervenciones entre las 20:15 y las 07:43 y 31 actuaciones en Pego.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_e2789822f6a96409",
-      "investigation_id": "inv_3de690b7932a46a2",
-      "source_name": "Alicante Extra",
-      "source_url": "https://alicantextra.com/es/comarcas/noche-rescates-alicante-dana-adam-bomberos-salvan-personas-atrapadas-tejados-coches_601529_102.html",
-      "evidence": "Corrobora la movilización de más de 50 efectivos, las casi 400 llamadas, los rescates en tejados y vehículos, y que Pego y Xàbia concentraron la mayor parte de las intervenciones.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_09448cef18ddfc6e",
-      "investigation_id": "inv_3de690b7932a46a2",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/la-marina-alta-castigada-por-las-inundaciones-pego-el-municipio-con-mas-intervenciones-de-rescate/",
-      "evidence": "Recoge la declaración del portavoz del Consorcio sobre más de 50 efectivos, cerca de 400 llamadas, prioridad absoluta a los salvamentos y llegada del helicóptero del Consorcio.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_42adc8cd6cbccff4",
-      "investigation_id": "inv_3de690b7932a46a2",
+      "id": "evd_693f90a995a39dff",
+      "investigation_id": "inv_dff4739d630b37f5",
       "source_name": "Cadena SER",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
-      "evidence": "Confirma que, durante la noche y la madrugada, los bomberos recibieron cerca de 400 llamadas y movilizaron a más de 50 efectivos, con rescates de personas atrapadas en tejados y vehículos.",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/la-generalitat-mantiene-ocho-municipios-confinados-por-la-dana-adam-y-lo-levanta-en-mas-de-100-pueblos-radio-valencia/?outputType=amp",
+      "evidence": "La actualización posterior señaló que la Generalitat levantó el confinamiento de los ocho municipios que todavía tenían restricciones y rebajó a situación 1 el Plan Especial de Inundaciones en la Marina Alta y la Safor.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_63dbd224456ff187",
+      "investigation_id": "inv_dff4739d630b37f5",
+      "source_name": "Europa Press",
+      "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
+      "evidence": "Informó de que los equipos de conservación de la Generalitat seguían trabajando para recuperar la circulación en carreteras afectadas por inundaciones, acumulaciones de agua y desprendimientos, especialmente en la Safor y la Marina Alta.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_70bd0d1a157c0c75",
+      "investigation_id": "inv_b251c50d1fcaeea3",
+      "source_name": "Europa Press",
+      "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+      "evidence": "Con datos del Centro de Coordinación de Emergencias de las 08.00 horas, informó de 15 carreteras cortadas y 23 tramos afectados, con incidencias en la carretera 7420, la 7421 y la CV-700 en la Marina Alta. Esta actualización documenta la evolución de los cortes, aunque todavía recogía una cifra inferior a la posterior de 17 vías y 25 tramos.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_1d88fb8c255b686d",
+      "investigation_id": "inv_b251c50d1fcaeea3",
+      "source_name": "El Debate",
+      "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+      "evidence": "Con datos de la Conselleria de Infraestructuras de las 08.59 horas, informó de 17 vías cortadas en algún tramo y 25 tramos viarios afectados. Detalló cortes en la Marina Alta en las carreteras 7420, 7421, CV-700, CV-723, CV-727 y CV-747, esta última a la altura de Xàbia.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_9cbdcfe39007772f",
+      "investigation_id": "inv_b251c50d1fcaeea3",
+      "source_name": "Europa Press",
+      "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
+      "evidence": "En una actualización de la tarde, informó de trabajos de la Generalitat para restituir la circulación en carreteras de la Safor y la Marina Alta, con acumulaciones de agua en la CV-700 y la CV-715 y desprendimientos en la CV-720.",
       "source_type": "SECONDARY"
     }
   ]

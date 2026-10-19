@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-19T15:40:06.595Z",
+  "generated_at": "2026-10-19T21:06:04.411Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-19T15:40:06.428Z",
+  "last_activity": "2026-10-19T21:06:04.218Z",
   "newspaper": {
-    "archive_total": 104,
-    "published_today": 5,
+    "archive_total": 105,
+    "published_today": 6,
     "published_last_7_days": 25,
     "categories": {
+      "TURISMO": 10,
       "LOCAL": 15,
       "SOCIEDAD": 13,
       "SUCESOS": 14,
       "ECONOMIA": 16,
       "POLITICA": 9,
       "MEDIO_AMBIENTE": 18,
-      "TURISMO": 9,
       "DEPORTES": 4,
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_646b43f9e41f947e",
+        "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
+        "category": "TURISMO",
+        "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
+        "published_at": "2026-10-19T21:05:45.057Z"
+      },
       {
         "archive_id": "arc_847f5f15231fa341",
         "title": "La Generalitat eleva a situación 2 la emergencia por inundaciones en la Marina Alta",
@@ -69,23 +76,16 @@
         "category": "POLITICA",
         "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
         "published_at": "2026-10-18T05:56:59.592Z"
-      },
-      {
-        "archive_id": "arc_d643cf6e67506801",
-        "title": "El paro juvenil aumenta un 45,59% en la Marina Alta tras el verano",
-        "category": "ECONOMIA",
-        "slug": "paro-juvenil-aumenta-marina-alta-septiembre-2026",
-        "published_at": "2026-10-17T17:13:20.309Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 4,
-    "eligible": 3,
-    "quarantined": 1,
-    "archive_added": 3
+    "drafts": 1,
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_65c5a3d95773696e",
-      "slug": "bomberos-cerca-400-llamadas-rescates-marina-alta",
-      "category": "SUCESOS",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-19T15:39:52.004Z"
-    }
-  ]
+  "quarantine": []
 }

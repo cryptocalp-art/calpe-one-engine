@@ -3,446 +3,145 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-19T15:39:52.137Z",
+  "generated_at": "2026-10-19T21:05:52.261Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 4,
-  "ready_count": 3,
-  "quarantined_count": 1,
+  "drafts_seen": 1,
+  "ready_count": 1,
+  "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_8c7244333350e965",
+      "export_id": "exp_cc3baaff2d2c0fee",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-19T15:39:52.137Z",
-      "source_draft_id": "drf_43b1e4fb82e8afc6",
-      "source_investigation_id": "inv_00d9a4e3f8e4efe9",
-      "candidate_fingerprint": "8f7630f6e18d5dec0627d8c3d99e419421fec84d90ff44d5f1188f36ecc21e22",
-      "quality_gate_id": "qg_ddcad265e8c22b57",
+      "generated_at": "2026-10-19T21:05:52.261Z",
+      "source_draft_id": "drf_e2d80186a624b69f",
+      "source_investigation_id": "inv_b251c50d1fcaeea3",
+      "candidate_fingerprint": "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7",
+      "quality_gate_id": "qg_0da3aae15ef15c5d",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_43b1e4fb82e8afc6",
-        "investigation_id": "inv_00d9a4e3f8e4efe9",
-        "candidate_fingerprint": "8f7630f6e18d5dec0627d8c3d99e419421fec84d90ff44d5f1188f36ecc21e22",
-        "title": "La Generalitat eleva a situación 2 la emergencia por inundaciones en la Marina Alta",
-        "subtitle": "Los avisos ES-Alert pidieron a la población permanecer en casa y evitar desplazamientos ante el episodio de lluvias",
-        "summary": "La Generalitat elevó a situación 2 el plan especial de inundaciones en la Marina Alta y la Safor durante el episodio de la DANA Adam. Las autoridades enviaron mensajes ES-Alert para pedir a la población que se confinara en sus domicilios y evitara los desplazamientos.",
-        "body": "La emergencia por inundaciones alcanzó la situación 2 en la Marina Alta y la Safor, según la información difundida durante el episodio de lluvias. La medida afectó a municipios de la Marina Alta y al litoral norte de Alicante, en un contexto de inundaciones, rescates y cortes de carreteras.\n\nLos avisos enviados mediante el sistema ES-Alert reclamaron a la población que permaneciera en sus viviendas y que evitara desplazarse. La petición se produjo mientras distintos servicios de emergencia atendían incidencias relacionadas con el agua y se registraban vías afectadas por las inundaciones.\n\nUna referencia de agencia reproducida por Infobae situó en 145 el número de municipios afectados por el confinamiento, 67 en Alicante y 78 en Valencia. Esta cifra está respaldada por esa referencia, aunque el listado municipal completo requiere comprobación documental en el Diari Oficial de la Generalitat Valenciana.\n\nLa información disponible confirma la elevación del nivel de emergencia y el envío de los avisos a la población. Sin embargo, no se ha localizado directamente el PDF o el enlace oficial del DOGV correspondiente a la supuesta Orden 11/2026, de 19 de octubre. Por ese motivo, los detalles jurídicos de la medida y la relación exacta de municipios deben revisarse antes de presentar el confinamiento como una disposición normativa formal.\n\nLa situación se enmarcó en un episodio de lluvias torrenciales asociado a la DANA Adam, con advertencias sobre posibles inundaciones locales y crecidas repentinas en el litoral mediterráneo.",
-        "category": "LOCAL",
-        "slug": "generalitat-situacion-2-emergencia-inundaciones-marina-alta",
-        "seo_title": "La Generalitat eleva la emergencia por inundaciones en la Marina Alta",
-        "meta_description": "La Generalitat eleva a situación 2 la emergencia en la Marina Alta y envía ES-Alert para pedir confinamiento y evitar desplazamientos.",
+        "external_id": "drf_e2d80186a624b69f",
+        "investigation_id": "inv_b251c50d1fcaeea3",
+        "candidate_fingerprint": "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7",
+        "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
+        "subtitle": "El balance de la mañana del 19 de octubre contabiliza 25 tramos viarios afectados por agua, desprendimientos y acumulaciones de agua",
+        "summary": "Un total de 17 carreteras presentaban algún tramo cortado y 25 tramos viarios estaban afectados en la Comunitat Valenciana durante la mañana del 19 de octubre, según datos atribuidos a la administración autonómica. La Marina Alta concentraba varias de las incidencias, con accesos afectados en Pego, la Vall de Gallinera y Xàbia.",
+        "body": "El balance difundido durante la mañana del 19 de octubre situaba en 17 el número de carreteras con algún tramo cortado en la Comunitat Valenciana. En total, se contabilizaban 25 tramos viarios afectados por inundaciones, desprendimientos y acumulaciones de agua.\n\nLa Marina Alta era una de las zonas con más incidencias. Entre las vías afectadas figuraban la 7420, la 7421, la CV-700, la CV-723, la CV-727 y la CV-747, esta última a la altura de Xàbia. También seguían afectados accesos o carreteras de Pego y la Vall de Gallinera.\n\nLa cifra correspondía a una actualización de la mañana, con datos de la Conselleria de Infraestructuras de las 08.59 horas. Un balance anterior, elaborado con información del Centro de Coordinación de Emergencias de las 08.00 horas, había registrado 15 carreteras cortadas y 23 tramos afectados, lo que refleja la evolución de las incidencias durante la jornada.\n\nPor la tarde, la Generalitat informó de trabajos para restituir la circulación en carreteras de la Safor y la Marina Alta. En esa actualización se señalaban acumulaciones de agua en la CV-700 y la CV-715, además de desprendimientos en la CV-720.\n\nEl número de vías afectadas podía variar a lo largo del día a medida que se reabrían tramos o aparecían nuevas incidencias. Por ello, el dato de 17 carreteras y 25 tramos debe entenderse como un balance de la mañana del 19 de octubre y no como una situación permanente.",
+        "category": "TURISMO",
+        "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
+        "seo_title": "17 carreteras cortadas por inundaciones en la Marina Alta",
+        "meta_description": "La Comunitat Valenciana registraba 17 carreteras cortadas y 25 tramos afectados por inundaciones, desprendimientos y acumulaciones de agua.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ddcad265e8c22b57",
+        "quality_gate_id": "qg_0da3aae15ef15c5d",
         "editorial_notes": [
-          "No presentar como verificada la supuesta Orden 11/2026 del DOGV.",
-          "La cifra de 145 municipios procede de una referencia de agencia y el listado completo requiere comprobación documental."
+          "La cifra corresponde a una actualización de la mañana del 19 de octubre de 2026 y podía cambiar durante la jornada.",
+          "La información procede de fuentes secundarias que atribuyen los datos a la administración autonómica; no se localizó una nota primaria accesible con el listado completo.",
+          "Aunque el expediente está clasificado en TURISMO, el contenido es principalmente de movilidad, infraestructuras y sucesos."
         ],
         "sources": [
           {
-            "name": "RTVE",
-            "url": "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
             "type": "SECONDARY"
           },
           {
-            "name": "Cadena SER",
-            "url": "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
+            "name": "El Debate",
+            "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
             "type": "SECONDARY"
           },
           {
-            "name": "EFE reproducida por Infobae",
-            "url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
             "type": "SECONDARY"
-          },
-          {
-            "name": "Protección Civil y Emergencias",
-            "url": "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias",
-            "type": "PRIMARY"
           }
         ],
         "source_urls": [
-          "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
-          "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
-          "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
-          "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias"
+          "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+          "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+          "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 4,
-          "caveats": [
-            "No se localizó directamente el PDF o enlace oficial del DOGV correspondiente a la alegada Orden 11/2026 de 19 de octubre.",
-            "La cifra exacta de 145 municipios está respaldada por una referencia de agencia reproducida por Infobae, pero el listado municipal completo requiere comprobación documental en el DOGV."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ddcad265e8c22b57",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "created_at": "2026-10-19T15:39:28.821Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_43b1e4fb82e8afc6",
-        "title": "La Generalitat eleva a situación 2 la emergencia por inundaciones en la Marina Alta",
-        "slug": "generalitat-situacion-2-emergencia-inundaciones-marina-alta",
-        "summary": "La Generalitat elevó a situación 2 el plan especial de inundaciones en la Marina Alta y la Safor durante el episodio de la DANA Adam. Las autoridades enviaron mensajes ES-Alert para pedir a la población que se confinara en sus domicilios y evitara los desplazamientos.",
-        "body": "La emergencia por inundaciones alcanzó la situación 2 en la Marina Alta y la Safor, según la información difundida durante el episodio de lluvias. La medida afectó a municipios de la Marina Alta y al litoral norte de Alicante, en un contexto de inundaciones, rescates y cortes de carreteras.\n\nLos avisos enviados mediante el sistema ES-Alert reclamaron a la población que permaneciera en sus viviendas y que evitara desplazarse. La petición se produjo mientras distintos servicios de emergencia atendían incidencias relacionadas con el agua y se registraban vías afectadas por las inundaciones.\n\nUna referencia de agencia reproducida por Infobae situó en 145 el número de municipios afectados por el confinamiento, 67 en Alicante y 78 en Valencia. Esta cifra está respaldada por esa referencia, aunque el listado municipal completo requiere comprobación documental en el Diari Oficial de la Generalitat Valenciana.\n\nLa información disponible confirma la elevación del nivel de emergencia y el envío de los avisos a la población. Sin embargo, no se ha localizado directamente el PDF o el enlace oficial del DOGV correspondiente a la supuesta Orden 11/2026, de 19 de octubre. Por ese motivo, los detalles jurídicos de la medida y la relación exacta de municipios deben revisarse antes de presentar el confinamiento como una disposición normativa formal.\n\nLa situación se enmarcó en un episodio de lluvias torrenciales asociado a la DANA Adam, con advertencias sobre posibles inundaciones locales y crecidas repentinas en el litoral mediterráneo.",
-        "category": "LOCAL",
-        "seo_title": "La Generalitat eleva la emergencia por inundaciones en la Marina Alta",
-        "meta_description": "La Generalitat eleva a situación 2 la emergencia en la Marina Alta y envía ES-Alert para pedir confinamiento y evitar desplazamientos.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_ddcad265e8c22b57",
-        "published_at": null,
-        "source_urls": [
-          "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
-          "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
-          "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
-          "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias"
-        ],
-        "sources": [
-          {
-            "name": "RTVE",
-            "url": "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Cadena SER",
-            "url": "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "EFE reproducida por Infobae",
-            "url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Protección Civil y Emergencias",
-            "url": "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias",
-            "type": "PRIMARY"
-          }
-        ],
-        "investigation_id": "inv_00d9a4e3f8e4efe9",
-        "candidate_fingerprint": "8f7630f6e18d5dec0627d8c3d99e419421fec84d90ff44d5f1188f36ecc21e22",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 4,
-          "caveats": [
-            "No se localizó directamente el PDF o enlace oficial del DOGV correspondiente a la alegada Orden 11/2026 de 19 de octubre.",
-            "La cifra exacta de 145 municipios está respaldada por una referencia de agencia reproducida por Infobae, pero el listado municipal completo requiere comprobación documental en el DOGV."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_ddcad265e8c22b57",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_e9132e55c388157e",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-19T15:39:52.137Z",
-      "source_draft_id": "drf_36bad0007f25ed64",
-      "source_investigation_id": "inv_3560461508c3919a",
-      "candidate_fingerprint": "582150fb7a16e537e50a768eb8c7008b7e93e46996ce6bfb39c3ea20b49c6a9f",
-      "quality_gate_id": "qg_283edea402288852",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_36bad0007f25ed64",
-        "investigation_id": "inv_3560461508c3919a",
-        "candidate_fingerprint": "582150fb7a16e537e50a768eb8c7008b7e93e46996ce6bfb39c3ea20b49c6a9f",
-        "title": "Sanidad reprograma las citas de los municipios afectados por el confinamiento",
-        "subtitle": "Las urgencias, la atención primaria urgente y los tratamientos esenciales continuaron operativos durante el episodio de la DANA Adam",
-        "summary": "La Conselleria de Sanidad reprogramó las citas de los pacientes de los municipios incluidos en el confinamiento por la DANA Adam. La comunicación de los cambios se realizó mediante mensajes SMS, mientras se mantuvieron las urgencias y la atención sanitaria prioritaria.",
-        "body": "La Conselleria de Sanidad comunicó la reprogramación de las citas médicas de los pacientes de los municipios afectados por la orden de confinamiento durante el episodio de la DANA Adam. Las personas afectadas recibieron un SMS con información sobre las nuevas citas, según la comunicación recogida por varias publicaciones especializadas.\n\nLa asistencia urgente continuó garantizada. Las urgencias hospitalarias y la atención primaria urgente siguieron operativas, al igual que los puntos de atención continuada (PAC). La organización de la asistencia incluyó medidas específicas en los departamentos de salud de Gandia y Dénia.\n\nLa actividad hospitalaria se mantuvo y también continuaron los tratamientos considerados esenciales. Entre ellos figuran la oxigenoterapia y la hemodiálisis, con ajustes en las zonas más afectadas por las condiciones del episodio.\n\nLa reprogramación se planteó para pacientes de los municipios incluidos en el confinamiento, mientras que la atención urgente no quedó interrumpida. La información disponible describe igualmente una reorganización de la atención primaria en el departamento de Dénia y una ampliación de la respuesta urgente en los PAC.\n\nNo se ha localizado una nota oficial directa de la Conselleria de Sanidad con el texto completo de la medida. Por ello, los detalles concretos de la reorganización asistencial y de la distribución de tratamientos deben contrastarse con una comunicación primaria antes de ampliar la información.\n\nLa documentación revisada no permite confirmar la afirmación relativa a la actividad de las farmacias de guardia, por lo que este aspecto no se incorpora como hecho.",
-        "category": "SOCIEDAD",
-        "slug": "sanidad-reprograma-citas-confinamiento-dana-adam",
-        "seo_title": "Sanidad reprograma citas por el confinamiento de la DANA",
-        "meta_description": "Sanidad reprograma citas mediante SMS en municipios confinados y mantiene urgencias, PAC, hospitales y tratamientos esenciales.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_283edea402288852",
-        "editorial_notes": [
-          "No afirmar que las farmacias de guardia mantuvieron su actividad: la afirmación no está verificada.",
-          "La fuente primaria directa de la Conselleria no fue localizada; revisar los detalles antes de publicar."
-        ],
-        "sources": [
-          {
-            "name": "Redacción Médica",
-            "url": "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Gaceta Médica",
-            "url": "https://gacetamedica.com/seccion-politica/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "ConSalud",
-            "url": "https://www.consalud.es/salud35/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
-          "https://gacetamedica.com/seccion-politica/",
-          "https://www.consalud.es/salud35/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
           "supported_claim_count": 5,
           "evidence_count": 3,
           "caveats": [
-            "La fuente primaria de la Conselleria de Sanidad no apareció localizada directamente durante la búsqueda.",
-            "La afirmación concreta sobre farmacias de guardia y la distribución exacta de tratamientos necesita confirmación en un comunicado oficial."
+            "La cifra de 17 vías y 25 tramos corresponde a una actualización de la mañana del 19 de octubre y no debe presentarse como un balance permanente.",
+            "El candidato clasifica la noticia en TURISMO, pero el contenido corresponde principalmente a SUCESOS, MOVILIDAD o INFRAESTRUCTURAS.",
+            "No se localizó en la búsqueda una nota primaria accesible de la Generalitat con el listado completo; la cifra está corroborada por Europa Press y El Debate mediante datos atribuidos a la administración autonómica."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_283edea402288852",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "created_at": "2026-10-19T15:39:28.821Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_36bad0007f25ed64",
-        "title": "Sanidad reprograma las citas de los municipios afectados por el confinamiento",
-        "slug": "sanidad-reprograma-citas-confinamiento-dana-adam",
-        "summary": "La Conselleria de Sanidad reprogramó las citas de los pacientes de los municipios incluidos en el confinamiento por la DANA Adam. La comunicación de los cambios se realizó mediante mensajes SMS, mientras se mantuvieron las urgencias y la atención sanitaria prioritaria.",
-        "body": "La Conselleria de Sanidad comunicó la reprogramación de las citas médicas de los pacientes de los municipios afectados por la orden de confinamiento durante el episodio de la DANA Adam. Las personas afectadas recibieron un SMS con información sobre las nuevas citas, según la comunicación recogida por varias publicaciones especializadas.\n\nLa asistencia urgente continuó garantizada. Las urgencias hospitalarias y la atención primaria urgente siguieron operativas, al igual que los puntos de atención continuada (PAC). La organización de la asistencia incluyó medidas específicas en los departamentos de salud de Gandia y Dénia.\n\nLa actividad hospitalaria se mantuvo y también continuaron los tratamientos considerados esenciales. Entre ellos figuran la oxigenoterapia y la hemodiálisis, con ajustes en las zonas más afectadas por las condiciones del episodio.\n\nLa reprogramación se planteó para pacientes de los municipios incluidos en el confinamiento, mientras que la atención urgente no quedó interrumpida. La información disponible describe igualmente una reorganización de la atención primaria en el departamento de Dénia y una ampliación de la respuesta urgente en los PAC.\n\nNo se ha localizado una nota oficial directa de la Conselleria de Sanidad con el texto completo de la medida. Por ello, los detalles concretos de la reorganización asistencial y de la distribución de tratamientos deben contrastarse con una comunicación primaria antes de ampliar la información.\n\nLa documentación revisada no permite confirmar la afirmación relativa a la actividad de las farmacias de guardia, por lo que este aspecto no se incorpora como hecho.",
-        "category": "SOCIEDAD",
-        "seo_title": "Sanidad reprograma citas por el confinamiento de la DANA",
-        "meta_description": "Sanidad reprograma citas mediante SMS en municipios confinados y mantiene urgencias, PAC, hospitales y tratamientos esenciales.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_283edea402288852",
-        "published_at": null,
-        "source_urls": [
-          "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
-          "https://gacetamedica.com/seccion-politica/",
-          "https://www.consalud.es/salud35/"
-        ],
-        "sources": [
-          {
-            "name": "Redacción Médica",
-            "url": "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Gaceta Médica",
-            "url": "https://gacetamedica.com/seccion-politica/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "ConSalud",
-            "url": "https://www.consalud.es/salud35/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_3560461508c3919a",
-        "candidate_fingerprint": "582150fb7a16e537e50a768eb8c7008b7e93e46996ce6bfb39c3ea20b49c6a9f",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 5,
-          "evidence_count": 3,
-          "caveats": [
-            "La fuente primaria de la Conselleria de Sanidad no apareció localizada directamente durante la búsqueda.",
-            "La afirmación concreta sobre farmacias de guardia y la distribución exacta de tratamientos necesita confirmación en un comunicado oficial."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_283edea402288852",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_c3c812c06723afae",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-19T15:39:52.137Z",
-      "source_draft_id": "drf_4f028546289c2131",
-      "source_investigation_id": "inv_1b84e1ffa50ab213",
-      "candidate_fingerprint": "601624b49768680423c72fde79807dd4e5db421c41758acb6118e7ce5a0f1a0f",
-      "quality_gate_id": "qg_00d031d6bcb32d23",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_4f028546289c2131",
-        "investigation_id": "inv_1b84e1ffa50ab213",
-        "candidate_fingerprint": "601624b49768680423c72fde79807dd4e5db421c41758acb6118e7ce5a0f1a0f",
-        "title": "La Guardia Civil despliega un dispositivo de auxilio por las inundaciones en la Marina Alta",
-        "subtitle": "El operativo reunió a especialistas en rescate acuático, unidades de seguridad ciudadana, un helicóptero y patrullas territoriales",
-        "summary": "La Guardia Civil desplegó un dispositivo de auxilio en la Marina Alta durante las inundaciones asociadas a la DANA Adam. En el operativo participaron efectivos del GEAS, unidades USECIC, un helicóptero del Servicio Aéreo y patrullas de la Compañía Territorial de Calpe.",
-        "body": "La Guardia Civil movilizó un dispositivo de auxilio en la Marina Alta para atender las consecuencias de las inundaciones provocadas durante el episodio de la DANA Adam. El operativo incluyó efectivos del Grupo Especial de Actividades Subacuáticas (GEAS) de Alicante, unidades USECIC de Alicante y Torrevieja y un helicóptero del Servicio Aéreo de la Zona de Valencia.\n\nTambién participaron patrullas territoriales de la Compañía de Calpe. Los agentes intervinieron para auxiliar a personas atrapadas y comprobar el estado de vehículos arrastrados o afectados por el agua. Las actuaciones se desarrollaron en coordinación con policías locales, bomberos y otros servicios de emergencia.\n\nLa información difundida sobre el dispositivo sitúa entre las zonas atendidas Pego, Dénia y El Verger. Las unidades especializadas en rescates acuáticos y el helicóptero se incorporaron a las labores de auxilio junto con los equipos desplegados sobre el terreno.\n\nEl operativo respondió a un episodio con inundaciones y corrientes de agua que obligó a activar recursos de emergencia en distintos puntos de la comarca. Las patrullas territoriales asumieron tareas de apoyo y comprobación, mientras que los equipos especializados participaron en las intervenciones de rescate.\n\nLas fuentes consultadas confirman la presencia de las unidades principales y la coordinación con otros cuerpos y servicios. No obstante, no se ha localizado una comunicación primaria específica de la Guardia Civil con el detalle completo del operativo. Tampoco consta, con la información disponible, el número exacto de agentes desplegados.\n\nPor tanto, el balance permite describir la composición general del dispositivo y sus tareas de auxilio, pero no cuantificar sus efectivos ni atribuirle un número cerrado de rescates o intervenciones.",
-        "category": "SUCESOS",
-        "slug": "guardia-civil-dispositivo-auxilio-inundaciones-marina-alta",
-        "seo_title": "La Guardia Civil refuerza el auxilio por las inundaciones",
-        "meta_description": "La Guardia Civil despliega GEAS, USECIC, un helicóptero y patrullas de Calpe para auxiliar a afectados por las inundaciones en la Marina Alta.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_00d031d6bcb32d23",
-        "editorial_notes": [
-          "No incluir un número de agentes o de rescates: no está verificado por una fuente primaria específica.",
-          "Mantener la atribución general del operativo a las fuentes disponibles."
-        ],
-        "sources": [
-          {
-            "name": "MarinaAlta.es / Dénia FM",
-            "url": "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "LaMarinaAlta.com",
-            "url": "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Ministerio del Interior",
-            "url": "https://www.interior.gob.es/opencms/es/prensa",
-            "type": "PRIMARY"
-          }
-        ],
-        "source_urls": [
-          "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
-          "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
-          "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
-          "https://www.interior.gob.es/opencms/es/prensa"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 4,
-          "caveats": [
-            "La fuente primaria específica de la Guardia Civil sobre este operativo no quedó localizada en una página individual accesible durante la búsqueda.",
-            "La evidencia independiente confirma el dispositivo y sus unidades principales, pero no permite verificar el número exacto de agentes desplegados."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_00d031d6bcb32d23",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
+          "quality_gate_id": "qg_0da3aae15ef15c5d",
+          "quality_gate_evaluated_at": "2026-10-19T21:05:52.096Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-10-19T15:39:28.821Z",
+        "created_at": "2026-10-19T21:05:45.057Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_4f028546289c2131",
-        "title": "La Guardia Civil despliega un dispositivo de auxilio por las inundaciones en la Marina Alta",
-        "slug": "guardia-civil-dispositivo-auxilio-inundaciones-marina-alta",
-        "summary": "La Guardia Civil desplegó un dispositivo de auxilio en la Marina Alta durante las inundaciones asociadas a la DANA Adam. En el operativo participaron efectivos del GEAS, unidades USECIC, un helicóptero del Servicio Aéreo y patrullas de la Compañía Territorial de Calpe.",
-        "body": "La Guardia Civil movilizó un dispositivo de auxilio en la Marina Alta para atender las consecuencias de las inundaciones provocadas durante el episodio de la DANA Adam. El operativo incluyó efectivos del Grupo Especial de Actividades Subacuáticas (GEAS) de Alicante, unidades USECIC de Alicante y Torrevieja y un helicóptero del Servicio Aéreo de la Zona de Valencia.\n\nTambién participaron patrullas territoriales de la Compañía de Calpe. Los agentes intervinieron para auxiliar a personas atrapadas y comprobar el estado de vehículos arrastrados o afectados por el agua. Las actuaciones se desarrollaron en coordinación con policías locales, bomberos y otros servicios de emergencia.\n\nLa información difundida sobre el dispositivo sitúa entre las zonas atendidas Pego, Dénia y El Verger. Las unidades especializadas en rescates acuáticos y el helicóptero se incorporaron a las labores de auxilio junto con los equipos desplegados sobre el terreno.\n\nEl operativo respondió a un episodio con inundaciones y corrientes de agua que obligó a activar recursos de emergencia en distintos puntos de la comarca. Las patrullas territoriales asumieron tareas de apoyo y comprobación, mientras que los equipos especializados participaron en las intervenciones de rescate.\n\nLas fuentes consultadas confirman la presencia de las unidades principales y la coordinación con otros cuerpos y servicios. No obstante, no se ha localizado una comunicación primaria específica de la Guardia Civil con el detalle completo del operativo. Tampoco consta, con la información disponible, el número exacto de agentes desplegados.\n\nPor tanto, el balance permite describir la composición general del dispositivo y sus tareas de auxilio, pero no cuantificar sus efectivos ni atribuirle un número cerrado de rescates o intervenciones.",
-        "category": "SUCESOS",
-        "seo_title": "La Guardia Civil refuerza el auxilio por las inundaciones",
-        "meta_description": "La Guardia Civil despliega GEAS, USECIC, un helicóptero y patrullas de Calpe para auxiliar a afectados por las inundaciones en la Marina Alta.",
+        "external_id": "drf_e2d80186a624b69f",
+        "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
+        "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
+        "summary": "Un total de 17 carreteras presentaban algún tramo cortado y 25 tramos viarios estaban afectados en la Comunitat Valenciana durante la mañana del 19 de octubre, según datos atribuidos a la administración autonómica. La Marina Alta concentraba varias de las incidencias, con accesos afectados en Pego, la Vall de Gallinera y Xàbia.",
+        "body": "El balance difundido durante la mañana del 19 de octubre situaba en 17 el número de carreteras con algún tramo cortado en la Comunitat Valenciana. En total, se contabilizaban 25 tramos viarios afectados por inundaciones, desprendimientos y acumulaciones de agua.\n\nLa Marina Alta era una de las zonas con más incidencias. Entre las vías afectadas figuraban la 7420, la 7421, la CV-700, la CV-723, la CV-727 y la CV-747, esta última a la altura de Xàbia. También seguían afectados accesos o carreteras de Pego y la Vall de Gallinera.\n\nLa cifra correspondía a una actualización de la mañana, con datos de la Conselleria de Infraestructuras de las 08.59 horas. Un balance anterior, elaborado con información del Centro de Coordinación de Emergencias de las 08.00 horas, había registrado 15 carreteras cortadas y 23 tramos afectados, lo que refleja la evolución de las incidencias durante la jornada.\n\nPor la tarde, la Generalitat informó de trabajos para restituir la circulación en carreteras de la Safor y la Marina Alta. En esa actualización se señalaban acumulaciones de agua en la CV-700 y la CV-715, además de desprendimientos en la CV-720.\n\nEl número de vías afectadas podía variar a lo largo del día a medida que se reabrían tramos o aparecían nuevas incidencias. Por ello, el dato de 17 carreteras y 25 tramos debe entenderse como un balance de la mañana del 19 de octubre y no como una situación permanente.",
+        "category": "TURISMO",
+        "seo_title": "17 carreteras cortadas por inundaciones en la Marina Alta",
+        "meta_description": "La Comunitat Valenciana registraba 17 carreteras cortadas y 25 tramos afectados por inundaciones, desprendimientos y acumulaciones de agua.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_00d031d6bcb32d23",
+        "quality_gate_id": "qg_0da3aae15ef15c5d",
         "published_at": null,
         "source_urls": [
-          "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
-          "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
-          "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
-          "https://www.interior.gob.es/opencms/es/prensa"
+          "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+          "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+          "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html"
         ],
         "sources": [
           {
-            "name": "MarinaAlta.es / Dénia FM",
-            "url": "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
             "type": "SECONDARY"
           },
           {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
+            "name": "El Debate",
+            "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
             "type": "SECONDARY"
           },
           {
-            "name": "LaMarinaAlta.com",
-            "url": "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
             "type": "SECONDARY"
-          },
-          {
-            "name": "Ministerio del Interior",
-            "url": "https://www.interior.gob.es/opencms/es/prensa",
-            "type": "PRIMARY"
           }
         ],
-        "investigation_id": "inv_1b84e1ffa50ab213",
-        "candidate_fingerprint": "601624b49768680423c72fde79807dd4e5db421c41758acb6118e7ce5a0f1a0f",
+        "investigation_id": "inv_b251c50d1fcaeea3",
+        "candidate_fingerprint": "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 4,
+          "supported_claim_count": 5,
+          "evidence_count": 3,
           "caveats": [
-            "La fuente primaria específica de la Guardia Civil sobre este operativo no quedó localizada en una página individual accesible durante la búsqueda.",
-            "La evidencia independiente confirma el dispositivo y sus unidades principales, pero no permite verificar el número exacto de agentes desplegados."
+            "La cifra de 17 vías y 25 tramos corresponde a una actualización de la mañana del 19 de octubre y no debe presentarse como un balance permanente.",
+            "El candidato clasifica la noticia en TURISMO, pero el contenido corresponde principalmente a SUCESOS, MOVILIDAD o INFRAESTRUCTURAS.",
+            "No se localizó en la búsqueda una nota primaria accesible de la Generalitat con el listado completo; la cifra está corroborada por Europa Press y El Debate mediante datos atribuidos a la administración autonómica."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_00d031d6bcb32d23",
-          "quality_gate_evaluated_at": "2026-10-19T15:39:52.004Z",
+          "quality_gate_id": "qg_0da3aae15ef15c5d",
+          "quality_gate_evaluated_at": "2026-10-19T21:05:52.096Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }
     }
   ],
-  "quarantined": [
-    {
-      "export_id": "exp_33f7bc903d0147f9",
-      "draft_id": "drf_65c5a3d95773696e",
-      "investigation_id": "inv_3de690b7932a46a2",
-      "slug": "bomberos-cerca-400-llamadas-rescates-marina-alta",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
-    }
-  ]
+  "quarantined": []
 }
