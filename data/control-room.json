@@ -2,25 +2,46 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-19T07:51:01.271Z",
+  "generated_at": "2026-10-19T15:40:06.595Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-19T07:51:01.105Z",
+  "last_activity": "2026-10-19T15:40:06.428Z",
   "newspaper": {
-    "archive_total": 101,
-    "published_today": 2,
-    "published_last_7_days": 22,
+    "archive_total": 104,
+    "published_today": 5,
+    "published_last_7_days": 25,
     "categories": {
-      "LOCAL": 14,
+      "LOCAL": 15,
+      "SOCIEDAD": 13,
+      "SUCESOS": 14,
       "ECONOMIA": 16,
       "POLITICA": 9,
       "MEDIO_AMBIENTE": 18,
       "TURISMO": 9,
-      "SUCESOS": 13,
       "DEPORTES": 4,
-      "CULTURA": 6,
-      "SOCIEDAD": 12
+      "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_847f5f15231fa341",
+        "title": "La Generalitat eleva a situación 2 la emergencia por inundaciones en la Marina Alta",
+        "category": "LOCAL",
+        "slug": "generalitat-situacion-2-emergencia-inundaciones-marina-alta",
+        "published_at": "2026-10-19T15:39:28.821Z"
+      },
+      {
+        "archive_id": "arc_b7d960ea05b14c98",
+        "title": "Sanidad reprograma las citas de los municipios afectados por el confinamiento",
+        "category": "SOCIEDAD",
+        "slug": "sanidad-reprograma-citas-confinamiento-dana-adam",
+        "published_at": "2026-10-19T15:39:28.821Z"
+      },
+      {
+        "archive_id": "arc_9ac5bfe85f42d7d4",
+        "title": "La Guardia Civil despliega un dispositivo de auxilio por las inundaciones en la Marina Alta",
+        "category": "SUCESOS",
+        "slug": "guardia-civil-dispositivo-auxilio-inundaciones-marina-alta",
+        "published_at": "2026-10-19T15:39:28.821Z"
+      },
       {
         "archive_id": "arc_75d7baff8e68f094",
         "title": "El temporal deja registros próximos a 650 litros por metro cuadrado en la Marina Alta",
@@ -55,37 +76,16 @@
         "category": "ECONOMIA",
         "slug": "paro-juvenil-aumenta-marina-alta-septiembre-2026",
         "published_at": "2026-10-17T17:13:20.309Z"
-      },
-      {
-        "archive_id": "arc_f854c211de29b218",
-        "title": "AEMET activa el aviso rojo por lluvias en el litoral norte de Alicante para el domingo",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "aviso-rojo-lluvias-calp-marina-alta-domingo-18-octubre",
-        "published_at": "2026-10-17T13:45:41.534Z"
-      },
-      {
-        "archive_id": "arc_22704a4857308a44",
-        "title": "Calp abre las II Jornadas de Recreación Histórica de los Banys de la Reina",
-        "category": "TURISMO",
-        "slug": "calp-jornadas-recreacion-historica-banys-de-la-reina",
-        "published_at": "2026-10-17T09:24:34.412Z"
-      },
-      {
-        "archive_id": "arc_3944a19fbf8e6fed",
-        "title": "Orobianco cierra su etapa de alta cocina en Calp y concentra su nuevo proyecto en Barcelona",
-        "category": "ECONOMIA",
-        "slug": "orobianco-cierra-etapa-alta-cocina-calp-barcelona",
-        "published_at": "2026-10-16T21:12:32.848Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 3,
+    "drafts": 4,
     "eligible": 3,
-    "quarantined": 0,
-    "archive_added": 1
+    "quarantined": 1,
+    "archive_added": 3
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_65c5a3d95773696e",
+      "slug": "bomberos-cerca-400-llamadas-rescates-marina-alta",
+      "category": "SUCESOS",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-19T15:39:52.004Z"
+    }
+  ]
 }

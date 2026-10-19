@@ -1,9 +1,11 @@
 {
   "status": "success",
-  "generated_at": "2026-10-19T07:50:51.113Z",
+  "generated_at": "2026-10-19T15:39:52.004Z",
   "version": "quality-gate-v1",
-  "drafts_seen": 3,
+  "drafts_seen": 4,
   "eligible": 3,
-  "quarantined": 0,
-  "quarantine_reasons": {}
+  "quarantined": 1,
+  "quarantine_reasons": {
+    "CONTRADICTED_CLAIM_PRESENT": 1
+  }
 }

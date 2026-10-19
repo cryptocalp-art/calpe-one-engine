@@ -1,212 +1,274 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-19T07:49:32.306Z",
+  "generated_at": "2026-10-19T15:38:34.686Z",
   "model": "gpt-5.6-luna",
   "count": 4,
   "investigations": [
     {
-      "candidate_fingerprint": "dccd81e543e916ccf6d7c4a7827458f184d06e31090279352d197514514539c0",
-      "title": "Calp suspende las clases este lunes y mantiene cerrados el Centro Cívico y las instalaciones deportivas hasta las 10:00",
+      "candidate_fingerprint": "8f7630f6e18d5dec0627d8c3d99e419421fec84d90ff44d5f1188f36ecc21e22",
+      "title": "La Generalitat ordena el confinamiento y restringe la movilidad en la Marina Alta por el riesgo extremo de inundaciones",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La información está respaldada por el canal oficial de comunicación del Ayuntamiento de Calp, que anunció el 18 de octubre la suspensión de las clases del lunes 19 de octubre y el cierre de las instalaciones deportivas y del Centro Cívico hasta las 10:00. Una fuente periodística independiente también confirmó la suspensión de clases en Calp dentro de las medidas adoptadas en la Marina Alta.",
+      "summary": "La afirmación central está corroborada por varios medios independientes: la Generalitat elevó la emergencia por inundaciones a situación 2 en la Marina Alta y la Safor, envió mensajes ES-Alert y pidió a la población permanecer en sus domicilios y evitar desplazamientos. También se documentan inundaciones, rescates y cortes de carreteras. No se ha localizado en la búsqueda una copia directa de la supuesta Orden 11/2026 del DOGV, por lo que los detalles jurídicos y el listado exacto de 145 municipios deben revisarse antes de una publicación normativa.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp suspendió las clases el lunes 19 de octubre de 2026 en todos los colegios e institutos del municipio.",
+          "claim": "La Generalitat elevó a situación 2 el plan especial de inundaciones en la Marina Alta y la Safor.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las instalaciones deportivas municipales y el Centro Cívico permanecieron cerrados hasta las 10:00.",
+          "claim": "Se enviaron mensajes ES-Alert pidiendo a la población que se confinara y evitara desplazamientos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La medida se adoptó ante un aviso rojo por lluvias y tormentas.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales/",
-          "evidence": "El aviso municipal fechado el 18 de octubre indica que el lunes 19 de octubre se suspendían las clases en todos los colegios e institutos de Calp y que las instalaciones deportivas y el Centro Cívico permanecerían cerrados hasta las 10:00 por el aviso rojo de fuertes lluvias y tormentas. ([calpcomunica.calp.es](https://calpcomunica.calp.es/evento/aviso-suspension-de-clases-y-cierre-de-instalaciones-municipales/?utm_source=openai))",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Cadena SER / Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
-          "evidence": "La información independiente incluye a Calp entre los municipios de la Marina Alta que suspendieron las clases del lunes 19 de octubre por el episodio de lluvias torrenciales.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [],
-      "id": "inv_96ddbae89731285d",
-      "investigated_at": "2026-10-19T07:49:32.306Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "037be1a06b7b6d19894c3aff4bdcf3666e0e16be96fdc0a5ac9de0817c",
-      "title": "El temporal deja casi 650 litros por metro cuadrado en puntos de la Marina Alta y mantiene la alerta activa",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "Los datos principales están respaldados por la publicación de MarinaAlta.es, que atribuye las mediciones a la red AVAMET, y existe corroboración independiente del carácter extraordinario del episodio y de acumulaciones de entre 600 y 700 litros en la zona de l’Atzúbia y la Marina Alta. Las 27 intervenciones de bomberos también aparecen confirmadas por otra fuente. No se ha localizado una página pública independiente que reproduzca todos los registros exactos de Pego, l’Atzúbia y Calp, por lo que la confianza no es alta.",
-      "claims": [
-        {
-          "claim": "Pego y l’Atzúbia rozaron los 650 litros por metro cuadrado en las últimas 24 horas.",
+          "claim": "La medida afectó a municipios de la Marina Alta y al litoral norte de Alicante.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La estación de les Verdales, en Pego, registró 649,9 litros por metro cuadrado y la de Forna, en l’Atzúbia, 648,6 litros.",
+          "claim": "Hubo cortes de carreteras e inundaciones asociadas al episodio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "En Calp se registraron 30,8 litros por metro cuadrado.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La comarca registró inundaciones, cortes de caminos y 27 intervenciones de bomberos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La alerta y las medidas preventivas permanecían activas el 19 de octubre.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "MarinaAlta.es - Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/el-temporal-deja-casi-650-litros-en-pego-y-latzubia-y-mantiene-en-alerta-a-la-marina-alta/",
-          "evidence": "La noticia, publicada el 19 de octubre a las 06:50, atribuye a AVAMET los registros de 649,9 l/m² en les Verdales (Pego), 648,6 l/m² en Forna (l’Atzúbia) y 30,8 l/m² en Calp. También informa de inundaciones, cortes y 27 intervenciones del Consorcio Provincial de Bomberos, además de medidas preventivas y suspensión de clases en varios municipios. ([marinaalta.es](https://marinaalta.es/2026/10/el-temporal-deja-casi-650-litros-en-pego-y-latzubia-y-mantiene-en-alerta-a-la-marina-alta/?utm_source=openai))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "El Debate",
-          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
-          "evidence": "La información independiente describe acumulaciones de entre 600 y 700 l/m² en diversos puntos de la Marina Alta y señala 702 l/m² en Forna, l’Atzúbia, hasta las 07:35 del lunes 19 de octubre. Corrobora la magnitud excepcional del episodio, aunque no reproduce exactamente todos los registros de la noticia candidata. ([eldebate.com](https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html?utm_source=openai))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Alicante Al Día",
-          "source_url": "https://alicantealdia.es/las-fuertes-lluvias-ponen-en-jaque-a-la-marina-alta-con-27-intervenciones-de-los-bomberos/",
-          "evidence": "La fuente informa de 27 intervenciones del Consorcio Provincial de Bomberos de Alicante en municipios de la Marina Alta durante el episodio de lluvias del 18 de octubre, incluida una intervención en Calpe. ([alicantealdia.es](https://alicantealdia.es/las-fuertes-lluvias-ponen-en-jaque-a-la-marina-alta-con-27-intervenciones-de-los-bomberos/?utm_source=openai))",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "Los registros pluviométricos exactos proceden de una única publicación periodística que cita a AVAMET; la corroboración independiente confirma la magnitud del episodio, pero no todos los valores concretos.",
-        "La situación meteorológica y las medidas preventivas podían cambiar durante el 19 de octubre."
-      ],
-      "id": "inv_79ce084d0522d3df",
-      "investigated_at": "2026-10-19T07:49:32.306Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "2d7577d05e598236f76799797a435b9129c6cdc67586d854b73bfaa5ab5c64fb",
-      "title": "El río Girona se desborda en El Verger y Els Poblets tras las lluvias intensas",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "Aunque la publicación candidata inicial describía un riesgo inminente de desbordamiento, fuentes independientes publicadas posteriormente confirmaron que el río Girona llegó a desbordarse en Els Poblets y que hubo inundaciones en Els Poblets y El Verger. También quedaron corroborados los avisos a la población para evitar desplazamientos y zonas inundables.",
-      "claims": [
-        {
-          "claim": "El río Girona se desbordó durante el episodio de lluvias en Els Poblets y El Verger.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El desbordamiento provocó inundaciones en zonas próximas al cauce.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se produjeron cortes o dificultades de circulación en carreteras y caminos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las autoridades recomendaron permanecer en casa y evitar zonas inundables y desplazamientos innecesarios.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "MarinaAlta.es - Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/alerta-en-el-verger-y-els-poblets-por-el-riesgo-inminente-de-desbordamiento-del-rio-girona",
-          "evidence": "La publicación de las 07:04 del 19 de octubre informa de que el río Girona estaba al límite de su capacidad, con peligro inminente de desbordamiento, y recoge avisos para permanecer en lugares seguros, evitar desplazamientos y no acercarse al cauce ni a zonas inundables. ([marinaalta.es](https://marinaalta.es/2026/10/alerta-en-el-verger-y-els-poblets-por-el-riesgo-inminente-de-desbordamiento-del-rio-girona/?utm_source=openai))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/19/una-historica-tromba-de-500-mm-desborda-el-rio-girona-y-convierte-las-calles-en-rios-con-coches-flotando-en-verger-y-els-poblets-y-aisla-pego/",
-          "evidence": "La fuente independiente describe que el río Girona se desbordó y que las calles de Els Poblets y El Verger quedaron inundadas, con vehículos arrastrados por el agua y recomendaciones de no salir de casa. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/19/una-historica-tromba-de-500-mm-desborda-el-rio-girona-y-convierte-las-calles-en-rios-con-coches-flotando-en-verger-y-els-poblets-y-aisla-pego/?utm_source=openai))",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "El Debate",
-          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html",
-          "evidence": "La noticia confirma el desbordamiento del río Girona en Els Poblets, las inundaciones próximas al cauce y las instrucciones municipales de no cruzar calles ni caminos inundados a pie o en vehículo. ([eldebate.com](https://www.eldebate.com/espana/comunidad-valenciana/20261019/rio-girona-desborda-localidad-alicantina-els-poblets-no-cruceis-calles-pie-coche_471030.html?utm_source=openai))",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La publicación candidata fue redactada cuando el desbordamiento todavía se describía como inminente; la confirmación del desbordamiento procede de informaciones posteriores del mismo episodio.",
-        "La evidencia localizada confirma de forma explícita el desbordamiento en Els Poblets y la afectación de El Verger, pero no aporta un parte oficial único con el detalle de todos los cortes de carretera mencionados."
-      ],
-      "id": "inv_a6e181aa71362d42",
-      "investigated_at": "2026-10-19T07:49:32.306Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "aa16ae5bd3345b10bf55977ac1a57dea1f84cc65c308f691bbbe59294fe1d9ff",
-      "title": "Calp abre una convocatoria de 38.187,54 euros para proyectos de interés social",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La convocatoria y su presupuesto están confirmados por la Base de Datos Nacional de Subvenciones. También consta que se dirige a personas jurídicas que no desarrollan actividad económica y que fue registrada el 15 de octubre de 2026. Sin embargo, la BDNS advierte que la convocatoria no es válida mientras no se publique el extracto en el diario oficial y no muestra una fecha concreta de cierre; el plazo de 26 de octubre procede de fuentes secundarias y no ha quedado confirmado mediante el extracto oficial del BOP.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento de Calp registró una convocatoria de subvenciones para proyectos de interés social de la anualidad 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El presupuesto total asciende a 38.187,54 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La convocatoria se dirige a entidades sin ánimo de lucro o personas jurídicas que no desarrollan actividad económica.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de solicitud estaba abierto hasta el 26 de octubre de 2026.",
+          "claim": "La medida quedó formalmente establecida mediante la Orden 11/2026, de 19 de octubre, publicada en una edición extraordinaria del DOGV.",
           "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La orden afectó exactamente a 145 municipios, 67 de Alicante y 78 de Valencia.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas",
-          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
-          "evidence": "La ficha oficial identifica al Ayuntamiento de Calp como órgano convocante, asigna el código BDNS 935318, registra la convocatoria el 15 de octubre de 2026, fija un presupuesto total de 38.187,54 euros y señala como beneficiarias a personas jurídicas que no desarrollan actividad económica. La propia ficha indica que la convocatoria no será válida mientras no se publique su extracto en el diario oficial y expresa el plazo únicamente como diez días naturales desde el día siguiente a la publicación en el BOP. ([infosubvenciones.es](https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318?utm_source=openai))",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Subvenciona",
-          "source_url": "https://subvenciona.com.es/convocatorias/935318-convocatoria-concesion-subvenciones-destinadas-proyectos",
-          "evidence": "La ficha secundaria confirma el organismo, el importe aproximado y la existencia de la convocatoria, pero señala expresamente que el plazo no está publicado en la BDNS y que deben consultarse las bases o el extracto oficial para conocer las fechas exactas. ([subvenciona.com.es](https://subvenciona.com.es/convocatorias/935318-convocatoria-concesion-subvenciones-destinadas-proyectos?utm_source=openai))",
+          "source_name": "RTVE",
+          "source_url": "https://www.rtve.es/noticias/20261019/adam-azota-levante-baleares-600-litros-metro-cuadrado-inundaciones-graves-rescates-masivos/17272527.shtml",
+          "evidence": "Informa de que la Generalitat Valenciana decretó el confinamiento en la Safor y la Marina Alta durante la DANA Adam, en un contexto de inundaciones graves y rescates masivos.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "ConvocaHoy",
-          "source_url": "https://convocahoy.com/convocatoria/935318-destinadas-a-proyectos-de-interes-social-anualidad-2026/",
-          "evidence": "Esta fuente secundaria afirma que el plazo terminaría el 26 de octubre de 2026, pero no aporta en el resultado localizado el extracto oficial del BOP que confirme esa fecha. ([convocahoy.com](https://convocahoy.com/convocatoria/935318-destinadas-a-proyectos-de-interes-social-anualidad-2026/?utm_source=openai))",
+          "source_name": "Cadena SER",
+          "source_url": "https://cadenaser.com/nacional/2026/10/19/directo-ultima-hora-de-la-dana-adam-maxima-alerta-por-inundaciones-en-la-comunidad-valenciana-cadena-ser/",
+          "evidence": "Recoge la elevación a situación 2 del plan de inundaciones en la Marina Alta y la Safor, el envío de dos ES-Alert y la petición de confinamiento domiciliario; también informa de carreteras cortadas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "EFE reproducida por Infobae",
+          "source_url": "https://www.infobae.com/espana/agencias/2026/10/19/temas-del-dia-de-efe-espana-del-lunes-19-de-octubre-de-2026-1400-horas/",
+          "evidence": "Resume que la Comunidad Valenciana confinó 145 municipios de Valencia y Alicante por las lluvias de la DANA Adam.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Protección Civil y Emergencias",
+          "source_url": "https://webinfantil.proteccioncivil.es/web/guest/noticias/detalle_noticias",
+          "evidence": "Fuente oficial que había mantenido la alerta por la DANA Adam y advertía de lluvias torrenciales, inundaciones locales y crecidas repentinas en el litoral mediterráneo hasta el 19 de octubre.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se localizó directamente el PDF o enlace oficial del DOGV correspondiente a la alegada Orden 11/2026 de 19 de octubre.",
+        "La cifra exacta de 145 municipios está respaldada por una referencia de agencia reproducida por Infobae, pero el listado municipal completo requiere comprobación documental en el DOGV."
+      ],
+      "id": "inv_00d9a4e3f8e4efe9",
+      "investigated_at": "2026-10-19T15:38:34.686Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "582150fb7a16e537e50a768eb8c7008b7e93e46996ce6bfb39c3ea20b49c6a9f",
+      "title": "Sanidad reprograma las citas médicas de los municipios afectados por la DANA Adam",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La reprogramación de citas médicas en municipios incluidos en la orden de confinamiento está corroborada por medios sanitarios independientes. También está respaldado que se mantuvieron las urgencias, la atención primaria urgente y la actividad hospitalaria, y que se reorganizó la asistencia en los departamentos de Gandia y Dénia. No se ha localizado una nota oficial directa de la Conselleria con el texto completo de la medida.",
+      "claims": [
+        {
+          "claim": "La Conselleria de Sanidad reprogramó las citas de pacientes de municipios incluidos en la orden de confinamiento.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las urgencias hospitalarias y de atención primaria continuaron garantizadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La atención primaria urgente y los PAC siguieron operativos, con medidas específicas en Gandia y Dénia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se mantuvieron los tratamientos esenciales, incluidos oxigenoterapia y hemodiálisis, con ajustes en las zonas más afectadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las farmacias de guardia mantuvieron su actividad.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La Conselleria comunicó la reprogramación mediante SMS.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Redacción Médica",
+          "source_url": "https://www.redaccionmedica.com/autonomias/20261019/la-dana-obliga-reprogramar-operaciones-consultas-en-varios-puntos-de-comunidad-valenciana-baleares/362514_0.html",
+          "evidence": "Informa de que la Conselleria de Sanidad reprogramaría las citas de pacientes de municipios incluidos en la orden de confinamiento y que los afectados recibirían un SMS. También describe la continuidad de la atención primaria en el departamento de Dénia, la ampliación de urgencias en PAC y el mantenimiento de la actividad hospitalaria.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Gaceta Médica",
+          "source_url": "https://gacetamedica.com/seccion-politica/",
+          "evidence": "Incluye la comunicación sobre la reprogramación de citas de pacientes de municipios afectados por la orden de confinamiento por la DANA Adam.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "ConSalud",
+          "source_url": "https://www.consalud.es/salud35/",
+          "evidence": "Resume que la Conselleria garantizó la atención urgente hospitalaria y de atención primaria, reorganizó la asistencia en Gandia y Dénia, mantuvo tratamientos esenciales y avisó por SMS de las nuevas citas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha localizado el extracto oficial del BOP con la fecha de publicación que permitiría confirmar el inicio y el vencimiento del plazo.",
-        "La afirmación de que el plazo estaba abierto hasta el 26 de octubre no debe publicarse como hecho cerrado sin verificar el anuncio oficial del BOP.",
-        "La ficha oficial de la BDNS advierte que la convocatoria no es válida mientras no se publique su extracto en el diario oficial."
+        "La fuente primaria de la Conselleria de Sanidad no apareció localizada directamente durante la búsqueda.",
+        "La afirmación concreta sobre farmacias de guardia y la distribución exacta de tratamientos necesita confirmación en un comunicado oficial."
       ],
-      "id": "inv_fa5d1dca6cba00b9",
-      "investigated_at": "2026-10-19T07:49:32.306Z",
+      "id": "inv_3560461508c3919a",
+      "investigated_at": "2026-10-19T15:38:34.686Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "601624b49768680423c72fde79807dd4e5db421c41758acb6118e7ce5a0f1a0f",
+      "title": "La Guardia Civil refuerza el dispositivo de auxilio por las inundaciones en la Marina Alta",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La movilización de la Guardia Civil está corroborada por varias fuentes independientes. Se documenta el despliegue de GEAS, unidades de seguridad ciudadana, un helicóptero del Servicio Aéreo y patrullas de la Compañía Territorial de Calpe, así como labores de auxilio a personas atrapadas y revisión de vehículos afectados por el agua.",
+      "claims": [
+        {
+          "claim": "La Guardia Civil desplegó un dispositivo de auxilio en la Marina Alta por las inundaciones de la DANA Adam.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participaron efectivos del GEAS de Alicante.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participaron unidades USECIC de Alicante y Torrevieja.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se movilizó un helicóptero del Servicio Aéreo de la Zona de Valencia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participaron patrullas territoriales de la Compañía de Calpe.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los agentes auxiliaron a personas atrapadas y revisaron vehículos arrastrados o afectados por el agua.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El dispositivo se coordinó con policías locales, bomberos y otros servicios de emergencia.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "MarinaAlta.es / Dénia FM",
+          "source_url": "https://marinaalta.es/ca/2026/10/la-guardia-civil-moviliza-helicopteros-geas-y-unidades-especializadas-para-rescatar-a-afectados-por-la-dana-en-la-marina-alta/",
+          "evidence": "Informa, citando a la Comandancia de Alicante, del despliegue de GEAS, unidades de seguridad ciudadana y un helicóptero del Servicio Aéreo para rescatar afectados y atender incidencias en Pego, Dénia y El Verger.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12423/guardia-civil-calpe-rescates-dana-adam-marina-alta",
+          "evidence": "Confirma la participación de las patrullas de la Compañía Territorial de Calpe en el dispositivo de emergencia, junto con especialistas en rescates acuáticos, unidades de seguridad ciudadana y un helicóptero, coordinados con bomberos y policías locales.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/la-guardia-civil-intensifica-el-auxilio-por-la-dana-en-la-marina-alta/",
+          "evidence": "Describe la actuación de GEAS, USECIC, el helicóptero del Servicio Aéreo y patrullas de Calpe, además de labores de auxilio a ciudadanos atrapados y comprobación de vehículos arrastrados por el torrente.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ministerio del Interior",
+          "source_url": "https://www.interior.gob.es/opencms/es/prensa",
+          "evidence": "Página oficial de prensa del Ministerio del Interior consultada como referencia institucional; la búsqueda no recuperó una nota específica con el detalle completo del operativo de la Marina Alta.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La fuente primaria específica de la Guardia Civil sobre este operativo no quedó localizada en una página individual accesible durante la búsqueda.",
+        "La evidencia independiente confirma el dispositivo y sus unidades principales, pero no permite verificar el número exacto de agentes desplegados."
+      ],
+      "id": "inv_1b84e1ffa50ab213",
+      "investigated_at": "2026-10-19T15:38:34.686Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d11d0ef8065b6a745804e4a3b5d0b3311439ca5a4292d4ca6ede9853aa65fb97",
+      "title": "Los bomberos reciben cerca de 400 llamadas y priorizan rescates en la Marina Alta",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La noticia está sólidamente corroborada. El Consorcio Provincial de Bomberos de Alicante recibió cerca de 400 llamadas durante la madrugada, movilizó más de 50 efectivos y priorizó los salvamentos. Fuentes independientes también sitúan a Pego como el municipio con más intervenciones, con 31 actuaciones frente a 25 en Xàbia durante el periodo citado.",
+      "claims": [
+        {
+          "claim": "El Consorcio Provincial de Bomberos de Alicante recibió cerca de 400 llamadas de asistencia durante la madrugada.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se movilizaron más de 50 efectivos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La prioridad operativa fueron los rescates y salvamentos de personas atrapadas en tejados o vehículos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Pego fue el municipio de la Marina Alta con más intervenciones durante el periodo descrito.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se incorporó un helicóptero del Consorcio a las labores de rescate durante la mañana.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Consorcio realizó exactamente cerca de 400 llamadas y no intervenciones.",
+          "status": "CONTRADICTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Europa Press reproducida por Noticias de Navarra",
+          "source_url": "https://www.noticiasdenavarra.com/sociedad/2026/10/19/bomberos-alicante-rescatan-personas-tejados-11664128.html",
+          "evidence": "Informa de casi 400 llamadas de asistencia, más de 50 efectivos movilizados, prioridad en rescates de personas atrapadas y mayor concentración de intervenciones en Pego. También aporta 65 intervenciones entre las 20:15 y las 07:43 y 31 actuaciones en Pego.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Alicante Extra",
+          "source_url": "https://alicantextra.com/es/comarcas/noche-rescates-alicante-dana-adam-bomberos-salvan-personas-atrapadas-tejados-coches_601529_102.html",
+          "evidence": "Corrobora la movilización de más de 50 efectivos, las casi 400 llamadas, los rescates en tejados y vehículos, y que Pego y Xàbia concentraron la mayor parte de las intervenciones.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/la-marina-alta-castigada-por-las-inundaciones-pego-el-municipio-con-mas-intervenciones-de-rescate/",
+          "evidence": "Recoge la declaración del portavoz del Consorcio sobre más de 50 efectivos, cerca de 400 llamadas, prioridad absoluta a los salvamentos y llegada del helicóptero del Consorcio.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/18/la-alerta-roja-por-lluvias-deja-cerca-de-100-litros-en-la-marina-alta-y-obliga-a-cortar-calles-y-suspender-actividades-radio-denia/",
+          "evidence": "Confirma que, durante la noche y la madrugada, los bomberos recibieron cerca de 400 llamadas y movilizaron a más de 50 efectivos, con rescates de personas atrapadas en tejados y vehículos.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La noticia candidata usa 'reciben cerca de 400 llamadas', formulación correcta; no debe confundirse con 400 intervenciones.",
+        "Las cifras corresponden al periodo nocturno y de madrugada indicado por las fuentes, no necesariamente al balance total del episodio."
+      ],
+      "id": "inv_3de690b7932a46a2",
+      "investigated_at": "2026-10-19T15:38:34.686Z",
       "model": "gpt-5.6-luna"
     }
   ]
