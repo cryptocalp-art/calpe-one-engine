@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-20T11:41:51.483Z",
+  "generated_at": "2026-10-20T17:11:08.868Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,29 +26,27 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_926bc4d71a124828",
-      "draft_id": "drf_23ee87a7fd01cd0d",
-      "investigation_id": "inv_4012c8367b26a40b",
-      "candidate_fingerprint": "d9d16cfd22d3bc4bfb6fbf4075f8b46198be029e8498adb0a3cbd3786d51e6cb",
-      "slug": "rescatan-once-supervivientes-patera-frente-calp",
-      "category": "SUCESOS",
+      "gate_id": "qg_3e12e159ebc1a277",
+      "draft_id": "drf_2edaf6476f2aa78d",
+      "investigation_id": "inv_95f34d6a9705b4e3",
+      "candidate_fingerprint": "b735d4e91f1187084a7f7cb68a0c41e8c72b5e5e98da511ac2c4a0d13a498d29",
+      "slug": "marina-alta-afiliaciones-septiembre-2026",
+      "category": "ECONOMIA",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
+      "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 4,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
+        "unverified_claim_count": 0,
         "evidence_count": 3,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 3,
+        "primary_evidence_count": 1,
+        "secondary_evidence_count": 2,
         "distinct_evidence_urls": 3,
         "distinct_evidence_hosts": 3,
         "institutional_or_political": false,
@@ -61,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 248
+        "body_word_count": 239
       },
-      "evaluated_at": "2026-10-20T11:41:51.483Z",
+      "evaluated_at": "2026-10-20T17:11:08.868Z",
       "engine_version": "quality-gate-v1"
     }
   ]

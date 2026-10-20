@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-20T11:42:05.368Z",
+  "generated_at": "2026-10-20T17:11:22.012Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-20T11:42:05.165Z",
+  "last_activity": "2026-10-20T17:11:21.814Z",
   "newspaper": {
-    "archive_total": 108,
-    "published_today": 3,
+    "archive_total": 109,
+    "published_today": 4,
     "published_last_7_days": 27,
     "categories": {
+      "ECONOMIA": 17,
       "SUCESOS": 16,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
       "SOCIEDAD": 13,
-      "ECONOMIA": 16,
       "POLITICA": 9,
       "MEDIO_AMBIENTE": 18,
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_0f9fce013a827081",
+        "title": "La Marina Alta registra 68.745 afiliaciones en septiembre, pese al descenso mensual",
+        "category": "ECONOMIA",
+        "slug": "marina-alta-afiliaciones-septiembre-2026",
+        "published_at": "2026-10-20T17:11:00.805Z"
+      },
       {
         "archive_id": "arc_1c109b40d1633f35",
         "title": "Rescatan frente a Calp a once supervivientes de una patera tras dos semanas a la deriva",
@@ -69,18 +76,11 @@
         "category": "SUCESOS",
         "slug": "guardia-civil-dispositivo-auxilio-inundaciones-marina-alta",
         "published_at": "2026-10-19T15:39:28.821Z"
-      },
-      {
-        "archive_id": "arc_75d7baff8e68f094",
-        "title": "El temporal deja registros próximos a 650 litros por metro cuadrado en la Marina Alta",
-        "category": "LOCAL",
-        "slug": "temporal-casi-650-litros-marina-alta-calp",
-        "published_at": "2026-10-19T07:50:35.536Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 8,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,

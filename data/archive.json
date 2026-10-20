@@ -3,9 +3,70 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-20T11:41:51.815Z",
-  "count": 108,
+  "updated_at": "2026-10-20T17:11:09.201Z",
+  "count": 109,
   "articles": [
+    {
+      "archive_id": "arc_0f9fce013a827081",
+      "external_id": "drf_2edaf6476f2aa78d",
+      "investigation_id": "inv_95f34d6a9705b4e3",
+      "candidate_fingerprints": [
+        "b735d4e91f1187084a7f7cb68a0c41e8c72b5e5e98da511ac2c4a0d13a498d29"
+      ],
+      "title": "La Marina Alta registra 68.745 afiliaciones en septiembre, pese al descenso mensual",
+      "slug": "marina-alta-afiliaciones-septiembre-2026",
+      "summary": "La Marina Alta contabilizó 68.745 afiliaciones a la Seguridad Social en septiembre de 2026, 1.497 menos que en agosto. El descenso mensual coincidió con un aumento de 233 personas desempleadas, mientras que el volumen de afiliación se mantuvo por encima del registrado un año antes.",
+      "body": "La Marina Alta cerró septiembre de 2026 con 68.745 afiliaciones a la Seguridad Social, según el informe del Observatori Marina Alta de CREAMA y PACTE’MA. La cifra supone una reducción de 1.497 afiliaciones respecto a agosto, equivalente a una variación mensual del -2,13%.\n\nEl retroceso mensual se produjo junto a un aumento de 233 personas desempleadas en la comarca. El informe sitúa a la hostelería y el comercio entre las actividades que concentraron buena parte del ajuste posterior a la temporada de verano.\n\nPese a la evolución mensual negativa, el registro de septiembre fue un 7,26% superior al del mismo mes de 2025. En términos absolutos, la comarca sumó 4.655 afiliaciones más que un año antes.\n\nEl dato representa el mayor volumen de afiliación registrado para un mes de septiembre dentro de la serie disponible. Esta referencia debe entenderse específicamente en relación con los meses de septiembre y no como el máximo absoluto de afiliación de toda la serie mensual.\n\nLa evolución combina así un descenso respecto a agosto con un nivel de afiliación superior al de septiembre del año anterior. La subida del desempleo y la pérdida de afiliaciones se concentraron en el contexto del ajuste de determinadas actividades tras el periodo estival, especialmente en hostelería y comercio.\n\nLas cifras corresponden a afiliaciones a la Seguridad Social. Por tanto, no equivalen exactamente al número de personas ocupadas, ya que una misma persona puede acumular más de una afiliación.",
+      "category": "ECONOMIA",
+      "seo_title": "La Marina Alta pierde afiliaciones en septiembre, pero marca récord",
+      "meta_description": "La Marina Alta cerró septiembre con 68.745 afiliaciones, 1.497 menos que en agosto, aunque un 7,26% más que un año antes.",
+      "sources": [
+        {
+          "name": "Observatori Marina Alta — CREAMA y PACTE’MA",
+          "url": "https://observatorimarinaalta.org/mercado-trabajo-mes-septiembre-2026-situacion-laboral-marina-alta/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "MarinaAlta.es — Dénia FM",
+          "url": "https://marinaalta.es/2026/10/el-paro-sube-en-la-marina-alta-tras-el-verano-aunque-el-empleo-alcanza-cifras-record-en-septiembre/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "LaMarinaAlta.com",
+          "url": "https://lamarinaalta.com/la-marina-alta-cierra-septiembre-con-menos-afiliados-pero-record-historico-de-empleo/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://observatorimarinaalta.org/mercado-trabajo-mes-septiembre-2026-situacion-laboral-marina-alta",
+        "https://marinaalta.es/2026/10/el-paro-sube-en-la-marina-alta-tras-el-verano-aunque-el-empleo-alcanza-cifras-record-en-septiembre",
+        "https://lamarinaalta.com/la-marina-alta-cierra-septiembre-con-menos-afiliados-pero-record-historico-de-empleo"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 6,
+        "evidence_count": 3,
+        "caveats": [
+          "«Máximo de empleo» debe redactarse con precisión como máximo de afiliación para un mes de septiembre, no necesariamente como máximo absoluto de toda la serie mensual.",
+          "Las cifras proceden de afiliaciones a la Seguridad Social y no equivalen exactamente al número de personas ocupadas, ya que una persona puede acumular más de una afiliación."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_3e12e159ebc1a277",
+        "quality_gate_evaluated_at": "2026-10-20T17:11:08.868Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Usar «máximo de afiliación para un mes de septiembre», no «máximo de empleo» sin matices.",
+        "Aclarar que se trata de afiliaciones a la Seguridad Social y no necesariamente de personas ocupadas.",
+        "La información procede del informe del Observatori Marina Alta y de coberturas independientes que reproducen sus cifras."
+      ],
+      "published_at": "2026-10-20T17:11:00.805Z",
+      "updated_at": "2026-10-20T17:11:09.201Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_1c109b40d1633f35",
       "external_id": "drf_23ee87a7fd01cd0d",
