@@ -1,123 +1,161 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-20T17:10:32.923Z",
+  "generated_at": "2026-10-20T20:37:31.635Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-      "title": "Calp presenta el Plan de Movilidad No Motorizada de la Marina Alta",
+      "candidate_fingerprint": "2ddaf65567675b2d8111fc69ce8df6db2120dab9f99394b0551755b2ececcb97",
+      "title": "El PP de Calp ya ha decidido su candidato para las elecciones municipales de 2027",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La convocatoria y el contenido básico de la presentación están corroborados por una fuente oficial del Ayuntamiento de Calp y por una información independiente sobre el borrador comarcal. Sin embargo, no se ha localizado una fuente posterior al 19 de octubre de 2026 que confirme que el acto se celebró efectivamente, por lo que no puede darse por probado el verbo «acogió».",
+      "summary": "La información está respaldada únicamente por una noticia de Calp Digital basada en fuentes internas anónimas del PP. No se ha encontrado confirmación independiente ni comunicado oficial del PPCV que pruebe que el candidato ya esté formalmente decidido. La identidad tampoco está publicada.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp, la Xarxa Esportiva y la MACMA convocaron una presentación del Plan de Movilidad No Motorizada de la Marina Alta para el 19 de octubre de 2026, a las 18:30, en el Saló Blau.",
+          "claim": "La dirección del Partido Popular de la Comunitat Valenciana ya ha decidido quién será su candidato en Calp para las elecciones municipales de 2027.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El nombre del candidato se mantiene reservado hasta después de las elecciones generales del 29 de noviembre de 2026.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "César Sánchez ha decidido no concurrir en la parte alta de la lista municipal del PP en 2027.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El PP de Calp continúa dirigido por una comisión gestora y baraja perfiles como Noelia Císcar, Miguel Crespo y Aroa Pineda.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12418/pp-calp-candidato-elecciones-municipales-2027",
+          "evidence": "La noticia afirma que fuentes internas del PP han confirmado que el candidato está decidido, pero no identifica a la persona ni aporta un comunicado, resolución orgánica o declaración pública verificable del PPCV.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/11466/ximo-perles-no-repetira-como-candidato-en-calp-y-cesar-sanchez-tambien-se-aleja",
+          "evidence": "Una información anterior señala que César Sánchez se alejaba de la política municipal y que Ximo Perles no repetiría como candidato, pero no confirma la designación del nuevo candidato del PP de Calp.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "El dossier de prensa del Ayuntamiento de Calp reproduce la referencia de Calp Digital, por lo que no constituye corroboración independiente.",
+        "La afirmación central depende de fuentes anónimas del partido y no de una fuente primaria identificable.",
+        "Debe distinguirse entre una decisión interna todavía no ratificada y una candidatura formalmente aprobada."
+      ],
+      "id": "inv_edd19bada0f04810",
+      "investigated_at": "2026-10-20T20:37:31.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "675a44f516a15b09bb884dcb51e615366443030f6def225071fb9f793fc5e2ea",
+      "title": "La Audiencia juzgará a cinco acusados por una presunta estafa con un chalé en Calp",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Calp Digital publica una información concreta sobre un juicio señalado para el 23 de octubre de 2026 y atribuye los hechos y la cuantía a la Fiscalía. La noticia es internamente consistente, pero no se ha localizado una publicación independiente ni el señalamiento oficial o escrito de acusación accesible que permita corroborar los datos esenciales.",
+      "claims": [
+        {
+          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 23 de octubre de 2026 un juicio contra cuatro hombres y una mujer por hechos relacionados con un chalé de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La sesión estaba dirigida por Paco Tortosa y Nico Vives e incluía una charla y un debate con participación ciudadana.",
+          "claim": "La Fiscalía sostiene que los acusados alquilaron el inmueble, simularon ser sus propietarios y trataron de venderlo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan pretende mejorar la accesibilidad y la seguridad, fomentar los desplazamientos sostenibles y promover los desplazamientos a pie y en bicicleta.",
+          "claim": "Las operaciones investigadas habrían permitido obtener hasta 131.000 euros entre 2013 y 2014.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La presentación pública se celebró efectivamente en Calp el 19 de octubre de 2026.",
+          "claim": "La Fiscalía atribuye a los acusados dos delitos de estafa, dos de falsedad y uno de revelación de secretos, con penas solicitadas de entre once meses y seis años.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los acusados son responsables de los hechos denunciados.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
+          "evidence": "La noticia informa de un juicio señalado para el 23 de octubre de 2026 ante la Sección Tercera de la Audiencia Provincial de Alicante, contra cuatro hombres y una mujer. Resume el relato de la Fiscalía sobre el alquiler del chalé, la supuesta simulación de propiedad, las operaciones de venta y una obtención de hasta 131.000 euros. También recoge los delitos atribuidos y las penas solicitadas.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La información describe acusaciones de la Fiscalía, no hechos probados.",
+        "La propia noticia recuerda la presunción de inocencia de los cinco encausados.",
+        "No se ha encontrado en la búsqueda una fuente judicial primaria accesible que confirme el señalamiento y el contenido del escrito de acusación.",
+        "La referencia temporal es prospectiva respecto a la fecha de publicación: el juicio estaba previsto para el 23 de octubre de 2026."
+      ],
+      "id": "inv_ab57b3a4202616c8",
+      "investigated_at": "2026-10-20T20:37:31.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
+      "title": "Calp presenta el Plan de Movilidad No Motorizada de la Marina Alta",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La existencia del plan, su presentación pública en Calp el 19 de octubre de 2026 y la participación del Ayuntamiento, MACMA y Xarxa Esportiva están respaldadas por una convocatoria oficial municipal. Una fuente independiente confirma que se trata de un borrador comarcal orientado a conectar la Marina Alta mediante itinerarios no motorizados. La formulación debe mantener el carácter de borrador o presentación, no presentarlo como un plan definitivamente aprobado.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp, la MACMA y la Xarxa Esportiva organizaron en Calp la presentación del Plan de Movilidad No Motorizada de la Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La presentación estaba prevista para el 19 de octubre de 2026 a las 18:30 en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto pretende fomentar desplazamientos a pie y en bicicleta, y mejorar la accesibilidad, la seguridad y la sostenibilidad comarcal.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plan era un borrador con una propuesta de 77 tramos y una inversión estimada de unos 12,3 millones de euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plan había sido aprobado definitivamente por todas las administraciones implicadas.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp / Calp Comunica",
           "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "evidence": "La página oficial anuncia la charla del 19 de octubre de 2026 a las 18:30 en el Saló Blau, organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA. Indica que intervendrán Paco Tortosa y Nico Vives y que la sesión incluirá charla y debate.",
+          "evidence": "La convocatoria oficial anuncia una charla organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA, fija la fecha del 19 de octubre de 2026, las 18:30 horas y el Saló Blau, y describe como objetivos una comarca más accesible, segura y respetuosa con el medio ambiente.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "LaMarinaAlta.com",
+          "source_name": "La Marina Alta",
           "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "evidence": "La información publicada el 25 de septiembre describe el borrador del plan comarcal, su campaña de presentación participativa y la sesión prevista en Calp para el 19 de octubre. También recoge objetivos y propuestas del plan, pero no confirma que el acto de Calp llegara a celebrarse.",
+          "evidence": "La información independiente identifica el proyecto como el primer borrador del plan de la MACMA, estima una inversión de 12,3 millones de euros, plantea 77 tramos y recoge el calendario de charlas, incluida la de Calp del 19 de octubre.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Calp Digital",
           "source_url": "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026",
-          "evidence": "La noticia publicada el 18 de octubre presenta el acto como una convocatoria futura para el 19 de octubre y describe sus objetivos de movilidad sostenible, accesibilidad, seguridad y participación ciudadana. No aporta una crónica posterior del acto.",
+          "evidence": "La noticia local recoge la convocatoria, los participantes Paco Tortosa y Nico Vives, y los objetivos de fomentar los desplazamientos sostenibles, mejorar la accesibilidad y reforzar la seguridad en la comarca.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las fuentes localizadas antes del acto corroboran la convocatoria, no su celebración efectiva.",
-        "La suspensión de actividades y clases en Calp por el episodio de lluvias del 19 de octubre hace especialmente necesario comprobar si el evento se mantuvo, se canceló o se trasladó.",
-        "Para publicar la noticia como hecho consumado hace falta una crónica posterior, fotografías oficiales, acta, vídeo o confirmación directa de Ayuntamiento, MACMA u otra fuente independiente."
+        "La evidencia confirma la presentación y el contenido del borrador, pero no una aprobación definitiva ni la ejecución de las actuaciones.",
+        "La noticia candidata fue publicada el 18 de octubre y describía una actividad prevista para el 19 de octubre; conviene redactar la pieza con precisión temporal o actualizarla con información posterior al acto.",
+        "La cifra de 12,3 millones y los 77 tramos proceden del borrador difundido por la MACMA, no de una licitación o financiación ya comprometida."
       ],
       "id": "inv_3cd20bdebcaa8d98",
-      "investigated_at": "2026-10-20T17:10:32.923Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "b735d4e91f1187084a7f7cb68a0c41e8c72b5e5e98da511ac2c4a0d13a498d29",
-      "title": "La Marina Alta pierde 1.497 afiliaciones en septiembre y mantiene su máximo de empleo",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "Los datos esenciales están respaldados por el informe del Observatori Marina Alta de CREAMA y PACTE’MA, fuente primaria del análisis laboral, y por una cobertura independiente de MarinaAlta.es. En septiembre de 2026 la comarca registró 68.745 afiliaciones, 1.497 menos que en agosto, un crecimiento interanual del 7,26% y 233 personas desempleadas más. El informe identifica a la hostelería y el comercio entre las actividades que concentraron buena parte del ajuste estacional.",
-      "claims": [
-        {
-          "claim": "La Marina Alta registró 68.745 afiliaciones a la Seguridad Social en septiembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La comarca perdió 1.497 afiliaciones respecto a agosto.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las afiliaciones fueron un 7,26% superiores a las de septiembre de 2025.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El dato representa el máximo de afiliación registrado para un mes de septiembre en la serie disponible.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El desempleo aumentó en 233 personas respecto a agosto.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La hostelería y el comercio concentraron buena parte del ajuste posterior a la temporada de verano.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Observatori Marina Alta — CREAMA y PACTE’MA",
-          "source_url": "https://observatorimarinaalta.org/mercado-trabajo-mes-septiembre-2026-situacion-laboral-marina-alta/",
-          "evidence": "El informe indica que septiembre cerró con 68.745 afiliaciones, 1.497 menos que en agosto, una variación mensual del -2,13% y 233 personas desempleadas más. También señala que fue el mayor volumen de afiliación para un mes de septiembre, con 4.655 afiliaciones más que un año antes, equivalentes al +7,26%, y que hostelería y comercio concentraron buena parte de la pérdida de empleo.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "MarinaAlta.es — Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/el-paro-sube-en-la-marina-alta-tras-el-verano-aunque-el-empleo-alcanza-cifras-record-en-septiembre/",
-          "evidence": "La cobertura independiente reproduce las cifras de 68.745 afiliaciones, 1.497 menos que en agosto y 233 desempleados más. También describe el máximo de afiliación para septiembre y el efecto del final de la temporada turística sobre hostelería, comercio y servicios.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-marina-alta-cierra-septiembre-con-menos-afiliados-pero-record-historico-de-empleo/",
-          "evidence": "La noticia confirma el descenso mensual de 1.497 afiliaciones, el aumento de 233 personas desempleadas y el registro de 68.745 afiliaciones, presentado como máximo histórico para un mes de septiembre según el Observatori Marina Alta.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "«Máximo de empleo» debe redactarse con precisión como máximo de afiliación para un mes de septiembre, no necesariamente como máximo absoluto de toda la serie mensual.",
-        "Las cifras proceden de afiliaciones a la Seguridad Social y no equivalen exactamente al número de personas ocupadas, ya que una persona puede acumular más de una afiliación."
-      ],
-      "id": "inv_95f34d6a9705b4e3",
-      "investigated_at": "2026-10-20T17:10:32.923Z",
+      "investigated_at": "2026-10-20T20:37:31.635Z",
       "model": "gpt-5.6-luna"
     }
   ]

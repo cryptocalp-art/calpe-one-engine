@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-20T17:11:08.868Z",
+  "generated_at": "2026-10-20T20:38:17.334Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,30 +26,32 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_3e12e159ebc1a277",
-      "draft_id": "drf_2edaf6476f2aa78d",
-      "investigation_id": "inv_95f34d6a9705b4e3",
-      "candidate_fingerprint": "b735d4e91f1187084a7f7cb68a0c41e8c72b5e5e98da511ac2c4a0d13a498d29",
-      "slug": "marina-alta-afiliaciones-septiembre-2026",
-      "category": "ECONOMIA",
+      "gate_id": "qg_843a22bbbd650edf",
+      "draft_id": "drf_7646273407df91c2",
+      "investigation_id": "inv_3cd20bdebcaa8d98",
+      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
+      "slug": "calp-borrador-plan-movilidad-no-motorizada-marina-alta",
+      "category": "MEDIO_AMBIENTE",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 6,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
+        "unverified_claim_count": 1,
         "evidence_count": 3,
         "primary_evidence_count": 1,
         "secondary_evidence_count": 2,
         "distinct_evidence_urls": 3,
         "distinct_evidence_hosts": 3,
-        "institutional_or_political": false,
+        "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -59,9 +61,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 239
+        "body_word_count": 260
       },
-      "evaluated_at": "2026-10-20T17:11:08.868Z",
+      "evaluated_at": "2026-10-20T20:38:17.334Z",
       "engine_version": "quality-gate-v1"
     }
   ]
