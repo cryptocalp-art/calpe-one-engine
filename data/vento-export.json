@@ -3,148 +3,26 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-20T20:38:17.498Z",
+  "generated_at": "2026-10-20T23:55:01.132Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 1,
-  "ready_count": 1,
-  "quarantined_count": 0,
-  "ready": [
+  "ready_count": 0,
+  "quarantined_count": 1,
+  "ready": [],
+  "quarantined": [
     {
-      "export_id": "exp_6da226af13c318aa",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-20T20:38:17.498Z",
-      "source_draft_id": "drf_7646273407df91c2",
-      "source_investigation_id": "inv_3cd20bdebcaa8d98",
-      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-      "quality_gate_id": "qg_843a22bbbd650edf",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_7646273407df91c2",
-        "investigation_id": "inv_3cd20bdebcaa8d98",
-        "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-        "title": "Calp presenta el borrador del Plan de Movilidad No Motorizada de la Marina Alta",
-        "subtitle": "La propuesta plantea 77 tramos y una inversión estimada de 12,3 millones de euros para impulsar los desplazamientos a pie y en bicicleta",
-        "summary": "El Ayuntamiento de Calp, la Mancomunitat Cultural de la Marina Alta (MACMA) y la Xarxa Esportiva convocaron en Calp la presentación del borrador del Plan de Movilidad No Motorizada de la Marina Alta. El acto estaba previsto para el 19 de octubre, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
-        "body": "El Ayuntamiento de Calp, la MACMA y la Xarxa Esportiva organizaron la presentación del Plan de Movilidad No Motorizada de la Marina Alta, una propuesta comarcal orientada a conectar distintos puntos de la Marina Alta mediante itinerarios para desplazamientos no motorizados.\n\nLa convocatoria municipal fijó el acto para el 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà. La iniciativa se planteó con el objetivo de fomentar los desplazamientos a pie y en bicicleta, así como de mejorar la accesibilidad, la seguridad y la sostenibilidad en el conjunto de la comarca.\n\nSegún la información difundida sobre el proyecto, el documento presentado se encontraba todavía en fase de borrador. La propuesta contempla 77 tramos y una inversión estimada de alrededor de 12,3 millones de euros.\n\nEl plan se plantea como una herramienta para favorecer una movilidad con menor dependencia de los vehículos motorizados y facilitar itinerarios entre municipios de la Marina Alta. La documentación disponible vincula la propuesta a la mejora de las condiciones de acceso y seguridad de estos recorridos.\n\nLa cifra económica corresponde a una estimación incluida en el borrador. No consta en la información disponible que exista una licitación, una financiación comprometida o una aprobación definitiva por parte de todas las administraciones implicadas.\n\nLa noticia de la convocatoria fue difundida antes de la fecha prevista para el acto, por lo que este texto recoge la presentación anunciada y el contenido del borrador, sin afirmar la aprobación posterior del plan ni la ejecución de sus actuaciones.",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-borrador-plan-movilidad-no-motorizada-marina-alta",
-        "seo_title": "Calp presenta el borrador del plan de movilidad de la Marina Alta",
-        "meta_description": "El borrador propone 77 tramos y una inversión estimada de 12,3 millones para impulsar la movilidad a pie y en bicicleta en la Marina Alta.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_843a22bbbd650edf",
-        "editorial_notes": [
-          "La información disponible confirma la convocatoria y el contenido del borrador, pero no la celebración efectiva del acto ni una aprobación definitiva posterior.",
-          "La inversión estimada de 12,3 millones de euros y los 77 tramos proceden del borrador; no deben presentarse como financiación comprometida ni como actuaciones en ejecución."
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 3,
-          "caveats": [
-            "La evidencia confirma la presentación y el contenido del borrador, pero no una aprobación definitiva ni la ejecución de las actuaciones.",
-            "La noticia candidata fue publicada el 18 de octubre y describía una actividad prevista para el 19 de octubre; conviene redactar la pieza con precisión temporal o actualizarla con información posterior al acto.",
-            "La cifra de 12,3 millones y los 77 tramos proceden del borrador difundido por la MACMA, no de una licitación o financiación ya comprometida."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_843a22bbbd650edf",
-          "quality_gate_evaluated_at": "2026-10-20T20:38:17.334Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "created_at": "2026-10-20T20:38:09.942Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_7646273407df91c2",
-        "title": "Calp presenta el borrador del Plan de Movilidad No Motorizada de la Marina Alta",
-        "slug": "calp-borrador-plan-movilidad-no-motorizada-marina-alta",
-        "summary": "El Ayuntamiento de Calp, la Mancomunitat Cultural de la Marina Alta (MACMA) y la Xarxa Esportiva convocaron en Calp la presentación del borrador del Plan de Movilidad No Motorizada de la Marina Alta. El acto estaba previsto para el 19 de octubre, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
-        "body": "El Ayuntamiento de Calp, la MACMA y la Xarxa Esportiva organizaron la presentación del Plan de Movilidad No Motorizada de la Marina Alta, una propuesta comarcal orientada a conectar distintos puntos de la Marina Alta mediante itinerarios para desplazamientos no motorizados.\n\nLa convocatoria municipal fijó el acto para el 19 de octubre de 2026, a las 18:30 horas, en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà. La iniciativa se planteó con el objetivo de fomentar los desplazamientos a pie y en bicicleta, así como de mejorar la accesibilidad, la seguridad y la sostenibilidad en el conjunto de la comarca.\n\nSegún la información difundida sobre el proyecto, el documento presentado se encontraba todavía en fase de borrador. La propuesta contempla 77 tramos y una inversión estimada de alrededor de 12,3 millones de euros.\n\nEl plan se plantea como una herramienta para favorecer una movilidad con menor dependencia de los vehículos motorizados y facilitar itinerarios entre municipios de la Marina Alta. La documentación disponible vincula la propuesta a la mejora de las condiciones de acceso y seguridad de estos recorridos.\n\nLa cifra económica corresponde a una estimación incluida en el borrador. No consta en la información disponible que exista una licitación, una financiación comprometida o una aprobación definitiva por parte de todas las administraciones implicadas.\n\nLa noticia de la convocatoria fue difundida antes de la fecha prevista para el acto, por lo que este texto recoge la presentación anunciada y el contenido del borrador, sin afirmar la aprobación posterior del plan ni la ejecución de sus actuaciones.",
-        "category": "MEDIO_AMBIENTE",
-        "seo_title": "Calp presenta el borrador del plan de movilidad de la Marina Alta",
-        "meta_description": "El borrador propone 77 tramos y una inversión estimada de 12,3 millones para impulsar la movilidad a pie y en bicicleta en la Marina Alta.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_843a22bbbd650edf",
-        "published_at": null,
-        "source_urls": [
-          "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026"
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp / Calp Comunica",
-            "url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_3cd20bdebcaa8d98",
-        "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 3,
-          "caveats": [
-            "La evidencia confirma la presentación y el contenido del borrador, pero no una aprobación definitiva ni la ejecución de las actuaciones.",
-            "La noticia candidata fue publicada el 18 de octubre y describía una actividad prevista para el 19 de octubre; conviene redactar la pieza con precisión temporal o actualizarla con información posterior al acto.",
-            "La cifra de 12,3 millones y los 77 tramos proceden del borrador difundido por la MACMA, no de una licitación o financiación ya comprometida."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_843a22bbbd650edf",
-          "quality_gate_evaluated_at": "2026-10-20T20:38:17.334Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "engine_version": "publisher-export-v2"
-      }
+      "export_id": "exp_3e74af101c378859",
+      "draft_id": "drf_0b1d75ee08006c4e",
+      "investigation_id": "inv_f546d862b94b7cc8",
+      "slug": "localizan-cadaver-agricultor-marjal-pego-oliva",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ]
     }
-  ],
-  "quarantined": []
+  ]
 }

@@ -2,12 +2,12 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-20T20:38:28.857Z",
+  "generated_at": "2026-10-20T23:55:11.913Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-20T20:38:28.652Z",
+  "last_activity": "2026-10-20T23:55:11.719Z",
   "newspaper": {
     "archive_total": 109,
-    "published_today": 4,
+    "published_today": 0,
     "published_last_7_days": 27,
     "categories": {
       "ECONOMIA": 17,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 3,
     "investigated": 0,
     "drafts": 1,
-    "eligible": 1,
-    "quarantined": 0,
+    "eligible": 0,
+    "quarantined": 1,
     "archive_added": 0
   },
   "delivery": {
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_0b1d75ee08006c4e",
+      "slug": "localizan-cadaver-agricultor-marjal-pego-oliva",
+      "category": "SUCESOS",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-20T23:55:00.974Z"
+    }
+  ]
 }

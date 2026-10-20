@@ -1,161 +1,77 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-20T20:37:31.635Z",
+  "generated_at": "2026-10-20T23:54:33.410Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "2ddaf65567675b2d8111fc69ce8df6db2120dab9f99394b0551755b2ececcb97",
-      "title": "El PP de Calp ya ha decidido su candidato para las elecciones municipales de 2027",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está respaldada únicamente por una noticia de Calp Digital basada en fuentes internas anónimas del PP. No se ha encontrado confirmación independiente ni comunicado oficial del PPCV que pruebe que el candidato ya esté formalmente decidido. La identidad tampoco está publicada.",
-      "claims": [
-        {
-          "claim": "La dirección del Partido Popular de la Comunitat Valenciana ya ha decidido quién será su candidato en Calp para las elecciones municipales de 2027.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El nombre del candidato se mantiene reservado hasta después de las elecciones generales del 29 de noviembre de 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "César Sánchez ha decidido no concurrir en la parte alta de la lista municipal del PP en 2027.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El PP de Calp continúa dirigido por una comisión gestora y baraja perfiles como Noelia Císcar, Miguel Crespo y Aroa Pineda.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12418/pp-calp-candidato-elecciones-municipales-2027",
-          "evidence": "La noticia afirma que fuentes internas del PP han confirmado que el candidato está decidido, pero no identifica a la persona ni aporta un comunicado, resolución orgánica o declaración pública verificable del PPCV.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/11466/ximo-perles-no-repetira-como-candidato-en-calp-y-cesar-sanchez-tambien-se-aleja",
-          "evidence": "Una información anterior señala que César Sánchez se alejaba de la política municipal y que Ximo Perles no repetiría como candidato, pero no confirma la designación del nuevo candidato del PP de Calp.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "El dossier de prensa del Ayuntamiento de Calp reproduce la referencia de Calp Digital, por lo que no constituye corroboración independiente.",
-        "La afirmación central depende de fuentes anónimas del partido y no de una fuente primaria identificable.",
-        "Debe distinguirse entre una decisión interna todavía no ratificada y una candidatura formalmente aprobada."
-      ],
-      "id": "inv_edd19bada0f04810",
-      "investigated_at": "2026-10-20T20:37:31.635Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "675a44f516a15b09bb884dcb51e615366443030f6def225071fb9f793fc5e2ea",
-      "title": "La Audiencia juzgará a cinco acusados por una presunta estafa con un chalé en Calp",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "Calp Digital publica una información concreta sobre un juicio señalado para el 23 de octubre de 2026 y atribuye los hechos y la cuantía a la Fiscalía. La noticia es internamente consistente, pero no se ha localizado una publicación independiente ni el señalamiento oficial o escrito de acusación accesible que permita corroborar los datos esenciales.",
-      "claims": [
-        {
-          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 23 de octubre de 2026 un juicio contra cuatro hombres y una mujer por hechos relacionados con un chalé de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía sostiene que los acusados alquilaron el inmueble, simularon ser sus propietarios y trataron de venderlo.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las operaciones investigadas habrían permitido obtener hasta 131.000 euros entre 2013 y 2014.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía atribuye a los acusados dos delitos de estafa, dos de falsedad y uno de revelación de secretos, con penas solicitadas de entre once meses y seis años.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los acusados son responsables de los hechos denunciados.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
-          "evidence": "La noticia informa de un juicio señalado para el 23 de octubre de 2026 ante la Sección Tercera de la Audiencia Provincial de Alicante, contra cuatro hombres y una mujer. Resume el relato de la Fiscalía sobre el alquiler del chalé, la supuesta simulación de propiedad, las operaciones de venta y una obtención de hasta 131.000 euros. También recoge los delitos atribuidos y las penas solicitadas.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La información describe acusaciones de la Fiscalía, no hechos probados.",
-        "La propia noticia recuerda la presunción de inocencia de los cinco encausados.",
-        "No se ha encontrado en la búsqueda una fuente judicial primaria accesible que confirme el señalamiento y el contenido del escrito de acusación.",
-        "La referencia temporal es prospectiva respecto a la fecha de publicación: el juicio estaba previsto para el 23 de octubre de 2026."
-      ],
-      "id": "inv_ab57b3a4202616c8",
-      "investigated_at": "2026-10-20T20:37:31.635Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-      "title": "Calp presenta el Plan de Movilidad No Motorizada de la Marina Alta",
+      "candidate_fingerprint": "e888e03cb58e5f6c4780c6701f93ffe8cce421356f42e36794e644f113d1afe7",
+      "title": "Hallan muerto a un agricultor en la marjal de Pego-Oliva tras las inundaciones de la DANA Adam",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La existencia del plan, su presentación pública en Calp el 19 de octubre de 2026 y la participación del Ayuntamiento, MACMA y Xarxa Esportiva están respaldadas por una convocatoria oficial municipal. Una fuente independiente confirma que se trata de un borrador comarcal orientado a conectar la Marina Alta mediante itinerarios no motorizados. La formulación debe mantener el carácter de borrador o presentación, no presentarlo como un plan definitivamente aprobado.",
+      "summary": "La localización del cadáver de un agricultor en la marjal de Pego-Oliva el 20 de octubre de 2026 está corroborada por Europa Press, que cita fuentes de la Guardia Civil, y por La Vanguardia, que cita a la Delegación del Gobierno en la Comunitat Valenciana. La Guardia Civil abrió una investigación para identificar plenamente al fallecido y esclarecer las causas. La relación directa con las inundaciones de la DANA Adam no estaba confirmada; las primeras hipótesis apuntaban a una posible muerte natural. La noticia es publicable si mantiene esa cautela y no presenta el fallecimiento como causado por el temporal.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp, la MACMA y la Xarxa Esportiva organizaron en Calp la presentación del Plan de Movilidad No Motorizada de la Marina Alta.",
+          "claim": "El 20 de octubre de 2026 fue localizado el cadáver de un agricultor en la marjal de Pego-Oliva.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La presentación estaba prevista para el 19 de octubre de 2026 a las 18:30 en el Saló Blau de la Casa de Cultura Jaume Pastor i Fluixà.",
+          "claim": "El hallazgo se produjo en una zona afectada por las inundaciones de la DANA Adam.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto pretende fomentar desplazamientos a pie y en bicicleta, y mejorar la accesibilidad, la seguridad y la sostenibilidad comarcal.",
+          "claim": "La Guardia Civil abrió una investigación para identificar plenamente al fallecido y esclarecer las causas de la muerte.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan era un borrador con una propuesta de 77 tramos y una inversión estimada de unos 12,3 millones de euros.",
+          "claim": "Se investigaba si la muerte estaba relacionada con las inundaciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan había sido aprobado definitivamente por todas las administraciones implicadas.",
-          "status": "UNVERIFIED"
+          "claim": "La relación causal entre el fallecimiento y la DANA estaba confirmada.",
+          "status": "CONTRADICTED"
+        },
+        {
+          "claim": "Las primeras informaciones apuntaban a una posible muerte natural o a un problema de salud, pendiente de confirmación forense.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp / Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "evidence": "La convocatoria oficial anuncia una charla organizada por el Ayuntamiento de Calp junto con la Xarxa Esportiva y la MACMA, fija la fecha del 19 de octubre de 2026, las 18:30 horas y el Saló Blau, y describe como objetivos una comarca más accesible, segura y respetuosa con el medio ambiente.",
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/valencia/noticia-troben-cadaver-dun-agricultor-marjal-pego-oliva-despres-les-inundacions-dana-adam-20261020111517.html",
+          "evidence": "Publica el 20 de octubre de 2026 que fue encontrado el cadáver de un agricultor en la marjal de Pego-Oliva. Atribuye la confirmación a fuentes del Instituto Armado, indica que la Guardia Civil investigaba la identificación y las causas, y señala que inicialmente apuntaba a una muerte natural.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Vanguardia",
+          "source_url": "https://www.lavanguardia.com/local/valencia/20261020/11663429/localizan-cuarta-victima-dana-adam-marjal-pego-oliva.html",
+          "evidence": "Informa el 20 de octubre de 2026 de la localización del cuerpo de un agricultor en la marjal de Pego-Oliva y atribuye la confirmación a fuentes de la Delegación del Gobierno en la Comunitat Valenciana. Precisa que las causas de la muerte todavía no estaban esclarecidas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Onda Cero",
+          "source_url": "https://amp.ondacero.es/emisoras/comunidad-valenciana/valencia/noticias/hallan-muerto-agricultor-marjal-pegooliva-valencia-inundaciones_202610206ad72f69bb4b2674104f15f2.html",
+          "evidence": "Recoge información de EFE basada en fuentes de la Guardia Civil: trabajadores localizaron el cadáver en una parcela de la marjal de Pego-Oliva, cerca de la N-332 y en término de Oliva. Añade que se investigaba su relación con las lluvias y que, según la Guardia Civil, pudo sufrir un problema de salud.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Moncloa",
+          "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx?galv2r=1",
+          "evidence": "Fuente oficial que confirma que Oliva era una de las zonas más afectadas por la DANA y que el Gobierno contabilizaba víctimas mortales por las lluvias el 20 de octubre de 2026. No identifica específicamente al agricultor ni establece la causa de su muerte.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "evidence": "La información independiente identifica el proyecto como el primer borrador del plan de la MACMA, estima una inversión de 12,3 millones de euros, plantea 77 tramos y recoge el calendario de charlas, incluida la de Calp del 19 de octubre.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026",
-          "evidence": "La noticia local recoge la convocatoria, los participantes Paco Tortosa y Nico Vives, y los objetivos de fomentar los desplazamientos sostenibles, mejorar la accesibilidad y reforzar la seguridad en la comarca.",
-          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La evidencia confirma la presentación y el contenido del borrador, pero no una aprobación definitiva ni la ejecución de las actuaciones.",
-        "La noticia candidata fue publicada el 18 de octubre y describía una actividad prevista para el 19 de octubre; conviene redactar la pieza con precisión temporal o actualizarla con información posterior al acto.",
-        "La cifra de 12,3 millones y los 77 tramos proceden del borrador difundido por la MACMA, no de una licitación o financiación ya comprometida."
+        "La confirmación de la existencia del cadáver y de la investigación procede de fuentes oficiales citadas por agencias y medios, pero no se localizó un comunicado público directo de la Guardia Civil con todos los detalles.",
+        "La causa de la muerte y su eventual relación con la DANA Adam no estaban resueltas en las fuentes consultadas.",
+        "No debe publicarse como hecho confirmado que el agricultor murió por la inundación; debe hablarse de una relación investigada y de una hipótesis inicial de muerte natural o problema de salud.",
+        "Varias informaciones reproducen el despacho de Europa Press o EFE; La Vanguardia aporta una corroboración adicional mediante fuentes de la Delegación del Gobierno."
       ],
-      "id": "inv_3cd20bdebcaa8d98",
-      "investigated_at": "2026-10-20T20:37:31.635Z",
+      "id": "inv_f546d862b94b7cc8",
+      "investigated_at": "2026-10-20T23:54:33.410Z",
       "model": "gpt-5.6-luna"
     }
   ]
