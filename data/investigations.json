@@ -1,198 +1,123 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-20T06:03:58.536Z",
+  "generated_at": "2026-10-20T11:41:08.014Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "391032dbbfae3350f45b90674cdce1f181c863a3f8b13f9c9eac0c04f57b0c07",
-      "title": "Calp celebra del 21 al 25 de octubre sus fiestas de Moros y Cristianos por el 50 aniversario",
+      "candidate_fingerprint": "d9d16cfd22d3bc4bfb6fbf4075f8b46198be029e8498adb0a3cbd3786d51e6cb",
+      "title": "Mueren seis migrantes tras dos semanas a la deriva en una patera rescatada frente a Calp",
       "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "Los hechos esenciales están respaldados por el Ayuntamiento, el portal oficial de la fiesta, la Tourist Info de Calp y el BOE. La declaración como Fiesta de Interés Turístico Nacional está oficialmente publicada. La programación principal se desarrolla del 21 al 25 de octubre, aunque la misa de difuntos figura el 26 de octubre; conviene reflejar esta precisión si se presenta el calendario completo.",
-      "claims": [
-        {
-          "claim": "Las fiestas de Moros y Cristianos de Calp se celebran principalmente del 21 al 25 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación incluye pregón, entrada de bandas, actos religiosos, mascletàs, desfile infantil, Gran Entrada, Desembarco, primera batalla y el Parlamento o segunda batalla de El Miracle.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La edición de 2026 conmemora el 50 aniversario de las fiestas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las fiestas han sido declaradas Fiesta de Interés Turístico Nacional.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La celebración está dedicada al Santíssim Crist de la Suor, patrón de Calp.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
-          "evidence": "Detalla la programación prevista del 21 al 25 de octubre, incluidos el pregón, los actos religiosos, las mascletàs, la Gran Entrada del 24 de octubre, el Desembarco y las dos batallas del 25 de octubre. También indica que la edición conmemora el 50 aniversario y que la fiesta ha recibido la declaración nacional.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Boletín Oficial del Estado",
-          "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-19610&lang=es",
-          "evidence": "Publica la Resolución de 22 de agosto de 2026 por la que se concede oficialmente el título de Fiesta de Interés Turístico Nacional a la Fiesta de Moros y Cristianos de Calp.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Portal oficial de las Fiestas de Moros y Cristianos de Calp",
-          "source_url": "https://morosycristianos.calpe.es/las-fiestas-de-moros-y-cristianos-de-calp-ya-tienen-imagen-oficial-para-su-edicion-de-2026/",
-          "evidence": "Confirma que la edición de 2026 se celebra del 21 al 26 de octubre y vincula la celebración con el 50 aniversario y la reciente declaración de Interés Turístico Nacional.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Tourist Info Calpe",
-          "source_url": "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
-          "evidence": "Ofrece la programación oficial de los Moros y Cristianos de octubre de 2026 y recoge la colaboración del Ayuntamiento, la Asociación de Moros y Cristianos, la UNDEF y la comisión del 50 aniversario.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "El titular limita las fiestas al 25 de octubre, pero el portal oficial de la fiesta sitúa la programación del 21 al 26 de octubre; el Ayuntamiento incluye una misa de difuntos el 26 de octubre.",
-        "La evidencia confirma la programación anunciada, no la celebración efectiva de cada acto futuro a la fecha de investigación."
-      ],
-      "id": "inv_d0b5de7663715dca",
-      "investigated_at": "2026-10-20T06:03:58.536Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "c8d90e0d9301da9025ca518d34534b8c65af68cfcedb5213a82cc628ca1e39a0",
-      "title": "El Taxus Medio Ambiente se proclama campeón de España de Cruceros en aguas de Calp",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La victoria del Taxus Medio Ambiente está confirmada por la Real Federación Española de Vela y por la clasificación general oficial definitiva. Una cobertura independiente de Mundo Deportivo confirma previamente la sede, el número de equipos y federaciones, mientras que otra publicación deportiva informa del resultado final y del adelanto por alerta meteorológica.",
-      "claims": [
-        {
-          "claim": "Taxus Medio Ambiente ganó el Campeonato de España de Cruceros-Trofeo Loterías con el Deporte 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La competición se disputó en aguas de Calp y fue organizada por la Real Federación Española de Vela y el Real Club Náutico de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Participaron 18 equipos de 13 federaciones autonómicas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El desenlace se adelantó al sábado por la alerta meteorológica prevista para el domingo.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Saleroso 2.0 terminó segundo y Antigua Craiova tercero.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Real Federación Española de Vela",
-          "source_url": "https://rfev.es/taxus-medio-ambiente-se-proclama-campeon-de-espana-de-cruceros-en-calpe/",
-          "evidence": "Informa de que el equipo asturiano Taxus Medio Ambiente ganó el campeonato en Calpe; identifica a Saleroso 2.0 y Antigua Craiova como segundo y tercero, respectivamente; cifra la participación en 18 equipos de 13 federaciones y explica que el programa se modificó por la alerta roja prevista para el domingo.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Clasificación general oficial de la RFEV",
-          "source_url": "https://rfev.es/wp-content/uploads/2026/10/CLASIFICACION-GENERAL-FINAL-CTO-ESP-CRUCEROS-2026.html",
-          "evidence": "La clasificación definitiva sitúa en primer lugar a Taxus Medio Ambiente, con José Rábano Carretero como patrón, y lo identifica expresamente como campeón de España de 2026 en Calpe.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Mundo Deportivo",
-          "source_url": "https://www.mundodeportivo.com/vela/20261016/1004239148/calpe-reune-18-equipos-lucha-campeonato-espana-cruceros-loterias-deporte.html",
-          "evidence": "Confirma antes de la resolución que el campeonato se celebraba en Calpe del 16 al 18 de octubre con 18 equipos procedentes de 13 federaciones autonómicas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Nosport",
-          "source_url": "https://nostresport.com/el-taxus-medio-ambiente-conquista-el-campeonato-de-espana-de-cruceros-en-calpe/",
-          "evidence": "Relata el resultado final, la victoria del Taxus Medio Ambiente, el podio, las 18 tripulaciones o equipos y el adelanto de la final al sábado por la alerta roja.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La RFEV utiliza en su noticia la expresión '18 equipos'; la clasificación oficial corresponde a 18 embarcaciones o equipos del campeonato.",
-        "La fuente independiente de Mundo Deportivo es una previa, por lo que corrobora la sede y la participación, no por sí sola el resultado final."
-      ],
-      "id": "inv_ff84f9962a582cb4",
-      "investigated_at": "2026-10-20T06:03:58.536Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "6f575b4bd665c4286af6f784bfe77bf648d56bcac7c77053a25eb2d13bb55e8e",
-      "title": "Calp presenta el Plan de Movilidad No Motorizada de la Marina Alta",
-      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La convocatoria y el contenido básico del plan están corroborados por canales oficiales y por una información independiente anterior. Sin embargo, la fuente candidata publicada el 18 de octubre anuncia una presentación para el 19 de octubre y no aporta una crónica o confirmación material de que el acto se celebrara efectivamente. El estado posterior del evento en el calendario oficial sugiere que pasó, pero no basta para verificar todos los hechos de la afirmación en pasado.",
+      "publishable": true,
+      "summary": "El hecho esencial está corroborado por varias informaciones independientes: una patera procedente de Argelia fue localizada a unas 37 millas náuticas de Calp tras aproximadamente dos semanas a la deriva; once personas fueron rescatadas y los supervivientes relataron que varios ocupantes murieron durante la travesía y que los cuerpos fueron arrojados al mar. La cifra exacta de fallecidos aparece como seis o siete según las fuentes, por lo que el titular debe mantener esa cautela.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp, la Xarxa Esportiva y la Mancomunitat Comarcal de la Marina Alta organizaron una presentación del plan.",
+          "claim": "Una patera procedente de Argelia, con destino previsto a Ibiza, permaneció aproximadamente dos semanas a la deriva.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La presentación estaba prevista para el 19 de octubre de 2026 a las 18:30 en el Saló Blau de la Casa de Cultura de Calp.",
+          "claim": "La embarcación fue localizada a unas 37 millas náuticas de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plan busca fomentar los desplazamientos a pie y en bicicleta y mejorar la accesibilidad, la seguridad y la sostenibilidad.",
+          "claim": "Fueron rescatados once supervivientes por la Salvamar Fénix y trasladados al puerto de Alicante.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La presentación se celebró efectivamente el 19 de octubre de 2026.",
+          "claim": "Los supervivientes relataron que varios ocupantes fallecieron durante la travesía y que los cuerpos fueron arrojados al mar.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Fallecieron exactamente seis personas.",
           "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "MarinaAlta.es / Dénia FM",
+          "source_url": "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
+          "evidence": "Informa de una patera localizada a unas 37 millas náuticas de Calp tras aproximadamente dos semanas de navegación desde Argelia, con once supervivientes. Recoge que los supervivientes relataron entre seis y siete fallecidos y que los cuerpos fueron arrojados al mar. También identifica a la Salvamar Fénix como embarcación de rescate.",
+          "source_type": "SECONDARY"
         },
         {
-          "claim": "El acto incluyó una sesión abierta de debate y participación ciudadana.",
+          "source_name": "La Voz de Ibiza",
+          "source_url": "https://lavozdeibiza.com/actualidad/seis-muertos-en-una-patera-que-buscaba-llegar-a-ibiza-desde-argelia/",
+          "evidence": "Describe el rescate frente a Calp, a unas 37 millas náuticas, después de casi dos semanas a la deriva. Señala que de los 17 o 18 ocupantes iniciales sobrevivieron once y que entre seis y siete murieron durante la travesía, según los datos atribuidos a la Policía Nacional. Añade que intervino la Salvamar Fénix y que los cuerpos fueron arrojados al mar.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Diario INFORMACIÓN",
+          "source_url": "https://www.informacion.es/sucesos/sucesos-en-alicante/2026/10/19/mueren-seis-migrantes-patera-deriva-135496642.html",
+          "evidence": "El artículo candidato informa del rescate de once supervivientes a unas 37 millas náuticas de Calp y de los testimonios sobre varias muertes durante una travesía de alrededor de dos semanas.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra exacta de fallecidos no está cerrada: las fuentes consultadas hablan de seis o siete, mientras que el titular usa seis.",
+        "No se ha localizado una nota pública específica de Salvamento Marítimo o de la Policía Nacional que detalle todos los extremos del operativo.",
+        "La afirmación sobre seis fallecidos debe redactarse con atribución o cautela, por ejemplo: 'al menos seis migrantes' o 'entre seis y siete, según los supervivientes'."
+      ],
+      "id": "inv_4012c8367b26a40b",
+      "investigated_at": "2026-10-20T11:41:08.014Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "37dd8b3ab6e63cf3086764de739191230d2028e87c30638937fda220e0c9395e",
+      "title": "La Audiencia Provincial juzgará a cinco acusados por una presunta estafa con un chalé en Calp",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "LOW",
+      "publishable": false,
+      "summary": "La información está respaldada por el artículo de Calp Digital, que atribuye los hechos y las cantidades a la Fiscalía y al calendario de señalamientos de la Audiencia Provincial de Alicante. Sin embargo, no se ha encontrado una corroboración independiente específica ni un documento oficial accesible que permita confirmar de forma directa el juicio del 23 de octubre, el número de acusados, el perjuicio de 131.000 euros y las penas solicitadas.",
+      "claims": [
+        {
+          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 23 de octubre de 2026 un juicio contra cinco personas por hechos relacionados con un chalé situado en Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los acusados son cuatro hombres y una mujer.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los acusados habrían alquilado el chalé y simulado posteriormente ser sus propietarios para intentar venderlo.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía cifra en hasta 131.000 euros el beneficio o perjuicio obtenido mediante varias operaciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía solicita penas de entre once meses y seis años de prisión.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los hechos y el señalamiento han sido corroborados por una fuente independiente u oficial accesible.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12416/calp-plan-movilidad-no-motorizada-marina-alta-2026",
-          "evidence": "Anuncia para el 19 de octubre la presentación del Plan de Movilidad No Motorizada de la Marina Alta en el Saló Blau, con Paco Tortosa y Nico Vives, y describe como objetivos la movilidad sostenible, la accesibilidad, la seguridad y la participación ciudadana.",
+          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
+          "evidence": "Publica que la Audiencia Provincial de Alicante juzgaría el 23 de octubre de 2026 a cuatro hombres y una mujer por una presunta trama relacionada con un chalé de Calp. Atribuye a la Fiscalía la tesis de que alquilaron el inmueble, simularon ser sus propietarios y trataron de venderlo; también recoge una cifra de hasta 131.000 euros y penas solicitadas de entre once meses y seis años.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Comunica, Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%B2-presentacion-del-plan-de-movilidad-no-motorizada-de-la-marina-alta-en-calp/",
-          "evidence": "Convoca oficialmente la charla del 19 de octubre de 2026 a las 18:30 en el Saló Blau, organizada por el Ayuntamiento junto con la Xarxa Esportiva y la MACMA, e indica que incluiría presentación y debate.",
+          "source_name": "Consejo General del Poder Judicial - Agenda de señalamientos de la Comunidad Valenciana",
+          "source_url": "https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?lang_choosen=en&perfil=0&vgnextchannel=418f825dd79f0310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=es&vgnextoid=75d4e55aa4c98410VgnVCM1001006f48ac0aRCRD",
+          "evidence": "El portal del Poder Judicial mantiene una sección oficial de agendas de señalamientos de la Comunidad Valenciana, pero no se ha localizado en el resultado accesible una entrada que identifique directamente esta causa concreta, los cinco acusados o la cuantía de 131.000 euros.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica, versión en valenciano",
-          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%9A%B2-presentacio-del-pla-de-mobilitat-no-motoritzada-de-la-marina-alta-a-calp/?lang=va-val",
-          "evidence": "El calendario oficial marca el evento como pasado y conserva la convocatoria, los organizadores, el lugar, la fecha y la participación del equipo director.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-macma-presenta-el-borrador-del-plan-de-movilidad-no-motorizada-con-una-inversion-de-123-millones-para-la-marina-alta/",
-          "evidence": "Informa de que la MACMA había terminado el primer borrador del plan y que organizaba sesiones informativas y de debate durante octubre, incluida una sesión en Calp. Describe propuestas generales del borrador, pero no confirma la celebración efectiva del acto del 19 de octubre.",
-          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La principal fuente candidata está redactada como anuncio previo: su titular dice que Calp presenta el plan, pero el cuerpo fija el acto para una fecha posterior.",
-        "Se necesita una nota posterior al 19 de octubre, acta, publicación de la MACMA o evidencia audiovisual/documental del acto para elevar el estado a VERIFIED.",
-        "La información disponible describe un borrador y una propuesta en fase de participación, no un plan definitivamente aprobado."
+        "La principal fuente periodística atribuye los datos al Ministerio Fiscal y al calendario de señalamientos, pero no reproduce el escrito de acusación ni enlaza directamente al expediente.",
+        "No se ha encontrado una segunda publicación independiente que confirme los detalles materiales del caso.",
+        "Debe preservarse estrictamente la presunción de inocencia: se trata de acusaciones y hechos presuntos, no de una condena.",
+        "Antes de publicar conviene obtener confirmación directa de la Audiencia Provincial de Alicante, del TSJCV o una copia verificable del señalamiento y del escrito de Fiscalía."
       ],
-      "id": "inv_3cd20bdebcaa8d98",
-      "investigated_at": "2026-10-20T06:03:58.536Z",
+      "id": "inv_7dcc7542b6613c29",
+      "investigated_at": "2026-10-20T11:41:08.014Z",
       "model": "gpt-5.6-luna"
     }
   ]

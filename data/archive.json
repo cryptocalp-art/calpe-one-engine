@@ -3,9 +3,72 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-20T06:05:03.668Z",
-  "count": 107,
+  "updated_at": "2026-10-20T11:41:51.815Z",
+  "count": 108,
   "articles": [
+    {
+      "archive_id": "arc_1c109b40d1633f35",
+      "external_id": "drf_23ee87a7fd01cd0d",
+      "investigation_id": "inv_4012c8367b26a40b",
+      "candidate_fingerprints": [
+        "d9d16cfd22d3bc4bfb6fbf4075f8b46198be029e8498adb0a3cbd3786d51e6cb"
+      ],
+      "title": "Rescatan frente a Calp a once supervivientes de una patera tras dos semanas a la deriva",
+      "slug": "rescatan-once-supervivientes-patera-frente-calp",
+      "summary": "Una patera procedente de Argelia y con destino previsto a Ibiza fue localizada a unas 37 millas náuticas de Calp después de permanecer aproximadamente dos semanas a la deriva. La Salvamar Fénix rescató a once supervivientes y los trasladó al puerto de Alicante.",
+      "body": "Una patera procedente de Argelia fue localizada a unas 37 millas náuticas de Calp tras permanecer aproximadamente dos semanas a la deriva, según las informaciones consultadas. La embarcación tenía como destino previsto Ibiza.\n\nLa Salvamar Fénix intervino en el rescate y trasladó a once supervivientes hasta el puerto de Alicante. Los ocupantes explicaron que varias personas murieron durante la travesía y que sus cuerpos fueron arrojados al mar.\n\nLa cifra de fallecidos no está cerrada. Las fuentes consultadas sitúan el número entre seis y siete personas, por lo que no puede confirmarse una cantidad exacta con la información disponible. El relato sobre las muertes procede de los supervivientes rescatados.\n\nEl hallazgo se produjo después de una navegación prolongada en condiciones de deriva. La distancia indicada respecto a Calp es de aproximadamente 37 millas náuticas, y el traslado de los supervivientes se realizó posteriormente hasta Alicante.\n\nNo se ha localizado una nota pública específica de Salvamento Marítimo o de la Policía Nacional que detalle todos los extremos del rescate. Por ese motivo, los datos sobre el número de ocupantes que iniciaron el trayecto y sobre la cifra definitiva de fallecidos deben tratarse con cautela.\n\nCon la información disponible, el hecho confirmado es el rescate de once personas que viajaban en la patera y su traslado al puerto de Alicante. Los testimonios recogidos apuntan a que otros ocupantes fallecieron durante el trayecto y que los cuerpos no llegaron a ser recuperados, al haber sido arrojados al mar, según esos relatos.",
+      "category": "SUCESOS",
+      "seo_title": "Rescatan a once supervivientes de una patera frente a Calp",
+      "meta_description": "Una patera procedente de Argelia fue localizada a 37 millas de Calp tras dos semanas a la deriva. Once supervivientes fueron trasladados a Alicante.",
+      "sources": [
+        {
+          "name": "MarinaAlta.es / Dénia FM",
+          "url": "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Voz de Ibiza",
+          "url": "https://lavozdeibiza.com/actualidad/seis-muertos-en-una-patera-que-buscaba-llegar-a-ibiza-desde-argelia/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Diario INFORMACIÓN",
+          "url": "https://www.informacion.es/sucesos/sucesos-en-alicante/2026/10/19/mueren-seis-migrantes-patera-deriva-135496642.html",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp",
+        "https://lavozdeibiza.com/actualidad/seis-muertos-en-una-patera-que-buscaba-llegar-a-ibiza-desde-argelia",
+        "https://www.informacion.es/sucesos/sucesos-en-alicante/2026/10/19/mueren-seis-migrantes-patera-deriva-135496642.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La cifra exacta de fallecidos no está cerrada: las fuentes consultadas hablan de seis o siete, mientras que el titular usa seis.",
+          "No se ha localizado una nota pública específica de Salvamento Marítimo o de la Policía Nacional que detalle todos los extremos del operativo.",
+          "La afirmación sobre seis fallecidos debe redactarse con atribución o cautela, por ejemplo: 'al menos seis migrantes' o 'entre seis y siete, según los supervivientes'."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_926bc4d71a124828",
+        "quality_gate_evaluated_at": "2026-10-20T11:41:51.483Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "La cifra de fallecidos no está confirmada: las fuentes consultadas hablan de entre seis y siete personas. Mantener esta cautela en titular, entradilla y cuerpo.",
+        "No se ha localizado una nota pública específica de Salvamento Marítimo o de la Policía Nacional que detalle todos los extremos del operativo."
+      ],
+      "published_at": "2026-10-20T11:41:40.349Z",
+      "updated_at": "2026-10-20T11:41:51.815Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_013c5003d9850361",
       "external_id": "drf_af711e865e7ec4a6",

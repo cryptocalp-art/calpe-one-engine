@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-20T06:05:17.310Z",
+  "generated_at": "2026-10-20T11:42:05.368Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-20T06:05:17.118Z",
+  "last_activity": "2026-10-20T11:42:05.165Z",
   "newspaper": {
-    "archive_total": 107,
-    "published_today": 2,
+    "archive_total": 108,
+    "published_today": 3,
     "published_last_7_days": 27,
     "categories": {
+      "SUCESOS": 16,
       "DEPORTES": 5,
-      "SUCESOS": 15,
       "TURISMO": 10,
       "LOCAL": 15,
       "SOCIEDAD": 13,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_1c109b40d1633f35",
+        "title": "Rescatan frente a Calp a once supervivientes de una patera tras dos semanas a la deriva",
+        "category": "SUCESOS",
+        "slug": "rescatan-once-supervivientes-patera-frente-calp",
+        "published_at": "2026-10-20T11:41:40.349Z"
+      },
       {
         "archive_id": "arc_013c5003d9850361",
         "title": "El Taxus Medio Ambiente gana en Calp el Campeonato de España de Cruceros",
@@ -69,21 +76,14 @@
         "category": "LOCAL",
         "slug": "temporal-casi-650-litros-marina-alta-calp",
         "published_at": "2026-10-19T07:50:35.536Z"
-      },
-      {
-        "archive_id": "arc_ed14de15ae558308",
-        "title": "La restauración concentra la mayor afiliación de Calp con 1.768 personas al cierre de 2025",
-        "category": "ECONOMIA",
-        "slug": "restauracion-lidera-afiliacion-calp-2025",
-        "published_at": "2026-10-19T01:21:42.445Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
     "archive_added": 1
   },
