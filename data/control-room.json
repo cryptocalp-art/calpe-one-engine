@@ -2,18 +2,18 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-19T21:06:04.411Z",
+  "generated_at": "2026-10-20T00:24:04.849Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-19T21:06:04.218Z",
+  "last_activity": "2026-10-20T00:24:04.650Z",
   "newspaper": {
-    "archive_total": 105,
-    "published_today": 6,
-    "published_last_7_days": 25,
+    "archive_total": 106,
+    "published_today": 1,
+    "published_last_7_days": 26,
     "categories": {
+      "SUCESOS": 15,
       "TURISMO": 10,
       "LOCAL": 15,
       "SOCIEDAD": 13,
-      "SUCESOS": 14,
       "ECONOMIA": 16,
       "POLITICA": 9,
       "MEDIO_AMBIENTE": 18,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_2e9b1a795af7bca6",
+        "title": "Calp queda fuera del confinamiento por la DANA Adam y mantiene el nivel amarillo",
+        "category": "SUCESOS",
+        "slug": "calp-fuera-confinamiento-dana-adam-alerta-amarilla",
+        "published_at": "2026-10-20T00:23:38.720Z"
+      },
       {
         "archive_id": "arc_646b43f9e41f947e",
         "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
@@ -69,21 +76,14 @@
         "category": "LOCAL",
         "slug": "calp-cierra-instalaciones-deportivas-alerta-roja",
         "published_at": "2026-10-18T11:09:31.068Z"
-      },
-      {
-        "archive_id": "arc_822454da51121b36",
-        "title": "El PSOE de Calp traslada a la Fiscalía publicaciones sobre personas migrantes y acoso a cargos públicos",
-        "category": "POLITICA",
-        "slug": "psoe-calp-fiscalia-publicaciones-migrantes-acoso-cargos",
-        "published_at": "2026-10-18T05:56:59.592Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
     "archive_added": 1
   },

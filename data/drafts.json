@@ -1,57 +1,108 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-19T21:05:45.057Z",
+  "generated_at": "2026-10-20T00:23:38.720Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 2,
   "drafts": [
     {
-      "id": "drf_e2d80186a624b69f",
-      "investigation_id": "inv_b251c50d1fcaeea3",
-      "candidate_fingerprint": "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7",
-      "category": "TURISMO",
+      "id": "drf_5e977ea3257deeb3",
+      "investigation_id": "inv_660e2237beffa60b",
+      "candidate_fingerprint": "c358d534542475fc1978a8c0eb49d20abe311c230151b5d4d3b45e4994869a3c",
+      "category": "SUCESOS",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-10-19T21:05:45.057Z",
+      "created_at": "2026-10-20T00:23:38.720Z",
       "model": "gpt-5.6-luna",
-      "headline": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
-      "subheadline": "El balance de la mañana del 19 de octubre contabiliza 25 tramos viarios afectados por agua, desprendimientos y acumulaciones de agua",
-      "lead": "Un total de 17 carreteras presentaban algún tramo cortado y 25 tramos viarios estaban afectados en la Comunitat Valenciana durante la mañana del 19 de octubre, según datos atribuidos a la administración autonómica. La Marina Alta concentraba varias de las incidencias, con accesos afectados en Pego, la Vall de Gallinera y Xàbia.",
-      "body_markdown": "El balance difundido durante la mañana del 19 de octubre situaba en 17 el número de carreteras con algún tramo cortado en la Comunitat Valenciana. En total, se contabilizaban 25 tramos viarios afectados por inundaciones, desprendimientos y acumulaciones de agua.\n\nLa Marina Alta era una de las zonas con más incidencias. Entre las vías afectadas figuraban la 7420, la 7421, la CV-700, la CV-723, la CV-727 y la CV-747, esta última a la altura de Xàbia. También seguían afectados accesos o carreteras de Pego y la Vall de Gallinera.\n\nLa cifra correspondía a una actualización de la mañana, con datos de la Conselleria de Infraestructuras de las 08.59 horas. Un balance anterior, elaborado con información del Centro de Coordinación de Emergencias de las 08.00 horas, había registrado 15 carreteras cortadas y 23 tramos afectados, lo que refleja la evolución de las incidencias durante la jornada.\n\nPor la tarde, la Generalitat informó de trabajos para restituir la circulación en carreteras de la Safor y la Marina Alta. En esa actualización se señalaban acumulaciones de agua en la CV-700 y la CV-715, además de desprendimientos en la CV-720.\n\nEl número de vías afectadas podía variar a lo largo del día a medida que se reabrían tramos o aparecían nuevas incidencias. Por ello, el dato de 17 carreteras y 25 tramos debe entenderse como un balance de la mañana del 19 de octubre y no como una situación permanente.",
-      "seo_title": "17 carreteras cortadas por inundaciones en la Marina Alta",
-      "meta_description": "La Comunitat Valenciana registraba 17 carreteras cortadas y 25 tramos afectados por inundaciones, desprendimientos y acumulaciones de agua.",
-      "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
+      "headline": "Calp queda fuera del confinamiento por la DANA Adam y mantiene el nivel amarillo",
+      "subheadline": "El levantamiento de las restricciones fue progresivo durante la tarde, mientras continuaron los avisos por lluvias y tormentas en el litoral valenciano.",
+      "lead": "Calp dejó de estar afectada por el confinamiento decretado inicialmente por la Generalitat durante el episodio de la DANA Adam. La retirada de las restricciones se produjo de forma progresiva durante la tarde del 19 de octubre, mientras se mantenían avisos meteorológicos de nivel amarillo en zonas del litoral valenciano.",
+      "body_markdown": "Calp figuró entre los municipios del litoral norte de Alicante incluidos inicialmente en la orden de confinamiento y en las restricciones extraordinarias de movilidad adoptadas por la Generalitat ante la evolución de la DANA Adam.\n\nLa situación cambió durante la tarde del 19 de octubre. La Generalitat levantó progresivamente el confinamiento en los municipios que todavía mantenían estas limitaciones y, al final de la jornada, todo el territorio valenciano quedó libre de esas restricciones. El levantamiento no se produjo de manera simultánea para todas las localidades.\n\nLa mejora de la situación no supuso el final de los avisos meteorológicos. El último boletín disponible mantenía el nivel amarillo por lluvias y tormentas en zonas de la costa de Alicante, Valencia y Castellón. Por este motivo, los organismos de emergencias continuaron reclamando precaución ante la posibilidad de precipitaciones intensas.\n\nLas recomendaciones también incluían extremar la atención ante posibles inundaciones locales y crecidas repentinas en cauces, arroyos, ramblas y barrancos. Estas advertencias permanecían vinculadas a la evolución del episodio y podían modificarse según las actualizaciones de los organismos responsables.\n\nAsí, Calp quedó fuera del confinamiento, pero la retirada de la medida convivió con la continuidad de la vigilancia meteorológica y de las recomendaciones de prevención frente a nuevos episodios de lluvia intensa.",
+      "seo_title": "Calp queda fuera del confinamiento por la DANA Adam",
+      "meta_description": "Calp deja atrás el confinamiento por la DANA Adam, aunque se mantiene el nivel amarillo y las recomendaciones ante lluvias e inundaciones.",
+      "slug": "calp-fuera-confinamiento-dana-adam-alerta-amarilla",
       "editorial_notes": [
-        "La cifra corresponde a una actualización de la mañana del 19 de octubre de 2026 y podía cambiar durante la jornada.",
-        "La información procede de fuentes secundarias que atribuyen los datos a la administración autonómica; no se localizó una nota primaria accesible con el listado completo.",
-        "Aunque el expediente está clasificado en TURISMO, el contenido es principalmente de movilidad, infraestructuras y sucesos."
+        "La referencia al nivel amarillo debe atribuirse al último boletín disponible, ya que el nivel de alerta cambió durante el 19 de octubre.",
+        "Precisar que el levantamiento del confinamiento fue progresivo y no simultáneo para todos los municipios."
       ],
       "sources": [
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
+          "source_name": "elDiario.es",
+          "source_url": "https://www.eldiario.es/comunitat-valenciana/generalitat-valenciana-ordena-confinamiento-litoral-sur-valencia-norte-alicante-dana-adam_1_13596121.amp.html",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "El Debate",
-          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
+          "source_name": "El País",
+          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
+          "source_url": "https://www.europapress.es/sociedad/noticia-dana-adam-directo-ultima-hora-temporal-lluvias-espana-20261019082348.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ministerio del Interior",
+          "source_url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Proteccion-Civil-y-Emergencias-mantiene-la-alerta-por-chubascos-y-tormentas-muy-fuertes-y-persistentes-en-el-litoral-mediterraneo-peninsular-y-Baleares/",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "El nivel de alerta fue cambiando durante el 19 de octubre; la referencia a nivel amarillo debe atribuirse al último boletín disponible en el momento de publicación.",
+          "El levantamiento del confinamiento fue progresivo durante la tarde, no simultáneo para todos los municipios."
+        ]
+      }
+    },
+    {
+      "id": "drf_0c1faaea77c22896",
+      "investigation_id": "inv_0ee5d5cde1362935",
+      "candidate_fingerprint": "7abd25e9ba0fe90a36f55b428673f79a447e8847c933e5773e366adee34276fe",
+      "category": "POLITICA",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-20T00:23:38.720Z",
+      "model": "gpt-5.6-luna",
+      "headline": "La Audiencia de Alicante fija una indemnización de 430.000 euros para el Ayuntamiento de Calp por el caso Aguas de Calp",
+      "subheadline": "La responsabilidad civil, conjunta y solidaria, corresponde al 40% de las pérdidas atribuidas a los sobrecostes de las obras de la red hidráulica.",
+      "lead": "La Audiencia de Alicante ha condenado a cinco personas en el caso de los sobrecostes de Aguas de Calp y ha fijado una indemnización conjunta y solidaria de 430.000 euros a favor del Ayuntamiento de Calp. La sentencia no era firme y podía recurrirse en casación ante el Tribunal Supremo.",
+      "body_markdown": "La Audiencia de Alicante ha dictado una sentencia condenatoria en el caso relacionado con los sobrecostes de las obras de la red hidráulica de Aguas de Calp. La resolución establece que cinco condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros.\n\nLa cantidad fijada por el tribunal corresponde al 40% de las pérdidas sufridas por Aguas de Calpe, según la información difundida por el Ayuntamiento y las informaciones basadas en Europa Press. La responsabilidad civil es conjunta y solidaria, por lo que la cifra representa el importe total establecido en la resolución para esa responsabilidad.\n\nEl fallo no implicaba que el Ayuntamiento hubiera recibido ya el dinero. La indemnización estaba fijada en la sentencia, pero la resolución podía ser recurrida en casación ante el Tribunal Supremo y no era firme en la fecha de publicación de la información.\n\nEl Ayuntamiento de Calp comunicó la decisión judicial el 15 de octubre de 2026. La sentencia se refiere a las pérdidas vinculadas a los sobrecostes de las obras de la red hidráulica y determina la cantidad que debe ser indemnizada por los cinco condenados.\n\nLa resolución judicial establece, por tanto, una indemnización de 430.000 euros a favor del consistorio, pero su ejecución y sus efectos definitivos quedan condicionados a la situación procesal de la sentencia y a los posibles recursos que pudieran presentarse.",
+      "seo_title": "Aguas de Calp: indemnización de 430.000 euros al Ayuntamiento",
+      "meta_description": "La Audiencia de Alicante fija una indemnización de 430.000 euros al Ayuntamiento de Calp por el caso de los sobrecostes de Aguas de Calp.",
+      "slug": "sentencia-aguas-calp-indemnizacion-ayuntamiento-430000-euros",
+      "editorial_notes": [
+        "Mantener que la sentencia no era firme y podía recurrirse en casación.",
+        "Aclarar que los 430.000 euros corresponden a una responsabilidad civil conjunta y solidaria y no a un pago ya efectuado."
+      ],
+      "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/?lang=es",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER / Europa Press",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "València Diari",
+          "source_url": "https://valenciadiari.com/condemna-preso-cas-aigues-calp-exdiputat/",
           "source_type": "SECONDARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
         "confidence": "HIGH",
-        "supported_claim_count": 5,
+        "supported_claim_count": 4,
         "evidence_count": 3,
         "caveats": [
-          "La cifra de 17 vías y 25 tramos corresponde a una actualización de la mañana del 19 de octubre y no debe presentarse como un balance permanente.",
-          "El candidato clasifica la noticia en TURISMO, pero el contenido corresponde principalmente a SUCESOS, MOVILIDAD o INFRAESTRUCTURAS.",
-          "No se localizó en la búsqueda una nota primaria accesible de la Generalitat con el listado completo; la cifra está corroborada por Europa Press y El Debate mediante datos atribuidos a la administración autonómica."
+          "La sentencia podía no ser firme en la fecha de publicación; debe mantenerse esa precisión en cualquier pieza.",
+          "La cifra de 430.000 euros se refiere a la responsabilidad civil conjunta y solidaria, no necesariamente a un pago ya efectuado."
         ]
       }
     }

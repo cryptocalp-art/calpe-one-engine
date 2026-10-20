@@ -1,130 +1,224 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-19T21:05:07.871Z",
+  "generated_at": "2026-10-20T00:22:51.642Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 4,
   "investigations": [
     {
-      "candidate_fingerprint": "120b411bb81867c2ef08f1ac0632d5ed202bf2bbf95f7fc01037621842917e65",
-      "title": "La Generalitat mantiene el confinamiento en ocho municipios de la Marina Alta y rebaja la emergencia tras la DANA",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "El candidato recoge correctamente una fase intermedia de la emergencia del 19 de octubre de 2026: la Generalitat redujo el confinamiento general a ocho municipios, entre ellos Xàbia, Pego y Els Poblets, y rebajó posteriormente el nivel del plan de inundaciones a situación 1. Sin embargo, al cierre de la jornada la propia Generalitat ya había levantado también el confinamiento de esos ocho municipios. El titular en presente queda desactualizado y entra en contradicción temporal con la evolución posterior, por lo que requiere una redacción cronológica y una verificación final de la hora exacta de cada medida.",
+      "candidate_fingerprint": "c358d534542475fc1978a8c0eb49d20abe311c230151b5d4d3b45e4994869a3c",
+      "title": "Calp deja de estar confinada por la DANA Adam, aunque mantiene la alerta amarilla",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información queda suficientemente corroborada. Calp figuró entre los municipios incluidos inicialmente en la orden de confinamiento por la DANA Adam y posteriormente quedó fuera de las restricciones. Medios independientes informaron del levantamiento general del confinamiento y de la permanencia de avisos meteorológicos de nivel amarillo en el litoral valenciano.",
       "claims": [
         {
-          "claim": "La Generalitat mantuvo temporalmente el confinamiento en ocho municipios, incluidos Xàbia, Pego y Els Poblets, mientras levantaba las restricciones en el resto de municipios afectados.",
+          "claim": "Calp estuvo incluido entre los municipios afectados inicialmente por el confinamiento y las restricciones extraordinarias de movilidad.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El confinamiento inicial llegó a afectar a 145 municipios del litoral sur de Valencia y del litoral norte de Alicante.",
+          "claim": "La Generalitat levantó posteriormente el confinamiento que afectaba a Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Generalitat rebajó a situación 1 el Plan Especial de Inundaciones en la Marina Alta y la Safor.",
+          "claim": "Tras la mejora de la situación, se mantuvieron avisos de nivel amarillo en zonas del litoral valenciano.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Al cierre del 19 de octubre se mantenía el confinamiento en ocho municipios.",
-          "status": "CONTRADICTED"
-        },
-        {
-          "claim": "El episodio dejó daños materiales, problemas de movilidad y trabajos de recuperación activos.",
+          "claim": "Persistían recomendaciones de precaución ante posibles lluvias intensas, inundaciones y crecidas de cauces o barrancos.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/la-generalitat-mantiene-ocho-municipios-confinados-por-la-dana-adam-y-lo-levanta-en-mas-de-100-pueblos-radio-valencia/",
-          "evidence": "Informó de que, durante la tarde del 19 de octubre, el confinamiento se había reducido a ocho municipios después de levantar las restricciones en más de un centenar de localidades. La información identificó entre los municipios afectados a Xàbia, Pego y Els Poblets.",
+          "source_name": "elDiario.es",
+          "source_url": "https://www.eldiario.es/comunitat-valenciana/generalitat-valenciana-ordena-confinamiento-litoral-sur-valencia-norte-alicante-dana-adam_1_13596121.amp.html",
+          "evidence": "La noticia recoge la orden de confinamiento publicada por la Generalitat el 19 de octubre de 2026 e incluye expresamente a Calp entre los municipios del litoral norte de Alicante afectados inicialmente.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "El País",
           "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html",
-          "evidence": "Describió la orden inicial para 145 municipios y la reducción posterior del confinamiento a ocho: Bellreguard, Daimús, Miramar, Oliva, Piles, Xàbia, Pego y Els Poblets. También situó la emergencia en nivel 2 durante la fase más crítica.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/la-generalitat-mantiene-ocho-municipios-confinados-por-la-dana-adam-y-lo-levanta-en-mas-de-100-pueblos-radio-valencia/?outputType=amp",
-          "evidence": "La actualización posterior señaló que la Generalitat levantó el confinamiento de los ocho municipios que todavía tenían restricciones y rebajó a situación 1 el Plan Especial de Inundaciones en la Marina Alta y la Safor.",
+          "evidence": "Informa de que la Generalitat levantó el confinamiento de los municipios que aún mantenían restricciones y que, al final de la tarde del 19 de octubre, todo el territorio valenciano quedó libre del confinamiento. También recoge la continuidad de avisos y la necesidad de extremar la precaución.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
-          "evidence": "Informó de que los equipos de conservación de la Generalitat seguían trabajando para recuperar la circulación en carreteras afectadas por inundaciones, acumulaciones de agua y desprendimientos, especialmente en la Safor y la Marina Alta.",
+          "source_url": "https://www.europapress.es/sociedad/noticia-dana-adam-directo-ultima-hora-temporal-lluvias-espana-20261019082348.html",
+          "evidence": "Señala que el Centro de Coordinación de Emergencias de la Generalitat rebajó las alertas y estableció el nivel amarillo por lluvias y tormentas en las costas de Alicante, Valencia y Castellón.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ministerio del Interior",
+          "source_url": "https://www.interior.gob.es/opencms/es/detalle/articulo/Proteccion-Civil-y-Emergencias-mantiene-la-alerta-por-chubascos-y-tormentas-muy-fuertes-y-persistentes-en-el-litoral-mediterraneo-peninsular-y-Baleares/",
+          "evidence": "Protección Civil y Emergencias advierte de posibles inundaciones locales y crecidas repentinas en arroyos y ramblas durante el episodio de la DANA Adam.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La situación cambió durante el mismo 19 de octubre: primero se mantuvo el confinamiento en ocho municipios y después se levantó completamente.",
-        "El enlace facilitado en el candidato no coincide con la URL real localizada para la actualización de Cadena SER; se ha utilizado la URL encontrada en la búsqueda.",
-        "Para publicar, el titular debería incorporar una referencia temporal, por ejemplo: 'La Generalitat reduce el confinamiento a ocho municipios antes de levantarlo por completo y rebaja la emergencia a situación 1'."
+        "El nivel de alerta fue cambiando durante el 19 de octubre; la referencia a nivel amarillo debe atribuirse al último boletín disponible en el momento de publicación.",
+        "El levantamiento del confinamiento fue progresivo durante la tarde, no simultáneo para todos los municipios."
       ],
-      "id": "inv_dff4739d630b37f5",
-      "investigated_at": "2026-10-19T21:05:07.871Z",
+      "id": "inv_660e2237beffa60b",
+      "investigated_at": "2026-10-20T00:22:51.642Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "32380d92a95af3a6039b4bfafc7e59ee0382f72464a5076d2cc063f7154aa5c7",
-      "title": "Las inundaciones mantienen cortados 17 tramos de carretera en la Marina Alta y comarcas próximas",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La cifra esencial está corroborada: durante la mañana del 19 de octubre de 2026 había 17 vías con algún tramo cortado y 25 tramos viarios afectados en la Comunitat Valenciana por inundaciones, desprendimientos y acumulaciones de agua. La Marina Alta concentraba varias incidencias, incluidas carreteras de Pego, la Vall de Gallinera y Xàbia. La información es publicable con una referencia horaria, porque el número de cortes evolucionó durante la jornada.",
+      "candidate_fingerprint": "37dd8b3ab6e63cf3086764de739191230d2028e87c30638937fda220e0c9395e",
+      "title": "La Audiencia Provincial juzgará a cinco acusados por una presunta estafa con un chalé en Calp",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está detallada en Calp Digital y atribuye los hechos y las penas solicitadas a la Fiscalía, pero no se ha localizado una corroboración independiente específica ni el señalamiento oficial de la Audiencia Provincial correspondiente al caso. La información es plausible y parcialmente documentada, pero requiere verificación adicional antes de publicarse como noticia corroborada.",
       "claims": [
         {
-          "claim": "Había 17 carreteras cortadas en algún tramo y 25 tramos viarios afectados.",
-          "status": "SUPPORTED"
+          "claim": "Cinco personas —cuatro hombres y una mujer— estaban citadas para ser juzgadas el 23 de octubre de 2026 ante la Audiencia Provincial de Alicante.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "Las incidencias se debían a inundaciones, desprendimientos y acumulaciones de agua.",
-          "status": "SUPPORTED"
+          "claim": "Los acusados habrían alquilado un chalé en Calp y simulado ser sus propietarios para intentar venderlo.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "La Marina Alta era una de las zonas más afectadas.",
-          "status": "SUPPORTED"
+          "claim": "La Fiscalía cifra en hasta 131.000 euros el dinero obtenido mediante distintas operaciones entre 2013 y 2014.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "Seguían afectados accesos o carreteras de Pego, la Vall de Gallinera y Xàbia.",
-          "status": "SUPPORTED"
+          "claim": "La Fiscalía solicita penas de entre once meses y seis años por delitos de estafa, falsedad y revelación de secretos.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "La cifra podía cambiar durante el día conforme se reabrían o se añadían tramos.",
+          "claim": "Los acusados conservan la presunción de inocencia al no existir una resolución firme.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-tormentas-obligan-cortar-15-carreteras-marina-alta-safor-20261019094257.html",
-          "evidence": "Con datos del Centro de Coordinación de Emergencias de las 08.00 horas, informó de 15 carreteras cortadas y 23 tramos afectados, con incidencias en la carretera 7420, la 7421 y la CV-700 en la Marina Alta. Esta actualización documenta la evolución de los cortes, aunque todavía recogía una cifra inferior a la posterior de 17 vías y 25 tramos.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "El Debate",
-          "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20261019/carreteras-cortadas-trafico-valencia-alicante-este-lunes-19-octubre-dana-adam_471078.html",
-          "evidence": "Con datos de la Conselleria de Infraestructuras de las 08.59 horas, informó de 17 vías cortadas en algún tramo y 25 tramos viarios afectados. Detalló cortes en la Marina Alta en las carreteras 7420, 7421, CV-700, CV-723, CV-727 y CV-747, esta última a la altura de Xàbia.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-trabaja-decena-carreteras-autonomicas-restituir-trafico-temporal-20261019183350.html",
-          "evidence": "En una actualización de la tarde, informó de trabajos de la Generalitat para restituir la circulación en carreteras de la Safor y la Marina Alta, con acumulaciones de agua en la CV-700 y la CV-715 y desprendimientos en la CV-720.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
+          "evidence": "Publica que cuatro hombres y una mujer estaban citados el 23 de octubre de 2026 ante la Sección Tercera de la Audiencia Provincial de Alicante. Atribuye a la Fiscalía el relato sobre el alquiler del inmueble, la simulación de propiedad, los hasta 131.000 euros obtenidos y las penas solicitadas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La cifra de 17 vías y 25 tramos corresponde a una actualización de la mañana del 19 de octubre y no debe presentarse como un balance permanente.",
-        "El candidato clasifica la noticia en TURISMO, pero el contenido corresponde principalmente a SUCESOS, MOVILIDAD o INFRAESTRUCTURAS.",
-        "No se localizó en la búsqueda una nota primaria accesible de la Generalitat con el listado completo; la cifra está corroborada por Europa Press y El Debate mediante datos atribuidos a la administración autonómica."
+        "La única fuente localizada con el detalle completo es el medio candidato.",
+        "La referencia de Calp Digital al calendario de señalamientos de la Audiencia no ha podido contrastarse con un documento oficial específico accesible en la búsqueda.",
+        "Debe evitarse presentar las acusaciones como hechos probados."
       ],
-      "id": "inv_b251c50d1fcaeea3",
-      "investigated_at": "2026-10-19T21:05:07.871Z",
+      "id": "inv_7dcc7542b6613c29",
+      "investigated_at": "2026-10-20T00:22:51.642Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "7abd25e9ba0fe90a36f55b428673f79a447e8847c933e5773e366adee34276fe",
+      "title": "La sentencia del caso Aguas de Calp obliga a indemnizar al Ayuntamiento con 430.000 euros",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La afirmación principal está corroborada por el Ayuntamiento de Calp y por una información independiente de Cadena SER basada en Europa Press. La Audiencia de Alicante condenó a cinco personas y estableció una indemnización conjunta y solidaria de 430.000 euros a favor del Ayuntamiento de Calp por las pérdidas vinculadas a los sobrecostes de las obras de la red hidráulica.",
+      "claims": [
+        {
+          "claim": "La Audiencia de Alicante dictó una sentencia condenatoria en el caso de los sobrecostes de Aguas de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Cinco condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cantidad corresponde al 40% de las pérdidas sufridas por Aguas de Calpe.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La sentencia no era firme y podía recurrirse en casación ante el Tribunal Supremo.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/?lang=es",
+          "evidence": "La web municipal publicó el 15 de octubre de 2026 el titular según el cual la sentencia de Aguas de Calp obliga a los condenados a indemnizar con 430.000 euros al Ayuntamiento por los sobrecostes.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Cadena SER / Europa Press",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/15/condenado-a-11-meses-de-carcel-el-exdiputado-provincial-del-pp-juan-rosello-por-sobrecostes-en-la-red-de-aguas-de-calpe-radio-alicante/",
+          "evidence": "Informa de que cinco condenados deben indemnizar conjunta y solidariamente al Ayuntamiento de Calp con 430.000 euros, equivalentes al 40% de las pérdidas de Aguas de Calpe, y señala que la sentencia podía recurrirse en casación.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "València Diari",
+          "source_url": "https://valenciadiari.com/condemna-preso-cas-aigues-calp-exdiputat/",
+          "evidence": "Confirma que la Audiencia de Alicante condenó a cinco acusados y fijó una indemnización conjunta de 430.000 euros para el Ayuntamiento de Calp.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La sentencia podía no ser firme en la fecha de publicación; debe mantenerse esa precisión en cualquier pieza.",
+        "La cifra de 430.000 euros se refiere a la responsabilidad civil conjunta y solidaria, no necesariamente a un pago ya efectuado."
+      ],
+      "id": "inv_0ee5d5cde1362935",
+      "investigated_at": "2026-10-20T00:22:51.642Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c6899a92af90dc4fd54821e69a2ae6c6b1c8b008973cc0845ade1d33ade09ae9",
+      "title": "Calp eleva a 1,3 millones de euros el proyecto de la Oficina de Turismo del Siglo XXI",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La información coincide con una noticia publicada por Calp Digital y con antecedentes públicos sobre la dotación inicial de un millón de euros y las licitaciones anteriores, pero no se ha localizado en la búsqueda un acuerdo municipal, expediente presupuestario o anuncio oficial que confirme de forma independiente la incorporación exacta de 337.000 euros y la nueva cifra total de aproximadamente 1,337 millones. Requiere localizar el expediente de modificación de crédito o el acuerdo plenario definitivo.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp incorporó 337.000 euros adicionales para actualizar el coste del proyecto.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La dotación total del proyecto asciende aproximadamente a 1,337 millones de euros.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Las dos licitaciones anteriores quedaron desiertas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto salió inicialmente a licitación en 2023 por 575.954,92 euros y volvió a licitarse en 2024 por 699.992,99 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La nueva licitación quedaría pendiente de la aprobación definitiva de la modificación presupuestaria.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12399/calp-oficina-turismo-siglo-xxi-13-millones-tercera-licitacion",
+          "evidence": "Publica que el Ayuntamiento prevé añadir 337.000 euros al millón consignado previamente, elevando la dotación aproximada a 1,337 millones, y que las dos licitaciones anteriores quedaron desiertas. También detalla los presupuestos de 2023 y 2024.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/11519/estas-son-las-64-inversiones-por-valor-de-81-millones-de-euros-aprobadas-el-pleno-de-calp",
+          "evidence": "Recoge que el pleno de marzo de 2026 aprobó una dotación de un millón de euros para la licitación y ejecución de la nueva Oficina de Turismo del siglo XXI.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Plataforma de Contratación del Sector Público",
+          "source_url": "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=93dd9f3a-6d56-4c5a-87c3-2237df881433&cmpntname=GetDocumentsById&source=library&srv=cmpnt",
+          "evidence": "Documento público relacionado con la actuación de la Oficina de Turismo del siglo XXI y su financiación FEDER; sirve como antecedente de la existencia del proyecto, pero no confirma la modificación de crédito de octubre de 2026 ni la cifra final de 1,337 millones.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La URL facilitada en el candidato apunta a una página de autor, no al artículo concreto; el artículo localizado es el de Calp Digital con la URL indicada en la evidencia.",
+        "No se ha encontrado el expediente municipal definitivo que pruebe la aprobación de los 337.000 euros adicionales.",
+        "La cifra de 1,3 millones debe distinguirse de la cifra más precisa de aproximadamente 1,337 millones."
+      ],
+      "id": "inv_7a004bb513d41b84",
+      "investigated_at": "2026-10-20T00:22:51.642Z",
       "model": "gpt-5.6-luna"
     }
   ]
