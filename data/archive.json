@@ -3,9 +3,74 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-20T00:23:50.458Z",
-  "count": 106,
+  "updated_at": "2026-10-20T06:05:03.668Z",
+  "count": 107,
   "articles": [
+    {
+      "archive_id": "arc_013c5003d9850361",
+      "external_id": "drf_af711e865e7ec4a6",
+      "investigation_id": "inv_ff84f9962a582cb4",
+      "candidate_fingerprints": [
+        "c8d90e0d9301da9025ca518d34534b8c65af68cfcedb5213a82cc628ca1e39a0"
+      ],
+      "title": "El Taxus Medio Ambiente gana en Calp el Campeonato de España de Cruceros",
+      "slug": "taxus-medio-ambiente-campeon-espana-cruceros-calp-2026",
+      "summary": "El Taxus Medio Ambiente se proclamó campeón de España de Cruceros-Trofeo Loterías con el Deporte 2026 en aguas de Calp. Saleroso 2.0 terminó segundo y Antigua Craiova, tercero, en una competición cuyo desenlace se adelantó al sábado por la alerta meteorológica prevista para el domingo.",
+      "body": "El equipo Taxus Medio Ambiente ganó el Campeonato de España de Cruceros-Trofeo Loterías con el Deporte 2026, disputado en aguas de Calp. La competición fue organizada por la Real Federación Española de Vela y el Real Club Náutico de Calp.\n\nLa clasificación general oficial definitiva sitúa al Taxus Medio Ambiente en la primera posición y lo identifica como campeón de España de 2026 en Calp. El patrón del equipo fue José Rábano Carretero.\n\nEl podio lo completaron Saleroso 2.0, en segunda posición, y Antigua Craiova, en tercera. En el campeonato participaron 18 equipos procedentes de 13 federaciones autonómicas.\n\nEl programa de competición se modificó durante el desarrollo del campeonato. El desenlace se adelantó al sábado debido a la alerta meteorológica prevista para el domingo. La decisión permitió cerrar la clasificación antes de la jornada inicialmente prevista para el final de la prueba.\n\nLa victoria del Taxus Medio Ambiente está respaldada tanto por la información de la Real Federación Española de Vela como por la clasificación general oficial definitiva. La documentación de la competición utiliza la cifra de 18 equipos; la clasificación oficial corresponde a las embarcaciones o equipos inscritos en el campeonato.\n\nCon el resultado final, el equipo se impuso en la clasificación del campeonato celebrado en Calp, por delante de Saleroso 2.0 y Antigua Craiova.",
+      "category": "DEPORTES",
+      "seo_title": "El Taxus Medio Ambiente gana el Nacional de Cruceros en Calp",
+      "meta_description": "El Taxus Medio Ambiente se proclama campeón de España de Cruceros 2026 en Calp. Saleroso 2.0 fue segundo y Antigua Craiova, tercero.",
+      "sources": [
+        {
+          "name": "Real Federación Española de Vela",
+          "url": "https://rfev.es/taxus-medio-ambiente-se-proclama-campeon-de-espana-de-cruceros-en-calpe/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Clasificación general oficial de la RFEV",
+          "url": "https://rfev.es/wp-content/uploads/2026/10/CLASIFICACION-GENERAL-FINAL-CTO-ESP-CRUCEROS-2026.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/vela/20261016/1004239148/calpe-reune-18-equipos-lucha-campeonato-espana-cruceros-loterias-deporte.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Nosport",
+          "url": "https://nostresport.com/el-taxus-medio-ambiente-conquista-el-campeonato-de-espana-de-cruceros-en-calpe/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://rfev.es/taxus-medio-ambiente-se-proclama-campeon-de-espana-de-cruceros-en-calpe",
+        "https://rfev.es/wp-content/uploads/2026/10/CLASIFICACION-GENERAL-FINAL-CTO-ESP-CRUCEROS-2026.html",
+        "https://www.mundodeportivo.com/vela/20261016/1004239148/calpe-reune-18-equipos-lucha-campeonato-espana-cruceros-loterias-deporte.html",
+        "https://nostresport.com/el-taxus-medio-ambiente-conquista-el-campeonato-de-espana-de-cruceros-en-calpe"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La RFEV utiliza en su noticia la expresión '18 equipos'; la clasificación oficial corresponde a 18 embarcaciones o equipos del campeonato.",
+          "La fuente independiente de Mundo Deportivo es una previa, por lo que corrobora la sede y la participación, no por sí sola el resultado final."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_2702c86b09ff0f37",
+        "quality_gate_evaluated_at": "2026-10-20T06:05:03.338Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La cifra de participación aparece expresada como 18 equipos en la comunicación de la RFEV y como 18 embarcaciones o equipos en la clasificación oficial."
+      ],
+      "published_at": "2026-10-20T06:04:42.450Z",
+      "updated_at": "2026-10-20T06:05:03.668Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_2e9b1a795af7bca6",
       "external_id": "drf_5e977ea3257deeb3",
@@ -4035,7 +4100,8 @@
         "dad33010dbf4cdb48bf91a7a8458a517e121138f82b562211d3880a3dc7425d9",
         "f6412cbbe5f470ae77fce51527c6ec6bfc634c5e45c62bf1ebf8f0bfc661abbe",
         "ec4de79bf0bb92b6c1642c4e7154e0b6461a7448756db706fe6d39d68348cc4d",
-        "632fc9927c70bfc6b494eee1e1c7f74260fbde14d7bfad5c9f938f1d112cd89c"
+        "632fc9927c70bfc6b494eee1e1c7f74260fbde14d7bfad5c9f938f1d112cd89c",
+        "391032dbbfae3350f45b90674cdce1f181c863a3f8b13f9c9eac0c04f57b0c07"
       ],
       "title": "Los Moros y Cristianos de Calp aspiran al reconocimiento turístico internacional",
       "slug": "moros-cristianos-calp-reconocimiento-internacional",
@@ -4079,7 +4145,8 @@
         "https://lamarina.eldiario.es/ca/2026/10/13/calp-celebrara-les-festes-de-moros-i-cristians-del-21-al-26-doctubre-tota-la-programacio",
         "https://calpcomunica.calp.es/eventos/lista/p%C3%A1gina/7/?tribe-bar-date=2026-04-01",
         "https://calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
-        "https://morosycristianos.calpe.es"
+        "https://morosycristianos.calpe.es",
+        "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -4103,7 +4170,7 @@
         "No incluir referencias a visitantes franceses ni a un supuesto pico turístico de octubre, al no estar verificadas."
       ],
       "published_at": "2026-10-01T13:20:30.915Z",
-      "updated_at": "2026-10-16T07:13:18.586Z",
+      "updated_at": "2026-10-20T06:05:03.668Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
