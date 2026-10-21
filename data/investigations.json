@@ -1,174 +1,140 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-21T19:22:40.598Z",
+  "generated_at": "2026-10-21T23:22:41.859Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
-      "title": "Los supervivientes de la patera rescatada frente a Calp relatan que seis migrantes murieron durante la travesía",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "Los hechos esenciales están corroborados por varias informaciones periodísticas que atribuyen los datos a declaraciones de los supervivientes ante la Policía Nacional y a fuentes de Salvamento Marítimo. Once personas fueron rescatadas a unas 37 millas de Calp; manifestaron que habían salido de Argelia con entre 17 y 18 ocupantes y que la travesía duró aproximadamente quince días. La cifra de seis fallecidos y el lanzamiento de los cuerpos al mar procede del relato de los supervivientes, no de una confirmación forense independiente.",
-      "claims": [
-        {
-          "claim": "Salvamento Marítimo rescató a once personas de una patera localizada a unas 37 millas náuticas de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La embarcación habría salido de Argelia con entre 17 y 18 personas y permaneció aproximadamente quince días en el mar.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Dos de los rescatados manifestaron ser menores y otros dos fueron trasladados al Hospital General de Alicante por problemas físicos derivados de la travesía.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los supervivientes declararon que seis personas murieron durante el viaje y que sus cuerpos fueron arrojados al mar.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La muerte de los seis migrantes está confirmada por pruebas forenses o por la localización de los cadáveres.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Cadena SER / Radio Alicante",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/rescatan-en-aguas-de-alicante-a-18-migrantes-cuatro-menores-que-viajaban-en-dos-pateras-radio-alicante/",
-          "evidence": "Informa, citando a fuentes de la Policía Nacional y Salvamento Marítimo, del rescate de once personas a 37 millas de Calp. Recoge que dos dijeron ser menores, que algunos fueron trasladados al hospital, que la salida se produjo desde Argelia con entre 17 y 18 personas y que pasaron quince días en el mar.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "MarinaAlta.es / Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
-          "evidence": "Recoge que los once supervivientes declararon ante la Policía Nacional que entre seis y siete personas habrían fallecido durante una travesía de unas dos semanas desde Argelia y que los cuerpos fueron arrojados al mar. También sitúa el rescate a unas 37 millas de Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/ca-es/sis-persones-haurien-mort-en-una-patera-rescatada-a-37-milles-de-calp/",
-          "evidence": "Publica que los once ocupantes rescatados relataron a la Policía Nacional que seis personas habrían muerto durante una travesía de unos catorce días desde Argelia y que los cadáveres fueron arrojados al mar. Describe el aviso de un pesquero y la intervención de la Salvamar Fénix.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La cifra exacta de fallecidos se basa en declaraciones de los supervivientes y aparece como seis o seis-siete según las fuentes.",
-        "No se ha localizado una comunicación oficial publicada por Salvamento Marítimo o la Policía Nacional que confirme de forma autónoma las muertes.",
-        "La redacción debe mantener el carácter atribuido o presunto de los fallecimientos."
-      ],
-      "id": "inv_4df4e1a603bf96d7",
-      "investigated_at": "2026-10-21T19:22:40.598Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "126832de10b2a02073d66aa30651b28b063065548c0a3e3a838f1be41ceb7601",
-      "title": "La Audiencia juzgará a cinco acusados por una presunta estafa de 131.000 euros con un chalé en Calp",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La convocatoria del juicio y los elementos esenciales de la acusación están corroborados por dos medios distintos. La Audiencia Provincial de Alicante, Sección Tercera, tiene señalado para el 23 de octubre de 2026 el juicio contra cuatro hombres y una mujer. Según la Fiscalía, habrían alquilado un chalé en Calp, simulado ser propietarios o intermediarios de un embargo y obtenido hasta 131.000 euros. Se trata de acusaciones sometidas a juicio, no de hechos judicialmente probados.",
-      "claims": [
-        {
-          "claim": "La Sección Tercera de la Audiencia Provincial de Alicante juzgará el 23 de octubre de 2026 a cuatro hombres y una mujer.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los acusados habrían alquilado un chalé en Calp y simulado ser sus propietarios para intentar venderlo.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "En otras operaciones habrían presentado el inmueble como embargado y ofrecido una supuesta venta a precio reducido.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía cifra en hasta 131.000 euros el importe obtenido presuntamente mediante las operaciones.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía solicita penas de entre once meses y seis años de prisión por delitos de estafa, falsedad y revelación de secretos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los acusados han sido condenados por la estafa.",
-          "status": "CONTRADICTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12420/reg",
-          "evidence": "Informa de que la Audiencia Provincial de Alicante juzgará el viernes 23 de octubre de 2026 a cuatro hombres y una mujer por hechos ocurridos entre 2013 y 2014. Resume la tesis de la Fiscalía sobre el alquiler del chalé, la simulación de propiedad o de un embargo, la obtención de hasta 131.000 euros y las penas solicitadas de hasta seis años.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/ca/2026/10/21/a-juicio-cinco-acusados-de-estafar-131-000-euros-con-la-falsa-venta-de-un-chale-en-calp/",
-          "evidence": "Publica que la Sección Tercera de la Audiencia Provincial de Alicante ha señalado para el 23 de octubre, a las 10:00 horas, el juicio contra cuatro hombres y una mujer. Atribuye a la Fiscalía la acusación por dos delitos de estafa, dos de falsedad y uno de revelación de secretos, con penas de once meses a seis años.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La vista judicial aún no se había celebrado a fecha de la investigación, 21 de octubre de 2026.",
-        "Debe utilizarse lenguaje de acusación o presunta estafa y respetarse la presunción de inocencia.",
-        "No se ha localizado en la búsqueda una resolución judicial firme ni un documento oficial público con el escrito íntegro de acusación."
-      ],
-      "id": "inv_583f024a47ce6fac",
-      "investigated_at": "2026-10-21T19:22:40.598Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "939489d3a7f1fc0d834f02c586cb017b78edb709b46c927ff1bb27b35913031",
-      "title": "Calp celebrará las III Jornadas Medioambientales del Mar sobre turismo sostenible y protección del litoral",
+      "candidate_fingerprint": "a1fd6b36fa9c08b859553a47869c17b2e3dd246b50663a71843a1a983206d581",
+      "title": "Protección Civil y Policía Local de Calp se desplazan a Oliva y Els Poblets para colaborar tras la DANA Adam",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La existencia del proyecto Calp Blau y su vinculación con la educación ambiental, la ciencia, el voluntariado y la protección del litoral está confirmada por el Ayuntamiento de Calp. Sin embargo, no se ha localizado una fuente oficial que confirme de forma completa las fechas del 28 al 31 de octubre de 2026, el programa detallado, la sede y la jornada de limpieza en Cala del Racó. La información del candidato coincide con una publicación de Calp Digital, pero requiere confirmación primaria del programa o de la convocatoria municipal.",
+      "summary": "La publicación oficial de Calp Comunica respalda que Protección Civil de Calp se desplazó a Oliva con una motobomba y que una patrulla de la Policía Local acudió a Els Poblets. También detalla tareas de achique, traslado de personas, reparto de alimentos y vigilancia preventiva en comercios afectados. La DANA Adam y la situación de emergencia en Oliva y Els Poblets están corroboradas por medios independientes, pero no se ha localizado una fuente independiente que confirme específicamente el despliegue de efectivos de Calp ni todas las tareas descritas.",
       "claims": [
         {
-          "claim": "Calp organiza unas III Jornadas Medioambientales del Mar denominadas Calp Blau.",
+          "claim": "Protección Civil de Calp se desplazó a Oliva tras la DANA Adam.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto municipal Calp Blau aborda educación ambiental, ciencia, voluntariado y protección de la naturaleza y del litoral.",
+          "claim": "Protección Civil trasladó a Oliva una motobomba de achique solicitada por el municipio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las jornadas se celebrarán del 28 al 31 de octubre de 2026.",
-          "status": "UNVERIFIED"
+          "claim": "Los voluntarios colaboraron en el traslado de personas desde campings a zonas seguras y centros de salud, y en el reparto de alimentos.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "El programa incluirá ponencias sobre turismo azul, biodiversidad, cambio climático, restauración de ecosistemas y buenas prácticas ambientales.",
-          "status": "UNVERIFIED"
+          "claim": "Una patrulla de la Policía Local de Calp se desplazó a Els Poblets.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La programación concluirá con una jornada de limpieza, voluntariado y talleres en Cala del Racó.",
+          "claim": "La patrulla realizó labores preventivas de vigilancia, especialmente en comercios y establecimientos afectados por la riada, para evitar robos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La DANA Adam provocó inundaciones graves en Oliva y Els Poblets.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Existe corroboración independiente del despliegue concreto de medios de Calp y de las tareas detalladas.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
-          "evidence": "El Ayuntamiento informa el 2 de octubre de 2026 de la presentación del proyecto Calp Blau en el III Congreso Internacional Bandera Azul. Describe la iniciativa como basada en educación ambiental, ciencia, voluntariado y propuestas para proteger y poner en valor la naturaleza; también menciona actividades de conservación marina y recogida de residuos.",
+          "source_name": "Ayuntamiento de Calp – Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%A8%F0%9F%A4%9D-proteccion-civil-y-policia-local-de-calp-colaboran-con-los-municipios-afectados-por-la-dana-adam/",
+          "evidence": "La nota oficial, fechada el 21 de octubre de 2026, afirma que Protección Civil de Calp se desplazó a Oliva con una motobomba de achique y que sus voluntarios ayudaron sobre el terreno. También afirma que la Policía Local envió una patrulla a Els Poblets para apoyar a la población y realizar vigilancia preventiva en comercios afectados.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
-          "evidence": "Publica el calendario del 28 al 31 de octubre de 2026, la celebración de tres días de conferencias en el Real Club Náutico de Calp y una jornada final de limpieza, voluntariado y talleres ambientales en Cala del Racó. Detalla contenidos sobre turismo azul, biodiversidad, cambio climático y restauración de ecosistemas.",
+          "source_name": "Ayuntamiento de Calp – Calp Comunica, página de noticias",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "El índice del sitio reproduce el contenido de la nota: desplazamiento de Protección Civil a Oliva, traslado de una motobomba, apoyo a personas procedentes de campings, reparto de alimentos y envío de una patrulla de Policía Local a Els Poblets.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/sociedad/noticia-adam-ceba-valenciana-muertos-deja-cortes-luz-carreteras-cortadas-baleares-20261019153410.html",
+          "evidence": "La información independiente describe inundaciones y una situación crítica en Oliva y Els Poblets tras el paso de la DANA Adam, incluyendo rescates y daños en ambos municipios. No menciona la intervención de medios de Calp.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Alta – elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/20/tras-la-dana-la-solidaridad-la-ciudadania-se-moviliza-para-llevar-material-y-limpiar-en-los-municipios-afectados-de-la-marina-alta-y-la-safor/",
+          "evidence": "La crónica independiente confirma que Els Poblets, Oliva y otros municipios de la Marina Alta y la Safor seguían afectados por las inundaciones y que se desarrollaban labores de ayuda y limpieza. No confirma específicamente el despliegue de Calp.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente oficial localizada confirma el proyecto Calp Blau, pero no el calendario ni el programa concreto de la tercera edición de 2026.",
-        "La única fuente localizada para las fechas y el programa detallado es Calp Digital, que coincide sustancialmente con el candidato y no constituye corroboración independiente suficiente por sí sola.",
-        "Debe obtenerse el cartel, programa oficial o convocatoria del Ayuntamiento antes de publicar la noticia como plenamente verificada."
+        "La confirmación del despliegue de Protección Civil y Policía Local de Calp procede únicamente de una comunicación municipal y de su reproducción en el propio sitio oficial; ambas no constituyen corroboración independiente.",
+        "Las fuentes independientes consultadas confirman la emergencia en Oliva y Els Poblets, pero no el envío de la motobomba, la patrulla de Calp ni las tareas concretas descritas.",
+        "Para publicar como información plenamente corroborada convendría obtener confirmación del Ayuntamiento de Oliva, del Ayuntamiento de Els Poblets, de los cuerpos receptores o material verificable del operativo."
       ],
-      "id": "inv_3c54ff3c61f71342",
-      "investigated_at": "2026-10-21T19:22:40.598Z",
+      "id": "inv_a6c58f1976628325",
+      "investigated_at": "2026-10-21T23:22:41.859Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "2bcd4ec8e5c0ff6fb2be876f5df2a8cf6e53d6efa49f78cb98fffe40031f90cd",
+      "title": "Calp publica el listado provisional de las ayudas a la rehabilitación de fachadas",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La sede electrónica oficial del Ayuntamiento de Calp registra un edicto con el listado provisional de solicitudes admitidas, pendientes de subsanar y excluidas de las ayudas de rehabilitación de fachadas de 2026. El anuncio municipal fija el plazo del 21 de octubre al 4 de noviembre de 2026. La información esencial queda respaldada por dos páginas oficiales del Ayuntamiento; no se ha localizado una publicación independiente, pero en este caso la fuente primaria administrativa es la referencia competente.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp publicó un listado provisional de solicitudes de ayudas a la rehabilitación de fachadas de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El listado incluye solicitudes admitidas, pendientes de subsanar y excluidas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo indicado va del 21 de octubre al 4 de noviembre de 2026, ambos incluidos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo corresponde exactamente a la presentación de alegaciones.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Sede Electrónica del Ayuntamiento de Calp – Tablón de anuncios",
+          "source_url": "https://calp.sedelectronica.es/board",
+          "evidence": "El tablón oficial registra el 20 de octubre de 2026 el edicto titulado “Edicto lista provisional solicitudes admitidas, pendientes de subsanar y excluidas rehabilitacion fachadas 2026”. La descripción indica expresamente un plazo de subsanación del 21/10/26 al 04/11/26, ambos incluidos.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Sede Electrónica del Ayuntamiento de Calp – Documento del edicto",
+          "source_url": "https://calp.sedelectronica.es/preview-document/494881ef-c93b-4ec9-ad25-e9498b9a98a0",
+          "evidence": "La ficha oficial identifica el documento como un edicto sobre la lista provisional de solicitudes admitidas, pendientes de subsanar y excluidas de la rehabilitación de fachadas 2026. Indica que es un documento electrónico en formato PDF, creado el 20 de octubre de 2026, con código CSV 7ERXCAAHNA7RHTXDSWAAZTE4J.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp – Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/ayudas-a-la-rehabilitacion-de-fachadas/",
+          "evidence": "La página oficial de Calp Comunica está fechada el 21 de octubre de 2026 y enlaza directamente al tablón de anuncios de la sede electrónica municipal para consultar la publicación.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica – página de noticias",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "El índice oficial informa de que ya puede consultarse el listado provisional de solicitudes admitidas, pendientes de subsanar y excluidas de las líneas 1 y 2, y señala como plazo del 21 de octubre al 4 de noviembre, ambos incluidos.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La sede electrónica utiliza la expresión “plazo de subsanación”, mientras que el resumen del candidato habla de “plazo de alegaciones”. Conviene mantener la terminología exacta del edicto o consultar el PDF completo antes de publicar una formulación jurídica más precisa.",
+        "La copia visualizable del PDF devolvió un error de acceso durante la comprobación, aunque la ficha oficial del documento y el tablón municipal sí son accesibles y describen su contenido.",
+        "No se ha encontrado una fuente independiente; la verificación se basa en el registro administrativo primario del Ayuntamiento de Calp, que es la fuente competente para esta publicación."
+      ],
+      "id": "inv_0a645ac3d5bff47f",
+      "investigated_at": "2026-10-21T23:22:41.859Z",
       "model": "gpt-5.6-luna"
     }
   ]

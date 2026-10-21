@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-21T19:23:26.016Z",
+  "generated_at": "2026-10-21T23:23:40.694Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,19 +21,21 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 2,
-  "eligible_count": 1,
+  "drafts_seen": 1,
+  "eligible_count": 0,
   "quarantined_count": 1,
   "decisions": [
     {
-      "gate_id": "qg_849c0bf3958b915d",
-      "draft_id": "drf_0be3cafda61326c3",
-      "investigation_id": "inv_4df4e1a603bf96d7",
-      "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
-      "slug": "supervivientes-patera-frente-calp-relatan-seis-muertes",
-      "category": "SUCESOS",
-      "status": "ELIGIBLE",
-      "reasons": [],
+      "gate_id": "qg_64f8619c45733859",
+      "draft_id": "drf_5b7f72c51f61c6cc",
+      "investigation_id": "inv_0a645ac3d5bff47f",
+      "candidate_fingerprint": "2bcd4ec8e5c0ff6fb2be876f5df2a8cf6e53d6efa49f78cb98fffe40031f90cd",
+      "slug": "calp-listado-provisional-ayudas-rehabilitacion-fachadas-2026",
+      "category": "LOCAL",
+      "status": "QUARANTINED",
+      "reasons": [
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
+      ],
       "warnings": [
         "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
       ],
@@ -43,56 +45,15 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 4,
+        "supported_claim_count": 3,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 1,
-        "evidence_count": 3,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 238
-      },
-      "evaluated_at": "2026-10-21T19:23:26.016Z",
-      "engine_version": "quality-gate-v1"
-    },
-    {
-      "gate_id": "qg_57ef3a53a65dd461",
-      "draft_id": "drf_ebc58a287872aee7",
-      "investigation_id": "inv_583f024a47ce6fac",
-      "candidate_fingerprint": "126832de10b2a02073d66aa30651b28b063065548c0a3e3a838f1be41ceb7601",
-      "slug": "juicio-presunta-estafa-chale-calp-131000-euros",
-      "category": "SUCESOS",
-      "status": "QUARANTINED",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 1,
-        "unverified_claim_count": 0,
-        "evidence_count": 2,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 2,
+        "evidence_count": 4,
+        "primary_evidence_count": 4,
+        "secondary_evidence_count": 0,
+        "distinct_evidence_urls": 4,
         "distinct_evidence_hosts": 2,
-        "institutional_or_political": false,
+        "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -102,9 +63,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 270
+        "body_word_count": 269
       },
-      "evaluated_at": "2026-10-21T19:23:26.016Z",
+      "evaluated_at": "2026-10-21T23:23:40.694Z",
       "engine_version": "quality-gate-v1"
     }
   ]

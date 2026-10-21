@@ -3,161 +3,25 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-21T19:23:26.181Z",
+  "generated_at": "2026-10-21T23:23:40.828Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 1,
+  "drafts_seen": 1,
+  "ready_count": 0,
   "quarantined_count": 1,
-  "ready": [
-    {
-      "export_id": "exp_67ee59326f8c61de",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-21T19:23:26.181Z",
-      "source_draft_id": "drf_0be3cafda61326c3",
-      "source_investigation_id": "inv_4df4e1a603bf96d7",
-      "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
-      "quality_gate_id": "qg_849c0bf3958b915d",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_0be3cafda61326c3",
-        "investigation_id": "inv_4df4e1a603bf96d7",
-        "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
-        "title": "Once supervivientes de una patera frente a Calp relatan la muerte de seis personas durante la travesía",
-        "subtitle": "Los rescatados aseguran que la embarcación salió de Argelia con entre 17 y 18 ocupantes y pasó unos quince días en el mar",
-        "summary": "Salvamento Marítimo rescató a once personas de una patera localizada a unas 37 millas náuticas de Calp. Según el relato trasladado por los supervivientes ante la Policía Nacional, seis personas habrían muerto durante la travesía y sus cuerpos fueron arrojados al mar. La cifra no cuenta con una confirmación forense independiente ni con la localización de los cadáveres.",
-        "body": "Salvamento Marítimo rescató a once personas de una patera encontrada a unas 37 millas náuticas de Calp, según informaciones que citan a fuentes de la Policía Nacional y del propio dispositivo marítimo. Los ocupantes explicaron que la embarcación habría partido de Argelia con entre 17 y 18 personas y que permaneció aproximadamente quince días en el mar.\n\nDurante sus declaraciones, los supervivientes manifestaron que seis personas murieron durante el trayecto. También aseguraron que los cuerpos fueron arrojados al mar. Este extremo procede exclusivamente del relato de quienes fueron rescatados y no ha sido confirmado mediante pruebas forenses ni por la recuperación de los cadáveres.\n\nEntre las once personas auxiliadas, dos manifestaron ser menores. Además, otras dos fueron trasladadas al Hospital General de Alicante por problemas físicos que, según las informaciones disponibles, estarían relacionados con las condiciones de la travesía.\n\nLa cifra de fallecidos aparece recogida como seis en varias informaciones, mientras que otra referencia eleva el intervalo a entre seis y siete personas. Por este motivo, el dato debe mantenerse como una declaración atribuida a los supervivientes y no como un hecho acreditado de forma independiente.\n\nLa información disponible sitúa el rescate a unas 37 millas de Calp y atribuye a los ocupantes el relato sobre la salida desde Argelia, la duración del viaje y las muertes durante la navegación. No consta una comunicación oficial publicada por Salvamento Marítimo o la Policía Nacional que confirme autónomamente esos fallecimientos.",
-        "category": "SUCESOS",
-        "slug": "supervivientes-patera-frente-calp-relatan-seis-muertes",
-        "seo_title": "Once supervivientes relatan seis muertes en una patera frente a Calp",
-        "meta_description": "Once personas fueron rescatadas frente a Calp. Los supervivientes relatan que seis ocupantes murieron durante una travesía desde Argelia.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_849c0bf3958b915d",
-        "editorial_notes": [
-          "Mantener en todo el texto el carácter atribuido o presunto de las muertes: proceden del relato de los supervivientes.",
-          "La cifra aparece como seis o seis-siete según las fuentes y no existe confirmación forense independiente ni cadáveres localizados."
-        ],
-        "sources": [
-          {
-            "name": "Cadena SER / Radio Alicante",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/rescatan-en-aguas-de-alicante-a-18-migrantes-cuatro-menores-que-viajaban-en-dos-pateras-radio-alicante/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "MarinaAlta.es / Dénia FM",
-            "url": "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Canfali",
-            "url": "https://canfali.com/ca-es/sis-persones-haurien-mort-en-una-patera-rescatada-a-37-milles-de-calp/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://cadenaser.com/comunitat-valenciana/2026/10/19/rescatan-en-aguas-de-alicante-a-18-migrantes-cuatro-menores-que-viajaban-en-dos-pateras-radio-alicante/",
-          "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
-          "https://canfali.com/ca-es/sis-persones-haurien-mort-en-una-patera-rescatada-a-37-milles-de-calp/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 4,
-          "evidence_count": 3,
-          "caveats": [
-            "La cifra exacta de fallecidos se basa en declaraciones de los supervivientes y aparece como seis o seis-siete según las fuentes.",
-            "No se ha localizado una comunicación oficial publicada por Salvamento Marítimo o la Policía Nacional que confirme de forma autónoma las muertes.",
-            "La redacción debe mantener el carácter atribuido o presunto de los fallecimientos."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_849c0bf3958b915d",
-          "quality_gate_evaluated_at": "2026-10-21T19:23:26.016Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "created_at": "2026-10-21T19:23:13.371Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_0be3cafda61326c3",
-        "title": "Once supervivientes de una patera frente a Calp relatan la muerte de seis personas durante la travesía",
-        "slug": "supervivientes-patera-frente-calp-relatan-seis-muertes",
-        "summary": "Salvamento Marítimo rescató a once personas de una patera localizada a unas 37 millas náuticas de Calp. Según el relato trasladado por los supervivientes ante la Policía Nacional, seis personas habrían muerto durante la travesía y sus cuerpos fueron arrojados al mar. La cifra no cuenta con una confirmación forense independiente ni con la localización de los cadáveres.",
-        "body": "Salvamento Marítimo rescató a once personas de una patera encontrada a unas 37 millas náuticas de Calp, según informaciones que citan a fuentes de la Policía Nacional y del propio dispositivo marítimo. Los ocupantes explicaron que la embarcación habría partido de Argelia con entre 17 y 18 personas y que permaneció aproximadamente quince días en el mar.\n\nDurante sus declaraciones, los supervivientes manifestaron que seis personas murieron durante el trayecto. También aseguraron que los cuerpos fueron arrojados al mar. Este extremo procede exclusivamente del relato de quienes fueron rescatados y no ha sido confirmado mediante pruebas forenses ni por la recuperación de los cadáveres.\n\nEntre las once personas auxiliadas, dos manifestaron ser menores. Además, otras dos fueron trasladadas al Hospital General de Alicante por problemas físicos que, según las informaciones disponibles, estarían relacionados con las condiciones de la travesía.\n\nLa cifra de fallecidos aparece recogida como seis en varias informaciones, mientras que otra referencia eleva el intervalo a entre seis y siete personas. Por este motivo, el dato debe mantenerse como una declaración atribuida a los supervivientes y no como un hecho acreditado de forma independiente.\n\nLa información disponible sitúa el rescate a unas 37 millas de Calp y atribuye a los ocupantes el relato sobre la salida desde Argelia, la duración del viaje y las muertes durante la navegación. No consta una comunicación oficial publicada por Salvamento Marítimo o la Policía Nacional que confirme autónomamente esos fallecimientos.",
-        "category": "SUCESOS",
-        "seo_title": "Once supervivientes relatan seis muertes en una patera frente a Calp",
-        "meta_description": "Once personas fueron rescatadas frente a Calp. Los supervivientes relatan que seis ocupantes murieron durante una travesía desde Argelia.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_849c0bf3958b915d",
-        "published_at": null,
-        "source_urls": [
-          "https://cadenaser.com/comunitat-valenciana/2026/10/19/rescatan-en-aguas-de-alicante-a-18-migrantes-cuatro-menores-que-viajaban-en-dos-pateras-radio-alicante/",
-          "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
-          "https://canfali.com/ca-es/sis-persones-haurien-mort-en-una-patera-rescatada-a-37-milles-de-calp/"
-        ],
-        "sources": [
-          {
-            "name": "Cadena SER / Radio Alicante",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/19/rescatan-en-aguas-de-alicante-a-18-migrantes-cuatro-menores-que-viajaban-en-dos-pateras-radio-alicante/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "MarinaAlta.es / Dénia FM",
-            "url": "https://marinaalta.es/2026/10/hasta-siete-personas-mueren-tras-dos-semanas-a-la-deriva-en-una-patera-rescatada-frente-a-calp/",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Canfali",
-            "url": "https://canfali.com/ca-es/sis-persones-haurien-mort-en-una-patera-rescatada-a-37-milles-de-calp/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_4df4e1a603bf96d7",
-        "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
-          "supported_claim_count": 4,
-          "evidence_count": 3,
-          "caveats": [
-            "La cifra exacta de fallecidos se basa en declaraciones de los supervivientes y aparece como seis o seis-siete según las fuentes.",
-            "No se ha localizado una comunicación oficial publicada por Salvamento Marítimo o la Policía Nacional que confirme de forma autónoma las muertes.",
-            "La redacción debe mantener el carácter atribuido o presunto de los fallecimientos."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_849c0bf3958b915d",
-          "quality_gate_evaluated_at": "2026-10-21T19:23:26.016Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    }
-  ],
+  "ready": [],
   "quarantined": [
     {
-      "export_id": "exp_d6e7f4198e584583",
-      "draft_id": "drf_ebc58a287872aee7",
-      "investigation_id": "inv_583f024a47ce6fac",
-      "slug": "juicio-presunta-estafa-chale-calp-131000-euros",
+      "export_id": "exp_ef3fc401ebeaf49a",
+      "draft_id": "drf_5b7f72c51f61c6cc",
+      "investigation_id": "inv_0a645ac3d5bff47f",
+      "slug": "calp-listado-provisional-ayudas-rehabilitacion-fachadas-2026",
       "reasons": [
         "quality_gate_not_eligible"
       ],
       "quality_gate_status": "QUARANTINED",
       "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
       ]
     }
   ]

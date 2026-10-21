@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-21T19:23:38.627Z",
+  "generated_at": "2026-10-21T23:23:50.436Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-21T19:23:38.440Z",
+  "last_activity": "2026-10-21T23:23:50.271Z",
   "newspaper": {
     "archive_total": 111,
-    "published_today": 2,
-    "published_last_7_days": 27,
+    "published_today": 0,
+    "published_last_7_days": 25,
     "categories": {
       "MEDIO_AMBIENTE": 20,
       "ECONOMIA": 17,
@@ -82,8 +82,8 @@
   "editorial_cycle": {
     "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 1,
+    "drafts": 1,
+    "eligible": 0,
     "quarantined": 1,
     "archive_added": 0
   },
@@ -106,13 +106,13 @@
   },
   "quarantine": [
     {
-      "draft_id": "drf_ebc58a287872aee7",
-      "slug": "juicio-presunta-estafa-chale-calp-131000-euros",
-      "category": "SUCESOS",
+      "draft_id": "drf_5b7f72c51f61c6cc",
+      "slug": "calp-listado-provisional-ayudas-rehabilitacion-fachadas-2026",
+      "category": "LOCAL",
       "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
+        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
       ],
-      "evaluated_at": "2026-10-21T19:23:26.016Z"
+      "evaluated_at": "2026-10-21T23:23:40.694Z"
     }
   ]
 }
