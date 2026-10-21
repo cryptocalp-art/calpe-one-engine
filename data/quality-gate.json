@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-21T15:18:46.214Z",
+  "generated_at": "2026-10-21T19:23:26.016Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -22,34 +22,36 @@
     "untraceable_sources_allowed": false
   },
   "drafts_seen": 2,
-  "eligible_count": 2,
-  "quarantined_count": 0,
+  "eligible_count": 1,
+  "quarantined_count": 1,
   "decisions": [
     {
-      "gate_id": "qg_e7be50c6aa51183d",
-      "draft_id": "drf_faaf37af7c4c936e",
-      "investigation_id": "inv_ae026b0eed98641d",
-      "candidate_fingerprint": "e028c15a866edee523a8f8dcd9f565b504334bfe4afefb8f03eba1ece1686f5b",
-      "slug": "calp-cuarta-edicion-concurso-escolar-gocalp-sostenibilidad",
-      "category": "MEDIO_AMBIENTE",
+      "gate_id": "qg_849c0bf3958b915d",
+      "draft_id": "drf_0be3cafda61326c3",
+      "investigation_id": "inv_4df4e1a603bf96d7",
+      "candidate_fingerprint": "ef8ad5bcc6c41144af758bd9edfeecb798e7dec2f49c227146a1a42edf7d5d50",
+      "slug": "supervivientes-patera-frente-calp-relatan-seis-muertes",
+      "category": "SUCESOS",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 5,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
+        "unverified_claim_count": 1,
         "evidence_count": 3,
-        "primary_evidence_count": 3,
-        "secondary_evidence_count": 0,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 3,
         "distinct_evidence_urls": 3,
         "distinct_evidence_hosts": 3,
-        "institutional_or_political": true,
+        "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -59,20 +61,22 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 206
+        "body_word_count": 238
       },
-      "evaluated_at": "2026-10-21T15:18:46.214Z",
+      "evaluated_at": "2026-10-21T19:23:26.016Z",
       "engine_version": "quality-gate-v1"
     },
     {
-      "gate_id": "qg_977b5a740bfc53d0",
-      "draft_id": "drf_e4f85b2999bfc219",
-      "investigation_id": "inv_392040a56716bfb8",
-      "candidate_fingerprint": "a93c4f35842de29f91990806d4ec17716dc56516b24ea1779c0728fe79fc3742",
-      "slug": "calp-moros-cristianos-50-aniversario-reconocimiento-nacional",
-      "category": "TURISMO",
-      "status": "ELIGIBLE",
-      "reasons": [],
+      "gate_id": "qg_57ef3a53a65dd461",
+      "draft_id": "drf_ebc58a287872aee7",
+      "investigation_id": "inv_583f024a47ce6fac",
+      "candidate_fingerprint": "126832de10b2a02073d66aa30651b28b063065548c0a3e3a838f1be41ceb7601",
+      "slug": "juicio-presunta-estafa-chale-calp-131000-euros",
+      "category": "SUCESOS",
+      "status": "QUARANTINED",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
       "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
@@ -81,12 +85,12 @@
         "investigation_publishable": true,
         "confidence_sufficient": true,
         "supported_claim_count": 5,
-        "contradicted_claim_count": 0,
+        "contradicted_claim_count": 1,
         "unverified_claim_count": 0,
-        "evidence_count": 3,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
-        "distinct_evidence_urls": 3,
+        "evidence_count": 2,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 2,
+        "distinct_evidence_urls": 2,
         "distinct_evidence_hosts": 2,
         "institutional_or_political": false,
         "material_caveat": false,
@@ -98,9 +102,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 194
+        "body_word_count": 270
       },
-      "evaluated_at": "2026-10-21T15:18:46.214Z",
+      "evaluated_at": "2026-10-21T19:23:26.016Z",
       "engine_version": "quality-gate-v1"
     }
   ]
