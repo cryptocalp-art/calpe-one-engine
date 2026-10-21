@@ -1,67 +1,181 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-21T10:12:27.631Z",
+  "generated_at": "2026-10-21T15:17:49.918Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
-      "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
+      "candidate_fingerprint": "e028c15a866edee523a8f8dcd9f565b504334bfe4afefb8f03eba1ece1686f5b",
+      "title": "Calp impulsa la cuarta edición del concurso escolar #GoCalp sobre sostenibilidad y cambio climático",
       "status": "VERIFIED",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La afirmación central está respaldada por una fuente primaria del Gobierno y por corroboraciones independientes. El 20 de octubre de 2026, Pedro Sánchez anunció en Oliva que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para los municipios afectados por la DANA. También anunció recursos económicos y la agilización de la contratación pública para la reconstrucción. A fecha de la investigación, se trata de un anuncio de una declaración futura, no de una declaración ya formalmente aprobada.",
+      "summary": "La convocatoria de la cuarta edición está respaldada por una publicación oficial del Ayuntamiento de Calp y por la agenda municipal del concurso. La página de GO₂ confirma la existencia y finalidad del certamen, aunque no muestra en el contenido recuperado todos los detalles específicos de la cuarta edición.",
       "claims": [
         {
-          "claim": "Pedro Sánchez anunció el 20 de octubre de 2026 que el Consejo de Ministros declarará los municipios afectados por la DANA como zona gravemente afectada por una emergencia de protección civil.",
+          "claim": "El Ayuntamiento de Calp ha puesto en marcha la cuarta edición del concurso escolar #GoCalp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El anuncio se produjo durante la visita de Pedro Sánchez al Puesto de Mando Avanzado de Oliva, Valencia.",
+          "claim": "La iniciativa cuenta con el Observatorio de Ciudades Resilientes y Sostenibles, GO₂ by Global Omnium y Aguas de Calpe.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Gobierno pondrá recursos económicos a disposición de la reconstrucción y facilitará la agilización de la contratación pública.",
+          "claim": "Está dirigida a alumnado de 6.º de Primaria y 4.º de ESO.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La declaración ya había sido formalmente aprobada por el Consejo de Ministros en la fecha de publicación.",
-          "status": "UNVERIFIED"
+          "claim": "El concurso aborda riesgos como sequía, inundaciones, islas de calor, degradación ambiental y pérdida de biodiversidad.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La convocatoria se desarrolla entre diciembre de 2026 y marzo de 2027, con entrega de trabajos el 29 de enero de 2027.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Moncloa, Presidencia del Gobierno",
-          "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
-          "evidence": "La fuente primaria indica que Pedro Sánchez anunció en Oliva que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para todos los municipios afectados por la DANA. También recoge su compromiso de aportar recursos económicos y agilizar la contratación pública para la recuperación.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-impulsa-la-cuarta-edici%C3%B3n-del-concurso-escolar-gocalp-sobre-sostenibilidad-y-cambio",
+          "evidence": "La nota oficial publicada el 21 de octubre de 2026 anuncia la cuarta edición, identifica a las entidades colaboradoras, delimita los cursos participantes, enumera los riesgos climáticos y detalla las fases y plazos de la convocatoria.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "EFE",
-          "source_url": "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
-          "evidence": "EFE informa de que el Gobierno aprobará la declaración para los municipios afectados por la DANA Adam, según anunció Sánchez en el Puesto de Mando Avanzado de Oliva. Añade que el presidente prometió recursos económicos y agilidad en la contratación pública para recuperar la normalidad.",
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/evento/concurso-escolar-gocalp/",
+          "evidence": "La agenda municipal registra el concurso escolar #GoCalp para el 21 de octubre de 2026 y remite a la web de GO₂.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "GO₂ by Global Omnium",
+          "source_url": "https://go2globalomnium.com/concurso-gocalp/",
+          "evidence": "La entidad colaboradora describe el Concurso #goCalp como una iniciativa de participación e innovación sostenible orientada a responder a retos de cambio climático y mejora del entorno local.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración independiente disponible confirma la existencia y orientación del certamen, pero no reproduce todos los detalles de la cuarta edición.",
+        "Los premios, número mínimo de integrantes y calendario completo proceden principalmente de la nota municipal y deberían contrastarse con las bases íntegras de la convocatoria."
+      ],
+      "id": "inv_ae026b0eed98641d",
+      "investigated_at": "2026-10-21T15:17:49.918Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "a93c4f35842de29f91990806d4ec17716dc56516b24ea1779c0728fe79fc3742",
+      "title": "Calp arranca unos Moros y Cristianos históricos por su 50 aniversario y su reconocimiento nacional",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información está corroborada por Cadena SER y por varias fuentes oficiales municipales. Las fiestas comenzaron el 21 de octubre de 2026, conmemoran su 50 aniversario y cuentan con el reconocimiento de Fiesta de Interés Turístico Nacional. La programación esencial indicada también aparece en la información oficial.",
+      "claims": [
+        {
+          "claim": "Las fiestas de Moros y Cristianos de Calp se celebran del 21 al 25 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La edición conmemora el 50 aniversario de las fiestas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las fiestas han recibido el reconocimiento de Fiesta de Interés Turístico Nacional.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Gran Entrada Mora y Cristiana está prevista para el sábado 24 de octubre a las 18:30.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El desembarco en la playa del Arenal-Bol y el Miracle están previstos para el domingo 25 de octubre.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia",
+          "evidence": "La emisora informa del inicio de las fiestas el 21 de octubre, del 50 aniversario, del reconocimiento nacional y de los principales actos previstos para el 24 y 25 de octubre, incluidos la entrada, el desembarco y el Miracle.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
-          "evidence": "Cadena SER recoge que el Gobierno aprobará la declaración de los municipios afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil y que Sánchez realizó el anuncio tras reunirse en Oliva con responsables de emergencias y alcaldes.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+          "evidence": "La nota oficial confirma las fechas del 21 al 25 de octubre, el 50 aniversario, el distintivo de Fiesta de Interés Turístico Nacional y el programa inicial de actos.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el",
+          "evidence": "La publicación municipal informa de la entrega, el 25 de septiembre de 2026, del distintivo que acredita a las fiestas como Fiesta de Interés Turístico Nacional.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La previsión de asistencia y el posible aumento de visitantes son declaraciones o expectativas de la organización, no hechos verificables todavía.",
+        "La celebración del desembarco y del Miracle se verifica como programación prevista; no como actos ya celebrados en la fecha de la investigación."
+      ],
+      "id": "inv_392040a56716bfb8",
+      "investigated_at": "2026-10-21T15:17:49.918Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "2083d44ed1cae57c27de9eb5550d0bd80accc3bf92fad46a3da89fc7ce6363c6",
+      "title": "Calp registra un 6,68% de paro, su cifra más baja en veinte años y el mejor dato de la provincia",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "El dato de agosto de 2026 —787 personas desempleadas y una tasa del 6,68%— aparece respaldado por una fuente estadística secundaria y por otra información local. También hay respaldo para considerarlo uno de los niveles más bajos de las últimas dos décadas. Sin embargo, la afirmación de que es el mejor dato de toda la provincia no queda suficientemente demostrada y existe una actualización posterior de septiembre con 832 desempleados y una tasa del 6,98%.",
+      "claims": [
+        {
+          "claim": "Calp registró 787 personas desempleadas y una tasa de paro del 6,68% en agosto de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra del 6,68% es la más baja de la serie anual disponible desde aproximadamente 2006.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El dato constituye el mejor registro de toda la provincia de Alicante.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La cifra es inferior a la media provincial mencionada en la noticia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La tasa representa la cifra más baja en veinte años.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Datosmacro",
+          "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/calp",
+          "evidence": "La tabla municipal recoge para agosto de 2026 una tasa de paro registrado del 6,68%, 787 personas desempleadas y una población de referencia de 27.440 habitantes.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Servimedia",
-          "source_url": "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709",
-          "evidence": "Servimedia informa de que Sánchez anunció que el Consejo de Ministros declarará los municipios valencianos afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil y que se pondrán recursos económicos y medidas para agilizar la reconstrucción.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12409/readletter",
+          "evidence": "La información confirma los 787 desempleados y el 6,68% de agosto de 2026, pero señala que en septiembre el paro subió a 832 personas y al 6,98%. También describe el 6,68% como un mínimo de la serie anual disponible desde 2006 y sitúa a Calp entre los municipios con mejores indicadores, no necesariamente en primer lugar provincial.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/calp-registra-un-668-de-paro-su-cifra-mas-baja-en-veinte-anos-y-el-mejor-dato-de-toda-la-provincia",
+          "evidence": "La publicación reproduce el dato de 6,68% y 787 personas desempleadas y afirma que es el mejor dato provincial, pero no aporta en el contenido recuperado una tabla comparativa completa que permita verificar ese superlativo.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La formulación correcta es que el Gobierno anunció que aprobará o declarará la medida; las fuentes consultadas no acreditan que la declaración formal ya se hubiera aprobado a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
-        "La expresión periodística “zona catastrófica” es coloquial; la denominación jurídica utilizada por el Gobierno es “zona afectada gravemente por una emergencia de protección civil”."
+        "La noticia parece referirse al dato de agosto de 2026, aunque fue publicada el 15 de octubre y no explicita con suficiente claridad el periodo de referencia en el titular.",
+        "Existe una actualización de septiembre de 2026 que eleva el paro a 832 personas y al 6,98%.",
+        "La afirmación de ser el mejor dato de toda la provincia requiere una comparación homogénea de todos los municipios y no queda probada con las fuentes localizadas.",
+        "No debe presentarse como el dato más reciente sin indicar expresamente que corresponde a agosto de 2026."
       ],
-      "id": "inv_a3ecbeafbf3c2455",
-      "investigated_at": "2026-10-21T10:12:27.631Z",
+      "id": "inv_e7014537bc0f0b50",
+      "investigated_at": "2026-10-21T15:17:49.918Z",
       "model": "gpt-5.6-luna"
     }
   ]

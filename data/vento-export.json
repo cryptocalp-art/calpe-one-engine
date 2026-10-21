@@ -3,154 +3,267 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-21T10:12:54.069Z",
+  "generated_at": "2026-10-21T15:18:46.337Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
-  "ready_count": 1,
+  "drafts_seen": 2,
+  "ready_count": 2,
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_7e1ac08a632c80de",
+      "export_id": "exp_dbc4798f90b184a5",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-21T10:12:54.069Z",
-      "source_draft_id": "drf_a1be4163ed06eb33",
-      "source_investigation_id": "inv_a3ecbeafbf3c2455",
-      "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
-      "quality_gate_id": "qg_bd5aa6fc9ebecaee",
+      "generated_at": "2026-10-21T15:18:46.337Z",
+      "source_draft_id": "drf_faaf37af7c4c936e",
+      "source_investigation_id": "inv_ae026b0eed98641d",
+      "candidate_fingerprint": "e028c15a866edee523a8f8dcd9f565b504334bfe4afefb8f03eba1ece1686f5b",
+      "quality_gate_id": "qg_e7be50c6aa51183d",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_a1be4163ed06eb33",
-        "investigation_id": "inv_a3ecbeafbf3c2455",
-        "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
-        "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
-        "subtitle": "Pedro Sánchez comunicó la medida durante su visita al Puesto de Mando Avanzado de Oliva, aunque la aprobación formal aún no consta",
-        "summary": "El presidente del Gobierno, Pedro Sánchez, anunció el 20 de octubre que el Consejo de Ministros declarará los municipios afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil. El anuncio se produjo durante su visita al Puesto de Mando Avanzado de Oliva, en Valencia.",
-        "body": "El Gobierno prevé declarar los municipios afectados por la DANA Adam como **zona afectada gravemente por una emergencia de protección civil**, según anunció Pedro Sánchez durante su visita del 20 de octubre al Puesto de Mando Avanzado de Oliva, en Valencia.\n\nLa medida deberá ser aprobada por el Consejo de Ministros. A fecha de esta información, las fuentes consultadas acreditan el anuncio de la futura declaración, pero no que la aprobación formal ya se hubiera producido.\n\nSánchez también anunció que el Gobierno pondrá recursos económicos a disposición de la reconstrucción y que facilitará la agilización de la contratación pública para las actuaciones de recuperación. Las medidas fueron comunicadas en el marco de la visita al dispositivo de emergencias y de las reuniones mantenidas con responsables de emergencias y alcaldes, según las informaciones difundidas sobre el anuncio.\n\nLa denominación utilizada por el Gobierno es «zona afectada gravemente por una emergencia de protección civil». La expresión «zona catastrófica» se emplea de forma coloquial para referirse a este tipo de declaración, pero no es la formulación jurídica recogida en el anuncio.\n\nPor tanto, la situación comunicada es la de un compromiso anunciado por el Ejecutivo: la declaración deberá ser aprobada posteriormente por el Consejo de Ministros. Hasta que se produzca ese trámite, no puede afirmarse que la medida esté formalmente aprobada.",
+        "external_id": "drf_faaf37af7c4c936e",
+        "investigation_id": "inv_ae026b0eed98641d",
+        "candidate_fingerprint": "e028c15a866edee523a8f8dcd9f565b504334bfe4afefb8f03eba1ece1686f5b",
+        "title": "Calp convoca la cuarta edición del concurso escolar #GoCalp sobre sostenibilidad",
+        "subtitle": "La iniciativa está dirigida a alumnado de 6.º de Primaria y 4.º de ESO y se desarrollará entre diciembre de 2026 y marzo de 2027.",
+        "summary": "El Ayuntamiento de Calp ha puesto en marcha la cuarta edición del concurso escolar #GoCalp, una convocatoria centrada en la sostenibilidad, el cambio climático y la mejora del entorno local. La iniciativa cuenta con la colaboración del Observatorio de Ciudades Resilientes y Sostenibles, GO₂ by Global Omnium y Aguas de Calpe.",
+        "body": "El Ayuntamiento de Calp ha anunciado la cuarta edición del concurso escolar **#GoCalp**, dirigido a estudiantes de **6.º de Primaria y 4.º de ESO**. La convocatoria plantea que el alumnado trabaje sobre distintos retos relacionados con la sostenibilidad y el cambio climático en el ámbito local.\n\nEntre los riesgos que aborda el certamen figuran la sequía, las inundaciones, las islas de calor, la degradación ambiental y la pérdida de biodiversidad. La iniciativa cuenta con la participación del Observatorio de Ciudades Resilientes y Sostenibles, **GO₂ by Global Omnium**, y **Aguas de Calpe**.\n\nSegún la convocatoria municipal, el concurso se desarrollará entre **diciembre de 2026 y marzo de 2027**. La entrega de los trabajos está fijada para el **29 de enero de 2027**.\n\nEl certamen se presenta como una iniciativa de participación e innovación sostenible orientada a que el alumnado proponga respuestas a los desafíos climáticos y contribuya a mejorar su entorno. La agenda municipal recoge la convocatoria con fecha **21 de octubre de 2026**.\n\nLa información disponible confirma la existencia y la orientación general del concurso, pero la corroboración independiente no reproduce todos los detalles específicos de esta cuarta edición. Para conocer las condiciones completas de participación será necesario consultar las bases íntegras de la convocatoria municipal.",
         "category": "MEDIO_AMBIENTE",
-        "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
-        "seo_title": "El Gobierno anuncia ayudas para municipios afectados por la DANA",
-        "meta_description": "Pedro Sánchez anuncia que el Consejo de Ministros declarará zona gravemente afectada a los municipios dañados por la DANA Adam.",
+        "slug": "calp-cuarta-edicion-concurso-escolar-gocalp-sostenibilidad",
+        "seo_title": "Calp convoca la cuarta edición del concurso #GoCalp",
+        "meta_description": "El concurso escolar #GoCalp llega a su cuarta edición con alumnado de 6.º de Primaria y 4.º de ESO y trabajos sobre sostenibilidad y cambio climático.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_bd5aa6fc9ebecaee",
+        "quality_gate_id": "qg_e7be50c6aa51183d",
         "editorial_notes": [
-          "Mantener la distinción entre el anuncio de la futura declaración y su aprobación formal, que no consta acreditada a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
-          "Utilizar la denominación jurídica «zona afectada gravemente por una emergencia de protección civil» y evitar presentar «zona catastrófica» como nombre oficial."
+          "La corroboración independiente disponible confirma la existencia y orientación del certamen, pero no todos los detalles de la cuarta edición.",
+          "Conviene contrastar las bases íntegras antes de publicar información adicional sobre premios, integrantes o calendario completo."
         ],
         "sources": [
           {
-            "name": "La Moncloa, Presidencia del Gobierno",
-            "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-impulsa-la-cuarta-edici%C3%B3n-del-concurso-escolar-gocalp-sobre-sostenibilidad-y-cambio",
             "type": "PRIMARY"
           },
           {
-            "name": "EFE",
-            "url": "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
-            "type": "SECONDARY"
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/evento/concurso-escolar-gocalp/",
+            "type": "PRIMARY"
           },
           {
-            "name": "Cadena SER",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Servimedia",
-            "url": "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709",
-            "type": "SECONDARY"
+            "name": "GO₂ by Global Omnium",
+            "url": "https://go2globalomnium.com/concurso-gocalp/",
+            "type": "PRIMARY"
           }
         ],
         "source_urls": [
-          "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
-          "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
-          "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709"
+          "https://noticias.calp.es/es/noticia/calp-impulsa-la-cuarta-edici%C3%B3n-del-concurso-escolar-gocalp-sobre-sostenibilidad-y-cambio",
+          "https://calpcomunica.calp.es/evento/concurso-escolar-gocalp/",
+          "https://go2globalomnium.com/concurso-gocalp/"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 3,
-          "evidence_count": 4,
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
           "caveats": [
-            "La formulación correcta es que el Gobierno anunció que aprobará o declarará la medida; las fuentes consultadas no acreditan que la declaración formal ya se hubiera aprobado a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
-            "La expresión periodística “zona catastrófica” es coloquial; la denominación jurídica utilizada por el Gobierno es “zona afectada gravemente por una emergencia de protección civil”."
+            "La corroboración independiente disponible confirma la existencia y orientación del certamen, pero no reproduce todos los detalles de la cuarta edición.",
+            "Los premios, número mínimo de integrantes y calendario completo proceden principalmente de la nota municipal y deberían contrastarse con las bases íntegras de la convocatoria."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_bd5aa6fc9ebecaee",
-          "quality_gate_evaluated_at": "2026-10-21T10:12:53.914Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
+          "quality_gate_id": "qg_e7be50c6aa51183d",
+          "quality_gate_evaluated_at": "2026-10-21T15:18:46.214Z",
+          "quality_gate_warnings": []
         },
-        "created_at": "2026-10-21T10:12:47.756Z",
+        "created_at": "2026-10-21T15:18:30.414Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_a1be4163ed06eb33",
-        "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
-        "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
-        "summary": "El presidente del Gobierno, Pedro Sánchez, anunció el 20 de octubre que el Consejo de Ministros declarará los municipios afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil. El anuncio se produjo durante su visita al Puesto de Mando Avanzado de Oliva, en Valencia.",
-        "body": "El Gobierno prevé declarar los municipios afectados por la DANA Adam como **zona afectada gravemente por una emergencia de protección civil**, según anunció Pedro Sánchez durante su visita del 20 de octubre al Puesto de Mando Avanzado de Oliva, en Valencia.\n\nLa medida deberá ser aprobada por el Consejo de Ministros. A fecha de esta información, las fuentes consultadas acreditan el anuncio de la futura declaración, pero no que la aprobación formal ya se hubiera producido.\n\nSánchez también anunció que el Gobierno pondrá recursos económicos a disposición de la reconstrucción y que facilitará la agilización de la contratación pública para las actuaciones de recuperación. Las medidas fueron comunicadas en el marco de la visita al dispositivo de emergencias y de las reuniones mantenidas con responsables de emergencias y alcaldes, según las informaciones difundidas sobre el anuncio.\n\nLa denominación utilizada por el Gobierno es «zona afectada gravemente por una emergencia de protección civil». La expresión «zona catastrófica» se emplea de forma coloquial para referirse a este tipo de declaración, pero no es la formulación jurídica recogida en el anuncio.\n\nPor tanto, la situación comunicada es la de un compromiso anunciado por el Ejecutivo: la declaración deberá ser aprobada posteriormente por el Consejo de Ministros. Hasta que se produzca ese trámite, no puede afirmarse que la medida esté formalmente aprobada.",
+        "external_id": "drf_faaf37af7c4c936e",
+        "title": "Calp convoca la cuarta edición del concurso escolar #GoCalp sobre sostenibilidad",
+        "slug": "calp-cuarta-edicion-concurso-escolar-gocalp-sostenibilidad",
+        "summary": "El Ayuntamiento de Calp ha puesto en marcha la cuarta edición del concurso escolar #GoCalp, una convocatoria centrada en la sostenibilidad, el cambio climático y la mejora del entorno local. La iniciativa cuenta con la colaboración del Observatorio de Ciudades Resilientes y Sostenibles, GO₂ by Global Omnium y Aguas de Calpe.",
+        "body": "El Ayuntamiento de Calp ha anunciado la cuarta edición del concurso escolar **#GoCalp**, dirigido a estudiantes de **6.º de Primaria y 4.º de ESO**. La convocatoria plantea que el alumnado trabaje sobre distintos retos relacionados con la sostenibilidad y el cambio climático en el ámbito local.\n\nEntre los riesgos que aborda el certamen figuran la sequía, las inundaciones, las islas de calor, la degradación ambiental y la pérdida de biodiversidad. La iniciativa cuenta con la participación del Observatorio de Ciudades Resilientes y Sostenibles, **GO₂ by Global Omnium**, y **Aguas de Calpe**.\n\nSegún la convocatoria municipal, el concurso se desarrollará entre **diciembre de 2026 y marzo de 2027**. La entrega de los trabajos está fijada para el **29 de enero de 2027**.\n\nEl certamen se presenta como una iniciativa de participación e innovación sostenible orientada a que el alumnado proponga respuestas a los desafíos climáticos y contribuya a mejorar su entorno. La agenda municipal recoge la convocatoria con fecha **21 de octubre de 2026**.\n\nLa información disponible confirma la existencia y la orientación general del concurso, pero la corroboración independiente no reproduce todos los detalles específicos de esta cuarta edición. Para conocer las condiciones completas de participación será necesario consultar las bases íntegras de la convocatoria municipal.",
         "category": "MEDIO_AMBIENTE",
-        "seo_title": "El Gobierno anuncia ayudas para municipios afectados por la DANA",
-        "meta_description": "Pedro Sánchez anuncia que el Consejo de Ministros declarará zona gravemente afectada a los municipios dañados por la DANA Adam.",
+        "seo_title": "Calp convoca la cuarta edición del concurso #GoCalp",
+        "meta_description": "El concurso escolar #GoCalp llega a su cuarta edición con alumnado de 6.º de Primaria y 4.º de ESO y trabajos sobre sostenibilidad y cambio climático.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_bd5aa6fc9ebecaee",
+        "quality_gate_id": "qg_e7be50c6aa51183d",
         "published_at": null,
         "source_urls": [
-          "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
-          "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
-          "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709"
+          "https://noticias.calp.es/es/noticia/calp-impulsa-la-cuarta-edici%C3%B3n-del-concurso-escolar-gocalp-sobre-sostenibilidad-y-cambio",
+          "https://calpcomunica.calp.es/evento/concurso-escolar-gocalp/",
+          "https://go2globalomnium.com/concurso-gocalp/"
         ],
         "sources": [
           {
-            "name": "La Moncloa, Presidencia del Gobierno",
-            "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-impulsa-la-cuarta-edici%C3%B3n-del-concurso-escolar-gocalp-sobre-sostenibilidad-y-cambio",
             "type": "PRIMARY"
           },
           {
-            "name": "EFE",
-            "url": "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
-            "type": "SECONDARY"
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/evento/concurso-escolar-gocalp/",
+            "type": "PRIMARY"
           },
           {
-            "name": "Cadena SER",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Servimedia",
-            "url": "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709",
-            "type": "SECONDARY"
+            "name": "GO₂ by Global Omnium",
+            "url": "https://go2globalomnium.com/concurso-gocalp/",
+            "type": "PRIMARY"
           }
         ],
-        "investigation_id": "inv_a3ecbeafbf3c2455",
-        "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
+        "investigation_id": "inv_ae026b0eed98641d",
+        "candidate_fingerprint": "e028c15a866edee523a8f8dcd9f565b504334bfe4afefb8f03eba1ece1686f5b",
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 3,
-          "evidence_count": 4,
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
           "caveats": [
-            "La formulación correcta es que el Gobierno anunció que aprobará o declarará la medida; las fuentes consultadas no acreditan que la declaración formal ya se hubiera aprobado a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
-            "La expresión periodística “zona catastrófica” es coloquial; la denominación jurídica utilizada por el Gobierno es “zona afectada gravemente por una emergencia de protección civil”."
+            "La corroboración independiente disponible confirma la existencia y orientación del certamen, pero no reproduce todos los detalles de la cuarta edición.",
+            "Los premios, número mínimo de integrantes y calendario completo proceden principalmente de la nota municipal y deberían contrastarse con las bases íntegras de la convocatoria."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_bd5aa6fc9ebecaee",
-          "quality_gate_evaluated_at": "2026-10-21T10:12:53.914Z",
-          "quality_gate_warnings": [
-            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-          ]
+          "quality_gate_id": "qg_e7be50c6aa51183d",
+          "quality_gate_evaluated_at": "2026-10-21T15:18:46.214Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_aa9e123a2d2386ab",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-21T15:18:46.337Z",
+      "source_draft_id": "drf_e4f85b2999bfc219",
+      "source_investigation_id": "inv_392040a56716bfb8",
+      "candidate_fingerprint": "a93c4f35842de29f91990806d4ec17716dc56516b24ea1779c0728fe79fc3742",
+      "quality_gate_id": "qg_977b5a740bfc53d0",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_e4f85b2999bfc219",
+        "investigation_id": "inv_392040a56716bfb8",
+        "candidate_fingerprint": "a93c4f35842de29f91990806d4ec17716dc56516b24ea1779c0728fe79fc3742",
+        "title": "Calp celebra del 21 al 25 de octubre sus fiestas de Moros y Cristianos",
+        "subtitle": "La edición conmemora el 50 aniversario de la celebración tras su reconocimiento como Fiesta de Interés Turístico Nacional.",
+        "summary": "Las fiestas de Moros y Cristianos de Calp han comenzado este 21 de octubre y se prolongarán hasta el domingo 25. La edición conmemora el 50 aniversario de la celebración y cuenta con el reconocimiento de Fiesta de Interés Turístico Nacional.",
+        "body": "Calp celebra del **21 al 25 de octubre de 2026** sus fiestas de Moros y Cristianos, una edición que conmemora el **50 aniversario** de la celebración. La fiesta cuenta además con el reconocimiento de **Fiesta de Interés Turístico Nacional**.\n\nLa programación anunciada incluye la **Gran Entrada Mora y Cristiana**, prevista para el sábado **24 de octubre a las 18:30**. Para el domingo 25 están programados el desembarco en la playa del **Arenal-Bol** y el **Miracle**.\n\nEl reconocimiento turístico nacional fue acreditado con la entrega del distintivo correspondiente el pasado **25 de septiembre de 2026**, según la información municipal. La celebración de este año incorpora así la conmemoración de su medio siglo de trayectoria junto a ese reconocimiento institucional.\n\nLas fiestas comenzaron el miércoles 21 de octubre y, de acuerdo con el programa difundido, continuarán hasta el domingo. La información disponible confirma los actos como actividades previstas, por lo que su celebración efectiva todavía no puede darse por realizada en la fecha de esta redacción.\n\nLas previsiones de asistencia o de un posible aumento de visitantes no se incluyen como hechos, ya que corresponden a expectativas de la organización y no han podido verificarse todavía.",
+        "category": "TURISMO",
+        "slug": "calp-moros-cristianos-50-aniversario-reconocimiento-nacional",
+        "seo_title": "Calp celebra sus Moros y Cristianos por el 50 aniversario",
+        "meta_description": "Las fiestas de Moros y Cristianos de Calp se celebran del 21 al 25 de octubre, conmemoran su 50 aniversario y tienen reconocimiento nacional.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_977b5a740bfc53d0",
+        "editorial_notes": [
+          "El desembarco y el Miracle constan como actos programados para el 25 de octubre, no como actividades ya celebradas.",
+          "No presentar como hechos las previsiones de asistencia o de aumento de visitantes, que son expectativas de la organización."
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia",
+          "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+          "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La previsión de asistencia y el posible aumento de visitantes son declaraciones o expectativas de la organización, no hechos verificables todavía.",
+            "La celebración del desembarco y del Miracle se verifica como programación prevista; no como actos ya celebrados en la fecha de la investigación."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_977b5a740bfc53d0",
+          "quality_gate_evaluated_at": "2026-10-21T15:18:46.214Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-21T15:18:30.414Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_e4f85b2999bfc219",
+        "title": "Calp celebra del 21 al 25 de octubre sus fiestas de Moros y Cristianos",
+        "slug": "calp-moros-cristianos-50-aniversario-reconocimiento-nacional",
+        "summary": "Las fiestas de Moros y Cristianos de Calp han comenzado este 21 de octubre y se prolongarán hasta el domingo 25. La edición conmemora el 50 aniversario de la celebración y cuenta con el reconocimiento de Fiesta de Interés Turístico Nacional.",
+        "body": "Calp celebra del **21 al 25 de octubre de 2026** sus fiestas de Moros y Cristianos, una edición que conmemora el **50 aniversario** de la celebración. La fiesta cuenta además con el reconocimiento de **Fiesta de Interés Turístico Nacional**.\n\nLa programación anunciada incluye la **Gran Entrada Mora y Cristiana**, prevista para el sábado **24 de octubre a las 18:30**. Para el domingo 25 están programados el desembarco en la playa del **Arenal-Bol** y el **Miracle**.\n\nEl reconocimiento turístico nacional fue acreditado con la entrega del distintivo correspondiente el pasado **25 de septiembre de 2026**, según la información municipal. La celebración de este año incorpora así la conmemoración de su medio siglo de trayectoria junto a ese reconocimiento institucional.\n\nLas fiestas comenzaron el miércoles 21 de octubre y, de acuerdo con el programa difundido, continuarán hasta el domingo. La información disponible confirma los actos como actividades previstas, por lo que su celebración efectiva todavía no puede darse por realizada en la fecha de esta redacción.\n\nLas previsiones de asistencia o de un posible aumento de visitantes no se incluyen como hechos, ya que corresponden a expectativas de la organización y no han podido verificarse todavía.",
+        "category": "TURISMO",
+        "seo_title": "Calp celebra sus Moros y Cristianos por el 50 aniversario",
+        "meta_description": "Las fiestas de Moros y Cristianos de Calp se celebran del 21 al 25 de octubre, conmemoran su 50 aniversario y tienen reconocimiento nacional.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_977b5a740bfc53d0",
+        "published_at": null,
+        "source_urls": [
+          "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia",
+          "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+          "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el"
+        ],
+        "sources": [
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ministro-de-industria-y-turismo-jordi-hereu-entrega-la-alcaldesa-de-calp-ana-sala-el",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_392040a56716bfb8",
+        "candidate_fingerprint": "a93c4f35842de29f91990806d4ec17716dc56516b24ea1779c0728fe79fc3742",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La previsión de asistencia y el posible aumento de visitantes son declaraciones o expectativas de la organización, no hechos verificables todavía.",
+            "La celebración del desembarco y del Miracle se verifica como programación prevista; no como actos ya celebrados en la fecha de la investigación."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_977b5a740bfc53d0",
+          "quality_gate_evaluated_at": "2026-10-21T15:18:46.214Z",
+          "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }
