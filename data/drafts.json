@@ -1,8 +1,62 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-21T04:51:59.263Z",
+  "generated_at": "2026-10-21T10:12:47.756Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_a1be4163ed06eb33",
+      "investigation_id": "inv_a3ecbeafbf3c2455",
+      "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-21T10:12:47.756Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
+      "subheadline": "Pedro Sánchez comunicó la medida durante su visita al Puesto de Mando Avanzado de Oliva, aunque la aprobación formal aún no consta",
+      "lead": "El presidente del Gobierno, Pedro Sánchez, anunció el 20 de octubre que el Consejo de Ministros declarará los municipios afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil. El anuncio se produjo durante su visita al Puesto de Mando Avanzado de Oliva, en Valencia.",
+      "body_markdown": "El Gobierno prevé declarar los municipios afectados por la DANA Adam como **zona afectada gravemente por una emergencia de protección civil**, según anunció Pedro Sánchez durante su visita del 20 de octubre al Puesto de Mando Avanzado de Oliva, en Valencia.\n\nLa medida deberá ser aprobada por el Consejo de Ministros. A fecha de esta información, las fuentes consultadas acreditan el anuncio de la futura declaración, pero no que la aprobación formal ya se hubiera producido.\n\nSánchez también anunció que el Gobierno pondrá recursos económicos a disposición de la reconstrucción y que facilitará la agilización de la contratación pública para las actuaciones de recuperación. Las medidas fueron comunicadas en el marco de la visita al dispositivo de emergencias y de las reuniones mantenidas con responsables de emergencias y alcaldes, según las informaciones difundidas sobre el anuncio.\n\nLa denominación utilizada por el Gobierno es «zona afectada gravemente por una emergencia de protección civil». La expresión «zona catastrófica» se emplea de forma coloquial para referirse a este tipo de declaración, pero no es la formulación jurídica recogida en el anuncio.\n\nPor tanto, la situación comunicada es la de un compromiso anunciado por el Ejecutivo: la declaración deberá ser aprobada posteriormente por el Consejo de Ministros. Hasta que se produzca ese trámite, no puede afirmarse que la medida esté formalmente aprobada.",
+      "seo_title": "El Gobierno anuncia ayudas para municipios afectados por la DANA",
+      "meta_description": "Pedro Sánchez anuncia que el Consejo de Ministros declarará zona gravemente afectada a los municipios dañados por la DANA Adam.",
+      "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
+      "editorial_notes": [
+        "Mantener la distinción entre el anuncio de la futura declaración y su aprobación formal, que no consta acreditada a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
+        "Utilizar la denominación jurídica «zona afectada gravemente por una emergencia de protección civil» y evitar presentar «zona catastrófica» como nombre oficial."
+      ],
+      "sources": [
+        {
+          "source_name": "La Moncloa, Presidencia del Gobierno",
+          "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "EFE",
+          "source_url": "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Servimedia",
+          "source_url": "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 3,
+        "evidence_count": 4,
+        "caveats": [
+          "La formulación correcta es que el Gobierno anunció que aprobará o declarará la medida; las fuentes consultadas no acreditan que la declaración formal ya se hubiera aprobado a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
+          "La expresión periodística “zona catastrófica” es coloquial; la denominación jurídica utilizada por el Gobierno es “zona afectada gravemente por una emergencia de protección civil”."
+        ]
+      }
+    }
+  ]
 }

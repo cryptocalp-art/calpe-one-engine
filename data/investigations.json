@@ -1,75 +1,67 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-21T04:51:36.963Z",
+  "generated_at": "2026-10-21T10:12:27.631Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "456c1afad7fe9d1565f1fb2e4154f75429ad0169e26464b1fb79adc411d0f19c",
-      "title": "Cinco acusados serán juzgados por una presunta estafa inmobiliaria con un chalé de Calp",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La noticia está respaldada por una publicación de Calp Digital fechada el 19 de octubre de 2026, que atribuye la información al calendario de señalamientos de la Audiencia Provincial de Alicante y al escrito de acusación de la Fiscalía. Sin embargo, no se ha localizado durante la búsqueda una fuente primaria oficial accesible que confirme específicamente el señalamiento, el número de acusados, las operaciones descritas, la cuantía de 131.000 euros y las penas solicitadas. Tampoco existe todavía una resolución judicial sobre el fondo de los hechos, ya que el juicio estaba previsto para el 23 de octubre de 2026.",
+      "candidate_fingerprint": "30e2f2316e3647ae9604ed4738f6aa7fb675728c701ba4b7819a8d95162885b5",
+      "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La afirmación central está respaldada por una fuente primaria del Gobierno y por corroboraciones independientes. El 20 de octubre de 2026, Pedro Sánchez anunció en Oliva que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para los municipios afectados por la DANA. También anunció recursos económicos y la agilización de la contratación pública para la reconstrucción. A fecha de la investigación, se trata de un anuncio de una declaración futura, no de una declaración ya formalmente aprobada.",
       "claims": [
         {
-          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 23 de octubre de 2026 un juicio contra cinco personas por hechos relacionados con un chalé situado en Calp.",
+          "claim": "Pedro Sánchez anunció el 20 de octubre de 2026 que el Consejo de Ministros declarará los municipios afectados por la DANA como zona gravemente afectada por una emergencia de protección civil.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los acusados son cuatro hombres y una mujer.",
+          "claim": "El anuncio se produjo durante la visita de Pedro Sánchez al Puesto de Mando Avanzado de Oliva, Valencia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los hechos investigados habrían ocurrido entre 2013 y 2014.",
+          "claim": "El Gobierno pondrá recursos económicos a disposición de la reconstrucción y facilitará la agilización de la contratación pública.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los acusados habrían alquilado el chalé y posteriormente habrían simulado ser sus propietarios para ofrecerlo en venta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "En otras operaciones, habrían afirmado a posibles compradores que el inmueble estaba embargado y que podían venderlo a un precio reducido.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las operaciones habrían permitido obtener hasta 131.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía atribuye a los procesados dos delitos de estafa, dos de falsedad y uno de revelación de secretos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Fiscalía solicita penas que oscilan entre once meses y seis años de prisión.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El juicio estaba señalado para las 10:00 horas ante la Sección Tercera de la Audiencia Provincial de Alicante.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los hechos y la responsabilidad penal de los acusados están judicialmente probados.",
+          "claim": "La declaración ya había sido formalmente aprobada por el Consejo de Ministros en la fecha de publicación.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
-          "evidence": "Publicación de 19 de octubre de 2026 que informa de un señalamiento para el 23 de octubre de 2026 ante la Sección Tercera de la Audiencia Provincial de Alicante. Describe a cuatro hombres y una mujer acusados por hechos ocurridos entre 2013 y 2014, el supuesto alquiler del chalé y la simulación de propiedad para venderlo, otras operaciones vinculadas a un supuesto embargo, una obtención de hasta 131.000 euros y las penas solicitadas por la Fiscalía, de entre once meses y seis años. La propia información presenta los hechos como acusaciones y recuerda la presunción de inocencia.",
+          "source_name": "La Moncloa, Presidencia del Gobierno",
+          "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
+          "evidence": "La fuente primaria indica que Pedro Sánchez anunció en Oliva que el Consejo de Ministros aprobará la declaración de zona gravemente afectada por una emergencia de protección civil para todos los municipios afectados por la DANA. También recoge su compromiso de aportar recursos económicos y agilizar la contratación pública para la recuperación.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "EFE",
+          "source_url": "https://efe.com/espana/2026-10-20/pedro-sanchez-dana-adam/",
+          "evidence": "EFE informa de que el Gobierno aprobará la declaración para los municipios afectados por la DANA Adam, según anunció Sánchez en el Puesto de Mando Avanzado de Oliva. Añade que el presidente prometió recursos económicos y agilidad en la contratación pública para recuperar la normalidad.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/20/pedro-sanchez-anuncia-la-declaracion-de-zona-catastrofica-a-los-municipios-de-la-dana-adam-radio-valencia",
+          "evidence": "Cadena SER recoge que el Gobierno aprobará la declaración de los municipios afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil y que Sánchez realizó el anuncio tras reunirse en Oliva con responsables de emergencias y alcaldes.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Servimedia",
+          "source_url": "https://www.servimedia.es/noticias/sanchez-anuncia-gobierno-declarara-zona-catastrofica-municipios-afectados-dana/1413474709",
+          "evidence": "Servimedia informa de que Sánchez anunció que el Consejo de Ministros declarará los municipios valencianos afectados por la DANA Adam como zona afectada gravemente por una emergencia de protección civil y que se pondrán recursos económicos y medidas para agilizar la reconstrucción.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La única fuente localizada que respalda directamente el conjunto de afirmaciones es Calp Digital; las páginas de sección y autor del mismo medio no constituyen corroboración independiente.",
-        "La noticia atribuye los datos al calendario de señalamientos de la Audiencia y al escrito de acusación, pero no se ha localizado el documento oficial concreto ni una nota del Tribunal Superior de Justicia de la Comunitat Valenciana que permita verificarlo de forma primaria.",
-        "A fecha de 21 de octubre de 2026, el juicio aún no se había celebrado según la información disponible; por tanto, no debe presentarse la presunta estafa como un hecho probado ni anticiparse el resultado judicial.",
-        "Debe mantenerse el lenguaje de presunción: acusados, presuntamente, según la Fiscalía y conforme al escrito de acusación."
+        "La formulación correcta es que el Gobierno anunció que aprobará o declarará la medida; las fuentes consultadas no acreditan que la declaración formal ya se hubiera aprobado a fecha de 21 de octubre de 2026 a las 10:12 UTC.",
+        "La expresión periodística “zona catastrófica” es coloquial; la denominación jurídica utilizada por el Gobierno es “zona afectada gravemente por una emergencia de protección civil”."
       ],
-      "id": "inv_baf38667dae76095",
-      "investigated_at": "2026-10-21T04:51:36.963Z",
+      "id": "inv_a3ecbeafbf3c2455",
+      "investigated_at": "2026-10-21T10:12:27.631Z",
       "model": "gpt-5.6-luna"
     }
   ]

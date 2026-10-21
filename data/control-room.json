@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-21T04:52:07.267Z",
+  "generated_at": "2026-10-21T10:13:08.031Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-21T04:52:07.120Z",
+  "last_activity": "2026-10-21T10:13:07.804Z",
   "newspaper": {
-    "archive_total": 109,
-    "published_today": 0,
+    "archive_total": 110,
+    "published_today": 1,
     "published_last_7_days": 26,
     "categories": {
+      "MEDIO_AMBIENTE": 19,
       "ECONOMIA": 17,
       "SUCESOS": 16,
       "DEPORTES": 5,
@@ -17,10 +18,16 @@
       "LOCAL": 15,
       "SOCIEDAD": 13,
       "POLITICA": 9,
-      "MEDIO_AMBIENTE": 18,
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_7a84d9029359056a",
+        "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
+        "published_at": "2026-10-21T10:12:47.756Z"
+      },
       {
         "archive_id": "arc_0f9fce013a827081",
         "title": "La Marina Alta registra 68.745 afiliaciones en septiembre, pese al descenso mensual",
@@ -69,23 +76,16 @@
         "category": "SOCIEDAD",
         "slug": "sanidad-reprograma-citas-confinamiento-dana-adam",
         "published_at": "2026-10-19T15:39:28.821Z"
-      },
-      {
-        "archive_id": "arc_9ac5bfe85f42d7d4",
-        "title": "La Guardia Civil despliega un dispositivo de auxilio por las inundaciones en la Marina Alta",
-        "category": "SUCESOS",
-        "slug": "guardia-civil-dispositivo-auxilio-inundaciones-marina-alta",
-        "published_at": "2026-10-19T15:39:28.821Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 3,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
