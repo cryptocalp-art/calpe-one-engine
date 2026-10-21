@@ -1,77 +1,75 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-20T23:54:33.410Z",
+  "generated_at": "2026-10-21T04:51:36.963Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "e888e03cb58e5f6c4780c6701f93ffe8cce421356f42e36794e644f113d1afe7",
-      "title": "Hallan muerto a un agricultor en la marjal de Pego-Oliva tras las inundaciones de la DANA Adam",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La localización del cadáver de un agricultor en la marjal de Pego-Oliva el 20 de octubre de 2026 está corroborada por Europa Press, que cita fuentes de la Guardia Civil, y por La Vanguardia, que cita a la Delegación del Gobierno en la Comunitat Valenciana. La Guardia Civil abrió una investigación para identificar plenamente al fallecido y esclarecer las causas. La relación directa con las inundaciones de la DANA Adam no estaba confirmada; las primeras hipótesis apuntaban a una posible muerte natural. La noticia es publicable si mantiene esa cautela y no presenta el fallecimiento como causado por el temporal.",
+      "candidate_fingerprint": "456c1afad7fe9d1565f1fb2e4154f75429ad0169e26464b1fb79adc411d0f19c",
+      "title": "Cinco acusados serán juzgados por una presunta estafa inmobiliaria con un chalé de Calp",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está respaldada por una publicación de Calp Digital fechada el 19 de octubre de 2026, que atribuye la información al calendario de señalamientos de la Audiencia Provincial de Alicante y al escrito de acusación de la Fiscalía. Sin embargo, no se ha localizado durante la búsqueda una fuente primaria oficial accesible que confirme específicamente el señalamiento, el número de acusados, las operaciones descritas, la cuantía de 131.000 euros y las penas solicitadas. Tampoco existe todavía una resolución judicial sobre el fondo de los hechos, ya que el juicio estaba previsto para el 23 de octubre de 2026.",
       "claims": [
         {
-          "claim": "El 20 de octubre de 2026 fue localizado el cadáver de un agricultor en la marjal de Pego-Oliva.",
+          "claim": "La Audiencia Provincial de Alicante tenía señalado para el 23 de octubre de 2026 un juicio contra cinco personas por hechos relacionados con un chalé situado en Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El hallazgo se produjo en una zona afectada por las inundaciones de la DANA Adam.",
+          "claim": "Los acusados son cuatro hombres y una mujer.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Guardia Civil abrió una investigación para identificar plenamente al fallecido y esclarecer las causas de la muerte.",
+          "claim": "Los hechos investigados habrían ocurrido entre 2013 y 2014.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se investigaba si la muerte estaba relacionada con las inundaciones.",
+          "claim": "Los acusados habrían alquilado el chalé y posteriormente habrían simulado ser sus propietarios para ofrecerlo en venta.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La relación causal entre el fallecimiento y la DANA estaba confirmada.",
-          "status": "CONTRADICTED"
+          "claim": "En otras operaciones, habrían afirmado a posibles compradores que el inmueble estaba embargado y que podían venderlo a un precio reducido.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "Las primeras informaciones apuntaban a una posible muerte natural o a un problema de salud, pendiente de confirmación forense.",
+          "claim": "Las operaciones habrían permitido obtener hasta 131.000 euros.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía atribuye a los procesados dos delitos de estafa, dos de falsedad y uno de revelación de secretos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Fiscalía solicita penas que oscilan entre once meses y seis años de prisión.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El juicio estaba señalado para las 10:00 horas ante la Sección Tercera de la Audiencia Provincial de Alicante.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los hechos y la responsabilidad penal de los acusados están judicialmente probados.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/valencia/noticia-troben-cadaver-dun-agricultor-marjal-pego-oliva-despres-les-inundacions-dana-adam-20261020111517.html",
-          "evidence": "Publica el 20 de octubre de 2026 que fue encontrado el cadáver de un agricultor en la marjal de Pego-Oliva. Atribuye la confirmación a fuentes del Instituto Armado, indica que la Guardia Civil investigaba la identificación y las causas, y señala que inicialmente apuntaba a una muerte natural.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12420/juzgan-a-cinco-acusados-de-una-estafa-con-un-chale-en-calp",
+          "evidence": "Publicación de 19 de octubre de 2026 que informa de un señalamiento para el 23 de octubre de 2026 ante la Sección Tercera de la Audiencia Provincial de Alicante. Describe a cuatro hombres y una mujer acusados por hechos ocurridos entre 2013 y 2014, el supuesto alquiler del chalé y la simulación de propiedad para venderlo, otras operaciones vinculadas a un supuesto embargo, una obtención de hasta 131.000 euros y las penas solicitadas por la Fiscalía, de entre once meses y seis años. La propia información presenta los hechos como acusaciones y recuerda la presunción de inocencia.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Vanguardia",
-          "source_url": "https://www.lavanguardia.com/local/valencia/20261020/11663429/localizan-cuarta-victima-dana-adam-marjal-pego-oliva.html",
-          "evidence": "Informa el 20 de octubre de 2026 de la localización del cuerpo de un agricultor en la marjal de Pego-Oliva y atribuye la confirmación a fuentes de la Delegación del Gobierno en la Comunitat Valenciana. Precisa que las causas de la muerte todavía no estaban esclarecidas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Onda Cero",
-          "source_url": "https://amp.ondacero.es/emisoras/comunidad-valenciana/valencia/noticias/hallan-muerto-agricultor-marjal-pegooliva-valencia-inundaciones_202610206ad72f69bb4b2674104f15f2.html",
-          "evidence": "Recoge información de EFE basada en fuentes de la Guardia Civil: trabajadores localizaron el cadáver en una parcela de la marjal de Pego-Oliva, cerca de la N-332 y en término de Oliva. Añade que se investigaba su relación con las lluvias y que, según la Guardia Civil, pudo sufrir un problema de salud.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Moncloa",
-          "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx?galv2r=1",
-          "evidence": "Fuente oficial que confirma que Oliva era una de las zonas más afectadas por la DANA y que el Gobierno contabilizaba víctimas mortales por las lluvias el 20 de octubre de 2026. No identifica específicamente al agricultor ni establece la causa de su muerte.",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La confirmación de la existencia del cadáver y de la investigación procede de fuentes oficiales citadas por agencias y medios, pero no se localizó un comunicado público directo de la Guardia Civil con todos los detalles.",
-        "La causa de la muerte y su eventual relación con la DANA Adam no estaban resueltas en las fuentes consultadas.",
-        "No debe publicarse como hecho confirmado que el agricultor murió por la inundación; debe hablarse de una relación investigada y de una hipótesis inicial de muerte natural o problema de salud.",
-        "Varias informaciones reproducen el despacho de Europa Press o EFE; La Vanguardia aporta una corroboración adicional mediante fuentes de la Delegación del Gobierno."
+        "La única fuente localizada que respalda directamente el conjunto de afirmaciones es Calp Digital; las páginas de sección y autor del mismo medio no constituyen corroboración independiente.",
+        "La noticia atribuye los datos al calendario de señalamientos de la Audiencia y al escrito de acusación, pero no se ha localizado el documento oficial concreto ni una nota del Tribunal Superior de Justicia de la Comunitat Valenciana que permita verificarlo de forma primaria.",
+        "A fecha de 21 de octubre de 2026, el juicio aún no se había celebrado según la información disponible; por tanto, no debe presentarse la presunta estafa como un hecho probado ni anticiparse el resultado judicial.",
+        "Debe mantenerse el lenguaje de presunción: acusados, presuntamente, según la Fiscalía y conforme al escrito de acusación."
       ],
-      "id": "inv_f546d862b94b7cc8",
-      "investigated_at": "2026-10-20T23:54:33.410Z",
+      "id": "inv_baf38667dae76095",
+      "investigated_at": "2026-10-21T04:51:36.963Z",
       "model": "gpt-5.6-luna"
     }
   ]

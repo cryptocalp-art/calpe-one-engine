@@ -3,26 +3,12 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-20T23:55:01.132Z",
+  "generated_at": "2026-10-21T04:51:59.487Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
+  "drafts_seen": 0,
   "ready_count": 0,
-  "quarantined_count": 1,
+  "quarantined_count": 0,
   "ready": [],
-  "quarantined": [
-    {
-      "export_id": "exp_3e74af101c378859",
-      "draft_id": "drf_0b1d75ee08006c4e",
-      "investigation_id": "inv_f546d862b94b7cc8",
-      "slug": "localizan-cadaver-agricultor-marjal-pego-oliva",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
-    }
-  ]
+  "quarantined": []
 }

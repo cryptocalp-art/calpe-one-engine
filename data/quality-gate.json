@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-20T23:55:00.974Z",
+  "generated_at": "2026-10-21T04:51:59.375Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,50 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
+  "drafts_seen": 0,
   "eligible_count": 0,
-  "quarantined_count": 1,
-  "decisions": [
-    {
-      "gate_id": "qg_ba9eb64b1dddf1c1",
-      "draft_id": "drf_0b1d75ee08006c4e",
-      "investigation_id": "inv_f546d862b94b7cc8",
-      "candidate_fingerprint": "e888e03cb58e5f6c4780c6701f93ffe8cce421356f42e36794e644f113d1afe7",
-      "slug": "localizan-cadaver-agricultor-marjal-pego-oliva",
-      "category": "SUCESOS",
-      "status": "QUARANTINED",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 1,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 1,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": false,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 214
-      },
-      "evaluated_at": "2026-10-20T23:55:00.974Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "quarantined_count": 0,
+  "decisions": []
 }
