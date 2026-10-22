@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-22T04:51:30.442Z",
+  "generated_at": "2026-10-22T10:14:21.205Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,15 +26,17 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_0c21cf909b25cc55",
-      "draft_id": "drf_8df636ee60c87ef0",
-      "investigation_id": "inv_99fb8c40b010ca81",
-      "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
-      "slug": "calp-jornadas-medioambientales-mar-calp-blau",
-      "category": "MEDIO_AMBIENTE",
+      "gate_id": "qg_0d1d461ba794e385",
+      "draft_id": "drf_6c08c146c1d0479b",
+      "investigation_id": "inv_9f2c070282bebc83",
+      "candidate_fingerprint": "cfd4aa5784559f8be668df975427995a2812ad547d02776bd513783b6779acbb",
+      "slug": "dana-adam-847-solicitudes-indemnizacion-alicante",
+      "category": "SUCESOS",
       "status": "ELIGIBLE",
       "reasons": [],
-      "warnings": [],
+      "warnings": [
+        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+      ],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
@@ -43,12 +45,12 @@
         "confidence_sufficient": true,
         "supported_claim_count": 4,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
+        "unverified_claim_count": 1,
         "evidence_count": 3,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 1,
+        "primary_evidence_count": 0,
+        "secondary_evidence_count": 3,
         "distinct_evidence_urls": 3,
-        "distinct_evidence_hosts": 3,
+        "distinct_evidence_hosts": 2,
         "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
@@ -59,9 +61,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 246
+        "body_word_count": 225
       },
-      "evaluated_at": "2026-10-22T04:51:30.442Z",
+      "evaluated_at": "2026-10-22T10:14:21.205Z",
       "engine_version": "quality-gate-v1"
     }
   ]

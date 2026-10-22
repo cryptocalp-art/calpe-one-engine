@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-22T04:51:41.313Z",
+  "generated_at": "2026-10-22T10:14:36.484Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-22T04:51:41.115Z",
+  "last_activity": "2026-10-22T10:14:36.270Z",
   "newspaper": {
-    "archive_total": 111,
-    "published_today": 0,
-    "published_last_7_days": 24,
+    "archive_total": 112,
+    "published_today": 1,
+    "published_last_7_days": 25,
     "categories": {
+      "SUCESOS": 17,
       "MEDIO_AMBIENTE": 20,
       "ECONOMIA": 17,
-      "SUCESOS": 16,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_d40f7eac5a6c5029",
+        "title": "La DANA Adam suma 847 solicitudes de indemnización en Alicante",
+        "category": "SUCESOS",
+        "slug": "dana-adam-847-solicitudes-indemnizacion-alicante",
+        "published_at": "2026-10-22T10:14:12.523Z"
+      },
       {
         "archive_id": "arc_1a20e69b6d5bc982",
         "title": "Calp convoca la cuarta edición del concurso escolar #GoCalp sobre sostenibilidad",
@@ -69,23 +76,16 @@
         "category": "TURISMO",
         "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
         "published_at": "2026-10-19T21:05:45.057Z"
-      },
-      {
-        "archive_id": "arc_847f5f15231fa341",
-        "title": "La Generalitat eleva a situación 2 la emergencia por inundaciones en la Marina Alta",
-        "category": "LOCAL",
-        "slug": "generalitat-situacion-2-emergencia-inundaciones-marina-alta",
-        "published_at": "2026-10-19T15:39:28.821Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 3,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

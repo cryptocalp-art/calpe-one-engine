@@ -3,9 +3,73 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-22T04:51:30.777Z",
-  "count": 111,
+  "updated_at": "2026-10-22T10:14:21.569Z",
+  "count": 112,
   "articles": [
+    {
+      "archive_id": "arc_d40f7eac5a6c5029",
+      "external_id": "drf_6c08c146c1d0479b",
+      "investigation_id": "inv_9f2c070282bebc83",
+      "candidate_fingerprints": [
+        "cfd4aa5784559f8be668df975427995a2812ad547d02776bd513783b6779acbb"
+      ],
+      "title": "La DANA Adam suma 847 solicitudes de indemnización en Alicante",
+      "slug": "dana-adam-847-solicitudes-indemnizacion-alicante",
+      "summary": "El Consorcio de Compensación de Seguros había recibido 847 solicitudes de indemnización en la provincia de Alicante por los daños asociados a la DANA Adam hasta el 21 de octubre de 2026, según los datos atribuidos al organismo por varias publicaciones periodísticas.",
+      "body": "La cifra provincial forma parte de un total nacional de 6.528 solicitudes registradas hasta esa misma fecha. Los datos han sido difundidos por medios de comunicación que los atribuyen al Consorcio de Compensación de Seguros, organismo encargado de tramitar las indemnizaciones en los supuestos que correspondan.\n\nEl episodio meteorológico provocó inundaciones y daños materiales relevantes en distintos municipios de la Marina Alta, entre ellos Pego, Els Poblets, El Verger y Xàbia. Las afecciones fueron especialmente relevantes en el entorno de la Marjal de Pego-Oliva.\n\nPor ahora, no se ha detallado públicamente cuántas de las 847 solicitudes registradas en Alicante corresponden de forma concreta a la Marina Alta. Por tanto, la cifra provincial no puede presentarse como un recuento específico de reclamaciones de la comarca.\n\nEl reparto comunicado sitúa también en 5.007 las solicitudes registradas en la provincia de Valencia, dentro del total estatal. Entre ellas figuran 2.760 correspondientes a Oliva, según la información publicada sobre los datos del Consorcio.\n\nLas solicitudes están vinculadas a los daños ocasionados por la DANA Adam. La tramitación de una indemnización requiere, según la información difundida, que exista una póliza vigente y una peritación previa.\n\nLa cifra de Alicante debe considerarse provisional, ya que puede aumentar a medida que se registren nuevas reclamaciones. Las publicaciones consultadas no incluyen un desglose oficial por municipios o por comarcas de las solicitudes alicantinas.",
+      "category": "SUCESOS",
+      "seo_title": "La DANA Adam suma 847 solicitudes en Alicante",
+      "meta_description": "El Consorcio registra 847 solicitudes de indemnización en Alicante por la DANA Adam hasta el 21 de octubre, según datos difundidos por medios.",
+      "sources": [
+        {
+          "name": "Cadena SER Radio Dénia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza / elDiario.es",
+          "url": "https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Cadena SER Radio Valencia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia",
+        "https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La propia Cadena SER indica que el Consorcio no había detallado cuántas de las 847 solicitudes correspondían específicamente a la Marina Alta.",
+          "Las dos corroboraciones periodísticas localizadas parecen apoyarse en la misma comunicación o datos del Consorcio; no se ha encontrado una tabla, nota o comunicado primario accesible con el desglose provincial exacto.",
+          "La cifra es de situación y puede aumentar conforme se registren nuevas reclamaciones."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_0d1d461ba794e385",
+        "quality_gate_evaluated_at": "2026-10-22T10:14:21.205Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "La cifra procede de publicaciones periodísticas que atribuyen los datos al Consorcio; no se ha localizado una fuente primaria accesible con el desglose provincial.",
+        "No se ha detallado cuántas solicitudes corresponden específicamente a la Marina Alta.",
+        "La cifra es provisional y puede aumentar con nuevas reclamaciones."
+      ],
+      "published_at": "2026-10-22T10:14:12.523Z",
+      "updated_at": "2026-10-22T10:14:21.569Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_1a20e69b6d5bc982",
       "external_id": "drf_faaf37af7c4c936e",

@@ -1,115 +1,66 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-22T04:50:59.121Z",
+  "generated_at": "2026-10-22T10:13:43.329Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "0d721bee28f391e43d1ed186647b8aa3f26c4d6bea45eb2fe0b7967e00c723ad",
-      "title": "El mercado de los sábados de Calp se adelanta al viernes 23 de octubre por el desfile festero",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "cfd4aa5784559f8be668df975427995a2812ad547d02776bd513783b6779acbb",
+      "title": "La DANA Adam deja 847 solicitudes de indemnización en la provincia de Alicante",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "El Ayuntamiento de Calp publicó el aviso según el cual el mercado de alimentación de la calle Petit, previsto para el sábado 24 de octubre de 2026, se adelanta al viernes 23, mientras que el mercado de la avenida Rumanía mantiene su celebración habitual. La información está respaldada por el aviso municipal y por su reproducción en el canal oficial de Telegram, pero esta última procede de la misma fuente y no constituye corroboración independiente. Se ha confirmado oficialmente que el desfile infantil se celebra el viernes 23 y la entrada mora y cristiana el sábado 24, contexto compatible con el cambio, aunque falta una fuente independiente que confirme la modificación concreta del mercado.",
+      "publishable": true,
+      "summary": "La cifra central de 847 solicitudes de indemnización registradas en Alicante tras la DANA Adam está respaldada por dos publicaciones periodísticas del 22 de octubre de 2026 que atribuyen los datos al Consorcio de Compensación de Seguros. También está respaldado que el episodio causó inundaciones y daños relevantes en la Marina Alta y el entorno de la Marjal de Pego-Oliva. No se ha localizado durante la búsqueda una publicación primaria del Consorcio con el desglose provincial exacto.",
       "claims": [
         {
-          "claim": "El mercado de alimentación situado en el aparcamiento de la calle Petit, previsto para el sábado 24 de octubre de 2026, se adelanta al viernes 23 de octubre de 2026.",
+          "claim": "El Consorcio de Compensación de Seguros había recibido 847 solicitudes de indemnización en la provincia de Alicante hasta el 21 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El mercado de la avenida Rumanía mantiene su celebración habitual.",
+          "claim": "El total nacional ascendía a 6.528 solicitudes en esa misma fecha.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El cambio se debe a los actos de las fiestas de Moros y Cristianos y, en particular, a la programación festera del fin de semana.",
+          "claim": "La DANA Adam provocó inundaciones y daños materiales relevantes en municipios de la Marina Alta, incluidos Pego, Els Poblets, El Verger y Xàbia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Existe corroboración independiente de la modificación concreta del mercado.",
+          "claim": "Los daños fueron especialmente relevantes en el entorno de la Marjal de Pego-Oliva.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El desglose de las 847 solicitudes alicantinas por municipios o por comarca de la Marina Alta está publicado oficialmente.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/event/%f0%9f%9b%92-el-mercado-de-los-sabados-se-adelanta-al-viernes-23-de-octubre-por-las-fiestas-de-moros-y-cristianos/?lang=es",
-          "evidence": "El aviso municipal indica que el mercado de alimentación de los sábados ubicado en el aparcamiento de la calle Petit, correspondiente al sábado 24 de octubre de 2026, se adelanta al viernes 23 de octubre. También indica que el mercado de la avenida Rumanía se celebrará con normalidad.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — canal oficial de Telegram",
-          "source_url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-          "evidence": "El canal oficial reproduce el mismo aviso: adelanto al viernes 23 de octubre del mercado de alimentación de la calle Petit y celebración normal del mercado de la avenida Rumanía. Es una republicación del Ayuntamiento, no una fuente independiente.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
-          "evidence": "La programación oficial sitúa el desfile infantil el viernes 23 de octubre y la Gran Entrada Cristiana y Mora el sábado 24 de octubre, confirmando el contexto festero alegado en el aviso del mercado.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La segunda evidencia municipal es una reproducción del mismo comunicado, no una corroboración independiente.",
-        "No se ha localizado una publicación independiente de comerciantes, medios locales o una fuente administrativa distinta que confirme específicamente el cambio del mercado de la calle Petit.",
-        "La noticia no debería publicarse como plenamente verificada hasta obtener esa corroboración o una confirmación adicional del Ayuntamiento sobre la aplicación efectiva del cambio."
-      ],
-      "id": "inv_c24383d0c1e826f7",
-      "investigated_at": "2026-10-22T04:50:59.121Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
-      "title": "Calp acogerá del 28 al 31 de octubre las III Jornadas Medioambientales del Mar Calp Blau",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La celebración de las III Jornadas Medioambientales del Mar Calp Blau en Calp está confirmada por la agenda oficial de Tourist Info Calpe y por una información de Calp Digital. Las actividades principales se desarrollan del miércoles 28 al viernes 30 de octubre de 2026 en el Real Club Náutico de Calp, y el sábado 31 se celebra una jornada de limpieza, voluntariado y talleres en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
-      "claims": [
-        {
-          "claim": "Calp celebrará las III Jornadas Medioambientales del Mar Calp Blau del 28 al 31 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las jornadas reunirán contenidos sobre turismo azul, biodiversidad, restauración de ecosistemas y sostenibilidad.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las sesiones del 28 al 30 de octubre tendrán como sede el Real Club Náutico de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El sábado 31 de octubre habrá una jornada de limpieza y voluntariado en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Tourist Info Calpe — agenda oficial",
-          "source_url": "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
-          "evidence": "La agenda oficial identifica el evento como organizado por el Ayuntamiento de Calp y Calp Blau. Programa sesiones del 28, 29 y 30 de octubre en el Real Club Náutico de Calp y fija para el sábado 31, de 10:00 a 13:00, la limpieza del fondo marino, la limpieza terrestre, el atado de fragmentos de Posidonia y talleres sobre fauna marina y Posidonia en el Paseo Princesa de Asturias y Cala del Racó.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
-          "evidence": "La información periodística anuncia las III Jornadas Medioambientales del Mar Calp Blau del 28 al 31 de octubre y describe tres días de conferencias y mesas redondas en el Real Club Náutico, seguidos el sábado 31 por una jornada de limpieza, voluntariado y talleres ambientales en Cala del Racó. Detalla los ejes de turismo azul, biodiversidad, cambio climático, restauración de ecosistemas y buenas prácticas ambientales.",
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia",
+          "evidence": "La información afirma que el Consorcio había recibido 847 solicitudes en Alicante, dentro de 6.528 en toda España hasta el 21 de octubre. Identifica daños por inundaciones en Pego, Els Poblets, El Verger y Xàbia y señala que el organismo todavía no había detallado cuántas solicitudes correspondían específicamente a la Marina Alta. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia/))",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp — Noticias",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
-          "evidence": "Una noticia municipal publicada el 2 de octubre de 2026 identifica las jornadas medioambientales del mar Calp Blau como una de las actuaciones del proyecto municipal, confirmando su continuidad dentro de la estrategia ambiental de Calp.",
-          "source_type": "PRIMARY"
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana/",
+          "evidence": "Publica el mismo desglose: 6.528 solicitudes nacionales, 847 en Alicante y 5.007 en Valencia, con 2.760 correspondientes a Oliva. Relaciona los daños con la DANA Adam y señala que la mayoría de las solicitudes alicantinas procederían de la Marina Alta. El contenido parece basarse en la comunicación del Consorcio, por lo que sirve como corroboración periodística adicional, pero no como una fuente primaria independiente. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana/?utm_source=openai))",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Valencia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia/",
+          "evidence": "Reproduce el reparto territorial comunicado por el Consorcio: más de 6.500 solicitudes por la DANA Adam, más de 5.000 en Valencia, 2.760 en Oliva y 847 en Alicante. También indica que la indemnización requiere póliza vigente y peritación previa. Es una publicación del mismo grupo mediático, por lo que no se considera corroboración plenamente independiente. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia/))",
+          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La agenda oficial presenta las sesiones principales como celebradas del 28 al 30 de octubre y reserva el sábado 31 para las actividades ambientales; por tanto, la formulación más precisa es que el programa global se extiende del 28 al 31 de octubre.",
-        "La fuente oficial no utiliza literalmente todos los términos del resumen candidato, pero sí respalda los contenidos esenciales y la programación descrita."
+        "La propia Cadena SER indica que el Consorcio no había detallado cuántas de las 847 solicitudes correspondían específicamente a la Marina Alta.",
+        "Las dos corroboraciones periodísticas localizadas parecen apoyarse en la misma comunicación o datos del Consorcio; no se ha encontrado una tabla, nota o comunicado primario accesible con el desglose provincial exacto.",
+        "La cifra es de situación y puede aumentar conforme se registren nuevas reclamaciones."
       ],
-      "id": "inv_99fb8c40b010ca81",
-      "investigated_at": "2026-10-22T04:50:59.121Z",
+      "id": "inv_9f2c070282bebc83",
+      "investigated_at": "2026-10-22T10:13:43.329Z",
       "model": "gpt-5.6-luna"
     }
   ]
