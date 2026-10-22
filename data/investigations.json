@@ -1,86 +1,192 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-22T15:19:56.881Z",
+  "generated_at": "2026-10-22T20:09:13.542Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "552f61acccbfee545441bb2c59698ee28b987a62427ff20f9b8f1eecb6d93356",
-      "title": "La Marina Alta avanza en la recuperación de la DANA Adam entre daños, ayudas y reclamaciones por los cauces",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La noticia está suficientemente corroborada por Europa Press, À Punt y una fuente oficial del Ministerio del Interior. La DANA Adam afectó a la Marina Alta los días 18 y 19 de octubre de 2026; Els Poblets y Pego figuran entre los municipios más afectados, continúan las labores de limpieza y evaluación de daños, y la Generalitat aprobó un primer paquete de ayudas de 23,5 millones de euros. También están documentadas las reclamaciones municipales para mejorar la limpieza y mantenimiento de cauces. Debe corregirse la referencia temporal de “una semana después” del resumen: el 21 de octubre habían transcurrido aproximadamente dos días desde las lluvias más intensas.",
+      "candidate_fingerprint": "69cbb8c2842728ab469b0bed6d9bec6ad913a718cdedab1ee073f3c746e16f7d",
+      "title": "El alumnado del IES Ifac denuncia 20 días sin acceso a una fuente de agua potable",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "LOW",
+      "publishable": false,
+      "summary": "La noticia está respaldada únicamente por el relato publicado por Diari La Veu y por declaraciones atribuidas al alumnado y al Sindicat d’Estudiants. No se ha localizado corroboración independiente de la avería, de la fecha exacta de inicio ni de las deficiencias de las fuentes del patio, ni una respuesta verificable del instituto, del Ayuntamiento, de Aguas de Calpe o de la Conselleria d’Educació.",
       "claims": [
         {
-          "claim": "La DANA Adam afectó especialmente a la Marina Alta durante el domingo 18 y el lunes 19 de octubre de 2026.",
-          "status": "SUPPORTED"
+          "claim": "La única fuente de agua potable situada en el interior del IES Ifac no está disponible desde el 1 de octubre de 2026.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "Els Poblets y Pego estuvieron entre los municipios más afectados, con inundaciones, daños materiales, caminos intransitables y trabajos de recuperación todavía en marcha el 21 de octubre.",
-          "status": "SUPPORTED"
+          "claim": "El alumnado llevaba aproximadamente 20 días sin poder utilizar esa fuente el 21 de octubre de 2026.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "Los municipios afectados habilitaron oficinas de atención y los vecinos y voluntarios participaron en las labores de limpieza y recuperación.",
-          "status": "SUPPORTED"
+          "claim": "Las fuentes del patio presentan varias deficiencias: una no funciona, otra moja a los usuarios y otra funciona de forma irregular.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "La Generalitat aprobó un primer paquete de ayudas de 23,5 millones de euros, incluyendo hasta 6.000 euros para daños en vivienda habitual, 3.000 euros para segunda residencia, ayudas de hasta 200.000 euros para ayuntamientos y 800 euros mensuales durante un año para realojo.",
-          "status": "SUPPORTED"
+          "claim": "El alumnado trasladó sus quejas a responsables del centro y recibió indicaciones para dirigirse al Ayuntamiento o a la Conselleria d’Educació.",
+          "status": "UNVERIFIED"
         },
         {
-          "claim": "La recuperación reactivó las reclamaciones para limpiar y mantener ríos, barrancos y cauces, incluida la petición de actuaciones en el río Girona.",
+          "claim": "El Sindicat d’Estudiants reclama restablecer el acceso a agua potable y reparar las fuentes del patio.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los municipios seguían evaluando daños en caminos rurales, explotaciones agrícolas, infraestructuras y zonas económicas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La recuperación se producía una semana después de las inundaciones del 18 y 19 de octubre.",
-          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ministerio del Interior – Protección Civil y Emergencias",
-          "source_url": "https://www.interior.gob.es/opencms/en/detail-pages/article/Proteccion-Civil-y-Emergencias-mantiene-la-alerta-por-chubascos-y-tormentas-muy-fuertes-y-persistentes-en-el-litoral-mediterraneo-peninsular-y-Baleares/",
-          "evidence": "La alerta oficial identificó la DANA Adam y señaló que los días más adversos serían el domingo 18 y el lunes 19 de octubre de 2026, con riesgo de inundaciones y crecidas repentinas en el litoral mediterráneo, incluido Alicante.",
+          "source_name": "Diari La Veu",
+          "source_url": "https://www.diarilaveu.cat/societat/654329-654329/",
+          "evidence": "Publica las denuncias atribuidas al alumnado y al Sindicat d’Estudiants: la fuente interior no estaría disponible desde el 1 de octubre, las fuentes del patio presentarían distintos problemas y el alumnado habría trasladado sus quejas a responsables del centro. El artículo no aporta confirmación independiente ni una respuesta oficial de las administraciones o del instituto.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La propia información presenta varios extremos como testimonios del alumnado, no como hechos comprobados por mediciones o inspecciones.",
+        "La percepción de sabor a óxido no demuestra por sí sola que el agua incumpla los requisitos sanitarios.",
+        "Hace falta recabar la versión del IES Ifac, del Ayuntamiento de Calp, de Aguas de Calpe y de la Conselleria d’Educació."
+      ],
+      "id": "inv_464ef790e751046f",
+      "investigated_at": "2026-10-22T20:09:13.542Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "39472495d18c937bb984ebbcd4324f7309d97ddaa064639ca05291584f03a06c",
+      "title": "Calp inicia sus Moros y Cristianos del 50 aniversario con el reconocimiento de Fiesta de Interés Turístico Nacional",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "Los hechos esenciales están respaldados por el Ayuntamiento de Calp, por la programación turística municipal y por una cobertura independiente de Cadena SER. Las fiestas comenzaron el 21 de octubre de 2026, conmemoraban su 50 aniversario y se celebraban tras la declaración como Fiesta de Interés Turístico Nacional. El programa oficial confirma el pregón, el desfile infantil, la Gran Entrada del 24 de octubre y el desembarco y la segunda batalla del 25 de octubre. El programa municipal también contempla una misa de difuntos el 26 de octubre, por lo que la fórmula 21-25 describe los actos festivos principales, pero no la totalidad de actividades vinculadas al programa.",
+      "claims": [
+        {
+          "claim": "Las fiestas de Moros y Cristianos de Calp comenzaron el 21 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La edición conmemora el 50 aniversario de las fiestas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las fiestas recibieron la declaración de Fiesta de Interés Turístico Nacional.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa incluye pregón y actos tradicionales, entre ellos la entrada de bandas y la izada de estandartes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El viernes 23 se celebra el desfile infantil.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Gran Entrada Mora y Cristiana se celebra el sábado 24 de octubre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El domingo 25 se celebran el desembarco, la primera batalla y el Parlamento o segunda batalla de El Miracle.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las actividades principales se desarrollan del 21 al 25 de octubre, aunque el programa municipal añade una misa de difuntos el 26 de octubre.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+          "evidence": "Detalla el programa oficial del 21 al 25 de octubre: pregón e izada de estandartes, desfile infantil el día 23, Gran Entrada el día 24 y desembarco, primera batalla y El Miracle el día 25. También indica que la edición celebra el 50 aniversario y el reciente reconocimiento como Fiesta de Interés Turístico Nacional. Añade una misa de difuntos el 26 de octubre.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-municipios-marina-alta-alicante-afectados-dana-adam-siguen-trabajando-recuperar-normalidad-20261021162505.html",
-          "evidence": "El 21 de octubre informó de que Els Poblets y Pego continuaban recuperándose. Señaló inundaciones y daños materiales en Els Poblets, vías intransitables en Pego, oficinas de atención a afectados, voluntariado, caminos desaparecidos, desperfectos en naves y campos anegados.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
+          "evidence": "Informa de que el Ministerio de Industria y Turismo declaró las fiestas como Fiesta de Interés Turístico Nacional el 9 de septiembre de 2026 y vincula la celebración con el 50 aniversario y con sus principales actos tradicionales.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Radio Dénia - Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia/",
+          "evidence": "Cubre el inicio de las fiestas el 21 de octubre y confirma su carácter especial por el 50 aniversario y la declaración nacional. También sitúa la Gran Entrada Mora y Cristiana el sábado 24 y el desembarco y El Miracle el domingo 25.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "À Punt NTC",
-          "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
-          "evidence": "Informó el 20 de octubre de la aprobación por el Consell de un primer paquete de 23,5 millones de euros. Detalló ayudas de 6.000 euros para viviendas habituales afectadas, 3.000 euros para segundas residencias, hasta 200.000 euros para ayuntamientos y 800 euros mensuales durante doce meses para realojo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Valencia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/el-consell-aprobara-este-viernes-nuevas-ayudas-para-los-afectadas-de-la-dana-adam-radio-valencia/",
-          "evidence": "Corroboró el paquete de ayudas, la visita del president a zonas afectadas de la Marina Alta y la reclamación de planes e inversiones para el mantenimiento y limpieza de ríos y barrancos. También recogió la atribución municipal de parte del desbordamiento en Els Poblets a la acumulación de cañas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia/",
-          "evidence": "La fuente candidata documenta la continuidad de los trabajos de limpieza y evaluación de daños en Els Poblets, Pego, El Verger y Xàbia; las ayudas autonómicas; y las reclamaciones de Xàbia, Els Poblets y otros responsables públicos sobre la limpieza y adecuación de cauces, especialmente el río Girona.",
+          "source_name": "Tourist Info Calpe",
+          "source_url": "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
+          "evidence": "Registra oficialmente la programación de Moros y Cristianos de octubre de 2026 y fija el periodo general del evento del 21 al 26 de octubre, organizado por el Ayuntamiento, la Asociación de Moros y Cristianos y otras entidades festivas.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La cifra de 23,5 millones y el desglose de ayudas están corroborados por À Punt y Cadena SER, pero no se localizó en la búsqueda una resolución del DOGV o una nota directa de la Generalitat con el texto íntegro de la convocatoria.",
-        "La afirmación sobre la reclamación de actuaciones en los cauces está documentada como petición política o municipal; no prueba que la limpieza o las obras hayan sido ejecutadas ni que la vegetación causara por sí sola los desbordamientos.",
-        "El resumen original dice “una semana después”, pero la noticia está fechada el 21 de octubre y sitúa las lluvias principales en el 18 y 19 de octubre; la formulación correcta sería “dos o tres días después” o “en los días posteriores”."
+        "El titular y resumen indican del 21 al 25, mientras que la agenda turística municipal registra el evento del 21 al 26 y el programa incluye una misa de difuntos el día 26.",
+        "La declaración nacional está atribuida por el Ayuntamiento al Ministerio de Industria y Turismo; para una pieza de máxima precisión institucional convendría conservar también la resolución ministerial publicada oficialmente."
       ],
-      "id": "inv_583be55c7e9b7a02",
-      "investigated_at": "2026-10-22T15:19:56.881Z",
+      "id": "inv_91c80a43effc3a42",
+      "investigated_at": "2026-10-22T20:09:13.542Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "689d5a7d4a1eb5728cd83a3b8deae4689077a133b90d1d62aa78331f4466daf7",
+      "title": "À Punt retransmitirá en directo la Gran Entrada Mora y Cristiana de Calp",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La retransmisión está confirmada por la nota oficial de À Punt y por publicaciones independientes y municipales. La emisión estaba prevista para el sábado 24 de octubre de 2026 a las 18:45 horas, con cobertura de la Gran Entrada Cristiana y Mora desde la calle Benissa hasta la plaza Colón. Las fuentes también confirman que la edición festiva conmemora el 50 aniversario y la reciente declaración de Fiesta de Interés Turístico Nacional.",
+      "claims": [
+        {
+          "claim": "À Punt retransmitirá en directo la Gran Entrada Mora y Cristiana de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La retransmisión comenzará el sábado 24 de octubre de 2026 a las 18:45 horas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cobertura mostrará el recorrido desde la calle Benissa hasta la plaza Colón.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La retransmisión se integra en una programación especial vinculada al 50 aniversario de las fiestas y a su declaración como Fiesta de Interés Turístico Nacional.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cobertura contará con Ferrán Cano y Berta Báidez.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "À Punt",
+          "source_url": "https://www.apuntmedia.es/sala-de-premsa/notes-de-premsa/a-punt-retransmet-dissabte-directe-gran-entrada-cristiana-mora-calp_1_1903245.html",
+          "evidence": "La radiotelevisión pública valenciana anuncia una retransmisión en directo el sábado 24 de octubre a las 18:45 horas, desde la calle Benissa hasta la plaza Colón, de la Gran Entrada Cristiana y Mora. Identifica a Ferrán Cano como presentador y a Berta Báidez como reportera, y relaciona la emisión con el 50 aniversario y la declaración de Fiesta de Interés Turístico Nacional.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "El Periòdic",
+          "source_url": "https://www.elperiodic.com/punt-retransmite-este-sabado-directo-gran-entrada-cristiana-mora-calp_1098737",
+          "evidence": "Reproduce la información de la retransmisión: sábado 24 a las 18:45 horas, recorrido desde la calle Benissa hasta la plaza Colón y cobertura especial de la Gran Entrada Cristiana y Mora por el 50 aniversario y el reconocimiento turístico nacional.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "El canal municipal de comunicación de Calp anuncia que la Gran Entrada de Moros y Cristianos del 24 de octubre se podrá seguir por À Punt a partir de las 18:45 horas y también mediante la web y el canal de YouTube de la cadena.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Radio Dénia - Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia/",
+          "evidence": "Confirma de forma independiente que la Gran Entrada Mora y Cristiana está prevista para el sábado 24 de octubre dentro de la edición del 50 aniversario y del reciente reconocimiento como Fiesta de Interés Turístico Nacional.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "Las fuentes difieren ligeramente en la denominación del acto —‘Gran Entrada Mora y Cristiana’ y ‘Gran Entrada Cristiana y Mora’—, pero se refieren al mismo desfile.",
+        "La información verifica una retransmisión anunciada para el 24 de octubre; no acredita por sí sola que la emisión se haya producido efectivamente después de esa fecha."
+      ],
+      "id": "inv_d26f62ca2121eeee",
+      "investigated_at": "2026-10-22T20:09:13.542Z",
       "model": "gpt-5.6-luna"
     }
   ]

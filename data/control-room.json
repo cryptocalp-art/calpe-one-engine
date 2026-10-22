@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-22T15:20:49.622Z",
+  "generated_at": "2026-10-22T20:10:15.741Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-22T15:20:49.422Z",
+  "last_activity": "2026-10-22T20:10:15.531Z",
   "newspaper": {
     "archive_total": 112,
     "published_today": 1,
-    "published_last_7_days": 23,
+    "published_last_7_days": 22,
     "categories": {
       "SUCESOS": 17,
       "MEDIO_AMBIENTE": 20,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 0,
-    "quarantined": 1,
+    "drafts": 2,
+    "eligible": 2,
+    "quarantined": 0,
     "archive_added": 0
   },
   "delivery": {
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_7bf9c6bd80ff5c77",
-      "slug": "marina-alta-recuperacion-dana-adam-danos-ayudas",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-22T15:20:38.674Z"
-    }
-  ]
+  "quarantine": []
 }
