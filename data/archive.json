@@ -3,9 +3,89 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-22T20:10:04.971Z",
-  "count": 112,
+  "updated_at": "2026-10-22T23:25:53.229Z",
+  "count": 113,
   "articles": [
+    {
+      "archive_id": "arc_6eabd2d856af8bd6",
+      "external_id": "drf_362ae563d11fa467",
+      "investigation_id": "inv_b5d6deb72293688c",
+      "candidate_fingerprints": [
+        "f93ca24dd3c6f88f90cdec4df6c14e1b97a050c3eb29002895acfbe919107a93"
+      ],
+      "title": "La Generalitat activa la coordinación para la recuperación tras la DANA en la Marina Alta y la Safor",
+      "slug": "generalitat-coordina-recuperacion-dana-marina-alta-safor",
+      "summary": "La Generalitat activó el 22 de octubre los mecanismos de coordinación interdepartamental para gestionar la recuperación tras la DANA Adam en municipios afectados de la Marina Alta y la Safor. La actuación se articula a través de la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y de la Oficina Única Postemergencia.",
+      "body": "La Generalitat ha puesto en marcha los órganos de coordinación previstos para la fase de recuperación posterior a la DANA Adam en la Marina Alta y la Safor. La activación se produjo el 22 de octubre de 2026 e incluye la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y la Oficina Única Postemergencia.\n\nEstos instrumentos tienen como objetivo coordinar la respuesta de las distintas áreas de la administración, centralizar la información sobre los daños y tramitar o coordinar las ayudas destinadas a los municipios afectados. La Oficina Única Postemergencia también participa en el seguimiento de las actuaciones necesarias para avanzar hacia la recuperación y la vuelta a la normalidad.\n\nEl Consell había aprobado previamente un paquete inicial de ayudas de 23,5 millones de euros para las zonas afectadas de ambas comarcas. La cantidad está destinada a respaldar las actuaciones de recuperación tras el episodio, aunque la información disponible no permite atribuir a cada línea concreta un reparto completo con el mismo nivel de respaldo.\n\nEntre las prioridades operativas figuran la atención humanitaria, la recuperación de los servicios básicos, la habilitación y reparación de accesos, las tareas de limpieza y la reparación de daños. Estas actuaciones se desarrollan en municipios de la Marina Alta y la Safor afectados por la DANA.\n\nLa puesta en marcha de la Comisión y de la Oficina no supone la creación de nuevos órganos: ambos instrumentos administrativos ya están previstos en la normativa valenciana para coordinar la etapa posterior a una emergencia. Lo verificado en este caso es su activación o reunión para hacer seguimiento de la situación provocada por la DANA Adam.\n\nLa recuperación también incluye trabajos como la limpieza de viviendas y garajes, la retirada de vehículos, la reparación de infraestructuras y la recuperación de caminos rurales, según la cobertura sobre las tareas que se están llevando a cabo en las dos comarcas. Los municipios han reclamado medios y agilidad para evaluar los daños y tramitar las ayudas.",
+      "category": "SUCESOS",
+      "seo_title": "La Generalitat coordina la recuperación tras la DANA en la Marina Alta",
+      "meta_description": "La Generalitat activa la Comisión Interdepartamental y la Oficina Única para coordinar la recuperación tras la DANA Adam en la Marina Alta y la Safor.",
+      "sources": [
+        {
+          "name": "La Marina Alta",
+          "url": "https://lamarinaalta.com/la-generalitat-activa-un-plan-unificado-para-recuperar-las-zonas-afectadas-por-la-dana-en-la-marina-alta-y-la-safor/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "À Punt NTC",
+          "url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Cadena SER, Radio Valencia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/los-alcaldes-de-la-safor-y-la-marina-alta-reclaman-manos-y-agilidad-administrativa-para-acelerar-la-recuperacion-tras-la-dana-radio-valencia/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Boletín Oficial del Estado, Ley 13/2010 de Protección Civil y Gestión de Emergencias",
+          "url": "https://www.boe.es/buscar/pdf/2010/BOE-A-2010-19046-consolidado.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "DOGV, modificación del Decreto 163/2016",
+          "url": "https://dogv.gva.es/datos/2025/01/29/pdf/2025_938_es.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Agenda pública de la Generalitat Valenciana",
+          "url": "https://simple.agend.as/ag/generalitat-valenciana?fecha=20261022",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarinaalta.com/la-generalitat-activa-un-plan-unificado-para-recuperar-las-zonas-afectadas-por-la-dana-en-la-marina-alta-y-la-safor",
+        "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/21/los-alcaldes-de-la-safor-y-la-marina-alta-reclaman-manos-y-agilidad-administrativa-para-acelerar-la-recuperacion-tras-la-dana-radio-valencia",
+        "https://www.boe.es/buscar/pdf/2010/BOE-A-2010-19046-consolidado.pdf",
+        "https://dogv.gva.es/datos/2025/01/29/pdf/2025_938_es.pdf",
+        "https://simple.agend.as/ag/generalitat-valenciana?fecha=20261022"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 6,
+        "evidence_count": 6,
+        "caveats": [
+          "No se localizó durante la búsqueda una nota de prensa oficial de gva.es o presidencia.gva.es que reproduzca íntegramente el anuncio del 22 de octubre de 2026.",
+          "La cifra de 23,5 millones está corroborada independientemente, pero la descripción exacta del reparto de 17,5 millones para municipios y 6 millones para particulares procede principalmente de la noticia candidata y de coberturas derivadas del anuncio del Consell.",
+          "La existencia legal de la Comisión y la Oficina es anterior a la DANA Adam; lo que se verifica para este caso concreto es su activación o reunión para gestionar esta emergencia."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_c9e7e94cf388d6a2",
+        "quality_gate_evaluated_at": "2026-10-22T23:25:52.934Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No se localizó una nota oficial de la Generalitat que reproduzca íntegramente el anuncio del 22 de octubre de 2026; mantener un lenguaje prudente sobre los detalles del operativo.",
+        "La cifra global de 23,5 millones está corroborada, pero no debe presentarse en el texto un desglose concreto por partidas sin respaldo adicional.",
+        "La Comisión y la Oficina son órganos administrativos preexistentes; lo específico de este caso es su activación o reunión para gestionar la recuperación tras la DANA Adam."
+      ],
+      "published_at": "2026-10-22T23:25:43.730Z",
+      "updated_at": "2026-10-22T23:25:53.229Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_d40f7eac5a6c5029",
       "external_id": "drf_6c08c146c1d0479b",

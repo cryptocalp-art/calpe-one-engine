@@ -1,192 +1,88 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-22T20:09:13.542Z",
+  "generated_at": "2026-10-22T23:25:09.538Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "69cbb8c2842728ab469b0bed6d9bec6ad913a718cdedab1ee073f3c746e16f7d",
-      "title": "El alumnado del IES Ifac denuncia 20 días sin acceso a una fuente de agua potable",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "LOW",
-      "publishable": false,
-      "summary": "La noticia está respaldada únicamente por el relato publicado por Diari La Veu y por declaraciones atribuidas al alumnado y al Sindicat d’Estudiants. No se ha localizado corroboración independiente de la avería, de la fecha exacta de inicio ni de las deficiencias de las fuentes del patio, ni una respuesta verificable del instituto, del Ayuntamiento, de Aguas de Calpe o de la Conselleria d’Educació.",
-      "claims": [
-        {
-          "claim": "La única fuente de agua potable situada en el interior del IES Ifac no está disponible desde el 1 de octubre de 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El alumnado llevaba aproximadamente 20 días sin poder utilizar esa fuente el 21 de octubre de 2026.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Las fuentes del patio presentan varias deficiencias: una no funciona, otra moja a los usuarios y otra funciona de forma irregular.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El alumnado trasladó sus quejas a responsables del centro y recibió indicaciones para dirigirse al Ayuntamiento o a la Conselleria d’Educació.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Sindicat d’Estudiants reclama restablecer el acceso a agua potable y reparar las fuentes del patio.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Diari La Veu",
-          "source_url": "https://www.diarilaveu.cat/societat/654329-654329/",
-          "evidence": "Publica las denuncias atribuidas al alumnado y al Sindicat d’Estudiants: la fuente interior no estaría disponible desde el 1 de octubre, las fuentes del patio presentarían distintos problemas y el alumnado habría trasladado sus quejas a responsables del centro. El artículo no aporta confirmación independiente ni una respuesta oficial de las administraciones o del instituto.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La propia información presenta varios extremos como testimonios del alumnado, no como hechos comprobados por mediciones o inspecciones.",
-        "La percepción de sabor a óxido no demuestra por sí sola que el agua incumpla los requisitos sanitarios.",
-        "Hace falta recabar la versión del IES Ifac, del Ayuntamiento de Calp, de Aguas de Calpe y de la Conselleria d’Educació."
-      ],
-      "id": "inv_464ef790e751046f",
-      "investigated_at": "2026-10-22T20:09:13.542Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "39472495d18c937bb984ebbcd4324f7309d97ddaa064639ca05291584f03a06c",
-      "title": "Calp inicia sus Moros y Cristianos del 50 aniversario con el reconocimiento de Fiesta de Interés Turístico Nacional",
+      "candidate_fingerprint": "f93ca24dd3c6f88f90cdec4df6c14e1b97a050c3eb29002895acfbe919107a93",
+      "title": "La Generalitat activa un plan unificado para recuperar las zonas afectadas por la DANA en la Marina Alta y La Safor",
       "status": "VERIFIED",
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "Los hechos esenciales están respaldados por el Ayuntamiento de Calp, por la programación turística municipal y por una cobertura independiente de Cadena SER. Las fiestas comenzaron el 21 de octubre de 2026, conmemoraban su 50 aniversario y se celebraban tras la declaración como Fiesta de Interés Turístico Nacional. El programa oficial confirma el pregón, el desfile infantil, la Gran Entrada del 24 de octubre y el desembarco y la segunda batalla del 25 de octubre. El programa municipal también contempla una misa de difuntos el 26 de octubre, por lo que la fórmula 21-25 describe los actos festivos principales, pero no la totalidad de actividades vinculadas al programa.",
+      "summary": "La información queda suficientemente respaldada en sus hechos esenciales. La Generalitat activó el 22 de octubre de 2026 los órganos de coordinación de la postemergencia para la DANA Adam, con participación de la Comisión Interdepartamental y la Oficina Única Postemergencia. El paquete inicial de ayudas de 23,5 millones de euros está corroborado de forma independiente por À Punt. Las prioridades operativas descritas —ayuda humanitaria, achiques, recuperación de suministros, accesos, limpieza y reparación de daños— son coherentes con las funciones legales de estos órganos y con la cobertura independiente sobre la recuperación en la Marina Alta y La Safor. No se ha localizado en la búsqueda una nota de prensa oficial de la Generalitat que detalle todo el anuncio del 22 de octubre, por lo que la confianza no se eleva a alta.",
       "claims": [
         {
-          "claim": "Las fiestas de Moros y Cristianos de Calp comenzaron el 21 de octubre de 2026.",
+          "claim": "La Generalitat activó el 22 de octubre de 2026 mecanismos de coordinación interdepartamental para la recuperación tras la DANA Adam en la Marina Alta y La Safor.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La edición conmemora el 50 aniversario de las fiestas.",
+          "claim": "La activación incluyó la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y la Oficina Única Postemergencia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las fiestas recibieron la declaración de Fiesta de Interés Turístico Nacional.",
+          "claim": "El Consell había aprobado un paquete inicial de ayudas de 23,5 millones de euros para las zonas afectadas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El programa incluye pregón y actos tradicionales, entre ellos la entrada de bandas y la izada de estandartes.",
+          "claim": "Las actuaciones prioritarias incluían accesos, limpieza, reparación de daños, servicios básicos y atención humanitaria.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El viernes 23 se celebra el desfile infantil.",
+          "claim": "La Comisión y la Oficina sirven para coordinar la recuperación, centralizar información y tramitar o coordinar ayudas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Gran Entrada Mora y Cristiana se celebra el sábado 24 de octubre.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El domingo 25 se celebran el desembarco, la primera batalla y el Parlamento o segunda batalla de El Miracle.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las actividades principales se desarrollan del 21 al 25 de octubre, aunque el programa municipal añade una misa de difuntos el 26 de octubre.",
+          "claim": "Las ayudas y actuaciones se aplicaban a municipios afectados de la Marina Alta y La Safor.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
-          "evidence": "Detalla el programa oficial del 21 al 25 de octubre: pregón e izada de estandartes, desfile infantil el día 23, Gran Entrada el día 24 y desembarco, primera batalla y El Miracle el día 25. También indica que la edición celebra el 50 aniversario y el reciente reconocimiento como Fiesta de Interés Turístico Nacional. Añade una misa de difuntos el 26 de octubre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/las-fiestas-de-moros-y-cristianos-de-calp-declaradas-fiesta-de-inter%C3%A9s-tur%C3%ADstico-nacional",
-          "evidence": "Informa de que el Ministerio de Industria y Turismo declaró las fiestas como Fiesta de Interés Turístico Nacional el 9 de septiembre de 2026 y vincula la celebración con el 50 aniversario y con sus principales actos tradicionales.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Radio Dénia - Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia/",
-          "evidence": "Cubre el inicio de las fiestas el 21 de octubre y confirma su carácter especial por el 50 aniversario y la declaración nacional. También sitúa la Gran Entrada Mora y Cristiana el sábado 24 y el desembarco y El Miracle el domingo 25.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/la-generalitat-activa-un-plan-unificado-para-recuperar-las-zonas-afectadas-por-la-dana-en-la-marina-alta-y-la-safor/",
+          "evidence": "La noticia, publicada el 22 de octubre de 2026, informa de la activación de la Comisión Interdepartamental y de la Oficina Única Postemergencia, de una partida inicial de 23,5 millones y de actuaciones en atención humanitaria, servicios en edificios, accesos, limpieza y reparación de daños. Es la fuente candidata y no constituye corroboración independiente por sí sola.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Tourist Info Calpe",
-          "source_url": "https://www.calpe.es/es/eventos/programacion-moros-y-cristianos-octubre-2026",
-          "evidence": "Registra oficialmente la programación de Moros y Cristianos de octubre de 2026 y fija el periodo general del evento del 21 al 26 de octubre, organizado por el Ayuntamiento, la Asociación de Moros y Cristianos y otras entidades festivas.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "El titular y resumen indican del 21 al 25, mientras que la agenda turística municipal registra el evento del 21 al 26 y el programa incluye una misa de difuntos el día 26.",
-        "La declaración nacional está atribuida por el Ayuntamiento al Ministerio de Industria y Turismo; para una pieza de máxima precisión institucional convendría conservar también la resolución ministerial publicada oficialmente."
-      ],
-      "id": "inv_91c80a43effc3a42",
-      "investigated_at": "2026-10-22T20:09:13.542Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "689d5a7d4a1eb5728cd83a3b8deae4689077a133b90d1d62aa78331f4466daf7",
-      "title": "À Punt retransmitirá en directo la Gran Entrada Mora y Cristiana de Calp",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La retransmisión está confirmada por la nota oficial de À Punt y por publicaciones independientes y municipales. La emisión estaba prevista para el sábado 24 de octubre de 2026 a las 18:45 horas, con cobertura de la Gran Entrada Cristiana y Mora desde la calle Benissa hasta la plaza Colón. Las fuentes también confirman que la edición festiva conmemora el 50 aniversario y la reciente declaración de Fiesta de Interés Turístico Nacional.",
-      "claims": [
-        {
-          "claim": "À Punt retransmitirá en directo la Gran Entrada Mora y Cristiana de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La retransmisión comenzará el sábado 24 de octubre de 2026 a las 18:45 horas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La cobertura mostrará el recorrido desde la calle Benissa hasta la plaza Colón.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La retransmisión se integra en una programación especial vinculada al 50 aniversario de las fiestas y a su declaración como Fiesta de Interés Turístico Nacional.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La cobertura contará con Ferrán Cano y Berta Báidez.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "À Punt",
-          "source_url": "https://www.apuntmedia.es/sala-de-premsa/notes-de-premsa/a-punt-retransmet-dissabte-directe-gran-entrada-cristiana-mora-calp_1_1903245.html",
-          "evidence": "La radiotelevisión pública valenciana anuncia una retransmisión en directo el sábado 24 de octubre a las 18:45 horas, desde la calle Benissa hasta la plaza Colón, de la Gran Entrada Cristiana y Mora. Identifica a Ferrán Cano como presentador y a Berta Báidez como reportera, y relaciona la emisión con el 50 aniversario y la declaración de Fiesta de Interés Turístico Nacional.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "El Periòdic",
-          "source_url": "https://www.elperiodic.com/punt-retransmite-este-sabado-directo-gran-entrada-cristiana-mora-calp_1098737",
-          "evidence": "Reproduce la información de la retransmisión: sábado 24 a las 18:45 horas, recorrido desde la calle Benissa hasta la plaza Colón y cobertura especial de la Gran Entrada Cristiana y Mora por el 50 aniversario y el reconocimiento turístico nacional.",
+          "source_name": "À Punt NTC",
+          "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
+          "evidence": "Informa el 20 de octubre de 2026 de la aprobación por el Consell de un primer paquete de 23,5 millones para afectados de la Marina Alta y La Safor. Detalla ayudas de hasta 6.000 euros para bienes esenciales, hasta 200.000 euros para ayuntamientos, ayudas de realojo de 800 euros durante doce meses y una solicitud única. También recoge el compromiso de coordinación durante la fase de reconstrucción.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/page/4/",
-          "evidence": "El canal municipal de comunicación de Calp anuncia que la Gran Entrada de Moros y Cristianos del 24 de octubre se podrá seguir por À Punt a partir de las 18:45 horas y también mediante la web y el canal de YouTube de la cadena.",
+          "source_name": "Cadena SER, Radio Valencia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/los-alcaldes-de-la-safor-y-la-marina-alta-reclaman-manos-y-agilidad-administrativa-para-acelerar-la-recuperacion-tras-la-dana-radio-valencia/",
+          "evidence": "Describe de forma independiente las tareas de recuperación en municipios de ambas comarcas: limpieza de viviendas y garajes, retirada de vehículos, reparación de infraestructuras y recuperación de caminos rurales. También recoge las demandas municipales de más medios para evaluar daños y tramitar ayudas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Boletín Oficial del Estado, Ley 13/2010 de Protección Civil y Gestión de Emergencias",
+          "source_url": "https://www.boe.es/buscar/pdf/2010/BOE-A-2010-19046-consolidado.pdf",
+          "evidence": "La legislación valenciana consolidada establece la existencia de la Oficina Única Postemergencia y de la Comisión Interdepartamental para el Seguimiento y Coordinación de la Postemergencia. Atribuye a la Oficina funciones de recopilar daños, coordinar actuaciones, centralizar solicitudes de ayudas y seguir la vuelta a la normalidad.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Radio Dénia - Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/calp-arranca-unos-moros-y-cristianos-historicos-por-su-50-aniversario-y-su-reconocimiento-nacional-radio-denia/",
-          "evidence": "Confirma de forma independiente que la Gran Entrada Mora y Cristiana está prevista para el sábado 24 de octubre dentro de la edición del 50 aniversario y del reciente reconocimiento como Fiesta de Interés Turístico Nacional.",
+          "source_name": "DOGV, modificación del Decreto 163/2016",
+          "source_url": "https://dogv.gva.es/datos/2025/01/29/pdf/2025_938_es.pdf",
+          "evidence": "El DOGV regula la composición y funcionamiento de la Comisión Interdepartamental y de la Oficina Única Postemergencia, confirmando que son instrumentos administrativos vigentes para el seguimiento y coordinación de actuaciones posteriores a una emergencia.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Agenda pública de la Generalitat Valenciana",
+          "source_url": "https://simple.agend.as/ag/generalitat-valenciana?fecha=20261022",
+          "evidence": "Registra para el 22 de octubre de 2026 una reunión dirigida por Juan Carlos Valderrama de la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y de la Oficina Única Postemergencia. Aporta apoyo adicional a la celebración de la reunión, aunque no es el portal oficial de la Generalitat.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las fuentes difieren ligeramente en la denominación del acto —‘Gran Entrada Mora y Cristiana’ y ‘Gran Entrada Cristiana y Mora’—, pero se refieren al mismo desfile.",
-        "La información verifica una retransmisión anunciada para el 24 de octubre; no acredita por sí sola que la emisión se haya producido efectivamente después de esa fecha."
+        "No se localizó durante la búsqueda una nota de prensa oficial de gva.es o presidencia.gva.es que reproduzca íntegramente el anuncio del 22 de octubre de 2026.",
+        "La cifra de 23,5 millones está corroborada independientemente, pero la descripción exacta del reparto de 17,5 millones para municipios y 6 millones para particulares procede principalmente de la noticia candidata y de coberturas derivadas del anuncio del Consell.",
+        "La existencia legal de la Comisión y la Oficina es anterior a la DANA Adam; lo que se verifica para este caso concreto es su activación o reunión para gestionar esta emergencia."
       ],
-      "id": "inv_d26f62ca2121eeee",
-      "investigated_at": "2026-10-22T20:09:13.542Z",
+      "id": "inv_b5d6deb72293688c",
+      "investigated_at": "2026-10-22T23:25:09.538Z",
       "model": "gpt-5.6-luna"
     }
   ]

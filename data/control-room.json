@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-22T20:10:15.741Z",
+  "generated_at": "2026-10-22T23:26:09.981Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-22T20:10:15.531Z",
+  "last_activity": "2026-10-22T23:26:09.797Z",
   "newspaper": {
-    "archive_total": 112,
+    "archive_total": 113,
     "published_today": 1,
-    "published_last_7_days": 22,
+    "published_last_7_days": 23,
     "categories": {
-      "SUCESOS": 17,
+      "SUCESOS": 18,
       "MEDIO_AMBIENTE": 20,
       "ECONOMIA": 17,
       "DEPORTES": 5,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_6eabd2d856af8bd6",
+        "title": "La Generalitat activa la coordinación para la recuperación tras la DANA en la Marina Alta y la Safor",
+        "category": "SUCESOS",
+        "slug": "generalitat-coordina-recuperacion-dana-marina-alta-safor",
+        "published_at": "2026-10-22T23:25:43.730Z"
+      },
       {
         "archive_id": "arc_d40f7eac5a6c5029",
         "title": "La DANA Adam suma 847 solicitudes de indemnización en Alicante",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "calp-fuera-confinamiento-dana-adam-alerta-amarilla",
         "published_at": "2026-10-20T00:23:38.720Z"
-      },
-      {
-        "archive_id": "arc_646b43f9e41f947e",
-        "title": "Las inundaciones mantienen cortadas 17 carreteras en la Marina Alta y otras comarcas",
-        "category": "TURISMO",
-        "slug": "17-carreteras-cortadas-inundaciones-marina-alta",
-        "published_at": "2026-10-19T21:05:45.057Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
