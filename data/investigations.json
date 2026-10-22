@@ -1,140 +1,115 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-21T23:22:41.859Z",
+  "generated_at": "2026-10-22T04:50:59.121Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "a1fd6b36fa9c08b859553a47869c17b2e3dd246b50663a71843a1a983206d581",
-      "title": "Protección Civil y Policía Local de Calp se desplazan a Oliva y Els Poblets para colaborar tras la DANA Adam",
+      "candidate_fingerprint": "0d721bee28f391e43d1ed186647b8aa3f26c4d6bea45eb2fe0b7967e00c723ad",
+      "title": "El mercado de los sábados de Calp se adelanta al viernes 23 de octubre por el desfile festero",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La publicación oficial de Calp Comunica respalda que Protección Civil de Calp se desplazó a Oliva con una motobomba y que una patrulla de la Policía Local acudió a Els Poblets. También detalla tareas de achique, traslado de personas, reparto de alimentos y vigilancia preventiva en comercios afectados. La DANA Adam y la situación de emergencia en Oliva y Els Poblets están corroboradas por medios independientes, pero no se ha localizado una fuente independiente que confirme específicamente el despliegue de efectivos de Calp ni todas las tareas descritas.",
+      "summary": "El Ayuntamiento de Calp publicó el aviso según el cual el mercado de alimentación de la calle Petit, previsto para el sábado 24 de octubre de 2026, se adelanta al viernes 23, mientras que el mercado de la avenida Rumanía mantiene su celebración habitual. La información está respaldada por el aviso municipal y por su reproducción en el canal oficial de Telegram, pero esta última procede de la misma fuente y no constituye corroboración independiente. Se ha confirmado oficialmente que el desfile infantil se celebra el viernes 23 y la entrada mora y cristiana el sábado 24, contexto compatible con el cambio, aunque falta una fuente independiente que confirme la modificación concreta del mercado.",
       "claims": [
         {
-          "claim": "Protección Civil de Calp se desplazó a Oliva tras la DANA Adam.",
+          "claim": "El mercado de alimentación situado en el aparcamiento de la calle Petit, previsto para el sábado 24 de octubre de 2026, se adelanta al viernes 23 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Protección Civil trasladó a Oliva una motobomba de achique solicitada por el municipio.",
+          "claim": "El mercado de la avenida Rumanía mantiene su celebración habitual.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los voluntarios colaboraron en el traslado de personas desde campings a zonas seguras y centros de salud, y en el reparto de alimentos.",
+          "claim": "El cambio se debe a los actos de las fiestas de Moros y Cristianos y, en particular, a la programación festera del fin de semana.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Una patrulla de la Policía Local de Calp se desplazó a Els Poblets.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La patrulla realizó labores preventivas de vigilancia, especialmente en comercios y establecimientos afectados por la riada, para evitar robos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La DANA Adam provocó inundaciones graves en Oliva y Els Poblets.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Existe corroboración independiente del despliegue concreto de medios de Calp y de las tareas detalladas.",
+          "claim": "Existe corroboración independiente de la modificación concreta del mercado.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp – Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%A8%F0%9F%A4%9D-proteccion-civil-y-policia-local-de-calp-colaboran-con-los-municipios-afectados-por-la-dana-adam/",
-          "evidence": "La nota oficial, fechada el 21 de octubre de 2026, afirma que Protección Civil de Calp se desplazó a Oliva con una motobomba de achique y que sus voluntarios ayudaron sobre el terreno. También afirma que la Policía Local envió una patrulla a Els Poblets para apoyar a la población y realizar vigilancia preventiva en comercios afectados.",
+          "source_name": "Ayuntamiento de Calp — Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/event/%f0%9f%9b%92-el-mercado-de-los-sabados-se-adelanta-al-viernes-23-de-octubre-por-las-fiestas-de-moros-y-cristianos/?lang=es",
+          "evidence": "El aviso municipal indica que el mercado de alimentación de los sábados ubicado en el aparcamiento de la calle Petit, correspondiente al sábado 24 de octubre de 2026, se adelanta al viernes 23 de octubre. También indica que el mercado de la avenida Rumanía se celebrará con normalidad.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp – Calp Comunica, página de noticias",
-          "source_url": "https://calpcomunica.calp.es/page/4/",
-          "evidence": "El índice del sitio reproduce el contenido de la nota: desplazamiento de Protección Civil a Oliva, traslado de una motobomba, apoyo a personas procedentes de campings, reparto de alimentos y envío de una patrulla de Policía Local a Els Poblets.",
+          "source_name": "Ayuntamiento de Calp — canal oficial de Telegram",
+          "source_url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+          "evidence": "El canal oficial reproduce el mismo aviso: adelanto al viernes 23 de octubre del mercado de alimentación de la calle Petit y celebración normal del mercado de la avenida Rumanía. Es una republicación del Ayuntamiento, no una fuente independiente.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/sociedad/noticia-adam-ceba-valenciana-muertos-deja-cortes-luz-carreteras-cortadas-baleares-20261019153410.html",
-          "evidence": "La información independiente describe inundaciones y una situación crítica en Oliva y Els Poblets tras el paso de la DANA Adam, incluyendo rescates y daños en ambos municipios. No menciona la intervención de medios de Calp.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "La Marina Alta – elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/20/tras-la-dana-la-solidaridad-la-ciudadania-se-moviliza-para-llevar-material-y-limpiar-en-los-municipios-afectados-de-la-marina-alta-y-la-safor/",
-          "evidence": "La crónica independiente confirma que Els Poblets, Oliva y otros municipios de la Marina Alta y la Safor seguían afectados por las inundaciones y que se desarrollaban labores de ayuda y limpieza. No confirma específicamente el despliegue de Calp.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp — Noticias",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+          "evidence": "La programación oficial sitúa el desfile infantil el viernes 23 de octubre y la Gran Entrada Cristiana y Mora el sábado 24 de octubre, confirmando el contexto festero alegado en el aviso del mercado.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La confirmación del despliegue de Protección Civil y Policía Local de Calp procede únicamente de una comunicación municipal y de su reproducción en el propio sitio oficial; ambas no constituyen corroboración independiente.",
-        "Las fuentes independientes consultadas confirman la emergencia en Oliva y Els Poblets, pero no el envío de la motobomba, la patrulla de Calp ni las tareas concretas descritas.",
-        "Para publicar como información plenamente corroborada convendría obtener confirmación del Ayuntamiento de Oliva, del Ayuntamiento de Els Poblets, de los cuerpos receptores o material verificable del operativo."
+        "La segunda evidencia municipal es una reproducción del mismo comunicado, no una corroboración independiente.",
+        "No se ha localizado una publicación independiente de comerciantes, medios locales o una fuente administrativa distinta que confirme específicamente el cambio del mercado de la calle Petit.",
+        "La noticia no debería publicarse como plenamente verificada hasta obtener esa corroboración o una confirmación adicional del Ayuntamiento sobre la aplicación efectiva del cambio."
       ],
-      "id": "inv_a6c58f1976628325",
-      "investigated_at": "2026-10-21T23:22:41.859Z",
+      "id": "inv_c24383d0c1e826f7",
+      "investigated_at": "2026-10-22T04:50:59.121Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "2bcd4ec8e5c0ff6fb2be876f5df2a8cf6e53d6efa49f78cb98fffe40031f90cd",
-      "title": "Calp publica el listado provisional de las ayudas a la rehabilitación de fachadas",
+      "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
+      "title": "Calp acogerá del 28 al 31 de octubre las III Jornadas Medioambientales del Mar Calp Blau",
       "status": "VERIFIED",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "publishable": true,
-      "summary": "La sede electrónica oficial del Ayuntamiento de Calp registra un edicto con el listado provisional de solicitudes admitidas, pendientes de subsanar y excluidas de las ayudas de rehabilitación de fachadas de 2026. El anuncio municipal fija el plazo del 21 de octubre al 4 de noviembre de 2026. La información esencial queda respaldada por dos páginas oficiales del Ayuntamiento; no se ha localizado una publicación independiente, pero en este caso la fuente primaria administrativa es la referencia competente.",
+      "summary": "La celebración de las III Jornadas Medioambientales del Mar Calp Blau en Calp está confirmada por la agenda oficial de Tourist Info Calpe y por una información de Calp Digital. Las actividades principales se desarrollan del miércoles 28 al viernes 30 de octubre de 2026 en el Real Club Náutico de Calp, y el sábado 31 se celebra una jornada de limpieza, voluntariado y talleres en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp publicó un listado provisional de solicitudes de ayudas a la rehabilitación de fachadas de 2026.",
+          "claim": "Calp celebrará las III Jornadas Medioambientales del Mar Calp Blau del 28 al 31 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El listado incluye solicitudes admitidas, pendientes de subsanar y excluidas.",
+          "claim": "Las jornadas reunirán contenidos sobre turismo azul, biodiversidad, restauración de ecosistemas y sostenibilidad.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plazo indicado va del 21 de octubre al 4 de noviembre de 2026, ambos incluidos.",
+          "claim": "Las sesiones del 28 al 30 de octubre tendrán como sede el Real Club Náutico de Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plazo corresponde exactamente a la presentación de alegaciones.",
-          "status": "UNVERIFIED"
+          "claim": "El sábado 31 de octubre habrá una jornada de limpieza y voluntariado en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Sede Electrónica del Ayuntamiento de Calp – Tablón de anuncios",
-          "source_url": "https://calp.sedelectronica.es/board",
-          "evidence": "El tablón oficial registra el 20 de octubre de 2026 el edicto titulado “Edicto lista provisional solicitudes admitidas, pendientes de subsanar y excluidas rehabilitacion fachadas 2026”. La descripción indica expresamente un plazo de subsanación del 21/10/26 al 04/11/26, ambos incluidos.",
+          "source_name": "Tourist Info Calpe — agenda oficial",
+          "source_url": "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
+          "evidence": "La agenda oficial identifica el evento como organizado por el Ayuntamiento de Calp y Calp Blau. Programa sesiones del 28, 29 y 30 de octubre en el Real Club Náutico de Calp y fija para el sábado 31, de 10:00 a 13:00, la limpieza del fondo marino, la limpieza terrestre, el atado de fragmentos de Posidonia y talleres sobre fauna marina y Posidonia en el Paseo Princesa de Asturias y Cala del Racó.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Sede Electrónica del Ayuntamiento de Calp – Documento del edicto",
-          "source_url": "https://calp.sedelectronica.es/preview-document/494881ef-c93b-4ec9-ad25-e9498b9a98a0",
-          "evidence": "La ficha oficial identifica el documento como un edicto sobre la lista provisional de solicitudes admitidas, pendientes de subsanar y excluidas de la rehabilitación de fachadas 2026. Indica que es un documento electrónico en formato PDF, creado el 20 de octubre de 2026, con código CSV 7ERXCAAHNA7RHTXDSWAAZTE4J.",
-          "source_type": "PRIMARY"
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+          "evidence": "La información periodística anuncia las III Jornadas Medioambientales del Mar Calp Blau del 28 al 31 de octubre y describe tres días de conferencias y mesas redondas en el Real Club Náutico, seguidos el sábado 31 por una jornada de limpieza, voluntariado y talleres ambientales en Cala del Racó. Detalla los ejes de turismo azul, biodiversidad, cambio climático, restauración de ecosistemas y buenas prácticas ambientales.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp – Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/evento/ayudas-a-la-rehabilitacion-de-fachadas/",
-          "evidence": "La página oficial de Calp Comunica está fechada el 21 de octubre de 2026 y enlaza directamente al tablón de anuncios de la sede electrónica municipal para consultar la publicación.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica – página de noticias",
-          "source_url": "https://calpcomunica.calp.es/page/4/",
-          "evidence": "El índice oficial informa de que ya puede consultarse el listado provisional de solicitudes admitidas, pendientes de subsanar y excluidas de las líneas 1 y 2, y señala como plazo del 21 de octubre al 4 de noviembre, ambos incluidos.",
+          "source_name": "Ayuntamiento de Calp — Noticias",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
+          "evidence": "Una noticia municipal publicada el 2 de octubre de 2026 identifica las jornadas medioambientales del mar Calp Blau como una de las actuaciones del proyecto municipal, confirmando su continuidad dentro de la estrategia ambiental de Calp.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La sede electrónica utiliza la expresión “plazo de subsanación”, mientras que el resumen del candidato habla de “plazo de alegaciones”. Conviene mantener la terminología exacta del edicto o consultar el PDF completo antes de publicar una formulación jurídica más precisa.",
-        "La copia visualizable del PDF devolvió un error de acceso durante la comprobación, aunque la ficha oficial del documento y el tablón municipal sí son accesibles y describen su contenido.",
-        "No se ha encontrado una fuente independiente; la verificación se basa en el registro administrativo primario del Ayuntamiento de Calp, que es la fuente competente para esta publicación."
+        "La agenda oficial presenta las sesiones principales como celebradas del 28 al 30 de octubre y reserva el sábado 31 para las actividades ambientales; por tanto, la formulación más precisa es que el programa global se extiende del 28 al 31 de octubre.",
+        "La fuente oficial no utiliza literalmente todos los términos del resumen candidato, pero sí respalda los contenidos esenciales y la programación descrita."
       ],
-      "id": "inv_0a645ac3d5bff47f",
-      "investigated_at": "2026-10-21T23:22:41.859Z",
+      "id": "inv_99fb8c40b010ca81",
+      "investigated_at": "2026-10-22T04:50:59.121Z",
       "model": "gpt-5.6-luna"
     }
   ]

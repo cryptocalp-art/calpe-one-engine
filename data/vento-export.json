@@ -3,26 +3,141 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-21T23:23:40.828Z",
+  "generated_at": "2026-10-22T04:51:30.599Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 1,
-  "ready_count": 0,
-  "quarantined_count": 1,
-  "ready": [],
-  "quarantined": [
+  "ready_count": 1,
+  "quarantined_count": 0,
+  "ready": [
     {
-      "export_id": "exp_ef3fc401ebeaf49a",
-      "draft_id": "drf_5b7f72c51f61c6cc",
-      "investigation_id": "inv_0a645ac3d5bff47f",
-      "slug": "calp-listado-provisional-ayudas-rehabilitacion-fachadas-2026",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
-      ]
+      "export_id": "exp_c70053be07ccb8ce",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-22T04:51:30.599Z",
+      "source_draft_id": "drf_8df636ee60c87ef0",
+      "source_investigation_id": "inv_99fb8c40b010ca81",
+      "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
+      "quality_gate_id": "qg_0c21cf909b25cc55",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_8df636ee60c87ef0",
+        "investigation_id": "inv_99fb8c40b010ca81",
+        "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
+        "title": "Calp celebrará del 28 al 31 de octubre las III Jornadas Medioambientales del Mar Calp Blau",
+        "subtitle": "El programa incluirá sesiones sobre turismo azul y biodiversidad, además de una jornada de limpieza y voluntariado en Cala del Racó",
+        "summary": "Calp acogerá del miércoles 28 al sábado 31 de octubre de 2026 las III Jornadas Medioambientales del Mar Calp Blau. Las sesiones principales se celebrarán en el Real Club Náutico de Calp y el programa concluirá con actividades ambientales en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
+        "body": "Las III Jornadas Medioambientales del Mar Calp Blau se desarrollarán en Calp entre el 28 y el 31 de octubre de 2026, según la agenda oficial de Tourist Info Calpe y la información publicada por Calp Digital. El programa está organizado por el Ayuntamiento de Calp y Calp Blau.\n\nLas sesiones previstas entre el miércoles 28 y el viernes 30 tendrán como sede el Real Club Náutico de Calp. En esos días se abordarán contenidos relacionados con el turismo azul, la biodiversidad, el cambio climático, la restauración de ecosistemas y la sostenibilidad. La programación incluye conferencias y mesas redondas, de acuerdo con la información difundida sobre las jornadas.\n\nEl sábado 31 de octubre, el programa se trasladará al entorno del Paseo Princesa de Asturias y Cala del Racó. La agenda oficial fija entre las 10:00 y las 13:00 una jornada con actividades de limpieza y voluntariado, entre ellas la limpieza del fondo marino y la limpieza terrestre. También están previstos el atado de fragmentos de Posidonia y talleres sobre fauna marina y Posidonia.\n\nLa iniciativa forma parte de las actuaciones vinculadas al proyecto municipal Calp Blau. Una noticia del Ayuntamiento de Calp publicada el 2 de octubre de 2026 identifica las jornadas medioambientales del mar como una de las actuaciones de este proyecto.\n\nLa programación global se extiende, por tanto, del 28 al 31 de octubre. La agenda oficial diferencia las sesiones principales de los tres primeros días de las actividades ambientales previstas para el sábado.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-jornadas-medioambientales-mar-calp-blau",
+        "seo_title": "Calp acogerá las jornadas medioambientales Calp Blau",
+        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebrarán del 28 al 31 de octubre, con sesiones en el Náutico y actividades en Cala del Racó.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_0c21cf909b25cc55",
+        "editorial_notes": [
+          "Precisar que el programa global se extiende del 28 al 31 de octubre, pero que las sesiones principales se celebran del 28 al 30 y el sábado 31 se reserva para las actividades ambientales."
+        ],
+        "sources": [
+          {
+            "name": "Tourist Info Calpe — agenda oficial",
+            "url": "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — Noticias",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
+          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La agenda oficial presenta las sesiones principales como celebradas del 28 al 30 de octubre y reserva el sábado 31 para las actividades ambientales; por tanto, la formulación más precisa es que el programa global se extiende del 28 al 31 de octubre.",
+            "La fuente oficial no utiliza literalmente todos los términos del resumen candidato, pero sí respalda los contenidos esenciales y la programación descrita."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_0c21cf909b25cc55",
+          "quality_gate_evaluated_at": "2026-10-22T04:51:30.442Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-22T04:51:23.156Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_8df636ee60c87ef0",
+        "title": "Calp celebrará del 28 al 31 de octubre las III Jornadas Medioambientales del Mar Calp Blau",
+        "slug": "calp-jornadas-medioambientales-mar-calp-blau",
+        "summary": "Calp acogerá del miércoles 28 al sábado 31 de octubre de 2026 las III Jornadas Medioambientales del Mar Calp Blau. Las sesiones principales se celebrarán en el Real Club Náutico de Calp y el programa concluirá con actividades ambientales en el entorno del Paseo Princesa de Asturias y Cala del Racó.",
+        "body": "Las III Jornadas Medioambientales del Mar Calp Blau se desarrollarán en Calp entre el 28 y el 31 de octubre de 2026, según la agenda oficial de Tourist Info Calpe y la información publicada por Calp Digital. El programa está organizado por el Ayuntamiento de Calp y Calp Blau.\n\nLas sesiones previstas entre el miércoles 28 y el viernes 30 tendrán como sede el Real Club Náutico de Calp. En esos días se abordarán contenidos relacionados con el turismo azul, la biodiversidad, el cambio climático, la restauración de ecosistemas y la sostenibilidad. La programación incluye conferencias y mesas redondas, de acuerdo con la información difundida sobre las jornadas.\n\nEl sábado 31 de octubre, el programa se trasladará al entorno del Paseo Princesa de Asturias y Cala del Racó. La agenda oficial fija entre las 10:00 y las 13:00 una jornada con actividades de limpieza y voluntariado, entre ellas la limpieza del fondo marino y la limpieza terrestre. También están previstos el atado de fragmentos de Posidonia y talleres sobre fauna marina y Posidonia.\n\nLa iniciativa forma parte de las actuaciones vinculadas al proyecto municipal Calp Blau. Una noticia del Ayuntamiento de Calp publicada el 2 de octubre de 2026 identifica las jornadas medioambientales del mar como una de las actuaciones de este proyecto.\n\nLa programación global se extiende, por tanto, del 28 al 31 de octubre. La agenda oficial diferencia las sesiones principales de los tres primeros días de las actividades ambientales previstas para el sábado.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp acogerá las jornadas medioambientales Calp Blau",
+        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebrarán del 28 al 31 de octubre, con sesiones en el Náutico y actividades en Cala del Racó.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_0c21cf909b25cc55",
+        "published_at": null,
+        "source_urls": [
+          "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
+          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional"
+        ],
+        "sources": [
+          {
+            "name": "Tourist Info Calpe — agenda oficial",
+            "url": "https://www.calpe.es/es/eventos/transformando-el-turismo-naturaleza-excelencia-y-accion-ambiental",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp — Noticias",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-presenta-el-proyecto-%E2%80%9Ccalp-blau%E2%80%9D-en-el-iii-congreso-internacional",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_99fb8c40b010ca81",
+        "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La agenda oficial presenta las sesiones principales como celebradas del 28 al 30 de octubre y reserva el sábado 31 para las actividades ambientales; por tanto, la formulación más precisa es que el programa global se extiende del 28 al 31 de octubre.",
+            "La fuente oficial no utiliza literalmente todos los términos del resumen candidato, pero sí respalda los contenidos esenciales y la programación descrita."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_0c21cf909b25cc55",
+          "quality_gate_evaluated_at": "2026-10-22T04:51:30.442Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     }
-  ]
+  ],
+  "quarantined": []
 }

@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-21T23:23:40.694Z",
+  "generated_at": "2026-10-22T04:51:30.442Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -22,38 +22,34 @@
     "untraceable_sources_allowed": false
   },
   "drafts_seen": 1,
-  "eligible_count": 0,
-  "quarantined_count": 1,
+  "eligible_count": 1,
+  "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_64f8619c45733859",
-      "draft_id": "drf_5b7f72c51f61c6cc",
-      "investigation_id": "inv_0a645ac3d5bff47f",
-      "candidate_fingerprint": "2bcd4ec8e5c0ff6fb2be876f5df2a8cf6e53d6efa49f78cb98fffe40031f90cd",
-      "slug": "calp-listado-provisional-ayudas-rehabilitacion-fachadas-2026",
-      "category": "LOCAL",
-      "status": "QUARANTINED",
-      "reasons": [
-        "CONTESTED_OR_CAVEATED_ITEM_NEEDS_INDEPENDENT_CORROBORATION"
-      ],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
+      "gate_id": "qg_0c21cf909b25cc55",
+      "draft_id": "drf_8df636ee60c87ef0",
+      "investigation_id": "inv_99fb8c40b010ca81",
+      "candidate_fingerprint": "b5ea17ad736aeefa0c41c547551a2d949dad20097a66667a5c64ca5751be0663",
+      "slug": "calp-jornadas-medioambientales-mar-calp-blau",
+      "category": "MEDIO_AMBIENTE",
+      "status": "ELIGIBLE",
+      "reasons": [],
+      "warnings": [],
       "checks": {
         "writer_status": "PENDING_GATE",
         "investigation_linked": true,
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 3,
+        "supported_claim_count": 4,
         "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 4,
-        "primary_evidence_count": 4,
-        "secondary_evidence_count": 0,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 2,
-        "institutional_or_political": true,
+        "unverified_claim_count": 0,
+        "evidence_count": 3,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 1,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": false,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -63,9 +59,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 269
+        "body_word_count": 246
       },
-      "evaluated_at": "2026-10-21T23:23:40.694Z",
+      "evaluated_at": "2026-10-22T04:51:30.442Z",
       "engine_version": "quality-gate-v1"
     }
   ]
