@@ -1,47 +1,47 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-10-22T10:13:06.097Z",
+  "generated_at": "2026-10-22T15:19:10.191Z",
   "model": "gpt-5.6-luna",
-  "archive_count": 111,
-  "duplicates_filtered": 2,
+  "archive_count": 112,
+  "duplicates_filtered": 4,
   "count": 3,
   "candidates": [
     {
-      "title": "La DANA Adam deja 847 solicitudes de indemnización en la provincia de Alicante",
-      "summary": "El Consorcio de Compensación de Seguros ha recibido 847 solicitudes de indemnización en Alicante tras las inundaciones, con daños especialmente relevantes en municipios de la Marina Alta y el entorno de la Marjal de Pego-Oliva.",
+      "title": "La Marina Alta avanza en la recuperación de la DANA Adam entre daños, ayudas y reclamaciones por los cauces",
+      "summary": "Los municipios de la comarca continúan evaluando daños y reclamando ayudas y actuaciones sobre los cauces una semana después de las inundaciones del 18 y 19 de octubre.",
       "source_name": "Cadena SER Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia",
-      "published_at": "2026-10-22T09:32:39Z",
-      "category": "SUCESOS",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia",
+      "published_at": "2026-10-21",
+      "category": "MEDIO_AMBIENTE",
       "relevance": 94,
-      "reason": "Es una actualización económica y administrativa sobre los daños de la DANA en la Marina Alta, con impacto potencial para residentes, comercios y propietarios de Calp afectados por el episodio.",
-      "detected_at": "2026-10-22T10:13:06.097Z",
-      "fingerprint": "cfd4aa5784559f8be668df975427995a2812ad547d02776bd513783b6779acbb"
+      "reason": "Es una actualización material sobre la recuperación comarcal tras el temporal, con impacto directo en servicios públicos, infraestructuras y posibles ayudas para Calp y la Marina Alta. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia/?utm_source=openai))",
+      "detected_at": "2026-10-22T15:19:10.191Z",
+      "fingerprint": "552f61acccbfee545441bb2c59698ee28b987a62427ff20f9b8f1eecb6d93356"
     },
     {
-      "title": "El Ayuntamiento de Calp firma convenios de apoyo a asociaciones, comercio y cooperación",
-      "summary": "El consistorio ha formalizado subvenciones nominativas por 1.000 euros para la asociación de fibromialgia, 20.000 euros para la Associació d’Empresa i Comerç de Calp y 15.000 euros para Visió Sense Fronteres.",
-      "source_name": "Ayuntamiento de Calp - Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%A4%9D-el-ayuntamiento-de-calp-firma-nuevos-convenios-de-subvenciones-nominativas-con-asociaciones-y-entidades-locales",
-      "published_at": "2026-10-14",
-      "category": "ECONOMIA",
-      "relevance": 76,
-      "reason": "La ayuda al tejido comercial y asociativo local tiene interés para empresas, entidades sociales y vecinos de Calp, y encaja con la prioridad de economía local.",
-      "detected_at": "2026-10-22T10:13:06.097Z",
-      "fingerprint": "2c85ec0db1ee6367111af587e886f518ad0b2894cb3e3872b83b66add0aac81a"
+      "title": "Juzgan a cinco acusados de una estafa con un chalé en Calp",
+      "summary": "La Audiencia Provincial de Alicante juzgará el 23 de octubre a cuatro hombres y una mujer por una presunta trama que habría simulado la propiedad de un chalé para obtener hasta 131.000 euros.",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12420/reg",
+      "published_at": "2026-10-19",
+      "category": "SUCESOS",
+      "relevance": 78,
+      "reason": "El juicio aborda una presunta estafa inmobiliaria vinculada directamente a un inmueble situado en Calp y tendrá seguimiento judicial inmediato. La fuente recuerda la presunción de inocencia de los acusados. ([calpdigital.es](https://calpdigital.es/art/12420/reg?utm_source=openai))",
+      "detected_at": "2026-10-22T15:19:10.191Z",
+      "fingerprint": "87a3ae9979c12983b5c05c8388f1ac36c2f5e9c74e09a3e429e064a3bbadaedc"
     },
     {
-      "title": "Calp celebrará en noviembre el X Encuentro de Comunicación Innovadora para empresas y emprendedores",
-      "summary": "Creama Calp y el Ayuntamiento organizarán el 13 de noviembre una jornada gratuita con Marga Cabrera y Josep Caballero sobre estrategia de comunicación, diferenciación empresarial e innovación.",
-      "source_name": "Ayuntamiento de Calp - Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%93%A3-marga-cabrera-y-josep-caballero-ponentes-en-el-x-encuentro-de-comunicacion-innovadora-de-calp",
-      "published_at": "2026-10-16",
-      "category": "ECONOMIA",
+      "title": "Calp retransmite de nuevo y gratis la temporada de Ballet y Ópera de Londres desde el Covent Garden",
+      "summary": "La programación cultural municipal incluye nueve retransmisiones gratuitas de producciones del Royal Ballet & Opera de Londres durante la temporada 2026-2027.",
+      "source_name": "La Marina Alta",
+      "source_url": "https://ca.lamarinaalta.com/c/calp",
+      "published_at": "2026-10-15",
+      "category": "CULTURA",
       "relevance": 68,
-      "reason": "Es una actividad municipal dirigida al empresariado y al emprendimiento local, con potencial interés para pymes, autónomos y profesionales de Calp.",
-      "detected_at": "2026-10-22T10:13:06.097Z",
-      "fingerprint": "14a11814817e7a703e20bee5ee1d73839af32fffc3b7a1d92c00a465e62e9ff4"
+      "reason": "La iniciativa amplía la oferta cultural gratuita del municipio y puede atraer público al Auditori de la Casa de Cultura durante la temporada baja turística. ([ca.lamarinaalta.com](https://ca.lamarinaalta.com/c/calp/?utm_source=openai))",
+      "detected_at": "2026-10-22T15:19:10.191Z",
+      "fingerprint": "6ef30791262418d65f186177ed1214453f54868777b6d62369c85504b5a9ea1e"
     }
   ]
 }

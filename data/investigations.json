@@ -1,66 +1,86 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-22T10:13:43.329Z",
+  "generated_at": "2026-10-22T15:19:56.881Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "cfd4aa5784559f8be668df975427995a2812ad547d02776bd513783b6779acbb",
-      "title": "La DANA Adam deja 847 solicitudes de indemnización en la provincia de Alicante",
+      "candidate_fingerprint": "552f61acccbfee545441bb2c59698ee28b987a62427ff20f9b8f1eecb6d93356",
+      "title": "La Marina Alta avanza en la recuperación de la DANA Adam entre daños, ayudas y reclamaciones por los cauces",
       "status": "VERIFIED",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "publishable": true,
-      "summary": "La cifra central de 847 solicitudes de indemnización registradas en Alicante tras la DANA Adam está respaldada por dos publicaciones periodísticas del 22 de octubre de 2026 que atribuyen los datos al Consorcio de Compensación de Seguros. También está respaldado que el episodio causó inundaciones y daños relevantes en la Marina Alta y el entorno de la Marjal de Pego-Oliva. No se ha localizado durante la búsqueda una publicación primaria del Consorcio con el desglose provincial exacto.",
+      "summary": "La noticia está suficientemente corroborada por Europa Press, À Punt y una fuente oficial del Ministerio del Interior. La DANA Adam afectó a la Marina Alta los días 18 y 19 de octubre de 2026; Els Poblets y Pego figuran entre los municipios más afectados, continúan las labores de limpieza y evaluación de daños, y la Generalitat aprobó un primer paquete de ayudas de 23,5 millones de euros. También están documentadas las reclamaciones municipales para mejorar la limpieza y mantenimiento de cauces. Debe corregirse la referencia temporal de “una semana después” del resumen: el 21 de octubre habían transcurrido aproximadamente dos días desde las lluvias más intensas.",
       "claims": [
         {
-          "claim": "El Consorcio de Compensación de Seguros había recibido 847 solicitudes de indemnización en la provincia de Alicante hasta el 21 de octubre de 2026.",
+          "claim": "La DANA Adam afectó especialmente a la Marina Alta durante el domingo 18 y el lunes 19 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El total nacional ascendía a 6.528 solicitudes en esa misma fecha.",
+          "claim": "Els Poblets y Pego estuvieron entre los municipios más afectados, con inundaciones, daños materiales, caminos intransitables y trabajos de recuperación todavía en marcha el 21 de octubre.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La DANA Adam provocó inundaciones y daños materiales relevantes en municipios de la Marina Alta, incluidos Pego, Els Poblets, El Verger y Xàbia.",
+          "claim": "Los municipios afectados habilitaron oficinas de atención y los vecinos y voluntarios participaron en las labores de limpieza y recuperación.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los daños fueron especialmente relevantes en el entorno de la Marjal de Pego-Oliva.",
+          "claim": "La Generalitat aprobó un primer paquete de ayudas de 23,5 millones de euros, incluyendo hasta 6.000 euros para daños en vivienda habitual, 3.000 euros para segunda residencia, ayudas de hasta 200.000 euros para ayuntamientos y 800 euros mensuales durante un año para realojo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El desglose de las 847 solicitudes alicantinas por municipios o por comarca de la Marina Alta está publicado oficialmente.",
-          "status": "UNVERIFIED"
+          "claim": "La recuperación reactivó las reclamaciones para limpiar y mantener ríos, barrancos y cauces, incluida la petición de actuaciones en el río Girona.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los municipios seguían evaluando daños en caminos rurales, explotaciones agrícolas, infraestructuras y zonas económicas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La recuperación se producía una semana después de las inundaciones del 18 y 19 de octubre.",
+          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia",
-          "evidence": "La información afirma que el Consorcio había recibido 847 solicitudes en Alicante, dentro de 6.528 en toda España hasta el 21 de octubre. Identifica daños por inundaciones en Pego, Els Poblets, El Verger y Xàbia y señala que el organismo todavía no había detallado cuántas solicitudes correspondían específicamente a la Marina Alta. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-847-solicitudes-de-indemnizacion-en-alicante-tras-las-graves-inundaciones-en-la-marina-alta-radio-denia/))",
+          "source_name": "Ministerio del Interior – Protección Civil y Emergencias",
+          "source_url": "https://www.interior.gob.es/opencms/en/detail-pages/article/Proteccion-Civil-y-Emergencias-mantiene-la-alerta-por-chubascos-y-tormentas-muy-fuertes-y-persistentes-en-el-litoral-mediterraneo-peninsular-y-Baleares/",
+          "evidence": "La alerta oficial identificó la DANA Adam y señaló que los días más adversos serían el domingo 18 y el lunes 19 de octubre de 2026, con riesgo de inundaciones y crecidas repentinas en el litoral mediterráneo, incluido Alicante.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-municipios-marina-alta-alicante-afectados-dana-adam-siguen-trabajando-recuperar-normalidad-20261021162505.html",
+          "evidence": "El 21 de octubre informó de que Els Poblets y Pego continuaban recuperándose. Señaló inundaciones y daños materiales en Els Poblets, vías intransitables en Pego, oficinas de atención a afectados, voluntariado, caminos desaparecidos, desperfectos en naves y campos anegados.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana/",
-          "evidence": "Publica el mismo desglose: 6.528 solicitudes nacionales, 847 en Alicante y 5.007 en Valencia, con 2.760 correspondientes a Oliva. Relaciona los daños con la DANA Adam y señala que la mayoría de las solicitudes alicantinas procederían de la Marina Alta. El contenido parece basarse en la comunicación del Consorcio, por lo que sirve como corroboración periodística adicional, pero no como una fuente primaria independiente. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/22/la-marina-alta-ha-elevado-ya-casi-un-millar-de-solicitudes-de-indemnizacion-por-la-dana/?utm_source=openai))",
+          "source_name": "À Punt NTC",
+          "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
+          "evidence": "Informó el 20 de octubre de la aprobación por el Consell de un primer paquete de 23,5 millones de euros. Detalló ayudas de 6.000 euros para viviendas habituales afectadas, 3.000 euros para segundas residencias, hasta 200.000 euros para ayuntamientos y 800 euros mensuales durante doce meses para realojo.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Cadena SER Radio Valencia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia/",
-          "evidence": "Reproduce el reparto territorial comunicado por el Consorcio: más de 6.500 solicitudes por la DANA Adam, más de 5.000 en Valencia, 2.760 en Oliva y 847 en Alicante. También indica que la indemnización requiere póliza vigente y peritación previa. Es una publicación del mismo grupo mediático, por lo que no se considera corroboración plenamente independiente. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/22/la-experiencia-de-la-dana-de-2024-permitira-agilizar-las-gestiones-en-la-de-2026-radio-valencia/))",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/el-consell-aprobara-este-viernes-nuevas-ayudas-para-los-afectadas-de-la-dana-adam-radio-valencia/",
+          "evidence": "Corroboró el paquete de ayudas, la visita del president a zonas afectadas de la Marina Alta y la reclamación de planes e inversiones para el mantenimiento y limpieza de ríos y barrancos. También recogió la atribución municipal de parte del desbordamiento en Els Poblets a la acumulación de cañas.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia/",
+          "evidence": "La fuente candidata documenta la continuidad de los trabajos de limpieza y evaluación de daños en Els Poblets, Pego, El Verger y Xàbia; las ayudas autonómicas; y las reclamaciones de Xàbia, Els Poblets y otros responsables públicos sobre la limpieza y adecuación de cauces, especialmente el río Girona.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La propia Cadena SER indica que el Consorcio no había detallado cuántas de las 847 solicitudes correspondían específicamente a la Marina Alta.",
-        "Las dos corroboraciones periodísticas localizadas parecen apoyarse en la misma comunicación o datos del Consorcio; no se ha encontrado una tabla, nota o comunicado primario accesible con el desglose provincial exacto.",
-        "La cifra es de situación y puede aumentar conforme se registren nuevas reclamaciones."
+        "La cifra de 23,5 millones y el desglose de ayudas están corroborados por À Punt y Cadena SER, pero no se localizó en la búsqueda una resolución del DOGV o una nota directa de la Generalitat con el texto íntegro de la convocatoria.",
+        "La afirmación sobre la reclamación de actuaciones en los cauces está documentada como petición política o municipal; no prueba que la limpieza o las obras hayan sido ejecutadas ni que la vegetación causara por sí sola los desbordamientos.",
+        "El resumen original dice “una semana después”, pero la noticia está fechada el 21 de octubre y sitúa las lluvias principales en el 18 y 19 de octubre; la formulación correcta sería “dos o tres días después” o “en los días posteriores”."
       ],
-      "id": "inv_9f2c070282bebc83",
-      "investigated_at": "2026-10-22T10:13:43.329Z",
+      "id": "inv_583be55c7e9b7a02",
+      "investigated_at": "2026-10-22T15:19:56.881Z",
       "model": "gpt-5.6-luna"
     }
   ]
