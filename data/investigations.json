@@ -1,88 +1,91 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-22T23:25:09.538Z",
+  "generated_at": "2026-10-23T04:53:25.393Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "f93ca24dd3c6f88f90cdec4df6c14e1b97a050c3eb29002895acfbe919107a93",
-      "title": "La Generalitat activa un plan unificado para recuperar las zonas afectadas por la DANA en la Marina Alta y La Safor",
+      "candidate_fingerprint": "ac7cf87335483888cecb85bdcd68e8aa33c682a5d829976a4be622155dc31726",
+      "title": "AR Hotels & Resorts destaca sus 40 años de trayectoria en Calp y la construcción de 4.000 viviendas",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "La información queda suficientemente respaldada en sus hechos esenciales. La Generalitat activó el 22 de octubre de 2026 los órganos de coordinación de la postemergencia para la DANA Adam, con participación de la Comisión Interdepartamental y la Oficina Única Postemergencia. El paquete inicial de ayudas de 23,5 millones de euros está corroborado de forma independiente por À Punt. Las prioridades operativas descritas —ayuda humanitaria, achiques, recuperación de suministros, accesos, limpieza y reparación de daños— son coherentes con las funciones legales de estos órganos y con la cobertura independiente sobre la recuperación en la Marina Alta y La Safor. No se ha localizado en la búsqueda una nota de prensa oficial de la Generalitat que detalle todo el anuncio del 22 de octubre, por lo que la confianza no se eleva a alta.",
+      "summary": "La noticia está corroborada en sus hechos esenciales. El Foro Inmobiliario «Más que una vivienda» se celebró el 20 de octubre de 2026 en el Hotel AR Diamante Beach de Calp y contó con la participación de directivos de AR Hotels & Resorts y Grupo Esmeralda. El diario INFORMACIÓN recoge también que Isaac Vidal atribuyó al grupo 40 años de trayectoria y 4.000 viviendas promovidas. La web oficial de AR Hotels confirma una vinculación de más de 40 años con Calp y el inicio de su actividad inmobiliaria antes de la expansión hotelera. La cifra de 4.000 viviendas aparece como un dato comunicado por la compañía y reproducido por varias fuentes, pero no se ha localizado una relación pública independiente de promociones que permita auditarla.",
       "claims": [
         {
-          "claim": "La Generalitat activó el 22 de octubre de 2026 mecanismos de coordinación interdepartamental para la recuperación tras la DANA Adam en la Marina Alta y La Safor.",
+          "claim": "El Foro Inmobiliario «Más que una vivienda» se celebró en el Hotel AR Diamante Beach de Calp y fue organizado por el diario INFORMACIÓN.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La activación incluyó la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y la Oficina Única Postemergencia.",
+          "claim": "El foro tuvo lugar el 20 de octubre de 2026 y abordó la relación entre turismo, inversión inmobiliaria, arquitectura y nuevos modelos de vivienda.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Consell había aprobado un paquete inicial de ayudas de 23,5 millones de euros para las zonas afectadas.",
+          "claim": "Isaac Vidal, director de Ventas y Marketing de AR Hotels & Resorts, participó en el foro.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las actuaciones prioritarias incluían accesos, limpieza, reparación de daños, servicios básicos y atención humanitaria.",
+          "claim": "AR Hotels & Resorts comunicó una trayectoria de aproximadamente 40 años vinculada a Calp y al sector inmobiliario.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Comisión y la Oficina sirven para coordinar la recuperación, centralizar información y tramitar o coordinar ayudas.",
+          "claim": "La compañía o su grupo empresarial afirma haber promovido o construido 4.000 viviendas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ayudas y actuaciones se aplicaban a municipios afectados de la Marina Alta y La Safor.",
+          "claim": "Rocco Ascolesse fue presentado por la compañía como fundador y figura clave de su desarrollo en Calp.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "El foro analizó el cambio en las necesidades y expectativas de compradores y visitantes, incluida la demanda de mayor calidad y experiencias.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cifra de 4.000 viviendas está verificada mediante registros públicos independientes de promociones.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/la-generalitat-activa-un-plan-unificado-para-recuperar-las-zonas-afectadas-por-la-dana-en-la-marina-alta-y-la-safor/",
-          "evidence": "La noticia, publicada el 22 de octubre de 2026, informa de la activación de la Comisión Interdepartamental y de la Oficina Única Postemergencia, de una partida inicial de 23,5 millones y de actuaciones en atención humanitaria, servicios en edificios, accesos, limpieza y reparación de daños. Es la fuente candidata y no constituye corroboración independiente por sí sola.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12429/ar-hotels-resorts-40-anos-4000-viviendas-calp-foro-inmobiliario",
+          "evidence": "Publica el 21 de octubre de 2026 que el foro se celebró en el Hotel AR Diamante Beach, que estuvo organizado por INFORMACIÓN y que representantes de la compañía repasaron 40 años de actividad inmobiliaria y la promoción de 4.000 viviendas. También identifica a Isaac Vidal, Frank Mascico y Rocco Ascolesse.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "À Punt NTC",
-          "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
-          "evidence": "Informa el 20 de octubre de 2026 de la aprobación por el Consell de un primer paquete de 23,5 millones para afectados de la Marina Alta y La Safor. Detalla ayudas de hasta 6.000 euros para bienes esenciales, hasta 200.000 euros para ayuntamientos, ayudas de realojo de 800 euros durante doce meses y una solicitud única. También recoge el compromiso de coordinación durante la fase de reconstrucción.",
+          "source_name": "Diario INFORMACIÓN",
+          "source_url": "https://www.informacion.es/marina-alta/2026/10/21/ar-hotels-resorts-pionero-calpe-bc-135569868.html",
+          "evidence": "Relata el desarrollo del foro celebrado en AR Diamante Beach y recoge que Isaac Vidal recordó una trayectoria de 40 años en el mercado y 4.000 viviendas promovidas. También confirma su participación y la intervención de Frank Mascico. Es una corroboración separada de la publicación de Calp Digital, aunque ambas informaciones proceden del mismo acto y presentan el dato como una declaración de la compañía.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER, Radio Valencia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/los-alcaldes-de-la-safor-y-la-marina-alta-reclaman-manos-y-agilidad-administrativa-para-acelerar-la-recuperacion-tras-la-dana-radio-valencia/",
-          "evidence": "Describe de forma independiente las tareas de recuperación en municipios de ambas comarcas: limpieza de viviendas y garajes, retirada de vehículos, reparación de infraestructuras y recuperación de caminos rurales. También recoge las demandas municipales de más medios para evaluar daños y tramitar ayudas.",
+          "source_name": "Diario INFORMACIÓN",
+          "source_url": "https://www.informacion.es/economia/2026/10/19/futuro-vivienda-turismo-debate-calp-bc-135485863.html",
+          "evidence": "Anuncia previamente el Foro Inmobiliario «Más que una vivienda», su celebración el 20 de octubre de 2026 en el Hotel AR Diamante Beach de Calp y la participación de Isaac Vidal y Frank Mascico en el programa.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Boletín Oficial del Estado, Ley 13/2010 de Protección Civil y Gestión de Emergencias",
-          "source_url": "https://www.boe.es/buscar/pdf/2010/BOE-A-2010-19046-consolidado.pdf",
-          "evidence": "La legislación valenciana consolidada establece la existencia de la Oficina Única Postemergencia y de la Comisión Interdepartamental para el Seguimiento y Coordinación de la Postemergencia. Atribuye a la Oficina funciones de recopilar daños, coordinar actuaciones, centralizar solicitudes de ayudas y seguir la vuelta a la normalidad.",
+          "source_name": "AR Hotels & Resorts",
+          "source_url": "https://www.ar-hotels.com/sobre-nosotros.html",
+          "evidence": "La página corporativa afirma que Calpe está vinculada a la familia desde hace más de cuarenta años y que el grupo comenzó su trayectoria en el sector inmobiliario antes de abrir su primer establecimiento en 1981. Confirma la antigüedad y el origen inmobiliario de la compañía, pero no menciona la cifra de 4.000 viviendas.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "DOGV, modificación del Decreto 163/2016",
-          "source_url": "https://dogv.gva.es/datos/2025/01/29/pdf/2025_938_es.pdf",
-          "evidence": "El DOGV regula la composición y funcionamiento de la Comisión Interdepartamental y de la Oficina Única Postemergencia, confirmando que son instrumentos administrativos vigentes para el seguimiento y coordinación de actuaciones posteriores a una emergencia.",
+          "source_name": "AR Hotels & Resorts, perfil corporativo de LinkedIn",
+          "source_url": "https://es.linkedin.com/company/ar-hotels-%26-resorts",
+          "evidence": "La página corporativa identifica la sede en Calpe y muestra publicaciones relacionadas con el Foro Inmobiliario. En una actualización corporativa, AR Hotels & Resorts vincula su trayectoria con la promoción de más de 4.000 viviendas a través de Grupo Esmeralda. Es una confirmación primaria de que la cifra forma parte de la comunicación oficial del grupo, no una auditoría independiente.",
           "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Agenda pública de la Generalitat Valenciana",
-          "source_url": "https://simple.agend.as/ag/generalitat-valenciana?fecha=20261022",
-          "evidence": "Registra para el 22 de octubre de 2026 una reunión dirigida por Juan Carlos Valderrama de la Comisión Interdepartamental para el Seguimiento y la Coordinación de la Postemergencia y de la Oficina Única Postemergencia. Aporta apoyo adicional a la celebración de la reunión, aunque no es el portal oficial de la Generalitat.",
-          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se localizó durante la búsqueda una nota de prensa oficial de gva.es o presidencia.gva.es que reproduzca íntegramente el anuncio del 22 de octubre de 2026.",
-        "La cifra de 23,5 millones está corroborada independientemente, pero la descripción exacta del reparto de 17,5 millones para municipios y 6 millones para particulares procede principalmente de la noticia candidata y de coberturas derivadas del anuncio del Consell.",
-        "La existencia legal de la Comisión y la Oficina es anterior a la DANA Adam; lo que se verifica para este caso concreto es su activación o reunión para gestionar esta emergencia."
+        "La cifra de 4.000 viviendas está respaldada por el relato del foro y por comunicación corporativa, pero no se ha localizado un inventario público independiente que permita comprobar el total.",
+        "La cifra se atribuye al grupo o a la actividad de promoción vinculada a Grupo Esmeralda; la noticia no aporta un desglose jurídico, temporal o territorial de las viviendas.",
+        "Existe una publicación local que menciona una cifra superior a 6.000 viviendas para Grupo Esmeralda, pero no ofrece documentación adicional y podría referirse a un perímetro empresarial distinto. No se considera una contradicción concluyente sin aclarar el alcance de ambas cifras.",
+        "Las afirmaciones sobre que Rocco Ascolesse fue pionero o impulsó el crecimiento de Calp son declaraciones de representantes de la empresa y deben presentarse como valoración o versión corporativa, no como hecho histórico plenamente demostrado."
       ],
-      "id": "inv_b5d6deb72293688c",
-      "investigated_at": "2026-10-22T23:25:09.538Z",
+      "id": "inv_a1e4ee7a8fc5c2c8",
+      "investigated_at": "2026-10-23T04:53:25.393Z",
       "model": "gpt-5.6-luna"
     }
   ]

@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-22T23:26:09.981Z",
+  "generated_at": "2026-10-23T04:54:11.767Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-22T23:26:09.797Z",
+  "last_activity": "2026-10-23T04:54:11.579Z",
   "newspaper": {
-    "archive_total": 113,
-    "published_today": 1,
-    "published_last_7_days": 23,
+    "archive_total": 114,
+    "published_today": 2,
+    "published_last_7_days": 24,
     "categories": {
+      "ECONOMIA": 18,
       "SUCESOS": 18,
       "MEDIO_AMBIENTE": 20,
-      "ECONOMIA": 17,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_0bba409bfda6fbb6",
+        "title": "AR Hotels & Resorts repasa en Calp cuatro décadas de actividad y atribuye al grupo 4.000 viviendas promovidas",
+        "category": "ECONOMIA",
+        "slug": "ar-hotels-repasa-en-calp-40-anos-y-4000-viviendas",
+        "published_at": "2026-10-23T04:53:50.242Z"
+      },
       {
         "archive_id": "arc_6eabd2d856af8bd6",
         "title": "La Generalitat activa la coordinación para la recuperación tras la DANA en la Marina Alta y la Safor",
@@ -69,18 +76,11 @@
         "category": "DEPORTES",
         "slug": "taxus-medio-ambiente-campeon-espana-cruceros-calp-2026",
         "published_at": "2026-10-20T06:04:42.450Z"
-      },
-      {
-        "archive_id": "arc_2e9b1a795af7bca6",
-        "title": "Calp queda fuera del confinamiento por la DANA Adam y mantiene el nivel amarillo",
-        "category": "SUCESOS",
-        "slug": "calp-fuera-confinamiento-dana-adam-alerta-amarilla",
-        "published_at": "2026-10-20T00:23:38.720Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 6,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,
