@@ -2,16 +2,16 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-23T10:07:26.397Z",
+  "generated_at": "2026-10-23T15:07:44.527Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-23T10:07:26.249Z",
+  "last_activity": "2026-10-23T15:07:44.309Z",
   "newspaper": {
-    "archive_total": 114,
-    "published_today": 2,
-    "published_last_7_days": 23,
+    "archive_total": 115,
+    "published_today": 3,
+    "published_last_7_days": 24,
     "categories": {
+      "SUCESOS": 19,
       "ECONOMIA": 18,
-      "SUCESOS": 18,
       "MEDIO_AMBIENTE": 20,
       "DEPORTES": 5,
       "TURISMO": 10,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_a4cf6f8d3422a1a1",
+        "title": "La Audiencia de Alicante tenía señalado un juicio contra cinco personas por una presunta estafa con un chalé de Calp",
+        "category": "SUCESOS",
+        "slug": "juicio-presunta-estafa-chale-calp",
+        "published_at": "2026-10-23T15:07:22.309Z"
+      },
       {
         "archive_id": "arc_0bba409bfda6fbb6",
         "title": "AR Hotels & Resorts repasa en Calp cuatro décadas de actividad y atribuye al grupo 4.000 viviendas promovidas",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "rescatan-once-supervivientes-patera-frente-calp",
         "published_at": "2026-10-20T11:41:40.349Z"
-      },
-      {
-        "archive_id": "arc_013c5003d9850361",
-        "title": "El Taxus Medio Ambiente gana en Calp el Campeonato de España de Cruceros",
-        "category": "DEPORTES",
-        "slug": "taxus-medio-ambiente-campeon-espana-cruceros-calp-2026",
-        "published_at": "2026-10-20T06:04:42.450Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 3,
     "investigated": 0,
     "drafts": 1,
     "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

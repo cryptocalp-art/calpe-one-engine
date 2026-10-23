@@ -3,9 +3,68 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-23T10:07:18.968Z",
-  "count": 114,
+  "updated_at": "2026-10-23T15:07:30.482Z",
+  "count": 115,
   "articles": [
+    {
+      "archive_id": "arc_a4cf6f8d3422a1a1",
+      "external_id": "drf_1dccbfb879628552",
+      "investigation_id": "inv_170639bf0955bbf3",
+      "candidate_fingerprints": [
+        "bf15b5536a41957418cacb4b23a49455e686798c00b4da6355a68a7de6a3ba5e"
+      ],
+      "title": "La Audiencia de Alicante tenía señalado un juicio contra cinco personas por una presunta estafa con un chalé de Calp",
+      "slug": "juicio-presunta-estafa-chale-calp",
+      "summary": "La Sección Tercera de la Audiencia Provincial de Alicante tenía señalado para este viernes 23 de octubre, a las 10:00 horas, un juicio contra cuatro hombres y una mujer por una presunta trama de estafa vinculada a un chalé situado en Calp. Las fuentes consultadas no acreditan que la vista llegara a celebrarse ni cuál fue su resultado.",
+      "body": "La Fiscalía acusa a los cinco procesados de dos delitos de estafa, dos de falsedad y uno de revelación de secretos. Según la tesis del ministerio público, los acusados habrían alquilado el chalé y posteriormente habrían simulado ser sus propietarios para intentar venderlo a terceras personas.\n\nLa acusación sostiene también que, en otras operaciones, hicieron creer a posibles compradores que el inmueble estaba afectado por un embargo judicial y que podía venderse a un precio reducido. Los hechos investigados se remontan a los años 2013 y 2014.\n\nLa Fiscalía cifra en hasta 131.000 euros la cantidad que se habría obtenido mediante las operaciones presuntamente fraudulentas. Las penas solicitadas para los procesados oscilan entre once meses y seis años de prisión, según la información difundida sobre el procedimiento.\n\nEl juicio estaba previsto ante la Sección Tercera de la Audiencia Provincial de Alicante. No obstante, las informaciones disponibles no permiten confirmar que la sesión se celebrara finalmente el 23 de octubre ni conocer si se produjeron decisiones durante la vista.\n\nLos hechos descritos corresponden a la acusación de la Fiscalía y no a una sentencia. Por tanto, los cinco procesados mantienen la presunción de inocencia mientras no exista una resolución firme. Tampoco se ha localizado una publicación oficial directamente accesible del órgano judicial o de la Fiscalía sobre el señalamiento o el escrito de acusación.",
+      "category": "SUCESOS",
+      "seo_title": "Juicio por una presunta estafa con un chalé de Calp",
+      "meta_description": "La Audiencia de Alicante tenía señalado un juicio contra cinco personas por una presunta estafa con un chalé de Calp y hasta 131.000 euros.",
+      "sources": [
+        {
+          "name": "La Marina Plaza / elDiario.es",
+          "url": "https://lamarina.eldiario.es/ca/2026/10/21/a-juicio-cinco-acusados-de-estafar-131-000-euros-con-la-falsa-venta-de-un-chale-en-calp/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12420/reg",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarina.eldiario.es/ca/2026/10/21/a-juicio-cinco-acusados-de-estafar-131-000-euros-con-la-falsa-venta-de-un-chale-en-calp",
+        "https://calpdigital.es/art/12420/reg"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 7,
+        "evidence_count": 2,
+        "caveats": [
+          "Las fuentes respaldan que el juicio estaba señalado para el 23 de octubre de 2026, pero no acreditan por sí solas que la vista se celebrara efectivamente ni cuál fue su resultado.",
+          "Los hechos se presentan como acusaciones de la Fiscalía; no existe condena firme y debe preservarse la presunción de inocencia.",
+          "No se ha encontrado una fuente primaria oficial accesible que publique directamente el señalamiento o el escrito de acusación.",
+          "La coincidencia entre las informaciones podría reflejar el uso de una misma fuente judicial o de agencia; por ello la confianza se mantiene en nivel MEDIUM y no HIGH."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_6c42731c38761cfc",
+        "quality_gate_evaluated_at": "2026-10-23T15:07:30.153Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "No afirmar que los acusados se sentaron en el banquillo ni que la vista se celebró: ese extremo no está verificado.",
+        "Mantener en todo momento la atribución a la Fiscalía y la presunción de inocencia; no presentar los hechos como probados.",
+        "La corroboración procede de dos medios periodísticos y no de una fuente oficial accesible."
+      ],
+      "published_at": "2026-10-23T15:07:22.309Z",
+      "updated_at": "2026-10-23T15:07:30.482Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_0bba409bfda6fbb6",
       "external_id": "drf_43651ca46c1eee12",
