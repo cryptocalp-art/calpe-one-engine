@@ -1,78 +1,109 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-23T19:16:00.694Z",
+  "generated_at": "2026-10-23T22:18:45.338Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "877dc14189893b8b2394a169f5b2dfa84a141622d3283329f9f8a12032a1ea27",
-      "title": "El Ayuntamiento de Calp recibe más de 577.000 euros en subvenciones para educación, empleo, inclusión y Protección Civil",
+      "candidate_fingerprint": "2db6152571b96deaaab4f239e04a4c2096bb7744ac8a38bc5ced9fff093922fc",
+      "title": "ACEC solicita a la Generalitat los datos de mortalidad y control de la piscifactoría de Punta de Toix",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La información está respaldada por una publicación oficial del Ayuntamiento de Calp, que detalla tres ayudas por 551.600 euros, 25.208,27 euros y 998,40 euros. La suma asciende a 577.806,67 euros. Sin embargo, no se ha localizado durante la búsqueda la resolución oficial de la Generalitat Valenciana, LABORA o la Agencia Valenciana de Seguridad y Respuesta a las Emergencias que permita corroborar independientemente los tres expedientes. La única fuente adicional localizada reproduce aparentemente la comunicación municipal y no constituye corroboración independiente suficiente.",
+      "summary": "La parte relativa a una nueva mortandad de lubinas y doradas en Gran Canaria está corroborada por un comunicado de Greenpeace publicado el 16 de octubre de 2026. También existe documentación oficial de la Generalitat Valenciana que acredita la existencia de la instalación de Niordseas frente a Calp y la obligación de mantener programas de vigilancia ambiental, incluido el control de escapes. Sin embargo, no se ha localizado una copia pública de la solicitud de ACEC de 16 de octubre de 2026 ni una confirmación independiente de su registro, destinatario y contenido. La afirmación central sobre la petición formal a la Generalitat queda por tanto pendiente de verificación documental.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha recibido varias subvenciones de la Generalitat Valenciana para educación, empleo/inclusión y Protección Civil.",
+          "claim": "Greenpeace denunció un nuevo episodio de mortalidad de lubinas y doradas en instalaciones acuícolas de Gran Canaria durante octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ayuda para escolarización de 0 a 3 años asciende a 551.600 euros y se destina a la Escuela Infantil Municipal Silene d’Ifac para el curso 2026-2027.",
+          "claim": "El activista Don Staniford afirmó haber observado el 9 de octubre de 2026 la retirada de hasta cinco toneladas de lubina muerta en el puerto de Taliarte.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ayuda de 551.600 euros procede de una resolución de 14 de octubre de 2026 de la Dirección General de Centros Docentes.",
+          "claim": "Greenpeace afirmó que las causas de la nueva mortandad no estaban aclaradas y pidió una investigación y mayor transparencia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "ACEC solicitó formalmente el 16 de octubre de 2026 a la Generalitat Valenciana datos sobre la mortalidad de la piscifactoría de Punta de Toix desde 2022.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "LABORA ha concedido 25.208,27 euros para contratar a personas desempleadas con trastorno mental grave o problemas graves de salud mental, dentro del programa ETRAME 2025.",
+          "claim": "La solicitud de ACEC incluía información sobre gestión de bajas, escapes comunicados, protocolos ante mortandades masivas e inspecciones.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Los documentos públicos analizados por ACEC no contienen cifras de mortalidad de la instalación de Calp.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La instalación frente a Calp está vinculada a Niordseas, S.L., y cuenta con una resolución ambiental de la Generalitat para una ampliación de piscifactoría de jaulas flotantes.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La Agencia Valenciana de Seguridad y Respuesta a las Emergencias ha concedido 998,40 euros para gastos de equipamiento y seguros del personal voluntario de Protección Civil durante 2026.",
+          "claim": "La documentación ambiental oficial exige controles periódicos del estado de las redes y de posibles escapes de peces, además de un programa de vigilancia ambiental.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El importe conjunto de las tres ayudas supera los 577.000 euros.",
+          "claim": "La recogida, el transporte y la gestión de determinados subproductos animales, incluidas bajas animales no destinadas al consumo humano, están regulados por el Reglamento (CE) 1069/2009.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "En mayo de 2025 una denuncia ciudadana por una presunta descarga de pescado muerto en el puerto de Calp terminó en un parte de la Policía Local.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "En 2024 se escaparon más de 40.000 peces de instalaciones de Avramar en Calp, La Vila Joiosa y El Campello, según el informe Ocean Takeover de Foodrise.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%92%B6-el-ayuntamiento-de-calp-informa-de-nuevas-subvenciones-recibidas-de-la-generalitat-valenciana/",
-          "evidence": "La publicación oficial municipal, fechada el 23 de octubre de 2026, identifica las tres ayudas: 551.600 euros para escolarización 0-3 años en la Escuela Infantil Municipal Silene d’Ifac; 25.208,27 euros de LABORA dentro del programa ETRAME 2025; y 998,40 euros de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias para equipamiento y seguros de Protección Civil en 2026.",
+          "source_name": "Greenpeace España",
+          "source_url": "https://es.greenpeace.org/es/sala-de-prensa/comunicados/greenpeace-muestra-su-preocupacion-ante-la-nueva-mortandad-de-lubinas-y-doradas-de-las-empresas-aquanaria-y-canexmar-en-canarias/",
+          "evidence": "Comunicado fechado el 16 de octubre de 2026. Greenpeace informa de imágenes grabadas por Don Staniford en Gran Canaria, menciona peces muertos de Aquanaria y Canexmar, recoge la observación del 9 de octubre en el puerto de Taliarte de hasta cinco toneladas de lubina muerta y afirma que las causas no se conocían.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Comunica / Ayuntamiento de Calp — publicación específica de Protección Civil",
-          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%A8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/",
-          "evidence": "Otra publicación oficial municipal, fechada el 16 de octubre de 2026, atribuye una ayuda de 998,40 euros a una resolución de 18 de septiembre de 2026 de la Presidencia, destinada a financiar equipamiento y seguros del personal voluntario de Protección Civil durante 2026.",
+          "source_name": "Generalitat Valenciana, DOGV",
+          "source_url": "https://dogv.gva.es/datos/2021/05/26/pdf/2021_5624.pdf",
+          "evidence": "Resolución ambiental de la ampliación de la piscifactoría de jaulas flotantes promovida por NIORDSEAS, S.L., frente a la costa de Calp. La resolución identifica la instalación, fija especies y capacidad de producción y mantiene puntos y medidas del programa de vigilancia ambiental.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calpe Residentes / publicación agregada en redes",
-          "source_url": "https://www.govern1.com/ES/Calp/177127112655188/Calpe-Residentes",
-          "evidence": "La página reproduce una comunicación sobre la ayuda de 998,40 euros para Protección Civil y menciona la resolución de 18 de septiembre de 2026. El contenido parece derivar de la comunicación municipal y no aporta documentación propia ni una corroboración independiente del expediente.",
+          "source_name": "Generalitat Valenciana, DOGV",
+          "source_url": "https://dogv.gva.es/datos/2021/04/26/pdf/2021_3837.pdf",
+          "evidence": "Documentación ambiental que establece, entre otras medidas, el control periódico del estado de las redes y de posibles escapes de peces, la captura inmediata de ejemplares fugados en caso de accidente y la aplicación de programas de vigilancia ambiental.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "EUR-Lex",
+          "source_url": "https://eur-lex.europa.eu/eli/reg/2009/1069/oj/?locale=es",
+          "evidence": "Texto oficial del Reglamento (CE) 1069/2009, que establece normas sanitarias para subproductos animales y productos derivados no destinados al consumo humano, incluidas disposiciones sobre recogida, transporte, manipulación y eliminación.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/22/greenpeace-denuncia-otra-mortandad-masiva-de-lubinas-y-doradas-en-gran-canaria-acec-pide-en-calp-los-datos-de-la-piscifactoria-de-punta-de-toix",
+          "evidence": "La noticia atribuye a ACEC la solicitud presentada el 16 de octubre ante la Generalitat y detalla los datos pedidos. También afirma que no había cifras públicas de mortalidad, menciona una denuncia de mayo de 2025 y cita el informe Ocean Takeover. No se ha localizado en la búsqueda una copia independiente de la solicitud registrada ni documentación primaria que confirme esas afirmaciones.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Comunica — versión en valenciano",
-          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%92%B6-lajuntament-de-calp-informa-de-noves-subvencions-rebudes-de-la-generalitat-valenciana/?lang=va-val",
-          "evidence": "Versión en valenciano de la misma comunicación municipal, con las mismas cantidades, programas y finalidades. No se considera una fuente independiente porque procede del mismo Ayuntamiento y reproduce la misma nota.",
+          "source_name": "ACEC",
+          "source_url": "https://www.acecalp.es/pisicifactoria/de-poros-a-bruselas-la-red-contra-las-piscifactorias-llega-al-parlamento-europeo/",
+          "evidence": "La asociación declara que sigue desde 2001 la piscifactoría de Punta de Toix y que trabaja con documentación administrativa y el informe Ocean Takeover. La página no acredita la solicitud concreta de 16 de octubre de 2026 ni aporta su número de registro.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "No se ha localizado el texto oficial de la resolución de 14 de octubre de 2026 de la Dirección General de Centros Docentes ni un listado oficial que confirme los 551.600 euros asignados a Calp.",
-        "No se ha localizado una resolución o listado oficial de LABORA que identifique expresamente a Calp como beneficiario de 25.208,27 euros en ETRAME 2025.",
-        "No se ha localizado en el DOGV la resolución de 18 de septiembre de 2026 con el detalle del importe asignado a Calp para Protección Civil.",
-        "La suma aritmética de 551.600 + 25.208,27 + 998,40 es 577.806,67 euros, por lo que la formulación “más de 577.000 euros” es correcta si las tres cantidades son efectivamente concesiones firmes.",
-        "Las versiones en castellano y valenciano de Calp Comunica, así como la publicación agregada localizada, no constituyen corroboración independiente entre sí."
+        "La corroboración de la mortandad en Canarias procede de Greenpeace y de la noticia candidata; no se ha localizado en esta búsqueda una confirmación independiente de Aquanaria, Canexmar o de una autoridad canaria sobre el episodio de octubre de 2026.",
+        "La afirmación esencial sobre la solicitud de ACEC está respaldada únicamente por la publicación de La Marina Plaza y no por el escrito presentado, un justificante de registro, una respuesta de la Generalitat o una confirmación oficial.",
+        "La resolución ambiental de 2021 acredita la instalación y sus obligaciones de vigilancia, pero no demuestra que se hayan producido determinadas mortalidades, escapes ni incumplimientos en Calp.",
+        "Para elevar a VERIFIED sería necesario obtener el escrito o justificante de registro de ACEC, o una confirmación de la Generalitat que identifique la solicitud y su contenido."
       ],
-      "id": "inv_8aed13446c446a5a",
-      "investigated_at": "2026-10-23T19:16:00.694Z",
+      "id": "inv_5760660a34a9f6d9",
+      "investigated_at": "2026-10-23T22:18:45.338Z",
       "model": "gpt-5.6-luna"
     }
   ]
