@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-23T15:07:30.153Z",
+  "generated_at": "2026-10-23T19:16:33.757Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,50 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_6c42731c38761cfc",
-      "draft_id": "drf_1dccbfb879628552",
-      "investigation_id": "inv_170639bf0955bbf3",
-      "candidate_fingerprint": "bf15b5536a41957418cacb4b23a49455e686798c00b4da6355a68a7de6a3ba5e",
-      "slug": "juicio-presunta-estafa-chale-calp",
-      "category": "SUCESOS",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [
-        "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
-      ],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 7,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 1,
-        "evidence_count": 2,
-        "primary_evidence_count": 0,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 2,
-        "distinct_evidence_hosts": 2,
-        "institutional_or_political": false,
-        "material_caveat": true,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 223
-      },
-      "evaluated_at": "2026-10-23T15:07:30.153Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
