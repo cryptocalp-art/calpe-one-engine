@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-23T22:19:25.438Z",
+  "generated_at": "2026-10-24T01:38:02.668Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-23T22:19:25.233Z",
+  "last_activity": "2026-10-24T01:38:02.536Z",
   "newspaper": {
-    "archive_total": 115,
-    "published_today": 0,
-    "published_last_7_days": 21,
+    "archive_total": 117,
+    "published_today": 2,
+    "published_last_7_days": 23,
     "categories": {
+      "ECONOMIA": 19,
+      "MEDIO_AMBIENTE": 21,
       "SUCESOS": 19,
-      "ECONOMIA": 18,
-      "MEDIO_AMBIENTE": 20,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
@@ -21,6 +21,20 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_8d7881922e229ab3",
+        "title": "Calp recibe 577.806,67 euros en ayudas de la Generalitat para escolarización, empleo y Protección Civil",
+        "category": "ECONOMIA",
+        "slug": "calp-recibe-577806-euros-ayudas-generalitat",
+        "published_at": "2026-10-24T01:37:30.708Z"
+      },
+      {
+        "archive_id": "arc_171bfb2c0bb969d7",
+        "title": "La DANA Adam deja daños agrícolas en la Marina Alta y obliga a reiniciar algunos cultivos",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "dana-adam-danos-agricolas-marina-alta",
+        "published_at": "2026-10-24T01:37:30.708Z"
+      },
       {
         "archive_id": "arc_a4cf6f8d3422a1a1",
         "title": "La Audiencia de Alicante tenía señalado un juicio contra cinco personas por una presunta estafa con un chalé de Calp",
@@ -62,30 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
         "published_at": "2026-10-21T10:12:47.756Z"
-      },
-      {
-        "archive_id": "arc_0f9fce013a827081",
-        "title": "La Marina Alta registra 68.745 afiliaciones en septiembre, pese al descenso mensual",
-        "category": "ECONOMIA",
-        "slug": "marina-alta-afiliaciones-septiembre-2026",
-        "published_at": "2026-10-20T17:11:00.805Z"
-      },
-      {
-        "archive_id": "arc_1c109b40d1633f35",
-        "title": "Rescatan frente a Calp a once supervivientes de una patera tras dos semanas a la deriva",
-        "category": "SUCESOS",
-        "slug": "rescatan-once-supervivientes-patera-frente-calp",
-        "published_at": "2026-10-20T11:41:40.349Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 2,
+    "quarantined": 1,
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_658be58beabc6067",
+      "slug": "generalitat-aprueba-235-millones-ayudas-dana-adam",
+      "category": "SOCIEDAD",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-10-24T01:37:46.975Z"
+    }
+  ]
 }
