@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-24T07:20:28.278Z",
+  "generated_at": "2026-10-24T12:42:26.516Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_3ac654e0ccfba858",
-      "draft_id": "drf_26831153abac2ab1",
-      "investigation_id": "inv_78ba705fcf9707e1",
-      "candidate_fingerprint": "0d39dd86d108c29818c7a10e4b1c17c3d01728a46f7c9e0dc5427c3ad3c73e6a",
-      "slug": "calp-ayuda-oliva-els-poblets-dana-adam",
-      "category": "SUCESOS",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 6,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 1,
-        "secondary_evidence_count": 3,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": true,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 261
-      },
-      "evaluated_at": "2026-10-24T07:20:28.278Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }
