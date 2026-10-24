@@ -1,8 +1,184 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-24T12:42:26.291Z",
+  "generated_at": "2026-10-24T16:36:51.679Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 3,
+  "investigations": [
+    {
+      "candidate_fingerprint": "8e9f6d80e7e16afecc8bf06010300da59b48ad34a107cb7368f0b273f143640e",
+      "title": "Calp completa el trámite municipal para que Sanidad evalúe la parcela del segundo centro de salud",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Ayuntamiento de Calp aprobó por unanimidad el compromiso de asumir las obras y actuaciones necesarias para dotar de servicios una parcela municipal de 13.675 m² situada en Gargasindi, junto al IES Les Salines. El acuerdo permite remitir a la Conselleria de Sanidad la documentación necesaria para que evalúe la idoneidad del solar. Las fuentes no acreditan todavía que la Generalitat haya aceptado la parcela ni que exista financiación o calendario de construcción.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento aprobó el último trámite municipal relacionado con la parcela del segundo centro de salud.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La parcela tiene 13.675 metros cuadrados y está situada en Gargasindi, junto al IES Les Salines.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento asumirá las obras de suministro de electricidad, agua potable, saneamiento y telefonía, además de retirar posibles elementos que dificulten las obras.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La documentación se remitirá a la Conselleria de Sanidad para que estudie la viabilidad e idoneidad del terreno.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Generalitat ya ha aceptado la parcela o ha aprobado la construcción del segundo centro de salud.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-aprueba-el-%C3%BAltimo-tr%C3%A1mite-para-que-la-generalitat-valenciana-eval%C3%BAe",
+          "evidence": "El Ayuntamiento informa de que el pleno aprobó por unanimidad asumir las obras de electricidad, agua potable, saneamiento y telefonía, así como la retirada de elementos ocultos, como requisito solicitado por la Generalitat para estudiar la viabilidad y aceptar eventualmente la parcela de 13.675 m² en Gargasindi.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza / elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/09/17/el-nuevo-centro-de-salud-que-calp-espera-desde-hace-mas-de-20-anos-ya-solo-depende-de-la-conselleria/",
+          "evidence": "La información independiente confirma que el pleno acordó poner a disposición de la Conselleria los terrenos de Gargasindi y que el siguiente paso corresponde a Sanidad, que debe estudiar la documentación y pronunciarse sobre la idoneidad del solar.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12301/calp-completa-el-ultimo-tramite-para-que-la-generalitat-evalue-la-parcela-del-segundo-centro-de-salud",
+          "evidence": "Reproduce los detalles del acuerdo plenario, la superficie de la parcela, su ubicación y el compromiso municipal de dotarla de servicios antes de que Sanidad valore el terreno.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La noticia acredita la finalización del trámite municipal, no la aceptación definitiva del solar por la Generalitat.",
+        "No hay evidencia en las fuentes consultadas de que el centro esté presupuestado, licitado o en construcción."
+      ],
+      "id": "inv_81f89fd3f4df1ba8",
+      "investigated_at": "2026-10-24T16:36:51.679Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "a649b842b47a30f7e3bd0920ebd2c1535199027856d154ea075c6d64f5011083",
+      "title": "Calp licita cerca de 600.000 euros para asfaltar Empedrola, Cometa III y Canuta",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Ayuntamiento de Calp inició la licitación de un proyecto de asfaltado para viales de Empedrola I y II, Cometa III y Canuta, con un presupuesto de licitación de 596.791,23 euros y un plazo previsto de ejecución de tres meses. El proyecto incluye la renovación y regularización del firme, la corrección de baches, blandones, hundimientos y deformaciones, la reposición de drenajes y la renovación de la señalización horizontal.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp inició la licitación de las obras.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El ámbito incluye Empedrola I y II, Cometa III y Canuta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El presupuesto de licitación es de 596.791,23 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo previsto de ejecución es de tres meses.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto contempla reparar firmes deteriorados, mejorar drenajes y renovar la señalización horizontal.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las obras ya han sido adjudicadas o ejecutadas.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-destina-cerca-de-600000%E2%82%AC-al-asfaltado-de-empedrola-i-y-ii-cometa-iii-y",
+          "evidence": "El consistorio comunica el inicio de la licitación, identifica las cuatro zonas incluidas, fija un presupuesto de 596.791,23 euros y un plazo de tres meses. También detalla la reparación de baches, blandones, hundimientos y deformaciones, la mejora del pavimento, los drenajes y la señalización horizontal.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Times",
+          "source_url": "https://lamarinatimes.com/es/economia/calp-saca-a-licitacion-un-plan-de-asfaltado-de-casi-600000-euros-para-cuatro-zonas-del-municipio",
+          "evidence": "La información independiente confirma la apertura de la licitación, el importe de 596.791,23 euros, el plazo de tres meses y las principales actuaciones previstas sobre los viales.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "OpenDataLicit",
+          "source_url": "https://opendatalicit.com/licitaciones/20545496-obras-de-reasfaltado-de-las-partidas-empedrola-i-ii-cometa-iii-y-canuta-en-calp",
+          "evidence": "Registra el expediente OB 09/2026-AOR para las obras de reasfaltado de Empedrola I y II, Cometa III y Canuta, con duración de tres meses y publicación de los pliegos y del anuncio el 22 de septiembre de 2026.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra de 596.791,23 euros corresponde al presupuesto de licitación, no necesariamente al importe final de adjudicación.",
+        "Las fuentes consultadas acreditan la licitación, pero no la adjudicación ni el comienzo efectivo de las obras."
+      ],
+      "id": "inv_623af2f2ef5cd486",
+      "investigated_at": "2026-10-24T16:36:51.679Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d8ba3f071ac7fed975d73bbf0d8e896aed2fdf240217b4967637ec38ec98f908",
+      "title": "Calp aborda la creación de una reserva marina en el entorno del Penyal d’Ifac",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Ayuntamiento de Calp y Oceana promovieron una jornada pública sobre la posible creación de una reserva marina en el entorno del Penyal d’Ifac. La propuesta municipal, aprobada por el pleno en junio de 2026, plantea solicitar a la Conselleria de Agricultura y Pesca una reserva desde las faldas del Penyal hasta el entorno de la playa de la Fossa. La Cofradía de Pescadores de Calp ha expresado su apoyo. La declaración formal de la reserva todavía no consta aprobada.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp y Oceana impulsaron una jornada y el debate sobre una reserva marina en el entorno del Penyal d’Ifac.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La propuesta fue aprobada por el pleno municipal en junio de 2026 para solicitar su creación a la Conselleria competente.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El ámbito planteado se extiende desde las faldas del Penyal d’Ifac hasta el entorno de la playa de la Fossa.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Cofradía de Pescadores de Calp apoya la iniciativa.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La reserva marina ya ha sido declarada oficialmente.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-y-oceana-organizan-una-jornada-sobre-la-importancia-de-proteger-como-reserva-marina-el",
+          "evidence": "El Ayuntamiento informa de la jornada organizada con Oceana y explica que la propuesta parte de un acuerdo plenario de junio para solicitar a la Conselleria de Agricultura y Pesca una reserva desde las faldas del Penyal d’Ifac hasta la playa de la Fossa. También señala el apoyo de la Cofradía de Pescadores de Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Oceana Europe",
+          "source_url": "https://europe.oceana.org/es/press-releases/oceana-apoya-crear-una-reserva-marina-en-calp-para-recuperar-la-pesca-local/",
+          "evidence": "Oceana confirma su apoyo a crear una reserva marina en torno al Peñón de Ifach y vincula la iniciativa con el Ayuntamiento, la Cofradía de Pescadores y el IMEDMAR. La organización sitúa el área propuesta de protección estricta en 267 hectáreas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "À Punt",
+          "source_url": "https://www.apuntmedia.es/noticies/societat/video-l-ajuntament-calp-vol-crear-un-parc-natural-penyal-platja-fossa_1_1883789.html",
+          "evidence": "La radiotelevisión pública valenciana informa de que el Ayuntamiento pretende crear una reserva marina frente al Penyal d’Ifac y la playa de la Fossa, con una petición que debe trasladarse a la Generalitat para decidir si inicia la tramitación.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La formulación correcta es propuesta, iniciativa o solicitud de reserva marina; no consta una declaración oficial definitiva.",
+        "La superficie de 267 hectáreas aparece en la comunicación de Oceana, pero no es necesaria para sostener el núcleo de la noticia candidata y conviene tratarla como dato específico de esa propuesta."
+      ],
+      "id": "inv_1e3eb940f472380f",
+      "investigated_at": "2026-10-24T16:36:51.679Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
