@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-24T01:38:02.668Z",
+  "generated_at": "2026-10-24T07:20:43.069Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-24T01:38:02.536Z",
+  "last_activity": "2026-10-24T07:20:42.847Z",
   "newspaper": {
-    "archive_total": 117,
-    "published_today": 2,
-    "published_last_7_days": 23,
+    "archive_total": 118,
+    "published_today": 3,
+    "published_last_7_days": 24,
     "categories": {
+      "SUCESOS": 20,
       "ECONOMIA": 19,
       "MEDIO_AMBIENTE": 21,
-      "SUCESOS": 19,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
@@ -21,6 +21,13 @@
       "CULTURA": 6
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_6ec4f126da2e0316",
+        "title": "Calp desplaza medios de Protección Civil y una patrulla policial a Oliva y Els Poblets tras la DANA Adam",
+        "category": "SUCESOS",
+        "slug": "calp-ayuda-oliva-els-poblets-dana-adam",
+        "published_at": "2026-10-24T07:20:15.864Z"
+      },
       {
         "archive_id": "arc_8d7881922e229ab3",
         "title": "Calp recibe 577.806,67 euros en ayudas de la Generalitat para escolarización, empleo y Protección Civil",
@@ -69,23 +76,16 @@
         "category": "MEDIO_AMBIENTE",
         "slug": "calp-cuarta-edicion-concurso-escolar-gocalp-sostenibilidad",
         "published_at": "2026-10-21T15:18:30.414Z"
-      },
-      {
-        "archive_id": "arc_7a84d9029359056a",
-        "title": "El Gobierno anuncia la declaración de zona gravemente afectada para los municipios dañados por la DANA Adam",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "gobierno-anuncia-declaracion-zona-gravemente-afectada-dana-adam",
-        "published_at": "2026-10-21T10:12:47.756Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 6,
+    "radar_candidates": 3,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 2
+    "drafts": 1,
+    "eligible": 1,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_658be58beabc6067",
-      "slug": "generalitat-aprueba-235-millones-ayudas-dana-adam",
-      "category": "SOCIEDAD",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-24T01:37:46.975Z"
-    }
-  ]
+  "quarantine": []
 }

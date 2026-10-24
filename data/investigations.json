@@ -1,199 +1,133 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-24T01:36:48.972Z",
+  "generated_at": "2026-10-24T07:19:39.841Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "a40436b1d578bf90964ca16271f367c8a375f21bc3f51a7244dc596bfa1af911",
-      "title": "Calp recibirá más de 576.000 euros de la Generalitat para escolarización, empleo e inclusión",
+      "candidate_fingerprint": "584080b4aabe128c6c0cd64e66fe8bc4b0e288a7e08367e88b4af1659fef212f",
+      "title": "ACEC solicita a la Generalitat los datos de mortalidad y escapes de la piscifactoría de Punta de Toix",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La información está respaldada principalmente por La Marina Plaza, que atribuye a ACEC una solicitud formal presentada el 16 de octubre de 2026. La web de ACEC confirma su seguimiento de la piscifactoría de Punta de Toix y su preocupación por la transparencia del sector, pero no se ha localizado públicamente el escrito registrado ante la Generalitat ni una confirmación independiente de su presentación. Los hechos esenciales son plausibles, pero falta evidencia material sobre la solicitud concreta y su contenido íntegro.",
+      "claims": [
+        {
+          "claim": "ACEC ha solicitado formalmente a la Generalitat Valenciana información ambiental sobre la piscifactoría de Punta de Toix.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La solicitud se presentó el 16 de octubre de 2026 al amparo de la Ley 27/2006.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La petición incluye datos de mortalidad desde 2022, gestión de bajas, escapes comunicados, protocolos ante mortandades masivas e inspecciones.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "ACEC lleva años siguiendo la actividad de la piscifactoría de Punta de Toix y reclama transparencia sobre sus impactos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La instalación de Punta de Toix está vinculada a la acuicultura marina de Calp.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/22/greenpeace-denuncia-otra-mortandad-masiva-de-lubinas-y-doradas-en-gran-canaria-acec-pide-en-calp-los-datos-de-la-piscifactoria-de-punta-de-toix",
+          "evidence": "Publica que ACEC, a través de su presidente, habría solicitado el 16 de octubre a la Generalitat datos de mortalidad desde 2022, gestión de bajas, escapes, protocolos e inspecciones. La fuente presenta esta información como una declaración atribuida a la asociación y no enlaza el escrito de registro ni una respuesta oficial de la Generalitat.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "ACEC",
+          "source_url": "https://www.acecalp.es/pisicifactoria/de-poros-a-bruselas-la-red-contra-las-piscifactorias-llega-al-parlamento-europeo/",
+          "evidence": "ACEC afirma que sigue de cerca la piscifactoría de Punta de Toix desde 2001 y que ha recopilado documentos de la administración y de la empresa. La página confirma el contexto de activismo y seguimiento de la instalación, pero no acredita específicamente la solicitud del 16 de octubre ni enumera su contenido.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Generalitat Valenciana - GVA Participa",
+          "source_url": "https://gvaparticipa.gva.es/legislation/processes/456/draft_versions/152",
+          "evidence": "La documentación autonómica identifica el cabo de Toix dentro del ámbito litoral de la Comunitat Valenciana y recoge competencias de la Generalitat en pesca y acuicultura. No confirma la solicitud de ACEC.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado el escrito de ACEC, justificante de registro, número de expediente o respuesta de la Generalitat.",
+        "La versión valenciana del artículo de La Marina Plaza reproduce esencialmente la misma información y no constituye corroboración independiente.",
+        "Las afirmaciones sobre escapes anteriores, descargas de pescado muerto y cifras de otros informes requieren comprobaciones documentales separadas."
+      ],
+      "id": "inv_a7629d0c0401fd26",
+      "investigated_at": "2026-10-24T07:19:39.841Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "0d39dd86d108c29818c7a10e4b1c17c3d01728a46f7c9e0dc5427c3ad3c73e6a",
+      "title": "Protección Civil y la Policía Local de Calp colaboran en Oliva y Els Poblets tras la DANA Adam",
       "status": "VERIFIED",
       "confidence": "MEDIUM",
       "publishable": true,
-      "summary": "El Ayuntamiento de Calp informa de tres subvenciones autonómicas que suman 577.806,67 euros: 551.600 euros para escolarización de 0 a 3 años en la escuela infantil municipal Silene d’Ifac, 25.208,27 euros del programa ETRAME para contratación de personas desempleadas con problemas graves de salud mental y 998,40 euros para gastos de equipamiento y seguros de Protección Civil. La información está respaldada directamente por la fuente municipal y es coherente con las convocatorias autonómicas localizadas, aunque no se ha encontrado una resolución autonómica individual que confirme en abierto los tres importes asignados a Calp.",
+      "summary": "El Ayuntamiento de Calp publicó el 21 de octubre de 2026 que Protección Civil trasladó una motobomba a Oliva y que sus voluntarios colaboraron en achiques, traslados y reparto de alimentos; también informó del envío de una patrulla de la Policía Local a Els Poblets para apoyo y vigilancia preventiva en comercios afectados. Fuentes independientes confirman que Oliva y Els Poblets sufrieron graves inundaciones por la DANA Adam en esas fechas. La intervención concreta procede de una fuente municipal primaria y no se ha encontrado una segunda fuente independiente que detalle todos sus componentes, por lo que la confianza se mantiene en nivel medio.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha recibido nuevas subvenciones de la Generalitat Valenciana.",
+          "claim": "Protección Civil de Calp se desplazó a Oliva tras las inundaciones provocadas por la DANA Adam.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ayuda para escolarización de 0 a 3 años asciende a 551.600 euros y se destina a la Escuela Infantil Municipal Silene d’Ifac.",
+          "claim": "Protección Civil trasladó a Oliva una motobomba de achique solicitada por el municipio.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La ayuda de LABORA asciende a 25.208,27 euros y corresponde al programa ETRAME para contratar personas desempleadas con trastorno mental grave o problemas graves de salud mental.",
+          "claim": "Los voluntarios colaboraron en achiques, traslados desde campings a zonas seguras o centros de salud y reparto de alimentos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Protección Civil recibe 998,40 euros para gastos de equipamiento y seguros del voluntariado durante 2026.",
+          "claim": "La Policía Local de Calp envió una patrulla a Els Poblets.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El conjunto de las ayudas supera los 576.000 euros.",
+          "claim": "La patrulla realizó tareas de apoyo y vigilancia preventiva en comercios y establecimientos afectados por la riada para prevenir robos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Oliva y Els Poblets estuvieron entre las localidades más afectadas por la DANA Adam en octubre de 2026.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%92%B6-lajuntament-de-calp-informa-de-noves-subvencions-rebudes-de-la-generalitat-valenciana/?lang=va-val",
-          "evidence": "La nota municipal, publicada el 23 de octubre de 2026, identifica las tres subvenciones y sus importes: 551.600 euros para escolarización 0-3 en Silene d’Ifac, 25.208,27 euros de LABORA dentro de ETRAME 2025 y 998,40 euros de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias para Protección Civil.",
+          "source_name": "Calp Comunica - Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/page/3/",
+          "evidence": "La publicación municipal fechada el 21 de octubre de 2026 informa de que Protección Civil de Calp trasladó a Oliva una motobomba de achique y colaboró en extracción de agua, traslado de personas desde campings a zonas seguras y centros de salud, y reparto de alimentos. También afirma que la Policía Local envió una patrulla a Els Poblets para apoyar a la población y realizar vigilancia preventiva en comercios afectados.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Generalitat Valenciana — sede electrónica, procedimiento de ayudas 0-3 años 2026-2027",
-          "source_url": "https://sede.gva.es/en/detall-tramit?id_proc=2584&version=red",
-          "evidence": "La Generalitat confirma la existencia de la convocatoria de ayudas para escolarización del primer ciclo de Educación Infantil en escuelas infantiles municipales durante el curso 2026-2027, publicada mediante resolución de 13 de julio de 2026.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Generalitat Valenciana — GVA Next, convocatoria de escolarización 0-3 años 2026-2027",
-          "source_url": "https://gvanext.gva.es/ca-es-valencia/oportunidades/30830/ayudas-economicas-destinadas-a-la-escolarizacion-en-centros-privados-autorizados-de-educacion-infantil-y-escuelas-infantiles-municipales-de-primer-ciclo-2026-c.-valenciana?OpportunityTypes=InnovativePublicPurchase&PageNumber=-6&SortBy=BudgetSize",
-          "evidence": "La convocatoria autonómica establece que la ayuda financia la escolarización del primer ciclo de Educación Infantil en escuelas infantiles municipales durante el curso 2026-2027.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración independiente de los tres importes concretos asignados a Calp no se ha localizado en una resolución autonómica individual consultable en abierto.",
-        "La suma exacta de las cantidades comunicadas es 577.806,67 euros."
-      ],
-      "id": "inv_0571529f9d4f6a6c",
-      "investigated_at": "2026-10-24T01:36:48.972Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "9fb27d2c5e89606b2b4110681c90f71d1474c096dda09d89b4a49cb161d2f361",
-      "title": "La Generalitat activa 23,5 millones de euros en ayudas para la recuperación de la Marina Alta tras la DANA Adam",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La Generalitat Valenciana aprobó un primer paquete de ayudas por 23,5 millones de euros tras la DANA Adam. Las medidas incluyen hasta 6.000 euros por pérdida de bienes de primera necesidad en la vivienda habitual, 3.000 euros para segundas residencias y 800 euros mensuales durante un año para realojo. El paquete reserva además 17,5 millones para gastos urgentes de los ayuntamientos, con un límite de hasta 200.000 euros por municipio. La noticia queda corroborada por Cadena SER, À Punt y Europa Press.",
-      "claims": [
-        {
-          "claim": "La Generalitat aprobó un primer paquete de ayudas de 23,5 millones de euros por la DANA Adam.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ayuda puede alcanzar 6.000 euros por pérdida de bienes de primera necesidad en la vivienda habitual.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La ayuda para segundas residencias puede alcanzar 3.000 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se prevén 800 euros mensuales durante un año para realojo de personas que hayan perdido su vivienda habitual.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se reservan 17,5 millones de euros para gastos urgentes de los ayuntamientos.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Cada ayuntamiento puede recibir hasta 200.000 euros dentro de esa línea municipal.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Cadena SER — Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia",
-          "evidence": "La información publicada el 21 de octubre de 2026 detalla un primer paquete autonómico de 23,5 millones de euros, ayudas de hasta 6.000 euros para bienes de primera necesidad en vivienda habitual, 3.000 euros para segunda residencia, 800 euros mensuales durante un año para realojo y 17,5 millones para gastos urgentes municipales, con hasta 200.000 euros por municipio.",
+          "source_name": "20minutos",
+          "source_url": "https://www.20minutos.es/comunidad-valenciana/vecinos-afectados-por-dana-adam-gente-estaba-dormida-agua-entraba-por-las-ventanas_7050396_0.html",
+          "evidence": "Describe graves inundaciones en Oliva y Els Poblets durante la DANA Adam, con rescates de vecinos y daños materiales. La fuente no confirma específicamente el despliegue de medios de Calp.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "À Punt — información sobre el Consell",
-          "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-un-paquet-23-5-milions-d-urgencia-als-afectats-dana-adam_1_1903050.amp.html",
-          "evidence": "À Punt confirma que el Consell aprobó un primer paquete urgente de 23,5 millones de euros y que las familias cuya vivienda habitual quedó inutilizada pueden recibir 800 euros mensuales durante doce meses para alquiler o alojamiento alternativo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/valencia/noticia-consell-aprova-primer-paquet-dajudes-235-milions-deuros-per-als-afectats-per-dana-adam-20261021104431.html",
-          "evidence": "Europa Press informa de la aprobación por el pleno extraordinario del Consell de un primer paquete de ayudas de 23,5 millones de euros para afectados por la DANA Adam en zonas del litoral sur de Valencia y norte de Alicante.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER — Radio Gandia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-generalitat-ayudara-con-6000-euros-a-viviendas-afectadas-por-la-dana-adam-radio-gandia",
-          "evidence": "La Cadena SER confirma que las medidas para afectados y ayuntamientos suman 23,5 millones, con hasta 200.000 euros por ayuntamiento y una dotación inicial de 17,5 millones para gastos urgentes municipales.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "El candidato atribuye las ayudas a la recuperación de la Marina Alta, pero el paquete autonómico se dirige a un ámbito más amplio de municipios afectados de la Comunitat Valenciana; la cobertura de municipios concretos puede modificarse mediante posteriores ampliaciones.",
-        "La información consultada describe el paquete aprobado, no necesariamente el importe finalmente cobrado por cada beneficiario."
-      ],
-      "id": "inv_813b77c1c20e208c",
-      "investigated_at": "2026-10-24T01:36:48.972Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "20c6b362ca952b4279adc15691e5fa304d1da4bdbb9115d7e640e7dc7083c501",
-      "title": "La DANA Adam causa daños agrícolas en la Marina Alta y obliga a replantar algunos cultivos",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "Hay corroboración independiente de daños agrícolas en la Marina Alta tras la DANA Adam. Las fuentes describen afecciones por inundación, encharcamiento, arrastre de suelo y problemas de acceso en cultivos de cítricos, olivos, aguacates, caquis, hortalizas y otros productos. También se documentan riesgos de asfixia radicular, hongos y pérdida de plantaciones. La parte relativa a que algunos cultivos deben comenzar de nuevo está respaldada por los daños en hortalizas recién plantadas y por testimonios sobre pérdida de cosechas y necesidad de reconstruir parcelas.",
-      "claims": [
-        {
-          "claim": "La DANA Adam provocó daños agrícolas relevantes en la Marina Alta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los cultivos de cítricos, olivos y hortalizas resultaron afectados por exceso de agua y encharcamiento.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El encharcamiento puede causar falta de oxígeno en las raíces, muerte de árboles y aparición de hongos o enfermedades radiculares.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Algunos cultivos hortícolas recién plantados sufrieron pérdidas que obligan a reiniciar la producción.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los agricultores están documentando los daños ante posibles ayudas de emergencia.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La DANA provocó arrastres de tierra fértil y daños en caminos, sistemas de riego y otras infraestructuras agrarias.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Cadena SER — Radio Dénia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-dana-adam-deja-perdidas-en-el-campo-de-la-marina-alta-y-obliga-a-empezar-de-cero-en-algunos-cultivos-radio-denia",
-          "evidence": "La emisora informa de daños especialmente concentrados en Pego: dificultades de acceso a parcelas de cítricos y olivos, pérdidas en cultivos hortícolas recién plantados, encharcamiento prolongado, riesgo de muerte de árboles y aparición de hongos, pérdida de tierra fértil y recomendación de documentar los daños con fotografías, inventarios y registros.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Agroseguro",
-          "source_url": "https://canaldis.com/mediahubs/agroseguro/notas-de-prensa/agroseguro-recuerda-que-los-danos-provocados-por-la-dana-adam-estan-cubiertos-por-el-sistema-de-seguros-agrarios",
-          "evidence": "Agroseguro prevé afecciones en cítricos, caqui, aguacate, uva de mesa y hortícolas, además de invernaderos y sistemas de riego, con epicentro en La Safor y La Marina Alta. Señala que los daños pueden derivarse del exceso de agua, la inundación de parcelas y los arrastres de suelo.",
-          "source_type": "PRIMARY"
         },
         {
           "source_name": "RTVE",
-          "source_url": "https://stories.rtve.es/actualidad/newstory/directo-al-grano/ca1a1eb76ded6594b7df",
-          "evidence": "RTVE documenta daños en cultivos de aguacates, naranjas y mandarinas en la Marina Alta, con árboles caídos o cubiertos de barro, pérdida de cosecha y necesidad de limpiar y reconstruir parcelas. También recoge que los daños pueden comprometer producciones de años posteriores.",
+          "source_url": "https://www.rtve.es/noticias/comunidad-valenciana/alicante/",
+          "evidence": "Incluye cobertura fechada el 20 y 21 de octubre de 2026 sobre la limpieza de casas y comercios y la atención a damnificados en Els Poblets tras el paso de la DANA Adam, corroborando el contexto de emergencia en el municipio.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "MarinaAlta.es — Dénia FM",
-          "source_url": "https://marinaalta.es/2026/10/la-dana-adam-deja-perdidas-de-21-millones-de-euros-en-el-campo-de-la-marina-alta-y-la-safor/",
-          "evidence": "La información recoge una primera estimación de LA UNIÓ de unos 21 millones de euros de pérdidas agrícolas y unas 9.000 hectáreas afectadas en la Marina Alta y la Safor, con daños especialmente relevantes en cítricos, además de aguacates, caquis, hortalizas y uva de mesa.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/20/tras-la-dana-la-solidaridad-la-ciudadania-se-moviliza-para-llevar-material-y-limpiar-en-los-municipios-afectados-de-la-marina-alta-y-la-safor/",
+          "evidence": "Informa de que Els Poblets, Pego y Oliva fueron municipios muy afectados por la DANA Adam y de la movilización de ayuda y voluntariado en esas localidades. No reproduce el comunicado municipal de Calp ni confirma sus actuaciones concretas.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La magnitud definitiva de las pérdidas seguía pendiente de evaluación porque había parcelas inaccesibles varios días después del temporal.",
-        "La expresión «obliga a replantar» es una síntesis periodística: las fuentes confirman pérdidas de cultivos recién plantados y la necesidad de reconstruir o reiniciar algunas explotaciones, pero no cuantifican cuántas parcelas tendrán que replantarse exactamente."
+        "La intervención concreta de Protección Civil y Policía Local está acreditada por la comunicación oficial del Ayuntamiento de Calp; las fuentes independientes consultadas corroboran el contexto de emergencia, pero no detallan de forma independiente cada actuación descrita.",
+        "No se ha localizado un parte operativo de Protección Civil, Policía Local, Consorcio de Bomberos o los ayuntamientos de Oliva y Els Poblets que documente el despliegue."
       ],
-      "id": "inv_68bc1816fb133d6e",
-      "investigated_at": "2026-10-24T01:36:48.972Z",
+      "id": "inv_78ba705fcf9707e1",
+      "investigated_at": "2026-10-24T07:19:39.841Z",
       "model": "gpt-5.6-luna"
     }
   ]

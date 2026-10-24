@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-24T01:37:47.193Z",
-  "count": 117,
+  "updated_at": "2026-10-24T07:20:28.614Z",
+  "count": 118,
   "articles": [
+    {
+      "archive_id": "arc_6ec4f126da2e0316",
+      "external_id": "drf_26831153abac2ab1",
+      "investigation_id": "inv_78ba705fcf9707e1",
+      "candidate_fingerprints": [
+        "0d39dd86d108c29818c7a10e4b1c17c3d01728a46f7c9e0dc5427c3ad3c73e6a"
+      ],
+      "title": "Calp desplaza medios de Protección Civil y una patrulla policial a Oliva y Els Poblets tras la DANA Adam",
+      "slug": "calp-ayuda-oliva-els-poblets-dana-adam",
+      "summary": "Protección Civil de Calp trasladó una motobomba de achique a Oliva y colaboró en distintas tareas tras las inundaciones provocadas por la DANA Adam, según informó el Ayuntamiento el 21 de octubre de 2026. La Policía Local también envió una patrulla a Els Poblets para prestar apoyo y realizar vigilancia preventiva en establecimientos afectados.",
+      "body": "Protección Civil de Calp se desplazó a Oliva después de las inundaciones registradas durante el episodio de la DANA Adam. De acuerdo con la comunicación publicada por el Ayuntamiento de Calp, los voluntarios trasladaron hasta el municipio una motobomba de achique solicitada para ayudar en la extracción de agua.\n\nLa actuación incluyó trabajos de achique y el traslado de personas desde campings hacia zonas seguras o centros de salud. Los voluntarios también participaron en el reparto de alimentos, siempre según la información difundida por el consistorio calpino el 21 de octubre.\n\nDe forma paralela, la Policía Local de Calp envió una patrulla a Els Poblets. El Ayuntamiento señala que el despliegue tuvo como finalidad apoyar a la población y llevar a cabo tareas de vigilancia preventiva en comercios y establecimientos afectados por la riada, con el objetivo de prevenir robos.\n\nOliva y Els Poblets estuvieron entre las localidades afectadas por las inundaciones asociadas a la DANA Adam en octubre de 2026. La cobertura de medios independientes consultados recoge daños materiales, rescates y labores de limpieza y atención a personas damnificadas en ambos municipios, aunque no confirma de manera específica el despliegue de los medios de Calp.\n\nLa intervención concreta de Protección Civil y de la Policía Local está documentada en la comunicación oficial del Ayuntamiento de Calp. No se ha localizado un parte operativo independiente de Protección Civil, la Policía Local, el Consorcio de Bomberos o los ayuntamientos de Oliva y Els Poblets que detalle ese despliegue. Por ello, el alcance de las actuaciones se atribuye a la información municipal disponible.",
+      "category": "SUCESOS",
+      "seo_title": "Calp envía ayuda a Oliva y Els Poblets tras la DANA",
+      "meta_description": "Protección Civil de Calp trasladó una motobomba a Oliva y la Policía Local envió una patrulla a Els Poblets tras la DANA Adam.",
+      "sources": [
+        {
+          "name": "Calp Comunica - Ayuntamiento de Calp",
+          "url": "https://calpcomunica.calp.es/page/3/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "20minutos",
+          "url": "https://www.20minutos.es/comunidad-valenciana/vecinos-afectados-por-dana-adam-gente-estaba-dormida-agua-entraba-por-las-ventanas_7050396_0.html",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "RTVE",
+          "url": "https://www.rtve.es/noticias/comunidad-valenciana/alicante/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/10/20/tras-la-dana-la-solidaridad-la-ciudadania-se-moviliza-para-llevar-material-y-limpiar-en-los-municipios-afectados-de-la-marina-alta-y-la-safor/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://calpcomunica.calp.es/page/3",
+        "https://www.20minutos.es/comunidad-valenciana/vecinos-afectados-por-dana-adam-gente-estaba-dormida-agua-entraba-por-las-ventanas_7050396_0.html",
+        "https://www.rtve.es/noticias/comunidad-valenciana/alicante",
+        "https://lamarina.eldiario.es/2026/10/20/tras-la-dana-la-solidaridad-la-ciudadania-se-moviliza-para-llevar-material-y-limpiar-en-los-municipios-afectados-de-la-marina-alta-y-la-safor"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 6,
+        "evidence_count": 4,
+        "caveats": [
+          "La intervención concreta de Protección Civil y Policía Local está acreditada por la comunicación oficial del Ayuntamiento de Calp; las fuentes independientes consultadas corroboran el contexto de emergencia, pero no detallan de forma independiente cada actuación descrita.",
+          "No se ha localizado un parte operativo de Protección Civil, Policía Local, Consorcio de Bomberos o los ayuntamientos de Oliva y Els Poblets que documente el despliegue."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_3ac654e0ccfba858",
+        "quality_gate_evaluated_at": "2026-10-24T07:20:28.278Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La descripción de las actuaciones concretas procede de una comunicación oficial del Ayuntamiento de Calp. Las fuentes independientes corroboran el contexto de inundaciones, pero no detallan de forma independiente el despliegue.",
+        "Mantener la atribución al Ayuntamiento y evitar presentar como verificado por fuentes operativas independientes el alcance completo de la intervención."
+      ],
+      "published_at": "2026-10-24T07:20:15.864Z",
+      "updated_at": "2026-10-24T07:20:28.614Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_8d7881922e229ab3",
       "external_id": "drf_2bea4f33dee9227b",
