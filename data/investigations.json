@@ -1,8 +1,77 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-25T06:10:17.444Z",
+  "generated_at": "2026-10-25T11:33:59.045Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 1,
+  "investigations": [
+    {
+      "candidate_fingerprint": "8428ea9e7ea9b273a2d88cd085d766eaa33d20cd054210f8848b480ffaf8db91",
+      "title": "La Generalitat reabre todas las carreteras afectadas por la DANA Adam en la Marina Alta y el resto de la Comunitat",
+      "status": "REJECTED",
+      "confidence": "HIGH",
+      "publishable": false,
+      "summary": "La información contiene hechos reales, pero el titular y el resumen presentan una afirmación materialmente más amplia que la respaldada por las fuentes. La Generalitat reabrió la última de las 14 carreteras de titularidad autonómica afectadas, no se acredita que todas las 42 carreteras afectadas en la Comunitat —incluidas vías provinciales, municipales y estatales— estuvieran abiertas. Los datos de 42 carreteras afectadas y 372 incidencias sí aparecen respaldados, pero proceden del mismo comunicado administrativo reproducido por varios medios.",
+      "claims": [
+        {
+          "claim": "La Generalitat reabrió la última carretera autonómica afectada por la DANA Adam, la CV-700.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las 14 carreteras de titularidad autonómica afectadas por el temporal quedaron abiertas al tráfico.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Todas las carreteras afectadas por la DANA Adam en la Marina Alta y en el conjunto de la Comunitat Valenciana quedaron reabiertas.",
+          "status": "CONTRADICTED"
+        },
+        {
+          "claim": "Las lluvias afectaron a 42 carreteras de distintas titularidades en la Comunitat Valenciana: 18 de la Diputación de Alicante, 14 de la Generalitat, siete de la Diputación de València, dos municipales y una estatal.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El CEGESEM gestionó 372 incidencias durante el episodio, de las que 200 se registraron el 19 de octubre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La Marina Alta estuvo entre las zonas con mayor incidencia del temporal.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Cadena SER – Radio Gandia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia/",
+          "evidence": "El artículo afirma que se reabrió la última de las 14 carreteras autonómicas afectadas, la CV-700, y que quedaron abiertas todas las vías autonómicas afectadas. También atribuye al CEGESEM 372 incidencias y cifra en 42 las carreteras afectadas de distintas titularidades. El propio texto no afirma que las 42 carreteras estuvieran todas reabiertas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Europa Press",
+          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-reabre-ultima-quincena-carreteras-autonomicas-afectadas-dana-adam-20261024115347.html",
+          "evidence": "La noticia especifica que la reapertura correspondió a la última de las 14 carreteras de titularidad autonómica. Diferencia esas 14 vías de las 42 carreteras afectadas en toda la Comunitat, que incluían carreteras de diputaciones, municipios y titularidad estatal. También recoge los datos de 372 incidencias y 200 registradas el 19 de octubre.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Valencia Extra",
+          "source_url": "https://www.valenciaextra.com/es/sociedad/la-generalitat-cierra-el-capitulo-de-la-dana-adam-en-las-carreteras-valencianas-las-14-vias-autonomicas-afectadas-ya-estan-abiertas-al-trafico_602162_102.html",
+          "evidence": "El medio describe la reapertura de la CV-700 como la última de las 14 carreteras autonómicas afectadas y mantiene la distinción entre esas vías y las 42 carreteras de diferentes titularidades afectadas por el temporal. La redacción reproduce sustancialmente los mismos datos administrativos.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "ValenciaDiari",
+          "source_url": "https://valenciadiari.com/treballs-carreteres-valencianes-dana-adam/",
+          "evidence": "La información publicada el 19 de octubre confirma afecciones relevantes en la CV-700, CV-715 y CV-720 en la Marina Alta, además de trabajos en vías de otras comarcas. Sirve como corroboración contextual de los daños y de la actuación de la Generalitat, pero no acredita por sí sola la reapertura final de todas las vías.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "Las informaciones del 24 de octubre de Cadena SER, Europa Press y otros medios parecen proceder del mismo comunicado de la administración autonómica; por tanto, no constituyen corroboraciones plenamente independientes entre sí.",
+        "No se ha localizado una publicación oficial de la Generalitat con el listado completo y el estado final de las 42 carreteras afectadas.",
+        "La formulación publicable debería limitarse a: «La Generalitat reabre la última de las 14 carreteras autonómicas afectadas por la DANA Adam»."
+      ],
+      "id": "inv_ca4998505a187270",
+      "investigated_at": "2026-10-25T11:33:59.045Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
