@@ -1,76 +1,88 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-25T11:33:59.045Z",
+  "generated_at": "2026-10-25T16:24:31.260Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "8428ea9e7ea9b273a2d88cd085d766eaa33d20cd054210f8848b480ffaf8db91",
-      "title": "La Generalitat reabre todas las carreteras afectadas por la DANA Adam en la Marina Alta y el resto de la Comunitat",
-      "status": "REJECTED",
+      "candidate_fingerprint": "82d4ecc2ebca22c6090cd821617ad821eab0905cfcd123fbb6f3ad323a237ad3",
+      "title": "La Marina Alta avanza en la recuperación de la DANA Adam con 23,5 millones en ayudas y nuevas reclamaciones sobre los cauces",
+      "status": "VERIFIED",
       "confidence": "HIGH",
-      "publishable": false,
-      "summary": "La información contiene hechos reales, pero el titular y el resumen presentan una afirmación materialmente más amplia que la respaldada por las fuentes. La Generalitat reabrió la última de las 14 carreteras de titularidad autonómica afectadas, no se acredita que todas las 42 carreteras afectadas en la Comunitat —incluidas vías provinciales, municipales y estatales— estuvieran abiertas. Los datos de 42 carreteras afectadas y 372 incidencias sí aparecen respaldados, pero proceden del mismo comunicado administrativo reproducido por varios medios.",
+      "publishable": true,
+      "summary": "La información queda corroborada. La DANA Adam afectó especialmente a varios municipios de la Marina Alta entre el 18 y el 19 de octubre de 2026; a fecha de 21 de octubre seguían las labores de limpieza, achique y evaluación de daños. La Generalitat había aprobado un primer paquete de 23,5 millones de euros y alcaldes de la comarca reclamaban limpieza, mantenimiento y actuaciones preventivas en ríos y barrancos. Como actualización, el importe autonómico total había aumentado a 43,5 millones tras nuevas ayudas aprobadas el 23 de octubre.",
       "claims": [
         {
-          "claim": "La Generalitat reabrió la última carretera autonómica afectada por la DANA Adam, la CV-700.",
+          "claim": "La DANA Adam provocó inundaciones graves en la Marina Alta, especialmente en Els Poblets, Pego, El Verger y Xàbia.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las 14 carreteras de titularidad autonómica afectadas por el temporal quedaron abiertas al tráfico.",
+          "claim": "Los municipios afectados continuaban con trabajos de limpieza, retirada de barro, achique y evaluación de daños el 21 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Todas las carreteras afectadas por la DANA Adam en la Marina Alta y en el conjunto de la Comunitat Valenciana quedaron reabiertas.",
+          "claim": "La Generalitat aprobó un primer paquete de ayudas por valor de 23,5 millones de euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las ayudas iniciales incluían hasta 6.000 euros para bienes de primera necesidad en viviendas habituales, 3.000 euros para segundas residencias y ayudas de realojo de hasta 800 euros mensuales durante un año.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Alcaldes de la Marina Alta reclamaron actuaciones de limpieza, mantenimiento y prevención en ríos, barrancos y cauces, incluida la retirada de cañas y vegetación.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "A fecha de 25 de octubre de 2026, los 23,5 millones constituían el total de ayudas autonómicas aprobadas.",
           "status": "CONTRADICTED"
-        },
-        {
-          "claim": "Las lluvias afectaron a 42 carreteras de distintas titularidades en la Comunitat Valenciana: 18 de la Diputación de Alicante, 14 de la Generalitat, siete de la Diputación de València, dos municipales y una estatal.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El CEGESEM gestionó 372 incidencias durante el episodio, de las que 200 se registraron el 19 de octubre.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Marina Alta estuvo entre las zonas con mayor incidencia del temporal.",
-          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER – Radio Gandia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia/",
-          "evidence": "El artículo afirma que se reabrió la última de las 14 carreteras autonómicas afectadas, la CV-700, y que quedaron abiertas todas las vías autonómicas afectadas. También atribuye al CEGESEM 372 incidencias y cifra en 42 las carreteras afectadas de distintas titularidades. El propio texto no afirma que las 42 carreteras estuvieran todas reabiertas.",
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia/",
+          "evidence": "Describe inundaciones en Els Poblets, Pego, El Verger y Xàbia; trabajos de limpieza, retirada de barro y evaluación de daños; el primer paquete autonómico de 23,5 millones; y las reclamaciones de Xàbia, Els Poblets y otros municipios sobre limpieza y actuaciones en los cauces.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-reabre-ultima-quincena-carreteras-autonomicas-afectadas-dana-adam-20261024115347.html",
-          "evidence": "La noticia especifica que la reapertura correspondió a la última de las 14 carreteras de titularidad autonómica. Diferencia esas 14 vías de las 42 carreteras afectadas en toda la Comunitat, que incluían carreteras de diputaciones, municipios y titularidad estatal. También recoge los datos de 372 incidencias y 200 registradas el 19 de octubre.",
+          "source_name": "Cadena SER Radio Valencia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/el-consell-aprobara-este-viernes-nuevas-ayudas-para-los-afectadas-de-la-dana-adam-radio-valencia/",
+          "evidence": "Confirma que el Consell aprobó un primer paquete de 23,5 millones, con ayudas de 6.000 euros para viviendas habituales, 3.000 euros para segundas residencias y hasta 200.000 euros para gastos urgentes municipales. También recoge la petición del president de planes e inversiones para mantener y limpiar ríos y barrancos.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Valencia Extra",
-          "source_url": "https://www.valenciaextra.com/es/sociedad/la-generalitat-cierra-el-capitulo-de-la-dana-adam-en-las-carreteras-valencianas-las-14-vias-autonomicas-afectadas-ya-estan-abiertas-al-trafico_602162_102.html",
-          "evidence": "El medio describe la reapertura de la CV-700 como la última de las 14 carreteras autonómicas afectadas y mantiene la distinción entre esas vías y las 42 carreteras de diferentes titularidades afectadas por el temporal. La redacción reproduce sustancialmente los mismos datos administrativos.",
+          "source_name": "El Diario Comunitat Valenciana",
+          "source_url": "https://www.eldiario.es/comunitat-valenciana/gobierno-valenciano-aprueba-paquete-ayudas-23-5-millones-euros-afectados-dana-adam_1_13603195.amp.html",
+          "evidence": "Corrobora de forma independiente que el Pleno del Consell aprobó el 21 de octubre de 2026 un primer paquete de ayudas inmediatas por 23,5 millones para los afectados por la DANA Adam.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "ValenciaDiari",
-          "source_url": "https://valenciadiari.com/treballs-carreteres-valencianes-dana-adam/",
-          "evidence": "La información publicada el 19 de octubre confirma afecciones relevantes en la CV-700, CV-715 y CV-720 en la Marina Alta, además de trabajos en vías de otras comarcas. Sirve como corroboración contextual de los daños y de la actuación de la Generalitat, pero no acredita por sí sola la reapertura final de todas las vías.",
+          "source_name": "Ajuntament de Pego",
+          "source_url": "https://pego.org/pego-sollicita-per-unanimitat-la-declaracio-de-zona-catastrofica-despres-dels-greus-danys-provocats-per-la-dana-adam/",
+          "evidence": "La fuente municipal confirma daños importantes causados por la DANA Adam en Pego los días 18 y 19 de octubre y la adopción de medidas municipales de recuperación.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Xàbia al Día",
+          "source_url": "https://xabiaaldia.com/art/160099/xabia-reclama-limpieza-rios-barrancos-prevencion-inundaciones",
+          "evidence": "Informa de la petición de la alcaldesa de Xàbia para limpiar y mantener ríos y barrancos, retirar cañas, vegetación y árboles acumulados y agilizar actuaciones preventivas a través de la Confederación Hidrográfica del Júcar.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El País",
+          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-de-la-dana-adam.html",
+          "evidence": "Confirma que el 23 de octubre el Consell elevó el conjunto de ayudas a 43,5 millones para 41 municipios y que el paquete inicial había sido de 23,5 millones.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las informaciones del 24 de octubre de Cadena SER, Europa Press y otros medios parecen proceder del mismo comunicado de la administración autonómica; por tanto, no constituyen corroboraciones plenamente independientes entre sí.",
-        "No se ha localizado una publicación oficial de la Generalitat con el listado completo y el estado final de las 42 carreteras afectadas.",
-        "La formulación publicable debería limitarse a: «La Generalitat reabre la última de las 14 carreteras autonómicas afectadas por la DANA Adam»."
+        "La cifra de 23,5 millones es correcta para el primer paquete aprobado el 20-21 de octubre, pero quedó superada por nuevas ayudas aprobadas el 23 de octubre: el total anunciado pasó a 43,5 millones.",
+        "La fuente primaria autonómica —el decreto y las convocatorias publicadas en el DOGV— no fue localizada directamente en el buscador durante esta comprobación; las cuantías están corroboradas por Cadena SER, elDiario.es y El País, mientras que sí se localizó una fuente primaria municipal sobre los daños y la recuperación en Pego.",
+        "Las reclamaciones sobre los cauces son declaraciones y peticiones de autoridades municipales; las fuentes consultadas no permiten concluir que la falta de limpieza fuese la causa determinante de los desbordamientos."
       ],
-      "id": "inv_ca4998505a187270",
-      "investigated_at": "2026-10-25T11:33:59.045Z",
+      "id": "inv_3359c607462588b6",
+      "investigated_at": "2026-10-25T16:24:31.260Z",
       "model": "gpt-5.6-luna"
     }
   ]

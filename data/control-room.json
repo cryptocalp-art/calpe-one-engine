@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-25T11:34:41.536Z",
+  "generated_at": "2026-10-25T16:25:27.041Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-25T11:34:41.338Z",
+  "last_activity": "2026-10-25T16:25:26.882Z",
   "newspaper": {
     "archive_total": 118,
     "published_today": 0,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 2,
     "investigated": 0,
-    "drafts": 0,
+    "drafts": 1,
     "eligible": 0,
-    "quarantined": 0,
+    "quarantined": 1,
     "archive_added": 0
   },
   "delivery": {
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_835b3fe823decbe6",
+      "slug": "marina-alta-recuperacion-dana-adam-ayudas-cauces",
+      "category": "MEDIO_AMBIENTE",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-25T16:25:16.948Z"
+    }
+  ]
 }

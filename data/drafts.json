@@ -1,8 +1,74 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-25T11:34:29.894Z",
+  "generated_at": "2026-10-25T16:25:07.520Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_835b3fe823decbe6",
+      "investigation_id": "inv_3359c607462588b6",
+      "candidate_fingerprint": "82d4ecc2ebca22c6090cd821617ad821eab0905cfcd123fbb6f3ad323a237ad3",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-25T16:25:07.520Z",
+      "model": "gpt-5.6-luna",
+      "headline": "La Marina Alta mantiene la recuperación tras la DANA Adam mientras reclama actuaciones en los cauces",
+      "subheadline": "Els Poblets, Pego, El Verger y Xàbia siguen entre los municipios más afectados; las ayudas autonómicas anunciadas han pasado de 23,5 a 43,5 millones de euros.",
+      "lead": "Los municipios de la Marina Alta afectados por la DANA Adam continúan con las tareas de limpieza, retirada de barro, achique y evaluación de daños. Els Poblets, Pego, El Verger y Xàbia figuran entre las localidades que sufrieron inundaciones graves durante los días 18 y 19 de octubre.",
+      "body_markdown": "Los trabajos de recuperación siguen en marcha en varios municipios de la Marina Alta tras las inundaciones provocadas por la DANA Adam. A fecha de 21 de octubre, los equipos municipales mantenían las labores de limpieza, retirada de barro, achique de agua y valoración de los daños registrados en viviendas y otros espacios afectados.\n\nPego confirmó daños importantes y adoptó medidas municipales para avanzar en la recuperación. También se registraron afecciones destacadas en Els Poblets, El Verger y Xàbia, según la información recopilada sobre el episodio meteorológico.\n\nLa Generalitat aprobó inicialmente un paquete de ayudas de 23,5 millones de euros. Entre las medidas anunciadas figuraban ayudas de hasta 6.000 euros para bienes de primera necesidad en viviendas habituales y de hasta 3.000 euros para segundas residencias. El paquete también contemplaba ayudas para el realojo de hasta 800 euros mensuales durante un año y recursos de hasta 200.000 euros para gastos urgentes de los municipios.\n\nEse primer importe fue ampliado posteriormente. El 23 de octubre, el conjunto de ayudas anunciadas por el Consell ascendía a 43,5 millones de euros para 41 municipios afectados. Por tanto, los 23,5 millones corresponden al paquete inicial y no al total autonómico comunicado hasta el momento.\n\nAlcaldes de la comarca han reclamado actuaciones de limpieza, mantenimiento y prevención en ríos, barrancos y otros cauces. Entre las peticiones planteadas se incluye la retirada de cañas, vegetación y árboles acumulados, así como la agilización de intervenciones preventivas.\n\nEstas reclamaciones son solicitudes formuladas por autoridades municipales. La información disponible no permite establecer que la falta de limpieza de los cauces fuese la causa determinante de los desbordamientos registrados durante la DANA Adam.",
+      "seo_title": "La Marina Alta sigue recuperándose de la DANA Adam",
+      "meta_description": "Los municipios afectados de la Marina Alta mantienen la limpieza y evaluación de daños. Las ayudas autonómicas anunciadas ascienden a 43,5 millones.",
+      "slug": "marina-alta-recuperacion-dana-adam-ayudas-cauces",
+      "editorial_notes": [
+        "La cifra de 23,5 millones corresponde al primer paquete de ayudas; el importe autonómico anunciado posteriormente asciende a 43,5 millones.",
+        "Las cuantías de las ayudas están corroboradas por fuentes secundarias; no se localizó directamente el decreto o las convocatorias autonómicas en el DOGV.",
+        "Las peticiones sobre la limpieza y el mantenimiento de los cauces deben presentarse como declaraciones de autoridades municipales, sin atribuirles una relación causal con los desbordamientos."
+      ],
+      "sources": [
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Valencia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/el-consell-aprobara-este-viernes-nuevas-ayudas-para-los-afectadas-de-la-dana-adam-radio-valencia/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Diario Comunitat Valenciana",
+          "source_url": "https://www.eldiario.es/comunitat-valenciana/gobierno-valenciano-aprueba-paquete-ayudas-23-5-millones-euros-afectados-dana-adam_1_13603195.amp.html",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ajuntament de Pego",
+          "source_url": "https://pego.org/pego-sollicita-per-unanimitat-la-declaracio-de-zona-catastrofica-despres-dels-greus-danys-provocats-per-la-dana-adam/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Xàbia al Día",
+          "source_url": "https://xabiaaldia.com/art/160099/xabia-reclama-limpieza-rios-barrancos-prevencion-inundaciones",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El País",
+          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-de-la-dana-adam.html",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 6,
+        "caveats": [
+          "La cifra de 23,5 millones es correcta para el primer paquete aprobado el 20-21 de octubre, pero quedó superada por nuevas ayudas aprobadas el 23 de octubre: el total anunciado pasó a 43,5 millones.",
+          "La fuente primaria autonómica —el decreto y las convocatorias publicadas en el DOGV— no fue localizada directamente en el buscador durante esta comprobación; las cuantías están corroboradas por Cadena SER, elDiario.es y El País, mientras que sí se localizó una fuente primaria municipal sobre los daños y la recuperación en Pego.",
+          "Las reclamaciones sobre los cauces son declaraciones y peticiones de autoridades municipales; las fuentes consultadas no permiten concluir que la falta de limpieza fuese la causa determinante de los desbordamientos."
+        ]
+      }
+    }
+  ]
 }

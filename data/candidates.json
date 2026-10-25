@@ -1,47 +1,35 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-10-25T11:33:18.149Z",
+  "generated_at": "2026-10-25T16:23:46.375Z",
   "model": "gpt-5.6-luna",
   "archive_count": 118,
-  "duplicates_filtered": 2,
-  "count": 3,
+  "duplicates_filtered": 5,
+  "count": 2,
   "candidates": [
     {
-      "title": "La Generalitat reabre todas las carreteras afectadas por la DANA Adam en la Marina Alta y el resto de la Comunitat",
-      "summary": "La última carretera autonómica afectada por el temporal ya está abierta al tráfico. La Generalitat informa de 42 vías dañadas en la Comunitat y de 372 incidencias gestionadas, con especial impacto en la Marina Alta. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia/?outputType=amp&utm_source=openai))",
-      "source_name": "Cadena SER – Radio Gandia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia",
-      "published_at": "2026-10-24T18:48:00+02:00",
-      "category": "TURISMO",
-      "relevance": 86,
-      "reason": "Es una actualización material sobre la recuperación de la movilidad comarcal tras la DANA, con impacto directo en los desplazamientos hacia Calp y en la actividad turística y económica de la Marina Alta.",
-      "detected_at": "2026-10-25T11:33:18.149Z",
-      "fingerprint": "8428ea9e7ea9b273a2d88cd085d766eaa33d20cd054210f8848b480ffaf8db91"
+      "title": "La Marina Alta avanza en la recuperación de la DANA Adam con 23,5 millones en ayudas y nuevas reclamaciones sobre los cauces",
+      "summary": "Los municipios más afectados continúan con las labores de limpieza, evaluación de daños y atención a damnificados. La Generalitat ha activado 23,5 millones de euros en ayudas directas y los ayuntamientos reclaman actuaciones de prevención en ríos y barrancos.",
+      "source_name": "Cadena SER Radio Dénia",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia",
+      "published_at": "2026-10-21T11:53:00+02:00",
+      "category": "MEDIO_AMBIENTE",
+      "relevance": 89,
+      "reason": "Aunque los daños más graves se concentran en otros municipios, la recuperación comarcal, las ayudas y el debate sobre la limpieza de cauces afectan a la planificación de emergencias y a la prevención de inundaciones en Calp y la Marina Alta.",
+      "detected_at": "2026-10-25T16:23:46.375Z",
+      "fingerprint": "82d4ecc2ebca22c6090cd821617ad821eab0905cfcd123fbb6f3ad323a237ad3"
     },
     {
-      "title": "El Ayuntamiento anuncia el concierto gratuito «Sérénade» para el 31 de octubre en Calp",
-      "summary": "El guitarrista Darío González Ivars y el violonchelista Alfons Rochera Morales ofrecerán el concierto «Sérénade» el sábado 31 de octubre a las 19:30 horas en el Auditorio de la Casa de Cultura, con entrada libre hasta completar aforo. ([calpcomunica.calp.es](https://calpcomunica.calp.es/esdeveniments/%F0%9F%8E%BB-serenade-concert-de-guitarra-i-violoncel-a-calp/?lang=va-val&utm_source=openai))",
-      "source_name": "Ayuntamiento de Calp – Calp Comunica",
+      "title": "Calp programará el concierto ‘Sérénade’ de guitarra y violonchelo el 31 de octubre",
+      "summary": "El guitarrista Darío González Ivars y el violonchelista Alfons Rochera Morales actuarán a las 19:30 horas en el Auditorio de la Casa de Cultura. La entrada será gratuita hasta completar aforo.",
+      "source_name": "Calp Comunica",
       "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%8E%BB-serenade-concert-de-guitarra-i-violoncel-a-calp/?lang=va-val",
       "published_at": "2026-10-23",
       "category": "CULTURA",
-      "relevance": 66,
-      "reason": "Es una actividad cultural municipal de próxima celebración, con información útil para residentes y visitantes y capacidad para dinamizar la agenda de otoño de Calp.",
-      "detected_at": "2026-10-25T11:33:18.149Z",
-      "fingerprint": "2b5581b029501fba1a4cf337460c58bdc4252725147de599d18fcd6ba45a5a47"
-    },
-    {
-      "title": "Maru Candel llevará su monólogo al Auditorio de la Casa de Cultura de Calp",
-      "summary": "La actriz cómica y cantante Maru Candel actuará el viernes 30 de octubre a las 20:30 horas en Calp. El espectáculo será gratuito hasta completar aforo y está recomendado para mayores de 16 años. ([calpcomunica.calp.es](https://calpcomunica.calp.es/evento/%F0%9F%8E%AD-maru-candel-llega-a-calp-con-su-monologo/?utm_source=openai))",
-      "source_name": "Ayuntamiento de Calp – Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%8E%AD-maru-candel-llega-a-calp-con-su-monologo",
-      "published_at": "2026-10-23",
-      "category": "CULTURA",
-      "relevance": 63,
-      "reason": "Es una nueva propuesta cultural municipal para los próximos días, relevante para la programación de ocio local y para la promoción de actividad en el centro urbano.",
-      "detected_at": "2026-10-25T11:33:18.149Z",
-      "fingerprint": "aa659bc7d6e5caa7c67a8c90603739129e37dcb59bf844e68c6e54ce1781abc8"
+      "relevance": 61,
+      "reason": "Es una actividad cultural municipal próxima, de acceso gratuito, con interés para la agenda local y la oferta de ocio de residentes y visitantes.",
+      "detected_at": "2026-10-25T16:23:46.375Z",
+      "fingerprint": "1435fbf8df1231e44f076577c9fce85e57c6b37d6b1ca28a5d01dabe757ab711"
     }
   ]
 }
