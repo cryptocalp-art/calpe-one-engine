@@ -1,35 +1,47 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-10-25T01:11:44.274Z",
+  "generated_at": "2026-10-25T06:09:34.869Z",
   "model": "gpt-5.6-luna",
   "archive_count": 118,
-  "duplicates_filtered": 2,
-  "count": 2,
+  "duplicates_filtered": 1,
+  "count": 3,
   "candidates": [
     {
-      "title": "El Ayuntamiento de Calp firma subvenciones nominativas con asociaciones sociales, empresariales y de cooperación",
-      "summary": "El consistorio ha formalizado convenios por 36.000 euros: 1.000 euros para la asociación de fibromialgia y fatiga crónica, 20.000 para la Associació d’Empresa i Comerç de Calp y 15.000 para Visió Sense Fronteres.",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://calpcomunica.calp.es/event/%f0%9f%a4%9d-el-ayuntamiento-de-calp-firma-nuevos-convenios-de-subvenciones-nominativas-con-asociaciones-y-entidades-locales/?lang=es",
-      "published_at": "2026-10-14",
-      "category": "ECONOMIA",
-      "relevance": 72,
-      "reason": "La ayuda de 20.000 euros a la asociación empresarial tiene incidencia directa en el comercio local, mientras que el resto de convenios refuerza el tejido social y asociativo del municipio.",
-      "detected_at": "2026-10-25T01:11:44.274Z",
-      "fingerprint": "17bbf063db2b46fbb122c448dfdc1ab9693ea21409e3966e87914cb9997523e1"
+      "title": "La Marina Alta avanza en la recuperación de la DANA Adam entre daños, ayudas y reclamaciones por los cauces",
+      "summary": "La comarca mantiene los trabajos de limpieza, evaluación de daños y tramitación de ayudas tras las inundaciones. La Generalitat ha aprobado un primer paquete de 23,5 millones de euros para los afectados.",
+      "source_name": "Cadena SER",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/21/la-marina-alta-avanza-en-la-recuperacion-de-la-dana-adam-entre-danos-ayudas-y-reclamaciones-por-los-cauces-radio-denia",
+      "published_at": "2026-10-21T09:53:37Z",
+      "category": "LOCAL",
+      "relevance": 66,
+      "reason": "Es una actualización comarcal relevante sobre la recuperación tras la DANA, con posibles efectos sobre servicios, ayudas y coordinación municipal en Calp y el resto de la Marina Alta.",
+      "detected_at": "2026-10-25T06:09:34.869Z",
+      "fingerprint": "552f61acccbfee545441bb2c59698ee28b987a62427ff20f9b8f1eecb6d93356"
     },
     {
-      "title": "Calp se ilumina de rojo por el Día Mundial contra la Polio",
-      "summary": "El Ayuntamiento ilumina de rojo varios edificios públicos y enclaves del municipio para visibilizar la lucha contra la poliomielitis y promover la vacunación y la prevención.",
+      "title": "Calp acogerá el X Encuentro de Comunicación Innovadora el 13 de noviembre",
+      "summary": "El Ayuntamiento y Creama Calp organizan una jornada gratuita sobre estrategia, diferenciación empresarial y comunicación, con la participación de Marga Cabrera y Josep Caballero. Será a las 19:00 en la Casa de Cultura y requiere inscripción previa.",
+      "source_name": "LaMarinaAlta.com",
+      "source_url": "https://lamarinaalta.com/calp-acogera-el-x-encuentro-de-comunicacion-innovadora-con-marga-cabrera-y-josep-caballero",
+      "published_at": "2026-10-16",
+      "category": "ECONOMIA",
+      "relevance": 55,
+      "reason": "La iniciativa está orientada a empresas y emprendedores locales y puede aportar formación y herramientas de comunicación al tejido económico de Calp.",
+      "detected_at": "2026-10-25T06:09:34.869Z",
+      "fingerprint": "1d21baaf02b45d7a5fb17498cea72820c41fb10af78f56287377d2568f990e49"
+    },
+    {
+      "title": "Calp ofrecerá el concierto “Sérénade” de guitarra y violonchelo el 31 de octubre",
+      "summary": "El guitarrista Darío González Ivars y el violonchelista Alfons Rochera Morales actuarán a las 19:30 en el Auditorio de la Casa de Cultura. La entrada será libre hasta completar aforo.",
       "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://calpcomunica.calp.es/event/calp-se-ilumina-de-rojo-por-el-dia-mundial-contra-la-polio/?lang=es",
-      "published_at": "2026-10-20",
-      "category": "SOCIEDAD",
-      "relevance": 48,
-      "reason": "Es una iniciativa municipal reciente de sensibilización social y salud pública, con presencia visible en espacios públicos de Calp.",
-      "detected_at": "2026-10-25T01:11:44.274Z",
-      "fingerprint": "f7322e2e0ba8a06653e8ca164f0a75b1e42404298adaaaab6a8b2ad1a2668f33"
+      "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%8E%BB-serenade-concert-de-guitarra-i-violoncel-a-calp/?lang=va-val",
+      "published_at": "2026-10-23",
+      "category": "CULTURA",
+      "relevance": 43,
+      "reason": "Es una nueva propuesta cultural municipal para la agenda de Calp, con interés para residentes y visitantes al celebrarse durante el puente de Todos los Santos.",
+      "detected_at": "2026-10-25T06:09:34.869Z",
+      "fingerprint": "e9f6b20ddde1baef80a5c57dbc4e4545a147c8f66116ea96eefcf9bf06566d6c"
     }
   ]
 }
