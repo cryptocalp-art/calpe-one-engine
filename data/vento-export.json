@@ -3,26 +3,12 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-25T16:25:17.074Z",
+  "generated_at": "2026-10-25T19:39:54.042Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
+  "drafts_seen": 0,
   "ready_count": 0,
-  "quarantined_count": 1,
+  "quarantined_count": 0,
   "ready": [],
-  "quarantined": [
-    {
-      "export_id": "exp_eefd6ed2889d25a8",
-      "draft_id": "drf_835b3fe823decbe6",
-      "investigation_id": "inv_3359c607462588b6",
-      "slug": "marina-alta-recuperacion-dana-adam-ayudas-cauces",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
-    }
-  ]
+  "quarantined": []
 }
