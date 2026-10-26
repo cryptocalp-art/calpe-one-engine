@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-26T13:19:51.765Z",
+  "generated_at": "2026-10-26T19:59:09.367Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-26T13:19:51.540Z",
+  "last_activity": "2026-10-26T19:59:09.164Z",
   "newspaper": {
     "archive_total": 118,
     "published_today": 0,
-    "published_last_7_days": 17,
+    "published_last_7_days": 14,
     "categories": {
       "SUCESOS": 20,
       "ECONOMIA": 19,
@@ -80,10 +80,10 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 2,
-    "eligible": 1,
+    "drafts": 1,
+    "eligible": 0,
     "quarantined": 1,
     "archive_added": 0
   },
@@ -106,13 +106,13 @@
   },
   "quarantine": [
     {
-      "draft_id": "drf_de07d960fc5df666",
-      "slug": "calp-neuilly-sur-marne-posible-hermanamiento",
-      "category": "POLITICA",
+      "draft_id": "drf_ce2f8294c41170b8",
+      "slug": "ayudas-dana-adam-negocios-vehiculos-noviembre",
+      "category": "ECONOMIA",
       "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
       ],
-      "evaluated_at": "2026-10-26T13:19:39.843Z"
+      "evaluated_at": "2026-10-26T19:58:57.610Z"
     }
   ]
 }

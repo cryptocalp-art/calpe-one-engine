@@ -3,158 +3,25 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-26T13:19:40.017Z",
+  "generated_at": "2026-10-26T19:58:57.769Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 1,
+  "drafts_seen": 1,
+  "ready_count": 0,
   "quarantined_count": 1,
-  "ready": [
-    {
-      "export_id": "exp_ddde97ed089a9eef",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-26T13:19:40.017Z",
-      "source_draft_id": "drf_e0a249057bd58ee2",
-      "source_investigation_id": "inv_32fbb583c6cae38e",
-      "candidate_fingerprint": "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
-      "quality_gate_id": "qg_5dd211f876326536",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_e0a249057bd58ee2",
-        "investigation_id": "inv_32fbb583c6cae38e",
-        "candidate_fingerprint": "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
-        "title": "El nuevo servicio de limpieza de playas de Calp prevé comenzar el 1 de noviembre",
-        "subtitle": "El contrato, adjudicado a FCC Medio Ambiente por cuatro años, contempla más personal, maquinaria, frecuencias y periodos de servicio.",
-        "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de playas y calas, cuya entrada en funcionamiento está prevista para el 1 de noviembre de 2026. El contrato tiene una duración prevista de cuatro años e incorpora un refuerzo de los medios destinados al servicio.",
-        "body": "El nuevo servicio de limpieza y mantenimiento de las playas y calas de Calp tiene prevista su puesta en marcha el 1 de noviembre de 2026. La adjudicataria es FCC Medio Ambiente, S.A.U., según la comunicación del Ayuntamiento y el registro público de contratación consultado.\n\nLa administración municipal cifra la inversión anual en 639.726,71 euros, aproximadamente un 40 % más que la correspondiente al servicio anterior. La información oficial señala que el contrato contempla un aumento de personal y maquinaria, así como una ampliación de las frecuencias y de los periodos de prestación.\n\nEntre los trabajos previstos se incluye también la atención a calas de difícil acceso, de acuerdo con la información difundida sobre el nuevo servicio. El contrato tiene una duración prevista de cuatro años.\n\nLa fecha del 1 de noviembre es, no obstante, una previsión comunicada por el Ayuntamiento el 25 de septiembre. Con la información disponible no se acredita que el servicio hubiera comenzado efectivamente en esa fecha.\n\nEl expediente de contratación pública correspondiente al servicio identifica al Ayuntamiento de Calp como órgano contratante y a FCC Medio Ambiente como adjudicataria. Ese registro recoge una adjudicación de 581.569,74 euros y una duración contractual de cuatro años.\n\nLa diferencia entre esa cantidad y los 639.726,71 euros anuales comunicados por el Ayuntamiento debe interpretarse con cautela, ya que las fuentes presentan importes con distinto desglose y fiscalidad. Para evitar confusiones, la cifra municipal debe atribuirse expresamente a la comunicación oficial y no presentarse como idéntica al importe de adjudicación que figura en el registro.",
-        "category": "TURISMO",
-        "slug": "nuevo-servicio-limpieza-playas-calp-1-noviembre",
-        "seo_title": "Nuevo servicio de limpieza de playas de Calp",
-        "meta_description": "El Ayuntamiento de Calp adjudica a FCC Medio Ambiente la limpieza de playas y calas, con inicio previsto el 1 de noviembre y cuatro años de duración.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_5dd211f876326536",
-        "editorial_notes": [
-          "La entrada en funcionamiento del 1 de noviembre debe presentarse como una previsión, no como un hecho ya comprobado.",
-          "Hay una diferencia entre los 639.726,71 euros anuales comunicados por el Ayuntamiento y los 581.569,74 euros del registro de contratación; conviene mantener ambas cifras atribuidas y explicar que pueden responder a distinto tratamiento fiscal o desglose.",
-          "La confirmación independiente del acto administrativo procede principalmente del registro de contratación; la fuente secundaria reproduce la información municipal."
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Plataforma de contratación pública / Gobierto Contratación",
-            "url": "https://contratos.gobierto.es/licitaciones/5090926",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "MarinaON",
-            "url": "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://contratos.gobierto.es/licitaciones/5090926",
-          "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 3,
-          "caveats": [
-            "La fecha del 1 de noviembre es una previsión comunicada el 25 de septiembre, no una comprobación de que el servicio hubiera comenzado efectivamente en esa fecha.",
-            "Los registros de contratación muestran 581.569,74 euros de adjudicación, mientras que el Ayuntamiento comunica 639.726,71 euros anuales; conviene especificar en la publicación si el importe incluye IVA y cómo se calcula el coste anual.",
-            "La corroboración secundaria de MarinaON cita expresamente al Ayuntamiento como fuente, por lo que la confirmación independiente del acto administrativo es principalmente el registro de contratación."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_5dd211f876326536",
-          "quality_gate_evaluated_at": "2026-10-26T13:19:39.843Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-10-26T13:19:25.526Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_e0a249057bd58ee2",
-        "title": "El nuevo servicio de limpieza de playas de Calp prevé comenzar el 1 de noviembre",
-        "slug": "nuevo-servicio-limpieza-playas-calp-1-noviembre",
-        "summary": "El Ayuntamiento de Calp ha adjudicado a FCC Medio Ambiente, S.A.U. el nuevo servicio de limpieza y mantenimiento de playas y calas, cuya entrada en funcionamiento está prevista para el 1 de noviembre de 2026. El contrato tiene una duración prevista de cuatro años e incorpora un refuerzo de los medios destinados al servicio.",
-        "body": "El nuevo servicio de limpieza y mantenimiento de las playas y calas de Calp tiene prevista su puesta en marcha el 1 de noviembre de 2026. La adjudicataria es FCC Medio Ambiente, S.A.U., según la comunicación del Ayuntamiento y el registro público de contratación consultado.\n\nLa administración municipal cifra la inversión anual en 639.726,71 euros, aproximadamente un 40 % más que la correspondiente al servicio anterior. La información oficial señala que el contrato contempla un aumento de personal y maquinaria, así como una ampliación de las frecuencias y de los periodos de prestación.\n\nEntre los trabajos previstos se incluye también la atención a calas de difícil acceso, de acuerdo con la información difundida sobre el nuevo servicio. El contrato tiene una duración prevista de cuatro años.\n\nLa fecha del 1 de noviembre es, no obstante, una previsión comunicada por el Ayuntamiento el 25 de septiembre. Con la información disponible no se acredita que el servicio hubiera comenzado efectivamente en esa fecha.\n\nEl expediente de contratación pública correspondiente al servicio identifica al Ayuntamiento de Calp como órgano contratante y a FCC Medio Ambiente como adjudicataria. Ese registro recoge una adjudicación de 581.569,74 euros y una duración contractual de cuatro años.\n\nLa diferencia entre esa cantidad y los 639.726,71 euros anuales comunicados por el Ayuntamiento debe interpretarse con cautela, ya que las fuentes presentan importes con distinto desglose y fiscalidad. Para evitar confusiones, la cifra municipal debe atribuirse expresamente a la comunicación oficial y no presentarse como idéntica al importe de adjudicación que figura en el registro.",
-        "category": "TURISMO",
-        "seo_title": "Nuevo servicio de limpieza de playas de Calp",
-        "meta_description": "El Ayuntamiento de Calp adjudica a FCC Medio Ambiente la limpieza de playas y calas, con inicio previsto el 1 de noviembre y cuatro años de duración.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_5dd211f876326536",
-        "published_at": null,
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://contratos.gobierto.es/licitaciones/5090926",
-          "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/"
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Plataforma de contratación pública / Gobierto Contratación",
-            "url": "https://contratos.gobierto.es/licitaciones/5090926",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "MarinaON",
-            "url": "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_32fbb583c6cae38e",
-        "candidate_fingerprint": "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 3,
-          "caveats": [
-            "La fecha del 1 de noviembre es una previsión comunicada el 25 de septiembre, no una comprobación de que el servicio hubiera comenzado efectivamente en esa fecha.",
-            "Los registros de contratación muestran 581.569,74 euros de adjudicación, mientras que el Ayuntamiento comunica 639.726,71 euros anuales; conviene especificar en la publicación si el importe incluye IVA y cómo se calcula el coste anual.",
-            "La corroboración secundaria de MarinaON cita expresamente al Ayuntamiento como fuente, por lo que la confirmación independiente del acto administrativo es principalmente el registro de contratación."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_5dd211f876326536",
-          "quality_gate_evaluated_at": "2026-10-26T13:19:39.843Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    }
-  ],
+  "ready": [],
   "quarantined": [
     {
-      "export_id": "exp_8de5d756e3dd62c4",
-      "draft_id": "drf_de07d960fc5df666",
-      "investigation_id": "inv_7fcba4bd9bc041aa",
-      "slug": "calp-neuilly-sur-marne-posible-hermanamiento",
+      "export_id": "exp_a4667e64a56a5b7c",
+      "draft_id": "drf_ce2f8294c41170b8",
+      "investigation_id": "inv_467a4ee4dfb0643b",
+      "slug": "ayudas-dana-adam-negocios-vehiculos-noviembre",
       "reasons": [
         "quality_gate_not_eligible"
       ],
       "quality_gate_status": "QUARANTINED",
       "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
       ]
     }
   ]
