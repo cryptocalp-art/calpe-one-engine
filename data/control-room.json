@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-26T06:18:18.784Z",
+  "generated_at": "2026-10-26T13:19:51.765Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-26T06:18:18.650Z",
+  "last_activity": "2026-10-26T13:19:51.540Z",
   "newspaper": {
     "archive_total": 118,
     "published_today": 0,
-    "published_last_7_days": 18,
+    "published_last_7_days": 17,
     "categories": {
       "SUCESOS": 20,
       "ECONOMIA": 19,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 3,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
+    "drafts": 2,
+    "eligible": 1,
+    "quarantined": 1,
     "archive_added": 0
   },
   "delivery": {
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_de07d960fc5df666",
+      "slug": "calp-neuilly-sur-marne-posible-hermanamiento",
+      "category": "POLITICA",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-26T13:19:39.843Z"
+    }
+  ]
 }

@@ -1,59 +1,47 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-10-26T06:16:53.127Z",
+  "generated_at": "2026-10-26T13:17:45.891Z",
   "model": "gpt-5.6-luna",
   "archive_count": 118,
-  "duplicates_filtered": 1,
-  "count": 4,
+  "duplicates_filtered": 4,
+  "count": 3,
   "candidates": [
     {
-      "title": "La Generalitat reabre todas las carreteras autonómicas afectadas por la DANA Adam",
-      "summary": "La última de las 14 carreteras autonómicas afectadas por el temporal ya está abierta al tráfico. La recuperación incluye trabajos en vías de la Marina Alta y la Safor, aunque se pide extremar la precaución.",
-      "source_name": "Cadena SER - Radio Gandia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia",
-      "published_at": "2026-10-24T18:48:00+02:00",
+      "title": "Calp y Neuilly-sur-Marne dan los primeros pasos hacia un posible hermanamiento",
+      "summary": "Una delegación municipal de Neuilly-sur-Marne, encabezada por su alcalde, visitó Calp del 23 al 25 de octubre para explorar futuras colaboraciones culturales, deportivas, educativas y sociales. El Ayuntamiento prevé devolver la visita antes de decidir si formaliza el hermanamiento. ([calpdigital.es](https://calpdigital.es/art/12439/calp-hermanamiento-neuilly-sur-marne-francia-visita?utm_source=openai))",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12439/calp-hermanamiento-neuilly-sur-marne-francia-visita",
+      "published_at": "2026-10-26",
+      "category": "POLITICA",
+      "relevance": 88,
+      "reason": "Afecta directamente a la agenda institucional del Ayuntamiento y puede abrir nuevas relaciones internacionales con impacto en cultura, turismo, deporte y servicios sociales.",
+      "detected_at": "2026-10-26T13:17:45.891Z",
+      "fingerprint": "3a8eaa7b3a20ca7a8c70712efe85bd2beae4ac9f25543a999ad077c30b5c90ee"
+    },
+    {
+      "title": "Calp registra una tasa de paro del 6,68%, la más baja en dos décadas según los últimos datos publicados",
+      "summary": "La localidad contabiliza 787 personas desempleadas y se sitúa, según la información publicada, entre los municipios con mejores registros de empleo de la provincia de Alicante. El sector servicios sigue siendo el principal motor laboral. ([lamarinaalta.com](https://lamarinaalta.com/calp-registra-un-668-de-paro-su-cifra-mas-baja-en-veinte-anos-y-el-mejor-dato-de-toda-la-provincia/?utm_source=openai))",
+      "source_name": "La Marina Alta",
+      "source_url": "https://lamarinaalta.com/calp-registra-un-668-de-paro-su-cifra-mas-baja-en-veinte-anos-y-el-mejor-dato-de-toda-la-provincia",
+      "published_at": "2026-10-15T15:07:00",
+      "category": "ECONOMIA",
+      "relevance": 84,
+      "reason": "Es un indicador económico de alto interés para residentes, empresas y administraciones, y aporta una actualización diferente al dato de paro registrado de septiembre ya publicado.",
+      "detected_at": "2026-10-26T13:17:45.891Z",
+      "fingerprint": "4bad260cfd8ad0af2c33a9f0945e9d0c26e23e6cf8c169103d240c68436137b8"
+    },
+    {
+      "title": "El nuevo servicio de limpieza y mantenimiento de playas de Calp comenzará el 1 de noviembre",
+      "summary": "El Ayuntamiento prepara la entrada en funcionamiento del contrato adjudicado a FCC Medio Ambiente, con una inversión anual de 639.726,71 euros, un 40% superior a la anterior, y más personal, maquinaria, frecuencias y temporadas de servicio. ([calp.es](https://www.calp.es/en/aggregator?page=3&utm_source=openai))",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://www.calp.es/es/aggregator/sources/7",
+      "published_at": "2026-09-25T09:05:00",
       "category": "TURISMO",
       "relevance": 82,
-      "reason": "Afecta a la movilidad comarcal y a los desplazamientos hacia Calp tras el episodio de inundaciones; supone una actualización material frente a las noticias previas sobre carreteras cortadas.",
-      "detected_at": "2026-10-26T06:16:53.127Z",
-      "fingerprint": "1ffcdeb8a11f6e5447a1762d81def193b710fcb417410e72f25bf626643e3847"
-    },
-    {
-      "title": "La DANA Adam deja fuera de servicio la depuradora de Benidoleig y daña infraestructuras de saneamiento en la Marina Alta",
-      "summary": "La depuradora de Benidoleig continúa inoperativa y también se han detectado daños en colectores, estaciones de bombeo y otras instalaciones de saneamiento de la comarca.",
-      "source_name": "Cadena SER - Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/22/la-dana-adam-deja-fuera-de-servicio-la-depuradora-de-benidoleig-y-provoca-danos-en-instalaciones-de-toda-la-marina-alta-radio-denia",
-      "published_at": "2026-10-22T13:06:00+02:00",
-      "category": "MEDIO_AMBIENTE",
-      "relevance": 68,
-      "reason": "Aunque la incidencia principal está en Benidoleig, afecta a la resiliencia de los servicios hidráulicos y ambientales de toda la Marina Alta, un ámbito de interés para Calp.",
-      "detected_at": "2026-10-26T06:16:53.127Z",
-      "fingerprint": "062bf415cbe0f0bd6b3c13af4220799ab63b2ac44fe6169ecc562e48dfbadca7"
-    },
-    {
-      "title": "Pego moviliza 500.000 euros para reparar los daños de la DANA Adam y pide la declaración de zona catastrófica",
-      "summary": "El pleno de Pego aprobó por unanimidad movilizar medio millón de euros y solicitar al Gobierno la declaración de zona gravemente afectada por una emergencia de protección civil.",
-      "source_name": "Cadena SER - Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/23/pego-moviliza-500000-euros-para-reparar-los-danos-de-la-dana-adam-radio-denia",
-      "published_at": "2026-10-23T14:33:00+02:00",
-      "category": "LOCAL",
-      "relevance": 54,
-      "reason": "Es una medida municipal relevante dentro de la fase de reconstrucción de la Marina Alta y puede anticipar decisiones y necesidades similares en otros municipios, incluido Calp.",
-      "detected_at": "2026-10-26T06:16:53.127Z",
-      "fingerprint": "e3a7815d67aa559fb43bc8b44f8b48f7a806b69ad326486c5abfc12fd3e2bcb6"
-    },
-    {
-      "title": "Un atlas reúne 120 productos tradicionales de la Marina Alta para impulsar su valor gastronómico y económico",
-      "summary": "El proyecto Atles dels Productes Nostres recopila alimentos y recursos tradicionales de la comarca y plantea nuevas aplicaciones gastronómicas, culturales y comerciales.",
-      "source_name": "Cadena SER - Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/23/un-atlas-recupera-120-productos-tradicionales-de-la-marina-alta-para-impulsar-su-valor-gastronomico-y-economico-radio-denia",
-      "published_at": "2026-10-23T13:24:00+02:00",
-      "category": "ECONOMIA",
-      "relevance": 61,
-      "reason": "Puede generar oportunidades para productores, restauración y promoción turística de Calp dentro de una estrategia comarcal de producto local y gastronomía.",
-      "detected_at": "2026-10-26T06:16:53.127Z",
-      "fingerprint": "596af958db13ff9e090c30a033453f3badefa8a918c7ee02e1ae963c26eda30a"
+      "reason": "Afecta directamente a la calidad de las playas, la imagen turística y la prestación de servicios municipales, especialmente tras la temporada alta y de cara al próximo año.",
+      "detected_at": "2026-10-26T13:17:45.891Z",
+      "fingerprint": "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f"
     }
   ]
 }

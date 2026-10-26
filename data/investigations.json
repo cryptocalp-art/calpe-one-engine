@@ -1,93 +1,187 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-26T06:17:34.270Z",
+  "generated_at": "2026-10-26T13:18:37.174Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "1ffcdeb8a11f6e5447a1762d81def193b710fcb417410e72f25bf626643e3847",
-      "title": "La Generalitat reabre todas las carreteras autonómicas afectadas por la DANA Adam",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "3a8eaa7b3a20ca7a8c70712efe85bd2beae4ac9f25543a999ad077c30b5c90ee",
+      "title": "Calp y Neuilly-sur-Marne dan los primeros pasos hacia un posible hermanamiento",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La reapertura de la última vía autonómica afectada por la DANA Adam está respaldada por Cadena SER y por otros medios que publicaron la misma información el 24 de octubre de 2026. Sin embargo, no se ha localizado una comunicación oficial directamente accesible de la Generalitat que confirme el balance, y existen inconsistencias relevantes: algunas fuentes hablan de 14 carreteras y otra de 15; además, la referencia a la CV-700 «a la altura de Onda» es geográficamente incompatible con el trazado conocido de esa carretera, que discurre por Alicante entre Bocairent, Pego y El Verger. La noticia no debe publicarse sin confirmar estos extremos con la Generalitat o con el estado oficial de carreteras.",
+      "publishable": true,
+      "summary": "La visita institucional de una delegación de Neuilly-sur-Marne a Calp entre el 23 y el 25 de octubre de 2026, encabezada por su alcalde, está respaldada por una comunicación oficial del Ayuntamiento de Calp y por la información publicada por Calp Digital. Las fuentes confirman que se estudiaron posibles colaboraciones y que Calp prevé devolver la visita antes de decidir si formaliza el hermanamiento.",
       "claims": [
         {
-          "claim": "La Generalitat reabrió la última carretera autonómica afectada por la DANA Adam el 24 de octubre de 2026.",
+          "claim": "Una delegación municipal de Neuilly-sur-Marne visitó Calp del 23 al 25 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La red autonómica afectada comprendía 14 carreteras.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La última vía reabierta fue la CV-700.",
+          "claim": "La delegación estuvo encabezada por el alcalde Zartoshte Bakhtiari.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La CV-700 estaba situada «a la altura de Onda».",
+          "claim": "Durante la visita se analizaron posibles colaboraciones culturales, deportivas, educativas y sociales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento de Calp prevé enviar una delegación a Neuilly-sur-Marne antes de decidir sobre la formalización del hermanamiento.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El hermanamiento ya ha sido formalizado.",
+          "status": "CONTRADICTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp / Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%A4%9D-una-delegacion-de-neuilly-sur-marne-visita-calp-para-explorar-un-posible-hermanamiento/",
+          "evidence": "La comunicación municipal indica que el alcalde Zartoshte Bakhtiari visitó Calp del 23 al 25 de octubre junto a responsables municipales. También señala que se estudiaron intercambios culturales, deportivos y de servicios sociales, y que una delegación de Calp visitará Neuilly-sur-Marne antes de decidir sobre el futuro hermanamiento.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12439/calp-hermanamiento-neuilly-sur-marne-francia-visita",
+          "evidence": "La información confirma la visita institucional del 23 al 25 de octubre, la participación del alcalde francés, la reunión con Ana Sala y otros representantes municipales, las posibles líneas de cooperación y el carácter todavía exploratorio del hermanamiento.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Métropole du Grand Paris",
+          "source_url": "https://www.metropolegrandparis.fr/fr/les-elus/zartoshte-bakhtiari",
+          "evidence": "La ficha institucional identifica a Zartoshte Bakhtiari como alcalde de Neuilly-sur-Marne y presidente de Grand Paris-Grand Est.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración independiente disponible es limitada: la fuente secundaria y la comunicación municipal parecen cubrir el mismo acto institucional.",
+        "Las fuentes respaldan un posible hermanamiento, no un acuerdo formal ya firmado."
+      ],
+      "id": "inv_7fcba4bd9bc041aa",
+      "investigated_at": "2026-10-26T13:18:37.174Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "4bad260cfd8ad0af2c33a9f0945e9d0c26e23e6cf8c169103d240c68436137b8",
+      "title": "Calp registra una tasa de paro del 6,68%, la más baja en dos décadas según los últimos datos publicados",
+      "status": "REJECTED",
+      "confidence": "HIGH",
+      "publishable": false,
+      "summary": "La cifra del 6,68% y 787 personas desempleadas corresponde a agosto de 2026, pero no era el último dato disponible cuando se publicó la noticia el 15 de octubre. Los datos de septiembre situaron el paro registrado en 832 personas y el 6,98%. Además, en septiembre Teulada presentó una tasa inferior, del 6,03%, por lo que tampoco puede sostenerse que Calp tuviera el mejor dato de toda la provincia según los últimos datos disponibles.",
+      "claims": [
+        {
+          "claim": "Calp registró una tasa de paro del 6,68% y 787 personas desempleadas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El dato del 6,68% corresponde a los últimos datos publicados al 15 de octubre de 2026.",
           "status": "CONTRADICTED"
         },
         {
-          "claim": "Las zonas especialmente afectadas fueron La Safor y La Marina Alta.",
+          "claim": "La cifra del 6,68% fue la más baja de la serie anual disponible desde 2006.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La reapertura se produjo tras trabajos por inundaciones, acumulaciones de agua, arrastres y desprendimientos.",
+          "claim": "Calp tenía el mejor dato de paro de toda la provincia de Alicante según los últimos datos disponibles.",
+          "status": "CONTRADICTED"
+        },
+        {
+          "claim": "El sector servicios era el principal motor laboral del municipio.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12409/readletter",
+          "evidence": "La publicación del 16 de octubre informa de que septiembre de 2026 cerró con 832 personas desempleadas y una tasa del 6,98%, frente a las 787 personas y el 6,68% de agosto. Esto contradice que el dato de agosto fuera el último disponible.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Datosmacro",
+          "source_url": "https://datosmacro.expansion.com/paro/espana/municipios/valencia/alicante/calp",
+          "evidence": "La serie municipal muestra para agosto de 2026 una tasa del 6,68% y 787 personas desempleadas, y recoge los valores históricos utilizados para comparar la evolución del paro registrado.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Periodic",
+          "source_url": "https://www.elperiodic.com/estos-diez-municipios-menos-paro-comunitat-valenciana_1097750",
+          "evidence": "La clasificación basada en los datos de septiembre de 2026 sitúa a Teulada con un 6,03% y a Calp con un 6,98% y 832 personas desempleadas. Por tanto, Calp no tenía la tasa más baja de la provincia en ese periodo.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/inici?p=3987&page=16",
+          "evidence": "El Ayuntamiento había comunicado previamente que el paro registrado alcanzó el 6,97% en junio de 2026, elaborado a partir de información del SEPE, lo que confirma que el municipio difunde datos mensuales de paro registrado y que deben distinguirse los distintos periodos.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La cifra de agosto es real, pero la noticia la presenta como si fuera el dato más reciente cuando ya existían datos de septiembre.",
+        "La afirmación de que era el mejor dato de toda la provincia no se sostiene con la comparación de septiembre disponible antes o en la fecha de publicación.",
+        "No se ha encontrado en las fuentes consultadas una tabla primaria municipal que respalde específicamente la caracterización del sector servicios como principal motor laboral."
+      ],
+      "id": "inv_34fb7e8fd65a52ac",
+      "investigated_at": "2026-10-26T13:18:37.174Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
+      "title": "El nuevo servicio de limpieza y mantenimiento de playas de Calp comenzará el 1 de noviembre",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El Ayuntamiento de Calp confirma la adjudicación del nuevo servicio a FCC Medio Ambiente y prevé su puesta en marcha el 1 de noviembre de 2026. La comunicación oficial respalda la inversión anual de 639.726,71 euros, el incremento del 40% y la ampliación de personal, maquinaria, frecuencias y periodos de servicio. La adjudicación también aparece en registros públicos de contratación; la diferencia entre 639.726,71 euros anuales y 581.569,74 euros se explica por importes contractuales expresados con distinta fiscalidad y desglose.",
+      "claims": [
+        {
+          "claim": "El nuevo servicio fue adjudicado a FCC Medio Ambiente, S.A.U.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Aunque las vías están abiertas, se mantiene señalización preventiva y se recomienda extremar la precaución.",
+          "claim": "La entrada en funcionamiento estaba prevista para el 1 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La inversión anual asciende a 639.726,71 euros, aproximadamente un 40% más que el servicio anterior.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato incorpora más personal, maquinaria, frecuencias y temporadas de servicio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contrato tiene una duración prevista de cuatro años.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER - Radio Gandia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia",
-          "evidence": "Informa de que la última de las carreteras autonómicas afectadas ya estaba abierta, identifica la vía como CV-700, sitúa los trabajos principalmente en La Safor y La Marina Alta y recoge la recomendación de extremar la precaución. La propia pieza contiene la referencia geográfica problemática a Onda y alterna las cifras de 14 y «quincena».",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Valencia Extra",
-          "source_url": "https://www.valenciaextra.com/es/sociedad/la-generalitat-cierra-el-capitulo-de-la-dana-adam-en-las-carreteras-valencianas-las-14-vias-autonomicas-afectadas-ya-estan-abiertas-al-trafico_602162_102.html",
-          "evidence": "Publica el 24 de octubre que la reapertura de la CV-700 puso fin a los cortes en las 14 vías autonómicas afectadas y que los daños se concentraron especialmente en La Marina Alta y La Safor. También reproduce la recomendación de circular con precaución. No constituye una corroboración plenamente independiente si procede de la misma comunicación administrativa.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Dénia Digital",
-          "source_url": "https://deniadigital.es/art/23347/estas-son-las-carreteras-de-la-marina-alta-que-siguen-cortadas-o-con-incidencias-este-miercoles/",
-          "evidence": "Recoge, con datos atribuidos a una actualización de la Generalitat, que el 21 de octubre la CV-700 seguía cerrada en varios tramos de la Marina Alta, especialmente entre Pego y El Verger. Esto corrobora que la CV-700 fue una de las últimas vías afectadas, pero es una información anterior y no confirma por sí sola la reapertura del día 24.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Pego / Mancomunidad de Pego i les Valls",
-          "source_url": "https://www.pegoilesvalls.es/es/como_llegar",
-          "evidence": "Identifica la CV-700 como vía de acceso a Pego y la sitúa en el eje de Alicante, no en Onda. La información contradice la localización de la CV-700 «a la altura de Onda» incluida en la noticia de Cadena SER.",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+          "evidence": "La nota oficial identifica a FCC Medio Ambiente como adjudicataria, fija el inicio previsto del servicio en el 1 de noviembre, cifra la inversión anual en 639.726,71 euros y describe el refuerzo de personal, maquinaria, temporadas, frecuencias y trabajos incluidos. También indica que el contrato está previsto para cuatro años.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Diputación de Alicante",
-          "source_url": "https://abierta.diputacionalicante.es/wp-content/uploads/RP-1342-Mapa-Provincial-Carreteras-2025.pdf",
-          "evidence": "El mapa oficial de carreteras de Alicante incluye la CV-700 dentro del sector de Pego y la relaciona con carreteras de la Marina Alta. No la sitúa en Onda, localidad de la provincia de Castellón.",
-          "source_type": "PRIMARY"
+          "source_name": "Plataforma de contratación pública / Gobierto Contratación",
+          "source_url": "https://contratos.gobierto.es/licitaciones/5090926",
+          "evidence": "El expediente MIX.SER 05/2026-AOR corresponde al servicio de limpieza y mantenimiento de playas y calas de Calp. El registro identifica al Ayuntamiento como órgano contratante, a FCC Medio Ambiente como adjudicataria, una adjudicación de 581.569,74 euros y una duración contractual de cuatro años.",
+          "source_type": "SECONDARY"
         },
         {
-          "source_name": "Moncloa.com",
-          "source_url": "https://www.moncloa.com/2026/10/24/dana-adam-carreteras-generalitat-cv-700-3454714/",
-          "evidence": "Afirma que la reapertura de la CV-700 dejó abiertas 15 vías autonómicas afectadas, no 14. La discrepancia no queda resuelta por una fuente oficial localizada y afecta al recuento central de la noticia.",
+          "source_name": "MarinaON",
+          "source_url": "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/",
+          "evidence": "La información independiente reproduce que el servicio comenzará el 1 de noviembre, que FCC Medio Ambiente resultó adjudicataria por cuatro años y que el coste anual anunciado es de 639.726,71 euros, con más personal, días de servicio y atención a calas de difícil acceso.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La mayoría de las publicaciones posteriores parecen basarse en la misma comunicación de la Generalitat, por lo que no deben contarse como corroboraciones independientes entre sí.",
-        "No se ha localizado una nota oficial directamente accesible de la Generalitat que permita resolver la discrepancia entre 14 y 15 carreteras.",
-        "La mención de Onda probablemente sea un error por Ondara, pero no debe corregirse por inferencia sin confirmación oficial.",
-        "La evidencia disponible permite sostener provisionalmente que la CV-700 fue reabierta y que las actuaciones afectaron a La Safor y La Marina Alta, pero no permite validar sin reservas todos los detalles del candidato."
+        "La fecha del 1 de noviembre es una previsión comunicada el 25 de septiembre, no una comprobación de que el servicio hubiera comenzado efectivamente en esa fecha.",
+        "Los registros de contratación muestran 581.569,74 euros de adjudicación, mientras que el Ayuntamiento comunica 639.726,71 euros anuales; conviene especificar en la publicación si el importe incluye IVA y cómo se calcula el coste anual.",
+        "La corroboración secundaria de MarinaON cita expresamente al Ayuntamiento como fuente, por lo que la confirmación independiente del acto administrativo es principalmente el registro de contratación."
       ],
-      "id": "inv_69e7f221bc2e6a98",
-      "investigated_at": "2026-10-26T06:17:34.270Z",
+      "id": "inv_32fbb583c6cae38e",
+      "investigated_at": "2026-10-26T13:18:37.174Z",
       "model": "gpt-5.6-luna"
     }
   ]
