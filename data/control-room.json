@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-26T01:14:14.576Z",
+  "generated_at": "2026-10-26T06:18:18.784Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-26T01:14:14.395Z",
+  "last_activity": "2026-10-26T06:18:18.650Z",
   "newspaper": {
     "archive_total": 118,
     "published_today": 0,
-    "published_last_7_days": 19,
+    "published_last_7_days": 18,
     "categories": {
       "SUCESOS": 20,
       "ECONOMIA": 19,
@@ -80,11 +80,11 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 1,
+    "drafts": 0,
     "eligible": 0,
-    "quarantined": 1,
+    "quarantined": 0,
     "archive_added": 0
   },
   "delivery": {
@@ -104,16 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_69d3d1ac45534201",
-      "slug": "cv-700-reabre-tras-dana-adam",
-      "category": "TURISMO",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT",
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-26T01:14:01.615Z"
-    }
-  ]
+  "quarantine": []
 }

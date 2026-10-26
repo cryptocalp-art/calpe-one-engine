@@ -1,85 +1,93 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-26T01:13:19.204Z",
+  "generated_at": "2026-10-26T06:17:34.270Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
       "candidate_fingerprint": "1ffcdeb8a11f6e5447a1762d81def193b710fcb417410e72f25bf626643e3847",
       "title": "La Generalitat reabre todas las carreteras autonómicas afectadas por la DANA Adam",
-      "status": "VERIFIED",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La afirmación principal está corroborada: el 24 de octubre de 2026 se informó de la reapertura de la última carretera autonómica que permanecía afectada por la DANA Adam, la CV-700, tras trabajos de limpieza, drenaje y retirada de arrastres. La información coincide en Cadena SER, Europa Press y À Punt. No obstante, existen discrepancias menores sobre si fueron 14 o 15 carreteras y una referencia geográfica dudosa a Onda en relación con la CV-700.",
+      "publishable": false,
+      "summary": "La reapertura de la última vía autonómica afectada por la DANA Adam está respaldada por Cadena SER y por otros medios que publicaron la misma información el 24 de octubre de 2026. Sin embargo, no se ha localizado una comunicación oficial directamente accesible de la Generalitat que confirme el balance, y existen inconsistencias relevantes: algunas fuentes hablan de 14 carreteras y otra de 15; además, la referencia a la CV-700 «a la altura de Onda» es geográficamente incompatible con el trazado conocido de esa carretera, que discurre por Alicante entre Bocairent, Pego y El Verger. La noticia no debe publicarse sin confirmar estos extremos con la Generalitat o con el estado oficial de carreteras.",
       "claims": [
         {
           "claim": "La Generalitat reabrió la última carretera autonómica afectada por la DANA Adam el 24 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La carretera pendiente era la CV-700 y volvió a estar abierta al tráfico tras finalizar los trabajos de emergencia.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las actuaciones se concentraron especialmente en La Safor y La Marina Alta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se mantuvieron medidas de señalización y recomendaciones de extremar la precaución.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El episodio afectó a más de 80 kilómetros de la red autonómica.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La red autonómica afectada estaba compuesta por 14 carreteras, según la versión difundida por Cadena SER y Europa Press.",
+          "claim": "La red autonómica afectada comprendía 14 carreteras.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La red autonómica afectada estaba compuesta por 15 carreteras, según À Punt.",
-          "status": "UNVERIFIED"
+          "claim": "La última vía reabierta fue la CV-700.",
+          "status": "SUPPORTED"
         },
         {
-          "claim": "La CV-700 afectada se encontraba a la altura de Onda.",
+          "claim": "La CV-700 estaba situada «a la altura de Onda».",
           "status": "CONTRADICTED"
+        },
+        {
+          "claim": "Las zonas especialmente afectadas fueron La Safor y La Marina Alta.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La reapertura se produjo tras trabajos por inundaciones, acumulaciones de agua, arrastres y desprendimientos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Aunque las vías están abiertas, se mantiene señalización preventiva y se recomienda extremar la precaución.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia/",
-          "evidence": "Publica el 24 de octubre que la Generalitat reabrió la última de las carreteras autonómicas afectadas por la DANA Adam, identifica la vía como CV-700 y señala que se mantuvieron señalización y recomendaciones de precaución. También sitúa las principales afecciones en La Safor y La Marina Alta.",
+          "source_name": "Cadena SER - Radio Gandia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/24/la-generalitat-ya-ha-reabierto-todas-las-carreteras-afectadas-por-la-dana-adam-radio-gandia",
+          "evidence": "Informa de que la última de las carreteras autonómicas afectadas ya estaba abierta, identifica la vía como CV-700, sitúa los trabajos principalmente en La Safor y La Marina Alta y recoge la recomendación de extremar la precaución. La propia pieza contiene la referencia geográfica problemática a Onda y alterna las cifras de 14 y «quincena».",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "À Punt",
-          "source_url": "https://www.apuntmedia.es/noticies/societat/generalitat-reobri-l-ultima-carretera-autonomica-afectada-dana-adam_1_1903974.amp.html",
-          "evidence": "Informa de que la CV-700 recuperó la circulación el 24 de octubre tras completarse los trabajos para restablecer la seguridad, y recoge declaraciones del vicepresidente segundo y del conseller responsable sobre la reapertura de las carreteras afectadas.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/comunitat-valenciana/noticia-generalitat-reabre-ultima-quincena-carreteras-autonomicas-afectadas-dana-adam-20261024115347.html",
-          "evidence": "Corrobora que la CV-700 fue la última de las carreteras autonómicas afectadas en reabrir y que las actuaciones incluyeron la recuperación de las condiciones de seguridad tras inundaciones, acumulaciones de agua, arrastres y desprendimientos.",
+          "source_name": "Valencia Extra",
+          "source_url": "https://www.valenciaextra.com/es/sociedad/la-generalitat-cierra-el-capitulo-de-la-dana-adam-en-las-carreteras-valencianas-las-14-vias-autonomicas-afectadas-ya-estan-abiertas-al-trafico_602162_102.html",
+          "evidence": "Publica el 24 de octubre que la reapertura de la CV-700 puso fin a los cortes en las 14 vías autonómicas afectadas y que los daños se concentraron especialmente en La Marina Alta y La Safor. También reproduce la recomendación de circular con precaución. No constituye una corroboración plenamente independiente si procede de la misma comunicación administrativa.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "Dénia Digital",
           "source_url": "https://deniadigital.es/art/23347/estas-son-las-carreteras-de-la-marina-alta-que-siguen-cortadas-o-con-incidencias-este-miercoles/",
-          "evidence": "Documenta que el 21 de octubre todavía persistían cortes e incidencias en varias carreteras de la Marina Alta, lo que aporta contexto temporal coherente con que la CV-700 fuese la última vía pendiente antes de la reapertura comunicada el 24 de octubre.",
+          "evidence": "Recoge, con datos atribuidos a una actualización de la Generalitat, que el 21 de octubre la CV-700 seguía cerrada en varios tramos de la Marina Alta, especialmente entre Pego y El Verger. Esto corrobora que la CV-700 fue una de las últimas vías afectadas, pero es una información anterior y no confirma por sí sola la reapertura del día 24.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Pego / Mancomunidad de Pego i les Valls",
+          "source_url": "https://www.pegoilesvalls.es/es/como_llegar",
+          "evidence": "Identifica la CV-700 como vía de acceso a Pego y la sitúa en el eje de Alicante, no en Onda. La información contradice la localización de la CV-700 «a la altura de Onda» incluida en la noticia de Cadena SER.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Diputación de Alicante",
+          "source_url": "https://abierta.diputacionalicante.es/wp-content/uploads/RP-1342-Mapa-Provincial-Carreteras-2025.pdf",
+          "evidence": "El mapa oficial de carreteras de Alicante incluye la CV-700 dentro del sector de Pego y la relaciona con carreteras de la Marina Alta. No la sitúa en Onda, localidad de la provincia de Castellón.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Moncloa.com",
+          "source_url": "https://www.moncloa.com/2026/10/24/dana-adam-carreteras-generalitat-cv-700-3454714/",
+          "evidence": "Afirma que la reapertura de la CV-700 dejó abiertas 15 vías autonómicas afectadas, no 14. La discrepancia no queda resuelta por una fuente oficial localizada y afecta al recuento central de la noticia.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha localizado una nota primaria de la Generalitat accesible en la búsqueda que permita resolver la discrepancia entre 14 y 15 carreteras autonómicas afectadas.",
-        "La referencia a la CV-700 a la altura de Onda es geográficamente dudosa y no debe reproducirse sin verificación adicional; la CV-700 está asociada al eje de la Marina Alta y el interior de Alicante, no a Onda.",
-        "La corroboración secundaria puede derivar parcialmente del mismo comunicado institucional, por lo que la independencia entre las fuentes no es absoluta.",
-        "La formulación publicable debería limitarse a la reapertura de la última carretera autonómica afectada y evitar cifras o localizaciones controvertidas."
+        "La mayoría de las publicaciones posteriores parecen basarse en la misma comunicación de la Generalitat, por lo que no deben contarse como corroboraciones independientes entre sí.",
+        "No se ha localizado una nota oficial directamente accesible de la Generalitat que permita resolver la discrepancia entre 14 y 15 carreteras.",
+        "La mención de Onda probablemente sea un error por Ondara, pero no debe corregirse por inferencia sin confirmación oficial.",
+        "La evidencia disponible permite sostener provisionalmente que la CV-700 fue reabierta y que las actuaciones afectaron a La Safor y La Marina Alta, pero no permite validar sin reservas todos los detalles del candidato."
       ],
       "id": "inv_69e7f221bc2e6a98",
-      "investigated_at": "2026-10-26T01:13:19.204Z",
+      "investigated_at": "2026-10-26T06:17:34.270Z",
       "model": "gpt-5.6-luna"
     }
   ]
