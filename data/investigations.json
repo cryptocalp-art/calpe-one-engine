@@ -1,143 +1,185 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-26T19:58:08.536Z",
+  "generated_at": "2026-10-26T23:55:22.018Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "512693d6387887bdde239fa5a616fc5c5a9fd36c51c231d8e563a2e50f1525e4",
-      "title": "Calp y Neuilly-sur-Marne exploran un posible hermanamiento con intercambios culturales, deportivos y sociales",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "b12fb3ecd897fb8c19f4120efb75c379043ab4dcf61e6bea7e068348c9f6dac1",
+      "title": "Calp explora un posible hermanamiento con la ciudad francesa de Neuilly-sur-Marne",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La información está respaldada por una nota oficial del Ayuntamiento de Calp, que afirma que una delegación de Neuilly-sur-Marne, encabezada por su alcalde, visitó Calp del 23 al 25 de octubre de 2026 y mantuvo reuniones para estudiar un posible hermanamiento y vías de colaboración. No se ha localizado una confirmación independiente de la ciudad francesa, de otro medio no vinculado al Ayuntamiento o de una fuente institucional bilateral.",
+      "publishable": true,
+      "summary": "La visita y el objetivo de explorar un posible hermanamiento están respaldados directamente por el Ayuntamiento de Calp. Una segunda publicación municipal reproduce los datos esenciales, pero no constituye una corroboración independiente plena. No se ha localizado una confirmación equivalente en la web oficial de Neuilly-sur-Marne.",
       "claims": [
         {
-          "claim": "Una delegación municipal de Neuilly-sur-Marne visitó Calp del 23 al 25 de octubre de 2026.",
+          "claim": "Una delegación de Neuilly-sur-Marne, encabezada por su alcalde Zartoshte Bakhtiari, visitó Calp del 23 al 25 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La delegación estuvo encabezada por el alcalde de Neuilly-sur-Marne, Zartoshte Bakhtiari.",
+          "claim": "La visita tenía como objetivo analizar un posible hermanamiento entre ambas ciudades.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Calp y Neuilly-sur-Marne estudian establecer un posible hermanamiento.",
+          "claim": "La delegación visitó el Centro Histórico, los Baños de la Reina y asistió al desfile de Moros y Cristianos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Durante la visita se analizaron intercambios culturales, deportivos y de servicios sociales.",
+          "claim": "El Ayuntamiento de Calp y la delegación francesa estudiaron posibles intercambios culturales, educativos, deportivos, sociales, asociativos y económicos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Está prevista una próxima visita de representantes de Calp a Neuilly-sur-Marne.",
+          "claim": "Está prevista una visita posterior de una delegación de Calp a Neuilly-sur-Marne antes de decidir sobre el hermanamiento.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "Existe corroboración independiente de la visita y de las conversaciones sobre el hermanamiento.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — Noticias",
+          "source_name": "Ayuntamiento de Calp",
           "source_url": "https://noticias.calp.es/es/noticia/una-delegaci%C3%B3n-de-la-ciudad-francesa-de-neuilly-sur-marne-visita-calp-para-explorar-un",
-          "evidence": "La nota municipal informa de la visita del alcalde Zartoshte Bakhtiari y de varios responsables municipales de Neuilly-sur-Marne a Calp entre el 23 y el 25 de octubre. También describe una reunión con la alcaldesa Ana Sala y concejales para estudiar colaboraciones culturales, educativas, deportivas, sociales, asociativas y económicas, así como una futura visita de una delegación calpina a Francia.",
+          "evidence": "La nota oficial, fechada el 26 de octubre de 2026, identifica al alcalde de Neuilly-sur-Marne, sitúa la visita entre el 23 y el 25 de octubre, describe las actividades realizadas y afirma que ambas partes analizaron vías de colaboración como intercambios culturales, deportivos y de servicios sociales. También indica que una delegación de Calp viajará posteriormente a Francia antes de decidir sobre el futuro hermanamiento.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Comunica",
           "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%A4%9D-una-delegacion-de-neuilly-sur-marne-visita-calp-para-explorar-un-posible-hermanamiento/",
-          "evidence": "Reproduce el contenido esencial de la comunicación municipal: visita del 23 al 25 de octubre, participación del alcalde francés, reunión institucional y estudio de intercambios culturales, deportivos y sociales. No constituye corroboración independiente porque remite a la misma noticia del Ayuntamiento de Calp.",
+          "evidence": "La publicación municipal confirma la visita del alcalde y varios responsables municipales del 23 al 25 de octubre, las visitas al Centro Histórico y Baños de la Reina, la asistencia al desfile y la reunión sobre posibles colaboraciones. Remite a la nota del Ayuntamiento, por lo que no es una fuente independiente plena.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "InfoRadar",
+          "source_url": "https://inforadar.fr/neuilly-sur-marne-envisage-un-jumelage-avec-calp-quelles-retombees-pour-la-commune",
+          "evidence": "El artículo francés confirma que una delegación encabezada por el alcalde acudió a Calp para estudiar un hermanamiento y que se trataron ámbitos culturales, deportivos y sociales. El propio texto identifica como fuente de base a LaMarinaAlta.com, por lo que su independencia respecto de la nota municipal es limitada.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La única evidencia sustantiva procede del Ayuntamiento de Calp.",
-        "Calp Comunica parece ser un canal municipal o vinculado a la comunicación municipal y no una fuente independiente.",
-        "No se ha encontrado una publicación equivalente en la web de la mairie de Neuilly-sur-Marne ni una noticia de un medio externo que confirme la visita."
+        "La evidencia independiente localizada es limitada y parte de ella deriva de la comunicación municipal de Calp.",
+        "La existencia de un posible hermanamiento no equivale a un acuerdo formal: la nota oficial habla únicamente de explorar la posibilidad."
       ],
-      "id": "inv_d34ddda182f99c7a",
-      "investigated_at": "2026-10-26T19:58:08.536Z",
+      "id": "inv_89efe2ee1f11c953",
+      "investigated_at": "2026-10-26T23:55:22.018Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "ac8995750402f7f350930fd4829d1d771b3d3d2de778a59db5a6be7232b4d299",
-      "title": "La Generalitat abre en noviembre nuevas ayudas para negocios y vehículos afectados por la DANA Adam",
+      "candidate_fingerprint": "320865f516599cca101dbd9f181405088f9ef300497cce33f5fdbc12b86894b6",
+      "title": "La Generalitat habilita nuevas ayudas por la DANA Adam para negocios y vehículos siniestrados",
       "status": "VERIFIED",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "publishable": true,
-      "summary": "Varios medios independientes coinciden en que el Consell aprobó el 23 de octubre de 2026 dos decretos de ayudas por un total de 20 millones de euros para empresas y vehículos afectados por la DANA Adam. También coinciden en que el plazo previsto es del 2 de noviembre de 2026 al 1 de febrero de 2027, con ayudas de 10.000 euros para determinados establecimientos y cuantías para vehículos según su categoría, desde 200 euros para motocultores hasta 15.000 euros para autocares. No se ha localizado todavía el texto oficial de los decretos en el DOGV o una ficha operativa de la Generalitat que permita verificar todos los requisitos y cuantías con fuente primaria.",
+      "summary": "Los elementos esenciales están corroborados por varias fuentes independientes. La Generalitat aprobó un paquete adicional de 20 millones de euros, con ayudas de 10.000 euros para actividades económicas afectadas y compensaciones para vehículos declarados siniestro total de entre 200 y 15.000 euros. El plazo indicado es del 2 de noviembre de 2026 al 1 de febrero de 2027.",
       "claims": [
         {
-          "claim": "La Generalitat aprobó 20 millones de euros adicionales para ayudas relacionadas con la DANA Adam.",
+          "claim": "El Consell aprobó 20 millones de euros adicionales para afectados por la DANA Adam.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ayudas se dirigen a comercios, establecimientos turísticos, empresas industriales y agrarias afectadas.",
+          "claim": "Se establecieron ayudas de 10.000 euros por empresa o establecimiento afectado, sujetas a los requisitos de la convocatoria.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se prevén ayudas de 10.000 euros para determinados negocios o establecimientos afectados.",
+          "claim": "Se aprobaron ayudas para vehículos declarados siniestro total, con cuantías de entre 200 y 15.000 euros según la categoría del vehículo.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se contemplan ayudas para vehículos declarados siniestro total.",
+          "claim": "El plazo de solicitud se abrirá el 2 de noviembre de 2026 y finalizará el 1 de febrero de 2027.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las cuantías de vehículos oscilan entre 200 y 15.000 euros según la categoría.",
+          "claim": "Las medidas se aprobaron en el pleno del Consell del 23 de octubre de 2026.",
           "status": "SUPPORTED"
-        },
-        {
-          "claim": "El plazo de solicitud será del 2 de noviembre de 2026 al 1 de febrero de 2027.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La medida cuenta ya con una publicación normativa oficial consultable con todos sus requisitos.",
-          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Europa Press",
-          "source_url": "https://www.europapress.es/valencia/noticia-consell-aprova-noves-ajudes-per-vehicles-empreses-agricultors-afectats-per-dana-adam-20261023140952.html",
-          "evidence": "Informa de que el Consell aprobó el 23 de octubre dos decretos dirigidos a empresas y vehículos afectados por la DANA Adam. Recoge 10.000 euros por establecimiento para comercio minorista, industria y turismo, y cuantías de vehículos de 200 euros para motocultores, 250 para ciclomotores, 2.000 por turismo y hasta 15.000 para autocares. También indica un presupuesto aproximado de 10 millones para la línea de vehículos.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Cadena SER",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/23/el-consell-aprueba-nuevas-ayudas-por-20-millones-de-euros-para-comercios-establecimientos-turisticos-industria-agricultura-y-vehiculos-afectados-por-la-dana-adam-radio-valencia/",
-          "evidence": "Confirma que el Pleno del Consell aprobó dos decretos por un total de 20 millones de euros para daños de la DANA Adam, con una línea para negocios y otra para vehículos. Señala que el plazo de presentación comenzará el 2 de noviembre de 2026 y terminará el 1 de febrero de 2027, y detalla el reparto sectorial de la línea empresarial.",
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/hasta-10-000-euros-para-negocios-y-2-000-por-coche-las-ayudas-por-la-dana-adam-que-se-abren-en-noviembre/",
+          "evidence": "La información publicada el 26 de octubre detalla los 20 millones adicionales, los 10.000 euros por empresa afectada, las ayudas para vehículos de entre 200 y 15.000 euros y el plazo de solicitudes del 2 de noviembre de 2026 al 1 de febrero de 2027.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "El País",
-          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-por-la-dana-adam.html",
-          "evidence": "Corrobora la aprobación por el Gobierno valenciano de nuevas ayudas para los afectados por la DANA Adam y recoge los 10.000 euros por establecimiento y las cuantías para vehículos, desde 200 euros para motocultores hasta 15.000 para autocares.",
+          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-de-la-dana-adam.html",
+          "evidence": "El artículo informa de la aprobación de dos nuevos decretos de ayudas por el Consell, con 10.000 euros para establecimientos y compensaciones de entre 200 euros para determinadas categorías de vehículos y hasta 15.000 euros para autocares. Sitúa la aprobación en el 23 de octubre y cifra el conjunto de ayudas autonómicas en 43,5 millones, incluidos los 20 millones adicionales.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/hasta-10-000-euros-para-negocios-y-2-000-por-coche-las-ayudas-por-la-dana-adam-que-se-abren-en-noviembre/",
-          "evidence": "Publica el calendario de solicitud del 2 de noviembre de 2026 al 1 de febrero de 2027 y describe las ayudas adicionales de 20 millones para empresas, establecimientos y vehículos afectados por la DANA Adam.",
+          "source_name": "La Vanguardia",
+          "source_url": "https://www.lavanguardia.com/local/valencia/20261023/11666495/gobierno-valenciano-aprueba-20-millones-mas-ayudas-afectados-dana-adam.html",
+          "evidence": "La noticia confirma los dos decretos por un total de 20 millones de euros, el plazo de presentación del 2 de noviembre de 2026 al 1 de febrero de 2027 y las cuantías de vehículos entre 200 y 15.000 euros, incluidos hasta 2.000 euros para turismos.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Actualidad Valencia",
-          "source_url": "https://actualidadvalencia.com/ayudas-dana-adam-empresas-vehiculos/",
-          "evidence": "Confirma dos líneas de 10 millones cada una, una para actividad económica y otra para vehículos, el plazo del 2 de noviembre de 2026 al 1 de febrero de 2027 y la ayuda fija de 10.000 euros para empresas. También detalla las cuantías máximas para distintas categorías de vehículos.",
+          "source_name": "Elperiodic.com",
+          "source_url": "https://www.elperiodic.com/generalitat-eleva-millones-ayudas-dana-adam-para-vehiculos-negocios-bienes_1099117",
+          "evidence": "La información confirma que el segundo decreto destina 10 millones a vehículos declarados siniestro total, recoge las cuantías variables según el tipo de vehículo y mantiene el plazo de solicitud hasta el 1 de febrero de 2027.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La corroboración es sólida entre medios independientes, pero no se ha localizado el decreto oficial completo en el DOGV durante la búsqueda.",
-        "La expresión 'entre 200 y 15.000 euros por vehículos' debe entenderse como un intervalo por categorías: no corresponde a una ayuda de entre 200 y 15.000 euros para cualquier turismo.",
-        "La cuantía de 10.000 euros se describe en las fuentes como importe por establecimiento o empresa según la línea; el texto normativo deberá fijar el alcance exacto.",
-        "La ficha de la sede electrónica localizada sobre ayudas DANA 2026 corresponde a otra convocatoria de emprendimiento y no acredita estas nuevas ayudas por la DANA Adam."
+        "La fuente de LaMarinaAlta.com utiliza en el titular la cifra de 2.000 euros por coche, mientras que el texto desarrolla correctamente un rango general de 200 a 15.000 euros y especifica hasta 2.000 euros para turismos.",
+        "Las cuantías son máximos o importes sujetos a requisitos y a la categoría del vehículo; no implican que todos los solicitantes reciban la cantidad máxima."
       ],
-      "id": "inv_467a4ee4dfb0643b",
-      "investigated_at": "2026-10-26T19:58:08.536Z",
+      "id": "inv_66a7edb1a9d32b47",
+      "investigated_at": "2026-10-26T23:55:22.018Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "d8dc91f4e29593a1a367be99268479368ffc9740f368d0c65944cb8b99163dc0",
+      "title": "Calp proyecta convertir su centro histórico en un museo de arte urbano al aire libre",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La creación proyectada del MAU y la cifra de 21 manifestaciones artísticas están confirmadas por una publicación del Ayuntamiento de Calp y por La Marina Plaza. La fuente periodística añade que 11 obras se incorporaron en los últimos tres años y que se han restaurado o se prevé restaurar cinco murales. La formulación correcta es que se trata de un proyecto anunciado o previsto, no de un museo ya inaugurado.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento proyecta crear el MAU, Museu d’Art Urbà, en el centro histórico de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto consistirá en una ruta señalizada o predeterminada con 21 manifestaciones artísticas entre mosaicos, murales y esculturas.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se han incorporado 11 nuevas obras durante los últimos tres años.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se han restaurado dos murales y está prevista la rehabilitación de otros tres, cinco actuaciones en total.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El proyecto pretende poner en valor el patrimonio artístico y dinamizar cultural y turísticamente el centro histórico.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/en/aggregator?page=5",
+          "evidence": "La publicación municipal sobre la programación del Otoño Cultural 2026 anuncia la presentación oficial del futuro Museu d’Art Urbà y señala que mostrará 21 manifestaciones artísticas para convertir el centro histórico en un espacio de exposiciones permanente al aire libre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/26/transformacion-a-golpe-de-arte-calp-frena-el-declive-de-su-centro-historico-que-ahora-convertira-en-un-museo/",
+          "evidence": "El artículo del 26 de octubre informa de que el concejal Guillermo Sendra anunció la próxima creación del MAU. Describe una ruta con 21 manifestaciones artísticas, indica que 11 obras se han incorporado en los últimos tres años y afirma que dos murales se han restaurado por completo y otros tres serán rehabilitados próximamente.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/aggregator/sources/2?page=9",
+          "evidence": "La información municipal sobre la virtualización de los murales del casco antiguo identifica el proyecto de Museu d’Art Urbà como una iniciativa próxima destinada a poner en valor el conjunto artístico mediante una experiencia digital accesible para residentes y visitantes.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La noticia describe un proyecto futuro: las fuentes no acreditan que el MAU esté ya inaugurado como museo formal.",
+        "La cifra de cinco murales corresponde a dos restaurados y tres pendientes de rehabilitación, no necesariamente a cinco restauraciones ya terminadas."
+      ],
+      "id": "inv_c1825f388593ccde",
+      "investigated_at": "2026-10-26T23:55:22.018Z",
       "model": "gpt-5.6-luna"
     }
   ]

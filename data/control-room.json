@@ -2,25 +2,39 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-26T19:59:09.367Z",
+  "generated_at": "2026-10-26T23:56:33.682Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-26T19:59:09.164Z",
+  "last_activity": "2026-10-26T23:56:33.520Z",
   "newspaper": {
-    "archive_total": 118,
-    "published_today": 0,
-    "published_last_7_days": 14,
+    "archive_total": 120,
+    "published_today": 2,
+    "published_last_7_days": 15,
     "categories": {
+      "POLITICA": 10,
+      "CULTURA": 7,
       "SUCESOS": 20,
       "ECONOMIA": 19,
       "MEDIO_AMBIENTE": 21,
       "DEPORTES": 5,
       "TURISMO": 10,
       "LOCAL": 15,
-      "SOCIEDAD": 13,
-      "POLITICA": 9,
-      "CULTURA": 6
+      "SOCIEDAD": 13
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_66fc3d2d02418b2d",
+        "title": "Calp estudia un posible hermanamiento con la ciudad francesa de Neuilly-sur-Marne",
+        "category": "POLITICA",
+        "slug": "calp-estudia-hermanamiento-neuilly-sur-marne",
+        "published_at": "2026-10-26T23:56:03.395Z"
+      },
+      {
+        "archive_id": "arc_6125ccc51f5ebaf5",
+        "title": "Calp proyecta crear un museo de arte urbano al aire libre en su centro histórico",
+        "category": "CULTURA",
+        "slug": "calp-proyecta-museo-arte-urbano-21-obras",
+        "published_at": "2026-10-26T23:56:03.395Z"
+      },
       {
         "archive_id": "arc_6ec4f126da2e0316",
         "title": "Calp desplaza medios de Protección Civil y una patrulla policial a Oliva y Els Poblets tras la DANA Adam",
@@ -62,30 +76,16 @@
         "category": "SUCESOS",
         "slug": "generalitat-coordina-recuperacion-dana-marina-alta-safor",
         "published_at": "2026-10-22T23:25:43.730Z"
-      },
-      {
-        "archive_id": "arc_d40f7eac5a6c5029",
-        "title": "La DANA Adam suma 847 solicitudes de indemnización en Alicante",
-        "category": "SUCESOS",
-        "slug": "dana-adam-847-solicitudes-indemnizacion-alicante",
-        "published_at": "2026-10-22T10:14:12.523Z"
-      },
-      {
-        "archive_id": "arc_1a20e69b6d5bc982",
-        "title": "Calp convoca la cuarta edición del concurso escolar #GoCalp sobre sostenibilidad",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-cuarta-edicion-concurso-escolar-gocalp-sostenibilidad",
-        "published_at": "2026-10-21T15:18:30.414Z"
       }
     ]
   },
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 0,
+    "drafts": 3,
+    "eligible": 2,
     "quarantined": 1,
-    "archive_added": 0
+    "archive_added": 2
   },
   "delivery": {
     "distribution_failed": 0,
@@ -106,13 +106,13 @@
   },
   "quarantine": [
     {
-      "draft_id": "drf_ce2f8294c41170b8",
-      "slug": "ayudas-dana-adam-negocios-vehiculos-noviembre",
+      "draft_id": "drf_91427776eb2ddd48",
+      "slug": "ayudas-20-millones-dana-adam-plazo-cuantias",
       "category": "ECONOMIA",
       "reasons": [
         "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
       ],
-      "evaluated_at": "2026-10-26T19:58:57.610Z"
+      "evaluated_at": "2026-10-26T23:56:17.727Z"
     }
   ]
 }
