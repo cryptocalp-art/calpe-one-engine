@@ -3,12 +3,27 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-25T22:35:38.037Z",
+  "generated_at": "2026-10-26T01:14:01.761Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
+  "drafts_seen": 1,
   "ready_count": 0,
-  "quarantined_count": 0,
+  "quarantined_count": 1,
   "ready": [],
-  "quarantined": []
+  "quarantined": [
+    {
+      "export_id": "exp_50fd14de21966d85",
+      "draft_id": "drf_69d3d1ac45534201",
+      "investigation_id": "inv_69e7f221bc2e6a98",
+      "slug": "cv-700-reabre-tras-dana-adam",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTRADICTED_CLAIM_PRESENT",
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
+    }
+  ]
 }
