@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-26T23:56:33.682Z",
+  "generated_at": "2026-10-27T05:10:13.394Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-26T23:56:33.520Z",
+  "last_activity": "2026-10-27T05:10:13.195Z",
   "newspaper": {
     "archive_total": 120,
     "published_today": 2,
-    "published_last_7_days": 15,
+    "published_last_7_days": 14,
     "categories": {
       "POLITICA": 10,
       "CULTURA": 7,
@@ -82,10 +82,10 @@
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 2,
+    "drafts": 1,
+    "eligible": 0,
     "quarantined": 1,
-    "archive_added": 2
+    "archive_added": 0
   },
   "delivery": {
     "distribution_failed": 0,
@@ -106,13 +106,13 @@
   },
   "quarantine": [
     {
-      "draft_id": "drf_91427776eb2ddd48",
-      "slug": "ayudas-20-millones-dana-adam-plazo-cuantias",
+      "draft_id": "drf_a702dc83463a0500",
+      "slug": "consell-ayudas-dana-adam-negocios-vehiculos",
       "category": "ECONOMIA",
       "reasons": [
         "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
       ],
-      "evaluated_at": "2026-10-26T23:56:17.727Z"
+      "evaluated_at": "2026-10-27T05:10:00.072Z"
     }
   ]
 }
