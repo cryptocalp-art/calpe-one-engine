@@ -1,87 +1,291 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-27T05:09:20.437Z",
+  "generated_at": "2026-10-27T10:37:21.635Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 5,
   "investigations": [
     {
-      "candidate_fingerprint": "b193c6af08ba3e4262f2e726a111a1eed10b717745c03c70732bdfc8cffbc2d1",
-      "title": "La Generalitat abre nuevas ayudas de 20 millones para negocios y vehículos afectados por la DANA Adam",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "5293891917aee0ca4c5cdaeaf5fdcf66dfc5caef3415ed8a2c30f9902d13583b",
+      "title": "Las ONG de Calp critican el plazo de diez días para solicitar las nuevas ayudas municipales",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La información queda suficientemente corroborada por varias fuentes periodísticas independientes que atribuyen el anuncio al Pleno del Consell del 23 de octubre de 2026. El paquete suma 20 millones de euros: 10 millones para actividades económicas afectadas y otros 10 millones para vehículos declarados siniestro total. También coinciden el importe fijo de 10.000 euros por empresa, las ayudas de hasta 2.000 euros para turismos y el plazo previsto del 2 de noviembre de 2026 al 1 de febrero de 2027. No se ha localizado en la búsqueda una publicación primaria accesible del DOGV o una nota oficial completa con el texto de ambos decretos, por lo que la confianza no se eleva a alta.",
+      "publishable": false,
+      "summary": "La existencia de la convocatoria municipal, su presupuesto y el plazo de diez días naturales están respaldados por la Base de Datos Nacional de Subvenciones y por una referencia al anuncio del BOP de Alicante. Sin embargo, la afirmación central sobre el malestar de varias ONG y la insuficiencia del plazo solo aparece en La Marina Plaza; no se ha localizado una corroboración independiente de esas críticas ni declaraciones directas adicionales de las entidades afectadas.",
       "claims": [
         {
-          "claim": "El Consell aprobó un paquete adicional de ayudas por un importe total de 20 millones de euros para afectados por la DANA Adam.",
+          "claim": "El Ayuntamiento de Calp convocó por primera vez en 2026 subvenciones para proyectos de interés social de entidades sin ánimo de lucro.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El paquete se divide en 10 millones para comercios, establecimientos turísticos, industria y empresas o explotaciones agrarias, y otros 10 millones para vehículos afectados.",
+          "claim": "La convocatoria tiene un presupuesto total de 38.187,54 euros y se tramita en régimen de concurrencia competitiva.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ayudas económicas para negocios contemplan una cuantía fija de 10.000 euros por empresa o establecimiento afectado.",
+          "claim": "El plazo de solicitud es de diez días naturales a contar desde el día siguiente a la publicación en el BOP.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La línea de vehículos está destinada a vehículos declarados siniestro total como consecuencia directa de las inundaciones.",
+          "claim": "La convocatoria fue publicada en el BOP de Alicante el 21 de octubre de 2026 y el plazo termina el 31 de octubre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Los turismos pueden recibir hasta 2.000 euros; las cuantías varían según el tipo de vehículo y llegan hasta 15.000 euros para autobuses o autocares.",
+          "claim": "Varias ONG de Calp consideran insuficiente el plazo por coincidir con las fiestas de Moros y Cristianos.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Base de Datos Nacional de Subvenciones",
+          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
+          "evidence": "Registra la convocatoria del Ayuntamiento de Calp para proyectos de interés social, con presupuesto de 38.187,54 euros, procedimiento de concurrencia competitiva y un plazo de diez días naturales desde el día siguiente a la publicación en el BOP.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Boletín Provincial de Alicante, referencia del anuncio",
+          "source_url": "https://oficius.es/informacion-oficial/alicante/2026-10-21/convocatoria-concesion-subvenciones-destinadas-proyectos-interes-social-anualidad-2026-n8OEzm",
+          "evidence": "Identifica el anuncio de la convocatoria de Calp como publicado en el Boletín Oficial de la Provincia de Alicante el 21 de octubre de 2026.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/26/malestar-en-las-ongs-de-calp-al-disponer-solo-de-10-dias-para-optar-a-las-nuevas-ayudas-municipales-con-fiestas-por-medio",
+          "evidence": "Describe el descontento por el plazo de diez días naturales y su coincidencia con las fiestas de Moros y Cristianos; también detalla el objeto y los posibles beneficiarios de las ayudas.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La crítica de las ONG no está corroborada por una segunda fuente independiente ni por comunicados o declaraciones directas de las entidades.",
+        "La BDNS confirma el plazo general, pero la fecha concreta de finalización se ha contrastado mediante la fecha de publicación del anuncio del BOP referenciada por una fuente secundaria."
+      ],
+      "id": "inv_756c4db9a3faca33",
+      "investigated_at": "2026-10-27T10:37:21.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "51a014d3146404d9a8cbcc60b4deedc807a318b720de8734879934087c27a5b7",
+      "title": "Calp impulsa una propuesta para crear una reserva marina en el entorno del Peñón de Ifach",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La propuesta de reserva marina está respaldada por RTVE y por fuentes primarias de Oceana y del Ayuntamiento de Calp. Las fuentes coinciden en que participan pescadores, científicos y organizaciones ecologistas, que el área propuesta se sitúa en torno al Peñón de Ifach y que los objetivos incluyen proteger la biodiversidad y compatibilizar la conservación con la pesca artesanal.",
+      "claims": [
+        {
+          "claim": "Existe una propuesta para crear una reserva marina en aguas del entorno del Peñón de Ifach, en Calp.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El plazo de solicitud está previsto del 2 de noviembre de 2026 al 1 de febrero de 2027.",
+          "claim": "La iniciativa cuenta con la participación o apoyo de pescadores, científicos y organizaciones ecologistas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ayudas se dirigen a particulares y empresas de los municipios incluidos en los decretos y están condicionadas al cumplimiento de requisitos específicos.",
+          "claim": "La propuesta busca preservar los fondos marinos y recuperar la biodiversidad.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La iniciativa pretende compatibilizar la protección ambiental con la pesca artesanal o tradicional.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El área propuesta comprende aproximadamente 267 hectáreas.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/hasta-10-000-euros-para-negocios-y-2-000-por-coche-las-ayudas-por-la-dana-adam-que-se-abren-en-noviembre",
-          "evidence": "Informa de dos decretos aprobados por el Consell el 23 de octubre de 2026, con 10 millones para actividades económicas y otros 10 millones para vehículos declarados siniestro total. Detalla la ayuda fija de 10.000 euros por empresa, las cuantías de vehículos —incluidos 2.000 euros para turismos y hasta 15.000 para autocares— y el plazo del 2 de noviembre de 2026 al 1 de febrero de 2027.",
+          "source_name": "RTVE",
+          "source_url": "https://www.rtve.es/play/audios/comunidad-valenciana-informativos/penon-ifach-propuesta-reserva-marina-calpe/17283475/",
+          "evidence": "Informa el 26 de octubre de 2026 de una iniciativa impulsada por pescadores, científicos y organizaciones ecologistas para crear una reserva marina en aguas del Peñón de Ifach, con objetivos de conservación, recuperación de biodiversidad y apoyo a la pesca artesanal.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Cadena SER Radio Valencia",
-          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/23/el-consell-aprueba-nuevas-ayudas-por-20-millones-de-euros-para-comercios-establecimientos-turisticos-industria-agricultura-y-vehiculos-afectados-por-la-dana-adam-radio-valencia/",
-          "evidence": "Recoge el anuncio del Pleno del Consell de dos decretos por un total de 20 millones de euros: 10 millones para comercio, turismo, industria y sector agrario, y 10 millones para vehículos declarados siniestro total. También confirma el reparto sectorial de la primera línea y el plazo de solicitudes hasta el 1 de febrero de 2027.",
-          "source_type": "SECONDARY"
+          "source_name": "Oceana Europe",
+          "source_url": "https://europe.oceana.org/es/press-releases/oceana-apoya-crear-una-reserva-marina-en-calp-para-recuperar-la-pesca-local/",
+          "evidence": "Oceana comunica su apoyo a la creación de la reserva marina y señala que la iniciativa cuenta con el Ayuntamiento, la Cofradía de Pescadores de Calp y el IMEDMAR. La organización menciona una propuesta de protección estricta de 267 hectáreas.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "El País",
-          "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-de-la-dana-adam.html",
-          "evidence": "Informa, citando al portavoz del Consell, de la aprobación de dos decretos: 10.000 euros por establecimiento de comercio minorista, industria y turismo, además de ayudas agrarias, y una línea para vehículos que puedan ser declarados siniestro total, con importes desde 200 euros hasta 15.000 euros para autocares.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-28092026",
+          "evidence": "Recoge la propuesta de una reserva marina en el entorno del Peñón de Ifach y la descripción de un área de 267 hectáreas entre el dique pesquero y la cala Calalga.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "Actualidad Valencia",
-          "source_url": "https://actualidadvalencia.com/ayudas-dana-adam-empresas-vehiculos/",
-          "evidence": "Confirma los 20 millones divididos en dos líneas de 10 millones, la ayuda fija de 10.000 euros por empresa, la cobertura de comercio, turismo, industria y sector agrario, las compensaciones de 200 a 15.000 euros para vehículos y el plazo de solicitud del 2 de noviembre de 2026 al 1 de febrero de 2027.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "El Periódico",
-          "source_url": "https://www.elperiodic.com/generalitat-eleva-millones-ayudas-dana-adam-para-vehiculos-negocios-bienes_1099117",
-          "evidence": "Describe la aprobación de dos decretos urgentes por 20 millones de euros y confirma que las ayudas para vehículos declarados siniestro total incluyen 2.000 euros para turismos, además de otras cuantías según el tipo de vehículo. También fija el periodo de solicitud entre el 2 de noviembre de 2026 y el 1 de febrero de 2027.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/sec/noticias-medio-ambiente",
+          "evidence": "Informa de una reunión promovida por el Ayuntamiento y Oceana con científicos, especialistas y representantes del sector pesquero para analizar la creación de la reserva marina.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "No se ha localizado durante la búsqueda una URL primaria accesible de la Generalitat Valenciana o del DOGV que contenga el texto íntegro de los dos decretos de 23 de octubre de 2026.",
-        "Las informaciones periodísticas proceden, en buena parte, de la rueda de prensa posterior al Pleno del Consell; por tanto, constituyen corroboración independiente del anuncio público, pero no sustituyen la verificación jurídica del texto oficial.",
-        "Conviene comprobar en los decretos publicados la lista definitiva de municipios, los requisitos, la documentación exigida, las categorías exactas de vehículos y si la cuantía de 10.000 euros se formula jurídicamente por empresa o por establecimiento.",
-        "La expresión «se abren» debe entenderse como apertura prevista para el 2 de noviembre de 2026; a fecha de la investigación, 27 de octubre de 2026, el plazo todavía no había comenzado."
+        "Las fuentes acreditan una propuesta o iniciativa, no la aprobación definitiva de la reserva marina por la Generalitat Valenciana."
       ],
-      "id": "inv_a92b77435459a047",
-      "investigated_at": "2026-10-27T05:09:20.437Z",
+      "id": "inv_8e2571f5267862c3",
+      "investigated_at": "2026-10-27T10:37:21.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "c34b6c93012de5f38db5de663ff514c0febaee8a88eea92179d5a18253c12504",
+      "title": "Calp finaliza la reconstrucción del acceso a la urbanización Balcón de Bernia",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La finalización de las obras y sus principales características están confirmadas por el Ayuntamiento de Calp y por La Marina Plaza. Ambas fuentes coinciden en el presupuesto de adjudicación de 190.271 euros, la intervención sobre el vial y la renovación de servicios, drenaje, aceras y señalización.",
+      "claims": [
+        {
+          "claim": "Han finalizado las obras de reconstrucción del vial de acceso a la urbanización Balcón de Bernia.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación incluyó la renovación del firme, aceras, abastecimiento de agua, drenaje, señalización y canalización eléctrica.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El presupuesto de adjudicación fue de 190.271 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación fue ejecutada por Vives Dalmau, S.A.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El deterioro del vial se originó en el derrumbe de un muro de contención tras las lluvias de 2022.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
+          "source_url": "https://www.calpe.es/es/noticias/articulo/finalizan-las-obras-de-reconstruccion-del-vial-de-acceso-la-urbanizacion-balcon",
+          "evidence": "Confirma que las obras están completamente ejecutadas, identifica a Vives Dalmau, S.A. como adjudicataria y fija el presupuesto en 190.271 euros. Detalla la demolición y reposición del firme, la reconstrucción de aceras, la renovación de la red de agua, el nuevo imbornal, la señalización y la canalización eléctrica.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/07/28/calp-reobri-lacces-al-balcon-de-bernia-totalment-renovat/",
+          "evidence": "Informa de la reapertura del acceso completamente renovado y reproduce los datos esenciales de la obra: adjudicación a Vives Dalmau, presupuesto de 190.271 euros, reconstrucción del vial y renovación de los servicios y del drenaje.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Cadena SER Radio Dénia",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/01/13/calp-inicia-las-obras-de-reconstruccion-del-vial-del-balcon-de-bernia-danado-por-las-lluvias-de-2022-radio-denia/",
+          "evidence": "Confirma el inicio de la actuación, la adjudicación a Vives Dalmau por 190.271 euros y el antecedente de los daños provocados por las lluvias de 2022.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La comunicación municipal describe el presupuesto como presupuesto de adjudicación, no necesariamente como coste final liquidado."
+      ],
+      "id": "inv_13fe26e97d00c013",
+      "investigated_at": "2026-10-27T10:37:21.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "6f20e2a28aa1d10c86b5220d561077e60e8b90d5ce5791cb83ce895e55f5e294",
+      "title": "Calp completa la mejora de las aceras de la calle Castelló de la Plana",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La finalización de la obra, el itinerario peatonal accesible y la inversión están confirmados por el Ayuntamiento de Calp y por Calp Digital. La fuente oficial detalla además los tramos intervenidos, la corrección de bordillos y la renovación de pavimentos.",
+      "claims": [
+        {
+          "claim": "Han finalizado las obras de adecuación de las aceras de la calle Castelló de la Plana de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La actuación creó itinerarios peatonales accesibles de al menos 1,50 metros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se corrigieron bordillos, pasos peatonales y deficiencias de accesibilidad, y se renovaron pavimentos en distintos tramos.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las obras afectaron a intersecciones con las calles Benitatxell, Alfaç del Pi, Gibraltar y el Paseo Marítimo.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La inversión o importe de los trabajos ascendió a 231.399,99 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La empresa ejecutora fue Vías y Obras Aitana.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
+          "source_url": "https://www.calpe.es/es/noticias/articulo/finalizan-las-obras-de-adecuacion-de-las-aceras-de-la-calle-castello-de-la-plana",
+          "evidence": "Confirma la finalización de las obras, la creación de un itinerario libre de obstáculos de al menos 1,50 metros, la renovación del pavimento y la actuación en los tramos e intersecciones indicados. Identifica a Vías y Obras Aitana y fija el importe en 231.399,99 euros.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/autor/125/160",
+          "evidence": "Informa de la finalización de la mejora de las aceras de la calle Castelló de la Plana, con una inversión de 231.399,99 euros, eliminación de barreras arquitectónicas, renovación del pavimento y creación de un itinerario peatonal accesible hasta las inmediaciones del paseo marítimo.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La cifra se presenta como importe de los trabajos o inversión; la nota municipal no la denomina expresamente coste final liquidado."
+      ],
+      "id": "inv_bd5ca27daf2129f5",
+      "investigated_at": "2026-10-27T10:37:21.635Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "101e31f067498c33522d92db24e07e93e3a92c1407264101757c9d9c61cb862c",
+      "title": "La Policía Local de Calp realiza el primer rescate marítimo de la temporada en la cala Racó del Corb",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El rescate está confirmado por la nota oficial del Ayuntamiento de Calp y por una información independiente de Comarcal CV. Las fuentes coinciden en la pérdida de conocimiento de una mujer durante una excursión en kayak, la evacuación marítima desde Racó del Corb y la intervención coordinada de la UVIM, Bomberos y servicios sanitarios.",
+      "claims": [
+        {
+          "claim": "La UVIM de la Policía Local de Calp realizó el primer rescate marítimo de la temporada en la cala Racó del Corb.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Una mujer perdió el conocimiento durante una excursión en kayak.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La zona se encuentra entre los términos municipales de Calp y Altea y es de difícil acceso terrestre.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La mujer fue evacuada por mar mediante la embarcación de la UVIM.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Bomberos y servicios sanitarios participaron en la intervención.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La mujer fue trasladada al Hospital IMED de Benidorm tras ser estabilizada por una unidad SAMU.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
+          "source_url": "https://www.calpe.es/es/noticias/articulo/la-uvim-realiza-el-primer-rescate-de-la-temporada",
+          "evidence": "Relata el rescate en Racó del Corb, la pérdida de conocimiento durante una excursión en kayak, la intervención de la UVIM, la asistencia del helicóptero de Bomberos, la evacuación al puerto de Campomanes y el traslado posterior al Hospital IMED de Benidorm tras la estabilización por una unidad SAMU.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Comarcal CV",
+          "source_url": "https://comarcalcv.com/calp/primer-rescate-de-la-temporada-de-la-policia-maritima-de-calp-al-evacuar-a-una-mujer-en-una-cala-del-raco-del-corb/",
+          "evidence": "Corrobora de forma independiente el primer rescate de la temporada, la localización en Racó del Corb, la pérdida de conocimiento durante una ruta en kayak, la evacuación marítima, la intervención del helicóptero de Bomberos y el traslado al Hospital IMED de Benidorm.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La nota oficial indica que la mujer se encontraba consciente aunque desorientada cuando llegó la embarcación; el resumen del candidato simplifica el episodio como una pérdida de conocimiento."
+      ],
+      "id": "inv_8ad494787f4bd909",
+      "investigated_at": "2026-10-27T10:37:21.635Z",
       "model": "gpt-5.6-luna"
     }
   ]
