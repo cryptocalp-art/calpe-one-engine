@@ -1,117 +1,85 @@
 {
-  "generated_at": "2026-10-27T10:37:21.635Z",
-  "count": 14,
+  "generated_at": "2026-10-27T16:42:38.553Z",
+  "count": 10,
   "evidences": [
     {
-      "id": "evd_16143d3fce72a8e5",
-      "investigation_id": "inv_756c4db9a3faca33",
-      "source_name": "Base de Datos Nacional de Subvenciones",
-      "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
-      "evidence": "Registra la convocatoria del Ayuntamiento de Calp para proyectos de interés social, con presupuesto de 38.187,54 euros, procedimiento de concurrencia competitiva y un plazo de diez días naturales desde el día siguiente a la publicación en el BOP.",
+      "id": "evd_cdeaece3d8ea98e8",
+      "investigation_id": "inv_2bfd18d500361c41",
+      "source_name": "RTVE Noticias",
+      "source_url": "https://www.rtve.es/noticias/20261027/gobierno-declara-zona-catastrofica-25-territorios-dana-adam/17285514.shtml",
+      "evidence": "Informa de que el Consejo de Ministros declaró el 27 de octubre de 2026 zonas gravemente afectadas por una emergencia de protección civil en 25 territorios, incluyendo la Marina Alta y la Safor por los daños de la DANA Adam. Señala que la declaración permite acceder a líneas de ayuda complementarias.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_3031fa4916b0555a",
+      "investigation_id": "inv_2bfd18d500361c41",
+      "source_name": "La Moncloa",
+      "source_url": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/201026-sanchez-zonas-emergencia-dana.aspx",
+      "evidence": "El Gobierno comunicó oficialmente el 20 de octubre que aprobaría la declaración para los municipios afectados por la DANA y que pondría recursos económicos y facilitaría la contratación pública para la recuperación.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_3352d29cd7b58488",
-      "investigation_id": "inv_756c4db9a3faca33",
-      "source_name": "Boletín Provincial de Alicante, referencia del anuncio",
-      "source_url": "https://oficius.es/informacion-oficial/alicante/2026-10-21/convocatoria-concesion-subvenciones-destinadas-proyectos-interes-social-anualidad-2026-n8OEzm",
-      "evidence": "Identifica el anuncio de la convocatoria de Calp como publicado en el Boletín Oficial de la Provincia de Alicante el 21 de octubre de 2026.",
+      "id": "evd_19a2f10a55734880",
+      "investigation_id": "inv_2bfd18d500361c41",
+      "source_name": "LaMarinaAlta.com",
+      "source_url": "https://lamarinaalta.com/el-gobierno-declara-la-marina-alta-zona-catastrofica-tras-el-paso-de-la-dana-adam-y-abre-la-via-a-las-ayudas/",
+      "evidence": "Describe la aprobación de la declaración y detalla que las ayudas estatales quedan condicionadas a acreditar los daños. Enumera posibles ayudas para daños personales, viviendas, establecimientos, corporaciones locales y actuaciones sobre infraestructuras, además de posibles medidas fiscales y administrativas.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_6821dee0daed0038",
-      "investigation_id": "inv_756c4db9a3faca33",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/26/malestar-en-las-ongs-de-calp-al-disponer-solo-de-10-dias-para-optar-a-las-nuevas-ayudas-municipales-con-fiestas-por-medio",
-      "evidence": "Describe el descontento por el plazo de diez días naturales y su coincidencia con las fiestas de Moros y Cristianos; también detalla el objeto y los posibles beneficiarios de las ayudas.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_c8bf13a3acd5a482",
-      "investigation_id": "inv_8e2571f5267862c3",
-      "source_name": "RTVE",
-      "source_url": "https://www.rtve.es/play/audios/comunidad-valenciana-informativos/penon-ifach-propuesta-reserva-marina-calpe/17283475/",
-      "evidence": "Informa el 26 de octubre de 2026 de una iniciativa impulsada por pescadores, científicos y organizaciones ecologistas para crear una reserva marina en aguas del Peñón de Ifach, con objetivos de conservación, recuperación de biodiversidad y apoyo a la pesca artesanal.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_6ad7f10f6dc6cc19",
-      "investigation_id": "inv_8e2571f5267862c3",
-      "source_name": "Oceana Europe",
-      "source_url": "https://europe.oceana.org/es/press-releases/oceana-apoya-crear-una-reserva-marina-en-calp-para-recuperar-la-pesca-local/",
-      "evidence": "Oceana comunica su apoyo a la creación de la reserva marina y señala que la iniciativa cuenta con el Ayuntamiento, la Cofradía de Pescadores de Calp y el IMEDMAR. La organización menciona una propuesta de protección estricta de 267 hectáreas.",
+      "id": "evd_e5a53d23411520f0",
+      "investigation_id": "inv_19653e36f41bb3cb",
+      "source_name": "Diari Oficial de la Generalitat Valenciana / Decreto 174/2026, difundido por FEMEVAL",
+      "source_url": "https://www.femeval.es/detalle_noticia/dynacontent/ayudas-al-comercio-minorista-e-industrias-afectados-por-la-dana-adam.html?cid=e3e36554-6afd-4592-8929-889a70dfd9a3",
+      "evidence": "Identifica el Decreto 174/2026, de 23 de octubre, y recoge ayudas directas para comercio minorista, turismo, industria y explotaciones agrícolas y ganaderas. Confirma 10.000 euros por establecimiento para las líneas de continuidad y reactivación y el plazo del 2 de noviembre de 2026 al 1 de febrero de 2027.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_800b84b2366e0355",
-      "investigation_id": "inv_8e2571f5267862c3",
+      "id": "evd_d3cd0bfcb4085595",
+      "investigation_id": "inv_19653e36f41bb3cb",
+      "source_name": "El País",
+      "source_url": "https://elpais.com/espana/comunidad-valenciana/2026-10-23/el-gobierno-valenciano-aprueba-435-millones-de-euros-en-ayudas-para-los-afectados-de-la-dana-adam.html",
+      "evidence": "Informa de la aprobación por el Consell de 43,5 millones de euros. Detalla los 10.000 euros por establecimiento, las ayudas para vehículos siniestro total, las ayudas de 6.000 y 3.000 euros para viviendas, el realojo de hasta 800 euros mensuales y los fondos para ayuntamientos.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_90c1cd638abc0253",
+      "investigation_id": "inv_19653e36f41bb3cb",
+      "source_name": "Cadena SER",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/23/el-consell-aprueba-nuevas-ayudas-por-20-millones-de-euros-para-comercios-establecimientos-turisticos-industria-agricultura-y-vehiculos-afectados-por-la-dana-adam-radio-valencia/",
+      "evidence": "Corrobora la aprobación de dos decretos autonómicos por 20 millones de euros adicionales, las líneas para negocios y vehículos y el plazo de solicitudes del 2 de noviembre de 2026 al 1 de febrero de 2027.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_da3324e0d5bacfd9",
+      "investigation_id": "inv_19653e36f41bb3cb",
+      "source_name": "À Punt",
+      "source_url": "https://www.apuntmedia.es/noticies/politica/consell-aprova-nous-decrets-d-ajuda-dana-adam-10-000-euros-als-negocis-15-000-ramaderia-o-2.000-als-turismes_1_1903754.html",
+      "evidence": "Confirma que el Consell aprobó dos decretos de ayuda, con 10.000 euros para negocios, compensaciones para explotaciones agrarias y ganaderas y ayudas para vehículos según su tipología. Sitúa el total autonómico acumulado en torno a 43 millones de euros.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_25e2dc7eff7dcd06",
+      "investigation_id": "inv_fe63d92ea3b0167e",
       "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-28092026",
-      "evidence": "Recoge la propuesta de una reserva marina en el entorno del Peñón de Ifach y la descripción de un área de 267 hectáreas entre el dique pesquero y la cala Calalga.",
+      "source_url": "https://noticias.calp.es/es/inici?p=2787&page=20",
+      "evidence": "El Ayuntamiento informa el 13 de mayo de 2026 de que, a través de la Concejalía de Turismo, diseñará una campaña dirigida a ciclistas, cicloturistas y equipos ciclistas para reforzar la seguridad vial y promover una circulación responsable en vías urbanas e interurbanas. También menciona la participación de la Federación de Ciclismo de la Comunitat Valenciana.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_41b585628b1a8909",
-      "investigation_id": "inv_8e2571f5267862c3",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/sec/noticias-medio-ambiente",
-      "evidence": "Informa de una reunión promovida por el Ayuntamiento y Oceana con científicos, especialistas y representantes del sector pesquero para analizar la creación de la reserva marina.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_943fe47c017be449",
-      "investigation_id": "inv_13fe26e97d00c013",
-      "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
-      "source_url": "https://www.calpe.es/es/noticias/articulo/finalizan-las-obras-de-reconstruccion-del-vial-de-acceso-la-urbanizacion-balcon",
-      "evidence": "Confirma que las obras están completamente ejecutadas, identifica a Vives Dalmau, S.A. como adjudicataria y fija el presupuesto en 190.271 euros. Detalla la demolición y reposición del firme, la reconstrucción de aceras, la renovación de la red de agua, el nuevo imbornal, la señalización y la canalización eléctrica.",
+      "id": "evd_3e49d5aee0a90ea9",
+      "investigation_id": "inv_fe63d92ea3b0167e",
+      "source_name": "Calp Town Hall",
+      "source_url": "https://www.calp.es/en/aggregator/sources/7?page=9",
+      "evidence": "Reproduce la información municipal sobre la campaña y la vincula con la promoción del cicloturismo, la sostenibilidad, la responsabilidad y el respeto entre usuarios de la carretera.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_389f8c38680212c9",
-      "investigation_id": "inv_13fe26e97d00c013",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/ca/2026/07/28/calp-reobri-lacces-al-balcon-de-bernia-totalment-renovat/",
-      "evidence": "Informa de la reapertura del acceso completamente renovado y reproduce los datos esenciales de la obra: adjudicación a Vives Dalmau, presupuesto de 190.271 euros, reconstrucción del vial y renovación de los servicios y del drenaje.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_4b568016089cad0d",
-      "investigation_id": "inv_13fe26e97d00c013",
-      "source_name": "Cadena SER Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/01/13/calp-inicia-las-obras-de-reconstruccion-del-vial-del-balcon-de-bernia-danado-por-las-lluvias-de-2022-radio-denia/",
-      "evidence": "Confirma el inicio de la actuación, la adjudicación a Vives Dalmau por 190.271 euros y el antecedente de los daños provocados por las lluvias de 2022.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_1dc11ed37ed8f3fd",
-      "investigation_id": "inv_bd5ca27daf2129f5",
-      "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
-      "source_url": "https://www.calpe.es/es/noticias/articulo/finalizan-las-obras-de-adecuacion-de-las-aceras-de-la-calle-castello-de-la-plana",
-      "evidence": "Confirma la finalización de las obras, la creación de un itinerario libre de obstáculos de al menos 1,50 metros, la renovación del pavimento y la actuación en los tramos e intersecciones indicados. Identifica a Vías y Obras Aitana y fija el importe en 231.399,99 euros.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_2eaef2431523e003",
-      "investigation_id": "inv_bd5ca27daf2129f5",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/autor/125/160",
-      "evidence": "Informa de la finalización de la mejora de las aceras de la calle Castelló de la Plana, con una inversión de 231.399,99 euros, eliminación de barreras arquitectónicas, renovación del pavimento y creación de un itinerario peatonal accesible hasta las inmediaciones del paseo marítimo.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_c243e702371b27e7",
-      "investigation_id": "inv_8ad494787f4bd909",
-      "source_name": "Ayuntamiento de Calp / Tourist Info Calpe",
-      "source_url": "https://www.calpe.es/es/noticias/articulo/la-uvim-realiza-el-primer-rescate-de-la-temporada",
-      "evidence": "Relata el rescate en Racó del Corb, la pérdida de conocimiento durante una excursión en kayak, la intervención de la UVIM, la asistencia del helicóptero de Bomberos, la evacuación al puerto de Campomanes y el traslado posterior al Hospital IMED de Benidorm tras la estabilización por una unidad SAMU.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_f74601a151210cc5",
-      "investigation_id": "inv_8ad494787f4bd909",
-      "source_name": "Comarcal CV",
-      "source_url": "https://comarcalcv.com/calp/primer-rescate-de-la-temporada-de-la-policia-maritima-de-calp-al-evacuar-a-una-mujer-en-una-cala-del-raco-del-corb/",
-      "evidence": "Corrobora de forma independiente el primer rescate de la temporada, la localización en Racó del Corb, la pérdida de conocimiento durante una ruta en kayak, la evacuación marítima, la intervención del helicóptero de Bomberos y el traslado al Hospital IMED de Benidorm.",
+      "id": "evd_ef8e21067d64d8f1",
+      "investigation_id": "inv_fe63d92ea3b0167e",
+      "source_name": "LaMarinaAlta.com",
+      "source_url": "https://lamarinaalta.com/calp-actua-ante-el-auge-del-ciclismo-y-la-ciclofobia-una-campana-para-compartir-el-asfalto-con-seguridad/",
+      "evidence": "Describe el lema, los objetivos de convivencia y las nueve normas de circulación de la campaña. No se ha localizado una segunda fuente independiente que confirme los detalles adicionales sobre mupis, alojamientos y promoción internacional.",
       "source_type": "SECONDARY"
     }
   ]
