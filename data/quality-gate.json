@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-27T16:43:43.604Z",
+  "generated_at": "2026-10-27T21:22:42.988Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -26,12 +26,12 @@
   "quarantined_count": 0,
   "decisions": [
     {
-      "gate_id": "qg_431dad2f978dc1ee",
-      "draft_id": "drf_48984c7b325049f4",
-      "investigation_id": "inv_2bfd18d500361c41",
-      "candidate_fingerprint": "ad2a3530ba3c7f3688bb5a8b956de9b16f0ea546157685faf8d945416d12d8a5",
-      "slug": "marina-alta-zona-afectada-dana-adam-ayudas",
-      "category": "SOCIEDAD",
+      "gate_id": "qg_8c9a741f62d21dbe",
+      "draft_id": "drf_7e15a1aab82d1a9f",
+      "investigation_id": "inv_96cc1d5b50734b76",
+      "candidate_fingerprint": "5b0600ebf71fe2cb297186395f4d3ea65a80ba50a6c83d1416762b81b0cdbed5",
+      "slug": "calp-presenta-campana-un-mismo-asfalto-mismo-respeto",
+      "category": "TURISMO",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -41,7 +41,7 @@
         "investigation_verified": true,
         "investigation_publishable": true,
         "confidence_sufficient": true,
-        "supported_claim_count": 5,
+        "supported_claim_count": 6,
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
         "evidence_count": 3,
@@ -49,7 +49,7 @@
         "secondary_evidence_count": 2,
         "distinct_evidence_urls": 3,
         "distinct_evidence_hosts": 3,
-        "institutional_or_political": false,
+        "institutional_or_political": true,
         "material_caveat": false,
         "caveat_reflected": true,
         "neutral_political_language": true,
@@ -59,18 +59,18 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 275
+        "body_word_count": 248
       },
-      "evaluated_at": "2026-10-27T16:43:43.604Z",
+      "evaluated_at": "2026-10-27T21:22:42.988Z",
       "engine_version": "quality-gate-v1"
     },
     {
-      "gate_id": "qg_1b8661dc1cee9a66",
-      "draft_id": "drf_b4b247131a64e5e6",
-      "investigation_id": "inv_19653e36f41bb3cb",
-      "candidate_fingerprint": "7c7b1d2a788197e236fdfa5b39d3e40bcda5ed36dd28faeceb899d6aa3f5b59b",
-      "slug": "generalitat-ayudas-dana-adam-43-5-millones",
-      "category": "ECONOMIA",
+      "gate_id": "qg_3b8422c87c88b6fc",
+      "draft_id": "drf_f5d8041b2d57ef86",
+      "investigation_id": "inv_e914529cb0384f93",
+      "candidate_fingerprint": "892f157478b295b4a9a3fde2514689476f4fced853fb740e25f4fe9a1ee10e98",
+      "slug": "cesar-sanchez-numero-dos-pp-alicante-congreso",
+      "category": "POLITICA",
       "status": "ELIGIBLE",
       "reasons": [],
       "warnings": [],
@@ -84,8 +84,8 @@
         "contradicted_claim_count": 0,
         "unverified_claim_count": 0,
         "evidence_count": 4,
-        "primary_evidence_count": 1,
-        "secondary_evidence_count": 3,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 2,
         "distinct_evidence_urls": 4,
         "distinct_evidence_hosts": 4,
         "institutional_or_political": true,
@@ -98,9 +98,9 @@
         "sources_trace_to_investigation": true,
         "provenance_consistent": true,
         "structure_complete": true,
-        "body_word_count": 288
+        "body_word_count": 206
       },
-      "evaluated_at": "2026-10-27T16:43:43.604Z",
+      "evaluated_at": "2026-10-27T21:22:42.988Z",
       "engine_version": "quality-gate-v1"
     }
   ]
