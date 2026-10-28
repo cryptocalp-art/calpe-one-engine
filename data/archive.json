@@ -3,9 +3,68 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-28T08:37:16.938Z",
-  "count": 128,
+  "updated_at": "2026-10-28T16:06:49.869Z",
+  "count": 129,
   "articles": [
+    {
+      "archive_id": "arc_91f9e66ce340e71f",
+      "external_id": "drf_5add811dcc893c44",
+      "investigation_id": "inv_eb5dd21472f2151a",
+      "candidate_fingerprints": [
+        "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a"
+      ],
+      "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
+      "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
+      "summary": "Dos agentes de la Policía Local de Calp atendieron el 24 de octubre a una bebé de diez meses que se encontraba inconsciente y sin respiración aparente en la calle Llibertat. Los policías practicaron maniobras de reanimación hasta que la menor recuperó la respiración.",
+      "body": "Dos agentes de la Policía Local de Calp intervinieron el pasado 24 de octubre ante una urgencia sanitaria en la calle Llibertat, donde encontraron a una bebé de diez meses inconsciente y sin respiración aparente.\n\nSegún la información verificada, los agentes iniciaron maniobras de reanimación y consiguieron que la menor recuperara la respiración antes de recibir atención sanitaria. La bebé fue trasladada inicialmente al Centro de Salud de Calp.\n\nPosteriormente, la menor fue derivada en una ambulancia de Soporte Vital Básico al Hospital Comarcal de Dénia para continuar con la atención médica.\n\nLa familia comunicó después que la bebé se encontraba bien y que ya había regresado a casa. La actuación y los traslados han sido recogidos por el Ayuntamiento de Calp y corroborados en sus aspectos esenciales por Cadena SER y Europa Press.\n\nLos hechos comprobables son la intervención de los agentes, las maniobras de reanimación, la recuperación de la respiración y la atención sanitaria posterior. La consideración de que la actuación policial fue determinante para salvar la vida de la menor constituye una valoración periodística y no se presenta aquí como un hecho acreditado de forma independiente.",
+      "category": "SUCESOS",
+      "seo_title": "Dos agentes reaniman a una bebé en Calp",
+      "meta_description": "Dos agentes de la Policía Local de Calp reanimaron a una bebé de diez meses en la calle Llibertat. La menor recuperó la respiración y volvió a casa.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Cadena SER Radio Dénia",
+          "url": "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Europa Press",
+          "url": "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+        "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia",
+        "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La información sobre que la actuación policial fue determinante para salvarle la vida es una valoración periodística; los hechos comprobables son la reanimación, la recuperación de la respiración y los traslados sanitarios.",
+          "Las fuentes consultadas reproducen esencialmente el comunicado municipal, pero existe corroboración editorial independiente de Cadena SER y Europa Press."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_08d8416aac359f87",
+        "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Evitar afirmar que los agentes salvaron la vida de la menor como un hecho probado; limitarse a describir la reanimación, la recuperación de la respiración y los traslados sanitarios."
+      ],
+      "published_at": "2026-10-28T16:06:38.392Z",
+      "updated_at": "2026-10-28T16:06:49.869Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_228335b1a1884a40",
       "external_id": "drf_c32823b3d85e78ec",
@@ -2254,7 +2313,8 @@
       "investigation_id": "inv_82ddb49b0428e5b4",
       "candidate_fingerprints": [
         "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
-        "7245a09a00d9b81b385bb82e8c6dc68bd390d3fa089bba1be6e5a7fb060c6851"
+        "7245a09a00d9b81b385bb82e8c6dc68bd390d3fa089bba1be6e5a7fb060c6851",
+        "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572"
       ],
       "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
       "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
@@ -2284,7 +2344,9 @@
         "https://dogv.gva.es",
         "https://calpcomunica.calp.es/event/%f0%9f%9a%a8-el-ayuntamiento-de-calp-recibe-una-subvencion-de-la-agencia-valenciana-de-seguridad-y-respuesta-a-las-emergencias-para-proteccion-civil/?lang=es",
         "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-        "https://calpcomunica.calp.es/event/%f0%9f%8e%84-abierto-el-plazo-de-inscripcion-para-la-fira-de-nadal-de-calp-2026/?lang=es"
+        "https://calpcomunica.calp.es/event/%f0%9f%8e%84-abierto-el-plazo-de-inscripcion-para-la-fira-de-nadal-de-calp-2026/?lang=es",
+        "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+        "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -2304,7 +2366,7 @@
         "La resolución oficial consultada confirma el programa y su finalidad, pero el extracto disponible no muestra la línea individual de Calp. El importe y la condición de beneficiario proceden de la comunicación municipal."
       ],
       "published_at": "2026-10-16T17:26:53.799Z",
-      "updated_at": "2026-10-24T22:31:14.107Z",
+      "updated_at": "2026-10-28T16:06:49.869Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-28T08:37:34.316Z",
+  "generated_at": "2026-10-28T16:07:03.255Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-28T08:37:34.112Z",
+  "last_activity": "2026-10-28T16:07:03.091Z",
   "newspaper": {
-    "archive_total": 128,
-    "published_today": 1,
-    "published_last_7_days": 19,
+    "archive_total": 129,
+    "published_today": 2,
+    "published_last_7_days": 18,
     "categories": {
+      "SUCESOS": 22,
       "TURISMO": 12,
       "POLITICA": 11,
       "SOCIEDAD": 14,
       "ECONOMIA": 20,
       "LOCAL": 17,
-      "SUCESOS": 21,
       "CULTURA": 7,
       "MEDIO_AMBIENTE": 21,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_91f9e66ce340e71f",
+        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
+        "category": "SUCESOS",
+        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
+        "published_at": "2026-10-28T16:06:38.392Z"
+      },
       {
         "archive_id": "arc_228335b1a1884a40",
         "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
@@ -69,13 +76,6 @@
         "category": "LOCAL",
         "slug": "calp-mejora-aceras-castello-plana",
         "published_at": "2026-10-27T10:38:04.951Z"
-      },
-      {
-        "archive_id": "arc_f16231cf4ec7a796",
-        "title": "La Policía Local de Calp realiza un rescate marítimo en la cala Racó del Corb",
-        "category": "SUCESOS",
-        "slug": "rescate-maritimo-cala-raco-del-corb-calp",
-        "published_at": "2026-10-27T10:38:04.951Z"
       }
     ]
   },
@@ -83,8 +83,8 @@
     "radar_candidates": 7,
     "investigated": 0,
     "drafts": 2,
-    "eligible": 1,
-    "quarantined": 1,
+    "eligible": 2,
+    "quarantined": 0,
     "archive_added": 1
   },
   "delivery": {
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_efd5569a2158e787",
-      "slug": "ayudas-explotaciones-dana-adam-generalitat",
-      "category": "ECONOMIA",
-      "reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ],
-      "evaluated_at": "2026-10-28T08:37:16.609Z"
-    }
-  ]
+  "quarantine": []
 }

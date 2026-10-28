@@ -3,170 +3,269 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-28T08:37:16.779Z",
+  "generated_at": "2026-10-28T16:06:49.749Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 2,
-  "ready_count": 1,
-  "quarantined_count": 1,
+  "ready_count": 2,
+  "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_474256c13c60729a",
+      "export_id": "exp_7145cb979c6241e0",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-28T08:37:16.779Z",
-      "source_draft_id": "drf_c32823b3d85e78ec",
-      "source_investigation_id": "inv_12c37d619b8d140b",
-      "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
-      "quality_gate_id": "qg_91ec93b840ddacf7",
+      "generated_at": "2026-10-28T16:06:49.749Z",
+      "source_draft_id": "drf_5add811dcc893c44",
+      "source_investigation_id": "inv_eb5dd21472f2151a",
+      "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
+      "quality_gate_id": "qg_08d8416aac359f87",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_c32823b3d85e78ec",
-        "investigation_id": "inv_12c37d619b8d140b",
-        "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
-        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
-        "subtitle": "El Ayuntamiento informa de reuniones con oficinas españolas de turismo de Alemania, Francia, Países Bajos y países nórdicos",
-        "summary": "Calp participó en la VI Convención Turespaña, celebrada en Zaragoza en octubre de 2026, con el objetivo de preparar actuaciones de promoción turística internacional para 2027. Según el Ayuntamiento, el departamento de Turismo mantuvo reuniones con oficinas españolas de turismo en varios mercados europeos.",
-        "body": "La agenda de trabajo incluyó encuentros con las oficinas españolas de turismo de Alemania, Francia, Países Bajos y los países nórdicos, de acuerdo con la información difundida por el Ayuntamiento de Calp. Estas reuniones estuvieron orientadas a planificar la promoción internacional del municipio durante 2027.\n\nLa estrategia presentada por el consistorio se articula en torno a la gastronomía, la cultura, la autenticidad y la sostenibilidad. La información municipal sitúa estos elementos como ejes de las futuras acciones promocionales de Calp en los mercados internacionales.\n\nLa Convención Turespaña se celebró en Zaragoza del 20 al 22 de octubre de 2026. La organización oficial del encuentro señala que reunió a destinos, empresas e instituciones para definir objetivos comunes y coordinar la promoción turística internacional. También confirma que las reuniones de trabajo con representantes de Turismo de España en el exterior estaban destinadas a planificar las actuaciones previstas para 2027.\n\nLa confirmación independiente acredita la celebración, la finalidad y el formato de la convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación calpina. La información sobre los mercados específicos y los ejes de la promoción procede de la comunicación oficial del Ayuntamiento de Calp.",
-        "category": "TURISMO",
-        "slug": "calp-promocion-turistica-internacional-2027-turespana",
-        "seo_title": "Calp prepara su promoción turística internacional para 2027",
-        "meta_description": "Calp participó en la Convención Turespaña de Zaragoza y mantuvo reuniones con oficinas de turismo para preparar su promoción internacional de 2027.",
+        "external_id": "drf_5add811dcc893c44",
+        "investigation_id": "inv_eb5dd21472f2151a",
+        "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
+        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
+        "subtitle": "La menor fue atendida en la calle Llibertat, trasladada al Centro de Salud y derivada después al Hospital de Dénia",
+        "summary": "Dos agentes de la Policía Local de Calp atendieron el 24 de octubre a una bebé de diez meses que se encontraba inconsciente y sin respiración aparente en la calle Llibertat. Los policías practicaron maniobras de reanimación hasta que la menor recuperó la respiración.",
+        "body": "Dos agentes de la Policía Local de Calp intervinieron el pasado 24 de octubre ante una urgencia sanitaria en la calle Llibertat, donde encontraron a una bebé de diez meses inconsciente y sin respiración aparente.\n\nSegún la información verificada, los agentes iniciaron maniobras de reanimación y consiguieron que la menor recuperara la respiración antes de recibir atención sanitaria. La bebé fue trasladada inicialmente al Centro de Salud de Calp.\n\nPosteriormente, la menor fue derivada en una ambulancia de Soporte Vital Básico al Hospital Comarcal de Dénia para continuar con la atención médica.\n\nLa familia comunicó después que la bebé se encontraba bien y que ya había regresado a casa. La actuación y los traslados han sido recogidos por el Ayuntamiento de Calp y corroborados en sus aspectos esenciales por Cadena SER y Europa Press.\n\nLos hechos comprobables son la intervención de los agentes, las maniobras de reanimación, la recuperación de la respiración y la atención sanitaria posterior. La consideración de que la actuación policial fue determinante para salvar la vida de la menor constituye una valoración periodística y no se presenta aquí como un hecho acreditado de forma independiente.",
+        "category": "SUCESOS",
+        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
+        "seo_title": "Dos agentes reaniman a una bebé en Calp",
+        "meta_description": "Dos agentes de la Policía Local de Calp reanimaron a una bebé de diez meses en la calle Llibertat. La menor recuperó la respiración y volvió a casa.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_91ec93b840ddacf7",
+        "quality_gate_id": "qg_08d8416aac359f87",
         "editorial_notes": [
-          "Atribuir al Ayuntamiento de Calp la información sobre las reuniones concretas, los mercados y los ejes de promoción.",
-          "La documentación independiente confirma la convención y su finalidad, pero no detalla por separado los encuentros de la delegación de Calp."
+          "Evitar afirmar que los agentes salvaron la vida de la menor como un hecho probado; limitarse a describir la reanimación, la recuperación de la respiración y los traslados sanitarios."
         ],
         "sources": [
           {
-            "name": "Calp Comunica - Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Turespaña",
-            "url": "https://convencion2026.tourspain.es/la-convencion/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Turespaña",
-            "url": "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
-            "type": "PRIMARY"
-          },
-          {
             "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a",
+            "url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
             "type": "PRIMARY"
+          },
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html",
+            "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
-          "https://convencion2026.tourspain.es/la-convencion/",
-          "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
-          "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a"
+          "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
+          "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
+          "confidence": "HIGH",
           "supported_claim_count": 5,
-          "evidence_count": 4,
+          "evidence_count": 3,
           "caveats": [
-            "La confirmación independiente acredita la existencia, finalidad y formato de la Convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación de Calp.",
-            "La información sobre los mercados específicos y los ejes creativos de la promoción procede de la nota oficial municipal.",
-            "La fuente de Calp utiliza la denominación de la edición de la convención; la web oficial de Turespaña identifica el encuentro de Zaragoza como la VI Convención Turespaña de 2026."
+            "La información sobre que la actuación policial fue determinante para salvarle la vida es una valoración periodística; los hechos comprobables son la reanimación, la recuperación de la respiración y los traslados sanitarios.",
+            "Las fuentes consultadas reproducen esencialmente el comunicado municipal, pero existe corroboración editorial independiente de Cadena SER y Europa Press."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_91ec93b840ddacf7",
-          "quality_gate_evaluated_at": "2026-10-28T08:37:16.609Z",
+          "quality_gate_id": "qg_08d8416aac359f87",
+          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-10-28T08:37:05.125Z",
+        "created_at": "2026-10-28T16:06:38.392Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_c32823b3d85e78ec",
-        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
-        "slug": "calp-promocion-turistica-internacional-2027-turespana",
-        "summary": "Calp participó en la VI Convención Turespaña, celebrada en Zaragoza en octubre de 2026, con el objetivo de preparar actuaciones de promoción turística internacional para 2027. Según el Ayuntamiento, el departamento de Turismo mantuvo reuniones con oficinas españolas de turismo en varios mercados europeos.",
-        "body": "La agenda de trabajo incluyó encuentros con las oficinas españolas de turismo de Alemania, Francia, Países Bajos y los países nórdicos, de acuerdo con la información difundida por el Ayuntamiento de Calp. Estas reuniones estuvieron orientadas a planificar la promoción internacional del municipio durante 2027.\n\nLa estrategia presentada por el consistorio se articula en torno a la gastronomía, la cultura, la autenticidad y la sostenibilidad. La información municipal sitúa estos elementos como ejes de las futuras acciones promocionales de Calp en los mercados internacionales.\n\nLa Convención Turespaña se celebró en Zaragoza del 20 al 22 de octubre de 2026. La organización oficial del encuentro señala que reunió a destinos, empresas e instituciones para definir objetivos comunes y coordinar la promoción turística internacional. También confirma que las reuniones de trabajo con representantes de Turismo de España en el exterior estaban destinadas a planificar las actuaciones previstas para 2027.\n\nLa confirmación independiente acredita la celebración, la finalidad y el formato de la convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación calpina. La información sobre los mercados específicos y los ejes de la promoción procede de la comunicación oficial del Ayuntamiento de Calp.",
-        "category": "TURISMO",
-        "seo_title": "Calp prepara su promoción turística internacional para 2027",
-        "meta_description": "Calp participó en la Convención Turespaña de Zaragoza y mantuvo reuniones con oficinas de turismo para preparar su promoción internacional de 2027.",
+        "external_id": "drf_5add811dcc893c44",
+        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
+        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
+        "summary": "Dos agentes de la Policía Local de Calp atendieron el 24 de octubre a una bebé de diez meses que se encontraba inconsciente y sin respiración aparente en la calle Llibertat. Los policías practicaron maniobras de reanimación hasta que la menor recuperó la respiración.",
+        "body": "Dos agentes de la Policía Local de Calp intervinieron el pasado 24 de octubre ante una urgencia sanitaria en la calle Llibertat, donde encontraron a una bebé de diez meses inconsciente y sin respiración aparente.\n\nSegún la información verificada, los agentes iniciaron maniobras de reanimación y consiguieron que la menor recuperara la respiración antes de recibir atención sanitaria. La bebé fue trasladada inicialmente al Centro de Salud de Calp.\n\nPosteriormente, la menor fue derivada en una ambulancia de Soporte Vital Básico al Hospital Comarcal de Dénia para continuar con la atención médica.\n\nLa familia comunicó después que la bebé se encontraba bien y que ya había regresado a casa. La actuación y los traslados han sido recogidos por el Ayuntamiento de Calp y corroborados en sus aspectos esenciales por Cadena SER y Europa Press.\n\nLos hechos comprobables son la intervención de los agentes, las maniobras de reanimación, la recuperación de la respiración y la atención sanitaria posterior. La consideración de que la actuación policial fue determinante para salvar la vida de la menor constituye una valoración periodística y no se presenta aquí como un hecho acreditado de forma independiente.",
+        "category": "SUCESOS",
+        "seo_title": "Dos agentes reaniman a una bebé en Calp",
+        "meta_description": "Dos agentes de la Policía Local de Calp reanimaron a una bebé de diez meses en la calle Llibertat. La menor recuperó la respiración y volvió a casa.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_91ec93b840ddacf7",
+        "quality_gate_id": "qg_08d8416aac359f87",
         "published_at": null,
         "source_urls": [
-          "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
-          "https://convencion2026.tourspain.es/la-convencion/",
-          "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
-          "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a"
+          "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+          "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
+          "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html"
         ],
         "sources": [
           {
-            "name": "Calp Comunica - Ayuntamiento de Calp",
-            "url": "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Turespaña",
-            "url": "https://convencion2026.tourspain.es/la-convencion/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Turespaña",
-            "url": "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
-            "type": "PRIMARY"
-          },
-          {
             "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a",
+            "url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
             "type": "PRIMARY"
+          },
+          {
+            "name": "Cadena SER Radio Dénia",
+            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Europa Press",
+            "url": "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html",
+            "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_12c37d619b8d140b",
-        "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
+        "investigation_id": "inv_eb5dd21472f2151a",
+        "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "MEDIUM",
+          "confidence": "HIGH",
           "supported_claim_count": 5,
-          "evidence_count": 4,
+          "evidence_count": 3,
           "caveats": [
-            "La confirmación independiente acredita la existencia, finalidad y formato de la Convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación de Calp.",
-            "La información sobre los mercados específicos y los ejes creativos de la promoción procede de la nota oficial municipal.",
-            "La fuente de Calp utiliza la denominación de la edición de la convención; la web oficial de Turespaña identifica el encuentro de Zaragoza como la VI Convención Turespaña de 2026."
+            "La información sobre que la actuación policial fue determinante para salvarle la vida es una valoración periodística; los hechos comprobables son la reanimación, la recuperación de la respiración y los traslados sanitarios.",
+            "Las fuentes consultadas reproducen esencialmente el comunicado municipal, pero existe corroboración editorial independiente de Cadena SER y Europa Press."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_91ec93b840ddacf7",
-          "quality_gate_evaluated_at": "2026-10-28T08:37:16.609Z",
+          "quality_gate_id": "qg_08d8416aac359f87",
+          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_915fb952b3819287",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-28T16:06:49.749Z",
+      "source_draft_id": "drf_9353fd0b631aa112",
+      "source_investigation_id": "inv_0967081d881c5a39",
+      "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
+      "quality_gate_id": "qg_e33f80acab164411",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_9353fd0b631aa112",
+        "investigation_id": "inv_0967081d881c5a39",
+        "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
+        "title": "Calp inicia las III Jornadas Medioambientales del Mar ‘Calp Blau’",
+        "subtitle": "El programa principal se desarrolla del 28 al 30 de octubre en el Real Club Náutico de Calp",
+        "summary": "Calp acoge desde este miércoles 28 de octubre las III Jornadas Medioambientales del Mar ‘Calp Blau’, una convocatoria centrada en la sostenibilidad del litoral, la protección marina y la relación entre turismo y conservación ambiental.",
+        "body": "Las III Jornadas Medioambientales del Mar ‘Calp Blau’ han comenzado este miércoles 28 de octubre en Calp. El programa principal se desarrolla hasta el 30 de octubre y tiene como sede el Real Club Náutico de Calp.\n\nLa convocatoria aborda cuestiones relacionadas con la sostenibilidad del litoral, la protección de la biodiversidad marina, la restauración de ecosistemas y la acción ambiental. También incluye contenidos sobre la relación entre turismo y conservación, dentro de un programa que plantea la transformación del turismo desde una perspectiva vinculada a la naturaleza y la sostenibilidad.\n\nEn las jornadas participan expertos, entidades y colectivos relacionados con el medio marino y la sostenibilidad. La programación contempla conferencias y mesas de trabajo sobre turismo azul, biodiversidad marina, cambio climático, restauración de ecosistemas y prácticas sostenibles, según la información difundida sobre el encuentro.\n\nLa celebración en Calp ha sido anunciada por el Ayuntamiento y figura también en la agenda de la Universitat d’Alacant. Estas fuentes confirman las fechas principales, del 28 al 30 de octubre, y la sede del Real Club Náutico de Calp.\n\nLa programación ampliada incluye además una jornada de acción ambiental y voluntariado prevista para el 31 de octubre. Por este motivo, el periodo del 28 al 30 de octubre corresponde al programa principal de las jornadas, pero no debe interpretarse como la totalidad de las actividades asociadas a la convocatoria.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-inicia-jornadas-medioambientales-mar-calp-blau",
+        "seo_title": "Calp inicia las jornadas medioambientales Calp Blau",
+        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebran en Calp del 28 al 30 de octubre, con sede en el Real Club Náutico.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e33f80acab164411",
+        "editorial_notes": [
+          "Distinguir el programa principal, previsto del 28 al 30 de octubre, de la jornada ampliada de acción ambiental y voluntariado anunciada para el 31 de octubre."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — comunicación oficial",
+            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Sede Universitaria de Calp — Universitat d’Alacant",
+            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+          "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La comunicación inicial del candidato menciona el periodo principal del 28 al 30 de octubre. La programación ampliada incluye una jornada de acción ambiental y voluntariado el 31 de octubre, por lo que no debe presentarse el evento completo como limitado exclusivamente al 28-30.",
+            "La fuente de Calp Digital describe con más detalle el programa, mientras que la confirmación institucional procede del Ayuntamiento y la agenda universitaria."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e33f80acab164411",
+          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-28T16:06:38.392Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_9353fd0b631aa112",
+        "title": "Calp inicia las III Jornadas Medioambientales del Mar ‘Calp Blau’",
+        "slug": "calp-inicia-jornadas-medioambientales-mar-calp-blau",
+        "summary": "Calp acoge desde este miércoles 28 de octubre las III Jornadas Medioambientales del Mar ‘Calp Blau’, una convocatoria centrada en la sostenibilidad del litoral, la protección marina y la relación entre turismo y conservación ambiental.",
+        "body": "Las III Jornadas Medioambientales del Mar ‘Calp Blau’ han comenzado este miércoles 28 de octubre en Calp. El programa principal se desarrolla hasta el 30 de octubre y tiene como sede el Real Club Náutico de Calp.\n\nLa convocatoria aborda cuestiones relacionadas con la sostenibilidad del litoral, la protección de la biodiversidad marina, la restauración de ecosistemas y la acción ambiental. También incluye contenidos sobre la relación entre turismo y conservación, dentro de un programa que plantea la transformación del turismo desde una perspectiva vinculada a la naturaleza y la sostenibilidad.\n\nEn las jornadas participan expertos, entidades y colectivos relacionados con el medio marino y la sostenibilidad. La programación contempla conferencias y mesas de trabajo sobre turismo azul, biodiversidad marina, cambio climático, restauración de ecosistemas y prácticas sostenibles, según la información difundida sobre el encuentro.\n\nLa celebración en Calp ha sido anunciada por el Ayuntamiento y figura también en la agenda de la Universitat d’Alacant. Estas fuentes confirman las fechas principales, del 28 al 30 de octubre, y la sede del Real Club Náutico de Calp.\n\nLa programación ampliada incluye además una jornada de acción ambiental y voluntariado prevista para el 31 de octubre. Por este motivo, el periodo del 28 al 30 de octubre corresponde al programa principal de las jornadas, pero no debe interpretarse como la totalidad de las actividades asociadas a la convocatoria.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp inicia las jornadas medioambientales Calp Blau",
+        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebran en Calp del 28 al 30 de octubre, con sede en el Real Club Náutico.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_e33f80acab164411",
+        "published_at": null,
+        "source_urls": [
+          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+          "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — comunicación oficial",
+            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Sede Universitaria de Calp — Universitat d’Alacant",
+            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_0967081d881c5a39",
+        "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 5,
+          "evidence_count": 3,
+          "caveats": [
+            "La comunicación inicial del candidato menciona el periodo principal del 28 al 30 de octubre. La programación ampliada incluye una jornada de acción ambiental y voluntariado el 31 de octubre, por lo que no debe presentarse el evento completo como limitado exclusivamente al 28-30.",
+            "La fuente de Calp Digital describe con más detalle el programa, mientras que la confirmación institucional procede del Ayuntamiento y la agenda universitaria."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_e33f80acab164411",
+          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }
     }
   ],
-  "quarantined": [
-    {
-      "export_id": "exp_bd2a3e7646f3fc04",
-      "draft_id": "drf_efd5569a2158e787",
-      "investigation_id": "inv_8638b06e3a243714",
-      "slug": "ayudas-explotaciones-dana-adam-generalitat",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
-      ]
-    }
-  ]
+  "quarantined": []
 }
