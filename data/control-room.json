@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-28T16:07:03.255Z",
+  "generated_at": "2026-10-28T21:08:57.384Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-28T16:07:03.091Z",
+  "last_activity": "2026-10-28T21:08:57.181Z",
   "newspaper": {
-    "archive_total": 129,
-    "published_today": 2,
-    "published_last_7_days": 18,
+    "archive_total": 130,
+    "published_today": 3,
+    "published_last_7_days": 19,
     "categories": {
+      "LOCAL": 18,
       "SUCESOS": 22,
       "TURISMO": 12,
       "POLITICA": 11,
       "SOCIEDAD": 14,
       "ECONOMIA": 20,
-      "LOCAL": 17,
       "CULTURA": 7,
       "MEDIO_AMBIENTE": 21,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_a2d787e299d711ef",
+        "title": "Calp abre el plazo para solicitar uno de los huertos urbanos municipales",
+        "category": "LOCAL",
+        "slug": "calp-plazo-solicitar-huertos-urbanos-municipales",
+        "published_at": "2026-10-28T21:08:27.608Z"
+      },
       {
         "archive_id": "arc_91f9e66ce340e71f",
         "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
@@ -69,18 +76,11 @@
         "category": "LOCAL",
         "slug": "calp-finaliza-acceso-balcon-bernia",
         "published_at": "2026-10-27T10:38:04.951Z"
-      },
-      {
-        "archive_id": "arc_c3322afe7adaa72c",
-        "title": "Calp completa la mejora de las aceras de la calle Castelló de la Plana",
-        "category": "LOCAL",
-        "slug": "calp-mejora-aceras-castello-plana",
-        "published_at": "2026-10-27T10:38:04.951Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 7,
+    "radar_candidates": 6,
     "investigated": 0,
     "drafts": 2,
     "eligible": 2,

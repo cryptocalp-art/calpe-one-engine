@@ -3,7 +3,7 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-28T16:06:49.749Z",
+  "generated_at": "2026-10-28T21:08:41.666Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 2,
@@ -11,256 +11,273 @@
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_7145cb979c6241e0",
+      "export_id": "exp_23b587ff6566c369",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-28T16:06:49.749Z",
-      "source_draft_id": "drf_5add811dcc893c44",
-      "source_investigation_id": "inv_eb5dd21472f2151a",
-      "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
-      "quality_gate_id": "qg_08d8416aac359f87",
+      "generated_at": "2026-10-28T21:08:41.666Z",
+      "source_draft_id": "drf_5949312f464a6ac6",
+      "source_investigation_id": "inv_5de7ca42c5c5f401",
+      "candidate_fingerprint": "57f62d7e2851543bdb1847e49052d5540418f4e9b63da5215b0c15ff141d47d6",
+      "quality_gate_id": "qg_61d499fdabbf908a",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_5add811dcc893c44",
-        "investigation_id": "inv_eb5dd21472f2151a",
-        "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
-        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
-        "subtitle": "La menor fue atendida en la calle Llibertat, trasladada al Centro de Salud y derivada después al Hospital de Dénia",
-        "summary": "Dos agentes de la Policía Local de Calp atendieron el 24 de octubre a una bebé de diez meses que se encontraba inconsciente y sin respiración aparente en la calle Llibertat. Los policías practicaron maniobras de reanimación hasta que la menor recuperó la respiración.",
-        "body": "Dos agentes de la Policía Local de Calp intervinieron el pasado 24 de octubre ante una urgencia sanitaria en la calle Llibertat, donde encontraron a una bebé de diez meses inconsciente y sin respiración aparente.\n\nSegún la información verificada, los agentes iniciaron maniobras de reanimación y consiguieron que la menor recuperara la respiración antes de recibir atención sanitaria. La bebé fue trasladada inicialmente al Centro de Salud de Calp.\n\nPosteriormente, la menor fue derivada en una ambulancia de Soporte Vital Básico al Hospital Comarcal de Dénia para continuar con la atención médica.\n\nLa familia comunicó después que la bebé se encontraba bien y que ya había regresado a casa. La actuación y los traslados han sido recogidos por el Ayuntamiento de Calp y corroborados en sus aspectos esenciales por Cadena SER y Europa Press.\n\nLos hechos comprobables son la intervención de los agentes, las maniobras de reanimación, la recuperación de la respiración y la atención sanitaria posterior. La consideración de que la actuación policial fue determinante para salvar la vida de la menor constituye una valoración periodística y no se presenta aquí como un hecho acreditado de forma independiente.",
-        "category": "SUCESOS",
-        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
-        "seo_title": "Dos agentes reaniman a una bebé en Calp",
-        "meta_description": "Dos agentes de la Policía Local de Calp reanimaron a una bebé de diez meses en la calle Llibertat. La menor recuperó la respiración y volvió a casa.",
+        "external_id": "drf_5949312f464a6ac6",
+        "investigation_id": "inv_5de7ca42c5c5f401",
+        "candidate_fingerprint": "57f62d7e2851543bdb1847e49052d5540418f4e9b63da5215b0c15ff141d47d6",
+        "title": "Calp abre el plazo para solicitar uno de los huertos urbanos municipales",
+        "subtitle": "Las solicitudes podrán presentarse del 29 de octubre al 18 de noviembre, de forma presencial o telemática",
+        "summary": "El Ayuntamiento de Calp ha abierto una nueva convocatoria para solicitar huertos urbanos municipales. El plazo de presentación estará abierto del 29 de octubre al 18 de noviembre de 2026.",
+        "body": "El Ayuntamiento de Calp ha anunciado la apertura del plazo para optar a uno de los huertos urbanos municipales dentro de una nueva adjudicación. Las personas interesadas podrán presentar sus solicitudes entre el 29 de octubre y el 18 de noviembre de 2026, según el aviso publicado por el consistorio el 28 de octubre.\n\nLa convocatoria contempla dos vías de presentación. La primera es presencial, mediante una instancia en la Oficina de Atención a la Ciudadanía (OAC). La segunda es telemática, a través de la sede electrónica municipal.\n\nEl anuncio oficial consultado no reproduce las bases completas de la convocatoria ni concreta el número de parcelas disponibles. Por este motivo, los requisitos y demás condiciones de participación no se detallan en esta información.\n\nLa apertura de este procedimiento llega después de que una comunicación oficial difundida en julio informara de que la concesión vigente de los huertos urbanos finalizaba durante 2026 y avanzara una nueva convocatoria. En aquella comunicación también se indicó que la adjudicación se realizaría mediante sorteo.\n\nLas personas interesadas deberán consultar las bases oficiales antes de presentar la solicitud para conocer la documentación y las condiciones aplicables al procedimiento.",
+        "category": "LOCAL",
+        "slug": "calp-plazo-solicitar-huertos-urbanos-municipales",
+        "seo_title": "Calp abre el plazo para solicitar huertos urbanos municipales",
+        "meta_description": "Calp abre del 29 de octubre al 18 de noviembre el plazo para solicitar huertos urbanos municipales en la OAC o por vía telemática.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_08d8416aac359f87",
+        "quality_gate_id": "qg_61d499fdabbf908a",
         "editorial_notes": [
-          "Evitar afirmar que los agentes salvaron la vida de la menor como un hecho probado; limitarse a describir la reanimación, la recuperación de la respiración y los traslados sanitarios."
+          "La información sobre las fechas está respaldada por un aviso oficial, pero no se ha localizado una corroboración independiente.",
+          "No se han incluido requisitos, número de parcelas ni otras condiciones porque el anuncio consultado no reproduce las bases completas.",
+          "La referencia al sorteo procede de una comunicación oficial de julio sobre la nueva convocatoria; conviene comprobar las bases definitivas antes de publicar detalles adicionales."
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/page/5/",
             "type": "PRIMARY"
           },
           {
-            "name": "Cadena SER Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
-            "type": "SECONDARY"
+            "name": "Ayuntamiento de Calp – Telegram oficial",
+            "url": "https://t.me/s/AyuntamientodeCalp?after=9444&q=%23Calp",
+            "type": "PRIMARY"
           },
           {
-            "name": "Europa Press",
-            "url": "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html",
-            "type": "SECONDARY"
+            "name": "Noticias del Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/se-abre-el-plazo-para-solicitar-huertos-urbanos-en-parcelas-municipales",
+            "type": "PRIMARY"
           }
         ],
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
-          "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html"
+          "https://calpcomunica.calp.es/page/5/",
+          "https://t.me/s/AyuntamientodeCalp?after=9444&q=%23Calp",
+          "https://noticias.calp.es/es/noticia/se-abre-el-plazo-para-solicitar-huertos-urbanos-en-parcelas-municipales"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
           "evidence_count": 3,
           "caveats": [
-            "La información sobre que la actuación policial fue determinante para salvarle la vida es una valoración periodística; los hechos comprobables son la reanimación, la recuperación de la respiración y los traslados sanitarios.",
-            "Las fuentes consultadas reproducen esencialmente el comunicado municipal, pero existe corroboración editorial independiente de Cadena SER y Europa Press."
+            "No se ha encontrado una fuente independiente que confirme específicamente las fechas del 29 de octubre al 18 de noviembre de 2026.",
+            "La página de detalle del evento oficial contiene el anuncio y la fecha, pero no reproduce las bases completas ni el número de parcelas disponibles.",
+            "Conviene consultar las bases oficiales antes de publicar requisitos adicionales no incluidos en el candidato."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_08d8416aac359f87",
-          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_id": "qg_61d499fdabbf908a",
+          "quality_gate_evaluated_at": "2026-10-28T21:08:41.502Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-10-28T16:06:38.392Z",
+        "created_at": "2026-10-28T21:08:27.608Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_5add811dcc893c44",
-        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
-        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
-        "summary": "Dos agentes de la Policía Local de Calp atendieron el 24 de octubre a una bebé de diez meses que se encontraba inconsciente y sin respiración aparente en la calle Llibertat. Los policías practicaron maniobras de reanimación hasta que la menor recuperó la respiración.",
-        "body": "Dos agentes de la Policía Local de Calp intervinieron el pasado 24 de octubre ante una urgencia sanitaria en la calle Llibertat, donde encontraron a una bebé de diez meses inconsciente y sin respiración aparente.\n\nSegún la información verificada, los agentes iniciaron maniobras de reanimación y consiguieron que la menor recuperara la respiración antes de recibir atención sanitaria. La bebé fue trasladada inicialmente al Centro de Salud de Calp.\n\nPosteriormente, la menor fue derivada en una ambulancia de Soporte Vital Básico al Hospital Comarcal de Dénia para continuar con la atención médica.\n\nLa familia comunicó después que la bebé se encontraba bien y que ya había regresado a casa. La actuación y los traslados han sido recogidos por el Ayuntamiento de Calp y corroborados en sus aspectos esenciales por Cadena SER y Europa Press.\n\nLos hechos comprobables son la intervención de los agentes, las maniobras de reanimación, la recuperación de la respiración y la atención sanitaria posterior. La consideración de que la actuación policial fue determinante para salvar la vida de la menor constituye una valoración periodística y no se presenta aquí como un hecho acreditado de forma independiente.",
-        "category": "SUCESOS",
-        "seo_title": "Dos agentes reaniman a una bebé en Calp",
-        "meta_description": "Dos agentes de la Policía Local de Calp reanimaron a una bebé de diez meses en la calle Llibertat. La menor recuperó la respiración y volvió a casa.",
+        "external_id": "drf_5949312f464a6ac6",
+        "title": "Calp abre el plazo para solicitar uno de los huertos urbanos municipales",
+        "slug": "calp-plazo-solicitar-huertos-urbanos-municipales",
+        "summary": "El Ayuntamiento de Calp ha abierto una nueva convocatoria para solicitar huertos urbanos municipales. El plazo de presentación estará abierto del 29 de octubre al 18 de noviembre de 2026.",
+        "body": "El Ayuntamiento de Calp ha anunciado la apertura del plazo para optar a uno de los huertos urbanos municipales dentro de una nueva adjudicación. Las personas interesadas podrán presentar sus solicitudes entre el 29 de octubre y el 18 de noviembre de 2026, según el aviso publicado por el consistorio el 28 de octubre.\n\nLa convocatoria contempla dos vías de presentación. La primera es presencial, mediante una instancia en la Oficina de Atención a la Ciudadanía (OAC). La segunda es telemática, a través de la sede electrónica municipal.\n\nEl anuncio oficial consultado no reproduce las bases completas de la convocatoria ni concreta el número de parcelas disponibles. Por este motivo, los requisitos y demás condiciones de participación no se detallan en esta información.\n\nLa apertura de este procedimiento llega después de que una comunicación oficial difundida en julio informara de que la concesión vigente de los huertos urbanos finalizaba durante 2026 y avanzara una nueva convocatoria. En aquella comunicación también se indicó que la adjudicación se realizaría mediante sorteo.\n\nLas personas interesadas deberán consultar las bases oficiales antes de presentar la solicitud para conocer la documentación y las condiciones aplicables al procedimiento.",
+        "category": "LOCAL",
+        "seo_title": "Calp abre el plazo para solicitar huertos urbanos municipales",
+        "meta_description": "Calp abre del 29 de octubre al 18 de noviembre el plazo para solicitar huertos urbanos municipales en la OAC o por vía telemática.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_08d8416aac359f87",
+        "quality_gate_id": "qg_61d499fdabbf908a",
         "published_at": null,
         "source_urls": [
-          "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
-          "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
-          "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html"
+          "https://calpcomunica.calp.es/page/5/",
+          "https://t.me/s/AyuntamientodeCalp?after=9444&q=%23Calp",
+          "https://noticias.calp.es/es/noticia/se-abre-el-plazo-para-solicitar-huertos-urbanos-en-parcelas-municipales"
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-de-calp-reanima-una-beb%C3%A9-de-diez-meses-que-se-encontraba-inconsciente-y-sin",
+            "name": "Calp Comunica / Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/page/5/",
             "type": "PRIMARY"
           },
           {
-            "name": "Cadena SER Radio Dénia",
-            "url": "https://cadenaser.com/comunitat-valenciana/2026/10/28/dos-policias-locales-de-calp-salvan-la-vida-a-una-bebe-de-diez-meses-que-habia-dejado-de-respirar-radio-denia/",
-            "type": "SECONDARY"
+            "name": "Ayuntamiento de Calp – Telegram oficial",
+            "url": "https://t.me/s/AyuntamientodeCalp?after=9444&q=%23Calp",
+            "type": "PRIMARY"
           },
           {
-            "name": "Europa Press",
-            "url": "https://www.europapress.es/comunitat-valenciana/noticia-dos-policias-reaniman-bebe-estaba-inconsciente-respiracion-calp-20261028102517.html",
-            "type": "SECONDARY"
+            "name": "Noticias del Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/se-abre-el-plazo-para-solicitar-huertos-urbanos-en-parcelas-municipales",
+            "type": "PRIMARY"
           }
         ],
-        "investigation_id": "inv_eb5dd21472f2151a",
-        "candidate_fingerprint": "7e5a06635c3e679bb41e2da242009ee044f42329bada175851d807768e3e503a",
+        "investigation_id": "inv_5de7ca42c5c5f401",
+        "candidate_fingerprint": "57f62d7e2851543bdb1847e49052d5540418f4e9b63da5215b0c15ff141d47d6",
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 5,
+          "confidence": "MEDIUM",
+          "supported_claim_count": 4,
           "evidence_count": 3,
           "caveats": [
-            "La información sobre que la actuación policial fue determinante para salvarle la vida es una valoración periodística; los hechos comprobables son la reanimación, la recuperación de la respiración y los traslados sanitarios.",
-            "Las fuentes consultadas reproducen esencialmente el comunicado municipal, pero existe corroboración editorial independiente de Cadena SER y Europa Press."
+            "No se ha encontrado una fuente independiente que confirme específicamente las fechas del 29 de octubre al 18 de noviembre de 2026.",
+            "La página de detalle del evento oficial contiene el anuncio y la fecha, pero no reproduce las bases completas ni el número de parcelas disponibles.",
+            "Conviene consultar las bases oficiales antes de publicar requisitos adicionales no incluidos en el candidato."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_08d8416aac359f87",
-          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_id": "qg_61d499fdabbf908a",
+          "quality_gate_evaluated_at": "2026-10-28T21:08:41.502Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
       }
     },
     {
-      "export_id": "exp_915fb952b3819287",
+      "export_id": "exp_cc41cc1fdd9f8850",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-28T16:06:49.749Z",
-      "source_draft_id": "drf_9353fd0b631aa112",
-      "source_investigation_id": "inv_0967081d881c5a39",
-      "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
-      "quality_gate_id": "qg_e33f80acab164411",
+      "generated_at": "2026-10-28T21:08:41.666Z",
+      "source_draft_id": "drf_af8d851324c88577",
+      "source_investigation_id": "inv_71126f6148271378",
+      "candidate_fingerprint": "a91b9133d91d046670edef0be53bd2b2d90e99a8b56ea207df679e9ed9a74f5a",
+      "quality_gate_id": "qg_f98fdda0ef3dd6c1",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_9353fd0b631aa112",
-        "investigation_id": "inv_0967081d881c5a39",
-        "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
-        "title": "Calp inicia las III Jornadas Medioambientales del Mar ‘Calp Blau’",
-        "subtitle": "El programa principal se desarrolla del 28 al 30 de octubre en el Real Club Náutico de Calp",
-        "summary": "Calp acoge desde este miércoles 28 de octubre las III Jornadas Medioambientales del Mar ‘Calp Blau’, una convocatoria centrada en la sostenibilidad del litoral, la protección marina y la relación entre turismo y conservación ambiental.",
-        "body": "Las III Jornadas Medioambientales del Mar ‘Calp Blau’ han comenzado este miércoles 28 de octubre en Calp. El programa principal se desarrolla hasta el 30 de octubre y tiene como sede el Real Club Náutico de Calp.\n\nLa convocatoria aborda cuestiones relacionadas con la sostenibilidad del litoral, la protección de la biodiversidad marina, la restauración de ecosistemas y la acción ambiental. También incluye contenidos sobre la relación entre turismo y conservación, dentro de un programa que plantea la transformación del turismo desde una perspectiva vinculada a la naturaleza y la sostenibilidad.\n\nEn las jornadas participan expertos, entidades y colectivos relacionados con el medio marino y la sostenibilidad. La programación contempla conferencias y mesas de trabajo sobre turismo azul, biodiversidad marina, cambio climático, restauración de ecosistemas y prácticas sostenibles, según la información difundida sobre el encuentro.\n\nLa celebración en Calp ha sido anunciada por el Ayuntamiento y figura también en la agenda de la Universitat d’Alacant. Estas fuentes confirman las fechas principales, del 28 al 30 de octubre, y la sede del Real Club Náutico de Calp.\n\nLa programación ampliada incluye además una jornada de acción ambiental y voluntariado prevista para el 31 de octubre. Por este motivo, el periodo del 28 al 30 de octubre corresponde al programa principal de las jornadas, pero no debe interpretarse como la totalidad de las actividades asociadas a la convocatoria.",
+        "external_id": "drf_af8d851324c88577",
+        "investigation_id": "inv_71126f6148271378",
+        "candidate_fingerprint": "a91b9133d91d046670edef0be53bd2b2d90e99a8b56ea207df679e9ed9a74f5a",
+        "title": "Calp celebra las III Jornadas Medioambientales del Mar sobre turismo azul y sostenibilidad",
+        "subtitle": "El programa principal se desarrolla del 28 al 30 de octubre en el Real Club Náutico y continuará con una jornada ambiental en Cala Racó",
+        "summary": "Calp acoge las III Jornadas Medioambientales del Mar «Calp Blau», centradas en el turismo azul, la biodiversidad marina, la restauración de ecosistemas y la sostenibilidad de las empresas turísticas. Las jornadas principales se celebran del 28 al 30 de octubre de 2026 en el Real Club Náutico de Calp.",
+        "body": "Las III Jornadas Medioambientales del Mar «Calp Blau» reúnen en Calp un programa dedicado a la relación entre actividad turística, protección del litoral y conservación del medio marino. La programación se desarrolla del 28 al 30 de octubre en el Real Club Náutico de Calp, bajo el lema «Transformando el turismo: Naturaleza, Excelencia y Acción Ambiental».\n\nLos contenidos previstos abordan el turismo azul, la biodiversidad marina, la restauración de ecosistemas y la sostenibilidad de las empresas turísticas. El Ayuntamiento presenta la cita con la participación de expertos y entidades vinculadas a la protección y la sostenibilidad del litoral.\n\nEl programa incluye además una jornada de acción ambiental el 31 de octubre en el entorno de Cala Racó, concretamente en el Paseo Princesa de Asturias. Esta actividad contempla acciones de limpieza, voluntariado y talleres relacionados con la fauna marina y la Posidonia.\n\nLa programación del día 31 se plantea como una actividad adicional a las jornadas principales, que se concentran entre el 28 y el 30 de octubre. La ficha del evento también recoge actuaciones de limpieza del fondo marino y terrestre, así como el atado de fragmentos de Posidonia y talleres ambientales.\n\nLas fuentes consultadas detallan las actividades previstas, pero no permiten confirmar cuántas personas participarán ni cuáles serán los resultados de las labores de limpieza. Por tanto, esos datos no se incorporan a esta información.",
         "category": "MEDIO_AMBIENTE",
-        "slug": "calp-inicia-jornadas-medioambientales-mar-calp-blau",
-        "seo_title": "Calp inicia las jornadas medioambientales Calp Blau",
-        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebran en Calp del 28 al 30 de octubre, con sede en el Real Club Náutico.",
+        "slug": "calp-jornadas-medioambientales-mar-calp-blau",
+        "seo_title": "Calp celebra las jornadas medioambientales del mar Calp Blau",
+        "meta_description": "Las III Jornadas Calp Blau abordan turismo azul y sostenibilidad del 28 al 30 de octubre en el Real Club Náutico, con acción ambiental el día 31.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_e33f80acab164411",
+        "quality_gate_id": "qg_f98fdda0ef3dd6c1",
         "editorial_notes": [
-          "Distinguir el programa principal, previsto del 28 al 30 de octubre, de la jornada ampliada de acción ambiental y voluntariado anunciada para el 31 de octubre."
+          "Debe mantenerse la distinción entre las jornadas principales, del 28 al 30 de octubre, y la jornada adicional de acción ambiental del 31 de octubre.",
+          "No se han añadido cifras de participación ni resultados de las limpiezas porque las fuentes no los confirman."
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp — comunicación oficial",
-            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "name": "Turismo de Calpe / Ayuntamiento de Calp",
+            "url": "https://media.calpe.es/en/events/transforming-tourism-nature-excellence-and-environmental-action",
             "type": "PRIMARY"
           },
           {
-            "name": "Sede Universitaria de Calp — Universitat d’Alacant",
-            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+            "name": "Ayuntamiento de Calp – Calp Comunica",
+            "url": "https://calpcomunica.calp.es/event/%f0%9f%8c%8a-iii-jornadas-medioambientales-del-mar-calp-blau-2026-%f0%9f%8c%bf-2/?lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Agenda de la Universitat de València",
+            "url": "https://agenda.veu.ua.es/",
             "type": "SECONDARY"
           },
           {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "name": "Ocio Alicante / Real Club Náutico de Calpe",
+            "url": "https://ocioalicante.net/evento/calpe/real-club-nautico-calpe/turismo/transformando-turismo-naturaleza-excelencia-accion-ambiental-1/?id=167097",
             "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-          "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
-          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
+          "https://media.calpe.es/en/events/transforming-tourism-nature-excellence-and-environmental-action",
+          "https://calpcomunica.calp.es/event/%f0%9f%8c%8a-iii-jornadas-medioambientales-del-mar-calp-blau-2026-%f0%9f%8c%bf-2/?lang=es",
+          "https://agenda.veu.ua.es/",
+          "https://ocioalicante.net/evento/calpe/real-club-nautico-calpe/turismo/transformando-turismo-naturaleza-excelencia-accion-ambiental-1/?id=167097"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
           "supported_claim_count": 5,
-          "evidence_count": 3,
+          "evidence_count": 4,
           "caveats": [
-            "La comunicación inicial del candidato menciona el periodo principal del 28 al 30 de octubre. La programación ampliada incluye una jornada de acción ambiental y voluntariado el 31 de octubre, por lo que no debe presentarse el evento completo como limitado exclusivamente al 28-30.",
-            "La fuente de Calp Digital describe con más detalle el programa, mientras que la confirmación institucional procede del Ayuntamiento y la agenda universitaria."
+            "La fuente oficial turística presenta las jornadas principales como del 28 al 30 de octubre y la actividad de acción ambiental como una programación adicional del 31 de octubre; la redacción debería mantener esa distinción.",
+            "La actividad del 31 de octubre aparece descrita como jornada de acción y voluntariado, pero las fuentes consultadas no permiten confirmar el número de participantes ni resultados de la limpieza."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_e33f80acab164411",
-          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_id": "qg_f98fdda0ef3dd6c1",
+          "quality_gate_evaluated_at": "2026-10-28T21:08:41.502Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-10-28T16:06:38.392Z",
+        "created_at": "2026-10-28T21:08:27.608Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_9353fd0b631aa112",
-        "title": "Calp inicia las III Jornadas Medioambientales del Mar ‘Calp Blau’",
-        "slug": "calp-inicia-jornadas-medioambientales-mar-calp-blau",
-        "summary": "Calp acoge desde este miércoles 28 de octubre las III Jornadas Medioambientales del Mar ‘Calp Blau’, una convocatoria centrada en la sostenibilidad del litoral, la protección marina y la relación entre turismo y conservación ambiental.",
-        "body": "Las III Jornadas Medioambientales del Mar ‘Calp Blau’ han comenzado este miércoles 28 de octubre en Calp. El programa principal se desarrolla hasta el 30 de octubre y tiene como sede el Real Club Náutico de Calp.\n\nLa convocatoria aborda cuestiones relacionadas con la sostenibilidad del litoral, la protección de la biodiversidad marina, la restauración de ecosistemas y la acción ambiental. También incluye contenidos sobre la relación entre turismo y conservación, dentro de un programa que plantea la transformación del turismo desde una perspectiva vinculada a la naturaleza y la sostenibilidad.\n\nEn las jornadas participan expertos, entidades y colectivos relacionados con el medio marino y la sostenibilidad. La programación contempla conferencias y mesas de trabajo sobre turismo azul, biodiversidad marina, cambio climático, restauración de ecosistemas y prácticas sostenibles, según la información difundida sobre el encuentro.\n\nLa celebración en Calp ha sido anunciada por el Ayuntamiento y figura también en la agenda de la Universitat d’Alacant. Estas fuentes confirman las fechas principales, del 28 al 30 de octubre, y la sede del Real Club Náutico de Calp.\n\nLa programación ampliada incluye además una jornada de acción ambiental y voluntariado prevista para el 31 de octubre. Por este motivo, el periodo del 28 al 30 de octubre corresponde al programa principal de las jornadas, pero no debe interpretarse como la totalidad de las actividades asociadas a la convocatoria.",
+        "external_id": "drf_af8d851324c88577",
+        "title": "Calp celebra las III Jornadas Medioambientales del Mar sobre turismo azul y sostenibilidad",
+        "slug": "calp-jornadas-medioambientales-mar-calp-blau",
+        "summary": "Calp acoge las III Jornadas Medioambientales del Mar «Calp Blau», centradas en el turismo azul, la biodiversidad marina, la restauración de ecosistemas y la sostenibilidad de las empresas turísticas. Las jornadas principales se celebran del 28 al 30 de octubre de 2026 en el Real Club Náutico de Calp.",
+        "body": "Las III Jornadas Medioambientales del Mar «Calp Blau» reúnen en Calp un programa dedicado a la relación entre actividad turística, protección del litoral y conservación del medio marino. La programación se desarrolla del 28 al 30 de octubre en el Real Club Náutico de Calp, bajo el lema «Transformando el turismo: Naturaleza, Excelencia y Acción Ambiental».\n\nLos contenidos previstos abordan el turismo azul, la biodiversidad marina, la restauración de ecosistemas y la sostenibilidad de las empresas turísticas. El Ayuntamiento presenta la cita con la participación de expertos y entidades vinculadas a la protección y la sostenibilidad del litoral.\n\nEl programa incluye además una jornada de acción ambiental el 31 de octubre en el entorno de Cala Racó, concretamente en el Paseo Princesa de Asturias. Esta actividad contempla acciones de limpieza, voluntariado y talleres relacionados con la fauna marina y la Posidonia.\n\nLa programación del día 31 se plantea como una actividad adicional a las jornadas principales, que se concentran entre el 28 y el 30 de octubre. La ficha del evento también recoge actuaciones de limpieza del fondo marino y terrestre, así como el atado de fragmentos de Posidonia y talleres ambientales.\n\nLas fuentes consultadas detallan las actividades previstas, pero no permiten confirmar cuántas personas participarán ni cuáles serán los resultados de las labores de limpieza. Por tanto, esos datos no se incorporan a esta información.",
         "category": "MEDIO_AMBIENTE",
-        "seo_title": "Calp inicia las jornadas medioambientales Calp Blau",
-        "meta_description": "Las III Jornadas Medioambientales del Mar Calp Blau se celebran en Calp del 28 al 30 de octubre, con sede en el Real Club Náutico.",
+        "seo_title": "Calp celebra las jornadas medioambientales del mar Calp Blau",
+        "meta_description": "Las III Jornadas Calp Blau abordan turismo azul y sostenibilidad del 28 al 30 de octubre en el Real Club Náutico, con acción ambiental el día 31.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_e33f80acab164411",
+        "quality_gate_id": "qg_f98fdda0ef3dd6c1",
         "published_at": null,
         "source_urls": [
-          "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
-          "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
-          "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
+          "https://media.calpe.es/en/events/transforming-tourism-nature-excellence-and-environmental-action",
+          "https://calpcomunica.calp.es/event/%f0%9f%8c%8a-iii-jornadas-medioambientales-del-mar-calp-blau-2026-%f0%9f%8c%bf-2/?lang=es",
+          "https://agenda.veu.ua.es/",
+          "https://ocioalicante.net/evento/calpe/real-club-nautico-calpe/turismo/transformando-turismo-naturaleza-excelencia-accion-ambiental-1/?id=167097"
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp — comunicación oficial",
-            "url": "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
+            "name": "Turismo de Calpe / Ayuntamiento de Calp",
+            "url": "https://media.calpe.es/en/events/transforming-tourism-nature-excellence-and-environmental-action",
             "type": "PRIMARY"
           },
           {
-            "name": "Sede Universitaria de Calp — Universitat d’Alacant",
-            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+            "name": "Ayuntamiento de Calp – Calp Comunica",
+            "url": "https://calpcomunica.calp.es/event/%f0%9f%8c%8a-iii-jornadas-medioambientales-del-mar-calp-blau-2026-%f0%9f%8c%bf-2/?lang=es",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Agenda de la Universitat de València",
+            "url": "https://agenda.veu.ua.es/",
             "type": "SECONDARY"
           },
           {
-            "name": "Calp Digital",
-            "url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+            "name": "Ocio Alicante / Real Club Náutico de Calpe",
+            "url": "https://ocioalicante.net/evento/calpe/real-club-nautico-calpe/turismo/transformando-turismo-naturaleza-excelencia-accion-ambiental-1/?id=167097",
             "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_0967081d881c5a39",
-        "candidate_fingerprint": "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
+        "investigation_id": "inv_71126f6148271378",
+        "candidate_fingerprint": "a91b9133d91d046670edef0be53bd2b2d90e99a8b56ea207df679e9ed9a74f5a",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
           "supported_claim_count": 5,
-          "evidence_count": 3,
+          "evidence_count": 4,
           "caveats": [
-            "La comunicación inicial del candidato menciona el periodo principal del 28 al 30 de octubre. La programación ampliada incluye una jornada de acción ambiental y voluntariado el 31 de octubre, por lo que no debe presentarse el evento completo como limitado exclusivamente al 28-30.",
-            "La fuente de Calp Digital describe con más detalle el programa, mientras que la confirmación institucional procede del Ayuntamiento y la agenda universitaria."
+            "La fuente oficial turística presenta las jornadas principales como del 28 al 30 de octubre y la actividad de acción ambiental como una programación adicional del 31 de octubre; la redacción debería mantener esa distinción.",
+            "La actividad del 31 de octubre aparece descrita como jornada de acción y voluntariado, pero las fuentes consultadas no permiten confirmar el número de participantes ni resultados de la limpieza."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_e33f80acab164411",
-          "quality_gate_evaluated_at": "2026-10-28T16:06:49.629Z",
+          "quality_gate_id": "qg_f98fdda0ef3dd6c1",
+          "quality_gate_evaluated_at": "2026-10-28T21:08:41.502Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
