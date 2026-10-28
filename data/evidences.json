@@ -1,86 +1,54 @@
 {
-  "generated_at": "2026-10-27T21:21:56.680Z",
-  "count": 10,
+  "generated_at": "2026-10-28T01:25:09.085Z",
+  "count": 6,
   "evidences": [
     {
-      "id": "evd_397e948268333388",
-      "investigation_id": "inv_96cc1d5b50734b76",
-      "source_name": "La Marina Alta",
-      "source_url": "https://lamarinaalta.com/calp-actua-ante-el-auge-del-ciclismo-y-la-ciclofobia-una-campana-para-compartir-el-asfalto-con-seguridad/",
-      "evidence": "Informa de la presentación municipal de la campaña el 27 de octubre, de sus objetivos de seguridad y convivencia, del folleto para alojamientos, las nueve normas, los doce soportes urbanos, la sección web y las campañas digitales previstas para Países Bajos, Bélgica y Polonia. ([lamarinaalta.com](https://lamarinaalta.com/calp-actua-ante-el-auge-del-ciclismo-y-la-ciclofobia-una-campana-para-compartir-el-asfalto-con-seguridad/?utm_source=openai))",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_88e7341c4ebc2563",
-      "investigation_id": "inv_96cc1d5b50734b76",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/27/un-mismo-asfalto-un-mismo-respeto-la-campana-pionera-de-calp-para-conciliar-a-cicloturistas-peatones-y-coches/",
-      "evidence": "Corrobora la presentación de la campaña, el lema, los dos públicos destinatarios, las nueve normas, los doce mupis, el vídeo y las campañas digitales en Países Bajos, Bélgica y Polonia. ([lamarina.eldiario.es](https://lamarina.eldiario.es/2026/10/27/un-mismo-asfalto-un-mismo-respeto-la-campana-pionera-de-calp-para-conciliar-a-cicloturistas-peatones-y-coches/?utm_source=openai))",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_45954cabf4e1aa44",
-      "investigation_id": "inv_96cc1d5b50734b76",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://www.calp.es/es/aggregator/sources/7?page=12",
-      "evidence": "El Ayuntamiento anunció oficialmente en mayo de 2026 que diseñaría una campaña de concienciación para ciclistas, cicloturistas y equipos ciclistas con el objetivo de reforzar la seguridad vial y promover una circulación responsable. ([calp.es](https://www.calp.es/es/aggregator/sources/7?page=12&utm_source=openai))",
+      "id": "evd_feccb9b8fece43d5",
+      "investigation_id": "inv_9adda41d6e766fb7",
+      "source_name": "Base de Datos Nacional de Subvenciones (BDNS)",
+      "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
+      "evidence": "Registra la convocatoria del Ayuntamiento de Calp con el título oficial correspondiente, un presupuesto de 38.187,54 euros, procedimiento de concurrencia competitiva, finalidad de servicios sociales y promoción social y fecha de registro de 15 de octubre de 2026. Identifica como beneficiarias a personas jurídicas que no desarrollan actividad económica.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_60c519aa31cd5cc3",
-      "investigation_id": "inv_2868a8b802366f4c",
-      "source_name": "Base de Datos Nacional de Subvenciones / documento de convocatoria",
-      "source_url": "https://www.infosubvenciones.es/bdnstrans/api/convocatorias/documentos?idDocumento=1536943",
-      "evidence": "El documento corresponde a la convocatoria del Ayuntamiento de Calp para subvenciones destinadas a proyectos de interés social de la anualidad 2026, con una cuantía total de 38.187,54 euros y un plazo de diez días naturales a contar desde el día siguiente a la publicación en el BOP. ([ayudas.aldsatech.com](https://ayudas.aldsatech.com/ayudas/convocatoria-para-la-concesion-de-subvenciones-destinadas-a-proyectos-de-interes-social-anualidad-2026-935318/?utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_75932b7fcb47f626",
-      "investigation_id": "inv_2868a8b802366f4c",
-      "source_name": "Boletín Provincial de Alicante, referencia de publicación",
+      "id": "evd_1b87571bb4780d81",
+      "investigation_id": "inv_9adda41d6e766fb7",
+      "source_name": "Boletín Oficial de la Provincia de Alicante, reproducción de la publicación oficial",
       "source_url": "https://oficius.es/informacion-oficial/alicante/2026-10-21/convocatoria-concesion-subvenciones-destinadas-proyectos-interes-social-anualidad-2026-n8OEzm",
-      "evidence": "Registra la publicación oficial de la convocatoria del Ayuntamiento de Calp en el Boletín Provincial de Alicante el 21 de octubre de 2026. ([oficius.es](https://oficius.es/informacion-oficial/alicante/2026-10-21/convocatoria-concesion-subvenciones-destinadas-proyectos-interes-social-anualidad-2026-n8OEzm?utm_source=openai))",
+      "evidence": "Identifica la publicación de la convocatoria de proyectos de interés social del Ayuntamiento de Calp en el Boletín Provincial de Alicante de fecha 21 de octubre de 2026.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_8d66e334c02ec147",
-      "investigation_id": "inv_2868a8b802366f4c",
+      "id": "evd_fdecc7fd57f518b2",
+      "investigation_id": "inv_9adda41d6e766fb7",
+      "source_name": "Ayuntamiento de Calp - Noticias",
+      "source_url": "https://noticias.calp.es/es/noticia/calp-celebra-del-21-al-25-de-octubre-sus-fiestas-de-moros-y-cristianos-en-honor-al-sant%C3%ADssim",
+      "evidence": "Informa oficialmente de que las fiestas de Moros y Cristianos de Calp comenzaron el 21 de octubre de 2026 y estaban programadas hasta el 25 de octubre.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_53c5af28a0c3a520",
+      "investigation_id": "inv_9adda41d6e766fb7",
+      "source_name": "Calp Comunica",
+      "source_url": "https://calpcomunica.calp.es/eventos/mes/",
+      "evidence": "El calendario municipal sitúa las fiestas de Moros y Cristianos de 2026 entre el 21 y el 26 de octubre, confirmando la coincidencia temporal con el periodo de solicitud.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_04d043f088f9e23d",
+      "investigation_id": "inv_9adda41d6e766fb7",
       "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/26/malestar-en-les-ongs-de-calp-en-disposar-nomes-de-10-dies-per-a-optar-a-les-noves-ajudes-municipals-amb-festes-pel-mig/",
-      "evidence": "Recoge el malestar atribuido a ONG por el plazo de diez días naturales, indica que el plazo comenzó el 22 de octubre y que finaliza el 31 de octubre, y describe las dos líneas de ayuda. ([lamarina.eldiario.es](https://lamarina.eldiario.es/ca/2026/10/26/el-termini-per-a-optar-a-les-subvencions-que-lajuntament-ha-presentat-per-primera-vegada-expira-el-proxim-dissabte/?utm_source=openai))",
+      "source_url": "https://lamarina.eldiario.es/2026/10/26/malestar-en-las-ongs-de-calp-al-disponer-solo-de-10-dias-para-optar-a-las-nuevas-ayudas-municipales-con-fiestas-por-medio",
+      "evidence": "Afirma que varias ONG consideraron insuficiente el plazo de diez días naturales, que el periodo coincidía con las fiestas y que las ayudas se publicaron el 21 de octubre con vencimiento el 31 de octubre. La pieza no identifica de forma verificable a las organizaciones que expresaron el malestar ni aporta declaraciones directas atribuibles a varias entidades.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_8a73df4a9d5a5691",
-      "investigation_id": "inv_e914529cb0384f93",
-      "source_name": "Boletín Oficial del Estado",
-      "source_url": "https://boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
-      "evidence": "El Real Decreto 806/2026 disuelve las Cortes y convoca elecciones al Congreso y al Senado para el domingo 29 de noviembre de 2026; Alicante elige doce diputados. ([boe.es](https://boe.es/diario_boe/txt.php?id=BOE-A-2026-20742&utm_source=openai))",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_dee6961e769bcf48",
-      "investigation_id": "inv_e914529cb0384f93",
-      "source_name": "Cadena SER Alicante",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/26/el-pp-apura-en-alicante-el-registro-de-sus-candidaturas-al-congreso-y-al-senado-radio-alicante/",
-      "evidence": "Informa de que el PP de Alicante presentó sus listas ante la Junta Electoral el 26 de octubre y sitúa a Macarena Montesinos como número uno y a César Sánchez como número dos para las elecciones del 29 de noviembre. ([cadenaser.com](https://cadenaser.com/comunitat-valenciana/2026/10/26/el-pp-apura-en-alicante-el-registro-de-sus-candidaturas-al-congreso-y-al-senado-radio-alicante/?utm_source=openai))",
+      "id": "evd_22ed8fd06f606a23",
+      "investigation_id": "inv_9adda41d6e766fb7",
+      "source_name": "Boletín Bien",
+      "source_url": "https://www.boletinbien.com/alicante/administracion-local/ayuntamientos/calp/subvenciones-interes-social-2026-10-21",
+      "evidence": "Corrobora de forma independiente la apertura de la convocatoria, el presupuesto de 38.187,54 euros, el carácter de las ayudas y el plazo hasta el 31 de octubre de 2026, pero no informa de protestas o críticas de las ONG.",
       "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_25f6d4fb5c2f897b",
-      "investigation_id": "inv_e914529cb0384f93",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12440/cesar-sanchez-numero-dos-pp-alicante-congreso-elecciones-29n",
-      "evidence": "Publica que César Sánchez ocupará el segundo puesto de la candidatura del PP por Alicante, encabezada por Macarena Montesinos, y lo identifica como exalcalde de Calp y diputado nacional. ([calpdigital.es](https://calpdigital.es/art/12440/cesar-sanchez-numero-dos-pp-alicante-congreso-elecciones-29n?utm_source=openai))",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_bb6e95a0c26fb4f4",
-      "investigation_id": "inv_e914529cb0384f93",
-      "source_name": "Congreso de los Diputados",
-      "source_url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=217&idLegislatura=XV&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
-      "evidence": "La ficha parlamentaria identifica a César Sánchez como diputado por Alicante, miembro del Grupo Popular, y recoge que fue alcalde de Calpe entre 2011 y 2019. ([congreso.es](https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=217&idLegislatura=XV&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal&utm_source=openai))",
-      "source_type": "PRIMARY"
     }
   ]
 }
