@@ -3,12 +3,170 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-28T01:25:36.582Z",
+  "generated_at": "2026-10-28T08:37:16.779Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
-  "ready_count": 0,
-  "quarantined_count": 0,
-  "ready": [],
-  "quarantined": []
+  "drafts_seen": 2,
+  "ready_count": 1,
+  "quarantined_count": 1,
+  "ready": [
+    {
+      "export_id": "exp_474256c13c60729a",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-28T08:37:16.779Z",
+      "source_draft_id": "drf_c32823b3d85e78ec",
+      "source_investigation_id": "inv_12c37d619b8d140b",
+      "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
+      "quality_gate_id": "qg_91ec93b840ddacf7",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_c32823b3d85e78ec",
+        "investigation_id": "inv_12c37d619b8d140b",
+        "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
+        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
+        "subtitle": "El Ayuntamiento informa de reuniones con oficinas españolas de turismo de Alemania, Francia, Países Bajos y países nórdicos",
+        "summary": "Calp participó en la VI Convención Turespaña, celebrada en Zaragoza en octubre de 2026, con el objetivo de preparar actuaciones de promoción turística internacional para 2027. Según el Ayuntamiento, el departamento de Turismo mantuvo reuniones con oficinas españolas de turismo en varios mercados europeos.",
+        "body": "La agenda de trabajo incluyó encuentros con las oficinas españolas de turismo de Alemania, Francia, Países Bajos y los países nórdicos, de acuerdo con la información difundida por el Ayuntamiento de Calp. Estas reuniones estuvieron orientadas a planificar la promoción internacional del municipio durante 2027.\n\nLa estrategia presentada por el consistorio se articula en torno a la gastronomía, la cultura, la autenticidad y la sostenibilidad. La información municipal sitúa estos elementos como ejes de las futuras acciones promocionales de Calp en los mercados internacionales.\n\nLa Convención Turespaña se celebró en Zaragoza del 20 al 22 de octubre de 2026. La organización oficial del encuentro señala que reunió a destinos, empresas e instituciones para definir objetivos comunes y coordinar la promoción turística internacional. También confirma que las reuniones de trabajo con representantes de Turismo de España en el exterior estaban destinadas a planificar las actuaciones previstas para 2027.\n\nLa confirmación independiente acredita la celebración, la finalidad y el formato de la convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación calpina. La información sobre los mercados específicos y los ejes de la promoción procede de la comunicación oficial del Ayuntamiento de Calp.",
+        "category": "TURISMO",
+        "slug": "calp-promocion-turistica-internacional-2027-turespana",
+        "seo_title": "Calp prepara su promoción turística internacional para 2027",
+        "meta_description": "Calp participó en la Convención Turespaña de Zaragoza y mantuvo reuniones con oficinas de turismo para preparar su promoción internacional de 2027.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_91ec93b840ddacf7",
+        "editorial_notes": [
+          "Atribuir al Ayuntamiento de Calp la información sobre las reuniones concretas, los mercados y los ejes de promoción.",
+          "La documentación independiente confirma la convención y su finalidad, pero no detalla por separado los encuentros de la delegación de Calp."
+        ],
+        "sources": [
+          {
+            "name": "Calp Comunica - Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Turespaña",
+            "url": "https://convencion2026.tourspain.es/la-convencion/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Turespaña",
+            "url": "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
+          "https://convencion2026.tourspain.es/la-convencion/",
+          "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
+          "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La confirmación independiente acredita la existencia, finalidad y formato de la Convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación de Calp.",
+            "La información sobre los mercados específicos y los ejes creativos de la promoción procede de la nota oficial municipal.",
+            "La fuente de Calp utiliza la denominación de la edición de la convención; la web oficial de Turespaña identifica el encuentro de Zaragoza como la VI Convención Turespaña de 2026."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_91ec93b840ddacf7",
+          "quality_gate_evaluated_at": "2026-10-28T08:37:16.609Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-28T08:37:05.125Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_c32823b3d85e78ec",
+        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
+        "slug": "calp-promocion-turistica-internacional-2027-turespana",
+        "summary": "Calp participó en la VI Convención Turespaña, celebrada en Zaragoza en octubre de 2026, con el objetivo de preparar actuaciones de promoción turística internacional para 2027. Según el Ayuntamiento, el departamento de Turismo mantuvo reuniones con oficinas españolas de turismo en varios mercados europeos.",
+        "body": "La agenda de trabajo incluyó encuentros con las oficinas españolas de turismo de Alemania, Francia, Países Bajos y los países nórdicos, de acuerdo con la información difundida por el Ayuntamiento de Calp. Estas reuniones estuvieron orientadas a planificar la promoción internacional del municipio durante 2027.\n\nLa estrategia presentada por el consistorio se articula en torno a la gastronomía, la cultura, la autenticidad y la sostenibilidad. La información municipal sitúa estos elementos como ejes de las futuras acciones promocionales de Calp en los mercados internacionales.\n\nLa Convención Turespaña se celebró en Zaragoza del 20 al 22 de octubre de 2026. La organización oficial del encuentro señala que reunió a destinos, empresas e instituciones para definir objetivos comunes y coordinar la promoción turística internacional. También confirma que las reuniones de trabajo con representantes de Turismo de España en el exterior estaban destinadas a planificar las actuaciones previstas para 2027.\n\nLa confirmación independiente acredita la celebración, la finalidad y el formato de la convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación calpina. La información sobre los mercados específicos y los ejes de la promoción procede de la comunicación oficial del Ayuntamiento de Calp.",
+        "category": "TURISMO",
+        "seo_title": "Calp prepara su promoción turística internacional para 2027",
+        "meta_description": "Calp participó en la Convención Turespaña de Zaragoza y mantuvo reuniones con oficinas de turismo para preparar su promoción internacional de 2027.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_91ec93b840ddacf7",
+        "published_at": null,
+        "source_urls": [
+          "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
+          "https://convencion2026.tourspain.es/la-convencion/",
+          "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
+          "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a"
+        ],
+        "sources": [
+          {
+            "name": "Calp Comunica - Ayuntamiento de Calp",
+            "url": "https://calpcomunica.calp.es/evento/calp-prepara-su-promocion-internacional-de-2027-en-la-convencion-turespana/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Turespaña",
+            "url": "https://convencion2026.tourspain.es/la-convencion/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Turespaña",
+            "url": "https://www.tourspain.es/es/notas-prensa-turismo/convencion-turespana-plazo-encuentros-consejeros-2026/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-departamento-de-turismo-de-calp-asiste-la-iii-convenci%C3%B3n-de-turespa%C3%B1a",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_12c37d619b8d140b",
+        "candidate_fingerprint": "db52903550f545b51a896b5752539d75f2d02caada13fcfd714bdf0304ae811b",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 5,
+          "evidence_count": 4,
+          "caveats": [
+            "La confirmación independiente acredita la existencia, finalidad y formato de la Convención, pero no detalla por separado las reuniones concretas mantenidas por la delegación de Calp.",
+            "La información sobre los mercados específicos y los ejes creativos de la promoción procede de la nota oficial municipal.",
+            "La fuente de Calp utiliza la denominación de la edición de la convención; la web oficial de Turespaña identifica el encuentro de Zaragoza como la VI Convención Turespaña de 2026."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_91ec93b840ddacf7",
+          "quality_gate_evaluated_at": "2026-10-28T08:37:16.609Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    }
+  ],
+  "quarantined": [
+    {
+      "export_id": "exp_bd2a3e7646f3fc04",
+      "draft_id": "drf_efd5569a2158e787",
+      "investigation_id": "inv_8638b06e3a243714",
+      "slug": "ayudas-explotaciones-dana-adam-generalitat",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ]
+    }
+  ]
 }

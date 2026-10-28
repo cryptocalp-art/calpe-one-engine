@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-28T01:25:49.096Z",
+  "generated_at": "2026-10-28T08:37:34.316Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-28T01:25:48.876Z",
+  "last_activity": "2026-10-28T08:37:34.112Z",
   "newspaper": {
-    "archive_total": 127,
-    "published_today": 0,
-    "published_last_7_days": 18,
+    "archive_total": 128,
+    "published_today": 1,
+    "published_last_7_days": 19,
     "categories": {
-      "TURISMO": 11,
+      "TURISMO": 12,
       "POLITICA": 11,
       "SOCIEDAD": 14,
       "ECONOMIA": 20,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_228335b1a1884a40",
+        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
+        "category": "TURISMO",
+        "slug": "calp-promocion-turistica-internacional-2027-turespana",
+        "published_at": "2026-10-28T08:37:05.125Z"
+      },
       {
         "archive_id": "arc_c98f5340af0b6b4e",
         "title": "Calp presenta la campaña «Un mismo asfalto, un mismo respeto» para mejorar la convivencia vial",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "rescate-maritimo-cala-raco-del-corb-calp",
         "published_at": "2026-10-27T10:38:04.951Z"
-      },
-      {
-        "archive_id": "arc_66fc3d2d02418b2d",
-        "title": "Calp estudia un posible hermanamiento con la ciudad francesa de Neuilly-sur-Marne",
-        "category": "POLITICA",
-        "slug": "calp-estudia-hermanamiento-neuilly-sur-marne",
-        "published_at": "2026-10-26T23:56:03.395Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 2,
+    "eligible": 1,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_efd5569a2158e787",
+      "slug": "ayudas-explotaciones-dana-adam-generalitat",
+      "category": "ECONOMIA",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-10-28T08:37:16.609Z"
+    }
+  ]
 }
