@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-29T07:08:51.236Z",
+  "generated_at": "2026-10-29T14:24:35.964Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-29T07:08:51.068Z",
+  "last_activity": "2026-10-29T14:24:35.749Z",
   "newspaper": {
-    "archive_total": 130,
-    "published_today": 0,
+    "archive_total": 131,
+    "published_today": 1,
     "published_last_7_days": 19,
     "categories": {
+      "TURISMO": 13,
       "LOCAL": 18,
       "SUCESOS": 22,
-      "TURISMO": 12,
       "POLITICA": 11,
       "SOCIEDAD": 14,
       "ECONOMIA": 20,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_f486e71920e57192",
+        "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
+        "category": "TURISMO",
+        "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
+        "published_at": "2026-10-29T14:24:01.982Z"
+      },
       {
         "archive_id": "arc_a2d787e299d711ef",
         "title": "Calp abre el plazo para solicitar uno de los huertos urbanos municipales",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "generalitat-ayudas-dana-adam-43-5-millones",
         "published_at": "2026-10-27T16:43:27.252Z"
-      },
-      {
-        "archive_id": "arc_2046e510ffd35baa",
-        "title": "Calp finaliza la reconstrucción del acceso a la urbanización Balcón de Bernia",
-        "category": "LOCAL",
-        "slug": "calp-finaliza-acceso-balcon-bernia",
-        "published_at": "2026-10-27T10:38:04.951Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 2,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_9da9890a6842c520",
+      "slug": "jornada-vacunacion-gripe-cผู้?",
+      "category": "SOCIEDAD",
+      "reasons": [
+        "INVALID_SLUG_FORMAT"
+      ],
+      "evaluated_at": "2026-10-29T14:24:19.705Z"
+    }
+  ]
 }

@@ -3,9 +3,67 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-28T21:08:41.816Z",
-  "count": 130,
+  "updated_at": "2026-10-29T14:24:20.022Z",
+  "count": 131,
   "articles": [
+    {
+      "archive_id": "arc_f486e71920e57192",
+      "external_id": "drf_521125b283a90edc",
+      "investigation_id": "inv_93bf11be9d762502",
+      "candidate_fingerprints": [
+        "9f3614f8549768b0169018dc915ba6f23ad9f50d42594a869f4510b68250439d"
+      ],
+      "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
+      "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
+      "summary": "Calp contará del viernes 30 de octubre al domingo 1 de noviembre con una programación municipal que combina visitas guiadas, animación comercial, propuestas culturales y actividades de ocio.",
+      "body": "El Ayuntamiento de Calp ha programado distintas actividades para los días 30 y 31 de octubre y 1 de noviembre de 2026. La agenda reúne propuestas vinculadas al patrimonio, el comercio, la cultura y el entretenimiento en varios espacios del municipio.\n\nEntre las actividades previstas figuran visitas guiadas a los Banys de la Reina y al centro histórico. La programación también contempla un pasacalle de monstruos y animación comercial, dentro de las propuestas asociadas a la celebración de Halloween, aunque esta palabra no aparece expresamente en la nota municipal.\n\nLa oferta incluye además los monólogos de Maru Candel y el Escape Room Protocolo Z. Según la agenda turística oficial, esta última actividad se celebrará el sábado 31 de octubre en Casa Nova, entre las 18:30 y las 23:30 horas, con acceso gratuito.\n\nEl programa se completa con conciertos y varias exposiciones. Entre las citas culturales confirmadas figura el concierto *Sérénade*, previsto para el 31 de octubre, según la agenda de la Casa de Cultura.\n\nLa programación se desarrollará a lo largo de tres jornadas, con actividades de carácter turístico, comercial y cultural. La agenda oficial detalla las propuestas previstas para cada fecha y espacio.",
+      "category": "TURISMO",
+      "seo_title": "Agenda de actividades en Calp del 30 de octubre al 1 de noviembre",
+      "meta_description": "Calp programa visitas guiadas, animación comercial, monólogos, conciertos, exposiciones y un escape room del 30 de octubre al 1 de noviembre.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Casa de Cultura de Calp",
+          "url": "https://cultura.calp.es/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Tourist Info Calpe",
+          "url": "https://media.calpe.es/es/eventos/escape-room-calp",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
+        "https://cultura.calp.es",
+        "https://media.calpe.es/es/eventos/escape-room-calp"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 3,
+        "caveats": [
+          "La palabra «Halloween» no aparece literalmente en la nota municipal; se apoya en el pasacalle de monstruos y en el escape room del 31 de octubre."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_e18328029e6beb14",
+        "quality_gate_evaluated_at": "2026-10-29T14:24:19.705Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La referencia a Halloween debe presentarse con cautela: la nota municipal no utiliza literalmente esa palabra y la asociación se basa en el pasacalle de monstruos y el escape room del 31 de octubre."
+      ],
+      "published_at": "2026-10-29T14:24:01.982Z",
+      "updated_at": "2026-10-29T14:24:20.022Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_a2d787e299d711ef",
       "external_id": "drf_5949312f464a6ac6",
@@ -2376,7 +2434,8 @@
       "candidate_fingerprints": [
         "a82b6e6ba5efaf87fe3fe06d908f28d5fda7cb4326916301959d49ff8cd207b9",
         "7245a09a00d9b81b385bb82e8c6dc68bd390d3fa089bba1be6e5a7fb060c6851",
-        "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572"
+        "6251efe69f2a529e27c380964b2303a4a3d1de0152478f47d1baa14229a91572",
+        "83aaec19ed072262c3e1e8cf02124144f8c558978cf4eb2326d5ca9811ab491d"
       ],
       "title": "Calp recibe 998,40 euros para equipamiento y seguros de Protección Civil",
       "slug": "calp-recibe-ayuda-equipamiento-seguros-proteccion-civil",
@@ -2408,7 +2467,8 @@
         "https://t.me/s/AyuntamientodeCalp?q=%23Actividades",
         "https://calpcomunica.calp.es/event/%f0%9f%8e%84-abierto-el-plazo-de-inscripcion-para-la-fira-de-nadal-de-calp-2026/?lang=es",
         "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
-        "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible"
+        "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+        "https://agenda.veu.ua.es"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -2428,7 +2488,7 @@
         "La resolución oficial consultada confirma el programa y su finalidad, pero el extracto disponible no muestra la línea individual de Calp. El importe y la condición de beneficiario proceden de la comunicación municipal."
       ],
       "published_at": "2026-10-16T17:26:53.799Z",
-      "updated_at": "2026-10-28T16:06:49.869Z",
+      "updated_at": "2026-10-29T14:24:20.022Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

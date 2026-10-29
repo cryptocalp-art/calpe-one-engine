@@ -1,8 +1,214 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-29T07:08:40.850Z",
+  "generated_at": "2026-10-29T14:23:18.279Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 4,
+  "investigations": [
+    {
+      "candidate_fingerprint": "9f3614f8549768b0169018dc915ba6f23ad9f50d42594a869f4510b68250439d",
+      "title": "Calp concentra este fin de semana visitas guiadas, actividades comerciales, cultura y Halloween",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La agenda municipal confirma actividades el viernes 30, sábado 31 de octubre y domingo 1 de noviembre: visitas guiadas a los Banys de la Reina y al centro histórico, animación comercial, monólogos, escape room, conciertos y exposiciones. La referencia a Halloween se desprende de la ambientación de monstruos y del escape room del 31 de octubre, aunque la nota oficial no emplea expresamente esa palabra.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento publicó una programación para los días 30 y 31 de octubre y 1 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La programación incluye visitas guiadas a los Banys de la Reina y al centro histórico.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Incluye animación comercial, monólogos, un escape room, conciertos y exposiciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La programación incluye actividades asociadas a Halloween.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
+          "evidence": "La agenda oficial detalla visitas a los Banys de la Reina y al centro histórico, pasacalle de monstruos y animación comercial, monólogos de Maru Candel, el Escape Room Protocolo Z, conciertos y varias exposiciones entre el 30 de octubre y el 1 de noviembre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Casa de Cultura de Calp",
+          "source_url": "https://cultura.calp.es/",
+          "evidence": "La agenda cultural municipal confirma las visitas a los Banys de la Reina, las visitas al centro histórico, los monólogos de Maru Candel del 30 de octubre y el concierto Sérénade del 31 de octubre.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Tourist Info Calpe",
+          "source_url": "https://media.calpe.es/es/eventos/escape-room-calp",
+          "evidence": "La agenda turística oficial confirma el Escape Room de Calp el sábado 31 de octubre de 2026, en Casa Nova, de 18:30 a 23:30 y con acceso gratuito.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La palabra «Halloween» no aparece literalmente en la nota municipal; se apoya en el pasacalle de monstruos y en el escape room del 31 de octubre."
+      ],
+      "id": "inv_93bf11be9d762502",
+      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "39ad1f7f7f7937768c60f6d5b3bf3fe0b5ff33a96b66e3c5dcebceab2edf74b2",
+      "title": "Calp organiza una jornada de vacunación contra la gripe para mayores de 70 años sin cita previa",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La comunicación oficial del Ayuntamiento confirma una jornada de vacunación antigripal para mayores de 70 años el viernes 30 de octubre de 2026, de 11:00 a 14:00, en la Casa de Cultura de Calp, sin cita previa y con tarjeta sanitaria.",
+      "claims": [
+        {
+          "claim": "La jornada se celebrará el viernes 30 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Está dirigida a personas mayores de 70 años.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se realizará de 11:00 a 14:00 horas en la Casa de Cultura de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "No será necesario pedir cita previa y habrá que llevar la tarjeta sanitaria.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Participan la Conselleria de Sanidad, el Departamento de Salud de Dénia y el Ayuntamiento de Calp.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Comunica – Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/page/5/",
+          "evidence": "El canal municipal informa de una jornada de vacunación contra la gripe para mayores de 70 años el viernes 30 de octubre, de 11:00 a 14:00, en la Casa de Cultura, sin cita previa y con tarjeta sanitaria. Atribuye la iniciativa a la Conselleria de Sanitat y al Departamento de Salud de Dénia, en colaboración con el Ayuntamiento.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12456/calp-vacunacion-gripe-mayores-70-anos-sin-cita-previa-2026",
+          "evidence": "La información publicada reproduce los mismos datos: jornada para mayores de 70 años, el 30 de octubre de 2026, de 11:00 a 14:00, en la Casa de Cultura, sin cita previa y con tarjeta sanitaria.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La corroboración independiente disponible reproduce los datos de la comunicación municipal; no se ha localizado en la búsqueda una convocatoria separada publicada directamente por la Conselleria o el Departamento de Salud de Dénia."
+      ],
+      "id": "inv_0064dcc9e15ce329",
+      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653",
+      "title": "Calp amplía el horario del cementerio del 29 de octubre al 1 de noviembre por Todos los Santos",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La existencia de un horario especial del cementerio está corroborada por un canal municipal, y una publicación local aporta los horarios concretos y las normas sobre velas, mascotas y limpieza. Sin embargo, no se ha localizado una fuente oficial accesible que confirme todos esos detalles concretos, por lo que la noticia requiere verificación adicional antes de publicarse.",
+      "claims": [
+        {
+          "claim": "El cementerio municipal tendrá un horario especial del 29 de octubre al 1 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Abrirá de 8:00 a 21:00 los días 29 y 30 de octubre y el 1 de noviembre, y hasta las 22:00 el día 31.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Están prohibidas las velas naturales y la entrada de mascotas.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El 1 de noviembre no se podrán realizar trabajos de limpieza o acondicionamiento.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Calp Comunica – Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "El canal municipal incluye una comunicación titulada «Horario cementerio festividad de Todos los Santos», publicada el 27 de octubre de 2026, lo que corrobora la existencia de un horario especial, pero la versión accesible no muestra el detalle horario ni las normas.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12449/calp-horario-cementerio-todos-los-santos-2026",
+          "evidence": "La publicación local afirma que el cementerio abrirá de 8:00 a 21:00 los días 29 y 30 de octubre y el 1 de noviembre, hasta las 22:00 el día 31, y que se prohíben velas naturales y mascotas. También añade una restricción de trabajos de limpieza el 1 de noviembre.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "Falta una copia accesible del aviso oficial con los horarios y normas detallados.",
+        "La fuente secundaria añade conciertos del 1 de noviembre, un elemento no incluido en el candidato y que no se ha evaluado como parte esencial de esta noticia."
+      ],
+      "id": "inv_636f3ec3bc5b6eff",
+      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "83aaec19ed072262c3e1e8cf02124144f8c558978cf4eb2326d5ca9811ab491d",
+      "title": "Calp reúne a expertos en turismo sostenible y protección marina en las III Jornadas Medioambientales del Mar",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La Sede Universitaria de Calp y una publicación local corroboran la celebración de las III Jornadas Medioambientales del Mar «Calp Blau»: ponencias los días 28, 29 y 30 de octubre de 2026 y una jornada de acción, voluntariado y talleres el 31 de octubre, centradas en turismo sostenible, conservación marina y protección del litoral.",
+      "claims": [
+        {
+          "claim": "Se celebran las III Jornadas Medioambientales del Mar «Calp Blau».",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las jornadas tienen lugar del 28 al 31 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las ponencias se desarrollan los días 28, 29 y 30 de octubre en el Real Club Náutico de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El 31 de octubre hay una jornada de acción, voluntariado y talleres ambientales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El programa aborda la relación entre turismo, conservación marina y protección del litoral.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Sede Universitaria de Calp – Universitat d’Alacant",
+          "source_url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
+          "evidence": "La página institucional de la Sede Universitaria anuncia las III Jornadas Medioambientales del Mar «Calp Blau», con fechas 28, 29 y 30 de octubre y una jornada de acción y voluntariado con talleres el 31 de octubre, en el Real Club Náutico de Calp.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
+          "evidence": "La publicación describe tres días de conferencias y mesas redondas sobre turismo azul, biodiversidad, cambio climático y restauración de ecosistemas, además de una jornada de limpieza, voluntariado y talleres ambientales el 31 de octubre.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Agenda de la Universitat de València – UA",
+          "source_url": "https://agenda.veu.ua.es/",
+          "evidence": "La agenda universitaria registra el inicio de las III Jornadas Medioambientales del Mar Calp Blau en el Real Club Náutico de Calpe los días 28, 29 y 30 de octubre.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "La formulación «reúne a expertos» está respaldada de forma general por la descripción de especialistas, investigadores y entidades participantes, pero no se ha comprobado un listado completo de asistentes."
+      ],
+      "id": "inv_ad5426a1c1ff7d7c",
+      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
