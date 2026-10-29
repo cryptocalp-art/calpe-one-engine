@@ -2,9 +2,9 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-29T14:24:35.964Z",
+  "generated_at": "2026-10-29T20:21:44.786Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-29T14:24:35.749Z",
+  "last_activity": "2026-10-29T20:21:44.602Z",
   "newspaper": {
     "archive_total": 131,
     "published_today": 1,
@@ -80,12 +80,12 @@
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 3,
-    "eligible": 2,
-    "quarantined": 1,
-    "archive_added": 1
+    "drafts": 0,
+    "eligible": 0,
+    "quarantined": 0,
+    "archive_added": 0
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_9da9890a6842c520",
-      "slug": "jornada-vacunacion-gripe-cผู้?",
-      "category": "SOCIEDAD",
-      "reasons": [
-        "INVALID_SLUG_FORMAT"
-      ],
-      "evaluated_at": "2026-10-29T14:24:19.705Z"
-    }
-  ]
+  "quarantine": []
 }

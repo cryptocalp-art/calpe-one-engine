@@ -1,213 +1,191 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-29T14:23:18.279Z",
+  "generated_at": "2026-10-29T20:20:30.692Z",
   "model": "gpt-5.6-luna",
-  "count": 4,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "9f3614f8549768b0169018dc915ba6f23ad9f50d42594a869f4510b68250439d",
-      "title": "Calp concentra este fin de semana visitas guiadas, actividades comerciales, cultura y Halloween",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La agenda municipal confirma actividades el viernes 30, sábado 31 de octubre y domingo 1 de noviembre: visitas guiadas a los Banys de la Reina y al centro histórico, animación comercial, monólogos, escape room, conciertos y exposiciones. La referencia a Halloween se desprende de la ambientación de monstruos y del escape room del 31 de octubre, aunque la nota oficial no emplea expresamente esa palabra.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento publicó una programación para los días 30 y 31 de octubre y 1 de noviembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación incluye visitas guiadas a los Banys de la Reina y al centro histórico.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Incluye animación comercial, monólogos, un escape room, conciertos y exposiciones.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación incluye actividades asociadas a Halloween.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
-          "evidence": "La agenda oficial detalla visitas a los Banys de la Reina y al centro histórico, pasacalle de monstruos y animación comercial, monólogos de Maru Candel, el Escape Room Protocolo Z, conciertos y varias exposiciones entre el 30 de octubre y el 1 de noviembre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Casa de Cultura de Calp",
-          "source_url": "https://cultura.calp.es/",
-          "evidence": "La agenda cultural municipal confirma las visitas a los Banys de la Reina, las visitas al centro histórico, los monólogos de Maru Candel del 30 de octubre y el concierto Sérénade del 31 de octubre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Tourist Info Calpe",
-          "source_url": "https://media.calpe.es/es/eventos/escape-room-calp",
-          "evidence": "La agenda turística oficial confirma el Escape Room de Calp el sábado 31 de octubre de 2026, en Casa Nova, de 18:30 a 23:30 y con acceso gratuito.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La palabra «Halloween» no aparece literalmente en la nota municipal; se apoya en el pasacalle de monstruos y en el escape room del 31 de octubre."
-      ],
-      "id": "inv_93bf11be9d762502",
-      "investigated_at": "2026-10-29T14:23:18.279Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "39ad1f7f7f7937768c60f6d5b3bf3fe0b5ff33a96b66e3c5dcebceab2edf74b2",
-      "title": "Calp organiza una jornada de vacunación contra la gripe para mayores de 70 años sin cita previa",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La comunicación oficial del Ayuntamiento confirma una jornada de vacunación antigripal para mayores de 70 años el viernes 30 de octubre de 2026, de 11:00 a 14:00, en la Casa de Cultura de Calp, sin cita previa y con tarjeta sanitaria.",
-      "claims": [
-        {
-          "claim": "La jornada se celebrará el viernes 30 de octubre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Está dirigida a personas mayores de 70 años.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se realizará de 11:00 a 14:00 horas en la Casa de Cultura de Calp.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "No será necesario pedir cita previa y habrá que llevar la tarjeta sanitaria.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Participan la Conselleria de Sanidad, el Departamento de Salud de Dénia y el Ayuntamiento de Calp.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Calp Comunica – Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/page/5/",
-          "evidence": "El canal municipal informa de una jornada de vacunación contra la gripe para mayores de 70 años el viernes 30 de octubre, de 11:00 a 14:00, en la Casa de Cultura, sin cita previa y con tarjeta sanitaria. Atribuye la iniciativa a la Conselleria de Sanitat y al Departamento de Salud de Dénia, en colaboración con el Ayuntamiento.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12456/calp-vacunacion-gripe-mayores-70-anos-sin-cita-previa-2026",
-          "evidence": "La información publicada reproduce los mismos datos: jornada para mayores de 70 años, el 30 de octubre de 2026, de 11:00 a 14:00, en la Casa de Cultura, sin cita previa y con tarjeta sanitaria.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La corroboración independiente disponible reproduce los datos de la comunicación municipal; no se ha localizado en la búsqueda una convocatoria separada publicada directamente por la Conselleria o el Departamento de Salud de Dénia."
-      ],
-      "id": "inv_0064dcc9e15ce329",
-      "investigated_at": "2026-10-29T14:23:18.279Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653",
-      "title": "Calp amplía el horario del cementerio del 29 de octubre al 1 de noviembre por Todos los Santos",
+      "candidate_fingerprint": "4181bfdbe914cadd374890bf4eaec5f67032eb723f566556e14161d7ee316863",
+      "title": "Calp amplía el horario del cementerio por Todos los Santos y prohíbe velas naturales y mascotas",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La existencia de un horario especial del cementerio está corroborada por un canal municipal, y una publicación local aporta los horarios concretos y las normas sobre velas, mascotas y limpieza. Sin embargo, no se ha localizado una fuente oficial accesible que confirme todos esos detalles concretos, por lo que la noticia requiere verificación adicional antes de publicarse.",
+      "summary": "La existencia del aviso municipal y la celebración en el cementerio están corroboradas por el dosier oficial del Ayuntamiento, pero los horarios concretos de 2026 y las normas específicas solo aparecen detallados en Calp Digital. El Ayuntamiento sí publicó en 2021 normas similares sobre velas y mascotas, pero esa evidencia no demuestra por sí sola que sigan vigentes exactamente en 2026.",
       "claims": [
         {
-          "claim": "El cementerio municipal tendrá un horario especial del 29 de octubre al 1 de noviembre de 2026.",
+          "claim": "El cementerio de Calp tiene un horario especial del 29 de octubre al 1 de noviembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Abrirá de 8:00 a 21:00 los días 29 y 30 de octubre y el 1 de noviembre, y hasta las 22:00 el día 31.",
+          "claim": "El horario es de 08:00 a 21:00 los días 29 y 30 de octubre, de 08:00 a 22:00 el día 31 y de 08:00 a 21:00 el 1 de noviembre.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "Están prohibidas las velas naturales y la entrada de mascotas.",
+          "claim": "En el cementerio están prohibidas las velas naturales y la entrada de mascotas.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "El 1 de noviembre no se podrán realizar trabajos de limpieza o acondicionamiento.",
+          "claim": "El 1 de noviembre no se permiten trabajos de arreglo o limpieza.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Calp Comunica – Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/page/4/",
-          "evidence": "El canal municipal incluye una comunicación titulada «Horario cementerio festividad de Todos los Santos», publicada el 27 de octubre de 2026, lo que corrobora la existencia de un horario especial, pero la versión accesible no muestra el detalle horario ni las normas.",
+          "source_name": "Ayuntamiento de Calp — Dosier de prensa del 29 de octubre de 2026",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-29-de-octubre-2",
+          "evidence": "El Ayuntamiento incluye en su dosier oficial el anuncio de Calp Digital sobre la ampliación del horario del cementerio por Todos los Santos. El dosier confirma la existencia de la comunicación, pero no reproduce sus horarios ni normas detalladas.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Digital",
           "source_url": "https://calpdigital.es/art/12449/calp-horario-cementerio-todos-los-santos-2026",
-          "evidence": "La publicación local afirma que el cementerio abrirá de 8:00 a 21:00 los días 29 y 30 de octubre y el 1 de noviembre, hasta las 22:00 el día 31, y que se prohíben velas naturales y mascotas. También añade una restricción de trabajos de limpieza el 1 de noviembre.",
+          "evidence": "Publica que el recinto abrirá de 08:00 a 21:00 los días 29 y 30 de octubre, hasta las 22:00 el sábado 31 y de 08:00 a 21:00 el domingo 1 de noviembre. También atribuye al Ayuntamiento la prohibición de velas naturales, mascotas y trabajos de arreglo o limpieza el 1 de noviembre.",
           "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — aviso del cementerio de 2021",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-pone-punto-el-cementerio-municipal-para-la-festividad-de-todos-los-santos-2",
+          "evidence": "En 2021 el Ayuntamiento informó de la prohibición de usar o colocar velas y de acceder con mascotas en el cementerio. Es un antecedente oficial, no una confirmación específica de las normas de 2026.",
+          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "Falta una copia accesible del aviso oficial con los horarios y normas detallados.",
-        "La fuente secundaria añade conciertos del 1 de noviembre, un elemento no incluido en el candidato y que no se ha evaluado como parte esencial de esta noticia."
+        "El dosier municipal enlaza la noticia, pero no constituye una corroboración independiente de sus detalles.",
+        "Es necesario localizar el bando, comunicado o publicación municipal de 2026 que recoja expresamente los horarios y las prohibiciones."
       ],
-      "id": "inv_636f3ec3bc5b6eff",
-      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "id": "inv_5b777b079161232c",
+      "investigated_at": "2026-10-29T20:20:30.692Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "83aaec19ed072262c3e1e8cf02124144f8c558978cf4eb2326d5ca9811ab491d",
-      "title": "Calp reúne a expertos en turismo sostenible y protección marina en las III Jornadas Medioambientales del Mar",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "f142181f168d2970da67e73a9f0f4232fbb79ee2f72266ac1ebe21c632e823d1",
+      "title": "La Cubana actuará por primera vez en Calp con tres funciones de ‘La cuisine de ma cousine’",
+      "status": "NEEDS_RESEARCH",
       "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La Sede Universitaria de Calp y una publicación local corroboran la celebración de las III Jornadas Medioambientales del Mar «Calp Blau»: ponencias los días 28, 29 y 30 de octubre de 2026 y una jornada de acción, voluntariado y talleres el 31 de octubre, centradas en turismo sostenible, conservación marina y protección del litoral.",
+      "publishable": false,
+      "summary": "La actuación, el espectáculo y el recinto están corroborados por la agenda oficial del Ayuntamiento, pero existe una contradicción material sobre el número de funciones y las fechas. La agenda oficial actualmente enumera solo el jueves 19 y el viernes 20 de noviembre, mientras que MarinaAlta.es y un enlace del propio dosier municipal apuntan a funciones del 19 al 21. No es publicable sin aclarar si el sábado 21 fue añadido, retirado o quedó fuera de la agenda oficial por una actualización pendiente.",
       "claims": [
         {
-          "claim": "Se celebran las III Jornadas Medioambientales del Mar «Calp Blau».",
+          "claim": "La Cubana actuará por primera vez en Calp con el espectáculo La cuisine de ma cousine.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las jornadas tienen lugar del 28 al 31 de octubre de 2026.",
+          "claim": "Las funciones se celebrarán en el Auditori de la Casa de Cultura Jaume Pastor i Fluixà.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las ponencias se desarrollan los días 28, 29 y 30 de octubre en el Real Club Náutico de Calp.",
+          "claim": "Habrá tres funciones los días 19, 20 y 21 de noviembre de 2026.",
+          "status": "CONTRADICTED"
+        },
+        {
+          "claim": "Las funciones del 19 y 20 de noviembre están programadas a las 20:00 horas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El 31 de octubre hay una jornada de acción, voluntariado y talleres ambientales.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El programa aborda la relación entre turismo, conservación marina y protección del litoral.",
-          "status": "SUPPORTED"
+          "claim": "La función del sábado 21 de noviembre está programada a las 19:00 horas.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Sede Universitaria de Calp – Universitat d’Alacant",
-          "source_url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp_noticias.html",
-          "evidence": "La página institucional de la Sede Universitaria anuncia las III Jornadas Medioambientales del Mar «Calp Blau», con fechas 28, 29 y 30 de octubre y una jornada de acción y voluntariado con talleres el 31 de octubre, en el Real Club Náutico de Calp.",
+          "source_name": "Ayuntamiento de Calp — agenda oficial",
+          "source_url": "https://noticias.calp.es/es/eventos/la-cubana-presenta-la-cuisine-de-ma-cousine-0",
+          "evidence": "La agenda municipal identifica el espectáculo, el Auditori de la Casa de Cultura Jaume Pastor i Fluixà, los precios de 45 y 48 euros y dos funciones: jueves 19 y viernes 20 de noviembre a las 20:00 horas. No incluye el sábado 21.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12426/calp-blau-2026-jornadas-medioambientales-mar-turismo-sostenible",
-          "evidence": "La publicación describe tres días de conferencias y mesas redondas sobre turismo azul, biodiversidad, cambio climático y restauración de ecosistemas, además de una jornada de limpieza, voluntariado y talleres ambientales el 31 de octubre.",
+          "source_name": "MarinaAlta.es — Dénia FM",
+          "source_url": "https://marinaalta.es/2026/10/la-cubana-llega-por-primera-vez-a-calpe-con-tres-funciones-de-su-comedia-la-cuisine-de-ma-cousine/",
+          "evidence": "Afirma que La Cubana actuará por primera vez en Calp los días 19, 20 y 21 de noviembre, con tres funciones en el Auditori. Detalla horarios de 20:00 el jueves 19, 20:00 el viernes 20 y 19:00 el sábado 21.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Agenda de la Universitat de València – UA",
-          "source_url": "https://agenda.veu.ua.es/",
-          "evidence": "La agenda universitaria registra el inicio de las III Jornadas Medioambientales del Mar Calp Blau en el Real Club Náutico de Calpe los días 28, 29 y 30 de octubre.",
+          "source_name": "Ayuntamiento de Calp — Dosier de prensa del 29 de octubre de 2026",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-29-de-octubre-2",
+          "evidence": "El dosier municipal enlaza una información de La Marina Plaza cuyo título indica que La Cubana actuará en Calp del 19 al 21 de noviembre. El dosier no aporta una programación propia ni resuelve la discrepancia con la agenda municipal.",
           "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La formulación «reúne a expertos» está respaldada de forma general por la descripción de especialistas, investigadores y entidades participantes, pero no se ha comprobado un listado completo de asistentes."
+        "La agenda oficial del Ayuntamiento contradice la afirmación de tres funciones al listar solo dos fechas.",
+        "El dosier municipal parece recopilar información periodística y no necesariamente constituye una confirmación independiente.",
+        "Debe verificarse la venta oficial de entradas y la agenda municipal actualizada antes de publicar."
       ],
-      "id": "inv_ad5426a1c1ff7d7c",
-      "investigated_at": "2026-10-29T14:23:18.279Z",
+      "id": "inv_dbbeeb28b895c06b",
+      "investigated_at": "2026-10-29T20:20:30.692Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "0717c5cdb952d196f88e9488e2f401dd9999b7ad5f1a1d10151c06cd95956f28",
+      "title": "Las ONG de Calp cuestionan el plazo de diez días para solicitar nuevas ayudas municipales",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "HIGH",
+      "publishable": false,
+      "summary": "La convocatoria, su presupuesto, el objeto social y el plazo de diez días están respaldados por registros de subvenciones y publicaciones atribuidas al Ayuntamiento. Sin embargo, existe una contradicción material sobre la fecha final: La Marina Plaza sitúa el cierre el 31 de octubre, mientras que una publicación del Ayuntamiento difundida el 23 de octubre indica como plazo el 2 de noviembre. Además, el cuestionamiento por parte de ONG solo está documentado por la noticia candidata y no por testimonios independientes localizados.",
+      "claims": [
+        {
+          "claim": "El Ayuntamiento de Calp convocó en 2026 subvenciones para proyectos de interés social.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La convocatoria fue registrada el 15 de octubre y publicada en el BOP el 21 de octubre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La dotación presupuestaria es de 38.187,54 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las destinatarias son entidades privadas sin ánimo de lucro que desarrollen proyectos de atención social, sociosanitaria, educativa o de inserción en Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo de solicitud es de diez días naturales.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El plazo finalizaba el 31 de octubre de 2026.",
+          "status": "CONTRADICTED"
+        },
+        {
+          "claim": "Las ONG de Calp cuestionaron públicamente el plazo por ser demasiado breve y coincidir con las fiestas de Moros y Cristianos.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas — BDNS 935318",
+          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
+          "evidence": "Registra la convocatoria del Ayuntamiento de Calp, con fecha de registro 15 de octubre de 2026, presupuesto total de 38.187,54 euros y un plazo de diez días naturales a contar desde el día siguiente a la publicación en el BOP. Identifica como finalidad los servicios sociales y la promoción social.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Boletín Provincial de Alicante — publicación del 21 de octubre de 2026",
+          "source_url": "https://oficius.es/informacion-oficial/alicante/2026-10-21/convocatoria-concesion-subvenciones-destinadas-proyectos-interes-social-anualidad-2026-n8OEzm",
+          "evidence": "Reproduce la referencia oficial de la convocatoria del Ayuntamiento de Calp publicada en el Boletín Provincial de Alicante el 21 de octubre de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — publicación difundida el 23 de octubre de 2026",
+          "source_url": "https://www.globgov.com/ES/Calp/196034407124946/Ayuntamiento-de-Calp---Ajuntament-de-Calp",
+          "evidence": "La publicación atribuida al Ayuntamiento anuncia la convocatoria, cifra la dotación en 38.187,54 euros y señala como fecha límite de presentación el 2 de noviembre de 2026, mediante el trámite SUB21 de la sede electrónica.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/26/malestar-en-las-ongs-de-calp-al-disponer-solo-de-10-dias-para-optar-a-las-nuevas-ayudas-municipales-con-fiestas-por-medio/",
+          "evidence": "Informa del malestar de ONG por disponer de diez días naturales, afirma que la convocatoria se publicó el 21 de octubre y calcula como fecha de finalización el 31 de octubre. También describe como destinatarias a entidades sin ánimo de lucro que trabajan con personas vulnerables, migrantes y programas educativos o de inserción.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La fecha final del plazo aparece como 31 de octubre en La Marina Plaza y como 2 de noviembre en una publicación atribuida al Ayuntamiento.",
+        "La BDNS localizada confirma diez días naturales, pero no permite resolver por sí sola la discrepancia entre ambas fechas.",
+        "No se ha localizado una declaración directa de una ONG que confirme el cuestionamiento; la valoración procede de la pieza periodística candidata."
+      ],
+      "id": "inv_9adda41d6e766fb7",
+      "investigated_at": "2026-10-29T20:20:30.692Z",
       "model": "gpt-5.6-luna"
     }
   ]
