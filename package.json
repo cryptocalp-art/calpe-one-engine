@@ -18,7 +18,11 @@
     "meta:check": "node src/meta-check.mjs",
     "production:safety": "node src/production-safety.mjs",
     "control:room": "node src/control-room.mjs",
-    "home:v2": "node src/home-v2.mjs"
+    "home:v2": "node src/home-v2.mjs",
+    "newsroom:preview": "node newsroom/server.mjs",
+    "newsroom:build": "node newsroom/build.mjs",
+    "newsroom:export": "node newsroom/build.mjs --publish",
+    "newsroom:test": "node --test newsroom/test/editorial.test.mjs"
   },
   "dependencies": {
     "openai": "^5.19.1",
