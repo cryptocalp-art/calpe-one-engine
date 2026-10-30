@@ -1,5 +1,54 @@
 {
-  "generated_at": "2026-10-30T07:09:47.394Z",
-  "count": 0,
-  "evidences": []
+  "generated_at": "2026-10-30T14:12:05.594Z",
+  "count": 6,
+  "evidences": [
+    {
+      "id": "evd_63db697e1bd86f30",
+      "investigation_id": "inv_9d81c0cca60a3260",
+      "source_name": "Calp Comunica / Ayuntamiento de Calp",
+      "source_url": "https://calpcomunica.calp.es/page/5/",
+      "evidence": "El aviso oficial identifica una jornada de vacunación contra la gripe para mayores de 70 años, fija la fecha del viernes 30 de octubre, el horario de 11:00 a 14:00 horas y la Casa de Cultura como lugar. También indica expresamente que no requiere cita previa y que basta con acudir con la tarjeta sanitaria.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_4d6cab5f35dd5385",
+      "investigation_id": "inv_9d81c0cca60a3260",
+      "source_name": "Conselleria de Sanidad - Intradenia",
+      "source_url": "https://saluddigital.san.gva.es/va/web/intradenia/not%C3%ADcies-de-hui",
+      "evidence": "La página oficial de noticias de la Conselleria de Sanidad incluye entre las informaciones del 30 de octubre la jornada de vacunación contra la gripe de Calp para mayores de 70 años sin cita previa.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_0d6a33f59e68cf61",
+      "investigation_id": "inv_9d81c0cca60a3260",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12456/reg",
+      "evidence": "La noticia recoge los mismos datos operativos: fecha del 30 de octubre de 2026, horario de 11:00 a 14:00, Casa de Cultura, mayores de 70 años, ausencia de cita previa y presentación de la tarjeta sanitaria.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_8aa118f8b5c61eb4",
+      "investigation_id": "inv_574ed9ff83c6f2a7",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12449/readpic",
+      "evidence": "La información atribuye al Ayuntamiento un horario de 8:00 a 21:00 los días 29 y 30 de octubre, de 8:00 a 22:00 el día 31 y de 8:00 a 21:00 el 1 de noviembre. También afirma que están prohibidas las velas naturales, el acceso de mascotas y los trabajos de limpieza el 1 de noviembre.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_b849c25bc6d971e6",
+      "investigation_id": "inv_574ed9ff83c6f2a7",
+      "source_name": "Calp Comunica / Ayuntamiento de Calp",
+      "source_url": "https://calpcomunica.calp.es/page/5/",
+      "evidence": "La página oficial confirma que el Ayuntamiento programa dos conciertos del Trío Solistas de la Camerata Amicitia en el Cementerio Municipal el domingo 1 de noviembre, a las 11:00 y a las 17:00 horas. No aporta en el contenido consultado el horario general de apertura ni las prohibiciones de velas o mascotas.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_99f649e98d31f351",
+      "investigation_id": "inv_574ed9ff83c6f2a7",
+      "source_name": "Noticias del Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-pone-punto-el-cementerio-municipal-para-la-festividad-de-todos-los-santos-2",
+      "evidence": "Una publicación oficial de octubre de 2021 recoge en aquel año horarios especiales y prohibiciones de velas y mascotas. Por su antigüedad, no confirma las condiciones concretas de 2026.",
+      "source_type": "PRIMARY"
+    }
+  ]
 }

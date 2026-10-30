@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-30T07:09:47.794Z",
+  "generated_at": "2026-10-30T14:12:56.063Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,8 +21,48 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 0,
-  "eligible_count": 0,
+  "drafts_seen": 1,
+  "eligible_count": 1,
   "quarantined_count": 0,
-  "decisions": []
+  "decisions": [
+    {
+      "gate_id": "qg_b6ec06d4174ec064",
+      "draft_id": "drf_71aaa4e41f427e9c",
+      "investigation_id": "inv_9d81c0cca60a3260",
+      "candidate_fingerprint": "f763d788ab61036367d23cb403fc3d7d476bc5ab5ca53f91a7a1124ae4115750",
+      "slug": "jornada-vacunacion-gripe-calp-mayores-70",
+      "category": "SOCIEDAD",
+      "status": "ELIGIBLE",
+      "reasons": [],
+      "warnings": [],
+      "checks": {
+        "writer_status": "PENDING_GATE",
+        "investigation_linked": true,
+        "investigation_verified": true,
+        "investigation_publishable": true,
+        "confidence_sufficient": true,
+        "supported_claim_count": 7,
+        "contradicted_claim_count": 0,
+        "unverified_claim_count": 0,
+        "evidence_count": 3,
+        "primary_evidence_count": 2,
+        "secondary_evidence_count": 1,
+        "distinct_evidence_urls": 3,
+        "distinct_evidence_hosts": 3,
+        "institutional_or_political": false,
+        "material_caveat": false,
+        "caveat_reflected": true,
+        "neutral_political_language": true,
+        "headline_not_sensational": true,
+        "slug_unique": true,
+        "source_urls_valid": true,
+        "sources_trace_to_investigation": true,
+        "provenance_consistent": true,
+        "structure_complete": true,
+        "body_word_count": 164
+      },
+      "evaluated_at": "2026-10-30T14:12:56.063Z",
+      "engine_version": "quality-gate-v1"
+    }
+  ]
 }

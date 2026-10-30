@@ -1,8 +1,55 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-30T07:09:47.611Z",
+  "generated_at": "2026-10-30T14:12:47.025Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_71aaa4e41f427e9c",
+      "investigation_id": "inv_9d81c0cca60a3260",
+      "candidate_fingerprint": "f763d788ab61036367d23cb403fc3d7d476bc5ab5ca53f91a7a1124ae4115750",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-30T14:12:47.025Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp organiza una jornada de vacunación contra la gripe para mayores de 70 años sin cita previa",
+      "subheadline": "La atención está prevista este viernes 30 de octubre, de 11:00 a 14:00 horas, en la Casa de Cultura",
+      "lead": "Calp celebra este viernes 30 de octubre una jornada de vacunación contra la gripe dirigida a personas mayores de 70 años. La convocatoria no requiere cita previa y fija como único requisito indicado la presentación de la tarjeta sanitaria.",
+      "body_markdown": "La jornada de vacunación contra la gripe tendrá lugar este viernes, 30 de octubre de 2026, en la Casa de Cultura de Calp. La atención se desarrollará entre las 11:00 y las 14:00 horas, según el aviso difundido por el Ayuntamiento de Calp a través de Calp Comunica.\n\nLa convocatoria está dirigida a personas mayores de 70 años y establece que no es necesario solicitar cita previa. Las personas que acudan deberán llevar la tarjeta sanitaria, que figura como el único requisito indicado en la información oficial.\n\nLa iniciativa cuenta con la participación de la Conselleria de Sanidad, el Departamento de Salud de Dénia y el Ayuntamiento de Calp. La jornada también aparece recogida en el sistema oficial de información de la Conselleria de Sanidad entre las noticias del 30 de octubre.\n\nLa información disponible reproduce esencialmente los datos operativos de la convocatoria municipal: fecha, horario, ubicación, destinatarios y condiciones de acceso. No se detallan en el aviso otros requisitos o aspectos organizativos adicionales.",
+      "seo_title": "Jornada de vacunación contra la gripe en Calp para mayores de 70",
+      "meta_description": "Calp celebra este viernes una jornada de vacunación contra la gripe para mayores de 70 años, sin cita previa, en la Casa de Cultura.",
+      "slug": "jornada-vacunacion-gripe-calp-mayores-70",
+      "editorial_notes": [
+        "La corroboración externa reproduce esencialmente la convocatoria oficial; la fuente primaria municipal es la evidencia principal."
+      ],
+      "sources": [
+        {
+          "source_name": "Calp Comunica / Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/page/5/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Conselleria de Sanidad - Intradenia",
+          "source_url": "https://saluddigital.san.gva.es/va/web/intradenia/not%C3%ADcies-de-hui",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12456/reg",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 7,
+        "evidence_count": 3,
+        "caveats": [
+          "La corroboración externa disponible reproduce esencialmente la convocatoria oficial; la fuente primaria municipal es la evidencia principal."
+        ]
+      }
+    }
+  ]
 }
