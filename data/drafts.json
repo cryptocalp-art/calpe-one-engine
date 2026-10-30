@@ -1,8 +1,106 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-29T20:21:34.493Z",
+  "generated_at": "2026-10-30T01:03:01.090Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 2,
+  "drafts": [
+    {
+      "id": "drf_b0c028a71559ac4e",
+      "investigation_id": "inv_636f3ec3bc5b6eff",
+      "candidate_fingerprint": "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-30T01:03:01.090Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El cementerio de Calp amplía su horario por Todos los Santos",
+      "subheadline": "El recinto abrirá hasta las 22:00 horas el sábado 31 de octubre y acogerá dos conciertos el 1 de noviembre",
+      "lead": "El cementerio municipal de Calp aplicará un horario especial entre el 29 de octubre y el 1 de noviembre con motivo de la festividad de Todos los Santos. El Ayuntamiento también recuerda la prohibición de utilizar o colocar velas naturales y de acceder al recinto con mascotas.",
+      "body_markdown": "El cementerio municipal de Calp contará con un horario especial durante los días previos y la jornada de Todos los Santos. Según la información disponible, el recinto abrirá del 29 de octubre al 1 de noviembre con diferentes horarios en función del día.\n\nEl jueves 29 y el viernes 30 de octubre permanecerá abierto de 08:00 a 21:00 horas. El sábado 31 de octubre ampliará la atención hasta las 22:00 horas, con apertura también a las 08:00. Para el domingo 1 de noviembre, festividad de Todos los Santos, el horario será de 08:00 a 21:00 horas.\n\nEl Ayuntamiento recuerda además dos normas de acceso y uso del recinto: está prohibido utilizar o colocar velas naturales y no se permite la entrada con mascotas.\n\nLa jornada del 1 de noviembre incluirá también dos conciertos de música clásica en el propio cementerio municipal. Las actuaciones correrán a cargo del Trío Solistas de la Camerata Amicitia y están programadas a las 11:00 y a las 17:00 horas.\n\nEl aviso municipal confirma la existencia de un horario especial con motivo de Todos los Santos. El desglose diario de horas y las normas relativas a las velas y a las mascotas proceden de la información publicada por Calp Digital, mientras que la agenda oficial del Ayuntamiento confirma los dos pases del concierto del 1 de noviembre.",
+      "seo_title": "Horario del cementerio de Calp por Todos los Santos 2026",
+      "meta_description": "El cementerio de Calp tendrá horario especial del 29 de octubre al 1 de noviembre, con dos conciertos el día 1 y normas de acceso.",
+      "slug": "horario-cementerio-calp-todos-los-santos-2026",
+      "editorial_notes": [
+        "La existencia del horario especial está confirmada por el Ayuntamiento, pero el desglose diario y las normas sobre velas y mascotas proceden principalmente de Calp Digital.",
+        "La agenda municipal confirma los conciertos del 1 de noviembre a las 11:00 y a las 17:00 horas."
+      ],
+      "sources": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12449/calp-horario-cementerio-todos-los-santos-2026",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp - Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp - Noticias municipales",
+          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 7,
+        "evidence_count": 3,
+        "caveats": [
+          "La publicación oficial localizada confirma la existencia del aviso de horario especial, pero el contenido textual accesible no reproduce el desglose diario ni las normas sobre velas y mascotas; esos detalles proceden de Calp Digital.",
+          "La corroboración del horario exacto se apoya principalmente en Calp Digital y en el aviso municipal, mientras que la agenda oficial corrobora específicamente los conciertos."
+        ]
+      }
+    },
+    {
+      "id": "drf_2fe16fd1cab76c51",
+      "investigation_id": "inv_7410f28dc121249e",
+      "candidate_fingerprint": "4451c2d5152d17f7ba7dc49fccf524c3f2dac0556e2e1602650d984cbc0de967",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-30T01:03:01.090Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp convoca 38.187,54 euros en ayudas para proyectos de interés social",
+      "subheadline": "Las entidades privadas sin ánimo de lucro podrán presentar sus solicitudes telemáticamente hasta el 31 de octubre",
+      "lead": "El Ayuntamiento de Calp ha convocado subvenciones por un importe global máximo de 38.187,54 euros para financiar proyectos de interés social correspondientes a 2026. La convocatoria se dirige a entidades privadas sin ánimo de lucro con implantación y actividad social o sociosanitaria en el municipio.",
+      "body_markdown": "El Ayuntamiento de Calp ha abierto una convocatoria de subvenciones destinadas a proyectos de interés social de la anualidad 2026. El crédito global máximo asciende a 38.187,54 euros, una cantidad que se distribuirá entre los proyectos que cumplan los requisitos de la convocatoria y resulten seleccionados mediante el procedimiento establecido.\n\nPodrán solicitar estas ayudas las entidades privadas sin ánimo de lucro con implantación y actividad social o sociosanitaria en Calp, siempre que cumplan las condiciones previstas en las bases. La convocatoria contempla actuaciones de atención a personas en situación de vulnerabilidad o en riesgo de exclusión social, así como iniciativas para cubrir necesidades básicas como alimentación, higiene, vestuario y alojamiento.\n\nTambién se incluyen proyectos de atención educativa o de inserción laboral. Entre las actuaciones citadas figuran los talleres de aprendizaje y las acciones de refuerzo del español dirigidas a personas inmigrantes.\n\nLas solicitudes deben presentarse por vía telemática a través de la sede electrónica del Ayuntamiento de Calp. El plazo es de diez días naturales a partir del día siguiente a la publicación del extracto en el Boletín Oficial de la Provincia de Alicante, que tuvo lugar el 21 de octubre de 2026. Aplicado ese cómputo, el periodo de presentación finaliza el 31 de octubre de 2026.\n\nEl extracto oficial del BOP y el registro de la convocatoria en la Base de Datos Nacional de Subvenciones fijan tanto el crédito máximo como las condiciones generales del procedimiento. Los 38.187,54 euros corresponden al conjunto de la convocatoria y no constituyen una cantidad garantizada para cada entidad solicitante.\n\nUna comunicación municipal difundida en redes aparece referenciada con un plazo hasta el 2 de noviembre. No obstante, el cómputo recogido en el extracto oficial del BOP establece como fecha de finalización el 31 de octubre de 2026.",
+      "seo_title": "Calp convoca ayudas sociales por 38.187,54 euros",
+      "meta_description": "Calp convoca 38.187,54 euros para proyectos sociales de entidades sin ánimo de lucro. El plazo oficial de solicitud termina el 31 de octubre.",
+      "slug": "calp-ayudas-proyectos-interes-social-2026",
+      "editorial_notes": [
+        "El plazo del 31 de octubre de 2026 se calcula conforme al extracto oficial del BOP: diez días naturales desde el día siguiente a la publicación del 21 de octubre.",
+        "Existe una referencia en redes a un plazo hasta el 2 de noviembre, pero debe prevalecer el plazo fijado en el extracto oficial.",
+        "La cuantía de 38.187,54 euros es el crédito global máximo de la convocatoria, no una ayuda individual garantizada."
+      ],
+      "sources": [
+        {
+          "source_name": "Boletín Oficial de la Provincia de Alicante",
+          "source_url": "https://www.dip-alicante.es/bop2/pdftotal/2026/10/21_200/2026_008008.pdf",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Base de Datos Nacional de Subvenciones",
+          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/935318",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Boletín Bien",
+          "source_url": "https://boletinbien.com/alicante/administracion-local/ayuntamientos/calp/subvenciones-interes-social-2026-10-21",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 7,
+        "evidence_count": 3,
+        "caveats": [
+          "Una comunicación del Ayuntamiento difundida en redes aparece referenciada con un plazo hasta el 2 de noviembre, pero el extracto oficial del BOP establece diez días naturales desde el día siguiente a su publicación el 21 de octubre; aplicado ese cómputo, el plazo finaliza el 31 de octubre de 2026.",
+          "La convocatoria financia proyectos mediante concurrencia competitiva; los 38.187,54 euros son el crédito global máximo y no una ayuda individual garantizada para cada entidad."
+        ]
+      }
+    }
+  ]
 }
