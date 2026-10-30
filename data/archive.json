@@ -3,9 +3,71 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-30T14:12:56.375Z",
-  "count": 132,
+  "updated_at": "2026-10-30T19:26:13.569Z",
+  "count": 133,
   "articles": [
+    {
+      "archive_id": "arc_ebbba72c49c7c33c",
+      "external_id": "drf_8a6d4b2399d31de9",
+      "investigation_id": "inv_4009845d7a6ba7e5",
+      "candidate_fingerprints": [
+        "0896384aebb82c3bf74665f83274d97393697662f9674a2cbd7e0c53f1539b8b"
+      ],
+      "title": "La comunidad educativa de la Marina Alta se concentra en apoyo a las víctimas de la DANA y por la escuela pública",
+      "slug": "comunidad-educativa-marina-alta-movilizaciones-escuela-publica",
+      "summary": "El profesorado y la comunidad educativa de la Marina Alta volvieron a concentrarse el jueves 29 de octubre en solidaridad con las víctimas de un accidente ferroviario ocurrido cerca de Urda, en Toledo, y con las personas afectadas por la DANA. Las movilizaciones también mantuvieron sus reivindicaciones relacionadas con la escuela pública.",
+      "body": "El profesorado y la comunidad educativa de la Marina Alta volvieron a concentrarse el jueves 29 de octubre ante centros de la comarca. Las concentraciones expresaron solidaridad con las víctimas del accidente ferroviario ocurrido cerca de Urda, en la provincia de Toledo, y con las personas afectadas por la DANA, según las informaciones publicadas sobre la convocatoria.\n\nLa movilización incluyó asimismo la continuidad de las reivindicaciones vinculadas a la mejora de la escuela pública. Las fuentes consultadas señalan que estas demandas educativas se mantienen dentro de la agenda de la comunidad educativa de la comarca.\n\nEn el marco de las próximas convocatorias, se anunció una manifestación por la educación pública para el jueves 5 de noviembre de 2026 en Dénia. La marcha está prevista a las 19:00 horas y tendrá como punto de salida la plaza Jaume I.\n\nEl profesorado también anunció su adhesión a las movilizaciones por el derecho a la vivienda convocadas para el miércoles 11 de noviembre de 2026. Esta participación figura como una adhesión anunciada, no como un acto ya celebrado.\n\nLa manifestación educativa prevista para el 5 de noviembre había sido aplazada, según la información disponible, debido a las consecuencias de la DANA. Las reivindicaciones de la comunidad educativa se mantienen pese a ese cambio de fecha.\n\nLas fuentes localizadas son coberturas periodísticas y no incluyen un comunicado institucional de las asambleas educativas con el texto íntegro de la convocatoria. Por ello, los detalles de las movilizaciones se presentan como anuncios recogidos en esas informaciones.",
+      "category": "SOCIEDAD",
+      "seo_title": "La comunidad educativa de la Marina Alta mantiene sus movilizaciones",
+      "meta_description": "El profesorado de la Marina Alta se concentró por las víctimas de la DANA y mantiene sus reivindicaciones por la escuela pública.",
+      "sources": [
+        {
+          "name": "LaMarinaAlta.com",
+          "url": "https://lamarinaalta.com/el-profesorado-de-la-marina-alta-se-concentra-en-senal-de-luto-por-la-tragedia-ferroviaria-y-en-apoyo-a-los-afectados-por-la-dana/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "La Marina de elDiario.es",
+          "url": "https://lamarina.eldiario.es/2026/10/29/la-comunidad-educativa-se-solidariza-con-las-victimas-del-accidente-de-tren-y-de-la-dana-en-su-concentracion-semanal/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ràdio Litoral",
+          "url": "https://radiolitoral.com/2026/10/manifestacion-educacion-publica-marina-alta-aplazada-5-noviembre/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarinaalta.com/el-profesorado-de-la-marina-alta-se-concentra-en-senal-de-luto-por-la-tragedia-ferroviaria-y-en-apoyo-a-los-afectados-por-la-dana",
+        "https://lamarina.eldiario.es/2026/10/29/la-comunidad-educativa-se-solidariza-con-las-victimas-del-accidente-de-tren-y-de-la-dana-en-su-concentracion-semanal",
+        "https://radiolitoral.com/2026/10/manifestacion-educacion-publica-marina-alta-aplazada-5-noviembre"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "Las fuentes describen el accidente como ocurrido cerca de Urda, en la provincia de Toledo; conviene utilizar esa formulación precisa.",
+          "La movilización del 11 de noviembre aparece descrita como convocatoria o adhesión anunciada, no como un acto ya celebrado.",
+          "La evidencia localizada es periodística; no se ha localizado un comunicado institucional de las asambleas educativas con el texto íntegro de la convocatoria."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_f6b6cc01952361eb",
+        "quality_gate_evaluated_at": "2026-10-30T19:26:13.298Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Utilizar la formulación precisa de accidente ferroviario ocurrido cerca de Urda, en la provincia de Toledo.",
+        "La movilización del 11 de noviembre debe presentarse como convocatoria o adhesión anunciada, no como un acto celebrado.",
+        "La evidencia disponible es periodística; no se ha localizado un comunicado institucional con el texto íntegro de la convocatoria."
+      ],
+      "published_at": "2026-10-30T19:25:59.529Z",
+      "updated_at": "2026-10-30T19:26:13.569Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_a8cdd97769706516",
       "external_id": "drf_2fe16fd1cab76c51",
@@ -73,7 +135,8 @@
       "investigation_id": "inv_93bf11be9d762502",
       "candidate_fingerprints": [
         "9f3614f8549768b0169018dc915ba6f23ad9f50d42594a869f4510b68250439d",
-        "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653"
+        "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653",
+        "4814c24d855888231416cda5214ca6f4a6a01092efd8942ea77cd9103d0effc5"
       ],
       "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
       "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
@@ -104,7 +167,9 @@
         "https://cultura.calp.es",
         "https://media.calpe.es/es/eventos/escape-room-calp",
         "https://calpdigital.es/art/12449/calp-horario-cementerio-todos-los-santos-2026",
-        "https://calpcomunica.calp.es/page/4"
+        "https://calpcomunica.calp.es/page/4",
+        "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
+        "https://canfali.com/calp-renueva-las-pistas-deportivas-exteriores-y-el-campo-de-futbol-8"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -124,7 +189,7 @@
         "La referencia a Halloween debe presentarse con cautela: la nota municipal no utiliza literalmente esa palabra y la asociación se basa en el pasacalle de monstruos y el escape room del 31 de octubre."
       ],
       "published_at": "2026-10-29T14:24:01.982Z",
-      "updated_at": "2026-10-30T01:03:14.864Z",
+      "updated_at": "2026-10-30T19:26:13.569Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

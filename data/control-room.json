@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-30T14:13:09.077Z",
+  "generated_at": "2026-10-30T19:26:28.074Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-30T14:13:08.866Z",
+  "last_activity": "2026-10-30T19:26:27.885Z",
   "newspaper": {
-    "archive_total": 132,
-    "published_today": 1,
+    "archive_total": 133,
+    "published_today": 2,
     "published_last_7_days": 18,
     "categories": {
-      "SOCIEDAD": 15,
+      "SOCIEDAD": 16,
       "TURISMO": 13,
       "LOCAL": 18,
       "SUCESOS": 22,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_ebbba72c49c7c33c",
+        "title": "La comunidad educativa de la Marina Alta se concentra en apoyo a las víctimas de la DANA y por la escuela pública",
+        "category": "SOCIEDAD",
+        "slug": "comunidad-educativa-marina-alta-movilizaciones-escuela-publica",
+        "published_at": "2026-10-30T19:25:59.529Z"
+      },
       {
         "archive_id": "arc_a8cdd97769706516",
         "title": "Calp convoca 38.187,54 euros en ayudas para proyectos de interés social",
@@ -69,23 +76,16 @@
         "category": "POLITICA",
         "slug": "cesar-sanchez-numero-dos-pp-alicante-congreso",
         "published_at": "2026-10-27T21:22:31.629Z"
-      },
-      {
-        "archive_id": "arc_f13bdc81ecbb337b",
-        "title": "La Marina Alta queda incluida en la declaración de zona gravemente afectada por la DANA Adam",
-        "category": "SOCIEDAD",
-        "slug": "marina-alta-zona-afectada-dana-adam-ayudas",
-        "published_at": "2026-10-27T16:43:27.252Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 8,
+    "radar_candidates": 9,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
