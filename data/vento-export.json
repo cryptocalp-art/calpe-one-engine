@@ -3,7 +3,7 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-31T17:46:49.926Z",
+  "generated_at": "2026-10-31T21:38:26.617Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
   "drafts_seen": 2,
@@ -11,270 +11,264 @@
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_126e9a14ecbeb795",
+      "export_id": "exp_3398f36fc1925bf0",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-31T17:46:49.926Z",
-      "source_draft_id": "drf_cf1df476caebd7c1",
-      "source_investigation_id": "inv_167bb41aa6780cdc",
-      "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
-      "quality_gate_id": "qg_421f64955d43a6c0",
+      "generated_at": "2026-10-31T21:38:26.617Z",
+      "source_draft_id": "drf_de1126a97f8156a4",
+      "source_investigation_id": "inv_f675670ad742b90a",
+      "candidate_fingerprint": "b7c37a6a7c9040982ecec7f259dee4c5c37c31aed030debcecbd5d55ae545488",
+      "quality_gate_id": "qg_fbb5e8f45ec4fb5b",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_cf1df476caebd7c1",
-        "investigation_id": "inv_167bb41aa6780cdc",
-        "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
-        "title": "Calp programa del 6 al 20 de noviembre la campaña Bono Comercio 2026",
-        "subtitle": "Los bonos, subvencionados al 50 %, tendrán valores nominales de 20, 50 y 100 euros; el Ayuntamiento destina 230.000 euros",
-        "summary": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos subvencionados entre el 6 y el 20 de noviembre de 2026, según la información difundida por el Ayuntamiento de Calp y la documentación oficial de la convocatoria. Los establecimientos podrán adherirse a la iniciativa del 4 al 20 de noviembre.",
-        "body": "El Ayuntamiento de Calp ha confirmado la convocatoria de la campaña Bono Comercio 2026, una iniciativa que contempla bonos subvencionados al 50 % para las personas empadronadas. Los bonos tendrán valores nominales de 20, 50 y 100 euros y podrán adquirirse y canjearse entre el 6 y el 20 de noviembre de 2026.\n\nLa adhesión de los comercios participantes estará abierta del 4 al 20 de noviembre. De este modo, el periodo para que los establecimientos se incorporen a la campaña comenzará antes que el previsto para la compra y el canje de los bonos, de acuerdo con el calendario comunicado por las entidades promotoras.\n\nLa aportación municipal prevista para la campaña asciende a 230.000 euros. Esta dotación también figura en la convocatoria registrada en la Base de Datos Nacional de Subvenciones, bajo el título «Campaña Bono Comercio del Ayuntamiento de Calp 2026».\n\nLa información ha sido difundida por el Ayuntamiento y por AEMCO —Empresarios de Calpe—, mientras que la convocatoria oficial recoge la dotación presupuestaria de la iniciativa. Las fuentes consultadas coinciden en las fechas, los importes nominales de los bonos y el porcentaje de subvención.\n\nLa convocatoria corresponde a un calendario posterior al 31 de octubre, fecha de redacción de esta información. Por tanto, los datos disponibles acreditan que la campaña ha sido anunciada y convocada, pero no que la compra o el canje hayan comenzado ya. La disponibilidad efectiva de los bonos puede estar condicionada al agotamiento de existencias y a lo establecido en las bases de la convocatoria.",
-        "category": "ECONOMIA",
-        "slug": "calp-bono-comercio-2026-noviembre",
-        "seo_title": "Calp programa el Bono Comercio 2026 del 6 al 20 de noviembre",
-        "meta_description": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos al 50 % del 6 al 20 de noviembre. El Ayuntamiento aporta 230.000 euros.",
+        "external_id": "drf_de1126a97f8156a4",
+        "investigation_id": "inv_f675670ad742b90a",
+        "candidate_fingerprint": "b7c37a6a7c9040982ecec7f259dee4c5c37c31aed030debcecbd5d55ae545488",
+        "title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig para reducir el riesgo de inundaciones",
+        "subtitle": "La actuación prevé retirar caña invasora y recuperar vegetación autóctona, con un presupuesto de contratación situado en torno a 1,2 millones de euros",
+        "summary": "El Ayuntamiento de Calp ha proyectado actuaciones de restauración ambiental y renaturalización en los tramos urbanos de los barrancos del Quisi y Pou Roig. El objetivo declarado es prevenir desbordamientos durante episodios de grandes avenidas de agua y reducir las posibles obstrucciones asociadas a la presencia de caña invasora.",
+        "body": "El proyecto cuenta con la autorización de la Confederación Hidrográfica del Júcar para intervenir en los tramos urbanos de ambos barrancos, según ha informado el Ayuntamiento de Calp. Entre las actuaciones previstas figura la retirada de la especie invasora **Arundo donax**, conocida como caña, así como la recuperación de vegetación autóctona.\n\nLa intervención se plantea con una finalidad preventiva: facilitar el comportamiento del agua en los cauces y disminuir el riesgo de desbordamientos en situaciones de lluvias intensas. El Ayuntamiento ya había descrito en febrero de 2025 la renaturalización del barranco del Quisi como una actuación incluida en el plan Calp Blau y vinculada a la reducción del riesgo de desbordamiento.\n\nLa información disponible sitúa el presupuesto de contratación en torno a **1,2 millones de euros**. Esta cifra procede de la estimación recogida en una información basada en un documento técnico, que calcula una inversión material de 860.000 euros y eleva el importe aproximado hasta esa cantidad al incluir la ejecución industrial y el IVA.\n\nNo obstante, el importe debe tomarse como una previsión del proyecto. La fuente municipal localizada comunicó anteriormente una previsión distinta: 850.000 euros para las actuaciones en el término de Calp, dentro de un proyecto conjunto con Benissa valorado entonces en 2,25 millones de euros. No se ha localizado públicamente el documento técnico completo ni una licitación que confirme el importe de 1,2 millones.\n\nLa actuación se encuentra, por tanto, en fase de proyecto o previsión y no debe presentarse como una obra ya ejecutada. Los detalles no confirmados por una fuente municipal, como la creación de un parque verde, su superficie o la consideración de la intervención como experiencia piloto, quedan fuera de esta información.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-renaturalizar-barrancos-quisi-pou-roig",
+        "seo_title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig",
+        "meta_description": "El proyecto de Calp prevé retirar caña invasora y recuperar vegetación autóctona en los barrancos del Quisi y Pou Roig para reducir riesgos de inundación.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_421f64955d43a6c0",
+        "quality_gate_id": "qg_fbb5e8f45ec4fb5b",
         "editorial_notes": [
-          "La campaña se desarrollará en fechas posteriores a la redacción; no afirmar que la compra o el canje ya han comenzado.",
-          "Indicar que la disponibilidad puede depender del agotamiento de existencias y de las bases de la convocatoria."
+          "Presentar los 1,2 millones de euros como presupuesto de contratación aproximado y sujeto a confirmación, ya que difiere de una previsión municipal anterior.",
+          "La actuación está proyectada y no ejecutada. No incluir el parque verde, su superficie ni el carácter piloto, al no estar verificados."
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp — Calp Comunica",
-            "url": "https://calpcomunica.calp.es/page/4/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
             "type": "PRIMARY"
           },
           {
-            "name": "Base de Datos Nacional de Subvenciones",
-            "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
             "type": "PRIMARY"
           },
           {
-            "name": "AEMCO — Empresarios de Calpe",
-            "url": "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/",
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12461/readpic",
             "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://calpcomunica.calp.es/page/4/",
-          "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
-          "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/"
+          "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
+          "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
+          "https://calpdigital.es/art/12461/readpic"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
+          "confidence": "MEDIUM",
           "supported_claim_count": 4,
           "evidence_count": 3,
           "caveats": [
-            "La campaña está anunciada para fechas futuras respecto a la fecha de investigación, por lo que la comprobación acredita la convocatoria, no que la compra o el canje ya hayan comenzado.",
-            "La disponibilidad efectiva puede quedar condicionada al agotamiento de existencias y a las bases de la convocatoria."
+            "La cifra de 1,2 millones no aparece confirmada en la fuente municipal localizada y difiere de la previsión oficial comunicada en febrero de 2025.",
+            "La fuente independiente reproduce declaraciones y datos de un proyecto técnico, pero no se ha localizado públicamente el documento técnico completo ni una licitación con ese importe.",
+            "Debe presentarse como proyecto o previsión, no como obra ejecutada."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_421f64955d43a6c0",
-          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_fbb5e8f45ec4fb5b",
+          "quality_gate_evaluated_at": "2026-10-31T21:38:26.447Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
-        "created_at": "2026-10-31T17:46:37.868Z",
+        "created_at": "2026-10-31T21:38:14.780Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_cf1df476caebd7c1",
-        "title": "Calp programa del 6 al 20 de noviembre la campaña Bono Comercio 2026",
-        "slug": "calp-bono-comercio-2026-noviembre",
-        "summary": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos subvencionados entre el 6 y el 20 de noviembre de 2026, según la información difundida por el Ayuntamiento de Calp y la documentación oficial de la convocatoria. Los establecimientos podrán adherirse a la iniciativa del 4 al 20 de noviembre.",
-        "body": "El Ayuntamiento de Calp ha confirmado la convocatoria de la campaña Bono Comercio 2026, una iniciativa que contempla bonos subvencionados al 50 % para las personas empadronadas. Los bonos tendrán valores nominales de 20, 50 y 100 euros y podrán adquirirse y canjearse entre el 6 y el 20 de noviembre de 2026.\n\nLa adhesión de los comercios participantes estará abierta del 4 al 20 de noviembre. De este modo, el periodo para que los establecimientos se incorporen a la campaña comenzará antes que el previsto para la compra y el canje de los bonos, de acuerdo con el calendario comunicado por las entidades promotoras.\n\nLa aportación municipal prevista para la campaña asciende a 230.000 euros. Esta dotación también figura en la convocatoria registrada en la Base de Datos Nacional de Subvenciones, bajo el título «Campaña Bono Comercio del Ayuntamiento de Calp 2026».\n\nLa información ha sido difundida por el Ayuntamiento y por AEMCO —Empresarios de Calpe—, mientras que la convocatoria oficial recoge la dotación presupuestaria de la iniciativa. Las fuentes consultadas coinciden en las fechas, los importes nominales de los bonos y el porcentaje de subvención.\n\nLa convocatoria corresponde a un calendario posterior al 31 de octubre, fecha de redacción de esta información. Por tanto, los datos disponibles acreditan que la campaña ha sido anunciada y convocada, pero no que la compra o el canje hayan comenzado ya. La disponibilidad efectiva de los bonos puede estar condicionada al agotamiento de existencias y a lo establecido en las bases de la convocatoria.",
-        "category": "ECONOMIA",
-        "seo_title": "Calp programa el Bono Comercio 2026 del 6 al 20 de noviembre",
-        "meta_description": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos al 50 % del 6 al 20 de noviembre. El Ayuntamiento aporta 230.000 euros.",
+        "external_id": "drf_de1126a97f8156a4",
+        "title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig para reducir el riesgo de inundaciones",
+        "slug": "calp-renaturalizar-barrancos-quisi-pou-roig",
+        "summary": "El Ayuntamiento de Calp ha proyectado actuaciones de restauración ambiental y renaturalización en los tramos urbanos de los barrancos del Quisi y Pou Roig. El objetivo declarado es prevenir desbordamientos durante episodios de grandes avenidas de agua y reducir las posibles obstrucciones asociadas a la presencia de caña invasora.",
+        "body": "El proyecto cuenta con la autorización de la Confederación Hidrográfica del Júcar para intervenir en los tramos urbanos de ambos barrancos, según ha informado el Ayuntamiento de Calp. Entre las actuaciones previstas figura la retirada de la especie invasora **Arundo donax**, conocida como caña, así como la recuperación de vegetación autóctona.\n\nLa intervención se plantea con una finalidad preventiva: facilitar el comportamiento del agua en los cauces y disminuir el riesgo de desbordamientos en situaciones de lluvias intensas. El Ayuntamiento ya había descrito en febrero de 2025 la renaturalización del barranco del Quisi como una actuación incluida en el plan Calp Blau y vinculada a la reducción del riesgo de desbordamiento.\n\nLa información disponible sitúa el presupuesto de contratación en torno a **1,2 millones de euros**. Esta cifra procede de la estimación recogida en una información basada en un documento técnico, que calcula una inversión material de 860.000 euros y eleva el importe aproximado hasta esa cantidad al incluir la ejecución industrial y el IVA.\n\nNo obstante, el importe debe tomarse como una previsión del proyecto. La fuente municipal localizada comunicó anteriormente una previsión distinta: 850.000 euros para las actuaciones en el término de Calp, dentro de un proyecto conjunto con Benissa valorado entonces en 2,25 millones de euros. No se ha localizado públicamente el documento técnico completo ni una licitación que confirme el importe de 1,2 millones.\n\nLa actuación se encuentra, por tanto, en fase de proyecto o previsión y no debe presentarse como una obra ya ejecutada. Los detalles no confirmados por una fuente municipal, como la creación de un parque verde, su superficie o la consideración de la intervención como experiencia piloto, quedan fuera de esta información.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig",
+        "meta_description": "El proyecto de Calp prevé retirar caña invasora y recuperar vegetación autóctona en los barrancos del Quisi y Pou Roig para reducir riesgos de inundación.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_421f64955d43a6c0",
+        "quality_gate_id": "qg_fbb5e8f45ec4fb5b",
         "published_at": null,
         "source_urls": [
-          "https://calpcomunica.calp.es/page/4/",
-          "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
-          "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/"
+          "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
+          "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
+          "https://calpdigital.es/art/12461/readpic"
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp — Calp Comunica",
-            "url": "https://calpcomunica.calp.es/page/4/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
             "type": "PRIMARY"
           },
           {
-            "name": "Base de Datos Nacional de Subvenciones",
-            "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
             "type": "PRIMARY"
           },
           {
-            "name": "AEMCO — Empresarios de Calpe",
-            "url": "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/",
+            "name": "Calp Digital",
+            "url": "https://calpdigital.es/art/12461/readpic",
             "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_167bb41aa6780cdc",
-        "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
+        "investigation_id": "inv_f675670ad742b90a",
+        "candidate_fingerprint": "b7c37a6a7c9040982ecec7f259dee4c5c37c31aed030debcecbd5d55ae545488",
         "provenance": {
           "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
+          "confidence": "MEDIUM",
           "supported_claim_count": 4,
           "evidence_count": 3,
           "caveats": [
-            "La campaña está anunciada para fechas futuras respecto a la fecha de investigación, por lo que la comprobación acredita la convocatoria, no que la compra o el canje ya hayan comenzado.",
-            "La disponibilidad efectiva puede quedar condicionada al agotamiento de existencias y a las bases de la convocatoria."
+            "La cifra de 1,2 millones no aparece confirmada en la fuente municipal localizada y difiere de la previsión oficial comunicada en febrero de 2025.",
+            "La fuente independiente reproduce declaraciones y datos de un proyecto técnico, pero no se ha localizado públicamente el documento técnico completo ni una licitación con ese importe.",
+            "Debe presentarse como proyecto o previsión, no como obra ejecutada."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_421f64955d43a6c0",
-          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_fbb5e8f45ec4fb5b",
+          "quality_gate_evaluated_at": "2026-10-31T21:38:26.447Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
         "engine_version": "publisher-export-v2"
       }
     },
     {
-      "export_id": "exp_5895760452dbc63c",
+      "export_id": "exp_b7ea992920a33a53",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-10-31T17:46:49.926Z",
-      "source_draft_id": "drf_04e3ff1e70ad1874",
-      "source_investigation_id": "inv_8c3d852c9d8a718a",
-      "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
-      "quality_gate_id": "qg_3a7b2502171a11b4",
+      "generated_at": "2026-10-31T21:38:26.617Z",
+      "source_draft_id": "drf_eb8133f72be836c6",
+      "source_investigation_id": "inv_566a4ff3a2a6b479",
+      "candidate_fingerprint": "310b70684bd9e17f19e784a027225c7ca9d244cbee480d8cbbefc2aa066bd2ca",
+      "quality_gate_id": "qg_029afedd89255157",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_04e3ff1e70ad1874",
-        "investigation_id": "inv_8c3d852c9d8a718a",
-        "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
-        "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
-        "subtitle": "La formación tendrá cinco sesiones presenciales en la Seu Universitària y abordará la captura y el análisis de datos, la toma de decisiones y la ejecución automática de tareas",
-        "summary": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan un taller sobre la aplicación práctica de la inteligencia artificial a la automatización de procesos. La actividad se desarrollará los días 3, 5, 10, 12 y 19 de noviembre de 2026 en el Aula 2 de la Seu Universitària, en Casa Nova.",
-        "body": "Calp acogerá durante noviembre un taller universitario centrado en el uso práctico de la inteligencia artificial para automatizar procesos. La actividad está organizada conjuntamente por la Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante, según las agendas y comunicaciones oficiales de estas instituciones.\n\nEl programa se celebrará en cinco sesiones, previstas para los días 3, 5, 10, 12 y 19 de noviembre de 2026. Todas tendrán lugar de forma presencial en el Aula 2 de la Seu Universitària de Calp, ubicada en Casa Nova, y el horario anunciado es de 17:00 a 20:00 horas.\n\nLos contenidos incluyen la captura de datos, su análisis inteligente, la toma de decisiones y la ejecución automática de procesos. El taller también aborda la automatización de tareas y sus aplicaciones prácticas, de acuerdo con la descripción publicada por el Ayuntamiento.\n\nLa Universidad de Alicante identifica a cuatro ponentes vinculados a la institución para esta actividad. Las fuentes oficiales consultadas coinciden en el título del taller, las cinco fechas, el horario, el lugar y la colaboración entre las tres entidades organizadoras. El calendario municipal señala además que la inscripción es gratuita.\n\nLa programación está prevista para fechas posteriores al 31 de octubre de 2026. Por ello, la información disponible confirma la convocatoria y el calendario anunciado, pero no permite afirmar que las sesiones se hayan celebrado. El contenido se describe aquí conforme a la información institucional: captura de datos, análisis inteligente, toma de decisiones y ejecución automática de tareas.",
-        "category": "SOCIEDAD",
-        "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
-        "seo_title": "Calp acogerá un taller universitario sobre IA en noviembre",
-        "meta_description": "La Seu Universitària, el Ayuntamiento y la UA organizan cinco sesiones presenciales sobre inteligencia artificial y automatización en noviembre.",
+        "external_id": "drf_eb8133f72be836c6",
+        "investigation_id": "inv_566a4ff3a2a6b479",
+        "candidate_fingerprint": "310b70684bd9e17f19e784a027225c7ca9d244cbee480d8cbbefc2aa066bd2ca",
+        "title": "Calp inicia la renovación de cuatro pistas deportivas y la mejora de la seguridad del campo de fútbol 8",
+        "subtitle": "La actuación del Esplai Parc suma 133.022 euros e incluye nuevos pavimentos y marcajes, vallado, protecciones acolchadas y redes parabalones",
+        "summary": "El Ayuntamiento de Calp ha iniciado las obras de renovación de cuatro pistas deportivas exteriores del Esplai Parc y de mejora de la seguridad del campo de fútbol 8. La inversión conjunta asciende a 133.022 euros, según la información municipal, que detalla actuaciones diferenciadas para las pistas y el recinto futbolístico.",
+        "body": "La parte destinada a las cuatro pistas exteriores cuenta con un presupuesto de **74.767 euros**. Los trabajos incluyen la reparación de grietas, la renovación del pavimento exterior con acabado epoxi y el repintado de las líneas de juego.\n\nLos nuevos marcajes permitirán adaptar los espacios a la práctica de baloncesto, fútbol sala, voleibol, minibasket y pickleball. La actuación busca actualizar la configuración de las pistas y mejorar sus condiciones de uso, de acuerdo con el proyecto comunicado por el Ayuntamiento.\n\nEl segundo bloque de la intervención corresponde al campo de fútbol 8 y suma **58.255 euros**. En este espacio está prevista la instalación de aproximadamente 230 metros lineales de vallado, junto con protecciones acolchadas y redes parabalones.\n\nEl objetivo de estos elementos es reforzar la seguridad del entorno de juego. La actuación forma parte de las inversiones anunciadas para las instalaciones deportivas municipales y concreta una previsión comunicada previamente en agosto de 2026 sobre la remodelación de las pistas exteriores y la colocación del vallado perimetral del campo de fútbol.\n\nLa información disponible describe obras iniciadas, pero no confirma que los trabajos hayan finalizado. La cifra de 133.022 euros corresponde a la actuación finalmente comunicada y desglosada, por lo que puede diferir de previsiones anteriores sobre inversiones deportivas. El importe se presenta como inversión conjunta de las obras en las pistas y en el campo de fútbol 8.",
+        "category": "DEPORTES",
+        "slug": "calp-renovacion-pistas-deportivas-campo-futbol-8",
+        "seo_title": "Calp invierte 133.022 euros en pistas y fútbol 8",
+        "meta_description": "Calp inicia la renovación de cuatro pistas del Esplai Parc y mejora la seguridad del campo de fútbol 8 con una inversión de 133.022 euros.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_3a7b2502171a11b4",
+        "quality_gate_id": "qg_029afedd89255157",
         "editorial_notes": [
-          "Las fuentes acreditan la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
-          "Mantener la descripción de contenidos vinculada a las fuentes oficiales: captura y análisis de datos, toma de decisiones y ejecución automática de procesos."
+          "Indicar que las obras han comenzado, pero no afirmar que están terminadas.",
+          "Distinguir el importe final comunicado, 133.022 euros, de las previsiones anteriores anunciadas en agosto de 2026."
         ],
         "sources": [
           {
-            "name": "Universidad de Alicante — Agenda Universitaria",
-            "url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
-            "type": "PRIMARY"
-          },
-          {
             "name": "Ayuntamiento de Calp",
-            "url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
             "type": "PRIMARY"
           },
           {
-            "name": "Universidad de Alicante — Seu Universitària de Calp",
-            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
-            "type": "PRIMARY"
+            "name": "Canfali",
+            "url": "https://canfali.com/ca-es/calp-renova-les-pistes-esportives-exteriors-i-el-camp-de-futbol-8/",
+            "type": "SECONDARY"
           },
           {
-            "name": "Calp Comunica",
-            "url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+            "name": "Calp Esports",
+            "url": "https://noticias.calp.es/es/noticia/calp-invierte-este-verano-cerca-de-200000%E2%82%AC-en-la-renovación-de-sus-instalaciones-deportivas",
             "type": "PRIMARY"
           }
         ],
         "source_urls": [
-          "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
-          "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
-          "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
-          "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
+          "https://canfali.com/ca-es/calp-renova-les-pistes-esportives-exteriors-i-el-camp-de-futbol-8/",
+          "https://noticias.calp.es/es/noticia/calp-invierte-este-verano-cerca-de-200000%E2%82%AC-en-la-renovación-de-sus-instalaciones-deportivas"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 4,
+          "supported_claim_count": 6,
+          "evidence_count": 3,
           "caveats": [
-            "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
-            "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+            "La noticia describe obras iniciadas, no necesariamente finalizadas.",
+            "Las cantidades de 133.022 euros pueden diferir de previsiones anteriores publicadas en agosto de 2026 porque corresponden a la actuación finalmente comunicada y desglosada en octubre."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_3a7b2502171a11b4",
-          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_id": "qg_029afedd89255157",
+          "quality_gate_evaluated_at": "2026-10-31T21:38:26.447Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-10-31T17:46:37.868Z",
+        "created_at": "2026-10-31T21:38:14.780Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_04e3ff1e70ad1874",
-        "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
-        "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
-        "summary": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan un taller sobre la aplicación práctica de la inteligencia artificial a la automatización de procesos. La actividad se desarrollará los días 3, 5, 10, 12 y 19 de noviembre de 2026 en el Aula 2 de la Seu Universitària, en Casa Nova.",
-        "body": "Calp acogerá durante noviembre un taller universitario centrado en el uso práctico de la inteligencia artificial para automatizar procesos. La actividad está organizada conjuntamente por la Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante, según las agendas y comunicaciones oficiales de estas instituciones.\n\nEl programa se celebrará en cinco sesiones, previstas para los días 3, 5, 10, 12 y 19 de noviembre de 2026. Todas tendrán lugar de forma presencial en el Aula 2 de la Seu Universitària de Calp, ubicada en Casa Nova, y el horario anunciado es de 17:00 a 20:00 horas.\n\nLos contenidos incluyen la captura de datos, su análisis inteligente, la toma de decisiones y la ejecución automática de procesos. El taller también aborda la automatización de tareas y sus aplicaciones prácticas, de acuerdo con la descripción publicada por el Ayuntamiento.\n\nLa Universidad de Alicante identifica a cuatro ponentes vinculados a la institución para esta actividad. Las fuentes oficiales consultadas coinciden en el título del taller, las cinco fechas, el horario, el lugar y la colaboración entre las tres entidades organizadoras. El calendario municipal señala además que la inscripción es gratuita.\n\nLa programación está prevista para fechas posteriores al 31 de octubre de 2026. Por ello, la información disponible confirma la convocatoria y el calendario anunciado, pero no permite afirmar que las sesiones se hayan celebrado. El contenido se describe aquí conforme a la información institucional: captura de datos, análisis inteligente, toma de decisiones y ejecución automática de tareas.",
-        "category": "SOCIEDAD",
-        "seo_title": "Calp acogerá un taller universitario sobre IA en noviembre",
-        "meta_description": "La Seu Universitària, el Ayuntamiento y la UA organizan cinco sesiones presenciales sobre inteligencia artificial y automatización en noviembre.",
+        "external_id": "drf_eb8133f72be836c6",
+        "title": "Calp inicia la renovación de cuatro pistas deportivas y la mejora de la seguridad del campo de fútbol 8",
+        "slug": "calp-renovacion-pistas-deportivas-campo-futbol-8",
+        "summary": "El Ayuntamiento de Calp ha iniciado las obras de renovación de cuatro pistas deportivas exteriores del Esplai Parc y de mejora de la seguridad del campo de fútbol 8. La inversión conjunta asciende a 133.022 euros, según la información municipal, que detalla actuaciones diferenciadas para las pistas y el recinto futbolístico.",
+        "body": "La parte destinada a las cuatro pistas exteriores cuenta con un presupuesto de **74.767 euros**. Los trabajos incluyen la reparación de grietas, la renovación del pavimento exterior con acabado epoxi y el repintado de las líneas de juego.\n\nLos nuevos marcajes permitirán adaptar los espacios a la práctica de baloncesto, fútbol sala, voleibol, minibasket y pickleball. La actuación busca actualizar la configuración de las pistas y mejorar sus condiciones de uso, de acuerdo con el proyecto comunicado por el Ayuntamiento.\n\nEl segundo bloque de la intervención corresponde al campo de fútbol 8 y suma **58.255 euros**. En este espacio está prevista la instalación de aproximadamente 230 metros lineales de vallado, junto con protecciones acolchadas y redes parabalones.\n\nEl objetivo de estos elementos es reforzar la seguridad del entorno de juego. La actuación forma parte de las inversiones anunciadas para las instalaciones deportivas municipales y concreta una previsión comunicada previamente en agosto de 2026 sobre la remodelación de las pistas exteriores y la colocación del vallado perimetral del campo de fútbol.\n\nLa información disponible describe obras iniciadas, pero no confirma que los trabajos hayan finalizado. La cifra de 133.022 euros corresponde a la actuación finalmente comunicada y desglosada, por lo que puede diferir de previsiones anteriores sobre inversiones deportivas. El importe se presenta como inversión conjunta de las obras en las pistas y en el campo de fútbol 8.",
+        "category": "DEPORTES",
+        "seo_title": "Calp invierte 133.022 euros en pistas y fútbol 8",
+        "meta_description": "Calp inicia la renovación de cuatro pistas del Esplai Parc y mejora la seguridad del campo de fútbol 8 con una inversión de 133.022 euros.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_3a7b2502171a11b4",
+        "quality_gate_id": "qg_029afedd89255157",
         "published_at": null,
         "source_urls": [
-          "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
-          "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
-          "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
-          "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
+          "https://canfali.com/ca-es/calp-renova-les-pistes-esportives-exteriors-i-el-camp-de-futbol-8/",
+          "https://noticias.calp.es/es/noticia/calp-invierte-este-verano-cerca-de-200000%E2%82%AC-en-la-renovación-de-sus-instalaciones-deportivas"
         ],
         "sources": [
           {
-            "name": "Universidad de Alicante — Agenda Universitaria",
-            "url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
-            "type": "PRIMARY"
-          },
-          {
             "name": "Ayuntamiento de Calp",
-            "url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
             "type": "PRIMARY"
           },
           {
-            "name": "Universidad de Alicante — Seu Universitària de Calp",
-            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
-            "type": "PRIMARY"
+            "name": "Canfali",
+            "url": "https://canfali.com/ca-es/calp-renova-les-pistes-esportives-exteriors-i-el-camp-de-futbol-8/",
+            "type": "SECONDARY"
           },
           {
-            "name": "Calp Comunica",
-            "url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+            "name": "Calp Esports",
+            "url": "https://noticias.calp.es/es/noticia/calp-invierte-este-verano-cerca-de-200000%E2%82%AC-en-la-renovación-de-sus-instalaciones-deportivas",
             "type": "PRIMARY"
           }
         ],
-        "investigation_id": "inv_8c3d852c9d8a718a",
-        "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
+        "investigation_id": "inv_566a4ff3a2a6b479",
+        "candidate_fingerprint": "310b70684bd9e17f19e784a027225c7ca9d244cbee480d8cbbefc2aa066bd2ca",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 4,
-          "evidence_count": 4,
+          "supported_claim_count": 6,
+          "evidence_count": 3,
           "caveats": [
-            "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
-            "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+            "La noticia describe obras iniciadas, no necesariamente finalizadas.",
+            "Las cantidades de 133.022 euros pueden diferir de previsiones anteriores publicadas en agosto de 2026 porque corresponden a la actuación finalmente comunicada y desglosada en octubre."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_3a7b2502171a11b4",
-          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_id": "qg_029afedd89255157",
+          "quality_gate_evaluated_at": "2026-10-31T21:38:26.447Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
