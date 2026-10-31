@@ -3,9 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-10-30T23:50:59.259Z",
-  "count": 133,
+  "updated_at": "2026-10-31T17:46:50.091Z",
+  "count": 134,
   "articles": [
+    {
+      "archive_id": "arc_837ecb842124660c",
+      "external_id": "drf_04e3ff1e70ad1874",
+      "investigation_id": "inv_8c3d852c9d8a718a",
+      "candidate_fingerprints": [
+        "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093"
+      ],
+      "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
+      "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
+      "summary": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan un taller sobre la aplicación práctica de la inteligencia artificial a la automatización de procesos. La actividad se desarrollará los días 3, 5, 10, 12 y 19 de noviembre de 2026 en el Aula 2 de la Seu Universitària, en Casa Nova.",
+      "body": "Calp acogerá durante noviembre un taller universitario centrado en el uso práctico de la inteligencia artificial para automatizar procesos. La actividad está organizada conjuntamente por la Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante, según las agendas y comunicaciones oficiales de estas instituciones.\n\nEl programa se celebrará en cinco sesiones, previstas para los días 3, 5, 10, 12 y 19 de noviembre de 2026. Todas tendrán lugar de forma presencial en el Aula 2 de la Seu Universitària de Calp, ubicada en Casa Nova, y el horario anunciado es de 17:00 a 20:00 horas.\n\nLos contenidos incluyen la captura de datos, su análisis inteligente, la toma de decisiones y la ejecución automática de procesos. El taller también aborda la automatización de tareas y sus aplicaciones prácticas, de acuerdo con la descripción publicada por el Ayuntamiento.\n\nLa Universidad de Alicante identifica a cuatro ponentes vinculados a la institución para esta actividad. Las fuentes oficiales consultadas coinciden en el título del taller, las cinco fechas, el horario, el lugar y la colaboración entre las tres entidades organizadoras. El calendario municipal señala además que la inscripción es gratuita.\n\nLa programación está prevista para fechas posteriores al 31 de octubre de 2026. Por ello, la información disponible confirma la convocatoria y el calendario anunciado, pero no permite afirmar que las sesiones se hayan celebrado. El contenido se describe aquí conforme a la información institucional: captura de datos, análisis inteligente, toma de decisiones y ejecución automática de tareas.",
+      "category": "SOCIEDAD",
+      "seo_title": "Calp acogerá un taller universitario sobre IA en noviembre",
+      "meta_description": "La Seu Universitària, el Ayuntamiento y la UA organizan cinco sesiones presenciales sobre inteligencia artificial y automatización en noviembre.",
+      "sources": [
+        {
+          "name": "Universidad de Alicante — Agenda Universitaria",
+          "url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Universidad de Alicante — Seu Universitària de Calp",
+          "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Calp Comunica",
+          "url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+        "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+        "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+        "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+          "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_3a7b2502171a11b4",
+        "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Las fuentes acreditan la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+        "Mantener la descripción de contenidos vinculada a las fuentes oficiales: captura y análisis de datos, toma de decisiones y ejecución automática de procesos."
+      ],
+      "published_at": "2026-10-31T17:46:37.868Z",
+      "updated_at": "2026-10-31T17:46:50.091Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_ebbba72c49c7c33c",
       "external_id": "drf_8a6d4b2399d31de9",
@@ -137,7 +203,8 @@
         "9f3614f8549768b0169018dc915ba6f23ad9f50d42594a869f4510b68250439d",
         "37a40557f9ee652f5bba60e866cf58ce1d110259c3044dcbc818549ccb58c653",
         "4814c24d855888231416cda5214ca6f4a6a01092efd8942ea77cd9103d0effc5",
-        "61754fc31485421a730043d2218ec11b71ab524c73817ee224ec86db35ed36af"
+        "61754fc31485421a730043d2218ec11b71ab524c73817ee224ec86db35ed36af",
+        "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f"
       ],
       "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
       "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
@@ -172,7 +239,9 @@
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
         "https://canfali.com/calp-renueva-las-pistas-deportivas-exteriores-y-el-campo-de-futbol-8",
         "https://lamarina.eldiario.es/2026/10/30/calp-renova-quatre-pistes-esportives-municipals-i-reforca-la-seguretat-en-lesplai-parc",
-        "https://calpcomunica.calp.es"
+        "https://calpcomunica.calp.es",
+        "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+        "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -192,7 +261,7 @@
         "La referencia a Halloween debe presentarse con cautela: la nota municipal no utiliza literalmente esa palabra y la asociación se basa en el pasacalle de monstruos y el escape room del 31 de octubre."
       ],
       "published_at": "2026-10-29T14:24:01.982Z",
-      "updated_at": "2026-10-30T23:50:59.259Z",
+      "updated_at": "2026-10-31T17:46:50.091Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

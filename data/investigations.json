@@ -1,77 +1,184 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-31T12:34:48.664Z",
+  "generated_at": "2026-10-31T17:46:04.280Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "3f5411d4231b3703ec51998df2efe1482bedbf70401f8fb7477b61a8f0b99522",
-      "title": "Calp proyecta transformar sus barrancos urbanos en un gran parque fluvial para reducir el riesgo de inundaciones",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "07d137dbaec8ab58dbe71bcedc7e951c86d70c5fef18251a78afa47709130ed9",
+      "title": "Calp plantea renaturalizar sus barrancos para reducir el riesgo de inundaciones",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La información está suficientemente respaldada en sus elementos esenciales: Calp ha planteado un proyecto de renaturalización de los barrancos del Quisi y Pou Roig, con recuperación de cauces y creación de espacios verdes, como estrategia preventiva frente a inundaciones. La expresión “gran parque fluvial” corresponde al enfoque periodístico del titular; las fuentes consultadas describen con mayor precisión una renaturalización progresiva y un parque verde, no una obra ya ejecutada ni plenamente aprobada.",
+      "publishable": false,
+      "summary": "La existencia del proyecto de renaturalización de los barrancos del Quisi y Pou Roig, así como la retirada de especies invasoras y su relación con la prevención de inundaciones, está respaldada por fuentes oficiales del Ayuntamiento de Calp. Sin embargo, no se ha encontrado corroboración independiente o documentación primaria accesible que confirme todos los detalles materiales de la propuesta publicada el 30 de octubre: el parque verde de unos 16.000 m², la ampliación concreta del cauce y el presupuesto de contratación de aproximadamente 1,2 millones de euros.",
       "claims": [
         {
-          "claim": "El Ayuntamiento o el municipio de Calp plantea actuar sobre barrancos urbanos para reducir la vulnerabilidad ante inundaciones.",
+          "claim": "El Ayuntamiento de Calp plantea renaturalizar los barrancos del Quisi y Pou Roig para contribuir a reducir el riesgo de inundaciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación afecta principalmente a los barrancos del Quisi y Pou Roig.",
+          "claim": "El proyecto contempla retirar especies invasoras, especialmente la caña Arundo donax, y recuperar vegetación autóctona.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla recuperar o renaturalizar los cauces y crear un espacio verde asociado.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La iniciativa se plantea como una estrategia de prevención frente a lluvias intensas e inundaciones.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La transformación constituye ya un gran parque fluvial aprobado y en ejecución.",
+          "claim": "La propuesta incluye ampliar determinados tramos del cauce mediante el retranqueo de un margen.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La renaturalización, por sí sola, eliminará el riesgo de inundación.",
-          "status": "CONTRADICTED"
+          "claim": "El proyecto contempla crear un parque verde de aproximadamente 16.000 metros cuadrados junto al barranco del Quisi.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La inversión estimada ronda 1,2 millones de euros y la ejecución se plantea a largo plazo.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
+          "evidence": "El Ayuntamiento informa el 23 de marzo de 2026 de que ha redactado un proyecto para regenerar y renaturalizar los tramos urbanos de los barrancos del Quisi y Pou Roig. Señala como objetivos eliminar especies invasoras como la caña, recuperar flora propia del ecosistema fluvial y prevenir inundaciones. También indica que la Confederación Hidrográfica del Júcar autorizó los trabajos en el ámbito municipal.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-renaturalizar%C3%A1-el-tramo-urbano-de-los-barrancos-del-quisi-y-del-pou-roig",
+          "evidence": "La nota municipal de 19 de mayo de 2025 anunció la licitación de la redacción del proyecto de renaturalización, con eliminación de Arundo donax y sustitución por vegetación autóctona para mejorar la seguridad del barranco. No confirma el parque de 16.000 m² ni el presupuesto de 1,2 millones citado en la noticia candidata.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
+          "evidence": "La información municipal de febrero de 2025 describe un proyecto conjunto con Benissa para eliminar cañas invasoras y minimizar el riesgo de desbordamiento. Aporta un presupuesto global distinto, de 2,25 millones de euros para actuaciones en ambos municipios, por lo que no permite confirmar el presupuesto de 1,2 millones de la propuesta candidata.",
+          "source_type": "PRIMARY"
+        },
+        {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12461/cal",
-          "evidence": "Publica el 30 de octubre de 2026 que el Proyecto de Renaturalización del Quisi y Pou Roig propone una transformación progresiva de ambos cauces, recuperación del espacio natural, eliminación de especies invasoras y creación de un parque verde de 16.000 metros cuadrados. Relaciona la iniciativa con la reducción de la vulnerabilidad ante futuras inundaciones y señala que requeriría actuaciones ambientales, urbanísticas, hidráulicas y territoriales a largo plazo.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — Agenda Urbana, Plan de Acción Local",
-          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
-          "evidence": "El documento municipal incluye el proyecto “Renaturalización Barranc del Quisi”. Justifica la actuación por el comportamiento torrencial de los barrancos mediterráneos, la urbanización de sus áreas próximas y la necesidad de mejorar las infraestructuras verdes y azules. El proyecto figura como acción implementada/en curso, con un presupuesto indicativo de 200.000 euros para el barranco del Quisi.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp — agregador de noticias y dossier de prensa",
-          "source_url": "https://calp.es/es/aggregator/sources/7",
-          "evidence": "El agregador municipal recoge en el dossier de prensa del 30 de octubre de 2026 la noticia de COPE Dénia titulada “Calp transforma sus barrancos urbanos en un gran parque fluvial para frenar inundaciones”. Esto confirma que el Ayuntamiento identificó y difundió públicamente ese asunto, aunque el agregador reproduce una referencia de prensa y no constituye por sí solo una memoria técnica del proyecto.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ràdio Litoral",
-          "source_url": "https://radiolitoral.com/2023/11/calp-da-luz-verde-al-plan-de-actuacion-municipal-frente-a-inundaciones/",
-          "evidence": "Informó en 2023 de la aprobación del Plan de Actuación Municipal frente a Inundaciones de Calp y recogió que la creación de un parque inundable para reconducir los aluviones se planteaba como posible solución ante el riesgo de acumulación de agua en la zona baja del municipio. Es una corroboración contextual de la línea municipal de prevención, no una prueba específica de la ejecución del proyecto de renaturalización de 2026.",
+          "source_url": "https://calpdigital.es/art/12461/calp-renaturalizacion-barrancos-quisi-pou-roig-inundaciones",
+          "evidence": "La noticia describe la retirada de cañas, la recuperación de vegetación autóctona, deflectores, un parque verde de aproximadamente 16.000 m², la ampliación de un tramo del cauce y una inversión de contratación cercana a 1,2 millones de euros. Es la fuente candidata y, por tanto, estos detalles no cuentan como corroboración independiente.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente de COPE facilitada no pudo abrirse directamente por restricciones de acceso, aunque su titular aparece recogido en el agregador oficial del Ayuntamiento.",
-        "La evidencia independiente describe un proyecto o propuesta a largo plazo, no una transformación ya terminada.",
-        "La denominación “gran parque fluvial” debe emplearse con cautela: las fuentes técnicas y locales hablan de renaturalización de los barrancos y de un parque verde de 16.000 metros cuadrados.",
-        "El propio relato publicado por Calp Digital advierte de que la renaturalización no resolvería por sí sola el riesgo y que serían necesarias actuaciones hidráulicas y territoriales de mayor alcance."
+        "Las fuentes oficiales encontradas confirman el proyecto general, pero no los detalles técnicos y económicos más específicos de la noticia del 30 de octubre de 2026.",
+        "La documentación municipal anterior menciona importes y ámbitos diferentes, por lo que debe verificarse si el presupuesto de 1,2 millones corresponde a una fase o proyecto actualizado.",
+        "No se ha localizado un expediente técnico, acuerdo de contratación o comunicado oficial que confirme el parque de 16.000 m² y la ampliación concreta del cauce."
       ],
-      "id": "inv_f268376f1029188f",
-      "investigated_at": "2026-10-31T12:34:48.664Z",
+      "id": "inv_3a84c91873a1f89b",
+      "investigated_at": "2026-10-31T17:46:04.280Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
+      "title": "Arranca la campaña Bono Comercio Calp 2026, con compra y canje del 6 al 20 de noviembre",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La campaña Bono Comercio Calp 2026 está confirmada por el Ayuntamiento de Calp, AEMCO y la Base de Datos Nacional de Subvenciones. Las fechas, la subvención del 50 %, los importes de los bonos y la dotación municipal de 230.000 euros están suficientemente respaldados.",
+      "claims": [
+        {
+          "claim": "La compra y el canje de los bonos se realizarán del 6 al 20 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los comercios podrán adherirse del 4 al 20 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las personas empadronadas podrán adquirir bonos subvencionados al 50 %, con valores nominales de 20, 50 y 100 euros.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento de Calp destina 230.000 euros a la campaña.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp — Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/page/4/",
+          "evidence": "El Ayuntamiento anuncia el 30 de octubre de 2026 una campaña Bono Comercio que permitirá adquirir bonos de 20, 50 y 100 euros subvencionados al 50 %. Fija el periodo de compra y canje del 6 al 20 de noviembre, la inscripción de establecimientos del 4 al 20 de noviembre y una aportación municipal de 230.000 euros.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Base de Datos Nacional de Subvenciones",
+          "source_url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+          "evidence": "La convocatoria oficial del Ayuntamiento de Calp figura con el título Campaña Bono Comercio del Ayuntamiento de Calp 2026, una dotación presupuestaria total de 230.000 euros y fecha de registro de 23 de octubre de 2026.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "AEMCO — Empresarios de Calpe",
+          "source_url": "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/",
+          "evidence": "AEMCO concreta que la adhesión de establecimientos será del 4 al 20 de noviembre y la compra y canje de bonos del 6 al 20 de noviembre. También detalla los bonos de 20, 50 y 100 euros, la subvención del 50 % y la aportación municipal de 230.000 euros.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La campaña está anunciada para fechas futuras respecto a la fecha de investigación, por lo que la comprobación acredita la convocatoria, no que la compra o el canje ya hayan comenzado.",
+        "La disponibilidad efectiva puede quedar condicionada al agotamiento de existencias y a las bases de la convocatoria."
+      ],
+      "id": "inv_167bb41aa6780cdc",
+      "investigated_at": "2026-10-31T17:46:04.280Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
+      "title": "Calp organiza un taller universitario para aprender a automatizar procesos con inteligencia artificial",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "El taller está confirmado por la agenda oficial de la Universidad de Alicante y por los canales oficiales del Ayuntamiento y de la Seu Universitària de Calp. Coinciden el título, las cinco sesiones de noviembre, el lugar y la colaboración institucional. Las fuentes oficiales describen contenidos prácticos de inteligencia artificial, automatización, captura y análisis de datos y toma de decisiones.",
+      "claims": [
+        {
+          "claim": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan conjuntamente el taller.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El taller se celebrará los días 3, 5, 10, 12 y 19 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Las sesiones serán presenciales en el Aula 2 de la Seu Universitària de Calp, en Casa Nova.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El contenido aborda la automatización de procesos, la captura y análisis de datos, la toma de decisiones y la ejecución automática de tareas.",
+          "status": "SUPPORTED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "Universidad de Alicante — Agenda Universitaria",
+          "source_url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+          "evidence": "La agenda oficial de la Universidad de Alicante registra el taller con las fechas 3, 5, 10, 12 y 19 de noviembre de 2026, horario de 17:00 a 20:00, y ubicación en el Aula 2 de la Seu Universitària de Calp — Casa Nova. Identifica además a cuatro ponentes vinculados a la UA.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+          "evidence": "El calendario municipal confirma el título del taller, las cinco fechas de noviembre de 2026, el horario, el lugar, la participación de especialistas de la Universidad de Alicante y la inscripción gratuita.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Universidad de Alicante — Seu Universitària de Calp",
+          "source_url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+          "evidence": "La página oficial de la Seu Universitària de Calp incluye el taller en su agenda de noviembre de 2026 y detalla las fechas, el horario, el lugar y los cuatro ponentes de la UA.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica",
+          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+          "evidence": "El Ayuntamiento describe el taller como una formación práctica sobre inteligencia artificial aplicada, con contenidos de captura de datos, análisis inteligente, toma de decisiones y ejecución automática de procesos. También confirma la colaboración entre la Seu Universitària, el Ayuntamiento y la Universidad de Alicante.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+        "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+      ],
+      "id": "inv_8c3d852c9d8a718a",
+      "investigated_at": "2026-10-31T17:46:04.280Z",
       "model": "gpt-5.6-luna"
     }
   ]

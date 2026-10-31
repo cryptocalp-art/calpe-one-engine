@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-31T12:35:37.843Z",
+  "generated_at": "2026-10-31T17:47:07.823Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-31T12:35:37.628Z",
+  "last_activity": "2026-10-31T17:47:07.610Z",
   "newspaper": {
-    "archive_total": 133,
-    "published_today": 0,
-    "published_last_7_days": 15,
+    "archive_total": 134,
+    "published_today": 1,
+    "published_last_7_days": 16,
     "categories": {
-      "SOCIEDAD": 16,
+      "SOCIEDAD": 17,
       "TURISMO": 13,
       "LOCAL": 18,
       "SUCESOS": 22,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_837ecb842124660c",
+        "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
+        "category": "SOCIEDAD",
+        "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
+        "published_at": "2026-10-31T17:46:37.868Z"
+      },
       {
         "archive_id": "arc_ebbba72c49c7c33c",
         "title": "La comunidad educativa de la Marina Alta se concentra en apoyo a las víctimas de la DANA y por la escuela pública",
@@ -69,23 +76,16 @@
         "category": "TURISMO",
         "slug": "calp-presenta-campana-un-mismo-asfalto-mismo-respeto",
         "published_at": "2026-10-27T21:22:31.629Z"
-      },
-      {
-        "archive_id": "arc_8425c617f9e75099",
-        "title": "César Sánchez ocupa el número dos del PP por Alicante al Congreso",
-        "category": "POLITICA",
-        "slug": "cesar-sanchez-numero-dos-pp-alicante-congreso",
-        "published_at": "2026-10-27T21:22:31.629Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 6,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 0,
-    "quarantined": 1,
-    "archive_added": 0
+    "drafts": 2,
+    "eligible": 2,
+    "quarantined": 0,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,15 +104,5 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": [
-    {
-      "draft_id": "drf_6e7370d2e7720ea4",
-      "slug": "calp-renaturaliza-barrancos-quisi-pou-roig-inundaciones",
-      "category": "MEDIO_AMBIENTE",
-      "reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ],
-      "evaluated_at": "2026-10-31T12:35:24.775Z"
-    }
-  ]
+  "quarantine": []
 }

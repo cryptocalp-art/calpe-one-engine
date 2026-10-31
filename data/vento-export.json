@@ -3,26 +3,283 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-31T12:35:24.941Z",
+  "generated_at": "2026-10-31T17:46:49.926Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
-  "ready_count": 0,
-  "quarantined_count": 1,
-  "ready": [],
-  "quarantined": [
+  "drafts_seen": 2,
+  "ready_count": 2,
+  "quarantined_count": 0,
+  "ready": [
     {
-      "export_id": "exp_360b376ebd64c761",
-      "draft_id": "drf_6e7370d2e7720ea4",
-      "investigation_id": "inv_f268376f1029188f",
-      "slug": "calp-renaturaliza-barrancos-quisi-pou-roig-inundaciones",
-      "reasons": [
-        "quality_gate_not_eligible"
-      ],
-      "quality_gate_status": "QUARANTINED",
-      "quality_gate_reasons": [
-        "CONTRADICTED_CLAIM_PRESENT"
-      ]
+      "export_id": "exp_126e9a14ecbeb795",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-31T17:46:49.926Z",
+      "source_draft_id": "drf_cf1df476caebd7c1",
+      "source_investigation_id": "inv_167bb41aa6780cdc",
+      "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
+      "quality_gate_id": "qg_421f64955d43a6c0",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_cf1df476caebd7c1",
+        "investigation_id": "inv_167bb41aa6780cdc",
+        "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
+        "title": "Calp programa del 6 al 20 de noviembre la campaña Bono Comercio 2026",
+        "subtitle": "Los bonos, subvencionados al 50 %, tendrán valores nominales de 20, 50 y 100 euros; el Ayuntamiento destina 230.000 euros",
+        "summary": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos subvencionados entre el 6 y el 20 de noviembre de 2026, según la información difundida por el Ayuntamiento de Calp y la documentación oficial de la convocatoria. Los establecimientos podrán adherirse a la iniciativa del 4 al 20 de noviembre.",
+        "body": "El Ayuntamiento de Calp ha confirmado la convocatoria de la campaña Bono Comercio 2026, una iniciativa que contempla bonos subvencionados al 50 % para las personas empadronadas. Los bonos tendrán valores nominales de 20, 50 y 100 euros y podrán adquirirse y canjearse entre el 6 y el 20 de noviembre de 2026.\n\nLa adhesión de los comercios participantes estará abierta del 4 al 20 de noviembre. De este modo, el periodo para que los establecimientos se incorporen a la campaña comenzará antes que el previsto para la compra y el canje de los bonos, de acuerdo con el calendario comunicado por las entidades promotoras.\n\nLa aportación municipal prevista para la campaña asciende a 230.000 euros. Esta dotación también figura en la convocatoria registrada en la Base de Datos Nacional de Subvenciones, bajo el título «Campaña Bono Comercio del Ayuntamiento de Calp 2026».\n\nLa información ha sido difundida por el Ayuntamiento y por AEMCO —Empresarios de Calpe—, mientras que la convocatoria oficial recoge la dotación presupuestaria de la iniciativa. Las fuentes consultadas coinciden en las fechas, los importes nominales de los bonos y el porcentaje de subvención.\n\nLa convocatoria corresponde a un calendario posterior al 31 de octubre, fecha de redacción de esta información. Por tanto, los datos disponibles acreditan que la campaña ha sido anunciada y convocada, pero no que la compra o el canje hayan comenzado ya. La disponibilidad efectiva de los bonos puede estar condicionada al agotamiento de existencias y a lo establecido en las bases de la convocatoria.",
+        "category": "ECONOMIA",
+        "slug": "calp-bono-comercio-2026-noviembre",
+        "seo_title": "Calp programa el Bono Comercio 2026 del 6 al 20 de noviembre",
+        "meta_description": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos al 50 % del 6 al 20 de noviembre. El Ayuntamiento aporta 230.000 euros.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_421f64955d43a6c0",
+        "editorial_notes": [
+          "La campaña se desarrollará en fechas posteriores a la redacción; no afirmar que la compra o el canje ya han comenzado.",
+          "Indicar que la disponibilidad puede depender del agotamiento de existencias y de las bases de la convocatoria."
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — Calp Comunica",
+            "url": "https://calpcomunica.calp.es/page/4/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Base de Datos Nacional de Subvenciones",
+            "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "AEMCO — Empresarios de Calpe",
+            "url": "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/",
+            "type": "SECONDARY"
+          }
+        ],
+        "source_urls": [
+          "https://calpcomunica.calp.es/page/4/",
+          "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+          "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La campaña está anunciada para fechas futuras respecto a la fecha de investigación, por lo que la comprobación acredita la convocatoria, no que la compra o el canje ya hayan comenzado.",
+            "La disponibilidad efectiva puede quedar condicionada al agotamiento de existencias y a las bases de la convocatoria."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_421f64955d43a6c0",
+          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-31T17:46:37.868Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_cf1df476caebd7c1",
+        "title": "Calp programa del 6 al 20 de noviembre la campaña Bono Comercio 2026",
+        "slug": "calp-bono-comercio-2026-noviembre",
+        "summary": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos subvencionados entre el 6 y el 20 de noviembre de 2026, según la información difundida por el Ayuntamiento de Calp y la documentación oficial de la convocatoria. Los establecimientos podrán adherirse a la iniciativa del 4 al 20 de noviembre.",
+        "body": "El Ayuntamiento de Calp ha confirmado la convocatoria de la campaña Bono Comercio 2026, una iniciativa que contempla bonos subvencionados al 50 % para las personas empadronadas. Los bonos tendrán valores nominales de 20, 50 y 100 euros y podrán adquirirse y canjearse entre el 6 y el 20 de noviembre de 2026.\n\nLa adhesión de los comercios participantes estará abierta del 4 al 20 de noviembre. De este modo, el periodo para que los establecimientos se incorporen a la campaña comenzará antes que el previsto para la compra y el canje de los bonos, de acuerdo con el calendario comunicado por las entidades promotoras.\n\nLa aportación municipal prevista para la campaña asciende a 230.000 euros. Esta dotación también figura en la convocatoria registrada en la Base de Datos Nacional de Subvenciones, bajo el título «Campaña Bono Comercio del Ayuntamiento de Calp 2026».\n\nLa información ha sido difundida por el Ayuntamiento y por AEMCO —Empresarios de Calpe—, mientras que la convocatoria oficial recoge la dotación presupuestaria de la iniciativa. Las fuentes consultadas coinciden en las fechas, los importes nominales de los bonos y el porcentaje de subvención.\n\nLa convocatoria corresponde a un calendario posterior al 31 de octubre, fecha de redacción de esta información. Por tanto, los datos disponibles acreditan que la campaña ha sido anunciada y convocada, pero no que la compra o el canje hayan comenzado ya. La disponibilidad efectiva de los bonos puede estar condicionada al agotamiento de existencias y a lo establecido en las bases de la convocatoria.",
+        "category": "ECONOMIA",
+        "seo_title": "Calp programa el Bono Comercio 2026 del 6 al 20 de noviembre",
+        "meta_description": "La campaña Bono Comercio Calp 2026 permitirá comprar y canjear bonos al 50 % del 6 al 20 de noviembre. El Ayuntamiento aporta 230.000 euros.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_421f64955d43a6c0",
+        "published_at": null,
+        "source_urls": [
+          "https://calpcomunica.calp.es/page/4/",
+          "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+          "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/"
+        ],
+        "sources": [
+          {
+            "name": "Ayuntamiento de Calp — Calp Comunica",
+            "url": "https://calpcomunica.calp.es/page/4/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Base de Datos Nacional de Subvenciones",
+            "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/937408",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "AEMCO — Empresarios de Calpe",
+            "url": "https://empresarioscalpe.es/2026/10/30/campana-bono-comercio-calp-2026/",
+            "type": "SECONDARY"
+          }
+        ],
+        "investigation_id": "inv_167bb41aa6780cdc",
+        "candidate_fingerprint": "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 3,
+          "caveats": [
+            "La campaña está anunciada para fechas futuras respecto a la fecha de investigación, por lo que la comprobación acredita la convocatoria, no que la compra o el canje ya hayan comenzado.",
+            "La disponibilidad efectiva puede quedar condicionada al agotamiento de existencias y a las bases de la convocatoria."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_421f64955d43a6c0",
+          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_5895760452dbc63c",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-10-31T17:46:49.926Z",
+      "source_draft_id": "drf_04e3ff1e70ad1874",
+      "source_investigation_id": "inv_8c3d852c9d8a718a",
+      "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
+      "quality_gate_id": "qg_3a7b2502171a11b4",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_04e3ff1e70ad1874",
+        "investigation_id": "inv_8c3d852c9d8a718a",
+        "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
+        "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
+        "subtitle": "La formación tendrá cinco sesiones presenciales en la Seu Universitària y abordará la captura y el análisis de datos, la toma de decisiones y la ejecución automática de tareas",
+        "summary": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan un taller sobre la aplicación práctica de la inteligencia artificial a la automatización de procesos. La actividad se desarrollará los días 3, 5, 10, 12 y 19 de noviembre de 2026 en el Aula 2 de la Seu Universitària, en Casa Nova.",
+        "body": "Calp acogerá durante noviembre un taller universitario centrado en el uso práctico de la inteligencia artificial para automatizar procesos. La actividad está organizada conjuntamente por la Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante, según las agendas y comunicaciones oficiales de estas instituciones.\n\nEl programa se celebrará en cinco sesiones, previstas para los días 3, 5, 10, 12 y 19 de noviembre de 2026. Todas tendrán lugar de forma presencial en el Aula 2 de la Seu Universitària de Calp, ubicada en Casa Nova, y el horario anunciado es de 17:00 a 20:00 horas.\n\nLos contenidos incluyen la captura de datos, su análisis inteligente, la toma de decisiones y la ejecución automática de procesos. El taller también aborda la automatización de tareas y sus aplicaciones prácticas, de acuerdo con la descripción publicada por el Ayuntamiento.\n\nLa Universidad de Alicante identifica a cuatro ponentes vinculados a la institución para esta actividad. Las fuentes oficiales consultadas coinciden en el título del taller, las cinco fechas, el horario, el lugar y la colaboración entre las tres entidades organizadoras. El calendario municipal señala además que la inscripción es gratuita.\n\nLa programación está prevista para fechas posteriores al 31 de octubre de 2026. Por ello, la información disponible confirma la convocatoria y el calendario anunciado, pero no permite afirmar que las sesiones se hayan celebrado. El contenido se describe aquí conforme a la información institucional: captura de datos, análisis inteligente, toma de decisiones y ejecución automática de tareas.",
+        "category": "SOCIEDAD",
+        "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
+        "seo_title": "Calp acogerá un taller universitario sobre IA en noviembre",
+        "meta_description": "La Seu Universitària, el Ayuntamiento y la UA organizan cinco sesiones presenciales sobre inteligencia artificial y automatización en noviembre.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_3a7b2502171a11b4",
+        "editorial_notes": [
+          "Las fuentes acreditan la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+          "Mantener la descripción de contenidos vinculada a las fuentes oficiales: captura y análisis de datos, toma de decisiones y ejecución automática de procesos."
+        ],
+        "sources": [
+          {
+            "name": "Universidad de Alicante — Agenda Universitaria",
+            "url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Universidad de Alicante — Seu Universitària de Calp",
+            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica",
+            "url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+          "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+          "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+          "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+            "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_3a7b2502171a11b4",
+          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-10-31T17:46:37.868Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_04e3ff1e70ad1874",
+        "title": "Calp acogerá en noviembre un taller universitario sobre automatización con inteligencia artificial",
+        "slug": "calp-taller-universitario-inteligencia-artificial-noviembre",
+        "summary": "La Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante organizan un taller sobre la aplicación práctica de la inteligencia artificial a la automatización de procesos. La actividad se desarrollará los días 3, 5, 10, 12 y 19 de noviembre de 2026 en el Aula 2 de la Seu Universitària, en Casa Nova.",
+        "body": "Calp acogerá durante noviembre un taller universitario centrado en el uso práctico de la inteligencia artificial para automatizar procesos. La actividad está organizada conjuntamente por la Seu Universitària de Calp, el Ayuntamiento y la Universidad de Alicante, según las agendas y comunicaciones oficiales de estas instituciones.\n\nEl programa se celebrará en cinco sesiones, previstas para los días 3, 5, 10, 12 y 19 de noviembre de 2026. Todas tendrán lugar de forma presencial en el Aula 2 de la Seu Universitària de Calp, ubicada en Casa Nova, y el horario anunciado es de 17:00 a 20:00 horas.\n\nLos contenidos incluyen la captura de datos, su análisis inteligente, la toma de decisiones y la ejecución automática de procesos. El taller también aborda la automatización de tareas y sus aplicaciones prácticas, de acuerdo con la descripción publicada por el Ayuntamiento.\n\nLa Universidad de Alicante identifica a cuatro ponentes vinculados a la institución para esta actividad. Las fuentes oficiales consultadas coinciden en el título del taller, las cinco fechas, el horario, el lugar y la colaboración entre las tres entidades organizadoras. El calendario municipal señala además que la inscripción es gratuita.\n\nLa programación está prevista para fechas posteriores al 31 de octubre de 2026. Por ello, la información disponible confirma la convocatoria y el calendario anunciado, pero no permite afirmar que las sesiones se hayan celebrado. El contenido se describe aquí conforme a la información institucional: captura de datos, análisis inteligente, toma de decisiones y ejecución automática de tareas.",
+        "category": "SOCIEDAD",
+        "seo_title": "Calp acogerá un taller universitario sobre IA en noviembre",
+        "meta_description": "La Seu Universitària, el Ayuntamiento y la UA organizan cinco sesiones presenciales sobre inteligencia artificial y automatización en noviembre.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_3a7b2502171a11b4",
+        "published_at": null,
+        "source_urls": [
+          "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+          "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+          "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+          "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val"
+        ],
+        "sources": [
+          {
+            "name": "Universidad de Alicante — Agenda Universitaria",
+            "url": "https://cvnet.cpd.ua.es/AgendaUA/V/218880?agenda=0&credits=False&enLaUa=True&materia=0&rangoFechas=&terminoBusqueda=",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp",
+            "url": "https://www.calp.es/es/casanova/seu/calendario-actividades-anual/2026",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Universidad de Alicante — Seu Universitària de Calp",
+            "url": "https://web.ua.es/es/seus/calp/sede-universitaria-calp.html",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Calp Comunica",
+            "url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%A4%96-taller-de-la-teoria-a-la-practica-automatiza-tus-procesos-con-ia-en-la-seu-universitaria-de-calp/?lang=va-val",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_8c3d852c9d8a718a",
+        "candidate_fingerprint": "236602590d5708fdde1044379a6c582e42f0f7eb172058f352ab0bc85e906093",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "HIGH",
+          "supported_claim_count": 4,
+          "evidence_count": 4,
+          "caveats": [
+            "Las fuentes confirman la convocatoria y programación, no la celebración efectiva de las sesiones, que son posteriores al 31 de octubre de 2026.",
+            "El candidato resume los contenidos como automatización, análisis de datos y aplicaciones prácticas; las fuentes oficiales los describen con mayor precisión como captura de datos, análisis inteligente, toma de decisiones y ejecución automática."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_3a7b2502171a11b4",
+          "quality_gate_evaluated_at": "2026-10-31T17:46:49.766Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
     }
-  ]
+  ],
+  "quarantined": []
 }
