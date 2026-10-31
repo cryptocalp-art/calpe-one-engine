@@ -2,13 +2,13 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-10-31T05:46:02.813Z",
+  "generated_at": "2026-10-31T12:35:37.843Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-10-31T05:46:02.626Z",
+  "last_activity": "2026-10-31T12:35:37.628Z",
   "newspaper": {
     "archive_total": 133,
     "published_today": 0,
-    "published_last_7_days": 16,
+    "published_last_7_days": 15,
     "categories": {
       "SOCIEDAD": 16,
       "TURISMO": 13,
@@ -82,9 +82,9 @@
   "editorial_cycle": {
     "radar_candidates": 5,
     "investigated": 0,
-    "drafts": 0,
+    "drafts": 1,
     "eligible": 0,
-    "quarantined": 0,
+    "quarantined": 1,
     "archive_added": 0
   },
   "delivery": {
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_6e7370d2e7720ea4",
+      "slug": "calp-renaturaliza-barrancos-quisi-pou-roig-inundaciones",
+      "category": "MEDIO_AMBIENTE",
+      "reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ],
+      "evaluated_at": "2026-10-31T12:35:24.775Z"
+    }
+  ]
 }

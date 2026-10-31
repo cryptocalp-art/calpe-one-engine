@@ -1,144 +1,77 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-31T05:45:18.152Z",
+  "generated_at": "2026-10-31T12:34:48.664Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "f64860727b69a5db8b9437e5c1d3c98a17493f9c56932d6755423d2b6384b32c",
-      "title": "Calp proyecta renaturalizar sus barrancos para reducir el riesgo de inundaciones",
-      "status": "NEEDS_RESEARCH",
+      "candidate_fingerprint": "3f5411d4231b3703ec51998df2efe1482bedbf70401f8fb7477b61a8f0b99522",
+      "title": "Calp proyecta transformar sus barrancos urbanos en un gran parque fluvial para reducir el riesgo de inundaciones",
+      "status": "VERIFIED",
       "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La existencia del proyecto de renaturalización de los barrancos del Quisi y Pou Roig, la retirada de cañas invasoras, la recuperación de flora autóctona y su finalidad preventiva frente a inundaciones están respaldadas por una fuente oficial del Ayuntamiento de Calp. Sin embargo, no se ha localizado una fuente independiente o un documento primario que confirme los datos más concretos de la propuesta difundida: el parque de aproximadamente 16.000 metros cuadrados junto a Los Jazmines, el presupuesto de contratación de unos 1,2 millones de euros y la ejecución en cuatro fases. La información no debe publicarse como plenamente verificada sin confirmar esos extremos.",
+      "publishable": true,
+      "summary": "La información está suficientemente respaldada en sus elementos esenciales: Calp ha planteado un proyecto de renaturalización de los barrancos del Quisi y Pou Roig, con recuperación de cauces y creación de espacios verdes, como estrategia preventiva frente a inundaciones. La expresión “gran parque fluvial” corresponde al enfoque periodístico del titular; las fuentes consultadas describen con mayor precisión una renaturalización progresiva y un parque verde, no una obra ya ejecutada ni plenamente aprobada.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha redactado un proyecto para regenerar y renaturalizar los barrancos del Quisi y Pou Roig.",
+          "claim": "El Ayuntamiento o el municipio de Calp plantea actuar sobre barrancos urbanos para reducir la vulnerabilidad ante inundaciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla eliminar cañas invasoras y recuperar vegetación autóctona.",
+          "claim": "La actuación afecta principalmente a los barrancos del Quisi y Pou Roig.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación pretende contribuir a prevenir o reducir el riesgo de inundaciones.",
+          "claim": "El proyecto contempla recuperar o renaturalizar los cauces y crear un espacio verde asociado.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto incluye un parque verde de aproximadamente 16.000 metros cuadrados junto a la urbanización Los Jazmines.",
+          "claim": "La iniciativa se plantea como una estrategia de prevención frente a lluvias intensas e inundaciones.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La transformación constituye ya un gran parque fluvial aprobado y en ejecución.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La actuación prevé ampliar la sección del barranco del Quisi en la zona del parque.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La inversión estimada ronda 1,2 millones de euros.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "La ejecución se plantea en cuatro fases y durante varios años.",
-          "status": "UNVERIFIED"
+          "claim": "La renaturalización, por sí sola, eliminará el riesgo de inundación.",
+          "status": "CONTRADICTED"
         }
       ],
       "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
-          "evidence": "El Ayuntamiento informa de que ha redactado un proyecto de regeneración y renaturalización de los tramos urbanos del Quisi y Pou Roig. La actuación contempla eliminar la especie invasora Arundo donax, recuperar flora propia del ecosistema fluvial y regenerar ambientalmente una zona verde de la partida Pla Roig I. La Confederación Hidrográfica del Júcar autorizó los trabajos en el ámbito urbano y el Ayuntamiento los vincula a la prevención de futuras inundaciones.",
-          "source_type": "PRIMARY"
-        },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12461/calp-renaturalizacion-barrancos-quisi-pou-roig-inundaciones",
-          "evidence": "La noticia describe la propuesta presentada durante las jornadas Calp Blau e incluye los datos del parque de 16.000 metros cuadrados junto a Los Jazmines, la ampliación de la sección del barranco, el presupuesto de contratación aproximado de 1,2 millones de euros y la organización en cuatro fases. No constituye corroboración independiente del propio contenido candidato.",
+          "source_url": "https://calpdigital.es/art/12461/cal",
+          "evidence": "Publica el 30 de octubre de 2026 que el Proyecto de Renaturalización del Quisi y Pou Roig propone una transformación progresiva de ambos cauces, recuperación del espacio natural, eliminación de especies invasoras y creación de un parque verde de 16.000 metros cuadrados. Relaciona la iniciativa con la reducción de la vulnerabilidad ante futuras inundaciones y señala que requeriría actuaciones ambientales, urbanísticas, hidráulicas y territoriales a largo plazo.",
           "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "La fuente oficial localizada es de marzo de 2026 y confirma el proyecto general, pero no los datos presupuestarios y de ejecución incluidos en la información de octubre.",
-        "La fuente secundaria parece ser la principal —y, en la búsqueda realizada, única— base para las cifras de 16.000 metros cuadrados, 1,2 millones de euros y cuatro fases.",
-        "Conviene solicitar o localizar el proyecto técnico, presupuesto, acuerdo municipal o presentación oficial de las jornadas Calp Blau antes de elevar el estado a VERIFIED."
-      ],
-      "id": "inv_183479d60cbd1533",
-      "investigated_at": "2026-10-31T05:45:18.152Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "2a7614c986d9a66c541ab5b26181878fdcc49b2fc0f08c8ff1daf60d21c0e564",
-      "title": "El Consorci MARE prepara más de 400 acciones de reciclaje en 52 municipios",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "Está confirmada oficialmente la preparación de una campaña de educación ambiental del Consorci MARE para sus 52 municipios durante 2026, con visitas al Complejo Ambiental de El Campello y acciones en centros educativos y municipios. La cifra concreta difundida —más de 400 acciones, 178 actividades escolares para más de 4.500 estudiantes y 144 acciones informativas— aparece reproducida por varios medios, pero no se ha localizado una comunicación oficial del Consorci MARE que confirme esos números concretos. Además, una comunicación oficial anterior de agosto de 2026 fijaba inicialmente un mínimo de 260 acciones, por lo que es necesario aclarar si hubo una ampliación posterior del programa.",
-      "claims": [
-        {
-          "claim": "El Consorci MARE desarrolla la campaña «El futuro empieza cada día».",
-          "status": "SUPPORTED"
         },
         {
-          "claim": "La campaña se dirige a los 52 municipios gestionados por el Consorci MARE.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La programación se desarrolla durante octubre y noviembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La campaña contempla visitas al Complejo Ambiental de El Campello y actividades educativas e informativas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La campaña suma más de 400 acciones.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Se han programado 178 actividades educativas para más de 4.500 escolares.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "Se realizarán unas 60 visitas al Complejo Ambiental de El Campello.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Se realizarán 144 acciones informativas o de street marketing en la calle.",
-          "status": "UNVERIFIED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Consorci MARE",
-          "source_url": "https://consorciomare.es/2026/08/26/el-consorci-mare-destinara-mas-de-220-000-euros-a-una-campana-de-educacion-ambiental-con-el-apoyo-de-la-generalitat-valenciana/",
-          "evidence": "La entidad oficial informa de una nueva campaña de educación ambiental para los 52 municipios, con acciones en centros escolares, actuaciones en los municipios y 60 visitas guiadas al Complejo Ambiental de El Campello. La comunicación de agosto fija como mínimo 104 actividades escolares, 104 actuaciones municipales y 60 visitas, es decir, más de 260 acciones, pero no menciona las cifras posteriores de 178 actividades y 144 acciones.",
+          "source_name": "Ayuntamiento de Calp — Agenda Urbana, Plan de Acción Local",
+          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
+          "evidence": "El documento municipal incluye el proyecto “Renaturalización Barranc del Quisi”. Justifica la actuación por el comportamiento torrencial de los barrancos mediterráneos, la urbanización de sus áreas próximas y la necesidad de mejorar las infraestructuras verdes y azules. El proyecto figura como acción implementada/en curso, con un presupuesto indicativo de 200.000 euros para el barranco del Quisi.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Vist Nova",
-          "source_url": "https://www.vistanova.tv/noticias/i/98510380/el-futuro-empieza-cada-dia-el-consorci-mare-impulsa-mas-de-400-acciones-para-fomentar-el-reciclaje",
-          "evidence": "La publicación atribuye al Consorci MARE una campaña en 52 municipios con más de 400 actuaciones, 178 actividades educativas para más de 4.500 estudiantes, unas 60 visitas al complejo y 144 acciones de street marketing. Su contenido coincide sustancialmente con otras publicaciones de medios locales y parece reproducir una nota o presentación de la campaña.",
-          "source_type": "SECONDARY"
+          "source_name": "Ayuntamiento de Calp — agregador de noticias y dossier de prensa",
+          "source_url": "https://calp.es/es/aggregator/sources/7",
+          "evidence": "El agregador municipal recoge en el dossier de prensa del 30 de octubre de 2026 la noticia de COPE Dénia titulada “Calp transforma sus barrancos urbanos en un gran parque fluvial para frenar inundaciones”. Esto confirma que el Ayuntamiento identificó y difundió públicamente ese asunto, aunque el agregador reproduce una referencia de prensa y no constituye por sí solo una memoria técnica del proyecto.",
+          "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/27/consorci-mare-futuro-cada-dia-campana-400-acciones-reciclaje-educacion-ambiental/",
-          "evidence": "Describe la campaña en los 52 municipios y confirma las cifras de 178 actividades escolares, más de 4.500 escolares, unas 60 visitas al Complejo Ambiental de El Campello y 144 acciones de street marketing. No aporta un documento primario distinto de la comunicación del Consorci.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Dénia Digital",
-          "source_url": "https://deniadigital.es/art/23375/art/23335/denia-orden-confinamiento-generalitat-lluvias-inundaciones",
-          "evidence": "Informa de la campaña de reciclaje del Consorci MARE en 52 municipios durante octubre y noviembre de 2026, pero en el texto localizado no detalla todas las cifras de 178 actividades y 144 acciones.",
+          "source_name": "Ràdio Litoral",
+          "source_url": "https://radiolitoral.com/2023/11/calp-da-luz-verde-al-plan-de-actuacion-municipal-frente-a-inundaciones/",
+          "evidence": "Informó en 2023 de la aprobación del Plan de Actuación Municipal frente a Inundaciones de Calp y recogió que la creación de un parque inundable para reconducir los aluviones se planteaba como posible solución ante el riesgo de acumulación de agua en la zona baja del municipio. Es una corroboración contextual de la línea municipal de prevención, no una prueba específica de la ejecución del proyecto de renaturalización de 2026.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las coincidencias entre los medios locales pueden proceder de una misma nota de prensa y no constituyen por sí solas corroboración independiente.",
-        "La comunicación oficial del 26 de agosto de 2026 hablaba de un mínimo de 260 acciones, mientras que las informaciones posteriores elevan el programa a más de 400; falta localizar la modificación, adjudicación o presentación oficial que explique la diferencia.",
-        "La cifra de 60 visitas sí aparece en la fuente oficial; las cifras de 178 actividades, 144 acciones y más de 4.500 escolares requieren confirmación primaria para considerar verificado el resumen completo."
+        "La fuente de COPE facilitada no pudo abrirse directamente por restricciones de acceso, aunque su titular aparece recogido en el agregador oficial del Ayuntamiento.",
+        "La evidencia independiente describe un proyecto o propuesta a largo plazo, no una transformación ya terminada.",
+        "La denominación “gran parque fluvial” debe emplearse con cautela: las fuentes técnicas y locales hablan de renaturalización de los barrancos y de un parque verde de 16.000 metros cuadrados.",
+        "El propio relato publicado por Calp Digital advierte de que la renaturalización no resolvería por sí sola el riesgo y que serían necesarias actuaciones hidráulicas y territoriales de mayor alcance."
       ],
-      "id": "inv_91f6edabb662e7c5",
-      "investigated_at": "2026-10-31T05:45:18.152Z",
+      "id": "inv_f268376f1029188f",
+      "investigated_at": "2026-10-31T12:34:48.664Z",
       "model": "gpt-5.6-luna"
     }
   ]

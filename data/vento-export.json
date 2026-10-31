@@ -3,12 +3,26 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-10-31T05:45:49.576Z",
+  "generated_at": "2026-10-31T12:35:24.941Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 0,
+  "drafts_seen": 1,
   "ready_count": 0,
-  "quarantined_count": 0,
+  "quarantined_count": 1,
   "ready": [],
-  "quarantined": []
+  "quarantined": [
+    {
+      "export_id": "exp_360b376ebd64c761",
+      "draft_id": "drf_6e7370d2e7720ea4",
+      "investigation_id": "inv_f268376f1029188f",
+      "slug": "calp-renaturaliza-barrancos-quisi-pou-roig-inundaciones",
+      "reasons": [
+        "quality_gate_not_eligible"
+      ],
+      "quality_gate_status": "QUARANTINED",
+      "quality_gate_reasons": [
+        "CONTRADICTED_CLAIM_PRESENT"
+      ]
+    }
+  ]
 }

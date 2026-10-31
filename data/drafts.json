@@ -1,8 +1,66 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-10-31T05:45:49.300Z",
+  "generated_at": "2026-10-31T12:35:15.399Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_6e7370d2e7720ea4",
+      "investigation_id": "inv_f268376f1029188f",
+      "candidate_fingerprint": "3f5411d4231b3703ec51998df2efe1482bedbf70401f8fb7477b61a8f0b99522",
+      "category": "MEDIO_AMBIENTE",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-10-31T12:35:15.399Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp plantea renaturalizar los barrancos del Quisi y Pou Roig frente al riesgo de inundaciones",
+      "subheadline": "El proyecto contempla recuperar los cauces y crear un parque verde de 16.000 metros cuadrados, dentro de una actuación prevista a largo plazo.",
+      "lead": "El Ayuntamiento de Calp plantea actuar sobre los barrancos urbanos del Quisi y Pou Roig mediante un proyecto de renaturalización orientado a reducir la vulnerabilidad del municipio ante lluvias intensas e inundaciones. La iniciativa contempla recuperar los cauces, mejorar el espacio natural y crear zonas verdes asociadas, pero no supone una transformación ya terminada.",
+      "body_markdown": "El proyecto de renaturalización de los barrancos del Quisi y Pou Roig propone una transformación progresiva de estos cauces urbanos. Entre las actuaciones previstas figuran la recuperación del espacio natural, la eliminación de especies invasoras y la creación de un parque verde de 16.000 metros cuadrados.\n\nLa iniciativa se plantea como una medida de prevención frente al comportamiento torrencial de los barrancos mediterráneos y a la urbanización de las áreas próximas. El objetivo señalado es mejorar las infraestructuras verdes y azules y reducir la vulnerabilidad ante futuras inundaciones.\n\nLa actuación aparece recogida en la Agenda Urbana y el Plan de Acción Local del Ayuntamiento de Calp. En ese documento figura el proyecto de renaturalización del barranco del Quisi como una acción implementada o en curso, con un presupuesto indicativo de 200.000 euros para ese barranco. La documentación también vincula el proyecto a la necesidad de abordar el riesgo mediante actuaciones ambientales, urbanísticas, hidráulicas y territoriales.\n\nEl planteamiento se sitúa dentro de una estrategia municipal más amplia de prevención frente a inundaciones. En 2023, una información sobre el Plan de Actuación Municipal frente a Inundaciones recogió la posibilidad de crear un parque inundable para reconducir los aluviones y evitar la acumulación de agua en la zona baja del municipio. Esa referencia sirve como contexto de la línea preventiva, pero no acredita por sí misma la ejecución del proyecto de renaturalización de 2026.\n\nLas fuentes consultadas describen una propuesta o proyecto de desarrollo a largo plazo, no una obra finalizada. Además, la renaturalización de los barrancos no eliminaría por sí sola el riesgo de inundación: el propio planteamiento señala que serían necesarias otras actuaciones hidráulicas y territoriales. Por ello, la denominación de “gran parque fluvial” debe entenderse como un enfoque periodístico, mientras que la descripción técnica disponible se refiere a la renaturalización de los cauces y a la creación de un parque verde.",
+      "seo_title": "Calp plantea renaturalizar sus barrancos frente a inundaciones",
+      "meta_description": "Calp plantea renaturalizar los barrancos del Quisi y Pou Roig y crear un parque verde de 16.000 m² como medida preventiva ante inundaciones.",
+      "slug": "calp-renaturaliza-barrancos-quisi-pou-roig-inundaciones",
+      "editorial_notes": [
+        "Presentar la actuación como proyecto o propuesta a largo plazo, no como una obra terminada.",
+        "Usar con cautela la expresión “gran parque fluvial”: la documentación técnica habla de renaturalización y de un parque verde de 16.000 metros cuadrados.",
+        "Aclarar que la renaturalización no resolvería por sí sola el riesgo de inundación y que se contemplan actuaciones hidráulicas y territoriales adicionales.",
+        "La fuente de COPE no pudo consultarse directamente; su titular aparece recogido en el agregador oficial municipal."
+      ],
+      "sources": [
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12461/cal",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — Agenda Urbana, Plan de Acción Local",
+          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — agregador de noticias y dossier de prensa",
+          "source_url": "https://calp.es/es/aggregator/sources/7",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ràdio Litoral",
+          "source_url": "https://radiolitoral.com/2023/11/calp-da-luz-verde-al-plan-de-actuacion-municipal-frente-a-inundaciones/",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "La fuente de COPE facilitada no pudo abrirse directamente por restricciones de acceso, aunque su titular aparece recogido en el agregador oficial del Ayuntamiento.",
+          "La evidencia independiente describe un proyecto o propuesta a largo plazo, no una transformación ya terminada.",
+          "La denominación “gran parque fluvial” debe emplearse con cautela: las fuentes técnicas y locales hablan de renaturalización de los barrancos y de un parque verde de 16.000 metros cuadrados.",
+          "El propio relato publicado por Calp Digital advierte de que la renaturalización no resolvería por sí sola el riesgo y que serían necesarias actuaciones hidráulicas y territoriales de mayor alcance."
+        ]
+      }
+    }
+  ]
 }
