@@ -2,7 +2,7 @@
   "engine": "CALPE ONE ENGINE",
   "module": "AUTOMATED_QUALITY_GATE",
   "version": "quality-gate-v1",
-  "generated_at": "2026-10-30T23:50:58.999Z",
+  "generated_at": "2026-10-31T05:45:49.440Z",
   "policy": {
     "human_approval_required": false,
     "default_on_uncertainty": "QUARANTINED",
@@ -21,48 +21,8 @@
     "sensational_headlines_allowed": false,
     "untraceable_sources_allowed": false
   },
-  "drafts_seen": 1,
-  "eligible_count": 1,
+  "drafts_seen": 0,
+  "eligible_count": 0,
   "quarantined_count": 0,
-  "decisions": [
-    {
-      "gate_id": "qg_2bf95804bd24b397",
-      "draft_id": "drf_89da87db10a2a7ff",
-      "investigation_id": "inv_2dfd0a186c22c014",
-      "candidate_fingerprint": "61754fc31485421a730043d2218ec11b71ab524c73817ee224ec86db35ed36af",
-      "slug": "calp-inicia-renovacion-pistas-esplai-parc",
-      "category": "DEPORTES",
-      "status": "ELIGIBLE",
-      "reasons": [],
-      "warnings": [],
-      "checks": {
-        "writer_status": "PENDING_GATE",
-        "investigation_linked": true,
-        "investigation_verified": true,
-        "investigation_publishable": true,
-        "confidence_sufficient": true,
-        "supported_claim_count": 5,
-        "contradicted_claim_count": 0,
-        "unverified_claim_count": 0,
-        "evidence_count": 4,
-        "primary_evidence_count": 2,
-        "secondary_evidence_count": 2,
-        "distinct_evidence_urls": 4,
-        "distinct_evidence_hosts": 4,
-        "institutional_or_political": true,
-        "material_caveat": false,
-        "caveat_reflected": true,
-        "neutral_political_language": true,
-        "headline_not_sensational": true,
-        "slug_unique": true,
-        "source_urls_valid": true,
-        "sources_trace_to_investigation": true,
-        "provenance_consistent": true,
-        "structure_complete": true,
-        "body_word_count": 181
-      },
-      "evaluated_at": "2026-10-30T23:50:58.999Z",
-      "engine_version": "quality-gate-v1"
-    }
-  ]
+  "decisions": []
 }

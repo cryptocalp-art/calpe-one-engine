@@ -1,140 +1,144 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-30T23:50:18.602Z",
+  "generated_at": "2026-10-31T05:45:18.152Z",
   "model": "gpt-5.6-luna",
   "count": 2,
   "investigations": [
     {
-      "candidate_fingerprint": "be688232d4c1a5a17c9108189df4396d9f44c87af226021a6dce5552bca16631",
-      "title": "Calp plantea renaturalizar sus barrancos para reducir el riesgo de inundaciones",
+      "candidate_fingerprint": "f64860727b69a5db8b9437e5c1d3c98a17493f9c56932d6755423d2b6384b32c",
+      "title": "Calp proyecta renaturalizar sus barrancos para reducir el riesgo de inundaciones",
       "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
       "publishable": false,
-      "summary": "La existencia de una estrategia municipal de renaturalización de los barrancos del Quisi y Pou Roig, con retirada de especies invasoras y posible conexión verde hacia Benissa, está respaldada por fuentes oficiales anteriores. Sin embargo, no se ha encontrado una fuente independiente o un documento oficial que confirme los elementos nuevos y centrales de la propuesta publicada el 30 de octubre de 2026, especialmente el parque verde de aproximadamente 16.000 metros cuadrados, sus características concretas y el presupuesto global de 1,2 millones de euros.",
+      "summary": "La existencia del proyecto de renaturalización de los barrancos del Quisi y Pou Roig, la retirada de cañas invasoras, la recuperación de flora autóctona y su finalidad preventiva frente a inundaciones están respaldadas por una fuente oficial del Ayuntamiento de Calp. Sin embargo, no se ha localizado una fuente independiente o un documento primario que confirme los datos más concretos de la propuesta difundida: el parque de aproximadamente 16.000 metros cuadrados junto a Los Jazmines, el presupuesto de contratación de unos 1,2 millones de euros y la ejecución en cuatro fases. La información no debe publicarse como plenamente verificada sin confirmar esos extremos.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp plantea renaturalizar los barrancos del Quisi y Pou Roig para mejorar la seguridad frente a episodios de lluvias intensas e inundaciones.",
+          "claim": "El Ayuntamiento de Calp ha redactado un proyecto para regenerar y renaturalizar los barrancos del Quisi y Pou Roig.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla eliminar especies invasoras, especialmente cañas, y sustituirlas por vegetación autóctona.",
+          "claim": "El proyecto contempla eliminar cañas invasoras y recuperar vegetación autóctona.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La estrategia pretende extenderse hacia Benissa y crear una vía o corredor verde para desplazamientos peatonales y ciclistas.",
+          "claim": "La actuación pretende contribuir a prevenir o reducir el riesgo de inundaciones.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La propuesta incluye un parque verde de aproximadamente 16.000 metros cuadrados junto a la urbanización Los Jazmines.",
+          "claim": "El proyecto incluye un parque verde de aproximadamente 16.000 metros cuadrados junto a la urbanización Los Jazmines.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "El parque incluiría recorridos peatonales, zonas de estancia, espacios recreativos, un mirador y una ampliación de la sección del barranco.",
+          "claim": "La actuación prevé ampliar la sección del barranco del Quisi en la zona del parque.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La actuación tiene una inversión estimada de 1,2 millones de euros y se desarrollará en varias fases durante varios años.",
+          "claim": "La inversión estimada ronda 1,2 millones de euros.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "La ejecución se plantea en cuatro fases y durante varios años.",
           "status": "UNVERIFIED"
         }
       ],
       "evidences": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
+          "evidence": "El Ayuntamiento informa de que ha redactado un proyecto de regeneración y renaturalización de los tramos urbanos del Quisi y Pou Roig. La actuación contempla eliminar la especie invasora Arundo donax, recuperar flora propia del ecosistema fluvial y regenerar ambientalmente una zona verde de la partida Pla Roig I. La Confederación Hidrográfica del Júcar autorizó los trabajos en el ámbito urbano y el Ayuntamiento los vincula a la prevención de futuras inundaciones.",
+          "source_type": "PRIMARY"
+        },
         {
           "source_name": "Calp Digital",
           "source_url": "https://calpdigital.es/art/12461/calp-renaturalizacion-barrancos-quisi-pou-roig-inundaciones",
-          "evidence": "Publica el 30 de octubre de 2026 que la propuesta de renaturalización afecta a los barrancos del Quisi y Pou Roig, plantea retirar cañas invasoras, recuperar vegetación autóctona, crear un parque verde de unos 16.000 metros cuadrados y avanzar hacia un corredor ecológico y peatonal entre Calp y Benissa. Es la única fuente localizada que respalda específicamente el parque de 16.000 metros cuadrados, la distribución de fases y la estimación global de 1,2 millones de euros.",
+          "evidence": "La noticia describe la propuesta presentada durante las jornadas Calp Blau e incluye los datos del parque de 16.000 metros cuadrados junto a Los Jazmines, la ampliación de la sección del barranco, el presupuesto de contratación aproximado de 1,2 millones de euros y la organización en cuatro fases. No constituye corroboración independiente del propio contenido candidato.",
           "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Noticias del Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-renaturalizar%C3%A1-el-tramo-urbano-de-los-barrancos-del-quisi-y-del-pou-roig",
-          "evidence": "El Ayuntamiento informó el 19 de mayo de 2025 de la futura licitación del proyecto de renaturalización del tramo urbano del Quisi y Pou Roig, con eliminación de Arundo donax, plantación de especies autóctonas y actuaciones para reducir obstrucciones y riesgos de desbordamiento. También indicó que el objetivo municipal era extender las actuaciones por todo el recorrido del Quisi hacia Benissa.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Noticias del Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-y-benissa-acuerdan-reclamar-conjuntament-la-limpieza-del-barranco-del-quisi",
-          "evidence": "El Ayuntamiento informó en septiembre de 2023 de un compromiso conjunto de Calp y Benissa para renaturalizar el barranco del Quisi con especies autóctonas y convertirlo en una vía verde para rutas de senderismo y bicicleta.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp, Agenda Urbana Calp",
-          "source_url": "https://www.calp.es/sites/default/files/Agenda_Urbana_Calp_Plan_Accion_Local.pdf",
-          "evidence": "La Agenda Urbana municipal recoge la renaturalización del barranco del Quisi como una acción de planificación, describe el carácter torrencial de los barrancos, la presencia de cañaverales y la necesidad de compatibilizar la recuperación ambiental con la capacidad hidráulica. El documento no confirma el parque de 16.000 metros cuadrados ni el presupuesto de 1,2 millones de euros.",
-          "source_type": "PRIMARY"
         }
       ],
       "caveats": [
-        "La fuente secundaria presenta el proyecto como una propuesta expuesta en las jornadas Calp Blau, pero no se ha localizado el proyecto técnico, acta, presentación municipal o expediente público que permita verificar sus cifras y planos.",
-        "La documentación oficial localizada confirma antecedentes y objetivos generales, pero no los detalles concretos del nuevo parque ni la estimación económica publicada el 30 de octubre de 2026.",
-        "No debe presentarse la renaturalización como una solución suficiente por sí sola para eliminar el riesgo de inundación; la propia información consultada señala que serían necesarias actuaciones hidráulicas y territoriales adicionales."
+        "La fuente oficial localizada es de marzo de 2026 y confirma el proyecto general, pero no los datos presupuestarios y de ejecución incluidos en la información de octubre.",
+        "La fuente secundaria parece ser la principal —y, en la búsqueda realizada, única— base para las cifras de 16.000 metros cuadrados, 1,2 millones de euros y cuatro fases.",
+        "Conviene solicitar o localizar el proyecto técnico, presupuesto, acuerdo municipal o presentación oficial de las jornadas Calp Blau antes de elevar el estado a VERIFIED."
       ],
-      "id": "inv_500472cb3935bf7c",
-      "investigated_at": "2026-10-30T23:50:18.602Z",
+      "id": "inv_183479d60cbd1533",
+      "investigated_at": "2026-10-31T05:45:18.152Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "61754fc31485421a730043d2218ec11b71ab524c73817ee224ec86db35ed36af",
-      "title": "Calp invierte 133.022 euros en renovar las pistas deportivas exteriores y mejorar el campo de fútbol 8 del Esplai Parc",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "El Ayuntamiento de Calp ha iniciado una actuación presupuestada en 133.022 euros para renovar cuatro pistas deportivas exteriores y mejorar la seguridad del campo de fútbol 8 del Esplai Parc. La cifra, el alcance de las obras, el pavimento epoxi, los nuevos marcajes, el vallado perimetral de unos 230 metros y las redes de protección están confirmados por una fuente oficial y por medios independientes.",
+      "candidate_fingerprint": "2a7614c986d9a66c541ab5b26181878fdcc49b2fc0f08c8ff1daf60d21c0e564",
+      "title": "El Consorci MARE prepara más de 400 acciones de reciclaje en 52 municipios",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "Está confirmada oficialmente la preparación de una campaña de educación ambiental del Consorci MARE para sus 52 municipios durante 2026, con visitas al Complejo Ambiental de El Campello y acciones en centros educativos y municipios. La cifra concreta difundida —más de 400 acciones, 178 actividades escolares para más de 4.500 estudiantes y 144 acciones informativas— aparece reproducida por varios medios, pero no se ha localizado una comunicación oficial del Consorci MARE que confirme esos números concretos. Además, una comunicación oficial anterior de agosto de 2026 fijaba inicialmente un mínimo de 260 acciones, por lo que es necesario aclarar si hubo una ampliación posterior del programa.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha iniciado la renovación de cuatro pistas deportivas exteriores y mejoras de seguridad en el campo de fútbol 8 del Esplai Parc.",
+          "claim": "El Consorci MARE desarrolla la campaña «El futuro empieza cada día».",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La inversión conjunta asciende a 133.022 euros, con 74.767 euros para las pistas y 58.255 euros para el vallado y las redes de protección.",
+          "claim": "La campaña se dirige a los 52 municipios gestionados por el Consorci MARE.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las obras incluyen reparación de grietas y zonas deterioradas, renovación con pavimento exterior epoxi y repintado de las líneas de juego.",
+          "claim": "La programación se desarrolla durante octubre y noviembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las pistas se adaptarán para baloncesto, fútbol sala, voleibol, minibasket y pickleball, y la Pista Roja incorporará una zona de 3x3.",
+          "claim": "La campaña contempla visitas al Complejo Ambiental de El Campello y actividades educativas e informativas.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El campo de fútbol 8 contará con aproximadamente 230 metros lineales de vallado perimetral, protecciones acolchadas y redes parabalones en los fondos norte y sur.",
+          "claim": "La campaña suma más de 400 acciones.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Se han programado 178 actividades educativas para más de 4.500 escolares.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "Se realizarán unas 60 visitas al Complejo Ambiental de El Campello.",
           "status": "SUPPORTED"
+        },
+        {
+          "claim": "Se realizarán 144 acciones informativas o de street marketing en la calle.",
+          "status": "UNVERIFIED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Noticias del Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
-          "evidence": "La nota oficial informa de que la Concejalía de Deportes ha iniciado la renovación de cuatro pistas exteriores y la mejora de la seguridad del campo de fútbol 8 del Esplai Parc, con una inversión de 133.022 euros. Desglosa 74.767 euros para las pistas y 58.255 euros para el vallado y las redes, y detalla las reparaciones, el pavimento epoxi, los nuevos marcajes, el vallado de unos 230 metros y las redes parabalones.",
+          "source_name": "Consorci MARE",
+          "source_url": "https://consorciomare.es/2026/08/26/el-consorci-mare-destinara-mas-de-220-000-euros-a-una-campana-de-educacion-ambiental-con-el-apoyo-de-la-generalitat-valenciana/",
+          "evidence": "La entidad oficial informa de una nueva campaña de educación ambiental para los 52 municipios, con acciones en centros escolares, actuaciones en los municipios y 60 visitas guiadas al Complejo Ambiental de El Campello. La comunicación de agosto fija como mínimo 104 actividades escolares, 104 actuaciones municipales y 60 visitas, es decir, más de 260 acciones, pero no menciona las cifras posteriores de 178 actividades y 144 acciones.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/calp-renueva-las-pistas-deportivas-exteriores-y-el-campo-de-futbol-8/",
-          "evidence": "Publica el 30 de octubre de 2026 que la Concejalía de Deportes ha iniciado las obras, confirma la inversión total y su desglose, identifica las cuatro pistas afectadas y describe el pavimento epoxi, los usos deportivos previstos, el vallado de aproximadamente 230 metros y las protecciones del campo de fútbol 8.",
+          "source_name": "Vist Nova",
+          "source_url": "https://www.vistanova.tv/noticias/i/98510380/el-futuro-empieza-cada-dia-el-consorci-mare-impulsa-mas-de-400-acciones-para-fomentar-el-reciclaje",
+          "evidence": "La publicación atribuye al Consorci MARE una campaña en 52 municipios con más de 400 actuaciones, 178 actividades educativas para más de 4.500 estudiantes, unas 60 visitas al complejo y 144 acciones de street marketing. Su contenido coincide sustancialmente con otras publicaciones de medios locales y parece reproducir una nota o presentación de la campaña.",
           "source_type": "SECONDARY"
         },
         {
           "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/10/30/calp-renova-quatre-pistes-esportives-municipals-i-reforca-la-seguretat-en-lesplai-parc/",
-          "evidence": "Informa de forma independiente de la inversión de 133.022 euros, la renovación de las cuatro pistas, la aplicación de pavimento epoxi, la mejora del cerramiento del campo de fútbol 8 y la instalación de redes y protecciones acolchadas.",
+          "source_url": "https://lamarina.eldiario.es/2026/10/27/consorci-mare-futuro-cada-dia-campana-400-acciones-reciclaje-educacion-ambiental/",
+          "evidence": "Describe la campaña en los 52 municipios y confirma las cifras de 178 actividades escolares, más de 4.500 escolares, unas 60 visitas al Complejo Ambiental de El Campello y 144 acciones de street marketing. No aporta un documento primario distinto de la comunicación del Consorci.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Comunica",
-          "source_url": "https://calpcomunica.calp.es/",
-          "evidence": "El canal municipal de comunicación recoge el inicio de la renovación de las cuatro pistas, la aplicación del pavimento epoxi, los nuevos marcajes deportivos y la instalación de unos 230 metros de vallado con protecciones acolchadas y redes parabalones.",
-          "source_type": "PRIMARY"
+          "source_name": "Dénia Digital",
+          "source_url": "https://deniadigital.es/art/23375/art/23335/denia-orden-confinamiento-generalitat-lluvias-inundaciones",
+          "evidence": "Informa de la campaña de reciclaje del Consorci MARE en 52 municipios durante octubre y noviembre de 2026, pero en el texto localizado no detalla todas las cifras de 178 actividades y 144 acciones.",
+          "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "Las fuentes confirman el inicio de las actuaciones, no su finalización.",
-        "La cifra de 133.022 euros se refiere a la inversión conjunta de las pistas y la mejora del campo de fútbol 8, no necesariamente al coste final liquidado de las obras.",
-        "Las informaciones secundarias reproducen en parte los datos de la nota municipal, pero existe corroboración independiente del hecho y de sus principales cifras y actuaciones."
+        "Las coincidencias entre los medios locales pueden proceder de una misma nota de prensa y no constituyen por sí solas corroboración independiente.",
+        "La comunicación oficial del 26 de agosto de 2026 hablaba de un mínimo de 260 acciones, mientras que las informaciones posteriores elevan el programa a más de 400; falta localizar la modificación, adjudicación o presentación oficial que explique la diferencia.",
+        "La cifra de 60 visitas sí aparece en la fuente oficial; las cifras de 178 actividades, 144 acciones y más de 4.500 escolares requieren confirmación primaria para considerar verificado el resumen completo."
       ],
-      "id": "inv_2dfd0a186c22c014",
-      "investigated_at": "2026-10-30T23:50:18.602Z",
+      "id": "inv_91f6edabb662e7c5",
+      "investigated_at": "2026-10-31T05:45:18.152Z",
       "model": "gpt-5.6-luna"
     }
   ]
