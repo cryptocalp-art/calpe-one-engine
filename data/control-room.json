@@ -2,15 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-01T15:13:05.432Z",
+  "generated_at": "2026-11-01T19:43:40.077Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-01T15:13:05.229Z",
+  "last_activity": "2026-11-01T19:43:39.950Z",
   "newspaper": {
-    "archive_total": 135,
-    "published_today": 0,
-    "published_last_7_days": 17,
+    "archive_total": 136,
+    "published_today": 1,
+    "published_last_7_days": 18,
     "categories": {
-      "MEDIO_AMBIENTE": 22,
+      "MEDIO_AMBIENTE": 23,
       "SOCIEDAD": 17,
       "TURISMO": 13,
       "LOCAL": 18,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_b84da9ce0aea6a4d",
+        "title": "La cubierta del Club Social La Manzanera se hunde sin causar heridos",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "se-hunde-cubierta-club-social-la-manzanera-calp",
+        "published_at": "2026-11-01T19:43:21.196Z"
+      },
       {
         "archive_id": "arc_eca27c4ac5025859",
         "title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig para reducir el riesgo de inundaciones",
@@ -69,23 +76,16 @@
         "category": "SUCESOS",
         "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
         "published_at": "2026-10-28T16:06:38.392Z"
-      },
-      {
-        "archive_id": "arc_228335b1a1884a40",
-        "title": "Calp prepara en la Convención Turespaña su promoción turística internacional de 2027",
-        "category": "TURISMO",
-        "slug": "calp-promocion-turistica-internacional-2027-turespana",
-        "published_at": "2026-10-28T08:37:05.125Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 1,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

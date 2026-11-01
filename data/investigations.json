@@ -1,8 +1,77 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-11-01T15:12:51.890Z",
+  "generated_at": "2026-11-01T19:43:00.332Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "investigations": []
+  "count": 1,
+  "investigations": [
+    {
+      "candidate_fingerprint": "793641c25a02bb3974324f4d1e61884c613539bb56e29bab719fa2d8d04ab41c",
+      "title": "Se hunde la cubierta del Club Social La Manzanera de Calp sin causar heridos",
+      "status": "VERIFIED",
+      "confidence": "MEDIUM",
+      "publishable": true,
+      "summary": "La información esencial —el colapso de la cubierta del Club Social La Manzanera el domingo 1 de noviembre de 2026, sin personas heridas— está respaldada por La Marina Plaza y por una crónica independiente de Costa Nachrichten. La existencia del edificio, su deterioro previo y los antecedentes del proyecto de rehabilitación también constan en fuentes municipales. El anuncio de un nuevo expediente administrativo aparece únicamente en La Marina Plaza y no se ha localizado, por ahora, una confirmación oficial publicada por el Ayuntamiento.",
+      "claims": [
+        {
+          "claim": "La cubierta del Club Social La Manzanera se hundió el domingo 1 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La cubierta quedó reducida a escombros en el interior del edificio.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "No hubo heridos porque no había personas en el interior en el momento del derrumbe.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El inmueble forma parte del conjunto arquitectónico diseñado por Ricardo Bofill en La Manzanera.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Club Social presentaba un deterioro grave y llevaba años abandonado.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento de Calp anunció la apertura de un nuevo expediente administrativo para reiniciar los trámites y recuperar el inmueble.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/11/01/es-consuma-la-tragedia-patrimonial-a-calp-cau-el-sostre-del-club-social-la-manzanera",
+          "evidence": "Publica el 1 de noviembre de 2026 que la cubierta del Club Social La Manzanera se hundió ese domingo, quedó reducida a escombros y no causó daños personales porque no había nadie dentro. También atribuye a la alcaldesa Ana Sala el anuncio de que el Ayuntamiento abriría el lunes un nuevo expediente administrativo. La fuente relaciona el edificio con Ricardo Bofill y describe su deterioro previo.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Costa Nachrichten",
+          "source_url": "https://www.costanachrichten.com/costa-blanca/calpe-dach-des-social-clubs-an-der-manzanera-eingestuerzt-94568295.html",
+          "evidence": "Informa de forma independiente de que el techo del Club Social de Calp se derrumbó la mañana del domingo 1 de noviembre de 2026, aproximadamente a las 10:30 horas. Según el testimonio citado por el medio, nadie resultó herido y no había personas en el edificio. Identifica el inmueble como una obra de Ricardo Bofill situada en La Manzanera.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — Noticias municipales",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-mantiene-su-voluntad-de-rehabilitar-el-club-social-la-manzanera",
+          "evidence": "En enero de 2022 el Ayuntamiento describió el Club Social como una instalación recreativa de los años setenta vinculada al proyecto de Ricardo Bofill, situada en dominio público marítimo-terrestre y en estado de deterioro grave por su exposición al mar y largos años de abandono. La nota confirma los antecedentes administrativos del proyecto de rehabilitación, pero no confirma el derrumbe de 2026 ni el nuevo expediente anunciado tras él.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp — Noticias municipales",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-modifica-el-proyecto-de-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
+          "evidence": "La información municipal de noviembre de 2021 confirma que el pleno modificó el proyecto de rehabilitación del Club Social La Manzanera para limitar las actuaciones a obras en seco y que el edificio se encontraba en un estado de deterioro grave. No aporta evidencia sobre el derrumbe de noviembre de 2026.",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "caveats": [
+        "No se ha localizado una comunicación oficial del Ayuntamiento de Calp que confirme expresamente el derrumbe o la apertura del nuevo expediente anunciado por Ana Sala.",
+        "La afirmación sobre el nuevo expediente está respaldada por una única fuente periodística y debe atribuirse explícitamente a La Marina Plaza hasta obtener confirmación documental oficial.",
+        "La noticia es publicable sobre el colapso y la ausencia de heridos, pero conviene presentar el anuncio administrativo como una declaración de la alcaldesa, no como un expediente ya formalmente iniciado."
+      ],
+      "id": "inv_48d6bd0f402ac757",
+      "investigated_at": "2026-11-01T19:43:00.332Z",
+      "model": "gpt-5.6-luna"
+    }
+  ]
 }
