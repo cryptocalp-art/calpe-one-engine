@@ -1,131 +1,87 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-10-31T21:37:37.737Z",
+  "generated_at": "2026-11-01T01:12:59.168Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "b7c37a6a7c9040982ecec7f259dee4c5c37c31aed030debcecbd5d55ae545488",
-      "title": "Calp proyecta renaturalizar sus barrancos contra inundaciones con una inversión cercana a 1,2 millones de euros",
-      "status": "VERIFIED",
+      "candidate_fingerprint": "976d6f25ed6fe073d73d285e355f43300f8c1a8192d96d013309dec71e2f211e",
+      "title": "El cementerio de Calp amplía horarios y refuerza sus servicios por Todos los Santos",
+      "status": "NEEDS_RESEARCH",
       "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "La existencia del proyecto de renaturalización de los barrancos del Quisi y Pou Roig, su finalidad preventiva frente a inundaciones y la eliminación de cañas invasoras están respaldadas por el Ayuntamiento de Calp. La cifra aproximada de 1,2 millones de euros, el parque verde, las fases de ejecución y su carácter piloto proceden de la información de Calp Digital; no se ha localizado una fuente oficial que confirme todos esos detalles económicos y de diseño.",
+      "publishable": false,
+      "summary": "La celebración de Todos los Santos en el cementerio municipal de Calp está confirmada para el domingo 1 de noviembre de 2026, incluidos dos conciertos del Trío Solistas de la Camerata Amicitia a las 11:00 y 17:00 horas. También existe una fuente secundaria que recoge un horario especial del recinto del 29 de octubre al 1 de noviembre y normas específicas. Sin embargo, no se ha localizado una corroboración independiente suficiente de los trabajos municipales descritos ni de la misa de campaña a las 12:00 horas. La principal evidencia sobre esos extremos procede de la propia pieza candidata, por lo que no se alcanza el umbral de VERIFIED.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ha proyectado actuaciones de renaturalización en los barrancos del Quisi y Pou Roig.",
+          "claim": "El cementerio o Parque del Descanso Eterno de Calp tuvo un horario especial del 29 de octubre al 1 de noviembre de 2026.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto pretende prevenir inundaciones y reducir posibles obstrucciones provocadas por la caña invasora Arundo donax.",
+          "claim": "El horario fue de 8:00 a 21:00 horas los días 29 y 30 de octubre, de 8:00 a 22:00 el 31 de octubre y de 8:00 a 21:00 el 1 de noviembre.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Se prevé retirar cañas y recuperar la vegetación autóctona.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El presupuesto de contratación se sitúa en torno a 1,2 millones de euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El proyecto contempla un parque verde de aproximadamente 16.000 metros cuadrados junto al barranco del Quisi.",
+          "claim": "El Ayuntamiento y sus servicios municipales realizaron trabajos de acondicionamiento en el cementerio y sus accesos antes de Todos los Santos.",
           "status": "UNVERIFIED"
         },
         {
-          "claim": "La actuación inicial se concibe como proyecto piloto para reproducirse en otros barrancos del municipio.",
+          "claim": "El domingo 1 de noviembre se celebró o estaba prevista una misa de campaña a las 12:00 horas en el recinto.",
           "status": "UNVERIFIED"
+        },
+        {
+          "claim": "El Trío Solistas de la Camerata Amicitia ofreció dos conciertos el domingo 1 de noviembre, a las 11:00 y a las 17:00 horas, en el Cementerio Municipal de Calp.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El trío estaba formado por Lester Mejías, Judith Agulló y Miguel Torres.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento recordó la prohibición de velas naturales y de acceso con mascotas, así como la prohibición de realizar arreglos o limpiezas el 1 de noviembre.",
+          "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/la-chj-autoriza-al-ayuntamiento-renaturalizar-los-tramos-urbanos-de-los-barrancos-del-quisi",
-          "evidence": "El Ayuntamiento informa de que la Confederación Hidrográfica del Júcar ha autorizado los trabajos de restauración ambiental en los tramos urbanos del Quisi y Pou Roig. El proyecto incluye eliminar la caña invasora, recuperar flora autóctona y prevenir desbordamientos durante grandes avenidas de agua.",
+          "source_name": "Ayuntamiento de Calp — evento oficial de Todos los Santos",
+          "source_url": "https://noticias.calp.es/es/eventos/festivitat-de-tots-sants-tr%C3%ADo-solistas-de-la-camerata-amicitia-lester-mej%C3%ADas-viola-judith",
+          "evidence": "La agenda oficial fija para el domingo 1 de noviembre de 2026, en el Cementerio Municipal, dos pases del Trío Solistas de la Camerata Amicitia a las 11:00 y 17:00 horas. Identifica a Lester Mejías, Judith Agulló y Miguel Torres, y señala al Ayuntamiento de Calp como organizador.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-y-benissa-se-unen-y-solicitan-fondos-feder-para-renaturalizar-el-barranco-del-quisi",
-          "evidence": "En febrero de 2025 el Ayuntamiento describió la renaturalización del Quisi como proyecto del plan Calp Blau y señaló la eliminación de Arundo donax para reducir el riesgo de desbordamiento. La información aportaba entonces una previsión económica diferente: 850.000 euros para las actuaciones en el término de Calp dentro de un proyecto conjunto de 2,25 millones.",
+          "source_name": "Ayuntamiento de Calp — agenda del fin de semana",
+          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
+          "evidence": "La programación municipal del domingo 1 de noviembre anuncia dos conciertos del Trío Solistas de la Camerata Amicitia, a las 11:00 y 17:00 horas, en el cementerio municipal con motivo de Todos los Santos.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Comunica — Ayuntamiento de Calp",
+          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%8E%BB-este-diumenge-concert-del-trio-solistes-de-la-camerata-amicitia-al-cementeri-municipal/?lang=va-val",
+          "evidence": "La plataforma municipal confirma que el domingo 1 de noviembre habrá dos pases del concierto en el Cementerio Municipal de Calp, a las 11:00 y 17:00 horas, y vuelve a identificar a los tres integrantes del trío.",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12461/readpic",
-          "evidence": "La noticia atribuye a un documento técnico una inversión material estimada de 860.000 euros, que ascendería a unos 1,2 millones con ejecución industrial e IVA. También describe la retirada de cañas en dos kilómetros, actuaciones de regeneración, deflectores, un parque verde de unos 16.000 metros cuadrados y la consideración de la actuación como proyecto piloto.",
+          "source_url": "https://calpdigital.es/art/12449/readpic",
+          "evidence": "La publicación informa de un horario especial del Parque del Descanso Eterno entre el jueves 29 de octubre y el domingo 1 de noviembre: 8:00-21:00 los días 29 y 30, 8:00-22:00 el sábado 31 y 8:00-21:00 el domingo 1. También recoge la prohibición de velas naturales, mascotas y trabajos de limpieza o arreglo el 1 de noviembre. La misma pieza confirma los dos conciertos del trío.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina Plaza — pieza candidata",
+          "source_url": "https://lamarina.eldiario.es/2026/10/31/tots-sants-en-calp-el-trabajo-que-no-se-ve/",
+          "evidence": "La pieza describe trabajos de jardinería, pintura, reparación y limpieza realizados por personal municipal, y anuncia una misa de campaña a las 12:00 horas junto con los dos conciertos. Estos datos proceden de la propia noticia candidata y no constituyen corroboración independiente.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La cifra de 1,2 millones no aparece confirmada en la fuente municipal localizada y difiere de la previsión oficial comunicada en febrero de 2025.",
-        "La fuente independiente reproduce declaraciones y datos de un proyecto técnico, pero no se ha localizado públicamente el documento técnico completo ni una licitación con ese importe.",
-        "Debe presentarse como proyecto o previsión, no como obra ejecutada."
+        "La confirmación primaria localizada cubre los conciertos, pero no menciona la misa de campaña ni detalla los trabajos de acondicionamiento del cementerio y sus accesos.",
+        "La información sobre horarios y normas está publicada por Calp Digital como información atribuida al Ayuntamiento, pero no se ha localizado en la web municipal una nota específica de 2026 que reproduzca íntegramente esos datos.",
+        "La coincidencia entre La Marina Plaza y Calp Digital no basta por sí sola para demostrar independencia si ambas publicaciones se basan en la misma comunicación municipal.",
+        "Antes de publicar como noticia verificada conviene obtener el comunicado municipal original sobre horarios y acondicionamiento, o una confirmación independiente de la parroquia o del Ayuntamiento sobre la misa de campaña de las 12:00 horas."
       ],
-      "id": "inv_f675670ad742b90a",
-      "investigated_at": "2026-10-31T21:37:37.737Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "310b70684bd9e17f19e784a027225c7ca9d244cbee480d8cbbefc2aa066bd2ca",
-      "title": "El Ayuntamiento de Calp invierte 133.022 euros en renovar pistas deportivas y mejorar la seguridad del campo de fútbol 8",
-      "status": "VERIFIED",
-      "confidence": "HIGH",
-      "publishable": true,
-      "summary": "La información está confirmada por el Ayuntamiento de Calp y cuenta además con una corroboración independiente. Las obras afectan a cuatro pistas exteriores del Esplai Parc y al campo de fútbol 8, con una inversión conjunta de 133.022 euros, nuevos pavimentos y marcajes, vallado, protecciones acolchadas y redes parabalones.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento ha iniciado obras de renovación en cuatro pistas deportivas exteriores del Esplai Parc.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La inversión conjunta asciende a 133.022 euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "74.767 euros corresponden a las pistas y 58.255 euros al vallado y las redes de protección del campo de fútbol 8.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los trabajos incluyen reparación de grietas, renovación del pavimento exterior epoxi y repintado de líneas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Los marcajes se adaptarán a baloncesto, fútbol sala, voleibol, minibasket y pickleball.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El campo de fútbol 8 contará con aproximadamente 230 metros lineales de vallado, protecciones acolchadas y redes parabalones.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
-          "evidence": "El Ayuntamiento comunica el inicio de la renovación de cuatro pistas exteriores y la mejora de la seguridad del campo de fútbol 8, con una inversión total de 133.022 euros. Detalla el reparto presupuestario, los trabajos sobre pavimentos y marcajes, y la instalación de unos 230 metros lineales de vallado, protecciones acolchadas y redes parabalones.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Canfali",
-          "source_url": "https://canfali.com/ca-es/calp-renova-les-pistes-esportives-exteriors-i-el-camp-de-futbol-8/",
-          "evidence": "El medio local informa de la renovación de las cuatro pistas exteriores y del campo de fútbol 8 del Esplai Parc por 133.022 euros. Coincide en el reparto económico, la sustitución del pavimento, los nuevos marcajes deportivos y la instalación del vallado, las protecciones y las redes parabalones.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Calp Esports",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-invierte-este-verano-cerca-de-200000%E2%82%AC-en-la-renovación-de-sus-instalaciones-deportivas",
-          "evidence": "La información municipal de agosto de 2026 ya anunciaba como actuaciones próximas la remodelación de pistas exteriores del Esplai Parc y la instalación del vallado perimetral del campo de fútbol, con una inversión adicional prevista.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La noticia describe obras iniciadas, no necesariamente finalizadas.",
-        "Las cantidades de 133.022 euros pueden diferir de previsiones anteriores publicadas en agosto de 2026 porque corresponden a la actuación finalmente comunicada y desglosada en octubre."
-      ],
-      "id": "inv_566a4ff3a2a6b479",
-      "investigated_at": "2026-10-31T21:37:37.737Z",
+      "id": "inv_84d81d0088e07005",
+      "investigated_at": "2026-11-01T01:12:59.168Z",
       "model": "gpt-5.6-luna"
     }
   ]
