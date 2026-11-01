@@ -1,35 +1,71 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-11-01T01:12:13.013Z",
+  "generated_at": "2026-11-01T07:35:10.164Z",
   "model": "gpt-5.6-luna",
   "archive_count": 135,
-  "duplicates_filtered": 6,
-  "count": 2,
+  "duplicates_filtered": 2,
+  "count": 5,
   "candidates": [
     {
-      "title": "El cementerio de Calp amplía horarios y refuerza sus servicios por Todos los Santos",
-      "summary": "El Parque del Descanso Eterno ha sido acondicionado por los servicios municipales y mantiene horarios especiales hasta el 1 de noviembre. El domingo habrá misa de campaña y dos conciertos del Trío Solistas de la Camerata Amicitia.",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/10/31/tots-sants-en-calp-el-trabajo-que-no-se-ve",
-      "published_at": "2026-10-31",
-      "category": "LOCAL",
-      "relevance": 80,
-      "reason": "Afecta a la organización de una jornada de máxima afluencia en el cementerio municipal y ofrece información práctica sobre horarios, accesos y servicios públicos.",
-      "detected_at": "2026-11-01T01:12:13.013Z",
-      "fingerprint": "976d6f25ed6fe073d73d285e355f43300f8c1a8192d96d013309dec71e2f211e"
+      "title": "Calp inicia la renovación de cuatro pistas deportivas y mejora la seguridad del campo de fútbol 8 del Esplai Parc",
+      "summary": "El Ayuntamiento ha comenzado unas obras valoradas en 133.022 euros para renovar cuatro pistas exteriores, instalar nuevos pavimentos y mejorar el vallado, las redes y la protección del campo de fútbol 8 del Esplai Parc.",
+      "source_name": "La Marina Alta",
+      "source_url": "https://lamarinaalta.com/calp-arranca-la-renovacion-de-cuatro-pistas-deportivas-exteriores-y-el-campo-de-futbol-8-del-esplai-parc",
+      "published_at": "2026-10-30T10:19:00",
+      "category": "DEPORTES",
+      "relevance": 92,
+      "reason": "Es una inversión municipal relevante y ya en ejecución que afecta directamente a clubes, escolares y usuarios de las instalaciones deportivas de Calp.",
+      "detected_at": "2026-11-01T07:35:10.164Z",
+      "fingerprint": "7a91b7e9da938dc2e41c3ad4cc50d3bab9918c2965fec01add05703b83eebe4d"
     },
     {
-      "title": "Calp destina casi 600.000 euros al reasfaltado de viales en Empedrola, Cometa y Canuta",
-      "summary": "El Ayuntamiento ha iniciado la licitación de un proyecto con un presupuesto de 596.791,23 euros y un plazo de ejecución de tres meses para renovar pavimentos y corregir baches, hundimientos y deformaciones en varios viales.",
-      "source_name": "La Marina Plaza",
-      "source_url": "https://lamarina.eldiario.es/2026/09/30/calp-destina-600-000-euros-a-asfaltar-viales-en-empedrola-i-y-ii-cometa-iii-y-canuta",
-      "published_at": "2026-09-30",
-      "category": "LOCAL",
+      "title": "Calp amplía el horario del cementerio municipal por Todos los Santos",
+      "summary": "El Parque del Descanso Eterno mantiene un horario especial del 29 de octubre al 1 de noviembre, con apertura hasta las 22:00 horas el sábado 31. El Ayuntamiento recuerda también la prohibición de velas naturales y de acceso con mascotas.",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12449/readpic",
+      "published_at": "2026-10-30",
+      "category": "SOCIEDAD",
       "relevance": 78,
-      "reason": "La actuación afecta a la movilidad diaria, la seguridad vial y el mantenimiento de varias urbanizaciones y partidas del término municipal.",
-      "detected_at": "2026-11-01T01:12:13.013Z",
-      "fingerprint": "11952c79dcd93b422575dc40fdc975597156f0e7ddcbec2b663b233afa9c371a"
+      "reason": "Afecta a un servicio municipal de uso intensivo durante Todos los Santos e incluye información práctica para residentes y visitantes.",
+      "detected_at": "2026-11-01T07:35:10.164Z",
+      "fingerprint": "ddccf0f41db0904dec63b1e2b420802b4791f29b170042df8db4ad1af09e8bf9"
+    },
+    {
+      "title": "Calp ofrece clases de gerontogimnasia para mayores de 60 años en el Centro Cívico",
+      "summary": "El programa municipal ofrece sesiones de ejercicio adaptado los lunes, miércoles y viernes, en tres horarios de mañana, con inscripción previa y tarjeta del Centro Cívico.",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12463/readpic",
+      "published_at": "2026-10-30",
+      "category": "SOCIEDAD",
+      "relevance": 76,
+      "reason": "Amplía la oferta municipal de envejecimiento activo, salud preventiva y participación social para las personas mayores de Calp.",
+      "detected_at": "2026-11-01T07:35:10.164Z",
+      "fingerprint": "453a2fbf7fee428b883081b210c7dd0674a5fbed01753616812eccd4801dbf63"
+    },
+    {
+      "title": "Calp guarda un minuto de silencio por las víctimas del accidente ferroviario de Urda",
+      "summary": "Miembros de la corporación municipal y vecinos se concentraron en la plaza Miguel Roselló en solidaridad con las víctimas del accidente ferroviario ocurrido en Urda, Toledo.",
+      "source_name": "El Periódico de Alicante",
+      "source_url": "https://www.elperiodic.com/calpe/calp-guarda-minuto-silencio-victimas-accidente-ferroviario-urda-toledo_1099865",
+      "published_at": "2026-10-28",
+      "category": "SOCIEDAD",
+      "relevance": 65,
+      "reason": "Recoge una respuesta institucional y ciudadana de Calp ante una tragedia nacional, con interés para la actualidad social y municipal.",
+      "detected_at": "2026-11-01T07:35:10.164Z",
+      "fingerprint": "d4c2a9b84550df5e3e53433dbb13c930831be4f8a58f91b6d5108624e8e55704"
+    },
+    {
+      "title": "‘Sérénade’ lleva a Calp un viaje musical de tres siglos entre guitarra y violonchelo",
+      "summary": "El Auditorio de la Casa de Cultura acogió el 31 de octubre un concierto de Darío González Ivars y Alfons Rochera Morales, con entrada libre y un repertorio desde la música barroca hasta Gershwin.",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12452/serenade-concierto-guitarra-violonchelo-calp",
+      "published_at": "2026-10-28",
+      "category": "CULTURA",
+      "relevance": 63,
+      "reason": "Es una actividad cultural local con acceso gratuito que completa la agenda de otoño y puede interesar tanto a residentes como a visitantes.",
+      "detected_at": "2026-11-01T07:35:10.164Z",
+      "fingerprint": "e3497fe4d7059f16d4176b5f734185bd11b82e728951174d28b3afc6aaf271e5"
     }
   ]
 }

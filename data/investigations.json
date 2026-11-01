@@ -1,87 +1,89 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-11-01T01:12:59.168Z",
+  "generated_at": "2026-11-01T07:35:44.154Z",
   "model": "gpt-5.6-luna",
   "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "976d6f25ed6fe073d73d285e355f43300f8c1a8192d96d013309dec71e2f211e",
-      "title": "El cementerio de Calp amplía horarios y refuerza sus servicios por Todos los Santos",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La celebración de Todos los Santos en el cementerio municipal de Calp está confirmada para el domingo 1 de noviembre de 2026, incluidos dos conciertos del Trío Solistas de la Camerata Amicitia a las 11:00 y 17:00 horas. También existe una fuente secundaria que recoge un horario especial del recinto del 29 de octubre al 1 de noviembre y normas específicas. Sin embargo, no se ha localizado una corroboración independiente suficiente de los trabajos municipales descritos ni de la misa de campaña a las 12:00 horas. La principal evidencia sobre esos extremos procede de la propia pieza candidata, por lo que no se alcanza el umbral de VERIFIED.",
+      "candidate_fingerprint": "7a91b7e9da938dc2e41c3ad4cc50d3bab9918c2965fec01add05703b83eebe4d",
+      "title": "Calp inicia la renovación de cuatro pistas deportivas y mejora la seguridad del campo de fútbol 8 del Esplai Parc",
+      "status": "VERIFIED",
+      "confidence": "HIGH",
+      "publishable": true,
+      "summary": "La información queda verificada. El Ayuntamiento de Calp publicó el 30 de octubre de 2026 el anuncio oficial de una actuación ya iniciada, con una inversión conjunta de 133.022 euros para renovar cuatro pistas deportivas exteriores y mejorar la seguridad del campo de fútbol 8 del Esplai Parc. Medios locales independientes reproducen y corroboran los elementos esenciales de la actuación.",
       "claims": [
         {
-          "claim": "El cementerio o Parque del Descanso Eterno de Calp tuvo un horario especial del 29 de octubre al 1 de noviembre de 2026.",
+          "claim": "El Ayuntamiento de Calp ha iniciado la renovación de cuatro pistas deportivas exteriores y la mejora de la seguridad del campo de fútbol 8 del Esplai Parc.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El horario fue de 8:00 a 21:00 horas los días 29 y 30 de octubre, de 8:00 a 22:00 el 31 de octubre y de 8:00 a 21:00 el 1 de noviembre.",
+          "claim": "La inversión conjunta anunciada asciende a 133.022 euros.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento y sus servicios municipales realizaron trabajos de acondicionamiento en el cementerio y sus accesos antes de Todos los Santos.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El domingo 1 de noviembre se celebró o estaba prevista una misa de campaña a las 12:00 horas en el recinto.",
-          "status": "UNVERIFIED"
-        },
-        {
-          "claim": "El Trío Solistas de la Camerata Amicitia ofreció dos conciertos el domingo 1 de noviembre, a las 11:00 y a las 17:00 horas, en el Cementerio Municipal de Calp.",
+          "claim": "74.767 euros se destinan a la adecuación de las pistas y 58.255 euros al vallado y las redes de protección del campo de fútbol 8.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El trío estaba formado por Lester Mejías, Judith Agulló y Miguel Torres.",
+          "claim": "Las pistas afectadas son la de baloncesto del Esplai Parc, la de fútbol sala, la multifuncional y la Pista Roja.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento recordó la prohibición de velas naturales y de acceso con mascotas, así como la prohibición de realizar arreglos o limpiezas el 1 de noviembre.",
+          "claim": "Los trabajos incluyen reparación de grietas y zonas deterioradas, preparación de superficies, instalación de pavimento exterior epoxi y repintado de las líneas de juego.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Los nuevos marcajes permitirán practicar baloncesto, fútbol sala, voleibol, minibasket y pickleball; la pista multifuncional incorporará pickleball y voleibol y la Pista Roja tendrá una zona de 3x3.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "En el campo de fútbol 8 se instalarán aproximadamente 230 metros lineales de vallado perimetral, protecciones acolchadas y redes parabalones en los fondos norte y sur.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La iluminación del campo de fútbol 8 ya ha sido renovada; también están previstas la retirada de dos árboles, una zona de grada y la renovación de porterías y canastas.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp — evento oficial de Todos los Santos",
-          "source_url": "https://noticias.calp.es/es/eventos/festivitat-de-tots-sants-tr%C3%ADo-solistas-de-la-camerata-amicitia-lester-mej%C3%ADas-viola-judith",
-          "evidence": "La agenda oficial fija para el domingo 1 de noviembre de 2026, en el Cementerio Municipal, dos pases del Trío Solistas de la Camerata Amicitia a las 11:00 y 17:00 horas. Identifica a Lester Mejías, Judith Agulló y Miguel Torres, y señala al Ayuntamiento de Calp como organizador.",
+          "source_name": "Ayuntamiento de Calp - Noticias oficiales",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-invierte-133022-euros-en-renovar-las-pistas-deportivas-exteriores-y",
+          "evidence": "La nota oficial, fechada el 30 de octubre de 2026, confirma que la actuación ha comenzado, identifica las cuatro pistas, cifra la inversión total en 133.022 euros y desglosa 74.767 euros para las pistas y 58.255 euros para el vallado y las redes. También detalla el pavimento epoxi, los marcajes deportivos, los aproximadamente 230 metros de vallado, las protecciones acolchadas, las redes parabalones y las actuaciones complementarias.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp — agenda del fin de semana",
-          "source_url": "https://noticias.calp.es/es/noticia/qu%C3%A9-hacer-en-calp-este-fin-de-semana-30-y-31-de-octubre-y-1-de-noviembre",
-          "evidence": "La programación municipal del domingo 1 de noviembre anuncia dos conciertos del Trío Solistas de la Camerata Amicitia, a las 11:00 y 17:00 horas, en el cementerio municipal con motivo de Todos los Santos.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Comunica — Ayuntamiento de Calp",
-          "source_url": "https://calpcomunica.calp.es/esdeveniments/%F0%9F%8E%BB-este-diumenge-concert-del-trio-solistes-de-la-camerata-amicitia-al-cementeri-municipal/?lang=va-val",
-          "evidence": "La plataforma municipal confirma que el domingo 1 de noviembre habrá dos pases del concierto en el Cementerio Municipal de Calp, a las 11:00 y 17:00 horas, y vuelve a identificar a los tres integrantes del trío.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12449/readpic",
-          "evidence": "La publicación informa de un horario especial del Parque del Descanso Eterno entre el jueves 29 de octubre y el domingo 1 de noviembre: 8:00-21:00 los días 29 y 30, 8:00-22:00 el sábado 31 y 8:00-21:00 el domingo 1. También recoge la prohibición de velas naturales, mascotas y trabajos de limpieza o arreglo el 1 de noviembre. La misma pieza confirma los dos conciertos del trío.",
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/2026/10/30/calp-renova-quatre-pistes-esportives-municipals-i-reforca-la-seguretat-en-lesplai-parc/",
+          "evidence": "La publicación del 30 de octubre de 2026 informa de la renovación de las cuatro pistas, la inversión de 133.022 euros, la distribución presupuestaria, el pavimento epoxi, los nuevos usos deportivos y las medidas de seguridad previstas en el campo de fútbol 8, incluidos los aproximadamente 230 metros de cerramiento y las redes parabalones.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Plaza — pieza candidata",
-          "source_url": "https://lamarina.eldiario.es/2026/10/31/tots-sants-en-calp-el-trabajo-que-no-se-ve/",
-          "evidence": "La pieza describe trabajos de jardinería, pintura, reparación y limpieza realizados por personal municipal, y anuncia una misa de campaña a las 12:00 horas junto con los dos conciertos. Estos datos proceden de la propia noticia candidata y no constituyen corroboración independiente.",
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12462/calp-renovacion-pistas-deportivas-campo-futbol-8-esplai-parc",
+          "evidence": "El medio local confirma que el Ayuntamiento ha iniciado una actuación por 133.022 euros, con cuatro pistas afectadas, pavimento epoxi, nuevos marcajes para varias disciplinas, unos 230 metros de vallado, protecciones acolchadas y redes parabalones.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Radio Sirena",
+          "source_url": "https://radiosirena.es/calpe-renueva-sus-instalaciones-deportivas/",
+          "evidence": "La información publicada el 30 de octubre de 2026 corrobora la renovación de las cuatro pistas, la inversión conjunta, el nuevo pavimento, los marcajes deportivos y las medidas de seguridad del campo de fútbol 8, además de la grada y la renovación de porterías y canastas.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Canfali",
+          "source_url": "https://canfali.com/calp-renueva-las-pistas-deportivas-exteriores-y-el-campo-de-futbol-8/",
+          "evidence": "La publicación confirma la renovación de las cuatro pistas, la inversión de 133.022 euros, el reparto entre pistas y campo de fútbol, el pavimento epoxi, los nuevos marcajes y la instalación de aproximadamente 230 metros de vallado, protecciones acolchadas y redes parabalones.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La confirmación primaria localizada cubre los conciertos, pero no menciona la misa de campaña ni detalla los trabajos de acondicionamiento del cementerio y sus accesos.",
-        "La información sobre horarios y normas está publicada por Calp Digital como información atribuida al Ayuntamiento, pero no se ha localizado en la web municipal una nota específica de 2026 que reproduzca íntegramente esos datos.",
-        "La coincidencia entre La Marina Plaza y Calp Digital no basta por sí sola para demostrar independencia si ambas publicaciones se basan en la misma comunicación municipal.",
-        "Antes de publicar como noticia verificada conviene obtener el comunicado municipal original sobre horarios y acondicionamiento, o una confirmación independiente de la parroquia o del Ayuntamiento sobre la misa de campaña de las 12:00 horas."
+        "Una nota oficial anterior, publicada el 19 de agosto de 2026, manejaba importes previstos diferentes para actuaciones futuras: 74.693,30 euros para pistas y 48.144,63 euros para el vallado. La comunicación oficial del 30 de octubre de 2026 identifica la actuación ya iniciada con los importes actualizados de 74.767 y 58.255 euros, por lo que no se considera una contradicción material del candidato.",
+        "Las publicaciones secundarias presentan contenidos muy coincidentes con la nota municipal; la confirmación principal procede de la fuente oficial del Ayuntamiento."
       ],
-      "id": "inv_84d81d0088e07005",
-      "investigated_at": "2026-11-01T01:12:59.168Z",
+      "id": "inv_29ec7098155a7d6c",
+      "investigated_at": "2026-11-01T07:35:44.154Z",
       "model": "gpt-5.6-luna"
     }
   ]
