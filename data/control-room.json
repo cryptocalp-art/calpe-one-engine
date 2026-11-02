@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-02T06:09:03.357Z",
+  "generated_at": "2026-11-02T16:00:21.562Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-02T06:09:03.132Z",
+  "last_activity": "2026-11-02T16:00:21.359Z",
   "newspaper": {
-    "archive_total": 136,
-    "published_today": 0,
-    "published_last_7_days": 18,
+    "archive_total": 137,
+    "published_today": 1,
+    "published_last_7_days": 19,
     "categories": {
+      "CULTURA": 8,
       "MEDIO_AMBIENTE": 23,
       "SOCIEDAD": 17,
       "TURISMO": 13,
@@ -17,10 +18,16 @@
       "SUCESOS": 22,
       "POLITICA": 11,
       "ECONOMIA": 20,
-      "CULTURA": 7,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_47e9c467b9cade2c",
+        "title": "La Cubana actuará por primera vez en Calp con tres funciones en noviembre",
+        "category": "CULTURA",
+        "slug": "la-cubana-primera-actuacion-calp-noviembre",
+        "published_at": "2026-11-02T15:59:29.175Z"
+      },
       {
         "archive_id": "arc_b84da9ce0aea6a4d",
         "title": "La cubierta del Club Social La Manzanera se hunde sin causar heridos",
@@ -69,23 +76,16 @@
         "category": "LOCAL",
         "slug": "calp-plazo-solicitar-huertos-urbanos-municipales",
         "published_at": "2026-10-28T21:08:27.608Z"
-      },
-      {
-        "archive_id": "arc_91f9e66ce340e71f",
-        "title": "Dos agentes de la Policía Local de Calp reaniman a una bebé de diez meses",
-        "category": "SUCESOS",
-        "slug": "agentes-policia-local-calp-reaniman-bebe-diez-meses",
-        "published_at": "2026-10-28T16:06:38.392Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 2,
+    "radar_candidates": 8,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 5,
+    "eligible": 5,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

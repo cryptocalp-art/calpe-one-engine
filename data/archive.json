@@ -3,15 +3,75 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-01T19:43:29.875Z",
-  "count": 136,
+  "updated_at": "2026-11-02T16:00:00.272Z",
+  "count": 137,
   "articles": [
+    {
+      "archive_id": "arc_47e9c467b9cade2c",
+      "external_id": "drf_07eb7c8a8f320a82",
+      "investigation_id": "inv_b9a106b0fe5715ce",
+      "candidate_fingerprints": [
+        "3523864ebc5fe9d91e5e87ff666b6f2da0bb9f89f67b8f2063f81b4a97aa38d4"
+      ],
+      "title": "La Cubana actuará por primera vez en Calp con tres funciones en noviembre",
+      "slug": "la-cubana-primera-actuacion-calp-noviembre",
+      "summary": "La compañía La Cubana actuará por primera vez en Calp con tres representaciones de «La cuisine de ma cousine». Las funciones serán los días 19 y 20 de noviembre a las 20:00 horas y el día 21 a las 19:00, todas ellas en el Auditorio de la Casa de Cultura.",
+      "body": "La compañía La Cubana llegará por primera vez a Calp en noviembre con tres funciones de «La cuisine de ma cousine». Las representaciones se celebrarán en el Auditorio de la Casa de Cultura los días 19, 20 y 21 de noviembre de 2026.\n\nLas dos primeras funciones, previstas para el 19 y el 20 de noviembre, comenzarán a las 20:00 horas. La tercera representación será el 21 de noviembre a las 19:00 horas.\n\nLa ficha oficial del espectáculo describe una producción con participación del público. La agenda y la información difundida por fuentes independientes coinciden en que esta será la primera actuación de La Cubana en Calp.\n\nLa ficha de la función enumera a doce integrantes de la compañía. Este dato corresponde a la relación incluida en la programación oficial del espectáculo.\n\nLa convocatoria confirma las fechas, el espacio, los horarios y el carácter participativo de la propuesta. No se incorporan en el expediente facilitado otros datos sobre precios, disponibilidad de entradas o condiciones de acceso, por lo que esos aspectos no se detallan en esta información.\n\nLa expresión «producción de gran formato» no aparece literalmente en todas las fuentes consultadas y no se utiliza aquí como un hecho independiente. Los elementos esenciales de la programación —la primera llegada de La Cubana a Calp, las tres funciones y la participación del público— sí están corroborados por la ficha oficial y por la cobertura independiente.",
+      "category": "CULTURA",
+      "seo_title": "La Cubana actuará por primera vez en Calp en noviembre",
+      "meta_description": "La Cubana representará «La cuisine de ma cousine» los días 19, 20 y 21 de noviembre en el Auditorio de la Casa de Cultura de Calp.",
+      "sources": [
+        {
+          "name": "Casa de Cultura Jaume Pastor i Fluixà / Ayuntamiento de Calp",
+          "url": "https://cultura.calp.es/es/eventos/la-cubana-presenta-la-cuisine-de-ma-cousine-0",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "MarinaAlta.es",
+          "url": "https://marinaalta.es/2026/10/la-cubana-llega-por-primera-vez-a-calpe-con-tres-funciones-de-su-comedia-la-cuisine-de-ma-cousine/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/agenda/2026/11/21",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://cultura.calp.es/es/eventos/la-cubana-presenta-la-cuisine-de-ma-cousine-0",
+        "https://marinaalta.es/2026/10/la-cubana-llega-por-primera-vez-a-calpe-con-tres-funciones-de-su-comedia-la-cuisine-de-ma-cousine",
+        "https://calpdigital.es/agenda/2026/11/21"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La expresión «producción de gran formato» no aparece literalmente en todas las fuentes consultadas; los hechos esenciales sí están corroborados."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_7a758a755e23e7ed",
+        "quality_gate_evaluated_at": "2026-11-02T15:59:59.955Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No presentar la obra como una producción de gran formato: esa expresión no aparece literalmente en todas las fuentes.",
+        "El expediente no aporta información sobre precios, entradas o condiciones de acceso."
+      ],
+      "published_at": "2026-11-02T15:59:29.175Z",
+      "updated_at": "2026-11-02T16:00:00.272Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_b84da9ce0aea6a4d",
       "external_id": "drf_e61c05e1b9b91b41",
       "investigation_id": "inv_48d6bd0f402ac757",
       "candidate_fingerprints": [
-        "793641c25a02bb3974324f4d1e61884c613539bb56e29bab719fa2d8d04ab41c"
+        "793641c25a02bb3974324f4d1e61884c613539bb56e29bab719fa2d8d04ab41c",
+        "725ee26203b20ba896346df01e575decf09abf453074938508e295d15f4daab1"
       ],
       "title": "La cubierta del Club Social La Manzanera se hunde sin causar heridos",
       "slug": "se-hunde-cubierta-club-social-la-manzanera-calp",
@@ -46,7 +106,9 @@
         "https://lamarina.eldiario.es/2026/11/01/es-consuma-la-tragedia-patrimonial-a-calp-cau-el-sostre-del-club-social-la-manzanera",
         "https://www.costanachrichten.com/costa-blanca/calpe-dach-des-social-clubs-an-der-manzanera-eingestuerzt-94568295.html",
         "https://noticias.calp.es/es/noticia/el-ayuntamiento-mantiene-su-voluntad-de-rehabilitar-el-club-social-la-manzanera",
-        "https://noticias.calp.es/es/noticia/el-ayuntamiento-modifica-el-proyecto-de-rehabilitaci%C3%B3n-del-club-social-la-manzanera"
+        "https://noticias.calp.es/es/noticia/el-ayuntamiento-modifica-el-proyecto-de-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
+        "https://www.elperiodic.com/calpe/derrumbe-emblematico-edificio-calp-reabre-debate-sobre-futuro-derribo-segunda-vida-para-club-social-manzanera_1100387",
+        "https://calpdigital.es/art/12467/derrumbe-techo-club-social-la-manzanera-calp"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -71,7 +133,7 @@
         "La confirmación municipal localizada acredita el deterioro previo y los antecedentes de rehabilitación, pero no el derrumbe de 2026."
       ],
       "published_at": "2026-11-01T19:43:21.196Z",
-      "updated_at": "2026-11-01T19:43:29.875Z",
+      "updated_at": "2026-11-02T16:00:00.272Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
@@ -338,7 +400,8 @@
         "61754fc31485421a730043d2218ec11b71ab524c73817ee224ec86db35ed36af",
         "a71dc6b1b5181fffa6445384ac968f33147d7a9a67187dfdbcc5c2324fee242f",
         "310b70684bd9e17f19e784a027225c7ca9d244cbee480d8cbbefc2aa066bd2ca",
-        "7a91b7e9da938dc2e41c3ad4cc50d3bab9918c2965fec01add05703b83eebe4d"
+        "7a91b7e9da938dc2e41c3ad4cc50d3bab9918c2965fec01add05703b83eebe4d",
+        "8970d2c2efebd17ac800aadfcdcc62d00cb35f61789fc6a4df3564a19ef6fbde"
       ],
       "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
       "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
@@ -399,7 +462,7 @@
         "La referencia a Halloween debe presentarse con cautela: la nota municipal no utiliza literalmente esa palabra y la asociación se basa en el pasacalle de monstruos y el escape room del 31 de octubre."
       ],
       "published_at": "2026-10-29T14:24:01.982Z",
-      "updated_at": "2026-11-01T07:36:18.166Z",
+      "updated_at": "2026-11-02T16:00:00.272Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
@@ -7471,7 +7534,9 @@
       "external_id": "drf_9fb95bc0502f952d",
       "investigation_id": "inv_074d9b30de805374",
       "candidate_fingerprints": [
-        "a309672b792101a2dca22489c0c938ea2d7a951e037bdaf5aba59e80f3441f20"
+        "a309672b792101a2dca22489c0c938ea2d7a951e037bdaf5aba59e80f3441f20",
+        "894db69e2554ade7c8e292e8ba22cde69db7b9494029a8b1fd036e618a59ce01",
+        "7bf101f8788c612b8a940180dd5dc00aac9b75ad7ab1b12d218ce6717b7633e9"
       ],
       "title": "Calp celebrará el 4 de octubre una nueva edición de la Marcha Rosa",
       "slug": "calp-marcha-rosa-4-octubre-2026",
@@ -7494,7 +7559,10 @@
       ],
       "source_urls": [
         "https://calpcomunica.calp.es/eventos/mes",
-        "https://calpdigital.es/art/12322/calp-volvera-a-caminar-contra-el-cancer-de-mama-con-una-jornada-solidaria-en-la-plaza-Mayor"
+        "https://calpdigital.es/art/12322/calp-volvera-a-caminar-contra-el-cancer-de-mama-con-una-jornada-solidaria-en-la-plaza-Mayor",
+        "https://noticias.calp.es/es/eventos/xiv-certamen-nacional-de-teatro-amateur-antonio-ferrer-el-cartero",
+        "https://veiraxweb.com/eventos/presentacio-del-mau-museu-dart-urba",
+        "https://lamarinaalta.com/calp-refuerza-su-agenda-cultural-de-otono-y-anticipa-la-presentacion-del-futuro-museu-dart-urba"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -7515,7 +7583,7 @@
         "Mantener la atribución a la organización y al Ayuntamiento para los detalles del programa y la colaboración institucional."
       ],
       "published_at": "2026-09-25T22:35:24.377Z",
-      "updated_at": "2026-09-25T22:35:43.558Z",
+      "updated_at": "2026-11-02T16:00:00.272Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
