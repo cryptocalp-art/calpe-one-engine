@@ -2,17 +2,17 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-03T15:12:30.665Z",
+  "generated_at": "2026-11-03T21:02:53.904Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-03T15:12:30.512Z",
+  "last_activity": "2026-11-03T21:02:53.734Z",
   "newspaper": {
-    "archive_total": 138,
-    "published_today": 1,
-    "published_last_7_days": 15,
+    "archive_total": 139,
+    "published_today": 2,
+    "published_last_7_days": 14,
     "categories": {
+      "MEDIO_AMBIENTE": 24,
       "ECONOMIA": 21,
       "CULTURA": 8,
-      "MEDIO_AMBIENTE": 23,
       "SOCIEDAD": 17,
       "TURISMO": 13,
       "LOCAL": 18,
@@ -21,6 +21,13 @@
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_c065da5dcc810ddc",
+        "title": "Calp acogerá el 6 de noviembre la IX gala autonómica de las «Flors d’Honor»",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-gala-flors-dhonor-viles-en-flor",
+        "published_at": "2026-11-03T21:02:25.804Z"
+      },
       {
         "archive_id": "arc_5de34d8b2c2ddaa3",
         "title": "Calp registra una diferencia de 6.300 euros entre sus secciones censales según la renta",
@@ -69,21 +76,14 @@
         "category": "SOCIEDAD",
         "slug": "calp-ayudas-proyectos-interes-social-2026",
         "published_at": "2026-10-30T01:03:01.090Z"
-      },
-      {
-        "archive_id": "arc_f486e71920e57192",
-        "title": "Calp programa visitas guiadas, actividades comerciales y cultura del 30 de octubre al 1 de noviembre",
-        "category": "TURISMO",
-        "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
-        "published_at": "2026-10-29T14:24:01.982Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 4,
+    "radar_candidates": 7,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
+    "drafts": 2,
+    "eligible": 2,
     "quarantined": 0,
     "archive_added": 1
   },

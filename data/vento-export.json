@@ -3,163 +3,291 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-11-03T15:12:19.397Z",
+  "generated_at": "2026-11-03T21:02:37.621Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 1,
-  "ready_count": 1,
+  "drafts_seen": 2,
+  "ready_count": 2,
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_bad840c8b77a38e8",
+      "export_id": "exp_10af398e2e0e34c2",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-11-03T15:12:19.397Z",
-      "source_draft_id": "drf_df38f4dd68a27df7",
-      "source_investigation_id": "inv_43dbfc7189ceb1b6",
-      "candidate_fingerprint": "d925040201f7f031b6531180ea1cf02684750a45ad96f04ba943844a5cc6bff6",
-      "quality_gate_id": "qg_300fd2b0f8260f6b",
+      "generated_at": "2026-11-03T21:02:37.621Z",
+      "source_draft_id": "drf_3a5027028d4b03c0",
+      "source_investigation_id": "inv_c4bd7da12216f14a",
+      "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
+      "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_df38f4dd68a27df7",
-        "investigation_id": "inv_43dbfc7189ceb1b6",
-        "candidate_fingerprint": "d925040201f7f031b6531180ea1cf02684750a45ad96f04ba943844a5cc6bff6",
-        "title": "Calp registra una diferencia de 6.300 euros entre sus secciones censales según la renta",
-        "subtitle": "Los datos de 2024 sitúan la renta mediana anual por unidad de consumo entre 13.650 y 19.950 euros en las nueve secciones del municipio",
-        "summary": "Las nueve secciones censales de Calp presentan una diferencia de 6.300 euros entre sus valores extremos de renta mediana anual por unidad de consumo, según los datos de 2024 del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE). Las cifras oscilan entre 13.650 y 19.950 euros.",
-        "body": "Las nueve secciones censales de Calp registraron en 2024 rentas medianas anuales por unidad de consumo comprendidas entre 13.650 y 19.950 euros. La diferencia entre ambos valores es de 6.300 euros, de acuerdo con el análisis del Observatori Marina Alta, elaborado a partir de los datos del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE).\n\nEl indicador utilizado es la **renta mediana anual por unidad de consumo**. Por tanto, las cifras no representan un salario medio, una renta media de los hogares ni los ingresos individuales de cada residente. La mediana divide los valores ordenados en dos mitades, mientras que la unidad de consumo es la referencia empleada en esta estadística para comparar la renta de los hogares.\n\nEl análisis sitúa a Calp en el tercer lugar de la Marina Alta en cuanto a diferencia absoluta entre sus secciones censales. Esta posición se refiere exclusivamente al contraste entre el valor más alto y el más bajo dentro de cada municipio, no a un índice general de desigualdad social.\n\nLas secciones censales son divisiones estadísticas utilizadas para presentar los datos. Su correspondencia con las zonas o barrios de Calp es aproximada y no implica que coincidan necesariamente con límites administrativos de barrios.\n\nLa información procede de la edición de 2024 del Atlas de Distribución de Renta de los Hogares del INE, cuya última edición disponible fue publicada el 19 de octubre de 2026. El Observatori Marina Alta y CREAMA recogen para Calp el mismo intervalo de valores y la diferencia de 6.300 euros entre sus secciones censales.",
-        "category": "ECONOMIA",
-        "slug": "calp-diferencia-renta-secciones-censales-2024",
-        "seo_title": "Calp registra una brecha de renta de 6.300 euros por zonas",
-        "meta_description": "Las nueve secciones censales de Calp tienen rentas medianas por unidad de consumo de entre 13.650 y 19.950 euros según los datos de 2024 del INE.",
+        "external_id": "drf_3a5027028d4b03c0",
+        "investigation_id": "inv_c4bd7da12216f14a",
+        "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
+        "title": "Calp pone en marcha el nuevo servicio de limpieza y mantenimiento de playas",
+        "subtitle": "El contrato, adjudicado a FCC Medio Ambiente, eleva un 40% la inversión anual e incorpora más personal, maquinaria y zonas de actuación",
+        "summary": "El nuevo servicio de limpieza y mantenimiento de playas y calas de Calp comenzó a prestarse el 1 de noviembre con una inversión anual comunicada de 639.726,71 euros, un 40% superior a la anterior. El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
+        "body": "El servicio municipal amplía los medios destinados a la limpieza del litoral y modifica las frecuencias de trabajo según la temporada. En los periodos de mayor actividad habrá 15 efectivos diarios, mientras que en temporada media y baja se contará con nueve personas.\n\nLa planificación contempla servicio todos los días durante la temporada alta. En la temporada media, la limpieza se realizará seis días por semana, y en la baja, cinco días semanales.\n\nEl contrato incorpora nueva maquinaria y equipos, además de 150 papeleras destinadas a la recogida selectiva. Los trabajos no se limitarán a las playas con mayor afluencia, sino que también se extenderán a calas de difícil acceso y a otros puntos del litoral, como acantilados, escolleras y zonas rocosas.\n\nLa adjudicación del servicio corresponde a FCC Medio Ambiente, S.A.U. La cifra de 639.726,71 euros corresponde al importe anual comunicado por el Ayuntamiento de Calp. Las bases de datos de contratación manejan también otras magnitudes, como importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con esa cantidad anual.\n\nLa información sobre el nuevo servicio ha sido comunicada por el Ayuntamiento y reproducida por una publicación periodística independiente. Los datos de contratación consultados confirman por separado la existencia del procedimiento y su adjudicación.",
+        "category": "TURISMO",
+        "slug": "calp-nuevo-servicio-limpieza-mantenimiento-playas",
+        "seo_title": "Calp activa el nuevo servicio de limpieza de playas",
+        "meta_description": "El servicio de limpieza de playas de Calp comienza con un 40% más de inversión anual, más personal, maquinaria, frecuencias y 150 papeleras selectivas.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_300fd2b0f8260f6b",
+        "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
         "editorial_notes": [
-          "Mantener siempre la expresión «renta mediana anual por unidad de consumo» y evitar términos como renta media, salario medio o ingresos individuales.",
-          "Aclarar que las zonas o barrios son una aproximación a las secciones censales y que la tercera posición corresponde a la diferencia absoluta interna, no a un índice general de desigualdad."
+          "Precisar que los 639.726,71 euros corresponden a la inversión anual comunicada por el Ayuntamiento y no necesariamente al valor total del contrato ni al importe sin IVA de la adjudicación."
         ],
         "sources": [
           {
-            "name": "Observatori Marina Alta",
-            "url": "https://observatorimarinaalta.org/renta-marina-alta-2024/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
             "type": "PRIMARY"
           },
           {
-            "name": "CREAMA",
-            "url": "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Instituto Nacional de Estadística",
-            "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Times",
-            "url": "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
+            "name": "El Periòdic",
+            "url": "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
             "type": "SECONDARY"
           },
           {
-            "name": "La Marina de elDiario.es",
-            "url": "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/",
+            "name": "Gobierto Contratación",
+            "url": "https://contratos.gobierto.es/licitaciones/5090926",
             "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://observatorimarinaalta.org/renta-marina-alta-2024/",
-          "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
-          "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
-          "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
-          "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+          "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
+          "https://contratos.gobierto.es/licitaciones/5090926"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 5,
+          "supported_claim_count": 7,
+          "evidence_count": 3,
           "caveats": [
-            "Debe utilizarse la expresión renta mediana anual por unidad de consumo, no renta media anual de los hogares ni ingreso individual.",
-            "Las referencias a zonas o barrios son aproximaciones cartográficas de secciones censales y no equivalen necesariamente a límites administrativos de barrios.",
-            "La posición de tercer municipio se refiere a la diferencia absoluta entre secciones censales de la Marina Alta, no a un índice general de desigualdad social."
+            "La cifra de inversión corresponde al importe anual del contrato comunicado por el Ayuntamiento; las bases de datos de contratación también muestran importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con la cifra anual publicada.",
+            "La corroboración periodística independiente reproduce esencialmente la información municipal, aunque los datos de contratación confirman por separado la existencia y adjudicación del servicio."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_300fd2b0f8260f6b",
-          "quality_gate_evaluated_at": "2026-11-03T15:12:19.290Z",
+          "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
+          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
           "quality_gate_warnings": []
         },
-        "created_at": "2026-11-03T15:12:05.008Z",
+        "created_at": "2026-11-03T21:02:25.804Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_df38f4dd68a27df7",
-        "title": "Calp registra una diferencia de 6.300 euros entre sus secciones censales según la renta",
-        "slug": "calp-diferencia-renta-secciones-censales-2024",
-        "summary": "Las nueve secciones censales de Calp presentan una diferencia de 6.300 euros entre sus valores extremos de renta mediana anual por unidad de consumo, según los datos de 2024 del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE). Las cifras oscilan entre 13.650 y 19.950 euros.",
-        "body": "Las nueve secciones censales de Calp registraron en 2024 rentas medianas anuales por unidad de consumo comprendidas entre 13.650 y 19.950 euros. La diferencia entre ambos valores es de 6.300 euros, de acuerdo con el análisis del Observatori Marina Alta, elaborado a partir de los datos del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE).\n\nEl indicador utilizado es la **renta mediana anual por unidad de consumo**. Por tanto, las cifras no representan un salario medio, una renta media de los hogares ni los ingresos individuales de cada residente. La mediana divide los valores ordenados en dos mitades, mientras que la unidad de consumo es la referencia empleada en esta estadística para comparar la renta de los hogares.\n\nEl análisis sitúa a Calp en el tercer lugar de la Marina Alta en cuanto a diferencia absoluta entre sus secciones censales. Esta posición se refiere exclusivamente al contraste entre el valor más alto y el más bajo dentro de cada municipio, no a un índice general de desigualdad social.\n\nLas secciones censales son divisiones estadísticas utilizadas para presentar los datos. Su correspondencia con las zonas o barrios de Calp es aproximada y no implica que coincidan necesariamente con límites administrativos de barrios.\n\nLa información procede de la edición de 2024 del Atlas de Distribución de Renta de los Hogares del INE, cuya última edición disponible fue publicada el 19 de octubre de 2026. El Observatori Marina Alta y CREAMA recogen para Calp el mismo intervalo de valores y la diferencia de 6.300 euros entre sus secciones censales.",
-        "category": "ECONOMIA",
-        "seo_title": "Calp registra una brecha de renta de 6.300 euros por zonas",
-        "meta_description": "Las nueve secciones censales de Calp tienen rentas medianas por unidad de consumo de entre 13.650 y 19.950 euros según los datos de 2024 del INE.",
+        "external_id": "drf_3a5027028d4b03c0",
+        "title": "Calp pone en marcha el nuevo servicio de limpieza y mantenimiento de playas",
+        "slug": "calp-nuevo-servicio-limpieza-mantenimiento-playas",
+        "summary": "El nuevo servicio de limpieza y mantenimiento de playas y calas de Calp comenzó a prestarse el 1 de noviembre con una inversión anual comunicada de 639.726,71 euros, un 40% superior a la anterior. El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
+        "body": "El servicio municipal amplía los medios destinados a la limpieza del litoral y modifica las frecuencias de trabajo según la temporada. En los periodos de mayor actividad habrá 15 efectivos diarios, mientras que en temporada media y baja se contará con nueve personas.\n\nLa planificación contempla servicio todos los días durante la temporada alta. En la temporada media, la limpieza se realizará seis días por semana, y en la baja, cinco días semanales.\n\nEl contrato incorpora nueva maquinaria y equipos, además de 150 papeleras destinadas a la recogida selectiva. Los trabajos no se limitarán a las playas con mayor afluencia, sino que también se extenderán a calas de difícil acceso y a otros puntos del litoral, como acantilados, escolleras y zonas rocosas.\n\nLa adjudicación del servicio corresponde a FCC Medio Ambiente, S.A.U. La cifra de 639.726,71 euros corresponde al importe anual comunicado por el Ayuntamiento de Calp. Las bases de datos de contratación manejan también otras magnitudes, como importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con esa cantidad anual.\n\nLa información sobre el nuevo servicio ha sido comunicada por el Ayuntamiento y reproducida por una publicación periodística independiente. Los datos de contratación consultados confirman por separado la existencia del procedimiento y su adjudicación.",
+        "category": "TURISMO",
+        "seo_title": "Calp activa el nuevo servicio de limpieza de playas",
+        "meta_description": "El servicio de limpieza de playas de Calp comienza con un 40% más de inversión anual, más personal, maquinaria, frecuencias y 150 papeleras selectivas.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_300fd2b0f8260f6b",
+        "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
         "published_at": null,
         "source_urls": [
-          "https://observatorimarinaalta.org/renta-marina-alta-2024/",
-          "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
-          "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
-          "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
-          "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/"
+          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+          "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
+          "https://contratos.gobierto.es/licitaciones/5090926"
         ],
         "sources": [
           {
-            "name": "Observatori Marina Alta",
-            "url": "https://observatorimarinaalta.org/renta-marina-alta-2024/",
+            "name": "Ayuntamiento de Calp",
+            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
             "type": "PRIMARY"
           },
           {
-            "name": "CREAMA",
-            "url": "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Instituto Nacional de Estadística",
-            "url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "La Marina Times",
-            "url": "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
+            "name": "El Periòdic",
+            "url": "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
             "type": "SECONDARY"
           },
           {
-            "name": "La Marina de elDiario.es",
-            "url": "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/",
+            "name": "Gobierto Contratación",
+            "url": "https://contratos.gobierto.es/licitaciones/5090926",
             "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_43dbfc7189ceb1b6",
-        "candidate_fingerprint": "d925040201f7f031b6531180ea1cf02684750a45ad96f04ba943844a5cc6bff6",
+        "investigation_id": "inv_c4bd7da12216f14a",
+        "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "HIGH",
-          "supported_claim_count": 5,
-          "evidence_count": 5,
+          "supported_claim_count": 7,
+          "evidence_count": 3,
           "caveats": [
-            "Debe utilizarse la expresión renta mediana anual por unidad de consumo, no renta media anual de los hogares ni ingreso individual.",
-            "Las referencias a zonas o barrios son aproximaciones cartográficas de secciones censales y no equivalen necesariamente a límites administrativos de barrios.",
-            "La posición de tercer municipio se refiere a la diferencia absoluta entre secciones censales de la Marina Alta, no a un índice general de desigualdad social."
+            "La cifra de inversión corresponde al importe anual del contrato comunicado por el Ayuntamiento; las bases de datos de contratación también muestran importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con la cifra anual publicada.",
+            "La corroboración periodística independiente reproduce esencialmente la información municipal, aunque los datos de contratación confirman por separado la existencia y adjudicación del servicio."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_300fd2b0f8260f6b",
-          "quality_gate_evaluated_at": "2026-11-03T15:12:19.290Z",
+          "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
+          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
+          "quality_gate_warnings": []
+        },
+        "engine_version": "publisher-export-v2"
+      }
+    },
+    {
+      "export_id": "exp_fe2833f0d8c3421a",
+      "target": "VENTO",
+      "target_storage_draft": "calpe_drafts",
+      "target_storage_news": "calpe_news",
+      "delivery_mode": "EXPORT_ONLY",
+      "bridge_status": "READY_FOR_VENTO",
+      "generated_at": "2026-11-03T21:02:37.621Z",
+      "source_draft_id": "drf_1c56eb7917cdf236",
+      "source_investigation_id": "inv_2978847b1b86fc58",
+      "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
+      "quality_gate_id": "qg_5d265cfa82abf8a7",
+      "quality_gate_status": "ELIGIBLE",
+      "calpe_drafts": {
+        "external_id": "drf_1c56eb7917cdf236",
+        "investigation_id": "inv_2978847b1b86fc58",
+        "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
+        "title": "Calp acogerá el 6 de noviembre la IX gala autonómica de las «Flors d’Honor»",
+        "subtitle": "La ceremonia del programa Viles en Flor reunirá a 64 municipios de la Comunitat Valenciana en la Lonja",
+        "summary": "La Lonja de Calp acogerá el próximo 6 de noviembre la IX gala de los premios «Flors d’Honor», un acto del programa Viles en Flor impulsado por la Fundación ASFPLANT. En esta edición optan a los reconocimientos 64 municipios de la Comunitat Valenciana.",
+        "body": "La gala reconocerá iniciativas relacionadas con la creación, conservación y gestión sostenible de espacios verdes, así como con el paisaje urbano y la sostenibilidad. Calp ejercerá como municipio anfitrión y tomará el relevo de Alberic, que fue la sede de la edición de 2025.\n\nLa cifra de municipios participantes aumenta un 18,5% respecto a la edición anterior, en la que concurrieron 54 localidades. El programa Viles en Flor está orientado a distinguir la mejora y la gestión sostenible de los espacios verdes urbanos y las actuaciones vinculadas a la educación ambiental, según la información de ASFPLANT.\n\nLa celebración está prevista para el viernes 6 de noviembre en la Lonja de Calp. A fecha de redacción de esta información, el acto todavía no se ha celebrado, por lo que la realización efectiva de la gala y los municipios que finalmente reciban los reconocimientos deberán comprobarse después de esa fecha.\n\nLos datos sobre la fecha, la sede y la participación de 64 municipios aparecen en varias publicaciones coincidentes. Estas informaciones parecen proceder de una misma comunicación de ASFPLANT, por lo que no deben interpretarse como corroboraciones completamente independientes. La página oficial de la entidad organizadora confirma el programa y sus objetivos, aunque no recoge en el texto consultado todos los detalles concretos de la gala de 2026.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "calp-gala-flors-dhonor-viles-en-flor",
+        "seo_title": "Calp acogerá la gala de las «Flors d’Honor»",
+        "meta_description": "La IX gala de Viles en Flor se celebrará el 6 de noviembre en la Lonja de Calp con 64 municipios de la Comunitat Valenciana.",
+        "status": "ELIGIBLE",
+        "review_required": false,
+        "publishable_by_engine": true,
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_5d265cfa82abf8a7",
+        "editorial_notes": [
+          "La gala era un acto futuro a la fecha de redacción: verificar posteriormente su celebración y los municipios finalmente reconocidos.",
+          "Indicar que varias publicaciones coincidentes parecen proceder de una misma comunicación de ASFPLANT y no constituyen corroboraciones plenamente independientes."
+        ],
+        "sources": [
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "El Periódico de Aquí",
+            "url": "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Agronews Comunitat Valenciana",
+            "url": "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "ASFPLANT",
+            "url": "https://www.asfplant.com/viles-en-flor/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp, dosier de prensa",
+            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
+            "type": "PRIMARY"
+          }
+        ],
+        "source_urls": [
+          "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+          "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+          "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+          "https://www.asfplant.com/viles-en-flor/",
+          "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3"
+        ],
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 6,
+          "evidence_count": 5,
+          "caveats": [
+            "Las publicaciones periodísticas presentan datos prácticamente coincidentes y parecen proceder de una misma nota informativa de ASFPLANT; por ello, no se consideran tres corroboraciones independientes entre sí.",
+            "La página oficial de ASFPLANT consultada confirma el programa y sus objetivos, pero no muestra en el texto accesible todos los detalles concretos de la gala de 2026.",
+            "La gala era un evento futuro a fecha de la investigación, 3 de noviembre de 2026; la celebración efectiva y los municipios finalmente premiados deberán comprobarse después del 6 de noviembre."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_5d265cfa82abf8a7",
+          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
+          "quality_gate_warnings": []
+        },
+        "created_at": "2026-11-03T21:02:25.804Z",
+        "engine_version": "publisher-export-v2"
+      },
+      "calpe_news_candidate": {
+        "external_id": "drf_1c56eb7917cdf236",
+        "title": "Calp acogerá el 6 de noviembre la IX gala autonómica de las «Flors d’Honor»",
+        "slug": "calp-gala-flors-dhonor-viles-en-flor",
+        "summary": "La Lonja de Calp acogerá el próximo 6 de noviembre la IX gala de los premios «Flors d’Honor», un acto del programa Viles en Flor impulsado por la Fundación ASFPLANT. En esta edición optan a los reconocimientos 64 municipios de la Comunitat Valenciana.",
+        "body": "La gala reconocerá iniciativas relacionadas con la creación, conservación y gestión sostenible de espacios verdes, así como con el paisaje urbano y la sostenibilidad. Calp ejercerá como municipio anfitrión y tomará el relevo de Alberic, que fue la sede de la edición de 2025.\n\nLa cifra de municipios participantes aumenta un 18,5% respecto a la edición anterior, en la que concurrieron 54 localidades. El programa Viles en Flor está orientado a distinguir la mejora y la gestión sostenible de los espacios verdes urbanos y las actuaciones vinculadas a la educación ambiental, según la información de ASFPLANT.\n\nLa celebración está prevista para el viernes 6 de noviembre en la Lonja de Calp. A fecha de redacción de esta información, el acto todavía no se ha celebrado, por lo que la realización efectiva de la gala y los municipios que finalmente reciban los reconocimientos deberán comprobarse después de esa fecha.\n\nLos datos sobre la fecha, la sede y la participación de 64 municipios aparecen en varias publicaciones coincidentes. Estas informaciones parecen proceder de una misma comunicación de ASFPLANT, por lo que no deben interpretarse como corroboraciones completamente independientes. La página oficial de la entidad organizadora confirma el programa y sus objetivos, aunque no recoge en el texto consultado todos los detalles concretos de la gala de 2026.",
+        "category": "MEDIO_AMBIENTE",
+        "seo_title": "Calp acogerá la gala de las «Flors d’Honor»",
+        "meta_description": "La IX gala de Viles en Flor se celebrará el 6 de noviembre en la Lonja de Calp con 64 municipios de la Comunitat Valenciana.",
+        "status": "READY",
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_id": "qg_5d265cfa82abf8a7",
+        "published_at": null,
+        "source_urls": [
+          "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+          "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+          "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+          "https://www.asfplant.com/viles-en-flor/",
+          "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3"
+        ],
+        "sources": [
+          {
+            "name": "La Marina Alta",
+            "url": "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "El Periódico de Aquí",
+            "url": "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "Agronews Comunitat Valenciana",
+            "url": "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+            "type": "SECONDARY"
+          },
+          {
+            "name": "ASFPLANT",
+            "url": "https://www.asfplant.com/viles-en-flor/",
+            "type": "PRIMARY"
+          },
+          {
+            "name": "Ayuntamiento de Calp, dosier de prensa",
+            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
+            "type": "PRIMARY"
+          }
+        ],
+        "investigation_id": "inv_2978847b1b86fc58",
+        "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
+        "provenance": {
+          "investigation_status": "VERIFIED",
+          "confidence": "MEDIUM",
+          "supported_claim_count": 6,
+          "evidence_count": 5,
+          "caveats": [
+            "Las publicaciones periodísticas presentan datos prácticamente coincidentes y parecen proceder de una misma nota informativa de ASFPLANT; por ello, no se consideran tres corroboraciones independientes entre sí.",
+            "La página oficial de ASFPLANT consultada confirma el programa y sus objetivos, pero no muestra en el texto accesible todos los detalles concretos de la gala de 2026.",
+            "La gala era un evento futuro a fecha de la investigación, 3 de noviembre de 2026; la celebración efectiva y los municipios finalmente premiados deberán comprobarse después del 6 de noviembre."
+          ],
+          "quality_gate_status": "ELIGIBLE",
+          "quality_gate_version": "quality-gate-v1",
+          "quality_gate_id": "qg_5d265cfa82abf8a7",
+          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
           "quality_gate_warnings": []
         },
         "engine_version": "publisher-export-v2"
