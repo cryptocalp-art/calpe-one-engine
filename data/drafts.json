@@ -1,8 +1,68 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-11-03T06:50:57.109Z",
+  "generated_at": "2026-11-03T15:12:05.008Z",
   "model": "gpt-5.6-luna",
-  "count": 0,
-  "drafts": []
+  "count": 1,
+  "drafts": [
+    {
+      "id": "drf_df38f4dd68a27df7",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "candidate_fingerprint": "d925040201f7f031b6531180ea1cf02684750a45ad96f04ba943844a5cc6bff6",
+      "category": "ECONOMIA",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-11-03T15:12:05.008Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp registra una diferencia de 6.300 euros entre sus secciones censales según la renta",
+      "subheadline": "Los datos de 2024 sitúan la renta mediana anual por unidad de consumo entre 13.650 y 19.950 euros en las nueve secciones del municipio",
+      "lead": "Las nueve secciones censales de Calp presentan una diferencia de 6.300 euros entre sus valores extremos de renta mediana anual por unidad de consumo, según los datos de 2024 del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE). Las cifras oscilan entre 13.650 y 19.950 euros.",
+      "body_markdown": "Las nueve secciones censales de Calp registraron en 2024 rentas medianas anuales por unidad de consumo comprendidas entre 13.650 y 19.950 euros. La diferencia entre ambos valores es de 6.300 euros, de acuerdo con el análisis del Observatori Marina Alta, elaborado a partir de los datos del Atlas de Distribución de Renta de los Hogares del Instituto Nacional de Estadística (INE).\n\nEl indicador utilizado es la **renta mediana anual por unidad de consumo**. Por tanto, las cifras no representan un salario medio, una renta media de los hogares ni los ingresos individuales de cada residente. La mediana divide los valores ordenados en dos mitades, mientras que la unidad de consumo es la referencia empleada en esta estadística para comparar la renta de los hogares.\n\nEl análisis sitúa a Calp en el tercer lugar de la Marina Alta en cuanto a diferencia absoluta entre sus secciones censales. Esta posición se refiere exclusivamente al contraste entre el valor más alto y el más bajo dentro de cada municipio, no a un índice general de desigualdad social.\n\nLas secciones censales son divisiones estadísticas utilizadas para presentar los datos. Su correspondencia con las zonas o barrios de Calp es aproximada y no implica que coincidan necesariamente con límites administrativos de barrios.\n\nLa información procede de la edición de 2024 del Atlas de Distribución de Renta de los Hogares del INE, cuya última edición disponible fue publicada el 19 de octubre de 2026. El Observatori Marina Alta y CREAMA recogen para Calp el mismo intervalo de valores y la diferencia de 6.300 euros entre sus secciones censales.",
+      "seo_title": "Calp registra una brecha de renta de 6.300 euros por zonas",
+      "meta_description": "Las nueve secciones censales de Calp tienen rentas medianas por unidad de consumo de entre 13.650 y 19.950 euros según los datos de 2024 del INE.",
+      "slug": "calp-diferencia-renta-secciones-censales-2024",
+      "editorial_notes": [
+        "Mantener siempre la expresión «renta mediana anual por unidad de consumo» y evitar términos como renta media, salario medio o ingresos individuales.",
+        "Aclarar que las zonas o barrios son una aproximación a las secciones censales y que la tercera posición corresponde a la diferencia absoluta interna, no a un índice general de desigualdad."
+      ],
+      "sources": [
+        {
+          "source_name": "Observatori Marina Alta",
+          "source_url": "https://observatorimarinaalta.org/renta-marina-alta-2024/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "CREAMA",
+          "source_url": "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Instituto Nacional de Estadística",
+          "source_url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "La Marina Times",
+          "source_url": "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "La Marina de elDiario.es",
+          "source_url": "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 5,
+        "caveats": [
+          "Debe utilizarse la expresión renta mediana anual por unidad de consumo, no renta media anual de los hogares ni ingreso individual.",
+          "Las referencias a zonas o barrios son aproximaciones cartográficas de secciones censales y no equivalen necesariamente a límites administrativos de barrios.",
+          "La posición de tercer municipio se refiere a la diferencia absoluta entre secciones censales de la Marina Alta, no a un índice general de desigualdad social."
+        ]
+      }
+    }
+  ]
 }

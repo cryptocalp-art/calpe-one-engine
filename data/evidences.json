@@ -1,5 +1,70 @@
 {
-  "generated_at": "2026-11-03T06:50:56.914Z",
-  "count": 0,
-  "evidences": []
+  "generated_at": "2026-11-03T15:11:07.248Z",
+  "count": 8,
+  "evidences": [
+    {
+      "id": "evd_8cd3f976a1fd85fa",
+      "investigation_id": "inv_e9f7b02f64300cf3",
+      "source_name": "Diputación de Alicante / Unidad de Residentes Internacionales",
+      "source_url": "https://www.ciudadanosextranjeros.es/actividades/",
+      "evidence": "La página oficial de actividades de 2026 anuncia el Curso de español online para residentes internacionales, indica que la inscripción es gratuita, fija el plazo hasta el 15 de noviembre de 2026 o hasta completar las plazas, exige estar empadronado en un municipio de la provincia de Alicante y especifica que hay 450 licencias disponibles.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_c048b64573c3dd6d",
+      "investigation_id": "inv_e9f7b02f64300cf3",
+      "source_name": "El Periódico",
+      "source_url": "https://www.elperiodic.com/val/palicante/diputacio-oferix-places-cursos-castella-linia-dirigits-residents-internacionals_1100116",
+      "evidence": "La información publicada el 30 de octubre de 2026 atribuye la convocatoria a la Diputación de Alicante, confirma que es gratuita, que ofrece 450 plazas, que el plazo llega hasta el 15 de noviembre y que está dirigida a personas empadronadas en la provincia.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_3231bffecea8d8c1",
+      "investigation_id": "inv_e9f7b02f64300cf3",
+      "source_name": "Diputación de Alicante",
+      "source_url": "https://www.diputacionalicante.es/noticias/la-diputacion-abre-la-inscripcion-para-cubrir-las-450-plazas-de-los-cursos-de-castellano-online-para-residentes-internacionales/",
+      "evidence": "La Diputación identifica oficialmente el programa como propio y describe cursos de castellano online gratuitos para personas empadronadas en la provincia. Esta página corresponde a una edición anterior, de 2025, y no acredita por sí sola las fechas de 2026.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_3c88ad32ae94f942",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "source_name": "Observatori Marina Alta",
+      "source_url": "https://observatorimarinaalta.org/renta-marina-alta-2024/",
+      "evidence": "El análisis del Observatori indica que las nueve secciones censales de Calp registran rentas medianas entre 13.650 y 19.950 euros, con una diferencia de 6.300 euros, y califica a Calp como el tercer municipio de la comarca por contraste interno. También explica que el indicador es la renta mediana por unidad de consumo y que se basa en datos de 2024 del INE.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_ff43f35585c2a93c",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "source_name": "CREAMA",
+      "source_url": "https://creama.org/el-observatori-actualiza-las-diferencias-de-renta-por-secciones-censales/",
+      "evidence": "CREAMA resume la actualización del Observatori y confirma expresamente que Calp ocupa el tercer lugar, con una diferencia de 6.300 euros entre sus secciones censales, cuyos valores medianos oscilan entre 13.650 y 19.950 euros.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_1e47de3afd88e7a6",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "source_name": "Instituto Nacional de Estadística",
+      "source_url": "https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177088&idp=1254735976608&menu=resultados",
+      "evidence": "El INE identifica el Atlas de Distribución de Renta de los Hogares como la estadística que ofrece resultados por municipios, distritos y secciones censales, y señala que la última edición disponible corresponde al año 2024, publicada el 19 de octubre de 2026.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_de88622abc2e3349",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "source_name": "La Marina Times",
+      "source_url": "https://lamarinatimes.com/es/economia/el-observatori-marina-alta-detecta-brechas-de-renta-de-hasta-10500-euros-dentro-de-un-mismo",
+      "evidence": "El medio informa de forma independiente que Calp presenta una distancia de 6.300 euros entre sus zonas, con rentas comprendidas entre 13.650 y 19.950 euros, dentro del análisis de datos de renta de 2024 del Observatori y del INE.",
+      "source_type": "SECONDARY"
+    },
+    {
+      "id": "evd_787ca9bd21f6bfda",
+      "investigation_id": "inv_43dbfc7189ceb1b6",
+      "source_name": "La Marina de elDiario.es",
+      "source_url": "https://lamarina.eldiario.es/2026/11/02/el-mapa-de-la-renta-en-la-marina-alta-ii-los-fuertes-contrastes-internos-en-denia-xabia-y-calp/",
+      "evidence": "La publicación recoge que las nueve secciones censales de Calp tienen rentas medianas entre 13.650 y 19.950 euros, con una diferencia de 6.300 euros, y que el análisis se basa en el mapa de renta por unidad de consumo elaborado a partir de datos del INE.",
+      "source_type": "SECONDARY"
+    }
+  ]
 }

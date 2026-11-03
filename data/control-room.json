@@ -2,14 +2,15 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-03T06:51:11.534Z",
+  "generated_at": "2026-11-03T15:12:30.665Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-03T06:51:11.320Z",
+  "last_activity": "2026-11-03T15:12:30.512Z",
   "newspaper": {
-    "archive_total": 137,
-    "published_today": 0,
-    "published_last_7_days": 17,
+    "archive_total": 138,
+    "published_today": 1,
+    "published_last_7_days": 15,
     "categories": {
+      "ECONOMIA": 21,
       "CULTURA": 8,
       "MEDIO_AMBIENTE": 23,
       "SOCIEDAD": 17,
@@ -17,10 +18,16 @@
       "LOCAL": 18,
       "SUCESOS": 22,
       "POLITICA": 11,
-      "ECONOMIA": 20,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_5de34d8b2c2ddaa3",
+        "title": "Calp registra una diferencia de 6.300 euros entre sus secciones censales según la renta",
+        "category": "ECONOMIA",
+        "slug": "calp-diferencia-renta-secciones-censales-2024",
+        "published_at": "2026-11-03T15:12:05.008Z"
+      },
       {
         "archive_id": "arc_47e9c467b9cade2c",
         "title": "La Cubana actuará por primera vez en Calp con tres funciones en noviembre",
@@ -69,23 +76,16 @@
         "category": "TURISMO",
         "slug": "agenda-actividades-calp-30-octubre-1-noviembre",
         "published_at": "2026-10-29T14:24:01.982Z"
-      },
-      {
-        "archive_id": "arc_a2d787e299d711ef",
-        "title": "Calp abre el plazo para solicitar uno de los huertos urbanos municipales",
-        "category": "LOCAL",
-        "slug": "calp-plazo-solicitar-huertos-urbanos-municipales",
-        "published_at": "2026-10-28T21:08:27.608Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 3,
+    "radar_candidates": 4,
     "investigated": 0,
-    "drafts": 0,
-    "eligible": 0,
+    "drafts": 1,
+    "eligible": 1,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
