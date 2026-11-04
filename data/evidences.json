@@ -1,46 +1,70 @@
 {
-  "generated_at": "2026-11-04T01:24:43.513Z",
-  "count": 5,
+  "generated_at": "2026-11-04T09:16:57.826Z",
+  "count": 8,
   "evidences": [
     {
-      "id": "evd_0eeafb2916e934d4",
-      "investigation_id": "inv_2b7ed2bb2f822e7e",
-      "source_name": "AEMET Comunitat Valenciana",
-      "source_url": "https://x.com/AEMET_CValencia/status/2117524317688721747",
-      "evidence": "La publicación oficial citada por La Marina Alta, fechada el 3 de noviembre de 2026 a las 08:48, indica para la Comunitat Valenciana lluvias con nivel máximo de aviso amarillo. La fuente fue enlazada desde la noticia original; la página de X bloqueó la consulta directa, pero conserva la URL oficial del aviso.",
+      "id": "evd_265b2ab385601d71",
+      "investigation_id": "inv_845575ec6d1a34f2",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/el-auditorio-de-calp-acoge-del-7-al-29-de-noviembre-el-xiv-certamen-nacional-de-teatro",
+      "evidence": "La nota municipal anuncia el certamen del 7 al 29 de noviembre, identifica las tres fechas de las obras finalistas, fija la clausura y entrega de premios el 29 de noviembre e indica que las funciones tendrán entrada libre hasta completar aforo.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_63539607db2a14ae",
-      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "id": "evd_0619d20e79015817",
+      "investigation_id": "inv_845575ec6d1a34f2",
+      "source_name": "Ayuntamiento de Calp — Agenda de eventos",
+      "source_url": "https://noticias.calp.es/es/eventos/xiv-certamen-nacional-de-teatro-amateur-antonio-ferrer-el-cartero",
+      "evidence": "La agenda oficial detalla las funciones de los días 7, 14 y 15 de noviembre, la clausura del día 29 y la condición de entrada libre hasta completar aforo.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_40b67c7c47c36418",
+      "investigation_id": "inv_845575ec6d1a34f2",
       "source_name": "La Marina Alta",
-      "source_url": "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
-      "evidence": "La noticia, publicada el 3 de noviembre de 2026 a las 09:16, atribuye a AEMET un aviso amarillo en el litoral norte de Alicante desde las 20:00, con acumulaciones de 20 l/m² en una hora y 60 l/m² en doce horas, y señala que permanecería vigente hasta las 14:59 del 4 de noviembre. También relaciona el episodio con la Marina Alta.",
+      "source_url": "https://ca.lamarinaalta.com/el-xiv-certamen-nacional-de-teatro-amateur-antonio-ferrer-el-cartero-llega-a-calp-con-entrada-libre-y-7-500-euros-en-premios/",
+      "evidence": "La publicación independiente informa de la celebración del certamen en el Auditorio de la Casa de Cultura entre el 7 y el 29 de noviembre de 2026 y confirma la entrada libre hasta completar aforo.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_a26cb09a2392e273",
-      "investigation_id": "inv_2b7ed2bb2f822e7e",
-      "source_name": "Alicante Press",
-      "source_url": "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
-      "evidence": "La información publicada el 2 de noviembre confirma avisos amarillos de AEMET para Alicante. Para el litoral norte fija el periodo entre las 20:00 del 3 de noviembre y las 14:59 del 4 de noviembre, con 20 l/m² en una hora y 60 l/m² en doce horas.",
+      "id": "evd_fc781fccfe3c985b",
+      "investigation_id": "inv_845575ec6d1a34f2",
+      "source_name": "Boletín Oficial de la Provincia de Alicante",
+      "source_url": "https://cultura.calp.es/sites/default/files/BASES_BOP_NUM_39_26_02_2026_XIV_CERTAMEN_NACIONAL_TEATRO_AMATERU_ANTONIO_FERRER_EL_CARTERO_CALP_2026.pdf",
+      "evidence": "El BOP recoge la convocatoria oficial del XIV Certamen Nacional de Teatro Amateur «Antonio Ferrer El Cartero» de Calp para 2026.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_9483d82e76583c3b",
+      "investigation_id": "inv_b0d15fe5882d994b",
+      "source_name": "Diputación de Alicante",
+      "source_url": "https://www.diputacionalicante.es/noticias/la-diputacion-ofrece-450-plazas-para-cursos-de-castellano-online-dirigidos-a-residentes-internacionales/",
+      "evidence": "La Diputación anuncia 450 plazas para cursos gratuitos de castellano online, con más de 500 horas de contenido. Indica que la inscripción puede realizarse del 30 de octubre al 15 de noviembre de 2026 o hasta completar las plazas, y que pueden participar personas empadronadas en la provincia de Alicante.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_d0862ffc9552d5ba",
+      "investigation_id": "inv_b0d15fe5882d994b",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12475/calp-cursos-gratuitos-espanol-online-450-plazas-2026",
+      "evidence": "La noticia local informa de la convocatoria provincial, sus 450 plazas, la gratuidad, el plazo del 15 de noviembre y los requisitos de empadronamiento. También explica que el contenido es online y accesible desde ordenadores, tabletas y teléfonos móviles.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_3ad404047ab76de1",
-      "investigation_id": "inv_2b7ed2bb2f822e7e",
-      "source_name": "Tranquicasa",
-      "source_url": "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
-      "evidence": "Su tabla de avisos, actualizada el 3 de noviembre, reproduce para el litoral norte de Alicante el nivel amarillo, los umbrales de 20 l/m² en una hora y 60 l/m² en doce horas, y el periodo del 3 de noviembre a las 20:00 al 4 de noviembre a las 14:59.",
+      "id": "evd_252ee84b140514c3",
+      "investigation_id": "inv_78e30ace267f968c",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12468/calp-programa-camina-caminatas-saludables-noviembre-2026/",
+      "evidence": "La publicación local afirma que el programa comenzó el 3 de noviembre de 2026, que las salidas se realizan los martes y jueves de 9:30 a 11:00 horas desde las escaleras del Sol y Mar y que la actividad está prevista hasta el 27 de mayo de 2027.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_1f0c9814c1079089",
-      "investigation_id": "inv_2b7ed2bb2f822e7e",
-      "source_name": "Observatorio climático de CalentamientoGlobal.es",
-      "source_url": "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/",
-      "evidence": "A las 02:01 del 4 de noviembre, la fuente registró mediante avisos de AEMET vía MeteoAlarm un nivel naranja para el litoral norte de Alicante hasta las 03:59. Esto demuestra que el nivel del aviso cambió posteriormente y constituye una cautela temporal, no una refutación del estado amarillo anunciado el 3 de noviembre por la mañana.",
-      "source_type": "SECONDARY"
+      "id": "evd_0f66c0e2d4da3bca",
+      "investigation_id": "inv_78e30ace267f968c",
+      "source_name": "Departamento de Salud de Dénia — Conselleria de Sanidad",
+      "source_url": "https://denia.san.gva.es/es/mapa-de-activos-de-salud-castella",
+      "evidence": "La página oficial explica que el Departamento de Salud de Dénia mantiene un mapa de activos de salud para los municipios de la Marina Alta e incluye Calp, pero no menciona específicamente el programa «Camina» ni confirma sus fechas, horarios o punto de salida.",
+      "source_type": "PRIMARY"
     }
   ]
 }
