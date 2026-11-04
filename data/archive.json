@@ -3,9 +3,84 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-03T21:02:37.749Z",
-  "count": 139,
+  "updated_at": "2026-11-04T01:25:25.058Z",
+  "count": 140,
   "articles": [
+    {
+      "archive_id": "arc_4a69422ce4def4ad",
+      "external_id": "drf_f6ba25cdcb07e177",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "candidate_fingerprints": [
+        "d56209d00de75f4ce71b2129cd33610c3b2cc76d5965683cdda3e0574c77440e"
+      ],
+      "title": "AEMET activa un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta",
+      "slug": "aviso-amarillo-lluvias-marina-alta",
+      "summary": "AEMET estableció un aviso amarillo por lluvias para el litoral norte de Alicante, una zona que incluye la Marina Alta, con inicio a las 20:00 del martes 3 de noviembre de 2026 y final previsto a las 14:59 del miércoles 4 de noviembre.",
+      "body": "La previsión contemplaba acumulaciones de hasta 20 litros por metro cuadrado en una hora y de 60 litros por metro cuadrado en doce horas. El aviso fue comunicado por AEMET durante la mañana del 3 de noviembre y quedó referido al litoral norte de la provincia de Alicante, área en la que se encuentra la Marina Alta.\n\nLa información fue verificada para el momento de publicación de la noticia original, el 3 de noviembre a las 09:16. Por tanto, el nivel amarillo debe entenderse como el estado anunciado entonces y no como una descripción necesariamente válida durante todo el episodio.\n\nUna actualización registrada a las 02:01 del 4 de noviembre mediante avisos de AEMET consultados a través de MeteoAlarm situó posteriormente el nivel en naranja para el litoral norte de Alicante hasta las 03:59. Este cambio obliga a presentar el aviso amarillo como una previsión fechada y a evitar afirmar que se mantuvo sin modificaciones hasta la finalización del periodo inicialmente anunciado.\n\nLos avisos meteorológicos pueden revisarse durante el desarrollo del episodio. En este caso, la publicación oficial de AEMET Comunitat Valenciana fue localizada a través de la referencia enlazada en la información original, aunque la consulta directa de esa publicación no estuvo disponible por un error de acceso.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Aviso amarillo por lluvias en la Marina Alta",
+      "meta_description": "AEMET anunció un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta, entre el 3 y el 4 de noviembre de 2026.",
+      "sources": [
+        {
+          "name": "AEMET Comunitat Valenciana",
+          "url": "https://x.com/AEMET_CValencia/status/2117524317688721747",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Alta",
+          "url": "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Alicante Press",
+          "url": "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Tranquicasa",
+          "url": "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Observatorio climático de CalentamientoGlobal.es",
+          "url": "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://x.com/AEMET_CValencia/status/2117524317688721747",
+        "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
+        "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
+        "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias",
+        "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 5,
+        "evidence_count": 5,
+        "caveats": [
+          "La verificación corresponde al boletín y al estado conocido el 3 de noviembre de 2026 por la mañana; los avisos de AEMET pueden modificarse durante el episodio.",
+          "No debe presentarse como aviso amarillo vigente durante todo el 4 de noviembre: a las 02:01 del 4 de noviembre se registró una actualización a nivel naranja hasta las 03:59.",
+          "La fuente primaria de AEMET se localizó mediante la publicación oficial de AEMET Comunitat Valenciana enlazada en la noticia original, pero la consulta directa de X devolvió un error 403."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_6cd78d53e4065af9",
+        "quality_gate_evaluated_at": "2026-11-04T01:25:24.711Z",
+        "quality_gate_warnings": [
+          "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+        ]
+      },
+      "editorial_notes": [
+        "Publicar como información fechada y no como estado meteorológico vigente posterior: el nivel cambió posteriormente a naranja hasta las 03:59 del 4 de noviembre, según una actualización registrada a las 02:01.",
+        "La fuente primaria de AEMET fue localizada mediante una publicación oficial enlazada en la información original, pero su consulta directa no estuvo disponible por un error de acceso."
+      ],
+      "published_at": "2026-11-04T01:25:14.454Z",
+      "updated_at": "2026-11-04T01:25:25.058Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_c065da5dcc810ddc",
       "external_id": "drf_1c56eb7917cdf236",

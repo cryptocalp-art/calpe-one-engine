@@ -1,94 +1,46 @@
 {
-  "generated_at": "2026-11-03T21:01:43.235Z",
-  "count": 11,
+  "generated_at": "2026-11-04T01:24:43.513Z",
+  "count": 5,
   "evidences": [
     {
-      "id": "evd_287388c21650e1f3",
-      "investigation_id": "inv_c4bd7da12216f14a",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-      "evidence": "La nota municipal informa de la adjudicación a FCC Medio Ambiente, la inversión anual de 639.726,71 euros, el incremento del 40%, el inicio previsto el 1 de noviembre, las dotaciones de personal, la ampliación de temporadas y frecuencias, la maquinaria incorporada, las 150 papeleras y la extensión de los trabajos a calas, acantilados, escolleras y zonas rocosas.",
+      "id": "evd_0eeafb2916e934d4",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "source_name": "AEMET Comunitat Valenciana",
+      "source_url": "https://x.com/AEMET_CValencia/status/2117524317688721747",
+      "evidence": "La publicación oficial citada por La Marina Alta, fechada el 3 de noviembre de 2026 a las 08:48, indica para la Comunitat Valenciana lluvias con nivel máximo de aviso amarillo. La fuente fue enlazada desde la noticia original; la página de X bloqueó la consulta directa, pero conserva la URL oficial del aviso.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_d8775a983091d3e2",
-      "investigation_id": "inv_c4bd7da12216f14a",
-      "source_name": "El Periòdic",
-      "source_url": "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-      "evidence": "Reproduce información sobre el nuevo servicio, su adjudicación a FCC Medio Ambiente, la inversión anual de 639.726,71 euros, el incremento del 40% y el inicio previsto para el 1 de noviembre.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_776c3fde14fb65a8",
-      "investigation_id": "inv_c4bd7da12216f14a",
-      "source_name": "Gobierto Contratación",
-      "source_url": "https://contratos.gobierto.es/licitaciones/5090926",
-      "evidence": "Registra la licitación municipal del servicio de limpieza de playas y calas de Calp, su adjudicación a FCC Medio Ambiente y las fechas del procedimiento de contratación.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_6d371b4994c504cd",
-      "investigation_id": "inv_a25a5020cddfcb1e",
-      "source_name": "Ayuntamiento de Calp, Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/page/5/",
-      "evidence": "El aviso municipal anuncia que las obras comienzan el 4 de noviembre, fija el nuevo sentido único entre De Fora y Capitán Zaragoza, describe los accesos previstos y recomienda atender a la señalización y a las indicaciones de circulación.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_5dad1c4315da977f",
-      "investigation_id": "inv_a25a5020cddfcb1e",
-      "source_name": "Ayuntamiento de Calp, página del aviso",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%9A%A7-cambio-de-sentido-de-circulacion-en-el-carrer-conde-de-altea",
-      "evidence": "La página oficial identifica el aviso como una comunicación municipal fechada el 3 de noviembre de 2026, aunque su contenido detallado no aparece completo en la página individual.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_c496d689a21d6cee",
-      "investigation_id": "inv_a25a5020cddfcb1e",
-      "source_name": "Ayuntamiento de Calp, plano municipal",
-      "source_url": "https://www.calpe.es/sites/default/files/descubre_calpe_docs/2022-05/plano_calp_2020.pdf",
-      "evidence": "El plano municipal confirma la existencia y localización de las vías Conde de Altea, De Fora, Capitán Zaragoza y Capitán Pérez Jordà, pero no verifica el cambio de circulación de 2026.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_d19c312ffe72a3ce",
-      "investigation_id": "inv_2978847b1b86fc58",
+      "id": "evd_63539607db2a14ae",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
       "source_name": "La Marina Alta",
-      "source_url": "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
-      "evidence": "Informa de la IX gala prevista para el 6 de noviembre en la Lonja de Calp, de la participación de 64 municipios y del objetivo de reconocer la gestión sostenible de los espacios verdes.",
+      "source_url": "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
+      "evidence": "La noticia, publicada el 3 de noviembre de 2026 a las 09:16, atribuye a AEMET un aviso amarillo en el litoral norte de Alicante desde las 20:00, con acumulaciones de 20 l/m² en una hora y 60 l/m² en doce horas, y señala que permanecería vigente hasta las 14:59 del 4 de noviembre. También relaciona el episodio con la Marina Alta.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_fa17ccb953067dda",
-      "investigation_id": "inv_2978847b1b86fc58",
-      "source_name": "El Periódico de Aquí",
-      "source_url": "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
-      "evidence": "Confirma la celebración de la gala en la Lonja de Calp el 6 de noviembre, la participación de 64 municipios y el incremento del 18,5% respecto a 2025.",
+      "id": "evd_a26cb09a2392e273",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "source_name": "Alicante Press",
+      "source_url": "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
+      "evidence": "La información publicada el 2 de noviembre confirma avisos amarillos de AEMET para Alicante. Para el litoral norte fija el periodo entre las 20:00 del 3 de noviembre y las 14:59 del 4 de noviembre, con 20 l/m² en una hora y 60 l/m² en doce horas.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_6c067d60afc45419",
-      "investigation_id": "inv_2978847b1b86fc58",
-      "source_name": "Agronews Comunitat Valenciana",
-      "source_url": "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
-      "evidence": "Detalla la IX edición, la fecha y sede en Calp, los 64 municipios participantes, el programa Viles en Flor y la finalidad medioambiental de los premios.",
+      "id": "evd_3ad404047ab76de1",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "source_name": "Tranquicasa",
+      "source_url": "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
+      "evidence": "Su tabla de avisos, actualizada el 3 de noviembre, reproduce para el litoral norte de Alicante el nivel amarillo, los umbrales de 20 l/m² en una hora y 60 l/m² en doce horas, y el periodo del 3 de noviembre a las 20:00 al 4 de noviembre a las 14:59.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_64af854b48a642d1",
-      "investigation_id": "inv_2978847b1b86fc58",
-      "source_name": "ASFPLANT",
-      "source_url": "https://www.asfplant.com/viles-en-flor/",
-      "evidence": "Fuente oficial de la entidad organizadora que describe Viles en Flor como un programa anual de reconocimientos a municipios por la mejora, gestión sostenible y educación ambiental vinculadas a los espacios verdes urbanos.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_65f822654c3a63db",
-      "investigation_id": "inv_2978847b1b86fc58",
-      "source_name": "Ayuntamiento de Calp, dosier de prensa",
-      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
-      "evidence": "El dosier municipal recoge entre las informaciones de prensa del 3 de noviembre la noticia sobre los 64 municipios que optan a las «Flors d’Honor» en la gala de Calp.",
-      "source_type": "PRIMARY"
+      "id": "evd_1f0c9814c1079089",
+      "investigation_id": "inv_2b7ed2bb2f822e7e",
+      "source_name": "Observatorio climático de CalentamientoGlobal.es",
+      "source_url": "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/",
+      "evidence": "A las 02:01 del 4 de noviembre, la fuente registró mediante avisos de AEMET vía MeteoAlarm un nivel naranja para el litoral norte de Alicante hasta las 03:59. Esto demuestra que el nivel del aviso cambió posteriormente y constituye una cautela temporal, no una refutación del estado amarillo anunciado el 3 de noviembre por la mañana.",
+      "source_type": "SECONDARY"
     }
   ]
 }

@@ -3,292 +3,168 @@
   "module": "PUBLISHER_EXPORT",
   "contract_version": "vento-export-v1",
   "quality_gate_version": "quality-gate-v1",
-  "generated_at": "2026-11-03T21:02:37.621Z",
+  "generated_at": "2026-11-04T01:25:24.883Z",
   "delivery_mode": "EXPORT_ONLY",
   "destination": "VENTO",
-  "drafts_seen": 2,
-  "ready_count": 2,
+  "drafts_seen": 1,
+  "ready_count": 1,
   "quarantined_count": 0,
   "ready": [
     {
-      "export_id": "exp_10af398e2e0e34c2",
+      "export_id": "exp_898abd2080349d56",
       "target": "VENTO",
       "target_storage_draft": "calpe_drafts",
       "target_storage_news": "calpe_news",
       "delivery_mode": "EXPORT_ONLY",
       "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-11-03T21:02:37.621Z",
-      "source_draft_id": "drf_3a5027028d4b03c0",
-      "source_investigation_id": "inv_c4bd7da12216f14a",
-      "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
-      "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
+      "generated_at": "2026-11-04T01:25:24.883Z",
+      "source_draft_id": "drf_f6ba25cdcb07e177",
+      "source_investigation_id": "inv_2b7ed2bb2f822e7e",
+      "candidate_fingerprint": "d56209d00de75f4ce71b2129cd33610c3b2cc76d5965683cdda3e0574c77440e",
+      "quality_gate_id": "qg_6cd78d53e4065af9",
       "quality_gate_status": "ELIGIBLE",
       "calpe_drafts": {
-        "external_id": "drf_3a5027028d4b03c0",
-        "investigation_id": "inv_c4bd7da12216f14a",
-        "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
-        "title": "Calp pone en marcha el nuevo servicio de limpieza y mantenimiento de playas",
-        "subtitle": "El contrato, adjudicado a FCC Medio Ambiente, eleva un 40% la inversión anual e incorpora más personal, maquinaria y zonas de actuación",
-        "summary": "El nuevo servicio de limpieza y mantenimiento de playas y calas de Calp comenzó a prestarse el 1 de noviembre con una inversión anual comunicada de 639.726,71 euros, un 40% superior a la anterior. El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
-        "body": "El servicio municipal amplía los medios destinados a la limpieza del litoral y modifica las frecuencias de trabajo según la temporada. En los periodos de mayor actividad habrá 15 efectivos diarios, mientras que en temporada media y baja se contará con nueve personas.\n\nLa planificación contempla servicio todos los días durante la temporada alta. En la temporada media, la limpieza se realizará seis días por semana, y en la baja, cinco días semanales.\n\nEl contrato incorpora nueva maquinaria y equipos, además de 150 papeleras destinadas a la recogida selectiva. Los trabajos no se limitarán a las playas con mayor afluencia, sino que también se extenderán a calas de difícil acceso y a otros puntos del litoral, como acantilados, escolleras y zonas rocosas.\n\nLa adjudicación del servicio corresponde a FCC Medio Ambiente, S.A.U. La cifra de 639.726,71 euros corresponde al importe anual comunicado por el Ayuntamiento de Calp. Las bases de datos de contratación manejan también otras magnitudes, como importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con esa cantidad anual.\n\nLa información sobre el nuevo servicio ha sido comunicada por el Ayuntamiento y reproducida por una publicación periodística independiente. Los datos de contratación consultados confirman por separado la existencia del procedimiento y su adjudicación.",
-        "category": "TURISMO",
-        "slug": "calp-nuevo-servicio-limpieza-mantenimiento-playas",
-        "seo_title": "Calp activa el nuevo servicio de limpieza de playas",
-        "meta_description": "El servicio de limpieza de playas de Calp comienza con un 40% más de inversión anual, más personal, maquinaria, frecuencias y 150 papeleras selectivas.",
+        "external_id": "drf_f6ba25cdcb07e177",
+        "investigation_id": "inv_2b7ed2bb2f822e7e",
+        "candidate_fingerprint": "d56209d00de75f4ce71b2129cd33610c3b2cc76d5965683cdda3e0574c77440e",
+        "title": "AEMET activa un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta",
+        "subtitle": "El aviso estaba previsto entre las 20:00 del 3 de noviembre y las 14:59 del 4 de noviembre, con acumulaciones de hasta 20 litros por metro cuadrado en una hora.",
+        "summary": "AEMET estableció un aviso amarillo por lluvias para el litoral norte de Alicante, una zona que incluye la Marina Alta, con inicio a las 20:00 del martes 3 de noviembre de 2026 y final previsto a las 14:59 del miércoles 4 de noviembre.",
+        "body": "La previsión contemplaba acumulaciones de hasta 20 litros por metro cuadrado en una hora y de 60 litros por metro cuadrado en doce horas. El aviso fue comunicado por AEMET durante la mañana del 3 de noviembre y quedó referido al litoral norte de la provincia de Alicante, área en la que se encuentra la Marina Alta.\n\nLa información fue verificada para el momento de publicación de la noticia original, el 3 de noviembre a las 09:16. Por tanto, el nivel amarillo debe entenderse como el estado anunciado entonces y no como una descripción necesariamente válida durante todo el episodio.\n\nUna actualización registrada a las 02:01 del 4 de noviembre mediante avisos de AEMET consultados a través de MeteoAlarm situó posteriormente el nivel en naranja para el litoral norte de Alicante hasta las 03:59. Este cambio obliga a presentar el aviso amarillo como una previsión fechada y a evitar afirmar que se mantuvo sin modificaciones hasta la finalización del periodo inicialmente anunciado.\n\nLos avisos meteorológicos pueden revisarse durante el desarrollo del episodio. En este caso, la publicación oficial de AEMET Comunitat Valenciana fue localizada a través de la referencia enlazada en la información original, aunque la consulta directa de esa publicación no estuvo disponible por un error de acceso.",
+        "category": "MEDIO_AMBIENTE",
+        "slug": "aviso-amarillo-lluvias-marina-alta",
+        "seo_title": "Aviso amarillo por lluvias en la Marina Alta",
+        "meta_description": "AEMET anunció un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta, entre el 3 y el 4 de noviembre de 2026.",
         "status": "ELIGIBLE",
         "review_required": false,
         "publishable_by_engine": true,
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
+        "quality_gate_id": "qg_6cd78d53e4065af9",
         "editorial_notes": [
-          "Precisar que los 639.726,71 euros corresponden a la inversión anual comunicada por el Ayuntamiento y no necesariamente al valor total del contrato ni al importe sin IVA de la adjudicación."
+          "Publicar como información fechada y no como estado meteorológico vigente posterior: el nivel cambió posteriormente a naranja hasta las 03:59 del 4 de noviembre, según una actualización registrada a las 02:01.",
+          "La fuente primaria de AEMET fue localizada mediante una publicación oficial enlazada en la información original, pero su consulta directa no estuvo disponible por un error de acceso."
         ],
         "sources": [
           {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+            "name": "AEMET Comunitat Valenciana",
+            "url": "https://x.com/AEMET_CValencia/status/2117524317688721747",
             "type": "PRIMARY"
           },
-          {
-            "name": "El Periòdic",
-            "url": "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Gobierto Contratación",
-            "url": "https://contratos.gobierto.es/licitaciones/5090926",
-            "type": "SECONDARY"
-          }
-        ],
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-          "https://contratos.gobierto.es/licitaciones/5090926"
-        ],
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 3,
-          "caveats": [
-            "La cifra de inversión corresponde al importe anual del contrato comunicado por el Ayuntamiento; las bases de datos de contratación también muestran importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con la cifra anual publicada.",
-            "La corroboración periodística independiente reproduce esencialmente la información municipal, aunque los datos de contratación confirman por separado la existencia y adjudicación del servicio."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
-          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
-          "quality_gate_warnings": []
-        },
-        "created_at": "2026-11-03T21:02:25.804Z",
-        "engine_version": "publisher-export-v2"
-      },
-      "calpe_news_candidate": {
-        "external_id": "drf_3a5027028d4b03c0",
-        "title": "Calp pone en marcha el nuevo servicio de limpieza y mantenimiento de playas",
-        "slug": "calp-nuevo-servicio-limpieza-mantenimiento-playas",
-        "summary": "El nuevo servicio de limpieza y mantenimiento de playas y calas de Calp comenzó a prestarse el 1 de noviembre con una inversión anual comunicada de 639.726,71 euros, un 40% superior a la anterior. El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U.",
-        "body": "El servicio municipal amplía los medios destinados a la limpieza del litoral y modifica las frecuencias de trabajo según la temporada. En los periodos de mayor actividad habrá 15 efectivos diarios, mientras que en temporada media y baja se contará con nueve personas.\n\nLa planificación contempla servicio todos los días durante la temporada alta. En la temporada media, la limpieza se realizará seis días por semana, y en la baja, cinco días semanales.\n\nEl contrato incorpora nueva maquinaria y equipos, además de 150 papeleras destinadas a la recogida selectiva. Los trabajos no se limitarán a las playas con mayor afluencia, sino que también se extenderán a calas de difícil acceso y a otros puntos del litoral, como acantilados, escolleras y zonas rocosas.\n\nLa adjudicación del servicio corresponde a FCC Medio Ambiente, S.A.U. La cifra de 639.726,71 euros corresponde al importe anual comunicado por el Ayuntamiento de Calp. Las bases de datos de contratación manejan también otras magnitudes, como importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con esa cantidad anual.\n\nLa información sobre el nuevo servicio ha sido comunicada por el Ayuntamiento y reproducida por una publicación periodística independiente. Los datos de contratación consultados confirman por separado la existencia del procedimiento y su adjudicación.",
-        "category": "TURISMO",
-        "seo_title": "Calp activa el nuevo servicio de limpieza de playas",
-        "meta_description": "El servicio de limpieza de playas de Calp comienza con un 40% más de inversión anual, más personal, maquinaria, frecuencias y 150 papeleras selectivas.",
-        "status": "READY",
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
-        "published_at": null,
-        "source_urls": [
-          "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-          "https://contratos.gobierto.es/licitaciones/5090926"
-        ],
-        "sources": [
-          {
-            "name": "Ayuntamiento de Calp",
-            "url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "El Periòdic",
-            "url": "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-            "type": "SECONDARY"
-          },
-          {
-            "name": "Gobierto Contratación",
-            "url": "https://contratos.gobierto.es/licitaciones/5090926",
-            "type": "SECONDARY"
-          }
-        ],
-        "investigation_id": "inv_c4bd7da12216f14a",
-        "candidate_fingerprint": "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
-        "provenance": {
-          "investigation_status": "VERIFIED",
-          "confidence": "HIGH",
-          "supported_claim_count": 7,
-          "evidence_count": 3,
-          "caveats": [
-            "La cifra de inversión corresponde al importe anual del contrato comunicado por el Ayuntamiento; las bases de datos de contratación también muestran importes de adjudicación sin IVA y el valor total del contrato, que no deben confundirse con la cifra anual publicada.",
-            "La corroboración periodística independiente reproduce esencialmente la información municipal, aunque los datos de contratación confirman por separado la existencia y adjudicación del servicio."
-          ],
-          "quality_gate_status": "ELIGIBLE",
-          "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_c2ef1b13d8dfbb6f",
-          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
-          "quality_gate_warnings": []
-        },
-        "engine_version": "publisher-export-v2"
-      }
-    },
-    {
-      "export_id": "exp_fe2833f0d8c3421a",
-      "target": "VENTO",
-      "target_storage_draft": "calpe_drafts",
-      "target_storage_news": "calpe_news",
-      "delivery_mode": "EXPORT_ONLY",
-      "bridge_status": "READY_FOR_VENTO",
-      "generated_at": "2026-11-03T21:02:37.621Z",
-      "source_draft_id": "drf_1c56eb7917cdf236",
-      "source_investigation_id": "inv_2978847b1b86fc58",
-      "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
-      "quality_gate_id": "qg_5d265cfa82abf8a7",
-      "quality_gate_status": "ELIGIBLE",
-      "calpe_drafts": {
-        "external_id": "drf_1c56eb7917cdf236",
-        "investigation_id": "inv_2978847b1b86fc58",
-        "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
-        "title": "Calp acogerá el 6 de noviembre la IX gala autonómica de las «Flors d’Honor»",
-        "subtitle": "La ceremonia del programa Viles en Flor reunirá a 64 municipios de la Comunitat Valenciana en la Lonja",
-        "summary": "La Lonja de Calp acogerá el próximo 6 de noviembre la IX gala de los premios «Flors d’Honor», un acto del programa Viles en Flor impulsado por la Fundación ASFPLANT. En esta edición optan a los reconocimientos 64 municipios de la Comunitat Valenciana.",
-        "body": "La gala reconocerá iniciativas relacionadas con la creación, conservación y gestión sostenible de espacios verdes, así como con el paisaje urbano y la sostenibilidad. Calp ejercerá como municipio anfitrión y tomará el relevo de Alberic, que fue la sede de la edición de 2025.\n\nLa cifra de municipios participantes aumenta un 18,5% respecto a la edición anterior, en la que concurrieron 54 localidades. El programa Viles en Flor está orientado a distinguir la mejora y la gestión sostenible de los espacios verdes urbanos y las actuaciones vinculadas a la educación ambiental, según la información de ASFPLANT.\n\nLa celebración está prevista para el viernes 6 de noviembre en la Lonja de Calp. A fecha de redacción de esta información, el acto todavía no se ha celebrado, por lo que la realización efectiva de la gala y los municipios que finalmente reciban los reconocimientos deberán comprobarse después de esa fecha.\n\nLos datos sobre la fecha, la sede y la participación de 64 municipios aparecen en varias publicaciones coincidentes. Estas informaciones parecen proceder de una misma comunicación de ASFPLANT, por lo que no deben interpretarse como corroboraciones completamente independientes. La página oficial de la entidad organizadora confirma el programa y sus objetivos, aunque no recoge en el texto consultado todos los detalles concretos de la gala de 2026.",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "calp-gala-flors-dhonor-viles-en-flor",
-        "seo_title": "Calp acogerá la gala de las «Flors d’Honor»",
-        "meta_description": "La IX gala de Viles en Flor se celebrará el 6 de noviembre en la Lonja de Calp con 64 municipios de la Comunitat Valenciana.",
-        "status": "ELIGIBLE",
-        "review_required": false,
-        "publishable_by_engine": true,
-        "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_5d265cfa82abf8a7",
-        "editorial_notes": [
-          "La gala era un acto futuro a la fecha de redacción: verificar posteriormente su celebración y los municipios finalmente reconocidos.",
-          "Indicar que varias publicaciones coincidentes parecen proceder de una misma comunicación de ASFPLANT y no constituyen corroboraciones plenamente independientes."
-        ],
-        "sources": [
           {
             "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+            "url": "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
             "type": "SECONDARY"
           },
           {
-            "name": "El Periódico de Aquí",
-            "url": "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+            "name": "Alicante Press",
+            "url": "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
             "type": "SECONDARY"
           },
           {
-            "name": "Agronews Comunitat Valenciana",
-            "url": "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+            "name": "Tranquicasa",
+            "url": "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
             "type": "SECONDARY"
           },
           {
-            "name": "ASFPLANT",
-            "url": "https://www.asfplant.com/viles-en-flor/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp, dosier de prensa",
-            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
-            "type": "PRIMARY"
+            "name": "Observatorio climático de CalentamientoGlobal.es",
+            "url": "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/",
+            "type": "SECONDARY"
           }
         ],
         "source_urls": [
-          "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
-          "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
-          "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
-          "https://www.asfplant.com/viles-en-flor/",
-          "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3"
+          "https://x.com/AEMET_CValencia/status/2117524317688721747",
+          "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
+          "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
+          "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
+          "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/"
         ],
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "MEDIUM",
-          "supported_claim_count": 6,
+          "supported_claim_count": 5,
           "evidence_count": 5,
           "caveats": [
-            "Las publicaciones periodísticas presentan datos prácticamente coincidentes y parecen proceder de una misma nota informativa de ASFPLANT; por ello, no se consideran tres corroboraciones independientes entre sí.",
-            "La página oficial de ASFPLANT consultada confirma el programa y sus objetivos, pero no muestra en el texto accesible todos los detalles concretos de la gala de 2026.",
-            "La gala era un evento futuro a fecha de la investigación, 3 de noviembre de 2026; la celebración efectiva y los municipios finalmente premiados deberán comprobarse después del 6 de noviembre."
+            "La verificación corresponde al boletín y al estado conocido el 3 de noviembre de 2026 por la mañana; los avisos de AEMET pueden modificarse durante el episodio.",
+            "No debe presentarse como aviso amarillo vigente durante todo el 4 de noviembre: a las 02:01 del 4 de noviembre se registró una actualización a nivel naranja hasta las 03:59.",
+            "La fuente primaria de AEMET se localizó mediante la publicación oficial de AEMET Comunitat Valenciana enlazada en la noticia original, pero la consulta directa de X devolvió un error 403."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_5d265cfa82abf8a7",
-          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_6cd78d53e4065af9",
+          "quality_gate_evaluated_at": "2026-11-04T01:25:24.711Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
-        "created_at": "2026-11-03T21:02:25.804Z",
+        "created_at": "2026-11-04T01:25:14.454Z",
         "engine_version": "publisher-export-v2"
       },
       "calpe_news_candidate": {
-        "external_id": "drf_1c56eb7917cdf236",
-        "title": "Calp acogerá el 6 de noviembre la IX gala autonómica de las «Flors d’Honor»",
-        "slug": "calp-gala-flors-dhonor-viles-en-flor",
-        "summary": "La Lonja de Calp acogerá el próximo 6 de noviembre la IX gala de los premios «Flors d’Honor», un acto del programa Viles en Flor impulsado por la Fundación ASFPLANT. En esta edición optan a los reconocimientos 64 municipios de la Comunitat Valenciana.",
-        "body": "La gala reconocerá iniciativas relacionadas con la creación, conservación y gestión sostenible de espacios verdes, así como con el paisaje urbano y la sostenibilidad. Calp ejercerá como municipio anfitrión y tomará el relevo de Alberic, que fue la sede de la edición de 2025.\n\nLa cifra de municipios participantes aumenta un 18,5% respecto a la edición anterior, en la que concurrieron 54 localidades. El programa Viles en Flor está orientado a distinguir la mejora y la gestión sostenible de los espacios verdes urbanos y las actuaciones vinculadas a la educación ambiental, según la información de ASFPLANT.\n\nLa celebración está prevista para el viernes 6 de noviembre en la Lonja de Calp. A fecha de redacción de esta información, el acto todavía no se ha celebrado, por lo que la realización efectiva de la gala y los municipios que finalmente reciban los reconocimientos deberán comprobarse después de esa fecha.\n\nLos datos sobre la fecha, la sede y la participación de 64 municipios aparecen en varias publicaciones coincidentes. Estas informaciones parecen proceder de una misma comunicación de ASFPLANT, por lo que no deben interpretarse como corroboraciones completamente independientes. La página oficial de la entidad organizadora confirma el programa y sus objetivos, aunque no recoge en el texto consultado todos los detalles concretos de la gala de 2026.",
+        "external_id": "drf_f6ba25cdcb07e177",
+        "title": "AEMET activa un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta",
+        "slug": "aviso-amarillo-lluvias-marina-alta",
+        "summary": "AEMET estableció un aviso amarillo por lluvias para el litoral norte de Alicante, una zona que incluye la Marina Alta, con inicio a las 20:00 del martes 3 de noviembre de 2026 y final previsto a las 14:59 del miércoles 4 de noviembre.",
+        "body": "La previsión contemplaba acumulaciones de hasta 20 litros por metro cuadrado en una hora y de 60 litros por metro cuadrado en doce horas. El aviso fue comunicado por AEMET durante la mañana del 3 de noviembre y quedó referido al litoral norte de la provincia de Alicante, área en la que se encuentra la Marina Alta.\n\nLa información fue verificada para el momento de publicación de la noticia original, el 3 de noviembre a las 09:16. Por tanto, el nivel amarillo debe entenderse como el estado anunciado entonces y no como una descripción necesariamente válida durante todo el episodio.\n\nUna actualización registrada a las 02:01 del 4 de noviembre mediante avisos de AEMET consultados a través de MeteoAlarm situó posteriormente el nivel en naranja para el litoral norte de Alicante hasta las 03:59. Este cambio obliga a presentar el aviso amarillo como una previsión fechada y a evitar afirmar que se mantuvo sin modificaciones hasta la finalización del periodo inicialmente anunciado.\n\nLos avisos meteorológicos pueden revisarse durante el desarrollo del episodio. En este caso, la publicación oficial de AEMET Comunitat Valenciana fue localizada a través de la referencia enlazada en la información original, aunque la consulta directa de esa publicación no estuvo disponible por un error de acceso.",
         "category": "MEDIO_AMBIENTE",
-        "seo_title": "Calp acogerá la gala de las «Flors d’Honor»",
-        "meta_description": "La IX gala de Viles en Flor se celebrará el 6 de noviembre en la Lonja de Calp con 64 municipios de la Comunitat Valenciana.",
+        "seo_title": "Aviso amarillo por lluvias en la Marina Alta",
+        "meta_description": "AEMET anunció un aviso amarillo por lluvias en el litoral norte de Alicante, incluida la Marina Alta, entre el 3 y el 4 de noviembre de 2026.",
         "status": "READY",
         "quality_gate_status": "ELIGIBLE",
-        "quality_gate_id": "qg_5d265cfa82abf8a7",
+        "quality_gate_id": "qg_6cd78d53e4065af9",
         "published_at": null,
         "source_urls": [
-          "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
-          "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
-          "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
-          "https://www.asfplant.com/viles-en-flor/",
-          "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3"
+          "https://x.com/AEMET_CValencia/status/2117524317688721747",
+          "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
+          "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
+          "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
+          "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/"
         ],
         "sources": [
           {
+            "name": "AEMET Comunitat Valenciana",
+            "url": "https://x.com/AEMET_CValencia/status/2117524317688721747",
+            "type": "PRIMARY"
+          },
+          {
             "name": "La Marina Alta",
-            "url": "https://lamarinaalta.com/un-total-de-64-municipios-valencianos-optaran-a-las-flors-dhonor-en-la-gala-de-calpe/",
+            "url": "https://lamarinaalta.com/la-marina-alta-vuelve-a-mirar-al-cielo-la-aemet-activa-el-aviso-amarillo-desde-esta-tarde",
             "type": "SECONDARY"
           },
           {
-            "name": "El Periódico de Aquí",
-            "url": "https://www.elperiodicodeaqui.com/alicante/la-marina/calp-acoge-gala-pueblos-mas-verdes-comunitat-valenciana_100123306_102.html",
+            "name": "Alicante Press",
+            "url": "https://alicantepress.com/art/54086/vuelven-las-lluvias-a-alicante-aemet-activa-avisos-amarillos-para-este-martes-y-miercoles",
             "type": "SECONDARY"
           },
           {
-            "name": "Agronews Comunitat Valenciana",
-            "url": "https://www.agronewscomunitatvalenciana.com/index.php/viles-en-flor-llega-su-novena-edicion-con-mas-de-60-pueblos-comprometidos-con-el-medio-ambiente",
+            "name": "Tranquicasa",
+            "url": "https://tranquicasa.es/alertas/noticias/2026-11-03-avisos-por-lluvias/",
             "type": "SECONDARY"
           },
           {
-            "name": "ASFPLANT",
-            "url": "https://www.asfplant.com/viles-en-flor/",
-            "type": "PRIMARY"
-          },
-          {
-            "name": "Ayuntamiento de Calp, dosier de prensa",
-            "url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
-            "type": "PRIMARY"
+            "name": "Observatorio climático de CalentamientoGlobal.es",
+            "url": "https://calentamientoglobal.es/prensa/noticia/2026-11-04-avisos-naranja/alicante/",
+            "type": "SECONDARY"
           }
         ],
-        "investigation_id": "inv_2978847b1b86fc58",
-        "candidate_fingerprint": "5dc15326aadc5100a36f764d68445067dc2068bf845fbbc30dee1390e64de622",
+        "investigation_id": "inv_2b7ed2bb2f822e7e",
+        "candidate_fingerprint": "d56209d00de75f4ce71b2129cd33610c3b2cc76d5965683cdda3e0574c77440e",
         "provenance": {
           "investigation_status": "VERIFIED",
           "confidence": "MEDIUM",
-          "supported_claim_count": 6,
+          "supported_claim_count": 5,
           "evidence_count": 5,
           "caveats": [
-            "Las publicaciones periodísticas presentan datos prácticamente coincidentes y parecen proceder de una misma nota informativa de ASFPLANT; por ello, no se consideran tres corroboraciones independientes entre sí.",
-            "La página oficial de ASFPLANT consultada confirma el programa y sus objetivos, pero no muestra en el texto accesible todos los detalles concretos de la gala de 2026.",
-            "La gala era un evento futuro a fecha de la investigación, 3 de noviembre de 2026; la celebración efectiva y los municipios finalmente premiados deberán comprobarse después del 6 de noviembre."
+            "La verificación corresponde al boletín y al estado conocido el 3 de noviembre de 2026 por la mañana; los avisos de AEMET pueden modificarse durante el episodio.",
+            "No debe presentarse como aviso amarillo vigente durante todo el 4 de noviembre: a las 02:01 del 4 de noviembre se registró una actualización a nivel naranja hasta las 03:59.",
+            "La fuente primaria de AEMET se localizó mediante la publicación oficial de AEMET Comunitat Valenciana enlazada en la noticia original, pero la consulta directa de X devolvió un error 403."
           ],
           "quality_gate_status": "ELIGIBLE",
           "quality_gate_version": "quality-gate-v1",
-          "quality_gate_id": "qg_5d265cfa82abf8a7",
-          "quality_gate_evaluated_at": "2026-11-03T21:02:37.493Z",
-          "quality_gate_warnings": []
+          "quality_gate_id": "qg_6cd78d53e4065af9",
+          "quality_gate_evaluated_at": "2026-11-04T01:25:24.711Z",
+          "quality_gate_warnings": [
+            "UNVERIFIED_CLAIMS_EXCLUDED_FROM_DRAFT"
+          ]
         },
         "engine_version": "publisher-export-v2"
       }
