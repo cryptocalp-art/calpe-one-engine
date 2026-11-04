@@ -3,9 +3,76 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-04T17:22:50.587Z",
-  "count": 141,
+  "updated_at": "2026-11-04T23:42:18.113Z",
+  "count": 142,
   "articles": [
+    {
+      "archive_id": "arc_dd540c153e9468ef",
+      "external_id": "drf_169629d8c1bcadd7",
+      "investigation_id": "inv_cae5f3b164472d8a",
+      "candidate_fingerprints": [
+        "7a0c36eaa7fe46f3993900b9e3d8037d81d6315591c9e5b6724af03964b93b9d"
+      ],
+      "title": "La Generalitat abre ayudas de 10.000 euros por establecimiento afectado por la DANA Adam",
+      "slug": "ayudas-10000-euros-dana-adam-comercio-turismo-industria",
+      "summary": "La Generalitat ha abierto el plazo para solicitar ayudas urgentes destinadas a comercios minoristas, establecimientos turísticos e industrias afectados por la DANA Adam de los días 18 y 19 de octubre de 2026. La cuantía prevista para estas líneas es de 10.000 euros por establecimiento afectado.",
+      "body": "Las ayudas están reguladas por el Decreto 174/2026 del Diari Oficial de la Generalitat Valenciana, que establece las bases para su concesión directa a los sectores afectados. El importe fijado para las líneas de continuidad y reactivación es de 10.000 euros por establecimiento.\n\nEl plazo de solicitud comenzó el 2 de noviembre de 2026 y finalizará el 1 de febrero de 2027. La convocatoria se dirige a establecimientos de comercio minorista, turismo e industria que hayan sufrido daños o una interrupción o limitación efectiva de su actividad como consecuencia de la DANA Adam.\n\nLa apertura del plazo ha sido comunicada también por Turisme Comunitat Valenciana y recogida por organizaciones y medios sectoriales. La ayuda no se concede de forma automática: las personas o empresas solicitantes deberán acreditar la afección exigida por la normativa y cumplir el resto de requisitos establecidos.\n\nAdemás, la elegibilidad depende de que el establecimiento se encuentre situado en un municipio incluido en el ámbito de aplicación del decreto. Por tanto, la existencia de la convocatoria y la cuantía no implican por sí solas que cualquier negocio pueda acceder a ella.\n\nLa información verificada confirma el importe por establecimiento y la fecha límite de presentación. La comprobación de cada solicitud dependerá de la documentación aportada y de las condiciones previstas en la norma que regula estas ayudas.",
+      "category": "ECONOMIA",
+      "seo_title": "Ayudas de 10.000 euros por la DANA Adam: plazo y requisitos",
+      "meta_description": "La Generalitat abre ayudas de 10.000 euros por establecimiento para comercio, turismo e industria afectados por la DANA Adam.",
+      "sources": [
+        {
+          "name": "Diari Oficial de la Generalitat Valenciana, Decreto 174/2026",
+          "url": "https://dogv.gva.es/datos/2026/10/26/pdf/2026_33422_es.pdf",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "FEMEVAL",
+          "url": "https://www.femeval.es/app/detalle-notificaciones-app/dynacontent/ayudas-al-comercio-minorista-e-industrias-afectados-por-la-dana-adam.html?cid=499bd7e9-0a5b-4e31-b54b-b208e76ef3d7",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Turisme Comunitat Valenciana",
+          "url": "https://www.turisme.gva.es/opencms/opencms/turisme/es/contents/subvencion/subvencion.html",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "LaMarinaAlta.com",
+          "url": "https://lamarinaalta.com/comercios-turismo-e-industria-pueden-pedir-ya-las-ayudas-de-10-000-euros-por-la-dana-adam/",
+          "type": "SECONDARY"
+        }
+      ],
+      "source_urls": [
+        "https://dogv.gva.es/datos/2026/10/26/pdf/2026_33422_es.pdf",
+        "https://www.femeval.es/app/detalle-notificaciones-app/dynacontent/ayudas-al-comercio-minorista-e-industrias-afectados-por-la-dana-adam.html?cid=499bd7e9-0a5b-4e31-b54b-b208e76ef3d7",
+        "https://www.turisme.gva.es/opencms/opencms/turisme/es/contents/subvencion/subvencion.html",
+        "https://lamarinaalta.com/comercios-turismo-e-industria-pueden-pedir-ya-las-ayudas-de-10-000-euros-por-la-dana-adam"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "La elegibilidad depende de acreditar una afección efectiva y de que el establecimiento esté situado en un municipio incluido en el decreto.",
+          "La página de Turisme Comunitat Valenciana contiene una probable errata al mostrar el año 2026 para la fecha final; el decreto y otras fuentes coinciden en que el plazo termina el 1 de febrero de 2027.",
+          "La URL facilitada originalmente redirige correctamente a la versión con barra final."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_ad2b611cd9ab6f07",
+        "quality_gate_evaluated_at": "2026-11-04T23:42:17.805Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "No afirmar que todos los establecimientos de Calp pueden acceder a la ayuda: la convocatoria exige acreditar una afección efectiva y que el municipio esté incluido en el decreto.",
+        "La fecha final verificada es el 1 de febrero de 2027; se ha priorizado la referencia del decreto frente a una errata detectada en una página informativa."
+      ],
+      "published_at": "2026-11-04T23:42:09.585Z",
+      "updated_at": "2026-11-04T23:42:18.113Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_4a0434e3fbad5689",
       "external_id": "drf_03046e05d1d48352",
@@ -423,7 +490,8 @@
       "investigation_id": "inv_f675670ad742b90a",
       "candidate_fingerprints": [
         "b7c37a6a7c9040982ecec7f259dee4c5c37c31aed030debcecbd5d55ae545488",
-        "3421f20024cb7125a484a7b60d8b8e9227b34e38a4eeb948d12ca24688db1e5b"
+        "3421f20024cb7125a484a7b60d8b8e9227b34e38a4eeb948d12ca24688db1e5b",
+        "2b17f71bfea5ae3523b3794eb54a88413105c5e6669a673e2c3db410fa5fbd42"
       ],
       "title": "Calp proyecta renaturalizar los barrancos del Quisi y Pou Roig para reducir el riesgo de inundaciones",
       "slug": "calp-renaturalizar-barrancos-quisi-pou-roig",
@@ -455,7 +523,10 @@
         "https://calpdigital.es/art/12461/readpic",
         "https://noticias.calp.es/es/noticia/calp-dispone-ya-del-proyecto-para-renaturalizar-los-barrancos-urbanos-del-quisi-y-pou-roig-y",
         "https://lamarina.eldiario.es/2026/11/04/calp-transformara-els-barrancs-del-quisi-i-del-pou-roig-en-un-gran-corredor-verd-contra-les-riades",
-        "https://contratos.gobierto.es/licitaciones/4901449?locale=es"
+        "https://contratos.gobierto.es/licitaciones/4901449?locale=es",
+        "https://calp.es/va/aggregator",
+        "https://www.elperiodic.com/calpe/calp-dispone-proyecto-para-renaturalizar-barrancos-urbanos-quisi-roig-reducir-riesgo-inundaciones_1100906",
+        "https://cadenaser.com/comunitat-valenciana/2026/11/04/calp-proyecta-recuperar-los-barrancos-del-quisi-y-pou-roig-para-reducir-el-riesgo-de-inundaciones-radio-denia"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -480,7 +551,7 @@
         "La actuación está proyectada y no ejecutada. No incluir el parque verde, su superficie ni el carácter piloto, al no estar verificados."
       ],
       "published_at": "2026-10-31T21:38:14.780Z",
-      "updated_at": "2026-11-04T17:22:50.587Z",
+      "updated_at": "2026-11-04T23:42:18.113Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

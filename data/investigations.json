@@ -1,142 +1,179 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-11-04T17:22:06.886Z",
+  "generated_at": "2026-11-04T23:41:23.895Z",
   "model": "gpt-5.6-luna",
-  "count": 2,
+  "count": 3,
   "investigations": [
     {
-      "candidate_fingerprint": "3421f20024cb7125a484a7b60d8b8e9227b34e38a4eeb948d12ca24688db1e5b",
+      "candidate_fingerprint": "2b17f71bfea5ae3523b3794eb54a88413105c5e6669a673e2c3db410fa5fbd42",
       "title": "Calp dispone ya del proyecto para renaturalizar los barrancos urbanos del Quisi y Pou Roig y reducir el riesgo de inundaciones",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda verificada. El Ayuntamiento de Calp confirma que ya dispone del proyecto técnico para actuar en los tramos urbanos de los barrancos del Pou Roig y del Quisi. La fuente oficial respalda las longitudes, la superficie ocupada por la caña invasora, la recuperación del parque de la Saleta y el coste estimado de 1,6 millones de euros. Fuentes periodísticas independientes corroboran la existencia y el contenido general del proyecto.",
+      "summary": "La existencia del proyecto municipal y sus principales magnitudes quedan respaldadas por una publicación oficial del Ayuntamiento de Calp y por dos medios independientes. La URL municipal facilitada originalmente devuelve 404, pero la misma información está publicada en el agregador oficial del Ayuntamiento.",
       "claims": [
         {
-          "claim": "El Ayuntamiento de Calp ya dispone del proyecto de renaturalización de los tramos urbanos del Pou Roig y del Quisi.",
+          "claim": "El Ayuntamiento de Calp dispone de un proyecto técnico para renaturalizar los tramos urbanos de los barrancos del Quisi y Pou Roig.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación afecta a 786 metros del Pou Roig y 889 metros del Quisi.",
+          "claim": "La actuación abarca 786 metros del Pou Roig y 889 metros del Quisi.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La caña invasora ocupa más de 10.000 metros cuadrados en los barrancos objeto del proyecto.",
+          "claim": "El proyecto prevé retirar o tratar más de 10.000 metros cuadrados de caña común invasora y recuperar vegetación autóctona.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El proyecto contempla eliminar la caña invasora, plantar especies autóctonas y mejorar la capacidad de los cauces ante lluvias intensas.",
+          "claim": "La actuación incluye la recuperación del parque municipal de la Saleta y la creación de un corredor verde con zonas permeables y equipamientos.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación incluye la recuperación del parque municipal de la Saleta.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El coste estimado del proyecto es de 1,6 millones de euros.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La actuación se desarrollará durante varios años.",
+          "claim": "El coste estimado asciende a 1,6 millones de euros y la ejecución se prolongaría durante varios años.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-dispone-ya-del-proyecto-para-renaturalizar-los-barrancos-urbanos-del-quisi-y-pou-roig-y",
-          "evidence": "La nota oficial, fechada el 4 de noviembre de 2026, afirma que el Ayuntamiento ya cuenta con el proyecto. Identifica 786 metros de actuación en el Pou Roig y 889 metros en el Quisi; cifra en más de 10.000 metros cuadrados la superficie ocupada por Arundo donax; describe la erradicación de la caña, la plantación de vegetación autóctona, la mejora de la capacidad de conducción del agua y la recuperación del parque de la Saleta. También fija un coste estimado de 1,6 millones de euros y varios años de ejecución.",
+          "source_name": "Ayuntamiento de Calp, agregador oficial",
+          "source_url": "https://calp.es/va/aggregator",
+          "evidence": "La publicación municipal identifica el proyecto de renaturalización, atribuye el estudio a Calco Territorio y Urbanismo y Biodiversity Node, y confirma los tramos de 786 metros en el Pou Roig y 889 metros en el Quisi. También señala que la caña común ocupa más de 10.000 metros cuadrados.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "La Marina Plaza / elDiario.es",
-          "source_url": "https://lamarina.eldiario.es/2026/11/04/calp-transformara-els-barrancs-del-quisi-i-del-pou-roig-en-un-gran-corredor-verd-contra-les-riades/",
-          "evidence": "La información publicada el 4 de noviembre de 2026 confirma que el Ayuntamiento dispone de un proyecto redactado para renaturalizar los tramos urbanos de ambos barrancos y recoge las longitudes de 786 metros para el Pou Roig y 889 metros para el Quisi. También describe el objetivo de eliminar especies invasoras, recuperar biodiversidad y reducir el riesgo de inundaciones.",
+          "source_name": "El Periódico de Alicante",
+          "source_url": "https://www.elperiodic.com/calpe/calp-dispone-proyecto-para-renaturalizar-barrancos-urbanos-quisi-roig-reducir-riesgo-inundaciones_1100906",
+          "evidence": "Corrobora la existencia del proyecto, los tramos de ambos barrancos, la superficie ocupada por la caña invasora, la recuperación del parque de la Saleta y el coste estimado de 1,6 millones de euros.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12461/readpic",
-          "evidence": "La información publicada el 30 de octubre de 2026 describe el proyecto de renaturalización de los barrancos como una estrategia de prevención de inundaciones y recuperación ambiental, con eliminación de especies invasoras y creación de espacios verdes. Corrobora el contenido general y la finalidad de la actuación, aunque no sustituye a la fuente oficial para el importe exacto.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp - perfil de contratación",
-          "source_url": "https://contratos.gobierto.es/licitaciones/4901449?locale=es",
-          "evidence": "El registro de contratación identifica una licitación municipal para redactar el proyecto de regeneración y renaturalización de los tramos urbanos de los barrancos del Quisi y del Pou Roig. La adjudicación fue a Calco Territorio y Urbanismo por 24.500 euros, lo que aporta corroboración documental independiente de que el proyecto fue encargado y redactado.",
+          "source_name": "Radio Dénia-Cadena SER",
+          "source_url": "https://cadenaser.com/comunitat-valenciana/2026/11/04/calp-proyecta-recuperar-los-barrancos-del-quisi-y-pou-roig-para-reducir-el-riesgo-de-inundaciones-radio-denia/",
+          "evidence": "Confirma de forma independiente que el Ayuntamiento dispone del proyecto, sus longitudes, el presupuesto estimado, la eliminación de especies invasoras y la transformación del parque de la Saleta.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "El importe de 1,6 millones de euros aparece como coste estimado, no como crédito definitivo ni como importe de adjudicación de las obras.",
-        "No se ha localizado en la búsqueda el expediente técnico completo de ejecución de la actuación ni una financiación definitiva para los 1,6 millones de euros.",
-        "La corroboración independiente respalda el proyecto y sus objetivos generales; los detalles económicos proceden principalmente de la nota oficial."
+        "La URL original facilitada, en noticias.calp.es, no pudo abrirse y devuelve 404; la referencia municipal equivalente fue localizada en calp.es.",
+        "Se ha verificado la existencia y el contenido anunciado del proyecto, no la adjudicación ni el inicio material de las obras."
       ],
-      "id": "inv_27c751f8a0052b31",
-      "investigated_at": "2026-11-04T17:22:06.886Z",
+      "id": "inv_f0985906ab874c84",
+      "investigated_at": "2026-11-04T23:41:23.895Z",
       "model": "gpt-5.6-luna"
     },
     {
-      "candidate_fingerprint": "e5efdc28edfc4c1fcd88b7a1d03927773d34c56da3e98f1cf07e7b13024465fc",
-      "title": "Calp inicia un contrato de emergencia para apuntalar el Club Social La Manzanera tras el derrumbe",
+      "candidate_fingerprint": "7a0c36eaa7fe46f3993900b9e3d8037d81d6315591c9e5b6724af03964b93b9d",
+      "title": "Comercios, turismo e industria pueden solicitar ayudas de 10.000 euros por los daños de la DANA Adam",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La noticia queda verificada. El Ayuntamiento confirma que el 2 de noviembre de 2026 inició un contrato de emergencia para perimetrar y acordonar el Club Social La Manzanera y reforzar y apuntalar las paredes que permanecen en pie tras los derrumbes del fin de semana. También confirma que mantiene su intención de rehabilitar el inmueble pese a la instrucción de la Dirección General de Costas que obliga a su demolición. Medios locales independientes corroboran la intervención de emergencia y el contexto del derrumbe.",
+      "summary": "La Generalitat ha habilitado ayudas urgentes para comercio minorista, establecimientos turísticos e industria afectados por la DANA Adam. La cuantía de 10.000 euros por establecimiento y el plazo hasta el 1 de febrero de 2027 están respaldados por la normativa y por fuentes institucionales y sectoriales. La ayuda está sujeta a requisitos y a la inclusión del municipio en el ámbito de aplicación.",
       "claims": [
         {
-          "claim": "El Club Social La Manzanera sufrió derrumbes durante el fin de semana previo al 2 de noviembre de 2026.",
+          "claim": "La Generalitat ha abierto el plazo para solicitar ayudas urgentes destinadas a comercio minorista, establecimientos turísticos e industria afectados por la DANA Adam.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El Ayuntamiento de Calp inició un contrato de emergencia para perimetrar y acordonar la zona.",
+          "claim": "La cuantía de las ayudas para estos establecimientos es de 10.000 euros por establecimiento afectado.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "El contrato incluye reforzar y apuntalar las paredes que permanecen en pie.",
+          "claim": "El plazo de solicitud finaliza el 1 de febrero de 2027.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La actuación pretende evitar el acceso y garantizar la seguridad ante el riesgo de nuevos derrumbes.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El Ayuntamiento mantiene su intención de rehabilitar el edificio.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La Dirección General de Costas ha emitido una instrucción que obliga a demoler el inmueble.",
+          "claim": "Las ayudas se refieren a los daños o a la interrupción o limitación efectiva de la actividad causada por la DANA Adam de los días 18 y 19 de octubre de 2026.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-insiste-en-la-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
-          "evidence": "La nota oficial del 2 de noviembre de 2026 informa de que, tras los derrumbes del fin de semana, se inició un contrato de emergencia para el perimetrado y acordonamiento de la zona. Añade que el contrato incluye el refuerzo y apuntalamiento de las paredes existentes y que el Ayuntamiento mantiene su voluntad de rehabilitar el edificio pese a la instrucción de la Dirección General de Costas que obliga a su demolición.",
+          "source_name": "Diari Oficial de la Generalitat Valenciana, Decreto 174/2026",
+          "source_url": "https://dogv.gva.es/datos/2026/10/26/pdf/2026_33422_es.pdf",
+          "evidence": "El decreto regula ayudas urgentes al comercio minorista, al sector turístico y a la industria afectados por la DANA Adam. La referencia normativa establece las bases de concesión directa y la cuantía de 10.000 euros por establecimiento para las líneas de continuidad y reactivación.",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12470/library",
-          "evidence": "La información publicada el 2 de noviembre de 2026 relata que el derrumbe de la cubierta del antiguo Club Social provocó la adopción de medidas urgentes. Confirma que el Ayuntamiento tramitó un contrato de emergencia para asegurar el inmueble, acordonar el perímetro y reforzar y apuntalar los muros que permanecen en pie.",
+          "source_name": "FEMEVAL",
+          "source_url": "https://www.femeval.es/app/detalle-notificaciones-app/dynacontent/ayudas-al-comercio-minorista-e-industrias-afectados-por-la-dana-adam.html?cid=499bd7e9-0a5b-4e31-b54b-b208e76ef3d7",
+          "evidence": "Resume el Decreto 174/2026, confirma las líneas para comercio, turismo e industria, la cuantía de 10.000 euros por establecimiento y el plazo de presentación desde el 2 de noviembre de 2026 hasta el 1 de febrero de 2027.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "El Periódico de Calp",
-          "source_url": "https://www.elperiodic.com/calpe/derrumbe-emblematico-edificio-calp-reabre-debate-sobre-futuro-derribo-segunda-vida-para-club-social-manzanera_1100387",
-          "evidence": "La publicación del 2 de noviembre de 2026 confirma que el Ayuntamiento inició una actuación de emergencia después de los derrumbes, con acordonamiento y delimitación del perímetro y refuerzo y apuntalamiento de las paredes restantes. También recoge que el consistorio mantiene su intención de rehabilitar el edificio frente a la demolición exigida por Costas.",
+          "source_name": "Turisme Comunitat Valenciana",
+          "source_url": "https://www.turisme.gva.es/opencms/opencms/turisme/es/contents/subvencion/subvencion.html",
+          "evidence": "La página oficial de Turisme Comunitat Valenciana anuncia el inicio del plazo para las ayudas urgentes de concesión directa al sector turístico afectado por la DANA Adam.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/comercios-turismo-e-industria-pueden-pedir-ya-las-ayudas-de-10-000-euros-por-la-dana-adam/",
+          "evidence": "Informa de la apertura del plazo, la inclusión de comercio, turismo e industria, la cuantía fija de 10.000 euros por establecimiento y la finalización del plazo el 1 de febrero de 2027.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La fuente oficial utiliza el término 'instrucción' de la Dirección General de Costas; la candidatura la denomina 'resolución'. El fondo de la afirmación —que Costas exige la demolición— está respaldado, pero no se ha localizado el documento administrativo original.",
-        "No se ha localizado el importe, adjudicatario ni expediente completo del contrato de emergencia.",
-        "Las fuentes consultadas confirman el derrumbe y las medidas de seguridad, pero no permiten determinar si el apuntalamiento ya estaba completamente ejecutado o solo iniciado el 2 de noviembre."
+        "La elegibilidad depende de acreditar una afección efectiva y de que el establecimiento esté situado en un municipio incluido en el decreto.",
+        "La página de Turisme Comunitat Valenciana contiene una probable errata al mostrar el año 2026 para la fecha final; el decreto y otras fuentes coinciden en que el plazo termina el 1 de febrero de 2027.",
+        "La URL facilitada originalmente redirige correctamente a la versión con barra final."
       ],
-      "id": "inv_afbbc2430fa563ad",
-      "investigated_at": "2026-11-04T17:22:06.886Z",
+      "id": "inv_cae5f3b164472d8a",
+      "investigated_at": "2026-11-04T23:41:23.895Z",
+      "model": "gpt-5.6-luna"
+    },
+    {
+      "candidate_fingerprint": "2862c3d7c6fefab2a1a6512a506735e994f74e691c0c86562af9d086c38d5429",
+      "title": "La lluvia deja más de 80 litros por metro cuadrado en 12 horas en la Marina Alta y se mantiene el aviso amarillo",
+      "status": "NEEDS_RESEARCH",
+      "confidence": "MEDIUM",
+      "publishable": false,
+      "summary": "La noticia está respaldada por LaMarinaAlta.com y existe corroboración independiente de que AEMET pronosticaba precipitaciones persistentes y localmente fuertes en el litoral norte de Alicante. Sin embargo, los acumulados concretos de 82,3 y 81,3 l/m² proceden de registros de AVAMET reproducidos por medios locales y no se ha localizado una fuente independiente oficial que permita verificar esos valores exactos y el estado histórico del aviso amarillo.",
+      "claims": [
+        {
+          "claim": "Algunos observatorios de la Marina Alta superaron los 80 l/m² en 12 horas durante la noche del 3 al 4 de noviembre de 2026.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "Els Poblets-Miraflor registró 82,3 l/m² y Pego-Les Verdales 81,3 l/m² en 12 horas.",
+          "status": "UNVERIFIED"
+        },
+        {
+          "claim": "AEMET describió precipitaciones persistentes y localmente fuertes en el litoral norte de Alicante.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El aviso amarillo de AEMET para el litoral norte de Alicante permanecía activo hasta las 12:00 del 4 de noviembre.",
+          "status": "UNVERIFIED"
+        }
+      ],
+      "evidences": [
+        {
+          "source_name": "LaMarinaAlta.com",
+          "source_url": "https://lamarinaalta.com/la-lluvia-aprieta-de-noche-en-la-marina-alta-mas-de-80-litros-en-12-horas-y-continua-el-aviso-amarillo/",
+          "evidence": "Publica los acumulados de AVAMET, incluidos 82,3 l/m² en Miraflor y 81,3 l/m² en Les Verdales, y atribuye a AEMET la descripción de lluvias persistentes en la Safor y el norte de la Marina Alta. También afirma que el aviso amarillo seguía activo hasta las 12:00.",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "AEMET",
+          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/espana?p=03&w=22",
+          "evidence": "La predicción válida para el 4 de noviembre de 2026 contempla cielo muy nuboso y chubascos localmente fuertes y persistentes en el litoral norte de Alicante.",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Som Pego",
+          "source_url": "https://sompego.es/es/noticias/254/pego-registra-mas-de-80-litros-de-lluvia-en-12-horas-y-sigue-el-aviso-amarillo/",
+          "evidence": "Reproduce los mismos valores de 81,3 y 82,3 l/m² y el aviso amarillo, pero identifica expresamente a LaMarinaAlta.com como fuente original; por tanto, no constituye corroboración independiente plena.",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "caveats": [
+        "La confirmación independiente localizada respalda el episodio de lluvia y la predicción de AEMET, pero no los dos acumulados exactos atribuidos a estaciones concretas de AVAMET.",
+        "La página de AEMET consultada confirma la previsión meteorológica del 4 de noviembre, pero no conserva en el resultado accesible el aviso amarillo histórico hasta las 12:00.",
+        "Se recomienda obtener el registro histórico de AVAMET y el boletín archivado de AEMET o Emergencias de la Generalitat antes de publicar los valores exactos y la vigencia del aviso."
+      ],
+      "id": "inv_06ff0f6f85eb8d00",
+      "investigated_at": "2026-11-04T23:41:23.895Z",
       "model": "gpt-5.6-luna"
     }
   ]
