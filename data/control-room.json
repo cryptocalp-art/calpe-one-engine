@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-05T15:31:06.667Z",
+  "generated_at": "2026-11-05T22:02:00.042Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-05T15:31:06.498Z",
+  "last_activity": "2026-11-05T22:01:59.808Z",
   "newspaper": {
-    "archive_total": 143,
-    "published_today": 2,
-    "published_last_7_days": 12,
+    "archive_total": 144,
+    "published_today": 3,
+    "published_last_7_days": 13,
     "categories": {
+      "SUCESOS": 23,
       "MEDIO_AMBIENTE": 26,
       "ECONOMIA": 22,
       "SOCIEDAD": 18,
       "CULTURA": 8,
       "TURISMO": 13,
       "LOCAL": 18,
-      "SUCESOS": 22,
       "POLITICA": 11,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_a5fd6351d7a807f4",
+        "title": "La Policía Local de Calp ampliará la red de videovigilancia con 30 nuevas cámaras",
+        "category": "SUCESOS",
+        "slug": "calp-ampliara-videovigilancia-30-nuevas-camaras",
+        "published_at": "2026-11-05T22:01:31.628Z"
+      },
       {
         "archive_id": "arc_99f664bfb520df05",
         "title": "La Marina Alta supera los 80 litros por metro cuadrado durante la noche y mantiene el aviso amarillo",
@@ -69,23 +76,16 @@
         "category": "CULTURA",
         "slug": "la-cubana-primera-actuacion-calp-noviembre",
         "published_at": "2026-11-02T15:59:29.175Z"
-      },
-      {
-        "archive_id": "arc_b84da9ce0aea6a4d",
-        "title": "La cubierta del Club Social La Manzanera se hunde sin causar heridos",
-        "category": "MEDIO_AMBIENTE",
-        "slug": "se-hunde-cubierta-club-social-la-manzanera-calp",
-        "published_at": "2026-11-01T19:43:21.196Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 9,
+    "radar_candidates": 5,
     "investigated": 0,
     "drafts": 2,
     "eligible": 2,
     "quarantined": 0,
-    "archive_added": 0
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,

@@ -3,9 +3,69 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-05T15:30:55.418Z",
-  "count": 143,
+  "updated_at": "2026-11-05T22:01:44.869Z",
+  "count": 144,
   "articles": [
+    {
+      "archive_id": "arc_a5fd6351d7a807f4",
+      "external_id": "drf_275b068a6010c00e",
+      "investigation_id": "inv_6de52f88c36750e9",
+      "candidate_fingerprints": [
+        "8cddf418d6a26631ccc9cd66682d03b95cc0518e1758a4178fe1993a3000221f"
+      ],
+      "title": "La Policía Local de Calp ampliará la red de videovigilancia con 30 nuevas cámaras",
+      "slug": "calp-ampliara-videovigilancia-30-nuevas-camaras",
+      "summary": "La red de videovigilancia de Calp ampliará su cobertura con 30 nuevas cámaras dentro de una segunda fase del proyecto, según la información difundida por el Ayuntamiento. La actuación cuenta con una inversión de 150.000 euros y está previsto que entre en funcionamiento en las próximas semanas.",
+      "body": "La red de videovigilancia de Calp ha cumplido aproximadamente un año de funcionamiento y ha servido de apoyo a investigaciones relacionadas con el tráfico y la seguridad vial, según el balance difundido por el Ayuntamiento.\n\nDurante este periodo, las cámaras han permitido esclarecer directamente 32 accidentes de tráfico. Además, se han cedido más de 420 horas de grabaciones a fuerzas de seguridad y órganos judiciales. Estos datos proceden del informe técnico-operativo citado por el consistorio.\n\nLa segunda fase del plan contempla la instalación de una treintena de nuevas cámaras. Los dispositivos estarán conectados mediante fibra óptica y la actuación supone una inversión de 150.000 euros. La previsión comunicada es que esta ampliación entre en funcionamiento en las próximas semanas.\n\nEl Ayuntamiento también ha documentado la puesta en marcha de esta segunda fase y la adjudicación de los trabajos a Elecnor. La ampliación se plantea después del balance del primer año de funcionamiento de la red, centrado en su uso como apoyo para investigaciones de tráfico y seguridad vial.\n\nLa información disponible no incluye el informe técnico-operativo completo de forma separada. Por ello, las cifras de 32 accidentes esclarecidos y más de 420 horas cedidas se atribuyen al balance comunicado por el Ayuntamiento.",
+      "category": "SUCESOS",
+      "seo_title": "Calp ampliará su videovigilancia con 30 nuevas cámaras",
+      "meta_description": "Calp ampliará su red de videovigilancia con 30 cámaras, una inversión de 150.000 euros y conexión por fibra óptica.",
+      "sources": [
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/la-polic%C3%ADa-local-destaca-la-eficacia-de-las-c%C3%A1maras-de-videovigilancia-tras-su-primer-a%C3%B1o-de",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "La Marina Plaza",
+          "url": "https://lamarina.eldiario.es/2026/11/05/calp-ampliara-la-xarxa-de-videovigilancia-despres-del-balanc-positiu-del-primer-any/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/calp-instala-las-c%C3%A1maras-de-la-segunda-fase-del-plan-de-videovigilancia",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://noticias.calp.es/es/noticia/la-polic%C3%ADa-local-destaca-la-eficacia-de-las-c%C3%A1maras-de-videovigilancia-tras-su-primer-a%C3%B1o-de",
+        "https://lamarina.eldiario.es/2026/11/05/calp-ampliara-la-xarxa-de-videovigilancia-despres-del-balanc-positiu-del-primer-any",
+        "https://noticias.calp.es/es/noticia/calp-instala-las-c%C3%A1maras-de-la-segunda-fase-del-plan-de-videovigilancia"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 3,
+        "evidence_count": 3,
+        "caveats": [
+          "La cifra de 32 accidentes y las 420 horas procede del informe técnico-operativo citado por el Ayuntamiento; no se ha localizado el informe íntegro publicado separadamente.",
+          "La noticia describe la entrada en funcionamiento como prevista para las próximas semanas, no como una instalación ya finalizada."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_bdaae1b158c3f690",
+        "quality_gate_evaluated_at": "2026-11-05T22:01:44.529Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La cifra de 32 accidentes y las más de 420 horas cedidas procede del informe técnico-operativo citado por el Ayuntamiento, cuyo contenido íntegro no consta publicado separadamente.",
+        "La entrada en funcionamiento de las nuevas cámaras está prevista para las próximas semanas; no debe presentarse como una instalación ya finalizada."
+      ],
+      "published_at": "2026-11-05T22:01:31.628Z",
+      "updated_at": "2026-11-05T22:01:44.869Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_99f664bfb520df05",
       "external_id": "drf_337cf7d9eca921b7",
@@ -8523,7 +8583,8 @@
         "4d48765517791de3f01901736067624f6d7255bd749d84aa7546a232f2745c88",
         "83adfbdd0ad9affff461626f6bcc7782b0898eaaf316a53ea0cb4499a32477c6",
         "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
-        "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca"
+        "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
+        "4792df79542d3c39e5c3ffd33f95241bd5ed9228f52a38f99b737578057cc731"
       ],
       "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
@@ -8562,7 +8623,8 @@
         "https://calpdigital.es/art/12397/calp-grados-universitarios-uned-aula-universitaria",
         "https://contratos.gobierto.es/licitaciones/5090926",
         "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor",
-        "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618"
+        "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
+        "https://calpdigital.es/art/12482/calp-nuevo-servicio-limpieza-playas-noviembre-2026"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -8577,7 +8639,7 @@
         "La cifra utilizada es la inversión anual comunicada por el Ayuntamiento; el registro de contratación diferencia entre oferta adjudicada e importe total del contrato."
       ],
       "published_at": "2026-09-25T19:04:08.736Z",
-      "updated_at": "2026-11-03T21:02:37.749Z",
+      "updated_at": "2026-11-05T22:01:44.869Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },

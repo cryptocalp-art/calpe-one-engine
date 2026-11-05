@@ -1,126 +1,94 @@
 {
-  "generated_at": "2026-11-05T15:29:45.625Z",
-  "count": 15,
+  "generated_at": "2026-11-05T22:00:49.956Z",
+  "count": 11,
   "evidences": [
     {
-      "id": "evd_b184e35f65607849",
-      "investigation_id": "inv_66388d7a034a9f9c",
-      "source_name": "Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%93%A2%F0%9F%8F%97%EF%B8%8F-el-ayuntamiento-de-calp-suspende-temporalmente-el-concurso-de-proyectos-de-reurbanizacion-de-la-avenida-europa-la-plaza-colon-y-las-calles-la-nina-y-portalet",
-      "evidence": "La página municipal está fechada el 5 de noviembre de 2026 y su titular anuncia la suspensión temporal del concurso para esos espacios. No incluye en el contenido visible los motivos ni el detalle del recurso.",
+      "id": "evd_3650c6223614a807",
+      "investigation_id": "inv_6de52f88c36750e9",
+      "source_name": "Ayuntamiento de Calp",
+      "source_url": "https://noticias.calp.es/es/noticia/la-polic%C3%ADa-local-destaca-la-eficacia-de-las-c%C3%A1maras-de-videovigilancia-tras-su-primer-a%C3%B1o-de",
+      "evidence": "El Ayuntamiento informa de más de 420 horas de grabaciones cedidas, 32 accidentes esclarecidos y una segunda fase en ejecución con 150.000 euros y 30 nuevas cámaras conectadas mediante fibra óptica.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_19706b7e53f00740",
-      "investigation_id": "inv_66388d7a034a9f9c",
-      "source_name": "Ayuntamiento de Calp / Noticias",
-      "source_url": "https://calpe.es/es/noticias/articulo/calp-convoca-un-concurso-de-proyectos-para-definir-la-futura-reurbanizacion-de-la",
-      "evidence": "Confirma la convocatoria original del concurso, los espacios incluidos y el plazo inicial de presentación hasta el 11 de noviembre de 2026.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_50a9faf92a448b30",
-      "investigation_id": "inv_66388d7a034a9f9c",
-      "source_name": "Cadena SER Radio Dénia",
-      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/10/07/calp-busca-nuevos-disenos-para-transformar-la-avenida-europa-la-plaza-colon-y-otras-calles-del-municipio-radio-denia/",
-      "evidence": "Informa de la convocatoria del concurso para seleccionar propuestas de reurbanización de la avenida Europa, la calle Portalet, un tramo de la avenida Puerto de Santa María, la calle La Niña y la plaza Colón.",
+      "id": "evd_4d1ae5ffa4e93e6f",
+      "investigation_id": "inv_6de52f88c36750e9",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/11/05/calp-ampliara-la-xarxa-de-videovigilancia-despres-del-balanc-positiu-del-primer-any/",
+      "evidence": "La publicación confirma el balance del primer año, las 32 investigaciones de accidentes, las más de 420 horas de grabaciones cedidas y el anuncio de 30 nuevas cámaras con una inversión de 150.000 euros.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_746eb028da0b2104",
-      "investigation_id": "inv_0ebea2edd45fbabb",
+      "id": "evd_9e7721173d27dbf5",
+      "investigation_id": "inv_6de52f88c36750e9",
       "source_name": "Ayuntamiento de Calp",
       "source_url": "https://noticias.calp.es/es/noticia/calp-instala-las-c%C3%A1maras-de-la-segunda-fase-del-plan-de-videovigilancia",
-      "evidence": "La fuente municipal confirma la instalación de la segunda fase del plan, con una treintena de cámaras, y señala que una tercera fase permitirá extender el sistema a edificios e instalaciones municipales, instalaciones deportivas y otros espacios públicos.",
+      "evidence": "La fuente oficial documenta la segunda fase, la inversión de 150.000 euros, la instalación de una treintena de cámaras y la adjudicación a Elecnor.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_932064af8dd12256",
-      "investigation_id": "inv_0ebea2edd45fbabb",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/node/34754",
-      "evidence": "Confirma que la primera fase del plan de videovigilancia se inició en 2025 para mejorar la seguridad y monitorizar el tráfico.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_1be72bd950d3dd21",
-      "investigation_id": "inv_0ebea2edd45fbabb",
-      "source_name": "Ayuntamiento de Calp, URL facilitada para la noticia",
-      "source_url": "https://noticias.calp.es/es/noticia/la-polici%C3%ADa-local-destaca-la-eficacia-de-las-c%C3%A1maras-de-videovigilancia-tras-su-primer-a%C3%B1o-de",
-      "evidence": "La URL corresponde al supuesto comunicado municipal sobre el primer año de funcionamiento, pero no ha podido ser recuperada de forma verificable durante la investigación.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_bf6c6ef6dfa7ea8e",
-      "investigation_id": "inv_abcd0e9dc5c9abdf",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-una-nueva-campa%C3%B1a-de-bono-comercio-que-inyectar%C3%A1",
-      "evidence": "El Ayuntamiento informa de una campaña de 460.000 euros, con 230.000 euros municipales; bonos de 20, 50 y 100 euros subvencionados al 50%; beneficiarios empadronados mayores de 18 años a 1 de junio de 2026; y adquisición del 6 al 20 de noviembre o hasta fin de existencias.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_e9079f82a5ca86b3",
-      "investigation_id": "inv_abcd0e9dc5c9abdf",
-      "source_name": "Asociación de Empresarios de Calp (AEMCO)",
-      "source_url": "https://empresarioscalpe.es/2026/11/02/campana-bono-comercio-calp-2026/",
-      "evidence": "AEMCO confirma las fechas de adhesión de comercios, las fechas de compra y canje de bonos, los importes de 20, 50 y 100 euros, la subvención del 50% y la aportación municipal de 230.000 euros para generar una inversión total de 460.000 euros.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_20ca35a861018d24",
-      "investigation_id": "inv_abcd0e9dc5c9abdf",
+      "id": "evd_bf1e1fc304a85061",
+      "investigation_id": "inv_b12ee19f8f53794b",
       "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12469/library",
-      "evidence": "Publica los mismos elementos operativos de la campaña: 230.000 euros municipales, 460.000 euros de compras previstas, bonos de 20, 50 y 100 euros y periodo del 6 al 20 de noviembre.",
+      "source_url": "https://calpdigital.es/art/12482/calp-nuevo-servicio-limpieza-playas-noviembre-2026",
+      "evidence": "La información publicada el 5 de noviembre afirma que el servicio comenzó el 1 de noviembre, fija la inversión anual en 639.726,71 euros, identifica a FCC Medio Ambiente como adjudicataria por cuatro años y detalla los refuerzos de personal, maquinaria, frecuencias y zonas.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_130a31705d85a3ac",
-      "investigation_id": "inv_891ed30daeaecbe0",
+      "id": "evd_53f76ee2cb09827b",
+      "investigation_id": "inv_b12ee19f8f53794b",
       "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-insiste-en-la-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
-      "evidence": "El Ayuntamiento informa de que ha iniciado un contrato de emergencia para perimetrar y acordonar la zona y reforzar y apuntalar las paredes existentes, tras los derrumbes, y afirma que seguirá defendiendo la rehabilitación pese a la instrucción de Costas que obliga a la demolición.",
+      "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
+      "evidence": "El Ayuntamiento anunció la adjudicación a FCC Medio Ambiente, una inversión anual de 639.726,71 euros, un incremento del 40%, la puesta en marcha prevista para el 1 de noviembre y las mejoras en personal, temporadas, maquinaria, calas y zonas rocosas.",
       "source_type": "PRIMARY"
     },
     {
-      "id": "evd_164f9d09f0168edf",
-      "investigation_id": "inv_891ed30daeaecbe0",
-      "source_name": "Calp Digital",
-      "source_url": "https://calpdigital.es/art/12470/calp-contrato-emergencia-apuntalar-club-social-la-manzanera",
-      "evidence": "Describe el derrumbe de la cubierta y la tramitación de un contrato de emergencia para acordonar el inmueble y apuntalar los muros, además de recoger la voluntad municipal de recuperar el edificio frente al conflicto con Costas.",
+      "id": "evd_1ebb79ae228bc46f",
+      "investigation_id": "inv_b12ee19f8f53794b",
+      "source_name": "MarinaON",
+      "source_url": "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/",
+      "evidence": "La fuente independiente confirma la adjudicación a FCC, el coste anual, la duración de cuatro años, el inicio previsto el 1 de noviembre y las mejoras en frecuencia, personal, maquinaria y atención a calas de difícil acceso.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_52543179df70422c",
-      "investigation_id": "inv_891ed30daeaecbe0",
-      "source_name": "Ayuntamiento de Calp, dosier de prensa",
-      "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
-      "evidence": "Recoge como asunto de prensa la puesta en marcha de un contrato de emergencia para apuntalar el Club Social La Manzanera tras el derrumbe.",
+      "id": "evd_e42d070620b6e01d",
+      "investigation_id": "inv_b12ee19f8f53794b",
+      "source_name": "Perfil de contratación del servicio de limpieza de Calp",
+      "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+      "evidence": "El expediente identifica el servicio de limpieza de playas y calas, la adjudicataria FCC Medio Ambiente, la duración de cuatro años y el importe total adjudicado de 639.726,71 euros con IVA.",
       "source_type": "SECONDARY"
     },
     {
-      "id": "evd_c2b78b186a0751be",
-      "investigation_id": "inv_f8f15ffe4c13433e",
-      "source_name": "Calp Comunica",
-      "source_url": "https://calpcomunica.calp.es/evento/%F0%9F%8C%B3%F0%9F%8C%BF-finalizan-los-trabajos-de-restauracion-y-mejora-de-la-zona-de-la-ermita-de-calp",
-      "evidence": "La página municipal está fechada el 5 de noviembre de 2026 y su titular anuncia la finalización de los trabajos de restauración y mejora de la zona de la Ermita. El contenido textual visible no describe las actuaciones concretas.",
-      "source_type": "PRIMARY"
-    },
-    {
-      "id": "evd_bffb74ce747430f1",
-      "investigation_id": "inv_f8f15ffe4c13433e",
-      "source_name": "Alicante Plaza",
-      "source_url": "https://alicanteplaza.es/alicanteplaza/calp-recupera-el-centrico-parque-de-la-ermita-con-mas-arboles-para-crear-sombras-y-zona-para-mascotas",
-      "evidence": "Describe una actuación anterior, de febrero de 2023, en el parque de la Ermita, con plantación de especies autóctonas y aromáticas y trabajos de acondicionamiento. No confirma la actuación anunciada el 5 de noviembre de 2026.",
-      "source_type": "SECONDARY"
-    },
-    {
-      "id": "evd_4420ececc2d42514",
-      "investigation_id": "inv_f8f15ffe4c13433e",
+      "id": "evd_385d0508d5ed64e4",
+      "investigation_id": "inv_849a4ae2dc60d138",
       "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://calp.es/es/content/n%C3%BAmero-actuaci%C3%B3n-2-restauraci%C3%B3n-espacios-naturales-y-su-protecci%C3%B3n-ante-el-impacto-tur%C3%ADstico",
-      "evidence": "Acredita que el Ayuntamiento contempla actuaciones de restauración de espacios naturales durante 2026, pero no identifica específicamente los trabajos anunciados en la zona de la Ermita ni sus detalles técnicos.",
+      "source_url": "https://noticias.calp.es/es/noticia/el-auditorio-de-calp-acoge-del-7-al-29-de-noviembre-el-xiv-certamen-nacional-de-teatro",
+      "evidence": "La nota oficial del 3 de noviembre anuncia representaciones los días 7, 14 y 15 de noviembre, clausura el 29 de noviembre, compañías de Teruel, Aranda de Duero y Madrid, entrada libre y 7.500 euros en premios.",
       "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_f35dd4f877fb6170",
+      "investigation_id": "inv_849a4ae2dc60d138",
+      "source_name": "Boletín Oficial de la Provincia de Alicante / Ayuntamiento de Calp",
+      "source_url": "https://cultura.calp.es/sites/default/files/Bases%20convocatoria%20XIV%20Certamen%20Nacional%20de%20Teatro%20Amateur%20Antonio%20Ferrer%20el%20cartero%202026.pdf",
+      "evidence": "Las bases oficiales publicadas en el BOP establecen las representaciones de la fase final para los domingos 8, 15 y 22 de noviembre de 2026 y la clausura para el 29 de noviembre. También fijan la dotación económica total de 7.500 euros.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_87348bc96fe91eb7",
+      "investigation_id": "inv_849a4ae2dc60d138",
+      "source_name": "Tourist Info Calpe",
+      "source_url": "https://calpe.es/es/eventos/xiv-certamen-nacional-teatro-amateur-antonio-ferrer-el-cartero-0",
+      "evidence": "La agenda municipal confirma al menos una representación del certamen el 14 de noviembre a las 19:00, en el Auditorio de la Casa de Cultura y con entrada libre.",
+      "source_type": "PRIMARY"
+    },
+    {
+      "id": "evd_78dcb0eae827db4a",
+      "investigation_id": "inv_849a4ae2dc60d138",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/11/03/tres-companyies-de-terol-aranda-de-duero-i-madrid-competixen-en-el-certamen-de-teatre-amateur-de-calp",
+      "evidence": "La publicación periodística identifica el certamen y las tres compañías finalistas de Teruel, Aranda de Duero y Madrid, pero reproduce el calendario difundido por el Ayuntamiento y no resuelve la discrepancia con las bases del BOP.",
+      "source_type": "SECONDARY"
     }
   ]
 }
