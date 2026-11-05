@@ -3,9 +3,83 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-04T23:42:18.113Z",
-  "count": 142,
+  "updated_at": "2026-11-05T06:51:33.463Z",
+  "count": 143,
   "articles": [
+    {
+      "archive_id": "arc_99f664bfb520df05",
+      "external_id": "drf_337cf7d9eca921b7",
+      "investigation_id": "inv_69b73758bcbb506d",
+      "candidate_fingerprints": [
+        "a9ac5b6dd6b4496440edf32e069ecd4060d3790952c0c8371d82049656420df7"
+      ],
+      "title": "La Marina Alta supera los 80 litros por metro cuadrado durante la noche y mantiene el aviso amarillo",
+      "slug": "lluvias-mas-de-80-litros-marina-alta-aviso-amarillo",
+      "summary": "Las lluvias persistentes registradas entre la noche del 3 y el 4 de noviembre dejaron acumulaciones superiores a 80 litros por metro cuadrado en algunas estaciones de la Marina Alta. Els Poblets alcanzó 82,3 l/m² y Pego, 81,3 l/m², en un periodo de 12 horas.",
+      "body": "Las precipitaciones se concentraron durante la noche del 3 al 4 de noviembre de 2026 en el norte de la Marina Alta, con lluvias persistentes y localmente fuertes. Los registros más elevados recogidos en las estaciones citadas corresponden a Els Poblets, con 82,3 litros por metro cuadrado acumulados en 12 horas, y Pego, con 81,3 litros por metro cuadrado en el mismo periodo.\n\nEl episodio meteorológico se desarrolló bajo distintos niveles de aviso. Durante parte de la madrugada del 4 de noviembre estuvo activo un aviso naranja para el litoral norte de Alicante, zona que incluye la Marina Alta. Posteriormente, el nivel se situó en amarillo, que continuaba durante la mañana del 4 de noviembre.\n\nLa información sobre los acumulados procede de datos de estaciones de AVAMET reproducidos por fuentes informativas. La referencia a los avisos corresponde a la Agencia Estatal de Meteorología (AEMET), organismo competente para su emisión y evolución. La predicción consultada para el entorno de Xàbia describía condiciones muy nubosas durante los días 3 y 4 de noviembre.\n\nLos valores superiores a 80 litros por metro cuadrado se registraron específicamente en Els Poblets y Pego, por lo que no pueden atribuirse al conjunto de municipios de la comarca. La continuidad del aviso amarillo corresponde a la mañana del 4 de noviembre, después de la fase previa de aviso naranja durante la madrugada.",
+      "category": "MEDIO_AMBIENTE",
+      "seo_title": "Lluvias de más de 80 l/m² en la Marina Alta",
+      "meta_description": "Els Poblets y Pego superan los 80 l/m² en 12 horas tras una noche de lluvias y un aviso naranja previo en el litoral norte de Alicante.",
+      "sources": [
+        {
+          "name": "LaMarinaAlta.com",
+          "url": "https://lamarinaalta.com/la-lluvia-aprieta-de-noche-en-la-marina-alta-mas-de-80-litros-en-12-horas-y-continua-el-aviso-amarillo",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Actualidad Valencia",
+          "url": "https://actualidadvalencia.com/aemet-aviso-lluvias-litoral-sur-valencia-amarillo/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "EFE / Infobae",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/03/aviso-naranja-en-litoral-norte-de-alicante-y-el-litoral-sur-de-valencia-por-lluvias/",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "Agencia Estatal de Meteorología (AEMET)",
+          "url": "https://www.aemet.es/es/eltiempo/prediccion/playas/el-arenal-0308204",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Agencia Estatal de Meteorología (AEMET)",
+          "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?w=hoy",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://lamarinaalta.com/la-lluvia-aprieta-de-noche-en-la-marina-alta-mas-de-80-litros-en-12-horas-y-continua-el-aviso-amarillo",
+        "https://actualidadvalencia.com/aemet-aviso-lluvias-litoral-sur-valencia-amarillo",
+        "https://www.infobae.com/espana/agencias/2026/11/03/aviso-naranja-en-litoral-norte-de-alicante-y-el-litoral-sur-de-valencia-por-lluvias",
+        "https://www.aemet.es/es/eltiempo/prediccion/playas/el-arenal-0308204",
+        "https://www.aemet.es/es/eltiempo/prediccion/avisos?w=hoy"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 5,
+        "caveats": [
+          "La formulación 'mantenía el aviso amarillo' es correcta para la mañana del 4 de noviembre, pero el episodio incluyó una fase previa de aviso naranja durante la madrugada.",
+          "Las cifras de 82,3 y 81,3 l/m² proceden de datos de AVAMET reproducidos por una fuente secundaria; no se ha localizado en la búsqueda una página histórica directamente accesible de AVAMET con esos mismos registros.",
+          "La noticia se refiere a la Marina Alta en general: los valores superiores a 80 l/m² se localizaron específicamente en Els Poblets y Pego, no necesariamente en todos los municipios de la comarca."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_c13792c1d42110cd",
+        "quality_gate_evaluated_at": "2026-11-05T06:51:33.143Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "Las cifras de precipitación proceden de datos de AVAMET reproducidos por fuentes secundarias; conviene mantener la atribución.",
+        "Precisar siempre que los registros de 82,3 y 81,3 l/m² corresponden a Els Poblets y Pego, no a toda la Marina Alta.",
+        "El aviso amarillo se refiere a la mañana del 4 de noviembre, tras un aviso naranja durante parte de la madrugada."
+      ],
+      "published_at": "2026-11-05T06:51:24.722Z",
+      "updated_at": "2026-11-05T06:51:33.463Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_dd540c153e9468ef",
       "external_id": "drf_169629d8c1bcadd7",

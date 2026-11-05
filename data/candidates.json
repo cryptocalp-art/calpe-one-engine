@@ -1,47 +1,71 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "RADAR",
-  "generated_at": "2026-11-04T23:40:57.238Z",
+  "generated_at": "2026-11-05T06:50:00.248Z",
   "model": "gpt-5.6-luna",
-  "archive_count": 141,
-  "duplicates_filtered": 2,
-  "count": 3,
+  "archive_count": 142,
+  "duplicates_filtered": 4,
+  "count": 5,
   "candidates": [
     {
-      "title": "Calp dispone ya del proyecto para renaturalizar los barrancos urbanos del Quisi y Pou Roig y reducir el riesgo de inundaciones",
-      "summary": "El Ayuntamiento ya cuenta con el proyecto técnico para actuar sobre 786 metros del barranco del Pou Roig y 889 metros del Quisi. La intervención prevé retirar más de 10.000 metros cuadrados de caña invasora, recuperar el parque de la Saleta y crear corredores verdes, con un coste estimado de 1,6 millones de euros.",
-      "source_name": "Ayuntamiento de Calp",
-      "source_url": "https://noticias.calp.es/es/noticia/calp-dispone-ya-del-proyecto-para-renaturalizar-los-barrancos-urbanos-del-quisi-y",
-      "published_at": "2026-11-04T13:15:00",
-      "category": "MEDIO_AMBIENTE",
-      "relevance": 96,
-      "reason": "Es una actualización material de una actuación municipal ya conocida: el proyecto técnico está terminado, concreta las zonas afectadas, las medidas previstas y la inversión, y tiene impacto directo en la prevención de inundaciones y la ordenación ambiental de Calp.",
-      "detected_at": "2026-11-04T23:40:57.238Z",
-      "fingerprint": "2b17f71bfea5ae3523b3794eb54a88413105c5e6669a673e2c3db410fa5fbd42"
-    },
-    {
-      "title": "Comercios, turismo e industria pueden solicitar ayudas de 10.000 euros por los daños de la DANA Adam",
-      "summary": "La Generalitat ha abierto ayudas urgentes para establecimientos comerciales, turísticos y empresas industriales afectados por la DANA Adam. La subvención es de hasta 10.000 euros por establecimiento y el plazo de solicitud finaliza el 1 de febrero de 2027.",
-      "source_name": "LaMarinaAlta.com",
-      "source_url": "https://lamarinaalta.com/comercios-turismo-e-industria-pueden-pedir-ya-las-ayudas-de-10-000-euros-por-la-dana-adam",
-      "published_at": "2026-11-04T17:16:00",
-      "category": "ECONOMIA",
-      "relevance": 89,
-      "reason": "La Marina Alta fue una de las zonas afectadas por el temporal y la medida puede beneficiar a negocios de Calp que acrediten daños materiales o interrupciones de actividad.",
-      "detected_at": "2026-11-04T23:40:57.238Z",
-      "fingerprint": "7a0c36eaa7fe46f3993900b9e3d8037d81d6315591c9e5b6724af03964b93b9d"
-    },
-    {
-      "title": "La lluvia deja más de 80 litros por metro cuadrado en 12 horas en la Marina Alta y se mantiene el aviso amarillo",
-      "summary": "Las precipitaciones se intensificaron durante la noche del 3 al 4 de noviembre y superaron los 80 litros por metro cuadrado en algunos observatorios de la comarca. AEMET mantuvo la vigilancia sobre el norte de Alicante y la Marina Alta por la persistencia de las lluvias.",
+      "title": "La Marina Alta registra lluvias superiores a 80 litros en 12 horas y mantiene el aviso amarillo",
+      "summary": "Las precipitaciones de la noche del 3 al 4 de noviembre dejaron acumulaciones superiores a 80 litros en algunas estaciones de la comarca, mientras continuaba el aviso meteorológico por lluvias intensas.",
       "source_name": "LaMarinaAlta.com",
       "source_url": "https://lamarinaalta.com/la-lluvia-aprieta-de-noche-en-la-marina-alta-mas-de-80-litros-en-12-horas-y-continua-el-aviso-amarillo",
-      "published_at": "2026-11-04T09:16:00",
+      "published_at": "2026-11-04T09:16:00+01:00",
       "category": "MEDIO_AMBIENTE",
-      "relevance": 86,
-      "reason": "Es una actualización nueva del episodio meteorológico ya publicado: aporta acumulados observados y confirma la persistencia de las precipitaciones, con posibles efectos sobre movilidad, cauces, servicios y zonas inundables de Calp y la Marina Alta.",
-      "detected_at": "2026-11-04T23:40:57.238Z",
-      "fingerprint": "2862c3d7c6fefab2a1a6512a506735e994f74e691c0c86562af9d086c38d5429"
+      "relevance": 82,
+      "reason": "Aunque los registros más altos se concentran en otros municipios, el episodio afecta a la movilidad, la prevención y la gestión de emergencias de toda la Marina Alta, incluida Calp.",
+      "detected_at": "2026-11-05T06:50:00.248Z",
+      "fingerprint": "a9ac5b6dd6b4496440edf32e069ecd4060d3790952c0c8371d82049656420df7"
+    },
+    {
+      "title": "La comunidad educativa de la Marina Alta vuelve a manifestarse este jueves en Dénia",
+      "summary": "La movilización comarcal por la educación pública, aplazada por la DANA Adam, está convocada para el 5 de noviembre a las 19:00 horas desde la plaza Jaume I de Dénia, con participación de centros, familias, alumnado y sindicatos.",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/ca/2026/11/04/la-comunitat-educativa-de-la-marina-alta-torna-a-prendre-hui-els-carrers-de-denia",
+      "published_at": "2026-11-04T00:00:00+01:00",
+      "category": "SOCIEDAD",
+      "relevance": 76,
+      "reason": "Es una movilización comarcal con participación potencial de la comunidad educativa de Calp y posibles efectos sobre la agenda social y educativa de la Marina Alta.",
+      "detected_at": "2026-11-05T06:50:00.248Z",
+      "fingerprint": "dc9d3b64f242b4c7afc6e6630ff107eaae08347f83ff208362e37f74744b2004"
+    },
+    {
+      "title": "Alumnos de Calp y otros siete municipios se forman para trabajar en gestión forestal",
+      "summary": "Estudiantes de la Marina Alta participan en prácticas sobre conservación de fauna, espacios naturales, especies invasoras y microplásticos, dentro de su formación en gestión forestal y medio natural.",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/11/03/alumnos-de-ocho-municipios-de-la-marina-alta-se-forman-sobre-el-terreno-para-convertirse-en-los-futuros-profesionales-de-la-gestion-forestal",
+      "published_at": "2026-11-03T00:00:00+01:00",
+      "category": "MEDIO_AMBIENTE",
+      "relevance": 69,
+      "reason": "Incluye expresamente a estudiantes de Calp y conecta formación profesional, empleo verde y conservación del patrimonio natural de la comarca.",
+      "detected_at": "2026-11-05T06:50:00.248Z",
+      "fingerprint": "a6658165a12137f9d8fa15cec43557cba02825730637277767d8bdee86dc1cf4"
+    },
+    {
+      "title": "Pacte’MA refuerza los proyectos de empleo y diversificación económica en la Marina Alta",
+      "summary": "El acuerdo comarcal, integrado por 32 ayuntamientos y coordinado técnicamente por CREAMA, impulsa iniciativas en los sectores agrícola, industrial, náutico y turístico, con más de 2,6 millones de euros captados desde 2017.",
+      "source_name": "La Marina Plaza",
+      "source_url": "https://lamarina.eldiario.es/2026/11/03/pactema-empleo-diversificacion-economica-marina-alta-proyectos-comarcales-creama",
+      "published_at": "2026-11-03T00:00:00+01:00",
+      "category": "ECONOMIA",
+      "relevance": 68,
+      "reason": "Calp forma parte del acuerdo comarcal y puede beneficiarse de sus programas de empleo, formación, economía azul, turismo y diversificación productiva.",
+      "detected_at": "2026-11-05T06:50:00.248Z",
+      "fingerprint": "e5931e8637c69635fbcdc8e8bf2c3f24c36cf5895289abd973185b58765e60be"
+    },
+    {
+      "title": "Calp celebrará el X Encuentro de Comunicación Innovadora para empresas y emprendedores",
+      "summary": "La jornada, organizada por el Ayuntamiento y CREAMA, se celebrará el 13 de noviembre en la Casa de Cultura con ponencias sobre estrategia de comunicación, innovación y diferenciación empresarial.",
+      "source_name": "Calp Digital",
+      "source_url": "https://calpdigital.es/art/12465/calp-x-encuentro-comunicacion-innovadora-marga-cabrera-josep-caballero-2026",
+      "published_at": "2026-11-03T00:00:00+01:00",
+      "category": "ECONOMIA",
+      "relevance": 66,
+      "reason": "Ofrece formación y conexiones para pymes, autónomos y emprendedores locales, con impacto directo en la actividad empresarial de Calp.",
+      "detected_at": "2026-11-05T06:50:00.248Z",
+      "fingerprint": "e1ab57daf8ab80c46dcd4ca3a7cf24ec0ba197c238647e8058016ba278e04042"
     }
   ]
 }
