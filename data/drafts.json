@@ -1,67 +1,99 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-11-05T06:51:24.722Z",
+  "generated_at": "2026-11-05T15:30:42.970Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 2,
   "drafts": [
     {
-      "id": "drf_337cf7d9eca921b7",
-      "investigation_id": "inv_69b73758bcbb506d",
-      "candidate_fingerprint": "a9ac5b6dd6b4496440edf32e069ecd4060d3790952c0c8371d82049656420df7",
-      "category": "MEDIO_AMBIENTE",
+      "id": "drf_a7285c2ddbe5b471",
+      "investigation_id": "inv_abcd0e9dc5c9abdf",
+      "candidate_fingerprint": "212c04cf160ce3f53afaa0fea7bf455f53568449befa38a4068e7533fb82b05f",
+      "category": "ECONOMIA",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-11-05T06:51:24.722Z",
+      "created_at": "2026-11-05T15:30:42.970Z",
       "model": "gpt-5.6-luna",
-      "headline": "La Marina Alta supera los 80 litros por metro cuadrado durante la noche y mantiene el aviso amarillo",
-      "subheadline": "Els Poblets y Pego registran 82,3 y 81,3 l/m² en 12 horas tras una madrugada con aviso naranja en el litoral norte de Alicante",
-      "lead": "Las lluvias persistentes registradas entre la noche del 3 y el 4 de noviembre dejaron acumulaciones superiores a 80 litros por metro cuadrado en algunas estaciones de la Marina Alta. Els Poblets alcanzó 82,3 l/m² y Pego, 81,3 l/m², en un periodo de 12 horas.",
-      "body_markdown": "Las precipitaciones se concentraron durante la noche del 3 al 4 de noviembre de 2026 en el norte de la Marina Alta, con lluvias persistentes y localmente fuertes. Los registros más elevados recogidos en las estaciones citadas corresponden a Els Poblets, con 82,3 litros por metro cuadrado acumulados en 12 horas, y Pego, con 81,3 litros por metro cuadrado en el mismo periodo.\n\nEl episodio meteorológico se desarrolló bajo distintos niveles de aviso. Durante parte de la madrugada del 4 de noviembre estuvo activo un aviso naranja para el litoral norte de Alicante, zona que incluye la Marina Alta. Posteriormente, el nivel se situó en amarillo, que continuaba durante la mañana del 4 de noviembre.\n\nLa información sobre los acumulados procede de datos de estaciones de AVAMET reproducidos por fuentes informativas. La referencia a los avisos corresponde a la Agencia Estatal de Meteorología (AEMET), organismo competente para su emisión y evolución. La predicción consultada para el entorno de Xàbia describía condiciones muy nubosas durante los días 3 y 4 de noviembre.\n\nLos valores superiores a 80 litros por metro cuadrado se registraron específicamente en Els Poblets y Pego, por lo que no pueden atribuirse al conjunto de municipios de la comarca. La continuidad del aviso amarillo corresponde a la mañana del 4 de noviembre, después de la fase previa de aviso naranja durante la madrugada.",
-      "seo_title": "Lluvias de más de 80 l/m² en la Marina Alta",
-      "meta_description": "Els Poblets y Pego superan los 80 l/m² en 12 horas tras una noche de lluvias y un aviso naranja previo en el litoral norte de Alicante.",
-      "slug": "lluvias-mas-de-80-litros-marina-alta-aviso-amarillo",
+      "headline": "Calp activa el Bono Comercio 2026 con una previsión de 460.000 euros en compras",
+      "subheadline": "El Ayuntamiento aporta 230.000 euros y los bonos, subvencionados al 50%, podrán adquirirse del 6 al 20 de noviembre o hasta agotar existencias",
+      "lead": "La campaña Bono Comercio 2026 ya está prevista en Calp con una aportación municipal de 230.000 euros y un volumen estimado de compras de aproximadamente 460.000 euros. La adquisición y el canje de los bonos se podrán realizar entre el 6 y el 20 de noviembre de 2026, salvo que se agoten antes.",
+      "body_markdown": "El Ayuntamiento de Calp y la Asociación de Empresarios de Calp (AEMCO) respaldan la campaña Bono Comercio 2026, que contempla bonos subvencionados al 50% para facilitar las compras en los establecimientos adheridos.\n\nPodrán adquirirlos las personas empadronadas en Calp mayores de 18 años. La información de la campaña establece como referencia que los beneficiarios deben estar empadronados a 1 de junio de 2026.\n\nLos bonos tendrán importes de 20, 50 y 100 euros. La subvención municipal cubrirá la mitad del valor de cada bono, mientras que la otra mitad correrá a cargo de la persona que lo adquiera, según las condiciones comunicadas para la campaña.\n\nEl periodo previsto para la compra y el canje se extenderá del 6 al 20 de noviembre de 2026. La campaña finalizará antes si se agotan las existencias disponibles.\n\nLa iniciativa cuenta con una aportación del Ayuntamiento de 230.000 euros y prevé movilizar aproximadamente 460.000 euros en compras. Esta segunda cantidad corresponde a una previsión del volumen económico que podría generarse con la utilización de los bonos, por lo que está condicionada a que sean adquiridos y utilizados.\n\nAEMCO confirma también los importes de los bonos, la subvención del 50% y el calendario de compra y canje comunicado para esta edición.",
+      "seo_title": "Calp activa el Bono Comercio 2026 de 460.000 euros",
+      "meta_description": "El Bono Comercio 2026 de Calp contará con 230.000 euros municipales y bonos al 50% de 20, 50 y 100 euros, del 6 al 20 de noviembre.",
+      "slug": "calp-activa-bono-comercio-2026-460000-euros",
       "editorial_notes": [
-        "Las cifras de precipitación proceden de datos de AVAMET reproducidos por fuentes secundarias; conviene mantener la atribución.",
-        "Precisar siempre que los registros de 82,3 y 81,3 l/m² corresponden a Els Poblets y Pego, no a toda la Marina Alta.",
-        "El aviso amarillo se refiere a la mañana del 4 de noviembre, tras un aviso naranja durante parte de la madrugada."
+        "Los 460.000 euros deben presentarse como una previsión de volumen de compras condicionada al uso de los bonos, no como una transferencia municipal íntegra."
       ],
       "sources": [
         {
-          "source_name": "LaMarinaAlta.com",
-          "source_url": "https://lamarinaalta.com/la-lluvia-aprieta-de-noche-en-la-marina-alta-mas-de-80-litros-en-12-horas-y-continua-el-aviso-amarillo",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Actualidad Valencia",
-          "source_url": "https://actualidadvalencia.com/aemet-aviso-lluvias-litoral-sur-valencia-amarillo/",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "EFE / Infobae",
-          "source_url": "https://www.infobae.com/espana/agencias/2026/11/03/aviso-naranja-en-litoral-norte-de-alicante-y-el-litoral-sur-de-valencia-por-lluvias/",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Agencia Estatal de Meteorología (AEMET)",
-          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/playas/el-arenal-0308204",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-una-nueva-campa%C3%B1a-de-bono-comercio-que-inyectar%C3%A1",
           "source_type": "PRIMARY"
         },
         {
-          "source_name": "Agencia Estatal de Meteorología (AEMET)",
-          "source_url": "https://www.aemet.es/es/eltiempo/prediccion/avisos?w=hoy",
+          "source_name": "Asociación de Empresarios de Calp (AEMCO)",
+          "source_url": "https://empresarioscalpe.es/2026/11/02/campana-bono-comercio-calp-2026/",
           "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12469/library",
+          "source_type": "SECONDARY"
         }
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
-        "confidence": "MEDIUM",
-        "supported_claim_count": 4,
-        "evidence_count": 5,
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
         "caveats": [
-          "La formulación 'mantenía el aviso amarillo' es correcta para la mañana del 4 de noviembre, pero el episodio incluyó una fase previa de aviso naranja durante la madrugada.",
-          "Las cifras de 82,3 y 81,3 l/m² proceden de datos de AVAMET reproducidos por una fuente secundaria; no se ha localizado en la búsqueda una página histórica directamente accesible de AVAMET con esos mismos registros.",
-          "La noticia se refiere a la Marina Alta en general: los valores superiores a 80 l/m² se localizaron específicamente en Els Poblets y Pego, no necesariamente en todos los municipios de la comarca."
+          "Los 460.000 euros son una previsión de volumen de compras, condicionada a la utilización de los bonos, no una transferencia municipal íntegra."
+        ]
+      }
+    },
+    {
+      "id": "drf_d1e4c839c36044a3",
+      "investigation_id": "inv_891ed30daeaecbe0",
+      "candidate_fingerprint": "06a6ac2814b2838fc0912832cda20be422a90ea7203f97a84376ece496b7ccbb",
+      "category": "LOCAL",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-11-05T15:30:42.970Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp inicia un contrato de emergencia para asegurar el Club Social La Manzanera",
+      "subheadline": "La actuación prevé acordonar el entorno y reforzar los muros que permanecen en pie tras el derrumbe de parte de la cubierta",
+      "lead": "El Ayuntamiento de Calp ha iniciado un contrato de emergencia para asegurar el Club Social La Manzanera después del derrumbe de parte de la cubierta. La actuación contempla perimetrar y acordonar la zona, además de reforzar y apuntalar las paredes que siguen en pie.",
+      "body_markdown": "El Ayuntamiento de Calp ha puesto en marcha un contrato de emergencia para intervenir en el Club Social La Manzanera tras el derrumbe de parte de la cubierta del inmueble.\n\nSegún la información municipal, los trabajos incluyen el perimetrado y acordonamiento de la zona para asegurar el entorno. También está previsto reforzar y apuntalar las paredes que permanecen en pie.\n\nLa actuación se plantea como una medida de aseguramiento del edificio después de los derrumbes. Las fuentes consultadas no detallan en esta investigación el alcance completo del contrato ni otros aspectos técnicos de la intervención.\n\nEl consistorio mantiene, además, su intención de rehabilitar el Club Social La Manzanera. Esa posición se mantiene pese a una orden de demolición que las fuentes atribuyen a Costas.\n\nEl Ayuntamiento afirma que seguirá defendiendo la rehabilitación del edificio, mientras la actuación de emergencia se centra en acordonar el área y apuntalar los elementos existentes tras el derrumbe de la cubierta.\n\nLa investigación no ha revisado el expediente administrativo completo ni el contenido íntegro de la resolución de demolición atribuida a Costas.",
+      "seo_title": "Calp asegura el Club Social La Manzanera tras el derrumbe",
+      "meta_description": "Calp inicia un contrato de emergencia para acordonar y apuntalar el Club Social La Manzanera tras el derrumbe de parte de la cubierta.",
+      "slug": "calp-contrato-emergencia-asegurar-club-social-la-manzanera",
+      "editorial_notes": [
+        "La orden de demolición se atribuye a Costas según las fuentes consultadas. No se ha revisado el expediente administrativo completo ni el contenido íntegro de la resolución."
+      ],
+      "sources": [
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-insiste-en-la-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12470/calp-contrato-emergencia-apuntalar-club-social-la-manzanera",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp, dosier de prensa",
+          "source_url": "https://noticias.calp.es/es/noticia/dosier-de-prensa-3-de-noviembre-3",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": [
+          "La orden de demolición se atribuye a Costas en las fuentes consultadas; esta investigación no ha revisado el expediente administrativo completo ni el contenido íntegro de la resolución."
         ]
       }
     }
