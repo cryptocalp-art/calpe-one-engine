@@ -1,176 +1,72 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "INVESTIGATION",
-  "generated_at": "2026-11-05T22:00:49.956Z",
+  "generated_at": "2026-11-06T02:29:27.198Z",
   "model": "gpt-5.6-luna",
-  "count": 3,
+  "count": 1,
   "investigations": [
     {
-      "candidate_fingerprint": "8cddf418d6a26631ccc9cd66682d03b95cc0518e1758a4178fe1993a3000221f",
-      "title": "La Policía Local de Calp ampliará la red de videovigilancia con 30 nuevas cámaras",
+      "candidate_fingerprint": "066dfb170cf48f36ae366dd3b94c97745460bcb22e6d7e31582830a1cca2bf6b",
+      "title": "El Ayuntamiento inicia un contrato de emergencia para acordonar el Club Social La Manzanera tras los derrumbes",
       "status": "VERIFIED",
       "confidence": "HIGH",
       "publishable": true,
-      "summary": "La información queda suficientemente corroborada por una publicación oficial del Ayuntamiento y por una fuente periodística independiente. El balance del primer año, las más de 420 horas cedidas, los 32 accidentes esclarecidos, la inversión de 150.000 euros y la instalación prevista de 30 nuevas cámaras están respaldados.",
+      "summary": "La noticia está respaldada por una comunicación oficial del Ayuntamiento de Calp, publicada el 2 de noviembre de 2026, que informa del inicio de un contrato de emergencia para perimetrar y acordonar el Club Social La Manzanera, reforzar y apuntalar las paredes existentes y evitar riesgos tras los derrumbes del fin de semana. Medios locales independientes también informaron del derrumbe, del acordonamiento y de la intervención urgente, así como de la intención municipal de mantener la rehabilitación del inmueble.",
       "claims": [
         {
-          "claim": "La red de videovigilancia de Calp ha cumplido aproximadamente un año de funcionamiento y ha servido de apoyo en investigaciones de tráfico y seguridad vial.",
+          "claim": "El Ayuntamiento de Calp inició el 2 de noviembre de 2026 un contrato de emergencia relacionado con el Club Social La Manzanera.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "Las cámaras han permitido esclarecer directamente 32 accidentes de tráfico y se han cedido más de 420 horas de grabaciones a fuerzas de seguridad y órganos judiciales.",
+          "claim": "El contrato contempla el perimetrado y acordonamiento de la zona para impedir el acceso ante el riesgo de nuevos derrumbes.",
           "status": "SUPPORTED"
         },
         {
-          "claim": "La segunda fase contempla 30 nuevas cámaras, conectadas mediante fibra óptica, con una inversión de 150.000 euros y entrada en funcionamiento prevista en las próximas semanas.",
+          "claim": "La actuación incluye el refuerzo y apuntalamiento de las paredes existentes.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "La medida se adopta después de derrumbes registrados durante el fin de semana, incluido el hundimiento de parte de la cubierta o techo.",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim": "El Ayuntamiento mantiene su intención de rehabilitar o recuperar el inmueble pese a la situación de deterioro y a la posición de la Dirección General de Costas favorable a su demolición.",
           "status": "SUPPORTED"
         }
       ],
       "evidences": [
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/la-polic%C3%ADa-local-destaca-la-eficacia-de-las-c%C3%A1maras-de-videovigilancia-tras-su-primer-a%C3%B1o-de",
-          "evidence": "El Ayuntamiento informa de más de 420 horas de grabaciones cedidas, 32 accidentes esclarecidos y una segunda fase en ejecución con 150.000 euros y 30 nuevas cámaras conectadas mediante fibra óptica.",
+          "source_name": "Ayuntamiento de Calp — Noticias oficiales",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-insiste-en-la-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
+          "evidence": "La nota, fechada el 2 de noviembre de 2026, afirma que el Ayuntamiento continuará intentando recuperar el Club Social La Manzanera pese a los derrumbes del fin de semana. Indica que ese mismo día se inició un contrato de emergencia para el perimetrado y acordonamiento de la zona, y que el contrato incluye el refuerzo y apuntalamiento de las paredes existentes para garantizar la seguridad. También recoge la voluntad municipal de seguir trabajando por la rehabilitación del edificio.",
           "source_type": "PRIMARY"
         },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/11/05/calp-ampliara-la-xarxa-de-videovigilancia-despres-del-balanc-positiu-del-primer-any/",
-          "evidence": "La publicación confirma el balance del primer año, las 32 investigaciones de accidentes, las más de 420 horas de grabaciones cedidas y el anuncio de 30 nuevas cámaras con una inversión de 150.000 euros.",
-          "source_type": "SECONDARY"
-        },
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/calp-instala-las-c%C3%A1maras-de-la-segunda-fase-del-plan-de-videovigilancia",
-          "evidence": "La fuente oficial documenta la segunda fase, la inversión de 150.000 euros, la instalación de una treintena de cámaras y la adjudicación a Elecnor.",
-          "source_type": "PRIMARY"
-        }
-      ],
-      "caveats": [
-        "La cifra de 32 accidentes y las 420 horas procede del informe técnico-operativo citado por el Ayuntamiento; no se ha localizado el informe íntegro publicado separadamente.",
-        "La noticia describe la entrada en funcionamiento como prevista para las próximas semanas, no como una instalación ya finalizada."
-      ],
-      "id": "inv_6de52f88c36750e9",
-      "investigated_at": "2026-11-05T22:00:49.956Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "4792df79542d3c39e5c3ffd33f95241bd5ed9228f52a38f99b737578057cc731",
-      "title": "Calp estrena un nuevo servicio de limpieza de playas con un 40% más de inversión",
-      "status": "VERIFIED",
-      "confidence": "MEDIUM",
-      "publishable": true,
-      "summary": "Los elementos esenciales están respaldados por la publicación de Calp Digital, por el anuncio oficial previo del Ayuntamiento y por una fuente periodística independiente. El contrato fue adjudicado a FCC Medio Ambiente, tiene una duración de cuatro años, alcanza 639.726,71 euros anuales y amplía personal, maquinaria, frecuencias y zonas de actuación.",
-      "claims": [
-        {
-          "claim": "El nuevo servicio de limpieza y mantenimiento de playas está adjudicado a FCC Medio Ambiente por cuatro años y cuenta con una inversión anual de 639.726,71 euros, aproximadamente un 40% superior al servicio anterior.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El servicio incorpora más personal, maquinaria y frecuencia de trabajo, incluyendo 15 efectivos diarios en temporada alta y nueve en temporadas media y baja.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "La prestación amplía su ámbito a calas de difícil acceso y prevé actuaciones puntuales en acantilados, escolleras y zonas rocosas.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "El contrato está en vigor desde el 1 de noviembre de 2026.",
-          "status": "SUPPORTED"
-        }
-      ],
-      "evidences": [
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12482/calp-nuevo-servicio-limpieza-playas-noviembre-2026",
-          "evidence": "La información publicada el 5 de noviembre afirma que el servicio comenzó el 1 de noviembre, fija la inversión anual en 639.726,71 euros, identifica a FCC Medio Ambiente como adjudicataria por cuatro años y detalla los refuerzos de personal, maquinaria, frecuencias y zonas.",
+          "source_url": "https://calpdigital.es/art/12470/calp-contrato-emergencia-apuntalar-club-social-la-manzanera",
+          "evidence": "El medio local informa el 2 de noviembre de 2026 de que el Ayuntamiento inició un contrato de emergencia después del derrumbe de la cubierta del antiguo Club Social. Describe como actuaciones previstas el perimetrado y acordonamiento de la zona y el refuerzo y apuntalamiento de los muros que permanecen en pie, y señala que el consistorio mantiene su intención de recuperar el inmueble.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
-          "evidence": "El Ayuntamiento anunció la adjudicación a FCC Medio Ambiente, una inversión anual de 639.726,71 euros, un incremento del 40%, la puesta en marcha prevista para el 1 de noviembre y las mejoras en personal, temporadas, maquinaria, calas y zonas rocosas.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "MarinaON",
-          "source_url": "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor/",
-          "evidence": "La fuente independiente confirma la adjudicación a FCC, el coste anual, la duración de cuatro años, el inicio previsto el 1 de noviembre y las mejoras en frecuencia, personal, maquinaria y atención a calas de difícil acceso.",
+          "source_name": "El Periodic",
+          "source_url": "https://www.elperiodic.com/calpe/derrumbe-emblematico-edificio-calp-reabre-debate-sobre-futuro-derribo-segunda-vida-para-club-social-manzanera_1100387",
+          "evidence": "La información publicada el 2 de noviembre de 2026 señala que, tras los derrumbes del fin de semana, el Ayuntamiento puso en marcha una actuación de emergencia para acordonar y delimitar el perímetro y reforzar y apuntalar las paredes que permanecen en pie. También informa de que el consistorio mantiene su intención de rehabilitar el edificio frente a la demolición exigida por Costas.",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "Perfil de contratación del servicio de limpieza de Calp",
-          "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
-          "evidence": "El expediente identifica el servicio de limpieza de playas y calas, la adjudicataria FCC Medio Ambiente, la duración de cuatro años y el importe total adjudicado de 639.726,71 euros con IVA.",
+          "source_name": "La Marina Alta",
+          "source_url": "https://lamarinaalta.com/derrumbe-del-techo-del-club-social-la-manzanera-en-calp-el-gobierno-local-abrira-un-expediente-para-su-recuperacion/",
+          "evidence": "El medio informa de que el techo del Club Social La Manzanera se hundió el 1 de noviembre de 2026 sin causar heridos, que la Policía Local acordonó los accesos y que la alcaldesa anunció la apertura de un nuevo expediente para intentar recuperar el conjunto arquitectónico.",
           "source_type": "SECONDARY"
         }
       ],
       "caveats": [
-        "La corroboración independiente confirma el inicio previsto para el 1 de noviembre, mientras que la confirmación de que efectivamente comenzó ese día procede de Calp Digital.",
-        "La cifra de 639.726,71 euros corresponde al importe total con IVA; el expediente también refleja un importe de adjudicación sin IVA de 581.569,74 euros."
+        "No se ha localizado en la búsqueda un expediente de contratación publicado con número, importe, adjudicatario o resolución formal del contrato de emergencia.",
+        "La corroboración independiente confirma el derrumbe, el acordonamiento y la intervención urgente, pero los detalles administrativos del contrato proceden principalmente de la comunicación oficial municipal.",
+        "La intención de rehabilitar el inmueble es una posición política y administrativa del Ayuntamiento, no una garantía de que la rehabilitación vaya a ejecutarse."
       ],
-      "id": "inv_b12ee19f8f53794b",
-      "investigated_at": "2026-11-05T22:00:49.956Z",
-      "model": "gpt-5.6-luna"
-    },
-    {
-      "candidate_fingerprint": "889f66ec5edafc0b7befaa747c14ee38fdce4dbeb17bb8cf87ac7f9a829143da",
-      "title": "El Auditorio de Calp acogerá del 7 al 29 de noviembre el XIV Certamen Nacional de Teatro Amateur",
-      "status": "NEEDS_RESEARCH",
-      "confidence": "MEDIUM",
-      "publishable": false,
-      "summary": "La existencia del certamen, el periodo general hasta el 29 de noviembre, las tres compañías finalistas, la entrada gratuita y los 7.500 euros en premios están respaldados por fuentes oficiales. Sin embargo, existe una contradicción material sobre las fechas de las tres representaciones: la nota oficial publicada el 3 de noviembre indica 7, 14 y 15 de noviembre, mientras que las bases oficiales del BOP fijan 8, 15 y 22 de noviembre. No debe publicarse sin aclarar cuál es el calendario vigente.",
-      "claims": [
-        {
-          "claim": "El Ayuntamiento organiza el XIV Certamen Nacional de Teatro Amateur Antonio Ferrer, El Cartero, con actividades en el Auditorio de la Casa de Cultura entre el 7 y el 29 de noviembre de 2026.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las compañías finalistas proceden de Teruel, Aranda de Duero y Madrid.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las representaciones y la clausura son de entrada libre hasta completar aforo y el certamen reparte 7.500 euros en premios.",
-          "status": "SUPPORTED"
-        },
-        {
-          "claim": "Las tres representaciones de la fase final se celebrarán los días 7, 14 y 15 de noviembre.",
-          "status": "CONTRADICTED"
-        }
-      ],
-      "evidences": [
-        {
-          "source_name": "Ayuntamiento de Calp",
-          "source_url": "https://noticias.calp.es/es/noticia/el-auditorio-de-calp-acoge-del-7-al-29-de-noviembre-el-xiv-certamen-nacional-de-teatro",
-          "evidence": "La nota oficial del 3 de noviembre anuncia representaciones los días 7, 14 y 15 de noviembre, clausura el 29 de noviembre, compañías de Teruel, Aranda de Duero y Madrid, entrada libre y 7.500 euros en premios.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Boletín Oficial de la Provincia de Alicante / Ayuntamiento de Calp",
-          "source_url": "https://cultura.calp.es/sites/default/files/Bases%20convocatoria%20XIV%20Certamen%20Nacional%20de%20Teatro%20Amateur%20Antonio%20Ferrer%20el%20cartero%202026.pdf",
-          "evidence": "Las bases oficiales publicadas en el BOP establecen las representaciones de la fase final para los domingos 8, 15 y 22 de noviembre de 2026 y la clausura para el 29 de noviembre. También fijan la dotación económica total de 7.500 euros.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "Tourist Info Calpe",
-          "source_url": "https://calpe.es/es/eventos/xiv-certamen-nacional-teatro-amateur-antonio-ferrer-el-cartero-0",
-          "evidence": "La agenda municipal confirma al menos una representación del certamen el 14 de noviembre a las 19:00, en el Auditorio de la Casa de Cultura y con entrada libre.",
-          "source_type": "PRIMARY"
-        },
-        {
-          "source_name": "La Marina Plaza",
-          "source_url": "https://lamarina.eldiario.es/2026/11/03/tres-companyies-de-terol-aranda-de-duero-i-madrid-competixen-en-el-certamen-de-teatre-amateur-de-calp",
-          "evidence": "La publicación periodística identifica el certamen y las tres compañías finalistas de Teruel, Aranda de Duero y Madrid, pero reproduce el calendario difundido por el Ayuntamiento y no resuelve la discrepancia con las bases del BOP.",
-          "source_type": "SECONDARY"
-        }
-      ],
-      "caveats": [
-        "Las bases oficiales del BOP y la nota municipal de 3 de noviembre no coinciden en las fechas de las representaciones.",
-        "La agenda municipal consultada confirma el 14 de noviembre, pero no permite establecer por sí sola el calendario completo actualizado.",
-        "Se necesita confirmación directa de la Concejalía de Cultura o del Auditorio antes de publicar las fechas concretas de las tres funciones."
-      ],
-      "id": "inv_849a4ae2dc60d138",
-      "investigated_at": "2026-11-05T22:00:49.956Z",
+      "id": "inv_c2d7ed97dbf1f866",
+      "investigated_at": "2026-11-06T02:29:27.198Z",
       "model": "gpt-5.6-luna"
     }
   ]
