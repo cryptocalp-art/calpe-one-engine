@@ -2,25 +2,32 @@
   "engine": "CALPE ONE ENGINE",
   "module": "CONTROL_ROOM",
   "version": "control-room-v1",
-  "generated_at": "2026-11-06T02:30:03.247Z",
+  "generated_at": "2026-11-06T10:57:59.271Z",
   "overall_status": "ATENCIÓN",
-  "last_activity": "2026-11-06T02:30:03.089Z",
+  "last_activity": "2026-11-06T10:57:59.111Z",
   "newspaper": {
-    "archive_total": 144,
-    "published_today": 0,
-    "published_last_7_days": 12,
+    "archive_total": 145,
+    "published_today": 1,
+    "published_last_7_days": 13,
     "categories": {
+      "TURISMO": 14,
       "SUCESOS": 23,
       "MEDIO_AMBIENTE": 26,
       "ECONOMIA": 22,
       "SOCIEDAD": 18,
       "CULTURA": 8,
-      "TURISMO": 13,
       "LOCAL": 18,
       "POLITICA": 11,
       "DEPORTES": 5
     },
     "latest_articles": [
+      {
+        "archive_id": "arc_b3f71be30afe0a97",
+        "title": "Calp participa en la World Travel Market de Londres para reforzar su promoción turística",
+        "category": "TURISMO",
+        "slug": "calp-promocion-turistica-world-travel-market-londres",
+        "published_at": "2026-11-06T10:57:23.716Z"
+      },
       {
         "archive_id": "arc_a5fd6351d7a807f4",
         "title": "La Policía Local de Calp ampliará la red de videovigilancia con 30 nuevas cámaras",
@@ -69,23 +76,16 @@
         "category": "ECONOMIA",
         "slug": "calp-diferencia-renta-secciones-censales-2024",
         "published_at": "2026-11-03T15:12:05.008Z"
-      },
-      {
-        "archive_id": "arc_47e9c467b9cade2c",
-        "title": "La Cubana actuará por primera vez en Calp con tres funciones en noviembre",
-        "category": "CULTURA",
-        "slug": "la-cubana-primera-actuacion-calp-noviembre",
-        "published_at": "2026-11-02T15:59:29.175Z"
       }
     ]
   },
   "editorial_cycle": {
-    "radar_candidates": 5,
+    "radar_candidates": 9,
     "investigated": 0,
-    "drafts": 1,
-    "eligible": 1,
-    "quarantined": 0,
-    "archive_added": 0
+    "drafts": 3,
+    "eligible": 2,
+    "quarantined": 1,
+    "archive_added": 1
   },
   "delivery": {
     "distribution_failed": 0,
@@ -104,5 +104,15 @@
     "npm_high": 1,
     "npm_critical": 0
   },
-  "quarantine": []
+  "quarantine": [
+    {
+      "draft_id": "drf_f11d4f001967e8ba",
+      "slug": "almoradi-denuncia-supuestos-insultos-racistas-calp",
+      "category": "SOCIEDAD",
+      "reasons": [
+        "INSTITUTIONAL_OR_POLITICAL_NEEDS_PRIMARY_SOURCE"
+      ],
+      "evaluated_at": "2026-11-06T10:57:44.092Z"
+    }
+  ]
 }

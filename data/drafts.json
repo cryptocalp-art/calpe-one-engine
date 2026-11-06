@@ -1,51 +1,91 @@
 {
   "engine": "CALPE ONE ENGINE",
   "module": "WRITER",
-  "generated_at": "2026-11-06T02:29:45.711Z",
+  "generated_at": "2026-11-06T10:57:23.716Z",
   "model": "gpt-5.6-luna",
-  "count": 1,
+  "count": 3,
   "drafts": [
     {
-      "id": "drf_58a445a70963ea5a",
-      "investigation_id": "inv_c2d7ed97dbf1f866",
-      "candidate_fingerprint": "066dfb170cf48f36ae366dd3b94c97745460bcb22e6d7e31582830a1cca2bf6b",
-      "category": "LOCAL",
+      "id": "drf_ee99028c4a5208a9",
+      "investigation_id": "inv_482d72709e9dcb42",
+      "candidate_fingerprint": "11859a43d28446ef18984a64646ea717c3d0bfd4ff9997824432f9770c5d4010",
+      "category": "MEDIO_AMBIENTE",
       "status": "PENDING_GATE",
       "quality_gate_required": true,
-      "created_at": "2026-11-06T02:29:45.711Z",
+      "created_at": "2026-11-06T10:57:23.716Z",
       "model": "gpt-5.6-luna",
-      "headline": "El Ayuntamiento activa un contrato de emergencia para acordonar el Club Social La Manzanera tras los derrumbes",
-      "subheadline": "La actuación prevé delimitar el perímetro, impedir el acceso y reforzar y apuntalar las paredes que permanecen en pie",
-      "lead": "El Ayuntamiento de Calp inició el 2 de noviembre un contrato de emergencia para asegurar el entorno del Club Social La Manzanera después de los derrumbes registrados durante el fin de semana, incluido el hundimiento de parte de la cubierta del inmueble.",
-      "body_markdown": "El Ayuntamiento de Calp ha puesto en marcha un contrato de emergencia para actuar en el Club Social La Manzanera tras los derrumbes registrados durante el fin de semana. La intervención contempla el perimetrado y acordonamiento de la zona con el objetivo de impedir el acceso ante el riesgo de nuevos desprendimientos.\n\nSegún la comunicación municipal, fechada el 2 de noviembre de 2026, los trabajos también incluyen el refuerzo y apuntalamiento de las paredes existentes. La actuación se plantea como una medida de seguridad después del hundimiento de parte de la cubierta o techo del antiguo Club Social.\n\nLa información publicada por medios locales coincide en que los accesos fueron acordonados y que se activó una intervención urgente para delimitar el perímetro y asegurar los muros que permanecen en pie. La Marina Alta informó de que el hundimiento del techo se produjo el 1 de noviembre y de que no causó heridos.\n\nEl Ayuntamiento mantiene, además, su intención de rehabilitar o recuperar el inmueble pese a su estado de deterioro y a la posición de la Dirección General de Costas favorable a su demolición. Esta voluntad municipal forma parte de la posición administrativa del consistorio y no supone que la rehabilitación vaya a ejecutarse.\n\nLa comunicación oficial no detalla el número de expediente de contratación, el importe, la empresa adjudicataria ni una resolución formal del contrato de emergencia. Esos datos no constan en la información disponible para este borrador.",
-      "seo_title": "Contrato de emergencia para el Club Social La Manzanera",
-      "meta_description": "El Ayuntamiento de Calp activa un contrato de emergencia para acordonar, reforzar y apuntalar el Club Social La Manzanera tras los derrumbes.",
-      "slug": "contrato-emergencia-club-social-la-manzanera",
-      "editorial_notes": [
-        "No publicar como confirmados el número de expediente, el importe, la adjudicataria o la resolución formal: no constan en las evidencias disponibles.",
-        "La rehabilitación o recuperación es una intención del Ayuntamiento, no una garantía de ejecución.",
-        "Los detalles administrativos del contrato proceden principalmente de la comunicación oficial municipal."
-      ],
+      "headline": "Calp pone en marcha un servicio de limpieza de playas con un 40% más de inversión",
+      "subheadline": "El contrato, adjudicado a FCC Medio Ambiente por cuatro años, comenzó a prestarse el 1 de noviembre con más recursos y zonas de actuación.",
+      "lead": "El nuevo servicio de limpieza y mantenimiento de playas y calas de Calp entró en funcionamiento el 1 de noviembre de 2026 con una inversión anual de 639.726,71 euros, un 40% superior a la del servicio anterior. El contrato ha sido adjudicado a FCC Medio Ambiente, S.A.U., por un periodo de cuatro años.",
+      "body_markdown": "El Ayuntamiento de Calp ha puesto en marcha el nuevo servicio de limpieza y mantenimiento del litoral, adjudicado a FCC Medio Ambiente, S.A.U. El contrato contempla una inversión anual de 639.726,71 euros, lo que supone un incremento del 40% respecto al servicio anterior.\n\nLa prestación comenzó el 1 de noviembre y amplía los recursos destinados a los trabajos de mantenimiento. Según la información disponible, el servicio incorpora más personal, maquinaria y frecuencia de trabajo, además de extender las zonas de actuación.\n\nEntre las áreas incluidas figuran las calas de difícil acceso, así como acantilados, escolleras y zonas rocosas. El contrato también prevé actuaciones puntuales en otros puntos del litoral, además de las tareas habituales de limpieza de playas y calas.\n\nLa adjudicación tiene una duración de cuatro años. La documentación del expediente de contratación identifica el servicio como el correspondiente a la limpieza y mantenimiento de playas y calas del municipio.\n\nCon la entrada en vigor del contrato, el servicio amplía tanto la cobertura territorial como los medios previstos para atender el litoral de Calp. La información publicada no detalla en este expediente el número concreto de nuevos efectivos ni la frecuencia específica asignada a cada zona.",
+      "seo_title": "Calp aumenta un 40% la inversión en limpieza de playas",
+      "meta_description": "El nuevo servicio de limpieza de playas y calas de Calp entra en vigor con 639.726,71 euros anuales, un 40% más de inversión.",
+      "slug": "calp-aumenta-inversion-limpieza-playas",
+      "editorial_notes": [],
       "sources": [
         {
-          "source_name": "Ayuntamiento de Calp — Noticias oficiales",
-          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-insiste-en-la-rehabilitaci%C3%B3n-del-club-social-la-manzanera",
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/el-ayuntamiento-de-calp-pone-en-marcha-el-nuevo-servicio-de-limpieza-y-mantenimiento-de",
           "source_type": "PRIMARY"
         },
         {
           "source_name": "Calp Digital",
-          "source_url": "https://calpdigital.es/art/12470/calp-contrato-emergencia-apuntalar-club-social-la-manzanera",
+          "source_url": "https://calpdigital.es/art/12482/cal",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "El Periodic",
-          "source_url": "https://www.elperiodic.com/calpe/derrumbe-emblematico-edificio-calp-reabre-debate-sobre-futuro-derribo-segunda-vida-para-club-social-manzanera_1100387",
+          "source_name": "Plataforma de contratación pública / expediente MIX.SER 05/2026",
+          "source_url": "https://licitacion.eu/tenders/69ecb561e18218bdde7e2f50",
+          "source_type": "PRIMARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 3,
+        "caveats": []
+      }
+    },
+    {
+      "id": "drf_49f0ebee1fe185ff",
+      "investigation_id": "inv_8e224d1023c3c37f",
+      "candidate_fingerprint": "cf7a6f832fa9c6a0505191a671d2b48cf89c688ab999686e4cd0c9dc0b62f2b4",
+      "category": "TURISMO",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-11-06T10:57:23.716Z",
+      "model": "gpt-5.6-luna",
+      "headline": "Calp participa en la World Travel Market de Londres para reforzar su promoción turística",
+      "subheadline": "La presencia se integró en la estrategia de Costa Blanca y Turisme Comunitat Valenciana, con atención al mercado británico.",
+      "lead": "Calp participó en la World Travel Market de Londres de 2026 dentro de la estrategia promocional de Costa Blanca y bajo el paraguas de Turisme Comunitat Valenciana. La jornada inaugural de la feria se celebró el 3 de noviembre y la agenda incluyó reuniones con operadores y empresas turísticas internacionales.",
+      "body_markdown": "Calp formó parte de la presencia institucional de la Costa Blanca en la World Travel Market de Londres de 2026, una participación desarrollada bajo el paraguas de Turisme Comunitat Valenciana. La feria reunió una agenda de promoción turística internacional en la que el mercado británico figuró entre los principales objetivos.\n\nLa jornada inaugural se celebró el 3 de noviembre. Durante el encuentro se plantearon acciones orientadas a consolidar la presencia en el Reino Unido y a generar oportunidades con operadores internacionales y empresas del sector turístico.\n\nLa agenda de la feria incluyó reuniones con operadores y plataformas turísticas internacionales. La participación de Calp se enmarcó junto a la de otros municipios de la Costa Blanca dentro de la estrategia conjunta de promoción del destino.\n\nLa presencia en Londres da continuidad al trabajo de promoción internacional previsto para este periodo, con especial atención al mercado británico. La información disponible acredita la participación institucional de Calp y la existencia de una agenda promocional, pero no permite identificar de forma individual qué reuniones concretas mantuvo cada representante del municipio.\n\nPor ese motivo, este expediente no atribuye a representantes concretos reuniones o acuerdos específicos durante la feria. La cobertura consultada tampoco aporta resultados cerrados de las gestiones realizadas más allá del objetivo de reforzar el posicionamiento turístico y establecer oportunidades con operadores internacionales.",
+      "seo_title": "Calp refuerza su promoción turística en Londres",
+      "meta_description": "Calp participa en la World Travel Market 2026 dentro de la estrategia de Costa Blanca, con el mercado británico como objetivo.",
+      "slug": "calp-promocion-turistica-world-travel-market-londres",
+      "editorial_notes": [
+        "La información acredita la participación institucional y la agenda promocional, pero no permite verificar qué reuniones concretas mantuvo cada representante de Calp. Mantener esa limitación en cualquier ampliación."
+      ],
+      "sources": [
+        {
+          "source_name": "Diputación de Alicante",
+          "source_url": "https://www.diputacionalicante.es/ca/noticias/la-costa-blanca-refuerza-su-posicionamiento-internacional-en-la-feria-world-travel-market-de-londres/",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Ayuntamiento de Calp",
+          "source_url": "https://noticias.calp.es/es/noticia/calp-prepara-su-promoci%C3%B3n-internacional-de-2027-en-la-convenci%C3%B3n-turespa%C3%B1a",
+          "source_type": "PRIMARY"
+        },
+        {
+          "source_name": "Calp Digital",
+          "source_url": "https://calpdigital.es/art/12481/calp-promocion-turistica-world-travel-market-londres-2026",
           "source_type": "SECONDARY"
         },
         {
-          "source_name": "La Marina Alta",
-          "source_url": "https://lamarinaalta.com/derrumbe-del-techo-del-club-social-la-manzanera-en-calp-el-gobierno-local-abrira-un-expediente-para-su-recuperacion/",
-          "source_type": "SECONDARY"
+          "source_name": "World Travel Market London",
+          "source_url": "https://www.wtm.com/content/dam/sitebuilder/rxuk/wtmkt/documents/WTM-London-Media-Guide-2026.pdf.coredownload.931796669.pdf",
+          "source_type": "PRIMARY"
         }
       ],
       "provenance": {
@@ -54,9 +94,60 @@
         "supported_claim_count": 5,
         "evidence_count": 4,
         "caveats": [
-          "No se ha localizado en la búsqueda un expediente de contratación publicado con número, importe, adjudicatario o resolución formal del contrato de emergencia.",
-          "La corroboración independiente confirma el derrumbe, el acordonamiento y la intervención urgente, pero los detalles administrativos del contrato proceden principalmente de la comunicación oficial municipal.",
-          "La intención de rehabilitar el inmueble es una posición política y administrativa del Ayuntamiento, no una garantía de que la rehabilitación vaya a ejecutarse."
+          "La cobertura consultada acredita la participación institucional y la agenda promocional, pero no permite verificar individualmente qué reuniones concretas mantuvo cada representante de Calp."
+        ]
+      }
+    },
+    {
+      "id": "drf_f11d4f001967e8ba",
+      "investigation_id": "inv_62053e53f5a6eaa0",
+      "candidate_fingerprint": "e7eae5af58245e1417d6abec97f232d24ad768a578c5d8a3d98c1ed43ff3ace5",
+      "category": "SOCIEDAD",
+      "status": "PENDING_GATE",
+      "quality_gate_required": true,
+      "created_at": "2026-11-06T10:57:23.716Z",
+      "model": "gpt-5.6-luna",
+      "headline": "El CD Almoradí denuncia supuestos insultos racistas durante un partido en Calp",
+      "subheadline": "El club afirma que su jugador Javier Lizardo fue objeto de expresiones racistas durante el calentamiento y que recibió disculpas del CF Calpe.",
+      "lead": "El CD Almoradí denunció públicamente supuestos insultos racistas dirigidos a su jugador Javier Lizardo durante el calentamiento del partido disputado el 1 de noviembre entre el CF Calpe y el CD Almoradí, en el campo municipal de Calp. El club visitante afirmó también que recibió disculpas de la directiva y del cuerpo técnico del CF Calpe.",
+      "body_markdown": "El CD Almoradí hizo pública una denuncia por supuestos insultos racistas contra su jugador Javier Lizardo durante el calentamiento previo al partido que enfrentó al CF Calpe y al conjunto almoradidense el 1 de noviembre de 2026 en el campo municipal de Calp.\n\nSegún la versión difundida por el CD Almoradí, las expresiones se produjeron desde la grada y fueron dirigidas al jugador mientras se encontraba en la banda durante el calentamiento. El club visitante comunicó el caso públicamente y desvinculó de los hechos al CF Calpe y a la mayoría de su afición, según la información recogida en las publicaciones consultadas.\n\nEl CD Almoradí afirmó asimismo que recibió disculpas de la directiva y del cuerpo técnico del CF Calpe. Esas disculpas constan como parte de la comunicación realizada por el club visitante.\n\nLa existencia de la denuncia y de las disculpas está recogida por varias fuentes, pero los hechos denunciados no han podido confirmarse de forma independiente en este expediente. No se ha localizado una resolución arbitral, policial o federativa que determine quién habría realizado las expresiones, cuál fue su literalidad o si se produjo intervención policial.\n\nPor tanto, la información debe entenderse como la denuncia pública del CD Almoradí y no como una confirmación independiente de los insultos. Este texto mantiene el carácter atribuido de los hechos y no identifica a ninguna persona como autora.",
+      "seo_title": "El Almoradí denuncia supuestos insultos racistas en Calp",
+      "meta_description": "El CD Almoradí denuncia supuestos insultos racistas contra Javier Lizardo durante un partido en el campo municipal de Calp.",
+      "slug": "almoradi-denuncia-supuestos-insultos-racistas-calp",
+      "editorial_notes": [
+        "Mantener en todo momento la atribución al CD Almoradí y el término 'supuestos'. No presentar como hechos confirmados los insultos, su literalidad, la identidad del autor ni la ausencia de intervención policial."
+      ],
+      "sources": [
+        {
+          "source_name": "La Marina Plaza",
+          "source_url": "https://lamarina.eldiario.es/ca/2026/11/04/denuncien-insults-racistes-en-un-partit-de-futbol-disputat-al-camp-municipal-de-calp/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "El Periòdic",
+          "source_url": "https://www.elperiodic.com/palicante/negro-mierda-almoradi-denuncia-insultos-racistas-javier-lizardo-mientras-calentaba-calp_1101014",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "3D Vega Baja",
+          "source_url": "https://3dvegabaja.com/el-almoradi-denuncia-insultos-racistas-a-uno-de-sus-jugadores/",
+          "source_type": "SECONDARY"
+        },
+        {
+          "source_name": "Fare Network",
+          "source_url": "https://www.livequote.org/author?bsky_handle=farenet.bsky.social",
+          "source_type": "SECONDARY"
+        }
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "MEDIUM",
+        "supported_claim_count": 4,
+        "evidence_count": 4,
+        "caveats": [
+          "La existencia de la denuncia y de las disculpas está corroborada por varias fuentes, pero esas publicaciones se basan principalmente en el comunicado del CD Almoradí.",
+          "No se ha localizado una resolución arbitral, policial o federativa que confirme de forma independiente la identidad del autor, la literalidad de los insultos o la ausencia de intervención policial.",
+          "La redacción publicable debe mantener el carácter atribuido: 'según denunció el CD Almoradí' o 'supuestos insultos racistas'."
         ]
       }
     }

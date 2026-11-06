@@ -3,9 +3,73 @@
   "module": "ARCHIVE",
   "version": "archive-v1",
   "created_at": "2026-09-25T19:16:53.619Z",
-  "updated_at": "2026-11-06T02:29:54.308Z",
-  "count": 144,
+  "updated_at": "2026-11-06T10:57:44.327Z",
+  "count": 145,
   "articles": [
+    {
+      "archive_id": "arc_b3f71be30afe0a97",
+      "external_id": "drf_49f0ebee1fe185ff",
+      "investigation_id": "inv_8e224d1023c3c37f",
+      "candidate_fingerprints": [
+        "cf7a6f832fa9c6a0505191a671d2b48cf89c688ab999686e4cd0c9dc0b62f2b4"
+      ],
+      "title": "Calp participa en la World Travel Market de Londres para reforzar su promoción turística",
+      "slug": "calp-promocion-turistica-world-travel-market-londres",
+      "summary": "Calp participó en la World Travel Market de Londres de 2026 dentro de la estrategia promocional de Costa Blanca y bajo el paraguas de Turisme Comunitat Valenciana. La jornada inaugural de la feria se celebró el 3 de noviembre y la agenda incluyó reuniones con operadores y empresas turísticas internacionales.",
+      "body": "Calp formó parte de la presencia institucional de la Costa Blanca en la World Travel Market de Londres de 2026, una participación desarrollada bajo el paraguas de Turisme Comunitat Valenciana. La feria reunió una agenda de promoción turística internacional en la que el mercado británico figuró entre los principales objetivos.\n\nLa jornada inaugural se celebró el 3 de noviembre. Durante el encuentro se plantearon acciones orientadas a consolidar la presencia en el Reino Unido y a generar oportunidades con operadores internacionales y empresas del sector turístico.\n\nLa agenda de la feria incluyó reuniones con operadores y plataformas turísticas internacionales. La participación de Calp se enmarcó junto a la de otros municipios de la Costa Blanca dentro de la estrategia conjunta de promoción del destino.\n\nLa presencia en Londres da continuidad al trabajo de promoción internacional previsto para este periodo, con especial atención al mercado británico. La información disponible acredita la participación institucional de Calp y la existencia de una agenda promocional, pero no permite identificar de forma individual qué reuniones concretas mantuvo cada representante del municipio.\n\nPor ese motivo, este expediente no atribuye a representantes concretos reuniones o acuerdos específicos durante la feria. La cobertura consultada tampoco aporta resultados cerrados de las gestiones realizadas más allá del objetivo de reforzar el posicionamiento turístico y establecer oportunidades con operadores internacionales.",
+      "category": "TURISMO",
+      "seo_title": "Calp refuerza su promoción turística en Londres",
+      "meta_description": "Calp participa en la World Travel Market 2026 dentro de la estrategia de Costa Blanca, con el mercado británico como objetivo.",
+      "sources": [
+        {
+          "name": "Diputación de Alicante",
+          "url": "https://www.diputacionalicante.es/ca/noticias/la-costa-blanca-refuerza-su-posicionamiento-internacional-en-la-feria-world-travel-market-de-londres/",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Ayuntamiento de Calp",
+          "url": "https://noticias.calp.es/es/noticia/calp-prepara-su-promoci%C3%B3n-internacional-de-2027-en-la-convenci%C3%B3n-turespa%C3%B1a",
+          "type": "PRIMARY"
+        },
+        {
+          "name": "Calp Digital",
+          "url": "https://calpdigital.es/art/12481/calp-promocion-turistica-world-travel-market-londres-2026",
+          "type": "SECONDARY"
+        },
+        {
+          "name": "World Travel Market London",
+          "url": "https://www.wtm.com/content/dam/sitebuilder/rxuk/wtmkt/documents/WTM-London-Media-Guide-2026.pdf.coredownload.931796669.pdf",
+          "type": "PRIMARY"
+        }
+      ],
+      "source_urls": [
+        "https://www.diputacionalicante.es/ca/noticias/la-costa-blanca-refuerza-su-posicionamiento-internacional-en-la-feria-world-travel-market-de-londres",
+        "https://noticias.calp.es/es/noticia/calp-prepara-su-promoci%C3%B3n-internacional-de-2027-en-la-convenci%C3%B3n-turespa%C3%B1a",
+        "https://calpdigital.es/art/12481/calp-promocion-turistica-world-travel-market-londres-2026",
+        "https://www.wtm.com/content/dam/sitebuilder/rxuk/wtmkt/documents/WTM-London-Media-Guide-2026.pdf.coredownload.931796669.pdf"
+      ],
+      "provenance": {
+        "investigation_status": "VERIFIED",
+        "confidence": "HIGH",
+        "supported_claim_count": 5,
+        "evidence_count": 4,
+        "caveats": [
+          "La cobertura consultada acredita la participación institucional y la agenda promocional, pero no permite verificar individualmente qué reuniones concretas mantuvo cada representante de Calp."
+        ],
+        "quality_gate_status": "ELIGIBLE",
+        "quality_gate_version": "quality-gate-v1",
+        "quality_gate_id": "qg_82a2c70762cedb4d",
+        "quality_gate_evaluated_at": "2026-11-06T10:57:44.092Z",
+        "quality_gate_warnings": []
+      },
+      "editorial_notes": [
+        "La información acredita la participación institucional y la agenda promocional, pero no permite verificar qué reuniones concretas mantuvo cada representante de Calp. Mantener esa limitación en cualquier ampliación."
+      ],
+      "published_at": "2026-11-06T10:57:23.716Z",
+      "updated_at": "2026-11-06T10:57:44.327Z",
+      "status": "PUBLISHED",
+      "engine_version": "archive-v1"
+    },
     {
       "archive_id": "arc_a5fd6351d7a807f4",
       "external_id": "drf_275b068a6010c00e",
@@ -8587,7 +8651,8 @@
         "83adfbdd0ad9affff461626f6bcc7782b0898eaaf316a53ea0cb4499a32477c6",
         "2f24e68af1f283438440179cd4f94b69cdfa385295bedf5eb3af2db340278c4f",
         "67e2ef586968ab46c7d3c20b4b21aa1b850c4646c31561e523f65d3a248b90ca",
-        "4792df79542d3c39e5c3ffd33f95241bd5ed9228f52a38f99b737578057cc731"
+        "4792df79542d3c39e5c3ffd33f95241bd5ed9228f52a38f99b737578057cc731",
+        "11859a43d28446ef18984a64646ea717c3d0bfd4ff9997824432f9770c5d4010"
       ],
       "title": "Calp adjudica a FCC el nuevo servicio de limpieza de playas por 639.726,71 euros anuales",
       "slug": "calp-adjudica-limpieza-playas-fcc-639726-euros",
@@ -8627,7 +8692,8 @@
         "https://contratos.gobierto.es/licitaciones/5090926",
         "https://marinaon.com/calp-refuerza-la-limpieza-de-sus-playas-con-un-contrato-un-40-mayor",
         "https://www.elperiodic.com/val/calpe/lajuntament-calp-posa-marxa-servici-neteja-manteniment-platges-major-inversio-mitjans-prestacions_1094618",
-        "https://calpdigital.es/art/12482/calp-nuevo-servicio-limpieza-playas-noviembre-2026"
+        "https://calpdigital.es/art/12482/calp-nuevo-servicio-limpieza-playas-noviembre-2026",
+        "https://calpdigital.es/art/12482/cal"
       ],
       "provenance": {
         "investigation_status": "VERIFIED",
@@ -8642,7 +8708,7 @@
         "La cifra utilizada es la inversión anual comunicada por el Ayuntamiento; el registro de contratación diferencia entre oferta adjudicada e importe total del contrato."
       ],
       "published_at": "2026-09-25T19:04:08.736Z",
-      "updated_at": "2026-11-05T22:01:44.869Z",
+      "updated_at": "2026-11-06T10:57:44.327Z",
       "status": "PUBLISHED",
       "engine_version": "archive-v1"
     },
